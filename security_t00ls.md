@@ -304,6 +304,7 @@
 - https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 - https://github.com/Go0s/SitePathScan    （SitePathScan 是一个扫描路径的脚本工具，配合aiohttp比之前快了三倍有余）
 #### 模块化设计扫描器或漏洞检测框架
+- https://github.com/x-Ai/BurpUnlimitedre   (burp 1.7.27的破解版)   sqlipy
 - https://github.com/nmap/nmap  （这还用说么）
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
