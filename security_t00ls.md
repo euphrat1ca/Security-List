@@ -32,6 +32,9 @@
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+#### 流量分析
+- https://github.com/x-Ai/BurpUnlimitedre   (burpsuite 1.7.27的破解版)
+- https://github.com/summitt/Burp-Non-HTTP-Extension    （burpsuite联动插件内置小型DNS服务器抓取流量）
 #### 科学上网
 - https://github.com/bannedbook/fanqiang
 - https://github.com/zzhgithub/ss-panel （搭建分布式ss管理工具）
@@ -76,6 +79,8 @@
 - http://llvm.org/docs/LibFuzzer.html
 #### 数据库类漏洞扫描器或爆破工具
 - https://github.com/sqlmapproject/sqlmap   哇这还用说么
+- https://github.com/codewatchorg/sqlipy    （burpsuite联动插件，基于sqlmap）
+- https://github.com/shack2/SuperSQLInjectionV1 （安恒航牛的一款界面化注入工具）
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -304,7 +309,6 @@
 - https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 - https://github.com/Go0s/SitePathScan    （SitePathScan 是一个扫描路径的脚本工具，配合aiohttp比之前快了三倍有余）
 #### 模块化设计扫描器或漏洞检测框架
-- https://github.com/x-Ai/BurpUnlimitedre   (burp 1.7.27的破解版)   sqlipy
 - https://github.com/nmap/nmap  （这还用说么）
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
