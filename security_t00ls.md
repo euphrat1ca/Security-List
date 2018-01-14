@@ -15,11 +15,24 @@
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
 - https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表
 - https://sec-wiki.com/                                                      sec-wiki安全维基百科
+- https://github.com/SecWiki/sec-chart    （安全思维导图集合）
 - https://github.com/jmortega/python-pentesting    python-pentesting-tool（python安全工具相关功能模块）
 - https://github.com/Manisso/fsociety    linux下类似于kali的工具包一键安装工具
 - https://github.com/kbandla/APTnotes    （各种公开的文件和相关的APT笔记，还有恶意软件样本的哈希）
 - https://github.com/lcamry/sqli-labs  （mysql相关的注入手法）
 - https://github.com/l3m0n/pentest_study    （从零开始内网渗透学习）
+- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+
+#### EXP与POC收集
+- https://github.com/breenmachine/RottenPotatoNG    （利用NBNS本地域名欺骗和WPAD代理欺骗提权）
+- https://github.com/foxglovesec/Potato    （利用本地域名欺骗和代理欺骗提权）
+- https://github.com/SecWiki/CMS-Hunter    （CMS漏洞测试用例集合）
+- https://github.com/SecWiki/linux-kernel-exploits    （linux-kernel-exploits Linux平台提权漏洞集合）
+- https://github.com/SecWiki/windows-kernel-exploits    （windows-kernel-exploits Windows平台提权漏洞集合）
+- https://github.com/Mr5m1th/0day    （）
+- https://github.com/GDSSecurity/Windows-Exploit-Suggester    （）
+- https://github.com/mzet-/linux-exploit-suggester    （）
+
 #### 漏洞复现与学习
 - https://github.com/vulhub/vulhub  （Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像）
 - https://github.com/Medicean/VulApps  （收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。）
@@ -27,22 +40,35 @@
 - https://github.com/Audi-1/sqli-labs  （基于SQLite的注入学习get/post）
 - https://github.com/ethicalhack3r/DVWA （PHP/MySQL web application模拟环境）
 - https://github.com/bkimminich/juice-shop  （OWASP Juice Shop is an intentionally insecure web application written entirely in JavaScript which encompasses the entire range of OWASP Top Ten and other）
+
 #### waf开源及规则
 - https://github.com/SpiderLabs/ModSecurity
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
-- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+
+#### fuzz工具收集
+- https://github.com/fuzzdb-project/fuzzdb  （fuzz资料数据库）
+- https://github.com/ivanfratric/winafl
+- https://github.com/attekett/NodeFuzz
+- https://github.com/google/oss-fuzz
+- http://blog.topsec.com.cn/ad_lab/alphafuzzer/
+- http://llvm.org/docs/LibFuzzer.html
+
 #### 流量分析
 - https://github.com/x-Ai/BurpUnlimitedre  (burpsuite 1.7.27的破解版)
 - https://github.com/summitt/Burp-Non-HTTP-Extension    （burpsuite联动插件内置小型DNS服务器抓取流量）
+
 #### 科学上网
 - https://github.com/bannedbook/fanqiang
 - https://github.com/zzhgithub/ss-panel （搭建分布式ss管理工具）
 - https://github.com/GouveaHeitor/nipe    （一个使所有流量通过Tor网络发出的脚本）
+
 #### 钓鱼、社工相关
 - https://github.com/trustedsec/social-engineer-toolkit （kali内置的SET神奇社工工具）
 - https://github.com/Saferman/cupper    （社工字典生成工具）
 - https://github.com/mehulj94/Radium-Keylogger  （python下的键盘记录工具）
+- http://tool.chacuo.net/mailanonymous    （任意发件人发送邮件、伪造发件人发送电子邮件、伪造电子邮件地址发送邮件--查错网）
+
 #### 远程管理工具
 - https://github.com/Chora10/Cknife （中国菜刀java）
 - https://github.com/keepwn/Altman  （the cross platform webshell tool in .NET）
@@ -52,16 +78,20 @@
 - https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
 - https://github.com/n1nj4sec/pupy  （跨平台的Python远程管理工具，Windows, Linux, OSX, Android）
 - https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
+
 #### CTF相关工具
 - https://github.com/0Chencc/CTFCrackTools  （首个CTF工具框架）
 - https://github.com/bugsafe/WeReport  （WeReport报告助手）
 - https://github.com/Gallopsled/pwntools    （CTF夺旗赛的破解工具）
+
 #### 恶意软件
 - https://github.com/deadPix3l/CryptSky/    （勒索软件）
 - https://github.com/jgamblin/Mirai-Source-Code （蠕虫病毒）
+
 #### DDOS
 - https://github.com/ywjt/Dshield    （防护）
 - https://github.com/NewEraCracker/LOIC/    （一个为Windows设计的网络压力测试工具(现已支持Mac OS——译者注)）
+
 #### webshell检测或病毒分析工具
 - https://github.com/ym2011/ScanBackdoor （一款简洁的Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
@@ -73,13 +103,7 @@
 - https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
 - https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
 - https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
-#### fuzz工具收集
-- https://github.com/fuzzdb-project/fuzzdb  （fuzz资料数据库）
-- https://github.com/ivanfratric/winafl
-- https://github.com/attekett/NodeFuzz
-- https://github.com/google/oss-fuzz
-- http://blog.topsec.com.cn/ad_lab/alphafuzzer/
-- http://llvm.org/docs/LibFuzzer.html
+
 #### 数据库类漏洞扫描器或爆破工具
 - https://github.com/sqlmapproject/sqlmap  哇这还用说么
 - https://github.com/codewatchorg/sqlipy    （burpsuite联动插件，基于sqlmap）
@@ -101,10 +125,12 @@
 - https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
 - https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
 - https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
+
 #### 弱口令/弱用户名扫描器或爆破工具
 - https://github.com/hashcat/hashcat    （哈希破解）
+- https://github.com/magnumripper/JohnTheRipper    （密码破解，与 Metasploit 同属于 Rapid7 家族）
 - https://github.com/fireeye/gocrack （基于hashcat 3.6.0+的分布式密码破解工具）
-- https://github.com/ory/hydra  （九头蛇密码破解神器）
+- https://github.com/vanhauser-thc/thc-hydra  （九头蛇密码破解神器）
 - https://github.com/testsecer/Md5Decrypt （基于web API的MD5破解工具）
 - https://github.com/lijiejie/htpwdScan (一个简单的- http暴力破解、撞库攻击脚本)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
@@ -113,6 +139,7 @@
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
+
 #### 物联网设备识别工具或扫描器
 - https://github.com/reverse-shell/routersploit  （路由器漏洞利用框架）
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
@@ -121,6 +148,7 @@
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/googleinurl/RouterHunterBR （路由器设备漏洞扫描利用)
 - https://github.com/scu-igroup/telnet-scanner (Telnet服务密码撞库)
+
 #### 反射型或DOM-Based XSS扫描器与xss利用框架
 - https://github.com/beefproject/beef  （经典的xss利用框架）
 - https://github.com/evilcos/xssor2 （余弦写的xss利用辅助工具）
@@ -134,6 +162,7 @@
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效XSS扫描器）
 - https://github.com/bsmali4/xssfork    （kali下无法使用的话，请下载正确的PhantomJS到目录thirdparty/phantomjs/Linux）
+
 #### 企业资产管理或信息泄露搜集工具
 - https://github.com/haccer/tweep  （使用twitter API进行twitter信息爬取查询）
 - https://github.com/0x09AL/raven  （linux下领英Linkedin information gathering tool）
@@ -150,20 +179,24 @@
 - https://github.com/0xbug/Hawkeye (企业资产、敏感信息GitHub泄露监控系统）
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
+- https://github.com/BugScanTeam/GitHack
 - https://github.com/lijiejie/GitHack (`.git`文件夹泄漏利用工具) 
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 - https://github.com/D4Vinci/Cr3dOv3r    （Cr3dOv3r - 根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具）
+
 #### 高级持续性威胁(APT)相关工具
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 - https://github.com/r00t-3xp10it/FakeImageExploiter  （图片后门捆绑利用工具 – FakeImageExploiter）
 - https://github.com/harleyQu1nn/AggressorScripts  （Cobalt Strike相关插件）
 - https://github.com/Und3rf10w/Aggressor-scripts    （Cobalt Strike相关插件）
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit    （Cobalt Strike相关插件）
+
 #### 无线网络（审计）扫描器
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
+- https://github.com/aircrack-ng/aircrack-ng    （由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成）
 - https://github.com/wifiphisher/wifiphisher    （wifiphisher是一种安全工具，安装自动钓鱼攻击受害者定制为WiFi客户端攻击获得证书或恶意软件感染的受害者）
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
@@ -172,10 +205,12 @@
 - https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
 - https://github.com/derv82/wifite2 （自动化无线网络攻击工具wifite的重构版本）
 - https://github.com/cls1991/ng    （Get password of the wifi you're connected, and your current ip address.）
+
 #### 局域网络（本地网络）扫描器
 - https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
 - https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
+
 #### 内网渗透、密码抓取、扫描工具
 - https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用代理工具，它建立在密码学、安全通信和灵活的架构之上。）
@@ -188,17 +223,20 @@
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 - https://github.com/0xwindows/VulScritp              （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
 - https://github.com/fdiskyou/hunter            （调用 Windows API 枚举用户登录信息）
+
 #### 子域名枚举扫描器或爆破工具
-- https://github.com/n4xh4ck5/N4xD0rk （利用搜索引擎来搜集子域名，可以使用西班牙语搜集）
-- https://github.com/jonluca/Anubis    (Python 3.6 Anubis collates data from a variety of sources, including HackerTarget, DNSDumpster, x509 certs, VirusTotal, Google, Pkey, and NetCraft)
 - https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
 - https://github.com/ring04h/wydomain (猪猪侠开发的一款域名收集全面、精准的子域名枚举工具)
+- https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
+- https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
+- https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
+- https://github.com/n4xh4ck5/N4xD0rk （利用搜索引擎来搜集子域名，可以使用西班牙语搜集）
+- https://github.com/jonluca/Anubis    (Python 3.6 Anubis collates data from a variety of sources, including HackerTarget, DNSDumpster, x509 certs, VirusTotal, Google, Pkey, and NetCraft)
 - https://github.com/le4f/dnsmaper (子域名枚举爆破工具以及地图位置标记)
 - https://github.com/0xbug/orangescan (提供web界面的在线子域名信息收集工具)
 - https://github.com/TheRook/subbrute （高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库)
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
-- https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker （多方式收集目标子域名信息）
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
@@ -207,10 +245,9 @@
 - https://github.com/evilsocket/dnssearch (一款子域名爆破工具)
 - https://github.com/reconned/domained (可用于子域名收集的一款工具）
 - https://github.com/bit4woo/Teemo (域名收集及枚举工具)
-- https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
-- https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
+
 #### 专用（即特定性针对某些组件）扫描器
 - https://github.com/hvqzao/liffy    （本地文件包含漏洞利用工具）
 - https://github.com/D35m0nd142/Kadabra    （自动化本地文件包含漏洞扫描和利用工具）
@@ -258,6 +295,7 @@
 - https://github.com/milesrichardson/docker-onion-nmap (使用nmap扫描Tor网络上隐藏的"onion"服务)
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit 工具,包含针对主流 CMS 的 66 个不同的 Exploits)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
+
 #### 中间件扫描器或识别工具
 - https://github.com/theLSA/s2sniper    （s2sniper:针对struts2漏洞的检测工具）
 - https://github.com/Lucifer1993/struts-scan    （快速检测struts命令执行漏洞，可批量。）
@@ -316,6 +354,7 @@
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 - https://github.com/Go0s/SitePathScan    （SitePathScan 是一个扫描路径的脚本工具，配合aiohttp比之前快了三倍有余）
+
 #### 模块化设计扫描器或漏洞检测框架
 - https://github.com/OpenWireSec/metasploit    （神器）
 - https://github.com/juansacco/exploitpack    （开源漏洞利用测试（Exploit）平台）
@@ -356,6 +395,7 @@
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/andresriancho/w3af （知名插件化扫描器）
+
 #### 代码审计工具或扫描器
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
@@ -366,5 +406,6 @@
 - https://github.com/python-security/pyt (Python应用静态代码审计）
 - https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
 - https://github.com/elcodigok/wphardening    （加强任何WordPress安装的安全）
+
 #### 工控安全相关工具
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
