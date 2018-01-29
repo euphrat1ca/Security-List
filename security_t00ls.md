@@ -21,7 +21,7 @@
 - https://github.com/kbandla/APTnotes    （各种公开的文件和相关的APT笔记，还有恶意软件样本的哈希）
 - https://github.com/lcamry/sqli-labs  （mysql相关的注入手法）
 - https://github.com/l3m0n/pentest_study    （从零开始内网渗透学习）
-- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+- https://github.com/jshaw87/Cheatsheets    （渗透测试/安全秘籍/笔记）
 
 #### EXP与POC收集
 - https://github.com/breenmachine/RottenPotatoNG    （利用NBNS本地域名欺骗和WPAD代理欺骗提权）
@@ -45,6 +45,7 @@
 - https://github.com/SpiderLabs/ModSecurity
 - https://github.com/xsec-lab/x-waf
 - https://github.com/loveshell/ngx_lua_waf
+- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
 
 #### fuzz工具收集
 - https://github.com/fuzzdb-project/fuzzdb  （fuzz资料数据库）
@@ -93,25 +94,26 @@
 - https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
 - https://github.com/elcodigok/wphardening    （加强任何WordPress安装的安全）
 
+#### DDOS
+- https://github.com/ywjt/Dshield    （防护）
+- https://github.com/NewEraCracker/LOIC/    （一个为Windows设计的网络压力测试工具(现已支持Mac OS——译者注)）
 
 #### 钓鱼、社工相关
 - https://github.com/trustedsec/social-engineer-toolkit （kali内置的SET神奇社工工具）
 - https://github.com/Saferman/cupper    （社工字典生成工具）
 - https://github.com/mehulj94/Radium-Keylogger  （python下的键盘记录工具）
 - http://tool.chacuo.net/mailanonymous    （任意发件人发送邮件、伪造发件人发送电子邮件、伪造电子邮件地址发送邮件--查错网）
+- https://github.com/gophish/gophish    （它提供了快速，轻松地设置和执行钓鱼攻击和安全意识培训的能力。）
 
 #### 高级持续性威胁(APT)相关工具
-- https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀
-- https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
+- https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    （一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀）
 - https://github.com/r00t-3xp10it/FakeImageExploiter  （图片后门捆绑利用工具 – FakeImageExploiter）
 - https://github.com/peewpw/Invoke-PSImage    （将PS脚本隐藏进PNG像素中并用一行指令去执行它）
+- https://github.com/r00t-3xp10it/trojanizer    （将用户提供的两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件）
+- https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 - https://github.com/harleyQu1nn/AggressorScripts  （Cobalt Strike相关插件）
 - https://github.com/Und3rf10w/Aggressor-scripts    （Cobalt Strike相关插件）
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit    （Cobalt Strike相关插件）
-
-#### DDOS
-- https://github.com/ywjt/Dshield    （防护）
-- https://github.com/NewEraCracker/LOIC/    （一个为Windows设计的网络压力测试工具(现已支持Mac OS——译者注)）
 
 #### 恶意软件
 - https://github.com/deadPix3l/CryptSky/    （勒索软件）
@@ -120,13 +122,16 @@
 #### 远程管理工具
 - https://github.com/Chora10/Cknife （中国菜刀java）
 - https://github.com/keepwn/Altman  （the cross platform webshell tool in .NET）
+- https://github.com/n1nj4sec/pupy  （跨平台的Python远程管理工具，Windows, Linux, OSX, Android）
+- https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
+- https://github.com/vesche/basicRAT    （Python 2.x远程访问木马（RAT），basicRAT是为了保持一个干净的设计全功能的Python RAT而创建的）
+- https://github.com/sweetsoftware/Ares    （Ares是一个Python远程访问工具）
+- https://github.com/ahhh/Reverse_DNS_Shell    （一个使用DNS作为C2通道的Python反向Shell）
+- https://github.com/Screetsec/TheFatRat    （可以简单生成远控工具Create backdoor for windows , linux , mac and android，一定程度免杀过防火墙）
 - https://github.com/R-Smith/Splice-Admin  （Windows下的远程进程、文件管理工具）
 - https://github.com/quasar/QuasarRAT  （Windows下的远程进程、文件管理工具）
 - https://github.com/AhMyth/AhMyth-Android-RAT  （安卓远程管理工具smali）
 - https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
-- https://github.com/n1nj4sec/pupy  （跨平台的Python远程管理工具，Windows, Linux, OSX, Android）
-- https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
-- https://github.com/Screetsec/TheFatRat    （可以简单生成远控工具Create backdoor for windows , linux , mac and android，一定程度免杀过防火墙）
 
 #### 内网渗透、密码抓取、扫描工具
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用代理工具，它建立在密码学、安全通信和灵活的架构之上。）
@@ -137,17 +142,21 @@
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
-- https://github.com/0xwindows/VulScritp              （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
-- https://github.com/fdiskyou/hunter            （调用 Windows API 枚举用户登录信息）
+- https://github.com/0xwindows/VulScritp    （企业内网渗透脚本，包括banner扫描、端口扫描；各种通用漏洞利用等）
+- https://github.com/fdiskyou/hunter    （调用 Windows API 枚举用户登录信息）
 - https://github.com/DanMcInerney/icebreaker    （python 内网域自动化渗透脚本）
 - https://github.com/Screetsec/Vegile    （Vegile is a tool for Post exploitation Techniquesin linux 内网）
+- https://github.com/m8r0wn/nullinux    （用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。）
 
 #### 数据库类漏洞扫描器或爆破工具
-- https://github.com/sqlmapproject/sqlmap  （哇这还用说么）
-- https://github.com/codewatchorg/sqlipy    （burpsuite联动插件，基于sqlmap）
-- https://github.com/shack2/SuperSQLInjectionV1 （安恒航牛的一款界面化注入工具）
-- https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
+- https://github.com/KINGSABRI/sqlmap-tamper-api    （利用各种语言来编写sqlmapTamper）
+- https://github.com/codewatchorg/sqlipy    （burpsuite联动插件，基于sqlmap）
+- https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
+- https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
+- https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
+- https://github.com/m8r0wn/enumdb    （MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。）
+- https://github.com/shack2/SuperSQLInjectionV1 （安恒航牛的一款界面化注入工具）
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
 - https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
@@ -157,12 +166,10 @@
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 - https://github.com/missDronio/blindy (MySQL盲注爆破工具）
-- https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
 - https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
 - https://github.com/JohnTroony/Blisqy （用于- http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
 - https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
 - https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
-- https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
 
 #### 反射型或DOM-Based XSS扫描器与xss利用框架
 - https://github.com/beefproject/beef  （经典的xss利用框架）
