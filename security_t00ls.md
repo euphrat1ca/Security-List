@@ -24,14 +24,15 @@
 - https://github.com/jshaw87/Cheatsheets    （渗透测试/安全秘籍/笔记）
 
 #### EXP与POC收集
+- https://github.com/SecWiki/CMS-Hunter    （CMS漏洞测试用例集合）
+- https://github.com/Mr5m1th/0day    （各种开源CMS 各种版本的漏洞以及EXP）
+- https://github.com/SecWiki/linux-kernel-exploits    （linux-kernel-exploits Linux平台提权漏洞集合）
+- https://github.com/mzet-/linux-exploit-suggester    （linux各版本内核漏洞利用建议脚本）
+- https://github.com/SecWiki/windows-kernel-exploits    （windows-kernel-exploits Windows平台提权漏洞集合）
+- https://github.com/GDSSecurity/Windows-Exploit-Suggester    （查找windows有哪些补丁没有打的脚本）
+- https://github.com/Coalfire-Research/java-deserialization-exploits    （java反序列化漏洞收集）
 - https://github.com/breenmachine/RottenPotatoNG    （利用NBNS本地域名欺骗和WPAD代理欺骗提权）
 - https://github.com/foxglovesec/Potato    （利用本地域名欺骗和代理欺骗提权）
-- https://github.com/SecWiki/CMS-Hunter    （CMS漏洞测试用例集合）
-- https://github.com/SecWiki/linux-kernel-exploits    （linux-kernel-exploits Linux平台提权漏洞集合）
-- https://github.com/SecWiki/windows-kernel-exploits    （windows-kernel-exploits Windows平台提权漏洞集合）
-- https://github.com/Mr5m1th/0day    （）
-- https://github.com/GDSSecurity/Windows-Exploit-Suggester    （）
-- https://github.com/mzet-/linux-exploit-suggester    （）
 
 #### 漏洞复现与学习
 - https://github.com/vulhub/vulhub  （Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像）
@@ -110,10 +111,12 @@
 - https://github.com/r00t-3xp10it/FakeImageExploiter  （图片后门捆绑利用工具 – FakeImageExploiter）
 - https://github.com/peewpw/Invoke-PSImage    （将PS脚本隐藏进PNG像素中并用一行指令去执行它）
 - https://github.com/r00t-3xp10it/trojanizer    （将用户提供的两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件）
+- https://github.com/govolution/avet    （针对windows、msf的免杀工具）
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 - https://github.com/harleyQu1nn/AggressorScripts  （Cobalt Strike相关插件）
 - https://github.com/Und3rf10w/Aggressor-scripts    （Cobalt Strike相关插件）
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit    （Cobalt Strike相关插件）
+- https://github.com/nccgroup/redsnarf    （基于python和ps的Windows下域渗透控制工具）
 
 #### 恶意软件
 - https://github.com/deadPix3l/CryptSky/    （勒索软件）
@@ -155,6 +158,8 @@
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
 - https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
+- https://github.com/ysrc/GourdScanV2 （ysrc出品的被动式漏洞扫描工具，基于sqlmapapi)
+- https://github.com/zt2/sqli-hunter    （基于sqlmapapi，ruby编写的漏洞代理型检测工具）
 - https://github.com/m8r0wn/enumdb    （MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。）
 - https://github.com/shack2/SuperSQLInjectionV1 （安恒航牛的一款界面化注入工具）
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -173,6 +178,7 @@
 
 #### 反射型或DOM-Based XSS扫描器与xss利用框架
 - https://github.com/beefproject/beef  （经典的xss利用框架）
+- https://github.com/samdenty99/injectify    （类似beef的中间人攻击框架）
 - https://github.com/evilcos/xssor2 （余弦写的xss利用辅助工具）
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    （蓝莲花战队为CTF打造的xss利用框架）
 - https://github.com/shawarkhanethicalhacker/BruteXSS （一款XSS扫描器,可暴力注入参数）
@@ -200,6 +206,7 @@
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 
 #### 企业资产管理或信息泄露搜集工具
+- https://github.com/famavott/osint-scraper    （输入人名或邮箱地址, 自动从互联网爬取关于此人的信息）
 - https://github.com/haccer/tweep  （使用twitter API进行twitter信息爬取查询）
 - https://github.com/0x09AL/raven  （linux下领英Linkedin information gathering tool）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
@@ -360,6 +367,7 @@
 - https://github.com/OpenWireSec/metasploit    （神器）
 - https://github.com/rsmudge/armitage    （metasploit界面化测试工具）
 - https://github.com/D4Vinci/One-Lin3r    （metasploit、payload辅助查询工具）
+- https://github.com/NullArray/AutoSploit    （利用Shodan 搜索引擎收集目标, 并自动调用设定的Metasploit 模块对目标发动攻击）
 - https://github.com/juansacco/exploitpack    （开源漏洞利用测试（Exploit）平台）
 - https://github.com/nil0x42/phpsploit    （一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作）
 - https://github.com/nmap/nmap  （这还用说么）
@@ -371,7 +379,6 @@
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
-- https://github.com/ysrc/GourdScanV2 （ysrc出品的被动式漏洞扫描工具)
 - https://github.com/netxfly/passive_scan (基于- http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
