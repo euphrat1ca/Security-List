@@ -72,8 +72,9 @@
 - https://github.com/bugsafe/WeReport  （WeReport报告助手）
 - https://github.com/Gallopsled/pwntools    （CTF夺旗赛的破解工具）
 
-#### webshell检测或病毒分析工具
+#### 后门检测或病毒分析工具
 - https://github.com/ym2011/ScanBackdoor （一款简洁的Webshell扫描工具）
+- https://github.com/1lastBr3ath/drmine    （自动化检测网页是否包含挖矿脚本的工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
 - https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
@@ -95,7 +96,7 @@
 - https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
 - https://github.com/elcodigok/wphardening    （加强任何WordPress安装的安全）
 
-#### DDOS
+#### DDOS相关
 - https://github.com/ywjt/Dshield    （防护）
 - https://github.com/NewEraCracker/LOIC/    （一个为Windows设计的网络压力测试工具(现已支持Mac OS——译者注)）
 
@@ -129,6 +130,7 @@
 - https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
 - https://github.com/vesche/basicRAT    （Python 2.x远程访问木马（RAT），basicRAT是为了保持一个干净的设计全功能的Python RAT而创建的）
 - https://github.com/sweetsoftware/Ares    （Ares是一个Python远程访问工具）
+- https://github.com/micle-fm/Parat    （基于python，与telegram联动，windows下的远程控制工具）
 - https://github.com/ahhh/Reverse_DNS_Shell    （一个使用DNS作为C2通道的Python反向Shell）
 - https://github.com/Screetsec/TheFatRat    （可以简单生成远控工具Create backdoor for windows , linux , mac and android，一定程度免杀过防火墙）
 - https://github.com/R-Smith/Splice-Admin  （Windows下的远程进程、文件管理工具）
@@ -150,6 +152,7 @@
 - https://github.com/DanMcInerney/icebreaker    （python 内网域自动化渗透脚本）
 - https://github.com/Screetsec/Vegile    （Vegile is a tool for Post exploitation Techniquesin linux 内网）
 - https://github.com/m8r0wn/nullinux    （用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。）
+- https://github.com/mthbernardes/sshLooter    （从ssh服务中窃取用户名密码）
 
 #### 数据库类漏洞扫描器或爆破工具
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
@@ -223,9 +226,10 @@
 - https://github.com/FeeiCN/GSIL    （python3，近实时监控Github敏感信息泄露，并发送告警通知。）
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
-- https://github.com/BugScanTeam/GitHack
+- https://github.com/BugScanTeam/GitHack    (`.git`文件夹泄漏利用工具) 
 - https://github.com/lijiejie/GitHack (`.git`文件夹泄漏利用工具) 
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
+- https://github.com/zricethezav/gitleaks    （检查git repo中的秘密和密钥）
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/x0day/Multisearch-v2  (搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
@@ -303,7 +307,8 @@
 - https://github.com/jagracey/Regex-DoS (RegEx 拒绝服务扫描器)
 - https://github.com/milesrichardson/docker-onion-nmap (使用nmap扫描Tor网络上隐藏的"onion"服务)
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit 工具,包含针对主流 CMS 的 66 个不同的 Exploits)
-- https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
+- https://github.com/lijiejie/BBScan    (一个迷你的信息泄漏批量扫描脚本)
+- https://github.com/1N3/BlackWidow    （基于 Python 实现的 Web 爬虫， 用于收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试）
 
 #### 中间件扫描器或识别工具
 - https://github.com/theLSA/s2sniper    （s2sniper:针对struts2漏洞的检测工具）
@@ -438,6 +443,7 @@
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
 
 #### 物联网设备识别工具或扫描器
+- http://stascorp.com    （毛子开发的路由器漏洞利用工具，界面化很强大）
 - https://github.com/reverse-shell/routersploit  （路由器漏洞利用框架）
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器漏洞扫描利用)
 - https://github.com/RUB-NDS/PRET                （打印机攻击框架）
