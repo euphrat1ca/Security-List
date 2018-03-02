@@ -6,6 +6,14 @@
 ***
 
 #### 相关学习资料
+- https://github.com/k4m4/movies-for-hackers    （安全相关电影！！！）
+- https://github.com/Hack-with-Github/Awesome-Hacking    （GitHub万星推荐：黑客成长技术清单）
+- https://github.com/xazlsec    （信安之路）
+- https://sec-wiki.com/                                                      sec-wiki安全维基百科
+- https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表
+- https://github.com/l3m0n/pentest_study    （从零开始内网渗透学习）
+- https://github.com/jshaw87/Cheatsheets    （渗透测试/安全秘籍/笔记）
+- https://github.com/kbandla/APTnotes    （各种公开的文件和相关的APT笔记，还有恶意软件样本的哈希）
 - https://wizardforcel.gitbooks.io/web-hacking-101/content/                  Web Hacking 101 中文版
 - https://wizardforcel.gitbooks.io/asani/content/                            浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content/                            Android 渗透测试学习手册 中文版
@@ -13,15 +21,10 @@
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
 - https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
-- https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表
-- https://sec-wiki.com/                                                      sec-wiki安全维基百科
 - https://github.com/SecWiki/sec-chart    （安全思维导图集合）
 - https://github.com/jmortega/python-pentesting    python-pentesting-tool（python安全工具相关功能模块）
 - https://github.com/Manisso/fsociety    linux下类似于kali的工具包一键安装工具
-- https://github.com/kbandla/APTnotes    （各种公开的文件和相关的APT笔记，还有恶意软件样本的哈希）
 - https://github.com/lcamry/sqli-labs  （mysql相关的注入手法）
-- https://github.com/l3m0n/pentest_study    （从零开始内网渗透学习）
-- https://github.com/jshaw87/Cheatsheets    （渗透测试/安全秘籍/笔记）
 
 #### EXP与POC收集
 - https://github.com/SecWiki/CMS-Hunter    （CMS漏洞测试用例集合）
@@ -109,6 +112,7 @@
 - https://github.com/n0tr00t/Sreg    （Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。）
 
 #### 高级持续性威胁(APT)相关工具
+- https://github.com/OsandaMalith/Exe2Image    （exe转换为图片的工具）
 - https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    （一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀）
 - https://github.com/r00t-3xp10it/FakeImageExploiter  （图片后门捆绑利用工具 – FakeImageExploiter）
 - https://github.com/peewpw/Invoke-PSImage    （将PS脚本隐藏进PNG像素中并用一行指令去执行它）
@@ -241,6 +245,7 @@
 - https://github.com/D4Vinci/Cr3dOv3r    （Cr3dOv3r - 根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具）
 
 #### 子域名枚举扫描器或爆破工具
+- https://github.com/FeeiCN/ESD    （python3下的，快速搜集工具）
 - https://github.com/OJ/gobuster    （GO语言编写的用来根据dns查询子域名和web目录爆破的工具）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
 - https://github.com/alpha1e0/pentestdb    （多用途集成化信息搜集工具）
