@@ -140,12 +140,13 @@
 - https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
 - https://github.com/tiagorlampert/CHAOS    （go语言编写的win下的简单后门工具）
 
-#### 内网渗透、密码抓取、扫描工具
+#### 后渗透、密码抓取、内网工具
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用代理工具，它建立在密码学、安全通信和灵活的架构之上。）
 - https://github.com/nccgroup/redsnarf    （类似msf的windows下后渗透，不留痕迹）
 - https://github.com/AlessandroZ/LaZagne    （基于python的跨平台本机密码抓取工具）
 - https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
 - https://github.com/gentilkiwi/mimikatz    （Windows 下密码抓取渗透神器）
+- https://github.com/UltimateHackers/JShell    （通过对方一个恶意脚本来获取对方浏览器的js shell）
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
@@ -419,7 +420,7 @@
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/viraintel/OWASP-Nettacker    （自动化渗透测试框架）
-- https://github.com/m4ll0k/WAScan    （python下的简单扫描器）
+- https://github.com/m4ll0k/WAScan    （python下的Web App安全扫描器. 以"黑箱"的方式查找App的各种漏洞. 类似于Fuzzer,扫描页面, 提权链接/脚本/Form, 发送Payload等）
 
 #### 无线网络（审计）扫描器
 - https://github.com/SYWorks/waidps    （WAIDPS 是一个 Python 编写的无线入侵检测工具，基于 Linux 平台）
@@ -442,6 +443,7 @@
 #### 中间人攻击
 - https://github.com/LionSec/xerosploit    （是一个渗透测试工具包，其目的是执行中间人攻击的测试目的）
 - https://github.com/evilsocket/bettercap    （是一款优秀的 MITM 攻击测试框架）
+- https://github.com/bettercap/bettercap    （中间人攻击第二个版本）
 #### 局域网络（本地网络）扫描器
 - https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
