@@ -106,6 +106,7 @@
 - https://github.com/mehulj94/Radium-Keylogger  （python下的键盘记录工具）
 - http://tool.chacuo.net/mailanonymous    （任意发件人发送邮件、伪造发件人发送电子邮件、伪造电子邮件地址发送邮件--查错网）
 - https://github.com/gophish/gophish    （它提供了快速，轻松地设置和执行钓鱼攻击和安全意识培训的能力。）
+- https://github.com/n0tr00t/Sreg    （Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。）
 
 #### 高级持续性威胁(APT)相关工具
 - https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    （一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀）
@@ -129,17 +130,19 @@
 - https://github.com/n1nj4sec/pupy  （跨平台的Python远程管理工具，Windows, Linux, OSX, Android）
 - https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
 - https://github.com/vesche/basicRAT    （Python 2.x远程访问木马（RAT），basicRAT是为了保持一个干净的设计全功能的Python RAT而创建的）
+- https://github.com/Screetsec/TheFatRat    （可以简单生成远控工具Create backdoor for windows , linux , mac and android，一定程度免杀过防火墙）
 - https://github.com/sweetsoftware/Ares    （Ares是一个Python远程访问工具）
 - https://github.com/micle-fm/Parat    （基于python，与telegram联动，windows下的远程控制工具）
 - https://github.com/ahhh/Reverse_DNS_Shell    （一个使用DNS作为C2通道的Python反向Shell）
-- https://github.com/Screetsec/TheFatRat    （可以简单生成远控工具Create backdoor for windows , linux , mac and android，一定程度免杀过防火墙）
-- https://github.com/R-Smith/Splice-Admin  （Windows下的远程进程、文件管理工具）
+- https://github.com/R-Smith/Splice-Admin  （Windows下的进程、文件管理工具）
 - https://github.com/quasar/QuasarRAT  （Windows下的远程进程、文件管理工具）
-- https://github.com/AhMyth/AhMyth-Android-RAT  （安卓远程管理工具smali）
+- https://github.com/AhMyth/AhMyth-Android-RAT  （Windows下安卓远程管理工具smali）
 - https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
+- https://github.com/tiagorlampert/CHAOS    （go语言编写的win下的简单后门工具）
 
 #### 内网渗透、密码抓取、扫描工具
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用代理工具，它建立在密码学、安全通信和灵活的架构之上。）
+- https://github.com/nccgroup/redsnarf    （类似msf的windows下后渗透，不留痕迹）
 - https://github.com/AlessandroZ/LaZagne    （基于python的跨平台本机密码抓取工具）
 - https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
 - https://github.com/gentilkiwi/mimikatz    （Windows 下密码抓取渗透神器）
@@ -153,6 +156,7 @@
 - https://github.com/Screetsec/Vegile    （Vegile is a tool for Post exploitation Techniquesin linux 内网）
 - https://github.com/m8r0wn/nullinux    （用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。）
 - https://github.com/mthbernardes/sshLooter    （从ssh服务中窃取用户名密码）
+- https://github.com/sensepost/reGeorg    （提供了php，asp，jsp脚本的反向代理工具）
 
 #### 数据库类漏洞扫描器或爆破工具
 - https://github.com/sqlmapproject/sqlmap （注入工具之王sqlmap）
@@ -238,6 +242,7 @@
 #### 子域名枚举扫描器或爆破工具
 - https://github.com/OJ/gobuster    （GO语言编写的用来根据dns查询子域名和web目录爆破的工具）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
+- https://github.com/alpha1e0/pentestdb    （多用途集成化信息搜集工具）
 - https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
 - https://github.com/ring04h/wydomain (猪猪侠开发的一款域名收集全面、精准的子域名枚举工具)
 - https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
@@ -329,6 +334,7 @@
 - https://github.com/RASSec/RASscan (端口服务扫描)
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
 - https://github.com/3xp10it/xcdn (尝试找出cdn背后的真实ip)
+- 3xp10it.github.io    (楼上blog)
 - https://github.com/Xyntax/BingC （基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
 - https://github.com/zer0h/- httpscan （一个爬虫式的网段Web主机发现小工具）
 - https://github.com/lietdai/doom （thorn上实现的分布式任务分发的ip端口漏洞扫描器）
@@ -364,7 +370,7 @@
 - https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
 - https://github.com/m3liot/shcheck (用于检查web服务的- http header的安全性)
 - https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
-- https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
+- https://github.com/fnk0c/cangibrina 华盟君吐血整理2017网络精品教程(通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 - https://github.com/Go0s/SitePathScan    （SitePathScan 是一个扫描路径的脚本工具，配合aiohttp比之前快了三倍有余）
 
@@ -378,6 +384,7 @@
 - https://github.com/nmap/nmap  （这还用说么）
 - https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
 - https://github.com/andresriancho/w3af （知名插件化扫描器）
+- https://github.com/Eitenne/roxysploit    （漏洞利用框架，支持永恒之蓝直接利用）
 - https://github.com/sullo/nikto (Web服务综合型扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
 - https://github.com/UltimateHackers/Striker (一款多方位信息收集、指纹识别及漏洞扫描工具）
 - https://github.com/Ekultek/Zeus-Scanner    （宙斯扫描器，联动Geckodriver，nmap和sqlmap）
@@ -412,6 +419,7 @@
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/viraintel/OWASP-Nettacker    （自动化渗透测试框架）
+- https://github.com/m4ll0k/WAScan    （python下的简单扫描器）
 
 #### 无线网络（审计）扫描器
 - https://github.com/SYWorks/waidps    （WAIDPS 是一个 Python 编写的无线入侵检测工具，基于 Linux 平台）
