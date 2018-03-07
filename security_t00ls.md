@@ -219,11 +219,14 @@
 
 #### 企业资产管理或信息泄露搜集工具
 - https://github.com/famavott/osint-scraper    （输入人名或邮箱地址, 自动从互联网爬取关于此人的信息）
+- https://github.com/sa7mon/S3Scanner    （扫描amazon公开的S3 buckets和dump）
+- https://github.com/initstring/linkedin2username    （通过领英获取相关公司员工列表）
 - https://github.com/haccer/tweep  （使用twitter API进行twitter信息爬取查询）
 - https://github.com/0x09AL/raven  （linux下领英Linkedin information gathering tool）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
+- https://github.com/Viralmaniar/Passhunt    （用于搜索网络设备，Web应用程序等的默认凭证的简单工具。搜索523供应商和他们的2084默认密码。）
 - https://github.com/maya6/SiteScan （资产收集 python3 celery）
 - https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
 - https://github.com/rootlabs/nWatch    （Tool for - Host Discovery, Port Scanning and Operating System Fingerprinting）
@@ -273,6 +276,7 @@
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 
 #### 专用（即特定性针对某些组件）扫描器
+- https://github.com/Graph-X/davscan    （DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹。）
 - https://github.com/hvqzao/liffy    （本地文件包含漏洞利用工具）
 - https://github.com/D35m0nd142/Kadabra    （自动化本地文件包含漏洞扫描和利用工具）
 - https://github.com/P0cL4bs/Kadimus    （本地文件包含漏洞扫描和利用工具）
