@@ -43,6 +43,7 @@
 - https://github.com/WebGoat/WebGoat    （A deliberately insecure Web Application）
 - https://github.com/Audi-1/sqli-labs  （基于SQLite的注入学习get/post）
 - https://github.com/ethicalhack3r/DVWA （PHP/MySQL web application模拟环境）
+- http://www.itsecgames.com/    （bWAPP, it has over 100 web vulnerabilities!）
 - https://github.com/bkimminich/juice-shop  （OWASP Juice Shop is an intentionally insecure web application written entirely in JavaScript which encompasses the entire range of OWASP Top Ten and other）
 
 #### waf开源及规则
@@ -70,7 +71,8 @@
 - https://github.com/iMeiji/shadowsocks_install    （ss一键）
 - https://github.com/guyingbo/shadowproxy    （http//https代理）
 
-#### CTF相关工具
+#### CTF相关
+- https://www.zhihu.com/question/267204109    （学web安全去哪里找各种各样的靶场？）
 - https://github.com/0Chencc/CTFCrackTools  （首个CTF工具框架）
 - https://github.com/bugsafe/WeReport  （WeReport报告助手）
 - https://github.com/Gallopsled/pwntools    （CTF夺旗赛的破解工具）
@@ -105,6 +107,7 @@
 
 #### 钓鱼、社工相关
 - https://github.com/trustedsec/social-engineer-toolkit （kali内置的SET神奇社工工具）
+https://github.com/JonCooperWorks/judas    （基于go语言，克隆网站钓鱼）
 - https://github.com/Saferman/cupper    （社工字典生成工具）
 - https://github.com/mehulj94/Radium-Keylogger  （python下的键盘记录工具）
 - http://tool.chacuo.net/mailanonymous    （任意发件人发送邮件、伪造发件人发送电子邮件、伪造电子邮件地址发送邮件--查错网）
@@ -210,11 +213,12 @@
 - https://github.com/vanhauser-thc/thc-hydra  （九头蛇密码破解神器）
 - https://github.com/testsecer/Md5Decrypt （基于web API的MD5破解工具）
 - https://github.com/lijiejie/htpwdScan (一个简单的- http暴力破解、撞库攻击脚本)
-- https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
+- https://github.com/0pn1i9ht/F-Scrack （ysrc对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
+- https://github.com/Saferman/cupper （根据用户习惯生成弱口令探测字典脚本，升级）
 - https://github.com/netxfly/crack_ssh （Go写的协程版的ssh\redis\mongodb弱口令破解工具）
-- https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
-- https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
+- https://github.com/LandGrey/pydictor (py2、py3特定字典生成)
+- https://github.com/shengqi158/weak_password_detect (Linux下利用nmap多线程探测ssh弱口令）
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 
 #### 企业资产管理或信息泄露搜集工具
@@ -248,15 +252,15 @@
 - https://github.com/D4Vinci/Cr3dOv3r    （Cr3dOv3r - 根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具）
 
 #### 子域名枚举扫描器或爆破工具
-- https://github.com/FeeiCN/ESD    （python3下的，快速搜集工具）
+- https://github.com/FeeiCN/ESD    （python3下的，通过爆破快速搜集子域名）
 - https://github.com/OJ/gobuster    （GO语言编写的用来根据dns查询子域名和web目录爆破的工具）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
 - https://github.com/alpha1e0/pentestdb    （多用途集成化信息搜集工具）
 - https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
 - https://github.com/ring04h/wydomain (猪猪侠开发的一款域名收集全面、精准的子域名枚举工具)
-- https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
-- https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
-- https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
+- https://github.com/guelfoweb/knock (通过爆破进行子域名获取，可用于查找子域名接管漏洞)
+- https://github.com/aboul3la/Sublist3r (通过搜索引擎与爆破快速子域枚举工具)
+- https://github.com/laramies/theHarvester (通过搜索引擎与爆破进行邮箱、服务器信息收集及子域名枚举工具）
 - https://github.com/yanxiu0614/subdomain3 (一款高效的子域名爆破工具）
 - https://github.com/n4xh4ck5/N4xD0rk （利用搜索引擎来搜集子域名，可以使用西班牙语搜集）
 - https://github.com/jonluca/Anubis    (Python 3.6 Anubis collates data from a variety of sources, including HackerTarget, DNSDumpster, x509 certs, VirusTotal, Google, Pkey, and NetCraft)
@@ -266,17 +270,18 @@
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker （多方式收集目标子域名信息）
-- https://github.com/code-scan/BroDomain (兄弟域名查询）
+- https://github.com/code-scan/BroDomain (子域名查询）
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具，GO语言)
 - https://github.com/michenriksen/aquatone (子域名枚举、探测工具。可用于子域名接管漏洞探测)
 - https://github.com/evilsocket/dnssearch (一款子域名爆破工具，GO语言)
 - https://github.com/reconned/domained (可用于子域名收集的一款工具）
-- https://github.com/bit4woo/Teemo (域名收集及枚举工具)
+- https://github.com/bit4woo/Teemo (多方式域名收集及枚举工具)
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 
-#### 专用（即特定性针对某些组件）扫描器
+#### 专用（即特定性针对某些组件或功能）扫描器
 - https://github.com/Graph-X/davscan    （DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹。）
+- https://github.com/jcesarstef/dotdotslash    （测试目录遍历漏洞辅助工具）
 - https://github.com/hvqzao/liffy    （本地文件包含漏洞利用工具）
 - https://github.com/D35m0nd142/Kadabra    （自动化本地文件包含漏洞扫描和利用工具）
 - https://github.com/P0cL4bs/Kadimus    （本地文件包含漏洞扫描和利用工具）
@@ -341,6 +346,7 @@
 - https://github.com/ywolf/F-MiddlewareScan （中间件扫描）
 - https://github.com/maurosoria/dirsearch (Web path scanner)
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
+- https://github.com/abaykan/crawlbox    （路径扫描器）
 - https://github.com/RASSec/RASscan (端口服务扫描)
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
 - https://github.com/3xp10it/xcdn (尝试找出cdn背后的真实ip)
@@ -380,15 +386,16 @@
 - https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
 - https://github.com/m3liot/shcheck (用于检查web服务的- http header的安全性)
 - https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
-- https://github.com/fnk0c/cangibrina 华盟君吐血整理2017网络精品教程(通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
+- https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 - https://github.com/Go0s/SitePathScan    （SitePathScan 是一个扫描路径的脚本工具，配合aiohttp比之前快了三倍有余）
 
-#### 模块化设计扫描器或漏洞检测框架
+#### 扫描器与漏洞检测框架
 - https://github.com/OpenWireSec/metasploit    （神器）
 - https://github.com/rsmudge/armitage    （metasploit界面化测试工具）
 - https://github.com/D4Vinci/One-Lin3r    （metasploit、payload辅助查询工具）
 - https://github.com/NullArray/AutoSploit    （利用Shodan 搜索引擎收集目标, 并自动调用设定的Metasploit 模块对目标发动攻击）
+- https://github.com/chrismaddalena/ODIN    （自动化攻击平台，可以从前期信息搜集到后期漏洞太差）
 - https://github.com/juansacco/exploitpack    （开源漏洞利用测试（Exploit）平台）
 - https://github.com/nil0x42/phpsploit    （一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作）
 - https://github.com/nmap/nmap  （这还用说么）
@@ -470,3 +477,6 @@
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/googleinurl/RouterHunterBR （路由器设备漏洞扫描利用)
 - https://github.com/scu-igroup/telnet-scanner (Telnet服务密码撞库)
+
+#### 威胁情报
+- https://github.com/Te-k/harpoon    （用于开源和威胁智能的CLI工具）
