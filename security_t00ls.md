@@ -31,7 +31,7 @@ https://github.com/We5ter/Scanners-Box
 - https://www.zhihu.com/question/267204109    （学web安全去哪里找各种各样的靶场？）
 - https://www.wechall.net    （世界知名ctf汇总交流网站）
 - https://www.hackthebox.eu/    （漏洞靶场）
-- http://www.itsecgames.com   （bWAPP, it has over 100 web vulnerabilities!）
+- http://www.itsecgames.com  （bWAPP, it has over 100 web vulnerabilities!）
 - https://github.com/vulhub/vulhub  （Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像）
 - https://github.com/Medicean/VulApps  （收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。）
 - https://github.com/WebGoat/WebGoat    （A deliberately insecure Web Application）
@@ -59,6 +59,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/GouveaHeitor/nipe    （一个使所有流量通过Tor网络发出的脚本）
 - https://github.com/iMeiji/shadowsocks_install    （ss一键）
 - https://github.com/guyingbo/shadowproxy    （http//https代理）
+- https://github.com/SpiderClub/haipproxy    （ip代理池）
 
 #### fuzz工具收集
 - https://github.com/x-Ai/BurpUnlimitedre  (burpsuite 1.7.27的破解版)
@@ -384,6 +385,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/mthbernardes/sshLooter    （从ssh服务中窃取用户名密码）
 - https://github.com/sensepost/reGeorg    （提供了php，asp，jsp脚本的反向代理，内网穿透）
 - https://github.com/inconshreveable/ngrok    （内网代理穿透）
+- https://github.com/nccgroup/redsnarf    （基于python和ps的Windows下域渗透控制工具）
 
 #### 远程管理工具
 - https://github.com/Chora10/Cknife （中国菜刀java）
@@ -402,19 +404,19 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
 - https://github.com/Marten4n6/EvilOSX    （macos与osx的远程管理）
 - https://github.com/tiagorlampert/CHAOS    （go语言编写的win下的简单后门工具）
+- https://github.com/Screetsec/TheFatRat    （java下跨平台后门生成控制）
+- https://github.com/harleyQu1nn/AggressorScripts  （Cobalt Strike相关插件）
+- https://github.com/Und3rf10w/Aggressor-scripts    （Cobalt Strike相关插件）
+- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    （Cobalt Strike相关插件）
 
-#### 高级持续性威胁(APT)相关工具
+
+#### 免杀捆绑
 - https://github.com/OsandaMalith/Exe2Image    （exe转换为图片的工具）
 - https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIEXP.bat    （一段bat转换exe无需第三方软件是木马免杀，也可以在使用IExpress Wizard进行捆绑免杀）
 - https://github.com/r00t-3xp10it/FakeImageExploiter  （图片后门捆绑利用工具 – FakeImageExploiter）
 - https://github.com/peewpw/Invoke-PSImage    （将PS脚本隐藏进PNG像素中并用一行指令去执行它）
 - https://github.com/r00t-3xp10it/trojanizer    （将用户提供的两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件）
 - https://github.com/govolution/avet    （针对windows、msf的免杀工具）
-- https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
-- https://github.com/harleyQu1nn/AggressorScripts  （Cobalt Strike相关插件）
-- https://github.com/Und3rf10w/Aggressor-scripts    （Cobalt Strike相关插件）
-- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    （Cobalt Strike相关插件）
-- https://github.com/nccgroup/redsnarf    （基于python和ps的Windows下域渗透控制工具）
 
 #### 恶意软件
 - https://github.com/deadPix3l/CryptSky/    （勒索软件）
@@ -484,6 +486,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
 - https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
 - http://github.com/jumpserver/jumpserver    （基于 Python3 的开源堡垒机）
+- https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 
 #### 代码审计工具或扫描器
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
