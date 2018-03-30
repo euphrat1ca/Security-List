@@ -31,7 +31,7 @@ https://github.com/We5ter/Scanners-Box
 - https://www.zhihu.com/question/267204109    （学web安全去哪里找各种各样的靶场？）
 - https://www.wechall.net    （世界知名ctf汇总交流网站）
 - https://www.hackthebox.eu    （漏洞靶场）
-- http://www.itsecgames.com  （bWAPP, it has over 100 web vulnerabilities!）
+- http://www.itsecgames.com   （bWAPP, it has over 100 web vulnerabilities!）
 - https://github.com/vulhub/vulhub  （Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像）
 - https://github.com/Medicean/VulApps  （收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。）
 - https://github.com/WebGoat/WebGoat    （A deliberately insecure Web Application）
@@ -386,9 +386,10 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 - https://github.com/Moham3dRiahi/XBruteForcer    （CMS用户密码爆破工具WordPress , Joomla , DruPal , OpenCart , Magento）
 
-#### 后渗透与内网
+#### 后渗透域管理与内网
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用工具，它建立在密码学、安全通信和灵活的架构之上。）
 - https://github.com/nccgroup/redsnarf    （类似msf的windows下后渗透，不留痕迹）
+- https://github.com/BloodHoundAD/BloodHound    （是一个用于分析域成员和用用户关系的程序， 通过用powershell脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析可以做到定点攻击。）
 - https://github.com/AlessandroZ/LaZagne    （基于python的跨平台本机密码抓取工具）
 - https://github.com/huntergregal/mimipenguin （linux密码抓取神器）
 - https://github.com/gentilkiwi/mimikatz    （Windows 下密码抓取渗透神器）
@@ -405,7 +406,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/sensepost/reGeorg    （提供了php，asp，jsp脚本的正反向代理，内网穿透）
 - https://github.com/inconshreveable/ngrok    （端口转发，正反向代理，内网穿透）
 - https://github.com/rootkiter/EarthWorm    （一款用于开启 SOCKS v5 代理服务的工具，基于标准 C 开发，可提供多平台间的转接通讯，用于复杂网络环境下的数据转发。专有主页： http://rootkiter.com/EarthWorm/）
-- https://github.com/rootkiter/Termite    （端口转发，楼上的升级版）
+- https://github.com/rootkiter/Termite    （端口转发，楼上的升级版，http://rootkiter.com/Termite/README.txt）
 - https://github.com/nil0x42/phpsploit    （一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作）
 
 #### 远程管理工具
@@ -532,4 +533,3 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/KasperskyLab/klara    （卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara）
 - https://github.com/he1m4n6a/findWebshell    （基于python的webshell检查工具，可后期添加后门指纹）
 - https://github.com/erevus-cn/scan_webshell    （webshell扫描工具）
-
