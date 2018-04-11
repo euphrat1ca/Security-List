@@ -26,6 +26,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/Manisso/fsociety    (linux下类似于kali的工具包一键安装工具)
 - https://github.com/lcamry/sqli-labs  （mysql相关的注入手法）
 - https://github.com/EdOverflow/can-i-take-over-xyz    （信息收集过程中发现目标子域名等处于失效状态如何接管）
+- https://github.com/duoergun0729/nlp    (一本开源的NLP入门书籍)
 
 #### EXP、POC、渗透测试辅助工具包
 - https://github.com/mzet-/linux-exploit-suggester    (查找linux有哪些补丁没有打的脚本)
@@ -87,6 +88,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/lfzark/cookie-injecting-tools    （Chrome扩展，cookie注入工具包括注入，编辑，添加和删除cookie。）
 
 #### 企业资产管理或信息泄露搜集工具
+- https://github.com/UltimateHackers/Diggy    (从 Apk 文件中提取 URLs 的工具)
 - https://github.com/famavott/osint-scraper    （输入人名或邮箱地址, 自动从互联网爬取关于此人的信息）
 - https://github.com/sa7mon/S3Scanner    （扫描amazon公开的S3 buckets和dump）
 - https://github.com/kromtech/s3-inspector    （Tool to check AWS S3 bucket permissions）
@@ -314,7 +316,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/Lucifer1993/struts-scan (struts2漏洞全版本检测和利用工具)
 - https://github.com/hahwul/a2sv (SSL漏洞扫描，例如心脏滴血漏洞等）
 - https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞网页搜寻）
-- https://github.com/NickstaDB/BaRMIe (用于攻击爆破Java Remote Method Invocation服务的工具)
+- https://github.com/NickstaDB/BaRMIe (用于攻击爆破Java Remote Method Invocation服务的工具/rmi的枚举与远程命令执行)
 - https://github.com/RetireJS/grunt-retire (扫描js扩展库的常见漏洞）
 - https://github.com/kotobukki/BDA (针对hadoop/spark等大数据平台的的漏洞探测工具）
 - https://github.com/jagracey/Regex-DoS (RegEx 拒绝服务扫描器)
@@ -386,7 +388,8 @@ https://github.com/We5ter/Scanners-Box
 #### 网站管理工具
 - https://github.com/Chora10/Cknife （中国菜刀java）
 - https://github.com/euphrat1ca/hatchet    （中国大砍刀）
-- https://github.com/epinna/weevely3    （基于python的php后门管理）
+- https://github.com/epinna/weevely3    （基于python的php管理）
+- https://github.com/anestisb/WeBaCoo    (基于perl的php管理，kali自带)
 - https://github.com/keepwn/Altman  （the cross platform webshell tool in .NET
 - https://github.com/k4mpr3t/b4tm4n    (集成伪造邮件ddos，bat.php初始k4mpr3t)
 - https://github.com/dotcppfile/DAws    (新一代webshell过各种防护装置，post pass=DAws)
@@ -394,27 +397,27 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/filebrowser/filebrowser    （基于go语言编写的Caddy扩展出来的网盘管理系统）
 
 #### 远程控制工具
+- https://github.com/n1nj4sec/pupy  （跨平台的Python远控，Windows, Linux, OSX, Android。。可一对多）
+- https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    （CobaltStrike相关插件编写。可一对多）
+- https://github.com/RhinoSecurityLabs/Aggressor-Scripts/tree/master/UACBypass    （用于绕过 UAC 限制的 CobaltStrike 脚本）
+- https://github.com/rsmudge/armitage    （CobaltStrike社区版，调用msf。可一对多）
+- https://github.com/quasar/QuasarRAT  （Windows下的远控。可一对多）
+- https://github.com/euphrat1ca/njRAT-v0.7d    （基于vb的常见蠕虫远控，有很多变种。可一对多）
+- https://github.com/neoneggplant/EggShell  （基于python，macos/osx远控,可生成HID代码。可一对多）
+- https://github.com/Marten4n6/EvilOSX    （基于python，macos/osx远控。可一对多）
+- https://github.com/AhMyth/AhMyth-Android-RAT  （Windows下安卓远控smali。可一对多）
 - https://github.com/OpenWireSec/metasploit    （metasploit神器）
-- https://github.com/Screetsec/TheFatRat    （基于java，调用msf，多平台后门生成工具）
 - https://github.com/D4Vinci/One-Lin3r    （metasploit、payload辅助查询工具）
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用工具，它建立在密码学、安全通信和灵活的架构之上。）
 - https://github.com/interference-security/empire-web    （empire的web界面）
-- https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    （CobaltStrike相关插件编写）
-- https://github.com/RhinoSecurityLabs/Aggressor-Scripts/tree/master/UACBypass    （用于绕过 UAC 限制的 CobaltStrike 脚本）
-- https://github.com/rsmudge/armitage    （CobaltStrike社区版，调用msf）
-- https://github.com/n1nj4sec/pupy  （跨平台的Python远程管理工具，Windows, Linux, OSX, Android）
-- https://github.com/nathanlopez/Stitch （跨平台的Python远程管理工具，Windows、Mac OSX、Linux）
-- https://github.com/quasar/QuasarRAT  （Windows下的远程进程、文件管理工具）
-- https://github.com/AhMyth/AhMyth-Android-RAT  （Windows下安卓远程管理工具smali）
-- https://github.com/neoneggplant/EggShell  （苹果IOS远程管理工具 python）
+- https://github.com/nathanlopez/Stitch （跨平台的Python远控，Windows、Mac OSX、Linux）
 - https://github.com/tiagorlampert/CHAOS    （基于go语言的win远控，可过大部分杀软）
-- https://github.com/euphrat1ca/njRAT-v0.7d    （基于vb的常见蠕虫远控，有很多变种）
 - https://github.com/Viralmaniar/Powershell-RAT    （基于 Python ，可以利用Gmail邮件附件来从目标用户的设备中提取数据）
 - https://github.com/vesche/basicRAT    （Python 2.x远程访问木马（RAT），basicRAT是为了保持一个干净的设计全功能的Python RAT而创建的）
 - https://github.com/sweetsoftware/Ares    （Ares是一个Python远程访问工具）
 - https://github.com/micle-fm/Parat    （基于python，与telegram联动，windows下的远程控制工具）
 - https://github.com/ahhh/Reverse_DNS_Shell    （一个使用DNS作为C2通道的Python反向Shell）
-- https://github.com/Marten4n6/EvilOSX    （macos与osx的远程管理）
+
 
 #### 转发代理
 - https://github.com/inconshreveable/ngrok    （端口转发，正反向代理，内网穿透）
@@ -448,6 +451,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/peewpw/Invoke-PSImage    （将PS脚本隐藏进PNG像素中并用一行指令去执行它）
 - https://github.com/r00t-3xp10it/trojanizer    （将用户提供的两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件）
 - https://github.com/govolution/avet    （针对windows、msf的免杀工具）
+- https://github.com/Screetsec/TheFatRat    （基于java，调用msf，多平台后门生成工具）
 
 #### rootkit与恶意软件
 - https://github.com/islamTaha12/Python-Rootkit    （windows下rootkit，反弹meterpreter）
@@ -519,7 +523,7 @@ https://github.com/We5ter/Scanners-Box
 
 #### 开源waf及防护规则
 - https://github.com/SpiderLabs/ModSecurity
-- https://github.com/xsec-lab/x-waf
+- https://github.com/xsec-lab/x-waf    (适用于中小企业的云waf)
 - https://github.com/loveshell/ngx_lua_waf
 - https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
 
@@ -560,5 +564,3 @@ https://github.com/We5ter/Scanners-Box
 - http://github.com/jumpserver/jumpserver    （基于 Python3 的开源堡垒机）
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 - https://github.com/KasperskyLab/klara    （卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara）
-
-
