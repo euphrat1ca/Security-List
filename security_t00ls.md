@@ -427,15 +427,16 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/filebrowser/filebrowser    （基于go语言编写的Caddy扩展出来的网盘管理系统）
 
 #### 远程控制工具
-- https://github.com/n1nj4sec/pupy  （跨平台的Python远控，Windows, Linux, OSX, Android。。可一对多）
-- https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    （CobaltStrike相关插件编写。可一对多）
+- https://github.com/n1nj4sec/pupy  （跨平台的Python远控，Windows, Linux, OSX, Android。一对多）
+- https://github.com/vesche/basicRAT    （基于Python3的RAT，功能简单的远控，支持一对多）
+- https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    （CobaltStrike相关插件编写。一对多带界面）
 - https://github.com/RhinoSecurityLabs/Aggressor-Scripts/tree/master/UACBypass    （用于绕过 UAC 限制的 CobaltStrike 脚本）
-- https://github.com/rsmudge/armitage    （CobaltStrike社区版，调用msf。可一对多）
-- https://github.com/quasar/QuasarRAT  （Windows下的远控。可一对多）
-- https://github.com/euphrat1ca/njRAT-v0.7d    （基于vb的常见蠕虫远控，有很多变种。可一对多）
-- https://github.com/neoneggplant/EggShell  （基于python，macos/osx远控,可生成HID代码。可一对多）
-- https://github.com/Marten4n6/EvilOSX    （基于python，macos/osx远控。可一对多）
-- https://github.com/AhMyth/AhMyth-Android-RAT  （Windows下安卓远控smali。可一对多）
+- https://github.com/rsmudge/armitage    （CobaltStrike社区版，调用msf。一对多带界面）
+- https://github.com/quasar/QuasarRAT  （Windows下的远控。一对多带界面）
+- https://github.com/euphrat1ca/njRAT-v0.7d    （基于vb的常见蠕虫远控，有很多变种。一对多带界面）
+- https://github.com/neoneggplant/EggShell  （基于python，macos/osx远控,可生成HID代码。一对多）
+- https://github.com/Marten4n6/EvilOSX    （基于python，macos/osx远控。一对多）
+- https://github.com/AhMyth/AhMyth-Android-RAT  （Windows下安卓远控smali。一对多带界面）
 - https://github.com/OpenWireSec/metasploit    （metasploit神器）
 - https://github.com/D4Vinci/One-Lin3r    （metasploit、payload辅助查询工具）
 - https://github.com/EmpireProject/Empire    （一个纯碎的PowerShell后期漏洞利用工具，它建立在密码学、安全通信和灵活的架构之上。）
@@ -443,13 +444,13 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/nathanlopez/Stitch （跨平台的Python远控，Windows、Mac OSX、Linux）
 - https://github.com/tiagorlampert/CHAOS    （基于go语言的win远控，可过大部分杀软）
 - https://github.com/Viralmaniar/Powershell-RAT    （基于 Python ，可以利用Gmail邮件附件来从目标用户的设备中提取数据）
-- https://github.com/vesche/basicRAT    （Python 2.x远程访问木马（RAT），basicRAT是为了保持一个干净的设计全功能的Python RAT而创建的）
 - https://github.com/sweetsoftware/Ares    （Ares是一个Python远程访问工具）
 - https://github.com/micle-fm/Parat    （基于python，与telegram联动，windows下的远程控制工具）
 - https://github.com/ahhh/Reverse_DNS_Shell    （一个使用DNS作为C2通道的Python反向Shell）
 
 
 #### 转发代理
+- https://github.com/fatedier/frp    （用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议）
 - https://github.com/inconshreveable/ngrok    （端口转发，正反向代理，内网穿透）
 - http://rootkiter.com/EarthWorm    （一款用于开启 SOCKS v5 代理服务的工具，基于标准 C 开发，可提供多平台间的转接通讯，用于复杂网络环境下的数据转发。）
 - http://rootkiter.com/Termite/README.txt    （EarthWorm升级版，可以实现多节点跳跃）
@@ -624,14 +625,13 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/Gallopsled/pwntools    （CTF夺旗赛的破解工具）
 
 
-#### 自动化脚本黑科技
+#### 匿名与自动化
 - https://github.com/bannedbook/fanqiang    （汇总）
 - https://doub.io/dbrj-5/    （通过虚拟网卡转为类VPN的真 · 全局代理神器SSTAP，比proxifier稍强）
+- https://github.com/gwuhaolin/lightsocks    (轻量级网络混淆代理，基于 SOCKS5 协议。看完可以写一个ss)
+- https://github.com/teddysun/shadowsocks_install    (ss,ssr)
 - https://github.com/ToyoDAdoubi/doubi    (各种一键脚本)
 - https://github.com/quericy/one-key-ikev2-vpn    （CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本）
-- https://github.com/gwuhaolin/lightsocks    (轻量级网络混淆代理，基于 SOCKS5 协议。看完可以写一个ss)
-- https://github.com/txthinking/brook    （端口转发，中继代理，同时可实现ss功能）
-- https://github.com/teddysun/shadowsocks_install    (ss,ssr)
 - https://github.com/teddysun/across    （npv搭建）
 - https://github.com/zzhgithub/ss-panel （搭建分布式ss管理工具）
 - https://github.com/GouveaHeitor/nipe    （一个使所有流量通过Tor网络发出的脚本）
@@ -1021,9 +1021,11 @@ https://github.com/We5ter/Scanners-Box
 
 #### 转发代理
 - https://github.com/inconshreveable/ngrok    （端口转发，正反向代理，内网穿透）
-- http://rootkiter.com/EarthWorm    （一款用于开启 SOCKS v5 代理服务的工具，基于标准 C 开发，可提供多平台间的转接通讯，用于复杂网络环境下的数据转发。）
-- http://rootkiter.com/Termite/README.txt    （EarthWorm升级版，可以实现多节点跳跃）
 - https://github.com/sensepost/reGeorg    （提供了php，asp，jsp脚本的正反向代理，内网穿透）
+- https://github.com/txthinking/brook    （端口转发，中继代理，同时可实现ss功能）
+- https://github.com/fatedier/frp    （可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。）
+- http://rootkiter.com/EarthWorm    （一款用于开启 SOCKS v5 代理服务的工具，基于标准 C 开发，可提供多平台间的转接通讯，用于复杂网络环境下的数据转发。）
+- http://rootkiter.com/Termite/README.txt    （EarthWorm升级版，可以实现多节点跳跃和shell管理）
 
 #### 后渗透域管理与内网
 - https://github.com/AlessandroZ/LaZagne    （基于python的跨平台本机密码抓取工具）
