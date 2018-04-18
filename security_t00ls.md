@@ -199,6 +199,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/DavexPro/PocHunter    (借鉴pocscan 的一款多平台poc适配框架)
 - https://github.com/euphrat1ca/polar-scan    （易语言的北极熊扫描器）
 - https://github.com/euphrat1ca/yeezy-scan    （椰树1.9扫描器）
+- https://github.com/euphrat1ca/WebCruiserWVS    （轻量级基于C#的扫描器，椰树扫描器的前身）
 - https://github.com/Skycrab/leakScan （web界面，漏洞扫描）
 - https://github.com/az0ne/AZScanner (web界面，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/boy-hack/w8scan (web界面，基于bugscan扫描和架构思想的扫描器）
@@ -299,6 +300,7 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/HA71/WhatCMS    （CMS检测和漏洞利用脚本, 基于Whatcms.org API）
 
 #### 专用（即特定性针对某些组件或功能）扫描器
+- https://github.com/ajinabraham/NodeJsScan    （扫描Node.js applications.）
 - https://github.com/DanMcInerney/msf-autopwn    （执行NMap扫描或读取扫描结果, 然后自动攻击包含常见漏洞的主机）
 - https://github.com/JLospinoso/memcachedump    （利用Shodan搜索引擎dump公网暴露的memcached服务器的内容）
 - https://github.com/UltimateHackers/Arjun    （扫描网页, 使用正则表达式爆破查找隐藏的GET/POST参数）
@@ -533,10 +535,11 @@ https://github.com/We5ter/Scanners-Box
 - https://github.com/Te-k/harpoon    （用于开源和威胁智能的CLI工具）
 
 #### 开源waf及防护规则
-- https://github.com/SpiderLabs/ModSecurity
+- https://github.com/SpiderLabs/ModSecurity    （cross platform web application firewall (WAF) engine for Apache, IIS and Nginx）
 - https://github.com/xsec-lab/x-waf    (适用于中小企业的云waf)
-- https://github.com/loveshell/ngx_lua_waf
-- https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/master/base_rules
+- https://github.com/jx-sec/jxwaf    （基于openresty(nginx+lua)开发的下一代web应用防火墙，独创的业务逻辑防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点）
+- https://github.com/loveshell/ngx_lua_waf    （基于lua-nginx-module(openresty)的web应用防火墙）
+- https://github.com/SpiderLabs/owasp-modsecurity-crs    （a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls）
 
 #### 代码审计工具或扫描器
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
