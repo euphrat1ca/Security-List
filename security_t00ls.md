@@ -52,33 +52,13 @@
 - https://github.com/gh0stkey/DoraBox    网络安全靶场
 - https://github.com/Safflower/Solve-Me    韩国一个偏代码审计的ctf靶场源码
 - https://www.xssgame.com    谷歌XSS挑战
-#### CTF相关
-- https://github.com/facebook/fbctf    搭建ctf比赛框架
-- https://github.com/0Chencc/CTFCrackTools  首个CTF工具框架
-- https://github.com/bugsafe/WeReport  WeReport报告助手
-- https://github.com/Gallopsled/pwntools    CTF夺旗赛的破解工具
-#### 自动化脚本黑科技
-- https://github.com/bannedbook/fanqiang    汇总
-- https://doub.io/dbrj-5/    通过虚拟网卡转为类VPN的真 · 全局代理神器SSTAP，比proxifier稍强
-- https://github.com/ToyoDAdoubi/doubi    各种一键脚本
-- https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
-- https://github.com/gwuhaolin/lightsocks    轻量级网络混淆代理，基于 SOCKS5 协议。看完可以写一个ss
-- https://github.com/txthinking/brook    端口转发，中继代理，同时可实现ss功能
-- https://github.com/teddysun/shadowsocks_install    ss,ssr
-- https://github.com/zzhgithub/ss-panel 搭建分布式ss管理工具
-- https://github.com/guyingbo/shadowproxy    ss/socks5/http//https等多种代理
-- https://github.com/teddysun/across    npv搭建
-- https://github.com/Manisso/fsociety    linux下类似于kali的工具包一键安装工具
-- https://github.com/LionSec/katoolin    Automatically install all Kali linux tools
-- https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
-- https://github.com/wstart/DB_BaseLine    数据库基线检查工具
 #### EXP、POC利用与特定工具
 - https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/harleyQu1nn/AggressorScripts  cobaltstrike脚本搜集
 - https://github.com/RhinoSecurityLabs/Aggressor-Scripts/tree/master/UACBypass    用于绕过 UAC 限制的 CobaltStrike 脚本
 - https://github.com/Ridter/CS_Chinese_support/    cobalt strike 汉化
-- https://github.com/bigric3/cve-2018-8120 2018五月份提权漏洞，影响 Windows Win32k 组件
+- https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
 - https://github.com/Nummer/Destroy-Windows-10-Spying    关闭windows所有的监视服务
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    摄像头路由，Get DVR Credentials
 - https://github.com/dirtycow/dirtycow.github.io    脏牛提权漏洞exp
@@ -118,8 +98,8 @@
 - https://github.com/coffeehb/SSTIF 服务器端模板注入漏洞的半自动化工具
 - https://github.com/epinna/tplmap 服务器端模板注入漏洞检测与利用工具
 - https://github.com/cr0hn/dockerscan docker扫描工具
-- https://github.com/GoSecure/break-fast-serial    ​借助DNS解析来检测Java反序列化漏洞工具
-- https://github.com/code-scan/dzscan    ​首款集成化的Discuz扫描工具
+- https://github.com/GoSecure/break-fast-serial    借助DNS解析来检测Java反序列化漏洞工具
+- https://github.com/code-scan/dzscan    首款集成化的Discuz扫描工具
 - https://github.com/0x4D31/salt-scanner 基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用
 - https://github.com/tijme/angularjs-csti-scanner 自动化探测客户端AngularJS模板注入漏洞工具
 - https://github.com/irsdl/IIS-ShortName-Scanner Java编写的IIS短文件名暴力枚举漏洞利用工具
@@ -133,7 +113,7 @@
 - https://github.com/RetireJS/grunt-retire 扫描js扩展库的常见漏洞
 - https://github.com/kotobukki/BDA 针对hadoop/spark等大数据平台的的漏洞探测工具
 - https://github.com/jagracey/Regex-DoS RegEx 拒绝服务扫描器
-- https://github.com/milesrichardson/docker-onion-nmap    ​使用nmap扫描Tor网络上隐藏的"onion"服务
+- https://github.com/milesrichardson/docker-onion-nmap    使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/UltimateHackers/Diggy    从 Apk 文件中提取 URLs 的工具
 - https://github.com/sa7mon/S3Scanner    扫描amazon公开的S3 buckets和dump
 - https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
@@ -253,6 +233,7 @@
 - https://github.com/trimstray/sandmap linux下将nmap端口扫描器变成交互式运行
 - https://github.com/cldrn/rainmap-lite    使用web界面启动nmap
 - https://github.com/ring04h/wyportmap  目标端口扫描+系统服务指纹识别
+- https://github.com/angryip/ipscan    Angry IP Scanner，跨平台界面化端口扫描器
 - https://github.com/EnableSecurity/wafw00f WAF产品指纹识别
 - https://github.com/rbsec/sslscan ssl类型识别
 - https://github.com/urbanadventurer/whatweb web指纹识别
@@ -329,7 +310,7 @@
 - https://github.com/samhaxr/hackbox    优秀渗透测试技术与工具的整合
 - https://github.com/chrismaddalena/ODIN    自动化攻击平台，可以从前期信息搜集到后期漏洞太差
 - https://github.com/sullo/nikto    老牌扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描
-- https://github.com/UltimateHackers/Striker    一款多方位信息收集、指纹识别及漏洞扫描工具
+- https://github.com/UltimateHackers/Striker    信息搜集、cms利用与简单漏洞扫描，检查并绕过Cloudflare
 - https://github.com/Ekultek/Zeus-Scanner    宙斯扫描器，联动Geckodriver，nmap和sqlmap
 - https://github.com/blackye/lalascan    集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架
 - https://github.com/blackye/BkScanner BkScanner 分布式、插件化web漏洞扫描器
@@ -507,6 +488,7 @@
 - https://github.com/deadPix3l/CryptSky/    勒索软件
 - https://github.com/jgamblin/Mirai-Source-Code 蠕虫病毒
 #### 免杀捆绑后门生成
+- https://github.com/secretsquirrel/the-backdoor-factory    BDF可用来向可执行文件植入后门，修改程序执行流程，执行添加的payload
 - https://github.com/Veil-Framework/Veil    可以生成msf等工具的payload，且一定程度免杀
 - https://github.com/Screetsec/TheFatRat    基于java，可以生成msf等工具的payload，且一定程度免杀
 - https://github.com/OsandaMalith/Exe2Image    exe转换为图片的工具
@@ -549,9 +531,22 @@
 - https://github.com/shodan-labs/iotdb 使用nmap扫描IoT设备
 - https://github.com/googleinurl/RouterHunterBR 路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner Telnet服务密码撞库
+#### 安全相关工具
+- https://github.com/BugScanTeam/DNSLog    一款基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
+- https://github.com/ysrc/yulong-hids    一款由 YSRC 开源的主机入侵检测系统
+- https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
+- https://github.com/Tencent/HaboMalHunter 哈勃分析系统，linux系统病毒分析及安全检测
+- https://github.com/PlagueScanner/PlagueScanner 使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎
+- https://github.com/m4rco-/dorothy2 一款木马、僵尸网络分析框架
+- http://github.com/jumpserver/jumpserver    基于 Python3 的开源堡垒机
+- https://github.com/Neo23x0/Loki 一款APT入侵痕迹扫描器
+- https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
+- https://github.com/grayddq/HIDS    hids基于主机型入侵检测系统，一个人的安全部
+- https://github.com/0xRadi/OWASP-Web-Checklist  owasp网站检查条目
+- https://github.com/akaxincom/openzaly    openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。
 #### 威胁情报
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
-#### 开源waf及防护规则
+#### 开源waf防火墙及防护规则
 - https://github.com/SpiderLabs/ModSecurity    cross platform web application firewall WAF engine for Apache, IIS and Nginx
 - https://github.com/xsec-lab/x-waf    适用于中小企业的云waf
 - https://github.com/jx-sec/jxwaf    基于openrestynginx+lua开发的下一代web应用防火墙，独创的业务逻辑防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点
@@ -582,15 +577,23 @@
 - https://github.com/emposha/PHP-Shell-Detector/ 测试效率高达99%的webshell检测工具
 - https://github.com/erevus-cn/scan_webshell 一款简洁的Webshell扫描工具
 - https://github.com/emposha/Shell-Detector Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
-#### 安全防护工具
-- https://github.com/BugScanTeam/DNSLog    一款基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
-- https://github.com/ysrc/yulong-hids    一款由 YSRC 开源的主机入侵检测系统
-- https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
-- https://github.com/Tencent/HaboMalHunter 哈勃分析系统，linux系统病毒分析及安全检测
-- https://github.com/PlagueScanner/PlagueScanner 使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎
-- https://github.com/m4rco-/dorothy2 一款木马、僵尸网络分析框架
-- http://github.com/jumpserver/jumpserver    基于 Python3 的开源堡垒机
-- https://github.com/Neo23x0/Loki 一款APT入侵痕迹扫描器
-- https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
-- https://github.com/grayddq/HIDS    hids基于主机型入侵检测系统，一个人的安全部
-- https://github.com/0xRadi/OWASP-Web-Checklist  owasp网站检查条目
+#### CTF相关
+- https://github.com/facebook/fbctf    搭建ctf比赛框架
+- https://github.com/0Chencc/CTFCrackTools  首个CTF工具框架
+- https://github.com/bugsafe/WeReport  WeReport报告助手
+- https://github.com/Gallopsled/pwntools    CTF夺旗赛的破解工具
+#### 自动化脚本黑科技
+- https://github.com/bannedbook/fanqiang    汇总
+- https://doub.io/dbrj-5/    通过虚拟网卡转为类VPN的真 · 全局代理神器SSTAP，比proxifier稍强
+- https://github.com/ToyoDAdoubi/doubi    各种一键脚本
+- https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
+- https://github.com/gwuhaolin/lightsocks    轻量级网络混淆代理，基于 SOCKS5 协议。看完可以写一个ss
+- https://github.com/txthinking/brook    端口转发，中继代理，同时可实现ss功能
+- https://github.com/teddysun/shadowsocks_install    ss,ssr
+- https://github.com/zzhgithub/ss-panel 搭建分布式ss管理工具
+- https://github.com/guyingbo/shadowproxy    ss/socks5/http//https等多种代理
+- https://github.com/teddysun/across    npv搭建
+- https://github.com/Manisso/fsociety    linux下类似于kali的工具包一键安装工具
+- https://github.com/LionSec/katoolin    Automatically install all Kali linux tools
+- https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
+- https://github.com/wstart/DB_BaseLine    数据库基线检查工具
