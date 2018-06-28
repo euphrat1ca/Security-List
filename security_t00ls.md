@@ -20,7 +20,7 @@
 - https://github.com/Kinimiwar/Penetration-Testing    渗透测试方向优秀资源收集
 #### 安全paper
 - https://github.com/tom0li/collection-document    优质 安全文章 收藏    长期更新 如果只fork不能接受更新
-- https://github.com/SecWiki/sec-chart    安全思维导图集合
+- https://github.com/SecWiki/sec-chart    各种相关安全思维导图集合
 - https://github.com/kbandla/APTnotes    各种公开的文件和相关的APT笔记，还有恶意软件样本的哈希
 - https://github.com/klionsec/klionsec.github.io    内网大牛的学习历程
 - https://github.com/l3m0n/pentest_study    从零开始内网渗透学习
@@ -44,6 +44,7 @@
 - https://github.com/jshaw87/Cheatsheets    渗透测试/安全秘籍/笔记
 - https://github.com/ChrisLinn/greyhame-2017    灰袍技能书2017版本
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
+- https://github.com/louchaooo/kali-tools-zh    kali下工具使用介绍手册
 - https://github.com/EdOverflow/can-i-take-over-xyz    信息收集过程中发现目标子域名等处于失效状态如何接管
 - https://www.gitbook.com/book/t0data/burpsuite/details    burpsuite实战指南
 #### 漏洞复现与学习
@@ -75,8 +76,6 @@
 - https://github.com/gh0stkey/DoraBox    网络安全靶场
 - https://github.com/Safflower/Solve-Me    韩国一个偏代码审计的ctf靶场源码
 - https://github.com/78778443/permeate    一个用于渗透透测试演练的WEB系统
-
-
 
 #### 特定专用工具
 
@@ -137,53 +136,15 @@
 - https://github.com/panda-re/lava    大规模向程序中植入恶意程序
 - https://github.com/3xp10it/xupload    用于自动测试上传功能是否可上传webshell的工具
 
-#### 相关工具拓展
+- https://github.com/Lcys/Python_PoC    基于python3的poc生成模板
 
-- https://github.com/PortSwigger    burpsuite官方插件库
-
-- https://github.com/wagiro/BurpBounty    burp拓展增强主动与被动扫描功能
-
-- https://github.com/PortSwigger/command-injection-attacker    BurpSuite 的命令注入漏洞发现插件
-
-- https://github.com/nccgroup/freddy    burp插件，自动识别Java/.NET 应用程序中的反序列化漏洞
-- https://github.com/modzero/interestingFileScanner    burp拓展增强敏感文件扫描
-- https://github.com/summitt/Burp-Non-HTTP-Extension    burpsuite联动插件内置小型DNS服务器抓取流量
-- https://github.com/ilmila/J2EEScan    用于扫描J2EE应用的一款burpsuite插件
-- https://github.com/bugcrowd/HUNT    可以将burpsuite扫描器功能扩展的更加强大，同时支持zapproxy扩展
-- https://github.com/codewatchorg/sqlipy    burpsuite联动插件，基于sqlmap
-- https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    sqlmap的web gui
-- https://github.com/KINGSABRI/sqlmap-tamper-api    利用各种语言来编写sqlmapTamper
-- https://github.com/0xbug/SQLiScanner    一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具
-- https://github.com/fengxuangit/Fox-scan    基于SQLMAP的主动和被动资源发现的漏洞扫描工具
-- https://github.com/UltimateHackers/sqlmate    在sqlmap基础上增加了目录扫描、hash爆破等功能
-- https://github.com/ysrc/GourdScanV2    ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
-- https://github.com/zt2/sqli-hunter    基于sqlmapapi，ruby编写的漏洞代理型检测工具
-- https://github.com/jesuiscamille/AutoSQLi    利用DorkNet，Googler, Ddgr, WhatWaf 和 sqlmap自动注入
-- https://github.com/cldrn/rainmap-lite    使用web界面启动nmap
-- https://github.com/trimstray/sandmap    linux下将支持使用大量 Nmap 引擎进行网络和系统侦察的工具
-- https://github.com/m0nad/HellRaiser    基于nmap的扫描器，与cve漏洞关联
-- https://github.com/scipag/vulscan    基于nmap的高级漏洞扫描器，命令行环境使用
-- https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    结合机器学习与msf的全自动测试工具
-- https://github.com/DanMcInerney/msf-autopwn    执行NMap扫描或读取扫描结果, 然后自动使用msf攻击包含常见漏洞的主机
-- https://github.com/DanMcInerney/msf-netpwn    等待msf的session，并自动提权为域管理
-- https://github.com/NullArray/AutoSploit    利用Shodan 搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
-- https://github.com/WazeHell/metateta    使用msf脚本，根据特定协议进行扫描
-- https://github.com/shizzz477/msploitego    将msf数据库与maltego进行图形化展示
-- https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
-- https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf。一对多带界面
-- https://github.com/rsmudge/cortana-scripts    用于cobaltstrike2.x与armitage的可拓展插件，cobaltstrike3.x的为AggressorScripts
-- https://github.com/Ridter/CS_Chinese_support/    cobalt strike 汉化
-- https://github.com/harleyQu1nn/AggressorScripts    cobaltstrike脚本搜集
-- https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
-- https://github.com/interference-security/empire-web    empire的web界面
-- https://github.com/byt3bl33d3r/DeathStar    调用Empire RESTful API 自动化获取域管权限的py3脚本
-#### EXP、POC利用
+#### EXP利用、POC收集
 - https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/w1109790800/penetration    CMS新老版本exp与系统漏洞搜集表
-- https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
+- https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit    metasploit双星攻击利用文件
+- https://github.com/vulnersCom/getsploit    通过各种数据库的官方接口进行payload的查找
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    摄像头路由，Get DVR Credentials
-- https://github.com/dirtycow/dirtycow.github.io    脏牛提权漏洞exp
 - https://github.com/3gstudent/CVE-2017-8464-EXP    win快捷方式远程执行漏洞
 - https://github.com/Raikia/CredNinja    多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，最好利用445端口
 - https://github.com/joaomatosf/jexboss    JBoss和其他java序列化漏洞验证和开发工具
@@ -210,22 +171,65 @@
 - https://github.com/jagracey/Regex-DoS    RegEx拒绝服务扫描器
 - https://github.com/sa7mon/S3Scanner    扫描amazon公开的S3 buckets和dump
 - https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
-- https://github.com/Lcys/Python_PoC    基于python3的poc生成模板
 #### 提权工具与专用脚本
-- https://github.com/nil0x42/phpsploit    一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作
-- https://github.com/breenmachine/RottenPotatoNG    利用NBNS本地域名欺骗和WPAD代理欺骗提权
-- https://github.com/foxglovesec/Potato    利用本地域名欺骗和代理欺骗提权
-- https://github.com/vulnersCom/getsploit    通过各种数据库的官方接口进行payload的查找
-- https://github.com/unamer/vmware_escape    vmware虚拟机逃逸
-- https://github.com/SecWiki/windows-kernel-exploits    windows-kernel-exploits Windows平台提权漏洞集合
+- https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会展示的各种工具集
 - https://github.com/SecWiki/linux-kernel-exploits    linux-kernel-exploits Linux平台提权漏洞集合
 - https://github.com/mzet-/linux-exploit-suggester    查找linux有哪些补丁没有打的脚本
 - https://github.com/belane/linux-soft-exploit-suggester    查找linux有哪些有漏洞的软件
+- https://github.com/dirtycow/dirtycow.github.io    脏牛提权漏洞exp
 - https://github.com/WazeHell/PE-Linux    Linux提权工具
-- https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会展示的各种工具集
+- https://github.com/SecWiki/windows-kernel-exploits    windows-kernel-exploits Windows平台提权漏洞集合
 - https://github.com/redcanaryco/atomic-red-team    win、linux、mac等多方面apt利用手段、技术与工具包
+- https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
 - https://github.com/51x/WHP    windows下各种提权与利用工具
+- https://github.com/nil0x42/phpsploit    一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作
+- https://github.com/breenmachine/RottenPotatoNG    利用NBNS本地域名欺骗和WPAD代理欺骗提权
+- https://github.com/foxglovesec/Potato    利用本地域名欺骗和代理欺骗提权
+- https://github.com/unamer/vmware_escape    vmware虚拟机逃逸
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
+#### 相关工具拓展
+
+- https://github.com/PortSwigger    burpsuite官方插件库
+
+- https://github.com/wagiro/BurpBounty    burp拓展增强主动与被动扫描功能
+
+- https://github.com/PortSwigger/command-injection-attacker    BurpSuite 的命令注入漏洞发现插件
+
+- https://github.com/nccgroup/freddy    burp插件，自动识别Java/.NET 应用程序中的反序列化漏洞
+- https://github.com/modzero/interestingFileScanner    burp拓展增强敏感文件扫描
+- https://github.com/summitt/Burp-Non-HTTP-Extension    burpsuite联动插件内置小型DNS服务器抓取流量
+- https://github.com/ilmila/J2EEScan    用于扫描J2EE应用的一款burpsuite插件
+- https://github.com/bugcrowd/HUNT    可以将burpsuite扫描器功能扩展的更加强大，同时支持zapproxy扩展
+- https://github.com/codewatchorg/sqlipy    burpsuite联动插件，基于sqlmap
+- https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    sqlmap的web gui
+- https://github.com/KINGSABRI/sqlmap-tamper-api    利用各种语言来编写sqlmapTamper
+- https://github.com/0xbug/SQLiScanner    一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具
+- https://github.com/fengxuangit/Fox-scan    基于SQLMAP的主动和被动资源发现的漏洞扫描工具
+- https://github.com/UltimateHackers/sqlmate    在sqlmap基础上增加了目录扫描、hash爆破等功能
+- https://github.com/ysrc/GourdScanV2    ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
+- https://github.com/zt2/sqli-hunter    基于sqlmapapi，ruby编写的漏洞代理型检测工具
+- https://github.com/jesuiscamille/AutoSQLi    利用DorkNet，Googler, Ddgr, WhatWaf 和 sqlmap自动注入
+- https://github.com/cldrn/nmap-nse-scripts    NSE收集列表
+- https://github.com/vulnersCom/nmap-vulners    使用nmap扫描常见的服务漏洞
+- https://github.com/s4n7h0/Halcyon    Nmap Script (NSE)IDE编辑器
+- https://github.com/cldrn/rainmap-lite    使用web界面启动nmap
+- https://github.com/trimstray/sandmap    linux下将支持使用大量 Nmap 引擎进行网络和系统侦察的工具
+- https://github.com/m0nad/HellRaiser    基于nmap的扫描器，与cve漏洞关联
+- https://github.com/scipag/vulscan    基于nmap的高级漏洞扫描器，命令行环境使用
+- https://github.com/DanMcInerney/msf-autopwn    执行NMap扫描或读取扫描结果, 然后自动使用msf攻击包含常见漏洞的主机
+- https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    结合机器学习与msf的全自动测试工具
+- https://github.com/DanMcInerney/msf-netpwn    等待msf的session，并自动提权为域管理
+- https://github.com/NullArray/AutoSploit    利用Shodan 搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
+- https://github.com/WazeHell/metateta    使用msf脚本，根据特定协议进行扫描
+- https://github.com/shizzz477/msploitego    将msf数据库与maltego进行图形化展示
+- https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
+- https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf。一对多带界面
+- https://github.com/rsmudge/cortana-scripts    用于cobaltstrike2.x与armitage的可拓展插件，cobaltstrike3.x的为AggressorScripts
+- https://github.com/Ridter/CS_Chinese_support/    cobalt strike 汉化
+- https://github.com/harleyQu1nn/AggressorScripts    cobaltstrike脚本搜集
+- https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
+- https://github.com/interference-security/empire-web    empire的web界面
+- https://github.com/byt3bl33d3r/DeathStar    调用Empire RESTful API 自动化获取域管权限的py3脚本
 #### 网站信息搜集
 - https://github.com/smicallef/spiderfoot    OSINT自动化以找出关于您的目标的所有可能，有gui界面，可以微调插件
 - https://github.com/maurosoria/dirsearch    常用web路径收集与扫描
@@ -277,7 +281,8 @@
 - https://github.com/TheM4hd1/PenCrawLer    C#界面，web爬虫目录爆破工具
 - https://github.com/UltimateHackers/Arjun    扫描网页, 使用正则表达式爆破查找隐藏的GET/POST参数
 #### 指纹服务识别与框架利用
-- https://nmap.org/download.html    Nmap端口扫描器,-https://svn.nmap.org/
+- https://github.com/nmap/nmap    Nmap端口扫描器
+- https://github.com/zmap/zgrab    zmap扫描器的指纹识别模块，绕过CDN    
 - https://github.com/ring04h/wyportmap    目标端口扫描+系统服务指纹识别
 - https://github.com/angryip/ipscan    Angry IP Scanner，跨平台界面化端口扫描器
 - https://github.com/EnableSecurity/wafw00f    WAF产品指纹识别
@@ -442,17 +447,19 @@
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    基于易语言，模仿msf的漏洞利用框架，自带exp编辑器
 - https://github.com/PowerScript/KatanaFramework    基于python2，模仿msf的漏洞利用框架，还有些ssh、压缩包破解工具
 - https://github.com/m4ll0k/Galileo    py27,网站扫描器
-#### 网站管理（webshell）
+#### 网站管理和webshell
 - https://github.com/Chora10/Cknife    中国菜刀java
+- https://github.com/naozibuhao/SecQuanCknife    中国菜刀java升级版，增加爆破功能
 - https://github.com/euphrat1ca/hatchet    中国大砍刀
 - https://github.com/epinna/weevely3    基于python的php管理
 - https://github.com/anestisb/WeBaCoo    基于perl的php管理，kali自带
 - https://github.com/keepwn/Altman    the cross platform webshell tool in .NET
 - https://github.com/k4mpr3t/b4tm4n    集成伪造邮件ddos，bat.php初始k4mpr3t
-- https://github.com/dotcppfile/DAws    新一代webshell过各种防护装置，post pass=DAws
+- https://github.com/dotcppfile/DAws    新一代webshell过各种防火墙，post pass=DAws
 - https://github.com/wso-shell/WSO    webshell的文件管理，可以伪装为404界面
 - https://github.com/UltimateHackers/nano    php小马，附带py编写的生成器
 - https://github.com/rebeyond/memShell    一款可以写入java web server内存中的webshell
+- https://github.com/b374k/b374k    php网站管理，默认密码b374k
 - http://www.bt.cn    宝塔网站管理系统
 #### 端口转发与代理工具
 - https://github.com/fatedier/frp    用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议
@@ -465,6 +472,7 @@
 - https://github.com/audibleblink/doxycannon    使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 #### 后渗透与内网拓展
 - https://github.com/OpenWireSec/metasploit    metasploit神器
+- https://github.com/peterpt/fuzzbunch    NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
 - https://github.com/EmpireProject/Empire    一个纯碎的PowerShell后期漏洞利用工具，它建立在密码学、安全通信和灵活的架构之上
 - https://github.com/PowerShellMafia/PowerSploit    常见powershell利用脚本与开发框架汇总
 - https://github.com/PowerShellEmpire/PowerTools    一个专门负责攻击行动的powershell项目集
@@ -511,6 +519,7 @@
 - https://github.com/4w4k3/Insanity-Framework    基于py2远控，payload生成，过杀软，识别虚拟机，钓鱼内存注入……
 - https://github.com/ahhh/Reverse_DNS_Shell    一个使用DNS作为C2通道的Python反向Shell
 - https://github.com/deepzec/Grok-backdoor    py2，利用ngrok的后门
+- https://github.com/Ridter/MyJSRat    py2，可以配合chm的js来无弹框执行msf的恶意代码
 #### rootkit木马恶意软件
 - https://github.com/TestingPens/MalwarePersistenceScripts    win下恶意软件权限维持脚本
 - https://github.com/islamTaha12/Python-Rootkit    windows下rootkit，反弹meterpreter
@@ -560,10 +569,11 @@
 - https://github.com/1N3/PRISM-AP    自动化无线RogueAP(恶意热点ap) MITM攻击框架
 - https://github.com/SkypLabs/probequest    嗅探和显示无线网卡附近的Wifi Probe请求
 #### 中间人攻击
+- https://github.com/qiyeboy/BaseProxy    py3,异步http/https代理,可拦截并修改报文。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/Kevin-Robertson/Inveigh    一款PowerShell LLMNR / mDNS / NBNS欺骗器和中间人工具
-- https://github.com/LionSec/xerosploit    是一个渗透测试工具包，其目的是执行中间人攻击的测试目的
-- https://github.com/evilsocket/bettercap    是一款优秀的 MITM 攻击测试框架
-- https://github.com/bettercap/bettercap    中间人攻击第二个版本
+- https://github.com/LionSec/xerosploit    一个渗透测试工具包，其目的是执行中间人攻击的测试目的
+- https://github.com/evilsocket/bettercap    一款优秀的 MITM 攻击测试框架
+- https://github.com/bettercap/bettercap    楼上中间人攻击第二个版本
 #### IOT工控安全相关
 - http://www.freebuf.com/sectool/174567.html    工业控制系统（ICS）安全专家必备的测试工具和安全资源
 - https://gitlab.com/expliot_framework/expliot    py3，iot工控漏洞测试框架
@@ -657,6 +667,7 @@
 - https://github.com/a13xp0p0v/kconfig-hardened-check    用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://github.com/wstart/DB_BaseLine    数据库基线检查工具
 #### 安全相关工具
+- https://github.com/Security-Onion-Solutions/security-onion    用于入侵检测，网络安全监控和日志管理。最新版基于Ubuntu 16.04，集成Elastic Stack后采用分布式架构，可以非常方便地打造企业级网络安全监控平台
 - https://github.com/trimstray/otseca    linux系统审计工具，可以导出系统配置，生成报表
 - https://github.com/BugScanTeam/DNSLog    一款基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
 - https://github.com/mwrlabs/dref    DNS 重绑定利用框架
@@ -715,3 +726,4 @@
 - https://github.com/bugsafe/WeReport    WeReport报告助手
 - https://github.com/Gallopsled/pwntools    CTF夺旗赛的破解工具
 - https://github.com/ChrisTheCoolHut/Zeratool    针对pwn类型ctf获取flag的脚本
+- https://github.com/DominicBreuker/pspy    不用root权限就可以监控进程运行
