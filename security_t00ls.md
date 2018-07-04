@@ -56,41 +56,31 @@
 - https://www.root-me.org    在线靶场
 - http://www.itsecgames.com    bWAPP，包含 100多种漏洞环境
 - http://www.kanxue.com/?article-read-1108.htm=&winzoom=1    渗透测试Node.js应用
-
 - https://github.com/Audi-1/sqli-labs    基于SQLite的注入学习sql注入的靶场
 - https://github.com/c0ny1/upload-labs    一个帮你总结所有类型的上传漏洞的靶场
-
 - https://github.com/Go0s/LFIboomCTF    本地文件包含漏洞&&PHP利用协议&&实践源码
-
 - https://github.com/WebGoat/WebGoat    web安全实验靶场
 - https://github.com/ethicalhack3r/DVWA     web安全实验靶场
 - https://github.com/vulhub/vulhub    Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，简单执行两条命令即可编译、运行一个完整的漏洞靶场镜像
 - https://github.com/Medicean/VulApps    收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 - https://github.com/c0ny1/vulstudy    多种漏洞复现系统的docker汇总
-
 - https://github.com/bingohuang/docker-labs    制作在线docker平台
-
 - https://github.com/bkimminich/juice-shop    OWASP Juice Shop is an intentionally insecure web application
 - https://github.com/OWASP/igoat    适用于iOS应用程序测试和安全性的学习工具
 - https://github.com/prateek147/DVIA-v2    适用于iOS应用程序测试和安全性的学习工具
 - https://github.com/gh0stkey/DoraBox    网络安全靶场
 - https://github.com/Safflower/Solve-Me    韩国一个偏代码审计的ctf靶场源码
 - https://github.com/78778443/permeate    一个用于渗透透测试演练的WEB系统
-
-#### 特定专用工具
-
+- https://github.com/rapid7/metasploitable3    metasploit练习系统
+- https://github.com/rapid7/metasploit-vulnerability-emulator    基于perl的metasploit模拟环境，练习exp操作
+#### 特定脚本专用工具
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
 - https://github.com/Mr-Un1k0d3r/PowerLessShell    实现了不调用powershell.exe的情况下执行PowserShell命令
-
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    可以修改二进制文件的HASH，同时保留微软的签名
-
 - https://github.com/lionsoul2014/ip2region    ip地址定位库，支持python3等多接口。类比geoip
-
 - https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件, 查找敏感信息, 例如证书
-
 - https://github.com/DominicBreuker/stego-toolkit    隐写术工具包
-
 - https://github.com/m101/hsploit    基于rust的HEVD 漏洞利用程序
-
 - https://github.com/insecurityofthings/jackit    用于Mousejack的开发代码
 - https://github.com/Nummer/Destroy-Windows-10-Spying    关闭windows所有的监视服务
 - https://github.com/s-rah/onionscan    darkweb暗网爬虫
@@ -135,14 +125,11 @@
 - https://github.com/akaxincom/openzaly    openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器
 - https://github.com/panda-re/lava    大规模向程序中植入恶意程序
 - https://github.com/3xp10it/xupload    用于自动测试上传功能是否可上传webshell的工具
-
 - https://github.com/Lcys/Python_PoC    基于python3的poc生成模板
-
 #### EXP利用、POC收集
 - https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/w1109790800/penetration    CMS新老版本exp与系统漏洞搜集表
-- https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit    metasploit双星攻击利用文件
 - https://github.com/vulnersCom/getsploit    通过各种数据库的官方接口进行payload的查找
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    摄像头路由，Get DVR Credentials
 - https://github.com/3gstudent/CVE-2017-8464-EXP    win快捷方式远程执行漏洞
@@ -173,14 +160,15 @@
 - https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
 #### 提权工具与专用脚本
 - https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会展示的各种工具集
-- https://github.com/SecWiki/linux-kernel-exploits    linux-kernel-exploits Linux平台提权漏洞集合
 - https://github.com/mzet-/linux-exploit-suggester    查找linux有哪些补丁没有打的脚本
 - https://github.com/belane/linux-soft-exploit-suggester    查找linux有哪些有漏洞的软件
 - https://github.com/dirtycow/dirtycow.github.io    脏牛提权漏洞exp
 - https://github.com/WazeHell/PE-Linux    Linux提权工具
-- https://github.com/SecWiki/windows-kernel-exploits    windows-kernel-exploits Windows平台提权漏洞集合
+- https://github.com/SecWiki/linux-kernel-exploits    linux-kernel-exploits Linux平台提权漏洞集合
+- https://github.com/SecWiki/windows-kernel-exploits    Windows平台提权漏洞集合
 - https://github.com/redcanaryco/atomic-red-team    win、linux、mac等多方面apt利用手段、技术与工具包
 - https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
+- https://github.com/WindowsExploits/Exploits    CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
 - https://github.com/51x/WHP    windows下各种提权与利用工具
 - https://github.com/nil0x42/phpsploit    一款隐蔽性极强的后渗透利用框架，基于python，维持访问链接，并实现提权操作
 - https://github.com/breenmachine/RottenPotatoNG    利用NBNS本地域名欺骗和WPAD代理欺骗提权
@@ -188,13 +176,9 @@
 - https://github.com/unamer/vmware_escape    vmware虚拟机逃逸
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
 #### 相关工具拓展
-
 - https://github.com/PortSwigger    burpsuite官方插件库
-
 - https://github.com/wagiro/BurpBounty    burp拓展增强主动与被动扫描功能
-
 - https://github.com/PortSwigger/command-injection-attacker    BurpSuite 的命令注入漏洞发现插件
-
 - https://github.com/nccgroup/freddy    burp插件，自动识别Java/.NET 应用程序中的反序列化漏洞
 - https://github.com/modzero/interestingFileScanner    burp拓展增强敏感文件扫描
 - https://github.com/summitt/Burp-Non-HTTP-Extension    burpsuite联动插件内置小型DNS服务器抓取流量
@@ -221,6 +205,8 @@
 - https://github.com/DanMcInerney/msf-netpwn    等待msf的session，并自动提权为域管理
 - https://github.com/NullArray/AutoSploit    利用Shodan 搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
 - https://github.com/WazeHell/metateta    使用msf脚本，根据特定协议进行扫描
+- https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit    metasploit双星攻击利用文件
+- https://github.com/darkoperator/Metasploit-Plugins    msf扩展信息搜集与帮助插件
 - https://github.com/shizzz477/msploitego    将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
 - https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf。一对多带界面
@@ -230,7 +216,7 @@
 - https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
 - https://github.com/interference-security/empire-web    empire的web界面
 - https://github.com/byt3bl33d3r/DeathStar    调用Empire RESTful API 自动化获取域管权限的py3脚本
-#### 网站信息搜集
+#### 信息搜集
 - https://github.com/smicallef/spiderfoot    OSINT自动化以找出关于您的目标的所有可能，有gui界面，可以微调插件
 - https://github.com/maurosoria/dirsearch    常用web路径收集与扫描
 - https://github.com/guelfoweb/knock    通过爆破进行子域名获取，可用于查找子域名接管漏洞
@@ -548,25 +534,25 @@
 - https://github.com/OsandaMalith/Exe2Image    exe转换为图片的工具
 - https://github.com/secretsquirrel/the-backdoor-factory    BDF可用来向可执行文件植入后门，修改程序执行流程，执行添加的payload
 #### 无线网络审计WIFI扫描器
-- https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
-- https://github.com/SYWorks/waidps    WAIDPS 是一个 Python 编写的无线入侵检测工具，基于 Linux 平台
-- https://github.com/WiPi-Hunter/PiSavar    这个软件是为了防御 wifipineapple中文 WiFi 菠萝是无线安全审计用的的网络攻击。
-- https://github.com/savio-code/fern-wifi-cracker    无线安全审计工具
 - https://github.com/aircrack-ng/aircrack-ng    由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成
-- https://github.com/wifiphisher/wifiphisher    wifiphisher是一种安全工具，安装自动钓鱼攻击受害者定制为WiFi客户端攻击获得证书或恶意软件感染的受害者
-- https://github.com/m4n3dw0lf/PytheM    Python网络/渗透测试工具
+- https://github.com/t6x/reaver-wps-fork-t6x    wps跑pin码攻击，常见wifi攻击
+- https://github.com/derv82/wifite2    wifite升级版，联动aircrack-ng与reaver
+- https://github.com/savio-code/fern-wifi-cracker    无线安全审计工具
 - https://github.com/P0cL4bs/WiFi-Pumpkin    无线安全渗透测试套件
 - https://github.com/MisterBianco/BoopSuite    无线网络审计工具，支持2-5GHZ频段
+- https://github.com/m4n3dw0lf/PytheM    Python网络/渗透测试工具
+- https://github.com/SYWorks/waidps    WAIDPS 是一个 Python 编写的无线入侵检测工具，基于 Linux 平台
 - https://github.com/DanMcInerney/LANs.py    ARP欺骗，无线网络劫持
-- https://github.com/besimaltnok/PiFinger    检查wifi是否是"大菠萝"所开放的热点，并给予网络评分
-- https://github.com/derv82/wifite2    自动化无线网络攻击工具wifite的重构版本
-- https://github.com/cls1991/ng    Get password of the wifi you're connected, and your current ip address.
-- http://www.csploit.org/downloads/    手机WiFi渗透工具框架
+- https://github.com/besimaltnok/PiFinger    检查wifi是否是"大菠萝"所开放的热点
+- https://github.com/WiPi-Hunter/PiSavar    这个软件是为了防御 wifipineapple中文 WiFi 菠萝是无线安全审计用的的网络攻击。
+- https://github.com/1N3/PRISM-AP    自动化无线RogueAP(恶意热点ap) MITM攻击框架
+- https://github.com/wi-fi-analyzer/fluxion    Fluxion 是一个以欺骗无经验的用户泄露网络的密码的重写攻击。热门 WiFi 钓鱼工具之一
+- https://github.com/wifiphisher/wifiphisher    wifiphisher是一种安全工具，安装自动钓鱼攻击受害者定制为WiFi客户端攻击获得证书或恶意软件感染的受害者
+- https://github.com/cSploit/android    手机WiFi渗透工具框架，可以使用msf
 - https://github.com/chrisk44/Hijacker    手机wifi测试工具
 - https://www.zimperium.com/zanti-mobile-penetration-testing    手机wifi渗透工具
-- https://github.com/wi-fi-analyzer/fluxion    Fluxion 是一个以欺骗无经验的用户泄露网络的密码的重写攻击。也是当前最热门的 WiFi 钓鱼工具之一
-- https://github.com/derv82/wifite/wiki/Installation    Wifite 是一款自动化 wifi 密码破解工具，特点是支持多个 wep、wpa 加密的 wifi 网络，而且过程自动配置
-- https://github.com/1N3/PRISM-AP    自动化无线RogueAP(恶意热点ap) MITM攻击框架
+- https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
+- https://github.com/cls1991/ng    获取你当前连接wifi的密码与ip
 - https://github.com/SkypLabs/probequest    嗅探和显示无线网卡附近的Wifi Probe请求
 #### 中间人攻击
 - https://github.com/qiyeboy/BaseProxy    py3,异步http/https代理,可拦截并修改报文。可以作为中间人工具，比如说替换网址图片等
@@ -624,7 +610,7 @@
 - https://github.com/MazenElzanaty/TwLocation    基于py，获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    web界面，对某人的twitter进行全面的情报分析
 - https://github.com/0x09AL/raven    linux下领英Linkedin information gathering tool
-#### 企业资产管理与内网收集
+#### 企业资产管理与收集
 - https://github.com/laramies/theHarvester    企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
 - https://github.com/jeffzh3ng/Fuxi-Scanner    安全巡航检测，资产管理，集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/infobyte/faraday    协作渗透测试和漏洞管理平台，集成多种工具
@@ -709,6 +695,7 @@
 - https://github.com/NewEraCracker/LOIC/    一个为Windows设计的网络压力测试工具现已支持Mac OS——译者注
 - https://github.com/649/Memcrashed-DDoS-Exploit    利用Memcached服务器的DDoS攻击工具, 向Memcached服务器发送伪造的UDP数据包使其向攻击目标回复大量数据包
 #### 恶意文件检测
+- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/    泄露
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
 - https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
