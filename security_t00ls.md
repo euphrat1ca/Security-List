@@ -474,7 +474,7 @@
 #### 密码的抓取与hash窃取
 - https://github.com/AlessandroZ/LaZagne    基于python的跨平台本机密码抓取工具
 - https://github.com/huntergregal/mimipenguin	linux密码抓取神器
-- https://github.com/nettitude/Invoke-PowerThIEf	利用IE进行后渗透，抓取密码
+- https://github.com/nettitude/Invoke-PowerThIEf	利用IE进行后渗透，抓取密码、重定向等
 - https://github.com/gentilkiwi/mimikatz    Windows 下密码抓取渗透神器
 - https://github.com/skelsec/pypykatz    使用纯py3实现的mimikatz
 - https://github.com/eladshamir/Internal-Monologue    无需LSASS进程Mimikatz是从LSASS进程内存中提取内容, 从内存中提取明文密码, NTLM哈希, Kerberos ticket, 以及执行pass-the-hash/pass-the-ticket攻击等
