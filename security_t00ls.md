@@ -101,12 +101,9 @@
 - https://github.com/dafthack/MailSniper    针对win的Microsoft Exchange environment邮件嗅探
 - https://github.com/sensepost/ruler    能够通过MAPI/HTTP协议与Exchange服务器交互的工具
 - https://github.com/chenjj/CORScanner    CORS跨域扫描器
-- https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
-- https://github.com/nccgroup/house    运行时手机 App 分析工具包, 带Web GUI
 - https://github.com/sfan5/fi6s    ipv6扫描器
 - https://github.com/commixproject/commix    命令行注入与漏洞扫描工具，在某个易受攻击的参数或HTTP标头中很容易找到并利用命令注入漏洞
 - https://github.com/Graph-X/davscan    DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹
-- https://github.com/UltimateHackers/Diggy    从 Apk 文件中提取 URLs 的工具
 - https://github.com/jcesarstef/dotdotslash    目录遍历漏洞辅助测试
 - https://github.com/hvqzao/liffy    本地文件包含漏洞利用工具
 - https://github.com/D35m0nd142/Kadabra    自动化本地文件包含漏洞扫描和利用工具
@@ -512,7 +509,7 @@
 - https://github.com/zerosum0x0/koadic    利用js与vbs进行渗透的大宝剑远控rat
 - https://github.com/peterpt/fuzzbunch    NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
 - https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    CobaltStrike相关插件编写。一对多带界面
-- https://github.com/Ridter/MyJSRat    py2，一个很实用的js后门各种神奇方式，https://evi1cg.me/archives/chm_backdoor.html
+- https://github.com/Ridter/MyJSRat    py2，一个实用的js后门，配合chm、hta可实现很多后门方式，https://evi1cg.me/archives/chm_backdoor.html
 - https://github.com/quasar/QuasarRAT    基于c#，一对多带界面
 - https://github.com/tiagorlampert/CHAOS    基于go语言的win远控，可过大部分杀软
 - https://github.com/AhMyth/AhMyth-Android-RAT    基于smali，Windows下安卓远控。一对多带界面
@@ -688,7 +685,6 @@
 #### fuzz测试与调试工具
 - https://github.com/jtpereyda/boofuzz    网络协议fuzz测试
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
-- https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 - https://github.com/ivanfratric/winafl    AFL for fuzzing Windows binaries
 - https://github.com/attekett/NodeFuzz    a fuzzer harness for web browsers and browser like applications.
 - https://github.com/google/oss-fuzz    Continuous Fuzzing for Open Source Software
@@ -776,7 +772,7 @@
 - https://github.com/m0rtem/CloudFail    针对Cloudfail,查找位于CDN后面网站的真实IP
 - https://github.com/Nitr4x/whichCDN    CDN识别、检测
 - https://github.com/3xp10it/xcdn    尝试找出cdn背后的真实ip，3xp10it.github.io 博客
-#### 代码审计工具或扫描器
+#### 代码审计与扫描
 - https://github.com/pyupio/safety    检查所有已安装 Python 包, 查找已知的安全漏洞
 - https://github.com/pumasecurity/puma-scan    实时代码审计，vs插件
 - https://github.com/wufeifei/cobra    白盒代码安全审计系统
@@ -828,3 +824,10 @@
 - https://github.com/milesrichardson/docker-onion-nmap    使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    一个使所有流量通过Tor网络发出的脚本
 - https://github.com/trimstray/multitor    启用多个tor通道转发流量，并设置负载均衡
+#### 移动安全相关
+- https://github.com/rovo89/Xposed	随心所欲改你的手机系统
+- https://github.com/android-hacker/VirtualXposed	基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
+- https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
+- https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
+- https://github.com/nccgroup/house    运行时手机 App 分析工具包, 带Web GUI
+- https://github.com/UltimateHackers/Diggy    从 Apk 文件中提取 URLs 的工具
