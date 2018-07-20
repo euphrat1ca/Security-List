@@ -100,7 +100,7 @@
 - https://github.com/sensepost/ruler    能够通过MAPI/HTTP协议与Exchange服务器交互的工具
 - https://github.com/chenjj/CORScanner    域解析漏洞，跨域扫描器
 - https://github.com/dienuet/crossdomain	域解析漏洞，跨域扫描器
-- https://github.com/sfan5/fi6s    ipv6扫描器
+- https://github.com/sfan5/fi6s    ipv6端口快速扫描器
 - https://github.com/commixproject/commix    命令行注入与漏洞扫描工具，在某个易受攻击的参数或HTTP标头中很容易找到并利用命令注入漏洞
 - https://github.com/Graph-X/davscan    DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹
 - https://github.com/jcesarstef/dotdotslash    目录遍历漏洞辅助测试
@@ -123,7 +123,7 @@
 - https://github.com/Lcys/Python_PoC    基于python3的poc、exp快速编写模板，有众多模范版本
 - https://github.com/RetireJS/grunt-retire    扫描js扩展库的常见漏洞
 - https://github.com/vulnersCom/getsploit    通过各种数据库的官方接口进行payload的查找
-- https://github.com/yassineaboukir/CVE-2018-0296    测试思科ASA路径穿越漏洞，可获取系统敏感信息
+- https://github.com/yassineaboukir/CVE-2018-0296    测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    CVE-2018-9995摄像头路由，Get DVR Credentials
 - https://github.com/3gstudent/CVE-2017-8464-EXP    CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/anbai-inc/CVE-2018-4878    Adobe Flash Exploit生成payload
@@ -219,7 +219,7 @@
 - https://github.com/interference-security/empire-web    empire的web界面
 - https://github.com/byt3bl33d3r/DeathStar    调用Empire RESTful API 自动化获取域管权限的py3脚本
 - https://github.com/infosecn1nja/e2modrewrite    用于将Empire配置文件转换为Apache modrewrite脚本
-#### 网站渗透辅助与漏洞框架
+#### 网站扫描器框架
 - https://github.com/andresriancho/w3af    知名插件化扫描器
 - https://github.com/juansacco/exploitpack    渗透测试集成框架，包含超过38,000+ exploits
 - https://github.com/Lucifer1993/AngelSword    Web应用漏洞扫描框架,基于python3，300poc
@@ -270,8 +270,6 @@
 - https://github.com/0xsauby/yasuo    基于ruby开发的扫描网络中主机存在的第三方web应用服务漏洞
 - https://github.com/yangbh/Hammer    Web应用漏洞扫描框架
 - https://github.com/secrary/EllaScanner    基于python3，simple，被动式漏洞扫描，支持历史cve编号漏洞识别
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    渗透辅助，php，exp搜寻、payload与shell生产、信息搜集
-- https://github.com/ultrasecurity/webkiller    渗透辅助，py，ip信息、端口服务指纹、蜜罐探测、bypass cloudflare、
 - https://github.com/viraintel/OWASP-Nettacker    自动化渗透测试框架
 - https://github.com/m4ll0k/WAScan    基于python2，simple，类似于Fuzzer,扫描页面, 链接/脚本/Form, 发送Payload等
 - https://github.com/jiangsir404/S7scan    一个集七种功能的漏洞综合检测利用工具
@@ -311,6 +309,8 @@
 - https://github.com/bit4woo/Teemo    多方式域名收集及枚举工具
 - https://github.com/swisskyrepo/Subdomino    子域名枚举，端口扫描，服务存活确认
 - https://github.com/nmalcolm/Inventus    通过爬虫实现的子域名收集工具
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    渗透辅助，php，exp搜寻、payload与shell生产、信息搜集
+- https://github.com/ultrasecurity/webkiller    渗透辅助，py，ip信息、端口服务指纹、蜜罐探测、bypass cloudflare、
 #### 运维安全与资产管理
 - https://github.com/ywolf/F-NAScan    py2.6，网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/jeffzh3ng/Fuxi-Scanner    安全巡航检测，资产管理，集成awvs、创宇Pocsuite、nmap、hydra
@@ -382,6 +382,7 @@
 #### 敏感信息扫描与处理
 - https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件, 查找敏感信息, 例如证书
 - https://github.com/Ice3man543/hawkeye    文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
+- https://github.com/CERTCC/keyfinder	查找并分析私钥/公钥文件(文件系统中), 支持 Android APK 文件
 - https://github.com/0xbug/Hawkeye    GitHub 泄露监控系统
 - https://github.com/metac0rtex/GitHarvester    github Repo信息搜集工具
 - https://github.com/repoog/GitPrey    GitHub敏感信息扫描工具
@@ -489,7 +490,7 @@
 - http://www.bt.cn    宝塔网站管理系统
 - http://www.freebuf.com/articles/web/176571.html    PHP使用流包装器实现WebShell
 - https://github.com/k4mpr3t/b4tm4n    集成伪造邮件ddos，bat.php的webshell，初始k4mpr3t
-- https://github.com/dotcppfile/DAws    新一代webshell过各种防火墙，post pass=DAws
+- https://github.com/dotcppfile/DAws    新一代webshell过防火墙，post pass=DAws
 - https://github.com/wso-shell/WSO    webshell的文件管理，可以伪装为404界面
 - https://github.com/UltimateHackers/nano    php小马，附带py编写的生成器
 - https://github.com/rebeyond/memShell    一款可以写入java web server内存中的webshell
@@ -771,7 +772,8 @@
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls
 - https://github.com/baidu/openrasp    RASP,Runtime Application Self-Protection，实时应用自我保护，更智能，针对每个语言定制
 - https://github.com/kirillwow/ids_bypass    IDS Bypass 脚本
-- https://github.com/3xp10it/bypass_waf    防火墙waf自动暴破
+- https://github.com/milo2012/ipv4bypass	利用ipV6绕过waf
+- https://github.com/3xp10it/bypass_waf    防火墙自动暴破
 - https://github.com/m0rtem/CloudFail    针对Cloudfail,查找位于CDN后面网站的真实IP
 - https://github.com/Nitr4x/whichCDN    CDN识别、检测
 - https://github.com/3xp10it/xcdn    尝试找出cdn背后的真实ip，3xp10it.github.io 博客
@@ -840,7 +842,6 @@
 - https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 - https://github.com/nccgroup/house    运行时手机 App 分析工具包, 带Web GUI
 - https://github.com/UltimateHackers/Diggy    从 Apk 文件中提取 URLs 的工具
-- https://github.com/CERTCC/keyfinder	查找并分析私钥/公钥文件(文件系统中), 支持 Android APK 文件
 - https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
 - https://github.com/chaitin/passionfruit    iOS应用逆向与分析工具，可以大大加速iOS应用安全分析过程
 #### 在线办公
