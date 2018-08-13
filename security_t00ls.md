@@ -746,6 +746,7 @@
 - https://github.com/dtag-dev-sec/tpotce    直接提供一个系统iso，里面使用docker技术实现多个蜜罐，更加方便的蜜罐研究与数据捕获
 - https://github.com/n3uz/t-pot-autoinstall    将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 - https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
+- https://github.com/github/glb-director    负载均衡组件GLB，数据解析使用了dpdk
 #### 入侵检测
 - https://github.com/Neo23x0/Loki    一款APT入侵痕迹扫描器
 - https://github.com/grayddq/HIDS    hids基于主机型入侵检测系统，一个人的安全部
@@ -763,7 +764,26 @@
 - https://github.com/jordanpotti/AWSBucketDump    枚举AWS S3 buckets以查找敏感机密的文件
 - https://github.com/x0day/Multisearch-v2    Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
-#### 防火墙防护规则、waf、CDN相关
+#### 恶意信息
+- https://github.com/robbyFux/Ragpicker	恶意软件信息爬取汇总分析
+- https://www.malware-traffic-analysis.net/	恶意软件样本
+- https://github.com/phage-nz/ph0neutria	楼上进阶版本
+- https://github.com/JPCERTCC/LogonTracer    分析windows恶意登录等事件日志
+- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- https://github.com/decalage2/oletools    用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档的python工具，用于恶意软件分析，取证和调试
+- https://github.com/sfaci/masc    扫描网站中的恶意软件, 以及其他一些网站维护功能
+- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
+- https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
+- https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
+- https://github.com/he1m4n6a/findWebshell    基于py的webshell检查工具，可后期添加后门指纹，很强大
+- https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
+- https://github.com/erevus-cn/scan_webshell    webshell扫描工具
+- https://github.com/yassineaddi/BackdoorMan    可对指定目录进行php webshell检测
+- https://github.com/nbs-system/php-malware-finder    一款高效率PHP-webshell扫描工具
+- https://github.com/emposha/PHP-Shell-Detector    测试效率高达99%的webshell检测工具
+- https://github.com/emposha/Shell-Detector    Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
+#### 防火墙规则、waf、CDN相关
 - https://github.com/chaitin/yanshi    长亭雷池（SafeLine）防火墙核心引擎使用到的代码生成工具
 - https://github.com/SpiderLabs/ModSecurity    基于C跨平台 WAF engine for Apache, IIS and Nginx
 - https://github.com/xsec-lab/x-waf    适用于中小企业的云waf
@@ -794,24 +814,6 @@
 - https://github.com/ywjt/Dshield    防护
 - https://github.com/NewEraCracker/LOIC/    一个为Windows设计的网络压力测试工具现已支持Mac OS——译者注
 - https://github.com/649/Memcrashed-DDoS-Exploit    利用Memcached服务器的DDoS攻击工具, 向Memcached服务器发送伪造的UDP数据包使其向攻击目标回复大量数据包
-#### 恶意信息检测
-- https://github.com/robbyFux/Ragpicker	恶意软件信息爬取汇总分析
-- https://github.com/phage-nz/ph0neutria	楼上进阶版本
-- https://github.com/JPCERTCC/LogonTracer    分析windows恶意登录等事件日志
-- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
-- https://github.com/decalage2/oletools    用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档的python工具，用于恶意软件分析，取证和调试
-- https://github.com/sfaci/masc    扫描网站中的恶意软件, 以及其他一些网站维护功能
-- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
-- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
-- https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
-- https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
-- https://github.com/he1m4n6a/findWebshell    基于py的webshell检查工具，可后期添加后门指纹，很强大
-- https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
-- https://github.com/erevus-cn/scan_webshell    webshell扫描工具
-- https://github.com/yassineaddi/BackdoorMan    可对指定目录进行php webshell检测
-- https://github.com/nbs-system/php-malware-finder    一款高效率PHP-webshell扫描工具
-- https://github.com/emposha/PHP-Shell-Detector    测试效率高达99%的webshell检测工具
-- https://github.com/emposha/Shell-Detector    Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
 #### CTF相关
 - https://github.com/facebook/fbctf    搭建ctf比赛框架
 - https://github.com/0Chencc/CTFCrackTools    首个CTF工具框架
