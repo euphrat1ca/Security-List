@@ -766,8 +766,8 @@
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
 #### 恶意信息
 - https://github.com/robbyFux/Ragpicker	恶意软件信息爬取汇总分析
+- https://github.com/phage-nz/ph0neutria	恶意软件信息爬取汇总分析
 - https://www.malware-traffic-analysis.net/	恶意软件样本
-- https://github.com/phage-nz/ph0neutria	楼上进阶版本
 - https://github.com/JPCERTCC/LogonTracer    分析windows恶意登录等事件日志
 - https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - https://github.com/decalage2/oletools    用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档的python工具，用于恶意软件分析，取证和调试
