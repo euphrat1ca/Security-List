@@ -129,6 +129,8 @@
 - https://github.com/3gstudent/CVE-2017-8464-EXP    CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/anbai-inc/CVE-2018-4878    Adobe Flash Exploit生成payload
 - https://github.com/joaomatosf/jexboss    JBoss和其他java序列化漏洞验证和开发工具
+- https://github.com/s1kr10s/Apache-Struts-v3    Apache-Struts漏洞利用工具
+- https://github.com/Ivan1ee/struts2-057-exp    struts2-057利用脚本
 - https://github.com/theLSA/s2sniper    struts2漏洞的检测工具
 - https://github.com/Lucifer1993/struts-scan    批量检测struts命令执行漏洞
 - https://github.com/lijiejie/struts2_045_scan    Struts2-045漏洞批量扫描工具
@@ -284,7 +286,6 @@
 - https://github.com/smicallef/spiderfoot    利用OSINT自动化找出对方信息，有gui界面，可以微调插件
 - https://github.com/laramies/theHarvester    企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
 - https://github.com/x0day/Multisearch-v2    Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
-- https://github.com/cea-sec/ivre    网络资产指纹发现，搭建属于自己的shodan与zoomeye
 - https://github.com/guelfoweb/knock    通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/aboul3la/Sublist3r    通过搜索引擎与爆破快速子域枚举工具
 - https://github.com/Ice3man543/subfinder    基于go实现的Sublist3r
@@ -608,6 +609,7 @@
 - https://github.com/MohamedNourTN/Terminator    py2,生成msf的payload的快捷脚本
 - https://github.com/Kkevsterrr/backdoorme    py3、py2多种类型的后门、shell生成工具，虽然不能提权但是可以自动维持权限
 - https://github.com/Veil-Framework/Veil    可以生成msf等工具的payload，做免杀
+- https://github.com/abedalqaderswedan1/aswcrypter    使用py、bash脚本生成msf过AV后门
 - https://github.com/EgeBalci/HERCULES    payload 生成器，可以绕开所有的杀毒软件
 - https://github.com/Screetsec/TheFatRat    基于java，检查msf服务是否启动，searchsploit快速搜索，免杀
 - https://github.com/pasahitz/zirikatu    生成msf免杀后门
@@ -729,6 +731,9 @@
 - https://github.com/ebursztein/malusb    创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
 - https://github.com/360PegasusTeam/GhostTunnel    可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
+- https://github.com/LennyLeng/RadioEye    RFID配合常见的NFC使用
+- https://github.com/Proxmark/proxmark3/    RFID神器PM3
+- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集 
 ### fuzz测试与调试工具
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
@@ -778,10 +783,10 @@
 - http://github.com/jumpserver/jumpserver    基于 Python3 的开源堡垒机
 - https://github.com/github/glb-director    负载均衡组件GLB，数据解析使用了dpdk
 ### 运维安全与资产管理
-- https://github.com/ywolf/F-NAScan    py2.6，网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/jeffzh3ng/Fuxi-Scanner    安全巡航检测，资产管理，集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/infobyte/faraday    协作渗透测试和漏洞管理平台，集成多种
 - https://github.com/guardicore/monkey    数据中心安全检测工具，分为扫描器与C2C服务器，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
+- https://github.com/cea-sec/ivre    网络资产指纹发现，搭建属于自己的shodan与zoomeye
 - https://github.com/ysrc/xunfeng    web界面，同程安全开发的网络资产识别引擎，漏洞检测引擎
 - https://github.com/superhuahua/xunfengES    web界面，base巡风开发，一个人的安全
 - https://github.com/DefectDojo/django-DefectDojo    基于django的漏洞资产管理平台
@@ -793,6 +798,7 @@
 - https://github.com/maya6/SiteScan    web界面，py3 celery。资产收集
 - https://github.com/0xbug/Biu-framework    企业内网基础服务安全扫描框架
 - https://github.com/RASSec/A_Scan_Framework    漏洞管理、资产管理、任务扫描系统
+- https://github.com/ywolf/F-NAScan    py2.6，网络资产、端口服务搜集整理，生成报表显示。快速
 ### 蜜罐安全
 - https://github.com/sjhilt/GasPot    模拟油电燃气工控系统
 - https://github.com/djformby/GRFICS    IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
@@ -836,10 +842,12 @@
 - https://github.com/JPCERTCC/LogonTracer    分析windows恶意登录等事件日志
 - https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - https://github.com/sfaci/masc    扫描网站中的恶意软件, 以及其他一些网站维护功能
+- https://github.com/Neo23x0/munin 依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
 - https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
 - https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/KasperskyLab/klara    卡巴斯基开源的分布式恶意软件扫描系统, 使用Yara
+- https://github.com/botherder/kraken    基于go实现的Yara恶意软件扫描器
 - https://github.com/he1m4n6a/findWebshell    基于py的webshell检查工具，可后期添加后门指纹，很强大
 - https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
 - https://github.com/erevus-cn/scan_webshell    webshell扫描工具
@@ -882,11 +890,12 @@
 - https://github.com/ywjt/Dshield    防护
 - https://github.com/NewEraCracker/LOIC/    一个为Windows设计的网络压力测试工具现已支持Mac OS——译者注
 - https://github.com/649/Memcrashed-DDoS-Exploit    利用Memcached服务器的DDoS攻击工具, 向Memcached服务器发送伪造的UDP数据包使其向攻击目标回复大量数据包
-### CTF相关
-- https://github.com/facebook/fbctf    搭建ctf比赛框架
+### CTF相关工具
+- https://github.com/facebook/fbctf    CTF比赛框架
 - https://github.com/0Chencc/CTFCrackTools    首个CTF工具框架
 - https://github.com/bugsafe/WeReport    WeReport报告助手
 - https://github.com/Gallopsled/pwntools    CTF夺旗赛的破解工具
+- https://github.com/DominicBreuker/stego-toolkit    隐写工具集
 - https://github.com/ChrisTheCoolHut/Zeratool    针对pwn类型ctf获取flag的脚本
 - https://github.com/DominicBreuker/pspy    不用root权限就可以监控进程运行
 - https://github.com/gabemarshall/microctfs    小型ctf镜像docker
