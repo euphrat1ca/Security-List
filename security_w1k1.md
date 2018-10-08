@@ -1,4 +1,3 @@
-
 # 项目简介
 **Scanners Box**
 - https://github.com/We5ter/Scanners-Box    加了些条目，细化下分类。
@@ -157,6 +156,7 @@
 - https://github.com/hahwul/a2sv    SSL漏洞扫描，例如心脏滴血漏洞等
 - https://github.com/jagracey/Regex-DoS    RegEx拒绝服务扫描器
 - https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup、POC、Exploit）
+- https://github.com/seclab-ucr/tcp_exploit    
 ### office漏洞利用大全
 - https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads    无需开启宏即可在word文档中利用DDE执行命令http://www.freebuf.com/articles/terminal/150285.html
 - https://github.com/Ridter/CVE-2017-11882    利用word文档获取shell，https://evi1cg.me/archives/CVE_2017_11882_exp.html
@@ -179,6 +179,7 @@
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    awvs11汉化包
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/PortSwigger    burpsuite官方插件库
+- https://github.com/Ebryx/AES-Killer    burp用于破解aes加密的插件
 - https://github.com/wagiro/BurpBounty    burp拓展增强主动与被动扫描功能
 - https://github.com/nccgroup/BurpSuiteHTTPSmuggler    Burp扩展, 使用几种技巧绕过WAF或测试WAF的有效性
 - https://github.com/PortSwigger/command-injection-attacker    BurpSuite 的命令注入漏洞发现插件
@@ -263,7 +264,7 @@
 - https://github.com/nmalcolm/Inventus    通过爬虫实现的子域名收集工具
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    渗透辅助，php，exp搜寻、payload与shell生产、信息搜集
 - https://github.com/ultrasecurity/webkiller    渗透辅助，py，ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
-### 威胁情报信息泄露
+### 敏感信息泄露发现
 - https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/    泄露
 - https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
 - https://github.com/shengqi158/svnhack    .svn文件夹泄漏利用工具
@@ -274,7 +275,6 @@
 - https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
 - https://github.com/jordanpotti/AWSBucketDump    枚举AWS S3 buckets以查找敏感机密的文件
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
-### 敏感信息发现
 - https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件, 查找敏感信息, 例如证书
 - https://github.com/Ice3man543/hawkeye    文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/CERTCC/keyfinder    查找并分析私钥/公钥文件(文件系统中), 支持 Android APK 文件
@@ -499,7 +499,12 @@
 - https://github.com/wso-shell/WSO    webshell的文件管理，可以伪装为404界面
 - https://github.com/UltimateHackers/nano    php小马，附带py编写的生成器
 - https://github.com/rebeyond/memShell    一款可以写入java web server内存中的webshell
-- http://www.freebuf.com/articles/web/176571.html    PHP使用流包装器实现WebShell
+- https://github.com/rebeyond/Behinder    “冰蝎”动态二进制加密网站管理客户端
+- https://xz.aliyun.com/t/2744#toc-8    利用动态二进制加密实现新型一句话木马之Java篇
+- https://xz.aliyun.com/t/2758#toc-4    利用动态二进制加密实现新型一句话木马之.NET篇
+- https://xz.aliyun.com/t/2774#toc-4    利用动态二进制加密实现新型一句话木马之PHP篇
+- https://xz.aliyun.com/t/2799    利用动态二进制加密实现新型一句话木马之客户端篇
+- https://github.com/DXkite/freebuf-stream-shell    PHP使用流包装器实现WebShell。freebuf上有详细文章
 ### 远程控制工具
 - https://github.com/malwaredllc/byob    僵尸网络生成框架
 - https://github.com/deadPix3l/CryptSky/    勒索软件poc
@@ -513,7 +518,7 @@
 - https://github.com/euphrat1ca/njRAT-v0.7d    基于vb，常见蠕虫远控，有很多变种，一对多带界面
 - https://github.com/nettitude/PoshC2    基于PowerShell和C#的远控工具，可在win下提权
 - https://github.com/zerosum0x0/koadic    利用windows下的 JScript/VBScript 执行大部分操作
-- https://github.com/Ridter/MyJSRat    py2，利用js后门，配合chm、hta可实现很多后门方式，https://evi1cg.me/archives/chm_backdoor.html
+- https://github.com/Ridter/MyJSRat    py2，利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html
 - https://github.com/its-a-feature/Apfell    py3，macOS与linux下的利用js后门，web界面管理
 - https://github.com/peterpt/fuzzbunch    py2，NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
 - https://github.com/n1nj4sec/pupy    py，Windows, Linux, OSX, Android跨平台，一对多
@@ -588,6 +593,7 @@
 - https://github.com/FireFart/dirtycow    脏牛提权漏洞exp
 - https://github.com/WazeHell/PE-Linux    Linux提权工具
 - https://guif.re/linuxeop    常见linux提权命令
+- https://github.com/jas502n/CVE-2018-17182/    Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    Linux系统利用Syscall实现提权
 - https://github.com/can1357/CVE-2018-8897    Linux系统利用Syscall实现提权
 - https://github.com/SecWiki/linux-kernel-exploits    linux-kernel-exploits Linux平台提权漏洞集合
@@ -816,7 +822,10 @@
 - https://github.com/processhacker/processhacker    监控系统资源、软件调试、检测恶意软件，管理进程
 - https://github.com/TKCERT/mail-security-tester    检测邮件防护与过滤系统的测试框架
 - https://github.com/netxfly/sec_check    通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
+- https://github.com/chaitin/sqlchop-http-proxy    利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入检测模块，可以拦截 SQL 注入流量而放行正常流量
+- https://github.com/target/strelka    py3，通过实时扫描文件进行威胁情报分析和实时监测。
 ### 运维安全资产管理
+- https://github.com/chaitin/cloudwalker    CloudWalker（牧云）服务器安全管理平台，逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等功能。
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要是在win下
 - https://github.com/guardicore/monkey    评估网络安全状况，分为扫描器与C2C服务器，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
 - https://github.com/MooseDojo/apt2    联动nmap、nessus等工具进行apt自动化测试
@@ -845,6 +854,7 @@
 - https://github.com/mushorg/conpot    针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
 - https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/mushorg/snare    py3，下一代新型web安全蜜罐
+- https://github.com/honeynet/beeswarm    py，使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### 入侵检测
 - https://github.com/Neo23x0/Loki    一款APT入侵痕迹扫描器
 - https://github.com/grayddq/HIDS    hids基于主机型入侵检测系统，一个人的安全部
@@ -857,6 +867,7 @@
 - http://m.imooc.com/article/21236    快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    服务器入侵溯源小技巧整理
+- https://github.com/zhanghaoyil/Hawk-I    基于无监督机器学习算法从Web日志中自动提取攻击Payload
 ### 调查取证
 - https://github.com/decalage2/oletools    用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档的python工具，用于恶意软件分析，取证和调试
 - https://github.com/gleeda/memtriage    Windows 内存取证工具
@@ -938,6 +949,7 @@
 - https://github.com/ChrisTheCoolHut/Zeratool    针对pwn类型ctf获取flag的脚本
 - https://github.com/DominicBreuker/pspy    不用root权限就可以监控进程运行
 - https://github.com/blacknbunny/peanalyzer32    PE 文件分析和反汇编工具
+- https://github.com/giantbranch/pwn_deploy_chroot    部署多个pwn题到一个docker容器中
 ### cross相关
 - https://github.com/bannedbook/fanqiang    cross汇总
 - https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
