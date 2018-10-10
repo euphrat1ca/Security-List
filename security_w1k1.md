@@ -607,6 +607,7 @@
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/WindowsExploits/Exploits    微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
+- https://github.com/hausec/ADAPE-Script    活动目录自动化安全评估与权限提升脚本
 ### 权限绕过
 - https://github.com/tyranid/DotNetToJScript    能够利用JS/Vbs脚本加载.Net程序的工具
 - https://github.com/rootm0s/WinPwnage    py2，win下权限提升，uac绕过，dll注入等
