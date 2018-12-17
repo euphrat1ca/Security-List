@@ -9,13 +9,16 @@
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场。
 ***
 ## 相关资源
-- https://github.com/Hack-with-Github/Awesome-Hacking    GitHub万星推荐：黑客成长技术清单
+- https://wooyun.kieran.top/#!/    2016年之前，乌云Drops文章，公开漏洞详情文章
+- https://wooyun.js.org/    2016年之前，乌云Drops文章，公开漏洞详情文章
+- https://dvpnet.io/list/index/state/3    公开漏洞详情文章
+- https://sec.ly.com/bugs    同程安全公开漏洞详情文章
 - https://mitre-attack.github.io/    mitre科技机构对攻击技术的总结wiki
-- drops.wooyun.org    2016年之前，乌云Drops文章
+- http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
+- https://github.com/Hack-with-Github/Awesome-Hacking    GitHub万星推荐：黑客成长技术清单
 - https://github.com/infosecn1nja/AD-Attack-Defense    红蓝方攻防手册
 - https://github.com/k4m4/movies-for-hackers    安全相关电影
 - https://github.com/knownsec/KCon    KCon大会文章PPT
-- http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
 - https://github.com/SecWiki/sec-chart    各种相关安全思维导图集合
 - https://github.com/knownsec/RD_Checklist    知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    灰袍技能书2017版本
@@ -587,6 +590,7 @@
 - https://github.com/Chora10/Cknife    java，中国菜刀
 - https://github.com/naozibuhao/SecQuanCknife    java，中国菜刀升级版，增加爆破功能
 - https://github.com/euphrat1ca/hatchet    中国大砍刀
+- https://github.com/tengzhangchao/PyCmd    py，一句话木马客户端程序，目前支持php、jsp，CS端通信加密
 - https://github.com/epinna/weevely3    py,利用特定的一句话脚本对网站进行管理
 - https://github.com/nil0x42/phpsploit    py3,利用特定的一句话脚本对网站进行管理
 - https://github.com/wonderqs/Blade    py，利用特定的一句话脚本对网站进行管理
@@ -817,19 +821,20 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    收集目标类似的尚未注册的域名
 - https://github.com/x0day/Multisearch-v2    Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/n0tr00t/Sreg    Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+- https://github.com/SpiderLabs/social_mapper    社交媒体枚举和关联工具, 通过人脸识别关联人物侧写
+- https://github.com/vysec/MaiInt    公司雇员信息收集测试工具
+- https://github.com/jofpin/trape    py，利用OSINT对人员进行追踪定位
 - https://github.com/famavott/osint-scraper    输入人名或邮箱地址, 自动从互联网爬取关于此人的信息
-- https://github.com/initstring/linkedin2username    通过领英获取相关公司员工列表
+- https://github.com/xHak9x/fbi    py2,facebook脸书信息搜集工具
+- https://github.com/initstring/linkedin2username    通过Linkedin 领英获取相关公司员工列表
 - https://github.com/0x09AL/raven    linux下领英Linkedin information gathering tool
 - https://github.com/Ridter/Mailget    通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    py，获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    web界面，对某人的twitter进行全面的情报分析
-- https://github.com/SpiderLabs/social_mapper    社交媒体枚举和关联工具, 通过人脸识别关联人物侧写
-- https://github.com/vysec/MaiInt    公司雇员信息收集测试工具
 - https://github.com/deepfakes    虚假音视频制作
 - https://www.jianshu.com/p/147cf5414851    聊聊那些常见的探侦类APP
 - https://github.com/thinkst/canarytokens    重要文件的追踪溯源，信标定位（https://canarytokens.org/generate#）
-- https://github.com/jofpin/trape    py，利用OSINT对人员进行追踪定位
 - https://github.com/ggerganov/kbd-audio    c++,linux,利用麦克风监控键盘输入测试输入值
 #### 钓鱼框架邮件伪造
 - https://github.com/bhdresh/SocialEngineeringPayloads    负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
@@ -1071,7 +1076,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882
 - http://www.freebuf.com/articles/system/157597.html    快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    服务器入侵溯源小技巧整理
 - https://github.com/zhanghaoyil/Hawk-I    基于无监督机器学习算法从Web日志中自动提取攻击Payload
-### 恶意文件扫描与软件分析
+## 恶意文件检测与样本分析
 - https://github.com/open-power-workgroup/Hospital    全国莆田系医院名单
 - https://github.com/chenerlich/FCL    恶意代码使用的命令行收集
 - https://www.malware-traffic-analysis.net/    恶意软件样本
@@ -1090,13 +1095,6 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/KasperskyLab/klara    卡巴斯基开源基于Yara的分布式恶意软件扫描系统,
 - https://github.com/botherder/kraken    go，实现的Yara恶意软件扫描器
-- https://github.com/he1m4n6a/findWebshell    py，webshell检查工具，可后期添加后门指纹，很强大
-- https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
-- https://github.com/erevus-cn/scan_webshell    webshell扫描工具
-- https://github.com/yassineaddi/BackdoorMan    可对指定目录进行php webshell检测
-- https://github.com/nbs-system/php-malware-finder    一款高效率PHP-webshell扫描工具
-- https://github.com/emposha/PHP-Shell-Detector    测试效率高达99%的webshell检测工具
-- https://github.com/emposha/Shell-Detector    Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
 - https://github.com/alexandreborges/malwoverview    simple，将恶意文件进行快速分类
 - https://github.com/joxeankoret/pigaios    直接对比源代码与编译的二进制文件
 - https://github.com/viper-framework    py2，二进制分析和管理框架，对恶意文件进行分析
@@ -1104,6 +1102,20 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882
 - https://github.com/netxfly/sec_check    通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
 - https://github.com/felixweyne/ProcessSpawnControl    powershell,对恶意程序进行检测与监控
 - https://github.com/Aurore54F/JaSt    使用语法检测恶意/混淆的JS文件，https://www.blackhoodie.re/assets/archive/JaSt_blackhoodie.pdf
+- http://edr.sangfor.com.cn/    win，Linux下恶意软件、webshell检测查杀工具
+- http://www.clamav.net/downloads    病毒查杀软件
+- http://www.chkrootkit.org/    rootkit检测工具
+- http://rootkit.nl/projects/rootkit_hunter.html     rootkit检测工具
+### 恶意文件检测之webshell查杀扫描
+- http://www.safedog.cn/    安全狗web防火墙
+- http://d99net.net/    win，啊D出品D盾_防火墙，包含waf与webshel检测功能
+- https://github.com/he1m4n6a/findWebshell    py，webshell检查工具，可后期添加后门指纹，很强大
+- https://github.com/ym2011/ScanBackdoor    一款简洁的Webshell扫描工具
+- https://github.com/erevus-cn/scan_webshell    webshell扫描工具
+- https://github.com/yassineaddi/BackdoorMan    可对指定目录进行php webshell检测
+- https://github.com/nbs-system/php-malware-finder    一款高效率PHP-webshell扫描工具
+- https://github.com/emposha/PHP-Shell-Detector    测试效率高达99%的webshell检测工具
+- https://github.com/emposha/Shell-Detector    Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
 ### 代码审计源码扫描
 - https://www.waitalone.cn/seay-source-code-auditv2.html    Seay源代码审计系统2.1版本
 - https://github.com/pyupio/safety    检查所有已安装 Python 包, 查找已知的安全漏洞
@@ -1160,6 +1172,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882
 - https://github.com/walkor/workerman-chat    在线聊天室，可扩展，需要php环境
 - https://github.com/hack-chat    https://hack.chat/?your-channel 在线聊天，问号后面跟你的房间名
 - https://github.com/akaxincom/openzaly    在线私有聊天服务器，Akaxin为客户端闭源
+- https://github.com/RocketChat/Rocket.Chat    js,在线团队聊天服务器，https://rocket.chat/install
 - https://github.com/chaitin/strapdown-zeta    长亭内部使用的简易Wiki系统
 - https://github.com/RobbieHan/gistandard    轻量级办公管理系统
 - https://github.com/asciimoo/searx    搭建一个自己的搜索引擎，不会被跟踪哟
