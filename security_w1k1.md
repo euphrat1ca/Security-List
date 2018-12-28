@@ -322,7 +322,7 @@
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    渗透辅助，php，exp搜寻、payload与shell生产、信息搜集
 -  https://github.com/chrismaddalena/ODIN    py3，simple，信息搜集与后期漏洞利用
 ### 敏感信息泄露发现
-- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php    密码泄露
+- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https://archive.org/search.php?query=    密码泄露
 - https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
 - https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件, 查找敏感信息, 例如证书
@@ -622,7 +622,6 @@
 - https://github.com/DarkSpiritz/DarkSpiritz    py2,后渗透框架
 - https://github.com/byt3bl33d3r/CrackMapExec    网络测试中的瑞士军刀，包含impacket、PowerSploit等多种模块
 - https://github.com/SpiderLabs/scavenger    对CrackMapExec进行二次包装开发进行内网敏感信息扫描
-- https://github.com/CoreSecurity/impacket    Impacket是用于处理网络协议的Python工具包集合，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
 - https://github.com/jmortega/python-pentesting    python-pentesting-tool python安全工具相关功能模块
 - https://github.com/0xdea/tactical-exploitation    Python/PowerShell的测试脚本集
 - https://github.com/PowerShellMafia/PowerSploit    powershell测试脚本集与开发框架汇总
@@ -738,6 +737,7 @@
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
 ### 权限绕过
+- https://payloads.online/archivers/2018-12-22/1    DLL Hijacking & COM Hijacking ByPass UAC - 议题解读
 - https://github.com/tyranid/DotNetToJScript    能够利用JS/Vbs脚本加载.Net程序的工具
 - https://github.com/mdsecactivebreach/SharpPack    绕过系统应用白名单执行DotNet and PowerShell tools
 - https://github.com/rootm0s/WinPwnage    py2，win下权限提升，uac绕过，dll注入等
@@ -886,8 +886,10 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/infobyte/evilgrade    一个模块化的脚本框架，使攻击者在不知情的情况下将恶意更新注入到用户更新中
 - https://github.com/quickbreach/smbetray    专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
 - https://github.com/mrexodia/haxxmap    对IMAP服务器进行中间人攻击
-### 协议解析流量分析还原
+### 协议解析流量还原分析
 - https://github.com/wireshark/wireshark    协议解析流量分析还原
+- https://github.com/CoreSecurity/impacket    Impacket是用于处理网络协议的Python工具包集合，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
+- https://github.com/secdev/scapy    内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - https://gitee.com/qielige/openQPA    协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 - https://github.com/jtpereyda/boofuzz    网络协议fuzz测试
 - https://www.jianshu.com/p/4dca12a35158    5个常用的免费报文库
@@ -981,15 +983,15 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/nsacyber/GRASSMARLIN    NSA旗下ICS/SCADA态势感知
 - https://github.com/nezza/scada-stuff    对 SCADA/ICS设备进行逆向与攻击
 ### 物联网相关与路由安全
-- http://stascorp.com    毛子开发的路由器漏洞利用工具，界面化很强大
+- http://stascorp.com    RouterScan毛子开发的路由器漏洞利用工具，界面化很强大
 - https://github.com/threat9/routersploit    py3，仿msf路由器漏洞利用框架
 - https://github.com/jh00nbr/Routerhunter-2.0    已停止更新，路由器漏洞扫描利用
-- https://github.com/googleinurl/RouterHunterBR    基于php,路由器设备漏洞扫描利用
+- https://github.com/googleinurl/RouterHunterBR    php，路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner    Telnet服务密码撞库
 - https://github.com/RUB-NDS/PRET    打印机攻击框架
 - https://github.com/rapid7/IoTSeeker    物联网设备默认密码扫描检测工具
 - https://github.com/schutzwerk/CANalyzat0r    专有汽车协议的安全分析工具包
-### 模糊测试fuzz
+### Fuzz模糊测试漏洞挖掘
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
@@ -1003,6 +1005,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/bunzen/pySSDeep    py，一个基于模糊哈希（Fuzzy Hashing）算法的工具。go，glaslos/ssdeep；C，ssdeep-project/ssdeep
 ### 蜜罐相关
 - https://github.com/paralax/awesome-honeypots    蜜罐开源技术收集
+- https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/Cymmetria/honeycomb    Cymmetria.公司开源蜜罐框架，低交互
 - https://github.com/sjhilt/GasPot    模拟油电燃气工控系统
 - https://github.com/djformby/GRFICS    IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
@@ -1018,7 +1021,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    RDP MITM，打造可记录图像和按键的 RDP 蜜罐（https://github.com/gosecure/pyrdp）
 ### 逆向相关
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
-- https://github.com/ReFirmLabs/binwalk    文件自动化逆向，拥有多种插件
+- https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件，
 - https://github.com/endgameinc/xori    自定义反汇编框架
 - https://down.52pojie.cn/    吾爱破解爱盘工具包
 - https://github.com/blacknbunny/peanalyzer32    PE 文件分析和反汇编工具
@@ -1218,6 +1221,7 @@ CVE-2017-0262、CVE–2017–8759、CVE-2017-11882，这几个还没找到
 - https://github.com/asciimoo/searx    搭建一个自己的搜索引擎，不会被跟踪哟
 - https://github.com/sym233/core-values-encoder    社会主义核心价值观加密
 - https://github.com/DoubleLabyrinth/navicat-keygen    navicat注册机
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen   MobaXterm注册机
 - https://hackertarget.com/ip-tools/    提供api，ip相关工具、在线扫描器
 - https://www.freenom.com    注册免费域名
 - http://bccto.me    一次性匿名邮箱
