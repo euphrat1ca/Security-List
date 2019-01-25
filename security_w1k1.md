@@ -254,11 +254,15 @@
 - https://github.com/LionSec/katoolin    使用linux服务器自动安装kali工具包
 - https://github.com/skavngr/rapidscan    py2，simple，联动kali下工具，漏洞扫描工具
 - https://github.com/koenbuyens/kalirouter    将kali设置为一个路由流量分析系统
+### Nessus相关工具拓展插件
+- https://www.tenable.com/downloads/nessus
+- https://github.com/se55i0n/Awvs_Nessus_Scanner_API    扫描器Awvs 11和Nessus 7 Api利用脚本
+- https://github.com/DanMcInerney/msf-autoshell    配合nessus扫描结果进行msf攻击
+- https://github.com/MooseDojo/apt2    联动nmap、nessus等工具进行安全测试
 #### awvs相关工具拓展插件
 - https://www.52pojie.cn/thread-214819-1-1.html    awvs10.5开发框架破解版
 - https://github.com/fnmsd/awvs_script_decode    awvs10.5规则scripts解密版，SDK，开发手册
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    awvs11汉化包
-- https://github.com/se55i0n/Awvs_Nessus_Scanner_API    扫描器Awvs 11和Nessus 7 Api利用脚本
 #### burpsuit相关工具拓展插件
 - https://github.com/PortSwigger    burpsuite官方插件库
 - https://github.com/snoopysecurity/awesome-burp-extensions    awesome系列之burp拓展
@@ -285,6 +289,7 @@
 - https://github.com/zt2/sqli-hunter    基于sqlmapapi，ruby编写的漏洞代理型检测工具
 - https://github.com/jesuiscamille/AutoSQLi    利用DorkNet，Googler, Ddgr, WhatWaf 和 sqlmap自动注入
 #### nmap相关工具拓展插件
+- https://github.com/Ullaakut/nmap    GO，实现的Nmap调用库
 - https://github.com/cldrn/nmap-nse-scripts    NSE收集列表
 - https://github.com/vulnersCom/nmap-vulners    使用nmap扫描常见的服务漏洞
 - https://github.com/s4n7h0/Halcyon    Nmap Script (NSE)IDE编辑器
@@ -300,7 +305,6 @@
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    等待msf的session，并自动提为域管理
-- https://github.com/DanMcInerney/msf-autoshell    配合nessus扫描结果进行msf攻击
 - https://www.exploit-db.com/exploits/45851/    msf插件，利用jira upm上传进行命令执行
 - https://github.com/NullArray/AutoSploit    利用Shodan 搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
 - https://github.com/WazeHell/metateta    使用msf脚本，根据特定协议进行扫描
@@ -496,7 +500,6 @@
 - https://github.com/chaitin/cloudwalker    CloudWalker（牧云）服务器安全管理平台，逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等功能。
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要是在win下
 - https://github.com/guardicore/monkey    评估网络安全状况，分为扫描器与C2C服务器，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
-- https://github.com/MooseDojo/apt2    联动nmap、nessus等工具进行安全测试
 - https://github.com/grayddq/PublicSecScan    调用awvs对大量WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 - https://github.com/jeffzh3ng/Fuxi-Scanner    资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/infobyte/faraday    协作渗透测试和漏洞管理平台，集成多种
@@ -924,7 +927,7 @@
 - http://ns4gov.000webhostapp.com 在线邮件伪造
 ### 中间人攻击流量劫持
 - https://github.com/bettercap/bettercap    网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等
-- https://github.com/mitmproxy/mitmproxy    具有控制台界面的交互式TLS，支持SSL的http拦截代理
+- https://github.com/mitmproxy/mitmproxy    PY,支持SSL拦截，进行https流量代理
 - https://github.com/qiyeboy/BaseProxy    py3,异步http/https代理,楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/lgandx/Responder    用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。a拿着b密码请求b，c对a说我是b，然后c获得了b的密码，https://www.secpulse.com/archives/65503.html 【脉搏译文系列】渗透师指南之Responder。
 - https://github.com/Kevin-Robertson/Inveigh    一款PowerShell LLMNR / mDNS / NBNS欺骗器和中间人工具
@@ -944,35 +947,38 @@
 - https://github.com/NytroRST/NetRipper    支持截获像putty,winscp,mssql,chrome,firefox,outlook，https中的明文密码
 - https://github.com/shramos/polymorph    支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/nospaceships/raw-socket-sniffer    C,PS，无需驱动抓取Windows流量
-### 无线网络审计WIFI扫描器
+### 无线网络WIFI中间人攻击
+- https://github.com/wi-fi-analyzer/fluxion    窃取用户wifi密码的进行密码重放攻击
+- https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
+- https://github.com/cls1991/ng    获取你当前连接wifi的密码与ip
+- https://github.com/wifiphisher/wifiphisher    PY,中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取
+- https://github.com/1N3/PRISM-AP    自动部署RogueAP(恶意热点) MITM攻击框架
+- https://github.com/sensepost/mana    Wifi劫持工具，可以监听计算机或其他移动设备的Wifi通信，并能够模仿该设备
+- https://github.com/deltaxflux/fluxion    bash与py，对使用wpa协议的无线网络进行MiTM攻击
+- https://github.com/DanMcInerney/LANs.py    ARP欺骗，无线网络劫持
+### 无线网络WIFI防御
+- https://github.com/SYWorks/waidps    PY,Linux下无线网络入侵检测工具
+- https://github.com/SkypLabs/probequest    嗅探和显示无线网卡附近的Wifi Probe请求
+- https://github.com/wangshub/hmpa-pi    在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒
+- https://github.com/besimaltnok/PiFinger    检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点
+- https://github.com/WiPi-Hunter/PiSavar    利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
+### 无线网络WIFI审计测试
 - https://www.wifislax.com    西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC
 - https://cn.elcomsoft.com/ewsa.html    ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
 - https://www.passcape.com    wifipr，握手包密码还原，另外还有许多商业版windows下密码还原工具
+- https://github.com/MisterBianco/BoopSuite    无线网络审计工具，支持2-5GHZ频段
 - https://github.com/aircrack-ng/aircrack-ng    由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成
 - https://github.com/t6x/reaver-wps-fork-t6x    wps跑pin码攻击，常见wifi攻击
-- https://github.com/derv82/wifite2    wifite升级版，联动aircrack-ng与reaver
+- https://github.com/derv82/wifite2    wifite无线审计工具升级版，联动aircrack-ng与reaver
 - https://github.com/savio-code/fern-wifi-cracker    无线安全审计工具
 - https://github.com/P0cL4bs/WiFi-Pumpkin    无线安全渗透测试套件
-- https://github.com/MisterBianco/BoopSuite    无线网络审计工具，支持2-5GHZ频段
+- https://github.com/entropy1337/infernal-twin    自动化无线攻击工具Infernal-Wireless
 - https://github.com/m4n3dw0lf/PytheM    Python网络/渗透测试工具
 - https://github.com/InfamousSYN/rogue    无线网络攻击工具包
-- https://github.com/SYWorks/waidps    WAIDPS 是一个 Python 编写的无线入侵检测工具，基于 Linux 平台
-- https://github.com/DanMcInerney/LANs.py    ARP欺骗，无线网络劫持
-- https://github.com/besimaltnok/PiFinger    检查wifi是否是"大菠萝"所开放的热点
-- https://github.com/WiPi-Hunter/PiSavar    这个软件是为了防御 wifipineapple中文 WiFi 菠萝是无线安全审计用的的网络攻击。
-- https://github.com/1N3/PRISM-AP    自动化无线RogueAP(恶意热点ap) MITM攻击框架
-- https://github.com/wi-fi-analyzer/fluxion    窃取用户wifi密码的进行密码重放攻击
-- https://github.com/wifiphisher/wifiphisher    红蓝军通过执行有针对性的Wi-Fi关联攻击实现针对无线客户端的中间人攻击，窃取凭证
-- https://github.com/sensepost/mana    Wifi劫持工具，可以监听计算机或其他移动设备的Wifi通信，并能够模仿该设备
 - https://github.com/cSploit/android    手机WiFi渗透工具框架，可以使用msf
 - https://github.com/chrisk44/Hijacker    手机wifi测试工具
 - https://andrax-pentest.org/    kali hunter手机渗透测试系统
 - https://www.zimperium.com/zanti-mobile-penetration-testing    手机wifi渗透工具
-- https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
-- https://github.com/cls1991/ng    获取你当前连接wifi的密码与ip
-- https://github.com/SkypLabs/probequest    嗅探和显示无线网卡附近的Wifi Probe请求
-- https://github.com/entropy1337/infernal-twin    自动化无线攻击工具Infernal-Wireless
-- https://github.com/deltaxflux/fluxion    bash与py，对使用wpa协议的无线网络进行MiTM攻击
 ### 数据取回隐秘传输
 - https://github.com/TryCatchHCF/Cloakify    躲避DLP/MLS数据泄露防护系统，突破数据白名单控制，躲避AV检测进行数据盗取
 - https://github.com/sensepost/DET    使用单个或多个通道同时执行数据取回
@@ -1074,26 +1080,29 @@
 ### 大数据平台安全
 - https://github.com/shouc/BDA    针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    hadoop测试方式和工具集
-### 蜜罐相关
+## 蜜罐安全
 - https://github.com/paralax/awesome-honeypots    蜜罐开源技术收集
-- https://github.com/alexbredo/honeypot-camera    py，摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
-- https://github.com/EasyDarwin/EasyIPCamera    C，RTSP服务器组件用以构建摄像头蜜罐
+- https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
+- https://github.com/dtag-dev-sec/tpotce    T-POT，里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
+- https://www.freebuf.com/sectool/190840.html    T-Pot多蜜罐平台使用心法
+- https://github.com/n3uz/t-pot-autoinstall    将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
+### Web蜜罐内网监测
+- https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
+- https://github.com/mushorg/snare    py3，web安全蜜罐，可克隆指定Web页面
+- https://github.com/honeynet/beeswarm    py，使用agent探针与蜜罐进行实时交互来引诱攻击者
 - https://github.com/p1r06u3/opencanary_web    py，内网低交互蜜罐。一键安装功能比较贴心，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
 - https://github.com/Cymmetria    知名欺骗防御蜜罐组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐
 - https://github.com/Cymmetria/honeycomb    Cymmetria公司开源蜜罐框架，低交互
 - https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
-- https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
-- https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
-- https://github.com/mushorg/snare    py3，下一代新型web安全蜜罐
-- https://github.com/honeynet/beeswarm    py，使用agent探针与蜜罐进行实时交互来引诱攻击者
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    RDP MITM，打造可记录图像和按键的 RDP 蜜罐（https://github.com/gosecure/pyrdp）
+### 摄像头蜜罐
+- https://github.com/alexbredo/honeypot-camera    py，摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
+- https://github.com/EasyDarwin/EasyIPCamera    C，RTSP服务器组件用以构建摄像头蜜罐
+### 工控蜜罐
 - https://github.com/sjhilt/GasPot    模拟油电燃气工控系统
 - https://github.com/djformby/GRFICS    IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
 - https://github.com/RabitW/IoTSecurityNAT    IoT测试系统，方便快速接入各种设备，进行安全测试
 - https://github.com/mushorg/conpot    针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
-- https://github.com/dtag-dev-sec/tpotce    T-POT，里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
-- https://www.freebuf.com/sectool/190840.html    T-Pot多蜜罐平台使用心法
-- https://github.com/n3uz/t-pot-autoinstall    将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 ## 逆向相关
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件，
@@ -1252,9 +1261,13 @@
 - https://github.com/xjr7670/QQzone_crawler    QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 ## 在线自服务与工具
 - https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
+- https://github.com/littlecodersh/itchat    微信个人号接口、微信机器人及命令行微信
+- https://github.com/sym233/core-values-encoder    js,社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
+- https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
+- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
+- http://sc.ftqq.com/3.version    server酱微信通知
 - https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
 - https://www.wolframalpha.com    根据问题直接给出答案的网站
-- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
 - shodan.io    互联网感知引擎
 - fofa.so    白帽汇NOSEC
 - https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
@@ -1264,8 +1277,6 @@
 - https://www.fakenamegenerator.com    多国身份信息模拟器
 - https://recruitin.net    Easily use Google to search profiles on LinkedIn
 - https://www.truthfinder.com    美国公民信息查询
-- https://github.com/sym233/core-values-encoder    js,社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
-- https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
 - https://verify-email.org    邮件真实性验证
 - https://safeweb.norton.com    诺顿网站安全检测
 - http://www.vuln.cn/tools/ftp    在线FTP登录
