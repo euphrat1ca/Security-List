@@ -5,6 +5,7 @@
 ***
 # 相关资源列表
 - https://mitre-attack.github.io/    mitre科技机构对攻击技术的总结wiki
+- https://arxiv.org    康奈尔大学（Cornell University）开放文档
 - http://www.owasp.org.cn/owasp-project/owasp-things    OWASP项目
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    KCon大会文章PPT
@@ -20,6 +21,7 @@
 - https://github.com/thunlp/THULAC-Python    py，清华中文分词
 - https://github.com/lancopku/PKUSeg-python    py3，北大中文分词
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    吴恩达机器学习python笔记
+- https://paperswithcode.com/sota    机器学习具体项目、演示、代码
 - https://github.com/duoergun0729/nlp    一本开源的NLP（神经语言程序学）入门书籍
 ## 攻防测试手册
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
@@ -40,12 +42,7 @@
 - https://payloads.online/archivers/2018-11-30/1    彻底理解Windows认证 - 议题解读
 - https://github.com/klionsec/klionsec.github.io    内网大牛的学习历程
 - https://github.com/l3m0n/pentest_study    从零开始内网渗透学习
-### 产品设计文档
-- https://www.freebuf.com/sectool/135032.html    构建一个高交互型的难以发现的蜜罐
-- https://bloodzer0.github.io/ossa/    利用开源文件进行开源安全架构
-- https://github.com/dvf/blockchain    用Python从零开始创建区块链
-- https://github.com/crazywa1ker/DarthSidious-Chinese    从0开始你的域渗透之旅，DarthSidious 中文版
-- https://paper.seebug.org/772/    如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
+- https://github.com/Ridter/Intranet_Penetration_Tips    内网渗透TIPS
 ### 学习手册相关资源
 - https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
@@ -54,6 +51,7 @@
 - http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/    hydra使用手册
 - https://www.gitbook.com/book/t0data/burpsuite/details    burpsuite实战指南
 - https://zhuanlan.zhihu.com/p/26618074    Nmap扩展脚本使用方法
+- https://somdev.me/21-things-xss/    XSS的21个扩展用途
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    sql注入sheet表
 - https://sqlwiki.netspi.com/    你要的sql注入知识点都能找到
 - https://github.com/kevins1022/SQLInjectionWiki    一个专注于聚合和记录各种SQL注入方法的wiki
@@ -78,6 +76,12 @@
 - https://www.securitypaper.org/    SDL开发安全生命周期管理
 - https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
 - https://github.com/wstart/DB_BaseLine    数据库基线检查工具
+### 产品设计文档
+- https://www.freebuf.com/sectool/135032.html    构建一个高交互型的难以发现的蜜罐
+- https://bloodzer0.github.io/ossa/    利用开源文件进行开源安全架构
+- https://github.com/dvf/blockchain    用Python从零开始创建区块链
+- https://github.com/crazywa1ker/DarthSidious-Chinese    从0开始你的域渗透之旅，DarthSidious 中文版
+- https://paper.seebug.org/772/    如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 ### 学习靶场
 - https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/    124个合法的可以练习Hacking技术的网站
 - https://www.zhihu.com/question/267204109    学web安全去哪里找各种各样的靶场？
@@ -150,13 +154,12 @@
 - https://github.com/chenjj/CORScanner    域解析漏洞，跨域扫描器
 - https://github.com/dienuet/crossdomain    域解析漏洞，跨域扫描器
 - https://github.com/sfan5/fi6s    ipv6端口快速扫描器
-- https://github.com/lavalamp-/ipv666    go,ipv6地址枚举扫描工具
-- https://github.com/commixproject/commix    命令注入漏洞扫描工具
+- https://github.com/lavalamp-/ipv666    go,ipv6地址枚举扫描
+- https://github.com/commixproject/commix    命令注入漏洞扫描
 - https://github.com/Graph-X/davscan    DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹
-- https://github.com/jcesarstef/dotdotslash    目录遍历漏洞辅助测试
-- https://github.com/P3GLEG/WhaleTail    将docker镜像还原成dockerfile
+- https://github.com/jcesarstef/dotdotslash    目录遍历漏洞测试
+- https://github.com/P3GLEG/WhaleTail    根据docker镜像生成成dockerfile
 - https://github.com/cr0hn/dockerscan    docker扫描工具
-- https://github.com/0x4D31/salt-scanner    基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用
 - https://github.com/utiso/dorkbot    通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    基于搜索引擎的漏洞网页搜寻
 - https://github.com/panda-re/lava    大规模向程序中植入恶意程序
@@ -164,6 +167,7 @@
 - https://github.com/securemode/DefenderKeys    枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/D4Vinci/PasteJacker    剪贴板劫持利用工具
 - https://github.com/JusticeRage/freedomfighting    日志清理、文件共享、反向shell、简单爬虫工具包
+- https://github.com/gh0stkey/PoCBox    漏洞测试验证辅助平台，SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 ## 漏洞收集与exp、poc利用
 - https://github.com/Lcys/Python_PoC    python3的poc、exp快速编写模板，有众多模范版本
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
@@ -192,6 +196,7 @@
 - https://www.anquanke.com/post/id/106488    利用mysql服务端恶意配置读取客户端文件，（如何利用MySQL LOCAL INFILE读取客户端文件，Read MySQL Client's File，【技术分享】从MySQL出发的反击之路）
 - https://www.waitalone.cn/awvs-poc.html    CVE-2015-4027，AWVS10命令执行漏洞
 - http://an7isec.blogspot.com/2014/04/pown-noobs-acunetix-0day.html    Pwn the n00bs - Acunetix 0day，awvs8命令执行漏洞
+- https://github.com/numpy/numpy/issues/12759    科学计算框架numpy命令执行RCE漏洞
 ### 物联网路由工控漏洞收集
 - https://github.com/yassineaboukir/CVE-2018-0296    测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    利用tcp漏洞使无线路由器产生隐私泄露
@@ -267,6 +272,7 @@
 - https://github.com/PortSwigger    burpsuite官方插件库
 - https://github.com/snoopysecurity/awesome-burp-extensions    awesome系列之burp拓展
 - https://github.com/d3vilbug/HackBar    集成hackbar
+- https://github.com/PortSwigger/turbo-intruder    比Burp自带的Intruder 更快，一分钟打1.61万次请求
 - https://github.com/Ebryx/AES-Killer    burp插件，破解aes加密的插件
 - https://github.com/bugcrowd/HUNT    可以将burpsuite扫描器功能扩展的更加强大，同时支持zapproxy扩展
 - https://github.com/wagiro/BurpBounty    burp插件增强主动与被动扫描功能
@@ -315,6 +321,7 @@
 - https://github.com/shizzz477/msploitego    将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
 #### CobaltStrike相关工具拓展插件
+- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，一对多带界面
 - https://github.com/anbai-inc/CobaltStrike_Hanization      CobaltStrike2.5汉化版，以msf库为基础，3.0以后改版
 - https://github.com/rsmudge/cortana-scripts    用于cs2.x与armitage的可拓展插件，cvs3.x的为AggressorScripts
@@ -325,9 +332,11 @@
 - https://github.com/ryhanson/ExternalC2    一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    搜索分类域，为Cobalt Strike beacon C&C设置白名单域
+- https://github.com/threatexpress/malleable-c2    利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 - https://github.com/dcsync/pycobalt    py3,Python API for Cobalt Strike
 - https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    CobaltStrike相关插件编写，一对多带界面
 #### Empire相关工具拓展插件
+- https://paper.tuisec.win/detail/f3dce68a0b4baaa   利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
 - https://github.com/interference-security/empire-web    empire的web界面
 - https://github.com/byt3bl33d3r/DeathStar    py3,调用Empire RESTful API 自动化获取域管权限的
@@ -383,17 +392,29 @@
 - https://github.com/Xyntax/FileSensor    网站敏感文件探测工具
 - https://github.com/ring04h/weakfilescan    多线程网站泄露信息检测工具
 - https://github.com/Viralmaniar/Passhunt    simple，用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
+- https://github.com/yassineaboukir/Asnlookup   simple,利用ASN搜索特定组织拥有ip，可联动nmap、masscan进行进一步信息扫描
 ### 敏感信息泄露发现
-- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https://archive.org/search.php?query=    密码泄露
-- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
-- https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
 - https://github.com/Yelp/detect-secrets    PY,防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件, 查找敏感信息, 例如证书
-- https://github.com/Raikia/CredNinja    多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，最好利用445端口
+- https://github.com/Raikia/CredNinja    多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 - https://github.com/CERTCC/keyfinder    查找并分析私钥/公钥文件(文件系统中), 支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    go，cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/FortyNorthSecurity/EyeWitness    获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 - https://github.com/D4Vinci/Cr3dOv3r    根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
+### 威胁情报分析
+- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https://archive.org/search.php?query=    密码泄露
+- https://www.threatcrowd.org/    威胁情报分析平台
+- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测
+- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
+- https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
+- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
+- https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
+- https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
+- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
+- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- https://github.com/target/strelka    py3，通过实时扫描文件进行威胁情报分析和实时监测。
 ### 托管云安全
 - https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    AWS 安全检测相关的项目列表
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools    AWS安全工具集
@@ -490,12 +511,14 @@
 - https://github.com/samhaxr/hackbox    py2，simple，网站扫描器
 - https://github.com/secrary/EllaScanner    py3，simple，被动式漏洞扫描，支持历史cve编号漏洞识别
 - https://github.com/m4ll0k/WAScan    py，simple，类似于Fuzzer,扫描页面, 链接/脚本/Form, 发送Payload等
-- https://github.com/jiangsir404/S7scan    py,simple，七种综合检测
+- https://github.com/jiangsir404/S7scan    py,已用1，七种综合检测
 - https://github.com/hatRiot/clusterd    py，simple，web漏洞利用
 - https://github.com/M4cs/BabySploit    py,simple,模仿msf
 - https://github.com/iceyhexman/onlinetools    simple，web界面，在线cms指纹识别|旁站|c段|信息泄露|工控|系统|物联网安全|cms漏洞扫描|端口扫描|等
 - https://github.com/tulpar/tulpar    simple,支持多种web漏洞扫描
 - https://github.com/UltimateHackers/Striker    simple，信息搜集、cms利用与漏扫，侦察绕过Cloudflare
+- https://github.com/0x4D31/salt-scanner    基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用
+- https://github.com/opensec-cn/kunpeng    go，POC检测框架，以动态链接库的形式提供各种语言调用
 ### 运维安全服务与资产管理
 - https://github.com/chaitin/cloudwalker    CloudWalker（牧云）服务器安全管理平台，逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等功能。
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要是在win下
@@ -572,8 +595,8 @@
 - https://github.com/ron190/jsql-injection    Java 编写的SQL注入工具
 - https://github.com/shack2/SuperSQLInjectionV1    安恒航牛的一款界面化注入工具
 - https://github.com/sqlmapproject/sqlmap    sql注入sqlmap
-- https://github.com/stamparm/DSSS    simple,99行代码实现的sql注入漏洞扫描器
-- https://github.com/Hadesy2k/sqliv    simple,基于搜索引擎的批量SQL注入漏洞扫描器
+- https://github.com/stamparm/DSSS    已用1,99行代码实现的sql注入漏洞扫描器
+- https://github.com/Hadesy2k/sqliv    已用1,基于搜索引擎的批量SQL注入漏洞扫描器
 - https://github.com/quentinhardy/odat    一款专门用于Oracle渗透的很全面的工具
 - https://github.com/m8r0wn/enumdb    MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
 - https://github.com/LoRexxar/Feigong    针对各种情况自由变化的MySQL注入脚本
@@ -690,6 +713,7 @@
 - https://github.com/sowish/LNScan    详细的内部网络信息扫描器
 - https://github.com/rootlabs/nWatch    联动nmap，并对组织内网进行扫描
 - https://github.com/m8r0wn/nullinux    用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
+- https://github.com/zMarch/Orc    bash，Linux下后渗透命令集合
 ### 远程控制C2服务器
 - https://github.com/malwaredllc/byob    僵尸网络生成框架
 - https://github.com/proxycannon/proxycannon-ng    构建攻击僵尸网络
@@ -745,20 +769,25 @@
 - https://github.com/ToyoDAdoubi/doubi    各种常用一键脚本
 - https://github.com/Nyr/openvpn-install    openvpn一键
 - https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
-- https://github.com/gwuhaolin/lightsocks    轻量级网络混淆代理，基于 SOCKS5 协议，类SS
-- https://github.com/Ccapton/brook-web    brook程序服务端Web后台管理服务器（Linux|MacOS），基于python、flask、flask-restful
-- https://github.com/Ccapton/brook-ok    Brook一键安装脚本
-- https://github.com/txthinking/brook    go，支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/teddysun/shadowsocks_install    shadowsocks,shadowsocksr
 - https://github.com/guyingbo/shadowproxy    ss/socks5/http//https等多种代理
 - https://github.com/shadowsocks/shadowsocks-manager    shadowsocks多用户管理
 - https://github.com/leitbogioro/SSR.Go    shadowsocksrr配置管理简化工具
-- https://github.com/xuanhuan/ss-panel    搭建分布式ss管理工具
-- https://github.com/Ahref-Group/SS-Panel-smarty-Edition    楼上加了兑换码功能、商城系统还有服务器信息新界面等
+- https://github.com/ssrpanel/SSRPanel    ss\ssr\v2ray用户分布式管理
+- https://github.com/xuanhuan/ss-panel    ss用户分布式管理
+- https://github.com/Ahref-Group/SS-Panel-smarty-Edition    ss用户分布式管理，兑换码功能、商城系统，服务器信息
+- https://github.com/Ccapton/brook-web    brook程序服务端Web后台管理服务器（Linux|MacOS），基于python、flask、flask-restful
+- https://github.com/Ccapton/brook-ok    Brook一键安装脚本
+- https://github.com/txthinking/brook    go，支持Linux/MacOS/Windows/Android/iOS的代理与vpn
+- https://github.com/gwuhaolin/lightsocks    轻量级网络混淆代理，基于 SOCKS5 协议，类SS
 - https://github.com/Umbrellazc/BypassCampusNet    校园网防断网; UDP 53 免流上网
 - https://doub.io/dbrj-5/    通过虚拟网卡转为类VPN全局代理SSTAP，还有sockscap64，比proxifier使用简单
+- https://github.com/ntkernel/lantern    unlimited-landeng-for-win，无限流量蓝灯
 - https://www.psiphon3.com    开源赛风超越边界代理
+- https://hide.me    可试用
+- https://windscribe.com    可试用
 - http://www.vpngate.net    日本国立筑波大学超越边界代理
+- https://rava.app    注册可免费用一天
 ### 横向移动与密码hash窃取
 - http://www.oxid.it/cain.html    Cain & Abel支持密码还原、arp中间人攻击
 - https://github.com/gentilkiwi/mimikatz    Windows下以抓取密码为主的横向移动神器
@@ -1059,8 +1088,9 @@
 - https://github.com/github/glb-director    负载均衡组件GLB，数据解析使用了dpdk
 - https://github.com/processhacker/processhacker    监控系统资源、软件调试、检测恶意软件，管理进程
 - https://github.com/TKCERT/mail-security-tester    检测邮件防护与过滤系统的测试框架
-- https://github.com/chaitin/sqlchop-http-proxy    利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入检测模块，可以拦截 SQL 注入流量而放行正常流量
-### 代码审计源码扫描
+- https://github.com/chaitin/sqlchop-http-proxy    利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
+- https://github.com/OWASP/SecureTea-Project    当有人私自触碰电脑鼠标或触摸板，进行报警
+### 代码审计应用测试
 - https://www.waitalone.cn/seay-source-code-auditv2.html    Seay源代码审计系统2.1版本
 - https://github.com/pyupio/safety    检查所有已安装 Python 包, 查找已知的安全漏洞
 - https://github.com/pumasecurity/puma-scan    实时代码审计，vs插件
@@ -1068,7 +1098,9 @@
 - https://github.com/OneSourceCat/phpvulhunter 静态php代码审计
 - https://github.com/ripsscanner/rips    基于php的php代码审计工具
 - https://github.com/Qihoo360/phptrace    跟踪、分析PHP运行情况的工具
-- https://github.com/ajinabraham/NodeJsScan    NodeJS应用代码审计
+- https://github.com/ajinabraham/NodeJsScan    Node.JS应用代码审计
+- https://github.com/ctxis/beemka    针对Electron App的漏洞利用工具包
+- https://github.com/doyensec/electronegativity    Electron应用代码审计，App的错误配置和安全问题
 - https://github.com/shengqi158/pyvulhunter    Python应用审计
 - https://github.com/securego/gosec    Go 语言源码安全分析工具
 - https://github.com/GoSSIP-SJTU/TripleDoggy    基于clang的c/c++/object-c源代码检测框架，有大量接口可以被调用
@@ -1105,7 +1137,8 @@
 - https://github.com/mushorg/conpot    针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
 ## 逆向相关
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
-- https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件，
+- https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件
+- https://github.com/angr/angr    一个具有动态符号执行和静态分析的二进制分析工具
 - https://github.com/endgameinc/xori    自定义反汇编框架
 - https://down.52pojie.cn/    吾爱破解爱盘工具包
 - https://github.com/blacknbunny/peanalyzer32    PE 文件分析和反汇编工具
@@ -1121,9 +1154,11 @@
 - https://github.com/Gallopsled/pwntools    pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    pwn，自动攻击脚本
+- https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources
 - https://github.com/DominicBreuker/stego-toolkit    隐写工具包
 - https://github.com/bugsafe/WeReport    WeReport报告助手
-### 计算机取证调查
+### 计算机与移动设备取证调查
+- https://www.freebuf.com/articles/rookie/195107.html    记一次微信数据库解密过程。微信的加密数据库的解密密码是由“设备的IMEI(MEID)+用户的uin，进行MD5，然后取其前7位小写字母”构成的
 - https://www.audacityteam.org/    音频文件和波形图处理工具
 - http://www.sweetscape.com/010editor/    识别不同文件格式（模板）的16进制编辑器，具有文件修复功能
 - http://www.magicexif.com/    将照片图像中的exif信息数据化
@@ -1161,8 +1196,10 @@
 - https://github.com/XekriCorp/LeakVM    安卓应用安全测试框架
 - https://github.com/zsdlove/ApkVulCheck    安卓漏洞扫描工具
 - https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
+- https://github.com/GeoSn0w/OsirisJailbreak12    IOS12不完全越狱
 - https://github.com/chaitin/passionfruit    iOS应用逆向与分析工具，可以大大加速iOS应用安全分析过程
 ### 防火墙规则、waf、CDN相关
+- https://github.com/baidu/openrasp    RASP,Runtime Application Self-Protection，实时应用自我保护，更智能，针对每个语言定制
 - https://github.com/snort3/snort3    snort算是最出名的开源ids入侵检测
 - https://github.com/chaitin/yanshi    长亭偃师（yanshi）,雷池（SafeLine）防火墙核心引擎使用到的代码生成工具
 - https://github.com/SpiderLabs/ModSecurity    C，跨平台 WAF engine for Apache, IIS and Nginx
@@ -1172,7 +1209,6 @@
 - https://github.com/loveshell/ngx_lua_waf    基于lua-nginx-moduleopenresty的web应用防火墙
 - https://github.com/Janusec/janusec    基于Golang开发的应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls
-- https://github.com/baidu/openrasp    RASP,Runtime Application Self-Protection，实时应用自我保护，更智能，针对每个语言定制
 - https://github.com/kirillwow/ids_bypass    IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass    利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf    防火墙绕过脚本
@@ -1194,10 +1230,11 @@
 - http://www.freebuf.com/articles/system/157597.html    快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    服务器入侵溯源小技巧整理
 - https://github.com/zhanghaoyil/Hawk-I    基于无监督机器学习算法从Web日志中自动提取攻击Payload
-### 恶意文件检测与样本分析
+### 恶意文件测与样本分析
 - https://github.com/open-power-workgroup/Hospital    全国莆田系医院名单
 - https://github.com/chenerlich/FCL    恶意代码使用的命令行收集
 - https://paper.seebug.org/421    常见软件合集与恶意软件分析
+- https://github.com/sapphirex00/Threat-Hunting    apt恶意软件样本
 - https://www.malware-traffic-analysis.net/    恶意软件样本
 - http://dasmalwerk.eu/    恶意软件样本
 - https://github.com/ytisf/theZoo    恶意软件样本
@@ -1206,18 +1243,14 @@
 - https://github.com/robbyFux/Ragpicker    恶意软件信息爬取汇总分析
 - https://github.com/phage-nz/ph0neutria    恶意软件信息爬取汇总分析
 - https://github.com/JR0driguezB/malware_configs    常见恶意配置文件
-- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - https://github.com/sfaci/masc    扫描网站中的恶意软件, 以及其他一些网站维护功能
 - https://github.com/Neo23x0/munin 依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
-- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
-- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/KasperskyLab/klara    卡巴斯基开源基于Yara的分布式恶意软件扫描系统,
 - https://github.com/botherder/kraken    go，实现的Yara恶意软件扫描器
 - https://github.com/alexandreborges/malwoverview    simple，将恶意文件进行快速分类
 - https://github.com/joxeankoret/pigaios    直接对比源代码与编译的二进制文件
 - https://github.com/viper-framework    py2，二进制分析和管理框架，对恶意文件进行分析
-- https://github.com/target/strelka    py3，通过实时扫描文件进行威胁情报分析和实时监测。
 - https://github.com/netxfly/sec_check    通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
 - https://github.com/nao-sec/tknk_scanner    yara引擎为基础的恶意软件识别框架
 - https://github.com/felixweyne/ProcessSpawnControl    powershell,对恶意程序进行检测与监控
@@ -1289,8 +1322,6 @@
 - https://www.dnsdb.io    DNS查询,子域名查询,IP查询,A记录查询,域名解析,旁站查询
 - https://dnsdumpster.com/    dns recon and research, find and lookup dns records
 - http://ip.chaxun.la/    ip反查域名---查询啦
-- https://www.threatcrowd.org/    威胁情报分析平台
-- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测
 - https://www.virustotal.com    恶意软件检测
 - http://r.virscan.org/    恶意软件检测
 - https://www.appscan.io    移动软件在线检测
@@ -1301,6 +1332,7 @@
 - https://sadd.io/    在线操作系统
 - https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
 - https://github.com/RobbieHan/gistandard    py，基于Django，OA工单办公管理系统
+- https://github.com/pavanw3b/sh00t    PY3,DJANGO，安全测试工单管理
 - https://github.com/chaitin/strapdown-zeta    基于strapdown.js，长亭二次开发开源的Wiki系统，支持markdown
 - https://etherpad.net/    在线可编辑记事本
 - https://www.upload.ee/    文件共享平台
@@ -1339,6 +1371,7 @@
 - https://www.freenom.com    注册免费域名，dns解析
 - https://codebeautify.org    在线代码美化
 - http://patorjk.com    Text to ASCII Art Generator
+- https://www.seopojie.com    SPAM,SEO
 ***
 **个人维护的安全预警维基百科，根据中华人民共和国《网络安全法》相关政策规定，本文章只做安全预警，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担**
 - https://github.com/We5ter/Scanners-Box    增加条目，细化分类
