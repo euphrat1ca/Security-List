@@ -7,6 +7,7 @@
 - https://huntingday.github.io    MITRE | ATT&CK 中文站
 - https://arxiv.org    康奈尔大学（Cornell University）开放文档
 - http://www.owasp.org.cn/owasp-project/owasp-things    OWASP项目
+- https://www.freebuf.com/articles/neopoints/190895.html    信息安全入门导航
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    KCon大会文章PPT
 - https://github.com/SecWiki/sec-chart    各种相关安全思维导图集合
@@ -22,8 +23,14 @@
 - https://github.com/lancopku/PKUSeg-python    py3，北大中文分词
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    吴恩达机器学习python笔记
 - https://paperswithcode.com/sota    机器学习具体项目、演示、代码
+- https://github.com/deepfakes/faceswap    换脸大法好
 - https://github.com/duoergun0729/nlp    一本开源的NLP（神经语言程序学）入门书籍
 - https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
+- https://github.com/golang-china/gopl-zh    GO语言圣经中文版
+- https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
+- https://github.com/ngalongc/bug-bounty-reference    漏洞挖掘write-up
+## 论坛门户
+- http://offensivecommunity.net
 ## 攻防测试手册
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课
@@ -175,6 +182,9 @@
 - https://github.com/jakubroztocil/httpie    http调试工具，类似curl，功能更完善
 - https://www.getpostman.com/    http调试工具，带界面
 ## 漏洞收集与exp、poc利用
+- https://sploitus.com    漏洞搜索引擎
+- https://www.exploit-db.com    Kali维护的漏洞列表
+- https://github.com/swisskyrepo/PayloadsAllTheThings    A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - https://github.com/Lcys/Python_PoC    python3的poc、exp快速编写模板，有众多模范版本
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
 - https://github.com/mudongliang/LinuxFlaw    包含linux下软件漏洞列表
@@ -410,12 +420,13 @@
 - https://github.com/FortyNorthSecurity/EyeWitness    获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 - https://github.com/D4Vinci/Cr3dOv3r    根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 ### 威胁情报分析
-- https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https://archive.org/search.php?query=    密码泄露
+- cdn.databases.today,www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
 - https://www.threatcrowd.org/    威胁情报分析平台
 - https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测
 - https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
 - https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
+- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
 - https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
 - https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
 - https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
@@ -492,6 +503,7 @@
 - https://github.com/Canbing007/wukong-agent    web界面，python漏洞扫描器
 - https://github.com/dermotblair/webvulscan    web界面，php，漏洞扫描器，支持输出pdf报告
 - https://github.com/jeffzh3ng/InsectsAwake    web界面，基于 Flask 应用框架的漏洞扫描系统，同时集成了渗透测试常用的端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite
+- https://github.com/iSafeBlue/TrackRay    JAVA,溯光 (Trackray)集成资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|AWVS Metasploit集成|漏洞扫描器
 - https://github.com/0xInfection/TIDoS-Framework    py，linux，网站扫描器
 - https://github.com/secdec/adapt    py,linux，网站扫描器
 - https://github.com/sullo/nikto    perl，linux，kali内置的网站扫描器
@@ -684,7 +696,7 @@
 - https://github.com/wonderqs/Blade    py，利用特定的一句话脚本对网站进行管理
 - https://github.com/anestisb/WeBaCoo    perl，利用特定的一句话脚本对网站进行管理
 - https://github.com/keepwn/Altman    .net配合mono，实现的跨平台菜刀
-- https://github.com/k4mpr3t/b4tm4n    集成伪造邮件ddos，bat.php的webshell，初始k4mpr3t
+- https://github.com/k4mpr3t/b4tm4n    可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws    过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    php网站管理，默认密码b374k
 - https://github.com/wso-shell/WSO    webshell的文件管理，可以伪装为404界面
@@ -727,7 +739,7 @@
 - https://github.com/proxycannon/proxycannon-ng    构建攻击僵尸网络
 - https://github.com/deadPix3l/CryptSky/    勒索软件poc
 - https://github.com/jgamblin/Mirai-Source-Code    蠕虫病毒poc
-- https://github.com/AhMyth/AhMyth-Android-RAT    基于smali，Windows下安卓远控，一对多带界面
+- https://github.com/AhMyth/AhMyth-Android-RAT    Smali，一对多带界面。Android平台
 - https://github.com/ssooking/cobaltstrike3.12_cracked    java1.8，远控、钓鱼、内网
 - https://github.com/Mr-Un1k0d3r/ThunderShell    py2，CLI与web端，内存马，RC4加密HTTP传输
 - https://github.com/tiagorlampert/CHAOS    go，win远控，可过大部分杀软
@@ -738,7 +750,7 @@
 - https://github.com/TheM4hd1/Vayne-RaT    c#，一对多，界面
 - https://github.com/nettitude/PoshC2    PowerShell、C#，远控工具，有win提权组件
 - https://github.com/euphrat1ca/njRAT-v0.7d    vb，常见蠕虫远控，有很多变种，一对多带界面
-- https://github.com/zerosum0x0/koadic    py3,利用JScript/VBScript 进行控制，大宝剑
+- https://github.com/zerosum0x0/koadic    py3,，大宝剑利用JScript/VBScript 进行控制
 - https://github.com/Ridter/MyJSRat    py2，利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html
 - https://github.com/its-a-feature/Apfell    py3，macOS与linux下的利用js后门，web界面管理
 - https://github.com/peterpt/fuzzbunch    py2，NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
@@ -1074,7 +1086,7 @@
 - https://github.com/rapid7/IoTSeeker    物联网设备默认密码扫描检测工具
 - https://github.com/schutzwerk/CANalyzat0r    专有汽车协议的安全分析工具包
 - https://github.com/pasta-auto    智能汽车测试
-### Fuzz模糊测试漏洞挖掘
+### Fuzz模糊测试与漏洞挖掘
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
@@ -1086,7 +1098,7 @@
 - https://github.com/xmendez/wfuzz    py，Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文
 - https://github.com/1N3/BlackWidow    基于 Python 实现的 Web 爬虫，用于收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
 - https://github.com/bunzen/pySSDeep    py，一个基于模糊哈希（Fuzzy Hashing）算法的工具。go，glaslos/ssdeep；C，ssdeep-project/ssdeep
-- - https://github.com/googleprojectzero/winafl    AFL针对Windows二进制进行测试
+- https://github.com/googleprojectzero/winafl    AFL针对Windows二进制进行测试
 ## 安全防护
 - https://github.com/baidu/AdvBox    Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
 - https://github.com/quoscient/octopus    区块链智能合约安全分析工具
@@ -1204,6 +1216,7 @@
 - https://github.com/Brucetg/App_Security    App安全学习资源
 - https://github.com/rovo89/Xposed    随心所欲修改安卓手机系统
 - https://github.com/android-hacker/VirtualXposed    基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
+- https://github.com/dweinstein/awesome-frida    移动app逆向测试
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    移动安全审计框架。android、ios、win
 - https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 - https://github.com/nccgroup/house    运行时手机 App 分析工具包, 带Web GUI
@@ -1256,6 +1269,7 @@
 - https://github.com/ytisf/theZoo    恶意软件样本
 - https://github.com/mstfknn/malware-sample-library    恶意软件样本
 - http://99.248.235.4/Library/    恶意软件样本库。ladder
+- https://www.connect-trojan.net    恶意软件搜集，查找测试工具
 - https://github.com/robbyFux/Ragpicker    恶意软件信息爬取汇总分析
 - https://github.com/phage-nz/ph0neutria    恶意软件信息爬取汇总分析
 - https://github.com/JR0driguezB/malware_configs    常见恶意配置文件
@@ -1292,6 +1306,7 @@
 - https://github.com/jseidl/GoldenEye    py，DOS测试
 - https://github.com/mschwager/dhcpwn    DHCP IP 资源耗尽攻击工具
 - https://github.com/Microsoft/Ethr    GO,跨平台,TCP, UDP, HTTP, HTTPS压力测试工具
+- https://github.com/Markus-Go/bonesi    模拟僵尸网络进行DDOS测试，但是无法应用于互联网
 ### 匿名信息保护洋葱路由TorBrowser
 - https://github.com/leitbogioro/Fuck_Aliyun    关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    DWS关闭windows监控服务
@@ -1382,6 +1397,8 @@
 ### 在线资源
 - https://github.com/DoubleLabyrinth/navicat-keygen    navicat注册机
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    MobaXterm注册机
+- http://www.angusj.com/resourcehacker    Windows对程序属性的修改
+- https://www.crystalidea.com/uninstall-tool    Windows卸载
 - http://www.zdfans.com    zd423 - 软件分享平台领跑者
 - https://www.flaticon.com    免费图标网站
 - https://msdn.itellyou.cn    原生镜像
