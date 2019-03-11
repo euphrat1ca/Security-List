@@ -28,9 +28,11 @@
 - https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
 - https://github.com/golang-china/gopl-zh    GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
+- http://offensivecommunity.net    安全论坛
+- http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
+## 漏洞挖掘
+- https://github.com/Ivan1ee/NET-Deserialize    .Net反序列化漏洞
 - https://github.com/ngalongc/bug-bounty-reference    漏洞挖掘write-up
-## 论坛门户
-- http://offensivecommunity.net
 ## 攻防测试手册
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课
@@ -177,7 +179,7 @@
 - https://github.com/woj-ciech/Danger-zone    关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
 - https://github.com/securemode/DefenderKeys    枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/D4Vinci/PasteJacker    剪贴板劫持利用工具
-- https://github.com/JusticeRage/freedomfighting    日志清理、文件共享、反向shell、简单爬虫工具包
+- https://github.com/JusticeRage/freedomfighting    日志清理、文件共享、反向shell
 - https://github.com/gh0stkey/PoCBox    漏洞测试验证辅助平台，SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/jakubroztocil/httpie    http调试工具，类似curl，功能更完善
 - https://www.getpostman.com/    http调试工具，带界面
@@ -191,6 +193,7 @@
 - https://github.com/coffeehb/Some-PoC-oR-ExP    各种漏洞poc、Exp的收集或编写
 - https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
+- https://github.com/CVEProject/cvelist    Json格式的漏洞信息库，https://www.cvedetails.com
 - https://github.com/vulnersCom/getsploit    py2,仿照searchsploit通过各种数据库的官方接口进行payload的查找
 - https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
@@ -215,6 +218,9 @@
 - https://github.com/numpy/numpy/issues/12759    科学计算框架numpy命令执行RCE漏洞
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC jenkins远程命令执行
 - https://github.com/WyAtu/CVE-2018-20250    WinRar执行漏洞加使用介绍
+- https://github.com/Frichetten/CVE-2019-5736-PoC    GO,利用通过从容器内覆盖和执行主机系统runc二进制文件来来逃逸Docker虚拟机
+- https://github.com/marcinguy/android712-blueborne    CVE-2017-0781，安卓蓝牙远程代码执行
+- https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
 ### 物联网路由工控漏洞收集
 - https://github.com/yassineaboukir/CVE-2018-0296    测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    利用tcp漏洞使无线路由器产生隐私泄露
@@ -330,7 +336,7 @@
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    等待msf的session，并自动提为域管理
 - https://www.exploit-db.com/exploits/45851/    msf插件，利用jira upm上传进行命令执行
-- https://github.com/NullArray/AutoSploit    利用Shodan 搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
+- https://github.com/NullArray/AutoSploit    利用Shodan API搜索引擎收集目标, 并自动调用设定的msf模块对目标发动攻击
 - https://github.com/WazeHell/metateta    使用msf脚本，根据特定协议进行扫描
 - https://github.com/fbkcs/msf-elf-in-memory-execution    Metasploit模块, 用于在内存中执行ELF文件
 - https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit    metasploit双星攻击利用文件
@@ -752,6 +758,7 @@
 - https://github.com/euphrat1ca/njRAT-v0.7d    vb，常见蠕虫远控，有很多变种，一对多带界面
 - https://github.com/zerosum0x0/koadic    py3,，大宝剑利用JScript/VBScript 进行控制
 - https://github.com/Ridter/MyJSRat    py2，利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html
+- https://github.com/Hood3dRob1n/JSRat-Py    PY,jsrat改进版
 - https://github.com/its-a-feature/Apfell    py3，macOS与linux下的利用js后门，web界面管理
 - https://github.com/peterpt/fuzzbunch    py2，NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
 - https://github.com/n1nj4sec/pupy    py，Windows, Linux, OSX, Android跨平台，一对多
@@ -783,6 +790,7 @@
 - https://github.com/audibleblink/doxycannon    使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 - https://github.com/decoder-it/psportfwd    PowerShell编写的端口转发工具, 无需admin权限
 - https://github.com/ls0f/gortcp    go，通过主控端、中转、被控端实现内网穿透
+- https://github.com/cw1997/NATBypass    GO,LCX内网穿透
 ### Cross超越边界NPV
 - https://github.com/bannedbook/fanqiang/wiki    cross汇总
 - https://github.com/teddysun/across    梯子搭建
@@ -1071,7 +1079,7 @@
 - https://github.com/nsacyber/GRASSMARLIN    NSA旗下ICS/SCADA态势感知
 - https://github.com/nezza/scada-stuff    对 SCADA/ICS设备进行逆向与攻击
 ### 摄像头安全
-- https://github.com/woj-ciech/kamerka    配合shodan API扫描到的摄像头地理位置显示在地图上
+- https://github.com/woj-ciech/kamerka    配合shodan API将扫描到的摄像头地理位置还有twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    GO,针对摄像头RTSP协议渗透测试，附弱口令字典
 - https://github.com/Ullaakut/camerattack    GO,摄像头远程禁用
 - https://github.com/NIteshx2/UltimateSecurityCam    py3，摄像头监测外来人员软件，有防欺骗设置
@@ -1162,14 +1170,6 @@
 - https://github.com/djformby/GRFICS    IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
 - https://github.com/RabitW/IoTSecurityNAT    IoT测试系统，方便快速接入各种设备，进行安全测试
 - https://github.com/mushorg/conpot    针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
-## 逆向相关
-- https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
-- https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件
-- https://github.com/angr/angr    一个具有动态符号执行和静态分析的二进制分析工具
-- https://github.com/endgameinc/xori    自定义反汇编框架
-- https://down.52pojie.cn/    吾爱破解爱盘工具包
-- https://github.com/blacknbunny/peanalyzer32    PE 文件分析和反汇编工具
-- https://github.com/DominicBreuker/pspy    不用root权限就可以监控进程运行
 ### CTF相关
 - https://ctf-wiki.github.io/ctf-wiki/    CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
 - https://github.com/adon90/pentest_compilation    ctf比赛与OSCP考试中常见的知识点和命令
@@ -1212,12 +1212,22 @@
 - https://github.com/google/bochspwn-reloaded     Bochspwn Reloaded（内核信息泄漏检测）工具
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo    收集用于数据取证的SQL查询模板
 - https://www.freebuf.com/news/193684.html    iOS取证技巧：在无损的情况下完整导出SQLite数据库
-## 移动安全
+## 逆向安全动态调试
+- https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
+- https://github.com/ReFirmLabs/binwalk    二进制pwn文件自动化逆向，拥有多种插件
+- https://github.com/angr/angr    一个具有动态符号执行和静态分析的二进制分析工具
+- https://github.com/endgameinc/xori    自定义反汇编框架
+- https://down.52pojie.cn/    吾爱破解爱盘工具包
+- https://github.com/blacknbunny/peanalyzer32    PE 文件分析和反汇编工具
+- https://github.com/DominicBreuker/pspy    不用root权限就可以监控进程运行
+- https://github.com/dweinstein/awesome-frida    移动app逆向测试
+- https://github.com/MobSF/Mobile-Security-Framework-MobSF    软件审计框架。android、ios、win
+- https://www.ghidra-sre.org    NSA出品的软件逆向动态调试框架Ghidra
+- https://github.com/ghidraninja/ghidra_scripts    Ghidra的Binwal\Yara联动插件
+### App安全
 - https://github.com/Brucetg/App_Security    App安全学习资源
 - https://github.com/rovo89/Xposed    随心所欲修改安卓手机系统
 - https://github.com/android-hacker/VirtualXposed    基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
-- https://github.com/dweinstein/awesome-frida    移动app逆向测试
-- https://github.com/MobSF/Mobile-Security-Framework-MobSF    移动安全审计框架。android、ios、win
 - https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 - https://github.com/nccgroup/house    运行时手机 App 分析工具包, 带Web GUI
 - https://github.com/UltimateHackers/Diggy    从 Apk 文件中提取 URLs 的工具
@@ -1323,6 +1333,8 @@
 - https://github.com/xchaoinfo/fuck-login    模拟登录一些常见的网站
 - https://github.com/Maicius/InterestingCrawler    抓取QQ空间说说内容并进行分析
 - https://github.com/xjr7670/QQzone_crawler    QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
+- https://github.com/CriseLYJ/awesome-python-login-model    PY,各大网站登陆方式
+- https://github.com/tikazyq/crawlab    PY3,爬虫管理平台
 ## 在线自服务与工具
 - https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
 - https://github.com/littlecodersh/itchat    微信个人号接口、微信机器人及命令行微信
@@ -1360,6 +1372,7 @@
 - https://www.nomoreransom.org    常见勒索软件分析还原
 - https://www.cmd5.com/    HASH密码在线破解
 - https://www.onlinehashcrack.com    密码哈希在线破解，邮件通知
+- http://tools.bugscaner.com    工具包汇总
 ### 在线办公套件
 - https://sadd.io/    在线操作系统
 - https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
