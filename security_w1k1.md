@@ -7,6 +7,7 @@
 - https://huntingday.github.io    MITRE | ATT&CK 中文站
 - https://arxiv.org    康奈尔大学（Cornell University）开放文档
 - http://www.owasp.org.cn/owasp-project/owasp-things    OWASP项目
+- https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
 - https://www.freebuf.com/articles/neopoints/190895.html    信息安全入门导航
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    KCon大会文章PPT
@@ -15,12 +16,12 @@
 - https://github.com/ChrisLinn/greyhame-2017    灰袍技能书2017版本
 - https://github.com/Hack-with-Github/Awesome-Hacking    GitHub万星推荐：黑客成长技术清单
 - https://github.com/k4m4/movies-for-hackers    安全相关电影
-- https://github.com/jaredthecoder/awesome-vehicle-security    一个用于了解车辆安全和汽车黑客的资源清单
 - https://www.jianshu.com/p/852e0fbe2f4c    安全产品厂商分类
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    麻省理工机器学习视频
 - https://github.com/fxsjy/jieba    py，结巴中文分词
 - https://github.com/thunlp/THULAC-Python    py，清华中文分词
 - https://github.com/lancopku/PKUSeg-python    py3，北大中文分词
+- https://github.com/clone95/Data-Science-Study-Paths-March-2019    以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    吴恩达机器学习python笔记
 - https://paperswithcode.com/sota    机器学习具体项目、演示、代码
 - https://github.com/deepfakes/faceswap    换脸大法好
@@ -29,6 +30,7 @@
 - https://github.com/golang-china/gopl-zh    GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
 - http://offensivecommunity.net    安全论坛
+- https://github.com/evilcos/papers    余弦关于网络空间文章分享
 - http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
 ## 漏洞挖掘
 - https://github.com/Ivan1ee/NET-Deserialize    .Net反序列化漏洞
@@ -37,6 +39,7 @@
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课
 - https://github.com/maskhed/Papers    包含100课等经典攻防教材、安全知识
+- https://github.com/myselfexplorer/hackingLibrary    社工大佬的笔记手册
 - https://github.com/infosecn1nja/AD-Attack-Defense    红蓝方攻防手册
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming    优秀红队资源列表
 - https://github.com/foobarto/redteam-notebook    红队标准渗透测试流程+常用命令
@@ -51,10 +54,10 @@
 - https://github.com/jshaw87/Cheatsheets    渗透测试/安全秘籍/笔记
 ### 内网安全文档
 - https://attack.mitre.org/wiki/Lateral_Movement    mitre机构对横向移动的总结
+- https://github.com/Ridter/Intranet_Penetration_Tips    内网渗透TIPS
 - https://payloads.online/archivers/2018-11-30/1    彻底理解Windows认证 - 议题解读
 - https://github.com/klionsec/klionsec.github.io    内网大牛的学习历程
 - https://github.com/l3m0n/pentest_study    从零开始内网渗透学习
-- https://github.com/Ridter/Intranet_Penetration_Tips    内网渗透TIPS
 ### 学习手册相关资源
 - https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
@@ -145,6 +148,7 @@
 - https://nvd.nist.gov/vuln/search    美国国家信息安全漏洞库
 # 工具包集合
 - http://www.4hou.com/web/11241.html    史上最全攻击模拟工具盘点
+- https://github.com/tmux/tmux    命令行功能加强工具
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹
 - https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会工具集
 - https://www.cnblogs.com/k8gege    K8哥哥工具包集合。解压密码Kk8team,Kk8gege
@@ -308,6 +312,7 @@
 - https://github.com/ilmila/J2EEScan    burp拓展，扫描J2EE应用
 - https://github.com/JGillam/burp-co2    集成了sqlmap，菜刀，字典生成等
 - https://github.com/swisskyrepo/SSRFmap    burp插件，检测ssrf漏洞
+- https://github.com/c0ny1/chunked-coding-converter    本插件主要用于分块传输绕WAF
 #### sqlmap相关工具拓展插件
 - https://github.com/codewatchorg/sqlipy    burp与sqlmap联动插件
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    sqlmap的web gui
@@ -344,6 +349,7 @@
 - https://github.com/D4Vinci/One-Lin3r    metasploit、payload辅助查询工具
 - https://github.com/shizzz477/msploitego    将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
+- https://github.com/WayzDev/Kage    MSF的GUI界面，Session Handler
 #### CobaltStrike相关工具拓展插件
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，一对多带界面
@@ -485,7 +491,8 @@
 - https://github.com/juansacco/exploitpack    渗透测试集成框架，包含超过38,000+ exploits
 - https://github.com/Lucifer1993/AngelSword    Web应用漏洞扫描框架,python3，300poc
 - https://github.com/Xyntax/POC-T    渗透测试插件化扫描框架，自带poc，并发扫描
-- https://github.com/knownsec/Pocsuite    知道创宇维护的一个规范化POC/EXP利用框架
+- https://github.com/knownsec/Pocsuite    PY2,知道创宇维护的一个规范化POC/EXP利用框架
+- https://github.com/knownsec/pocsuite3    PY3,知道创宇维护的一个规范化POC/EXP利用框架
 - https://github.com/leisurelicht/Pocsuite3    Pocsuite用py3重写
 - https://github.com/Eitenne/roxysploit    漏洞利用框架，支持永恒之蓝直接利用
 - https://github.com/TophantTechnology/osprey    斗象能力中心出品并长期维护的一个规范化POC/EXP利用框架
@@ -702,6 +709,7 @@
 - https://github.com/wonderqs/Blade    py，利用特定的一句话脚本对网站进行管理
 - https://github.com/anestisb/WeBaCoo    perl，利用特定的一句话脚本对网站进行管理
 - https://github.com/keepwn/Altman    .net配合mono，实现的跨平台菜刀
+- https://github.com/antonioCoco/SharPyShell    ASP.NET webshell for C# web applications
 - https://github.com/k4mpr3t/b4tm4n    可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws    过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    php网站管理，默认密码b374k
@@ -745,35 +753,46 @@
 - https://github.com/proxycannon/proxycannon-ng    构建攻击僵尸网络
 - https://github.com/deadPix3l/CryptSky/    勒索软件poc
 - https://github.com/jgamblin/Mirai-Source-Code    蠕虫病毒poc
-- https://github.com/AhMyth/AhMyth-Android-RAT    Smali，一对多带界面。Android平台
+- https://github.com/NYAN-x-CAT/Lime-RAT    VB,敲诈加密软件
+- https://github.com/The404Hacking/AndroRAT    JAVA,Android平台一对多带界面。
+- https://github.com/AhMyth/AhMyth-Android-RAT    Smali，Android平台一对多带界面。
 - https://github.com/ssooking/cobaltstrike3.12_cracked    java1.8，远控、钓鱼、内网
-- https://github.com/Mr-Un1k0d3r/ThunderShell    py2，CLI与web端，内存马，RC4加密HTTP传输
+- https://github.com/BlackHacker511/BlackRAT    java,跨平台
 - https://github.com/tiagorlampert/CHAOS    go，win远控，可过大部分杀软
 - https://github.com/Ne0nd0g/merlin    go，c2通讯，一对多
 - https://github.com/0x09AL/Browser-C2    go，利用chrome以浏览器的形式连接C2服务器
-- https://github.com/xdnice/PCShare    c++，可以监视目标机器屏幕、注册表、文件系统等
+- https://github.com/Tiked/Client    Windows, OS X and linux RAT client
 - https://github.com/quasar/QuasarRAT    c#，一对多，界面
 - https://github.com/TheM4hd1/Vayne-RaT    c#，一对多，界面
+- https://github.com/TheSph1nx/RT-101    c#，一对多，界面
+- https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp    c#,一对多,界面
+- https://github.com/DannyTheSloth/VanillaRat    C#,SIMPLE,界面
+- https://github.com/brunull/pace    C#,SIMPLE,界面
+- https://github.com/5alt/ZeroRAT    powershell,windows上的一句话远控,只需要执行一条指令不需要写文件
 - https://github.com/nettitude/PoshC2    PowerShell、C#，远控工具，有win提权组件
+- https://github.com/mwsrc/njRAT    VB,源码
 - https://github.com/euphrat1ca/njRAT-v0.7d    vb，常见蠕虫远控，有很多变种，一对多带界面
+- https://github.com/peterpt/fuzzbunch    py2，NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
+- https://github.com/n1nj4sec/pupy    py，Windows, Linux, OSX, Android跨平台，一对多
+- https://github.com/nathanlopez/Stitch    py，Windows、Mac OSX、Linux跨平台
 - https://github.com/zerosum0x0/koadic    py3,，大宝剑利用JScript/VBScript 进行控制
 - https://github.com/Ridter/MyJSRat    py2，利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html
 - https://github.com/Hood3dRob1n/JSRat-Py    PY,jsrat改进版
 - https://github.com/its-a-feature/Apfell    py3，macOS与linux下的利用js后门，web界面管理
-- https://github.com/peterpt/fuzzbunch    py2，NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
-- https://github.com/n1nj4sec/pupy    py，Windows, Linux, OSX, Android跨平台，一对多
-- https://github.com/nathanlopez/Stitch    py，Windows、Mac OSX、Linux跨平台
 - https://github.com/neoneggplant/EggShell    py，macos/osx远控,可生成HID代码，一对多
 - https://github.com/Marten4n6/EvilOSX    py，macos/osx远控，一对多
+- https://github.com/Mr-Un1k0d3r/ThunderShell    py2，CLI与web端，内存马，RC4加密HTTP传输
 - https://github.com/vesche/basicRAT    py3，simple远控，一对多
 - https://github.com/Viralmaniar/Powershell-RAT    py，截图通过gmail传输
 - https://github.com/byt3bl33d3r/gcat    py，使用 gmail 作为 C&C 服务器
 - https://github.com/sweetsoftware/Ares    py，c2通讯，支持代理
+- https://github.com/mvrozanti/RAT-via-Telegram    py,利用telegram，windows下的远程控制工具
 - https://github.com/micle-fm/Parat    py，利用telegram，windows下的远程控制工具
 - https://github.com/ahhh/Reverse_DNS_Shell    py，通过dns传输
-- https://github.com/iagox86/dnscat2    服务端为ruby（linux），客户端为C（win/linux），利用DNS协议进行端对端传输
 - https://github.com/deepzec/Grok-backdoor    py，利用ngrok的后门
 - https://github.com/trustedsec/trevorc2    py，搭建一个合法的网站（可浏览），用于隐藏命令执行的客户端/服务器通信
+- https://github.com/iagox86/dnscat2    服务端为ruby（linux），客户端为C（win/linux），利用DNS协议进行端对端传输
+- https://github.com/xdnice/PCShare    c++，可以监视目标机器屏幕、注册表、文件系统等
 ### 端口转发与代理工具
 - https://github.com/fatedier/frp    用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议
 - https://github.com/inconshreveable/ngrok    端口转发，正反向代理，内网穿透
@@ -878,6 +897,7 @@
 - https://github.com/stephenfewer/ReflectiveDLLInjection    一种库注入技术，让DLL自身不使用LoadLibraryA函数,将自身映射到目标进程内存中
 - https://github.com/ChrisAD/ads-payload    利用环境变量与destop.ini绕过windows下的Palo Alto Traps endpoint 防护软件
 - https://github.com/Zer0Mem0ry/RunPE    通过内存读取，网络传输内容，利用PE执行shellcode
+- https://github.com/lmacken/pyrasite    PY3,对运行中dpython进程注入，支持≥py2.4
 ### 沙盒逃逸
 - https://github.com/hacksysteam/WpadEscape 利用wpad进行浏览器 sandbox沙箱逃逸
 - https://github.com/unamer/vmware_escape vmware虚拟机逃逸。CVE-2017-4901，CVE-2018-6981，CVE-2018-6982
@@ -1094,6 +1114,8 @@
 - https://github.com/rapid7/IoTSeeker    物联网设备默认密码扫描检测工具
 - https://github.com/schutzwerk/CANalyzat0r    专有汽车协议的安全分析工具包
 - https://github.com/pasta-auto    智能汽车测试
+- https://github.com/jgamblin/CarHackingTools    汽车黑客工具箱，汽车信息调查
+- https://github.com/jaredthecoder/awesome-vehicle-security    一个用于了解车辆安全和汽车黑客的资源清单
 ### Fuzz模糊测试与漏洞挖掘
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
@@ -1224,6 +1246,11 @@
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    软件审计框架。android、ios、win
 - https://www.ghidra-sre.org    NSA出品的软件逆向动态调试框架Ghidra
 - https://github.com/ghidraninja/ghidra_scripts    Ghidra的Binwal\Yara联动插件
+- https://sourceforge.net/projects/easypythondecompiler    Easy Python Decompiler，支持Python 1.0 - 3.4源码反编译，GUI界面。利用 "Uncompyle2" & "Decompyle++"
+- http://tools.bugscaner.com/decompyle    *.pyc或*.pyo文件在线反编译
+- https://github.com/rocky/python-uncompyle6    PY3,支持Python version 1.3 to version 3.7源码反编译
+- https://github.com/wibiti/uncompyle2    PY27,针对python2.7源码反编译
+- https://github.com/zrax/pycdc    C++,全版本python反编译
 ### App安全
 - https://github.com/Brucetg/App_Security    App安全学习资源
 - https://github.com/rovo89/Xposed    随心所欲修改安卓手机系统
@@ -1328,6 +1355,7 @@
 - https://github.com/GouveaHeitor/nipe    一个使所有流量通过Tor网络发出的脚本
 - https://github.com/trimstray/multitor    启用多个tor通道转发流量，并设置负载均衡
 ### 爬虫相关
+- - https://github.com/xuyichenmo/selenium-document    Selenium的中文文档
 - https://github.com/alphardex/looter    轻量型爬虫框架，类比Scrapy
 - https://github.com/luyishisi/Anti-Anti-Spider    过反爬虫
 - https://github.com/xchaoinfo/fuck-login    模拟登录一些常见的网站
@@ -1374,10 +1402,10 @@
 - https://www.onlinehashcrack.com    密码哈希在线破解，邮件通知
 - http://tools.bugscaner.com    工具包汇总
 ### 在线办公套件
-- https://sadd.io/    在线操作系统
+- https://sadd.io/    在线操作系统https://github.com/Ridter/Intranet_Penetration_Tips
 - https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
 - https://github.com/RobbieHan/gistandard    py，基于Django，OA工单办公管理系统
-- https://github.com/pavanw3b/sh00t    PY3,DJANGO，安全测试工单管理
+- https://github.com/pavanw3b/sh00t    PY3,DJANGO，simple，安全测试工单管理
 - https://github.com/chaitin/strapdown-zeta    基于strapdown.js，长亭二次开发开源的Wiki系统，支持markdown
 - https://etherpad.net/    在线可编辑记事本
 - https://www.upload.ee/    文件共享平台
@@ -1388,6 +1416,7 @@
 - https://github.com/haiwen/seafile    C,私有云网盘，速度快，功能少
 - https://github.com/ymfe/yapi    API管理工具
 - https://thyrsi.com/    图片上传分享工具
+- https://send.firefox.com    火狐网盘
 ### 隐私匿名加密
 - https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - http://bccto.me    一次性邮箱
