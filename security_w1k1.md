@@ -630,11 +630,11 @@
 - https://github.com/Moham3dRiahi/XAttacker    Web CMS Exploit 工具,包含针对主流 CMS 的 66 个不同的 Exploits
 - https://github.com/code-scan/dzscan    首款集成化的Discuz扫描工具
 ### 数据库扫描与爆破
-- https://github.com/ron190/jsql-injection    Java 编写的SQL注入工具
-- https://github.com/shack2/SuperSQLInjectionV1    安恒航牛的一款界面化注入工具
 - https://github.com/sqlmapproject/sqlmap    sql注入sqlmap
-- https://github.com/stamparm/DSSS    已用1,99行代码实现的sql注入漏洞扫描器
-- https://github.com/Hadesy2k/sqliv    已用1,基于搜索引擎的批量SQL注入漏洞扫描器
+- https://github.com/ron190/jsql-injection    Java 编写的SQL注入工具
+- https://github.com/shack2/SuperSQLInjectionV1    C#,安恒航牛的一款界面化注入工具
+- https://github.com/stamparm/DSSS    PY3,SIMPLE,DONE,用99行代码实现的sql注入漏洞扫描器
+- https://github.com/Hadesy2k/sqliv    PY2,SIMPLE,DONE,基于搜索引擎的批量SQL注入漏洞扫描器
 - https://github.com/quentinhardy/odat    一款专门用于Oracle渗透的很全面的工具
 - https://github.com/m8r0wn/enumdb    MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
 - https://github.com/LoRexxar/Feigong    针对各种情况自由变化的MySQL注入脚本
@@ -672,20 +672,22 @@
 - https://github.com/riusksk/FlashScanner    flash xss扫描
 - https://github.com/Damian89/xssfinder    针对检测网站中的反射XSS
 - https://github.com/BlackHole1/WebRtcXSS    自动化利用XSS入侵内网
-### 弱口令扫描爆破
+### 弱口令扫描密码爆破
 - https://github.com/vanhauser-thc/thc-hydra    支持多种协议方式的破解与爆破，v8以后就不提供windows版本了
+- https://github.com/shack2/SNETCracker    C#,密码爆破工具，支持SSH、RDP、MySQL等常见协议
+- https://github.com/jmk-foofus/medusa    C,Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    c，支持多种协议的破解与爆破
-- https://github.com/0pn1i9ht/F-Scrack    ysrc对各类服务用户名密码爆破的脚本
-- https://github.com/TunisianEagles/SocialBox    针对fb、gmail、ins、twitter的用户名密码爆破的脚本
 - https://github.com/lanjelot/patator    支持多种协议的爆破，采用模块化设计，使用灵活
-- https://github.com/m4ll0k/SMBrute    利用smb服务进行用户名密码爆破
+- https://github.com/0pn1i9ht/F-Scrack    ysrc对各类服务用户名密码爆破的脚本
 - https://github.com/netxfly/crack_ssh    Go写的协程版的ssh\redis\mongodb弱口令破解
+- https://github.com/shengqi158/weak_password_detect    Linux下利用nmap多线程探测ssh弱口令
+- https://github.com/scu-igroup/ssh-scanner    联动nmap、hydra对ssh批量爆破
+- https://github.com/ztgrace/changeme    弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
+- https://github.com/m4ll0k/SMBrute    利用smb服务进行用户名密码爆破
+- https://github.com/TunisianEagles/SocialBox    针对fb、gmail、ins、twitter的用户名密码爆破的脚本
 - https://github.com/UltimateHackers/Blazy    支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器
 - https://github.com/Moham3dRiahi/XBruteForcer    WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
-- https://github.com/shengqi158/weak_password_detect    Linux下利用nmap多线程探测ssh弱口令
-- https://github.com/ztgrace/changeme    弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
 - https://github.com/lijiejie/htpwdScan    PY,simple，http暴力破解、撞库攻击脚本
-- https://github.com/scu-igroup/ssh-scanner    联动nmap、hydra对ssh批量爆破
 ### 密码破解还原
 - https://securityxploded.com/download.php    各种密码方向安全小工具
 - https://github.com/bdutro/ibm_pw_clear    IBM x3550/x3560 M3 bios密码清除重置工具
@@ -697,7 +699,6 @@
 - https://www.ru.nl/publish/pages/909282/draft-paper.pdf    破解SSD下使用BitLocker的论文
 - https://github.com/magnumripper/JohnTheRipper    已知密文的情况下尝试破解出明文的破解密码软件
 - https://github.com/shinnok/johnny    JohnTheRipper密码破解的GUI界面，理论兼容所有功能，有windows界面
-- https://github.com/jmk-foofus/medusa    支持的协议会比hydra少一点，但是某些速度会快
 - https://github.com/MrSqar-Ye/wpCrack    wordpress hash破解
 - https://github.com/testsecer/Md5Decrypt    C#,基于网上web API的MD5搜索工具
 - https://github.com/s0md3v/Hash-Buster    能调用多个API进行hash破解查询的智能工具
