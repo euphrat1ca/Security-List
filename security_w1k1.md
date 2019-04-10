@@ -29,10 +29,11 @@
 - https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
 - https://github.com/golang-china/gopl-zh    GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
-- http://offensivecommunity.net    安全论坛
 - https://github.com/evilcos/papers    余弦关于网络空间文章分享
+- https://github.com/blackorbird/APT_REPORT    apt取证调查报告
 - http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
 - http://paper.tuisec.win/detail/34ab12018f71e71    个人总结的漏洞管理流程分享
+- https://3gstudent.github.io/3gstudent.github.io/通过模拟可信目录绕过UAC的利用分析/
 ## 漏洞挖掘
 - https://github.com/Ivan1ee/NET-Deserialize    .Net反序列化漏洞
 - https://github.com/ngalongc/bug-bounty-reference    漏洞挖掘write-up
@@ -42,6 +43,7 @@
 - https://github.com/maskhed/Papers    包含100课等经典攻防教材、安全知识
 - https://github.com/myselfexplorer/hackingLibrary    社工大佬的笔记手册
 - https://github.com/infosecn1nja/AD-Attack-Defense    红蓝方攻防手册
+- https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    [译] 渗透测试实战第三版(红队版)The Hacker Playbook 3
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming    优秀红队资源列表
 - https://github.com/foobarto/redteam-notebook    红队标准渗透测试流程+常用命令
 - https://github.com/tom0li/collection-document    文章收集：安全部、SDL、src、渗透测试、漏洞利用
@@ -62,6 +64,7 @@
 ### 学习手册相关资源
 - https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    Coablt strike官方教程中文译版本
+- https://legacy.gitbook.com/book/wbglil/cobalt-strike    Cobalt Stike中文使用文档
 - https://github.com/aleenzz/Cobalt_Strike_wiki    Cobalt Strike系列
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
 - https://github.com/louchaooo/kali-tools-zh    kali下工具使用介绍手册
@@ -191,6 +194,7 @@
 - https://github.com/gh0stkey/PoCBox    漏洞测试验证辅助平台，SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/jakubroztocil/httpie    http调试工具，类似curl，功能更完善
 - https://www.getpostman.com/    http调试工具，带界面
+- https://github.com/fox-it/adconnectdump     PY,Azure AD凭证导出工具
 ## 漏洞收集与exp、poc利用
 - https://sploitus.com    漏洞搜索引擎
 - https://www.exploit-db.com    Kali维护的漏洞列表
@@ -229,6 +233,7 @@
 - https://github.com/Frichetten/CVE-2019-5736-PoC    GO,利用通过从容器内覆盖和执行主机系统runc二进制文件来来逃逸Docker虚拟机
 - https://github.com/marcinguy/android712-blueborne    CVE-2017-0781，安卓蓝牙远程代码执行
 - https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
+- https://github.com/knownsec/pocsuite3/blob/master/pocsuite3/pocs/20190404_WEB_Confluence_path_traversal.py    Confluence 未授权 RCE (CVE-2019-3396) 漏洞
 ### 物联网路由工控漏洞收集
 - https://github.com/yassineaboukir/CVE-2018-0296    测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    利用tcp漏洞使无线路由器产生隐私泄露
@@ -305,6 +310,7 @@
 - https://github.com/snoopysecurity/awesome-burp-extensions    awesome系列之burp拓展
 - https://github.com/d3vilbug/HackBar    集成hackbar
 - https://github.com/PortSwigger/turbo-intruder    比Burp自带的Intruder 更快，一分钟打1.61万次请求
+- https://github.com/bit4woo/reCAPTCHA    自动识别图形验证码并用于burp intruder爆破模块的插件，使用联众接口
 - https://github.com/Ebryx/AES-Killer    burp插件，破解aes加密的插件
 - https://github.com/bugcrowd/HUNT    可以将burpsuite扫描器功能扩展的更加强大，同时支持zapproxy扩展
 - https://github.com/wagiro/BurpBounty    burp插件增强主动与被动扫描功能
@@ -763,7 +769,7 @@
 - https://github.com/NYAN-x-CAT/Lime-RAT    VB,敲诈加密软件
 - https://github.com/The404Hacking/AndroRAT    JAVA,Android平台一对多带界面。
 - https://github.com/AhMyth/AhMyth-Android-RAT    Smali，Android平台一对多带界面。
-- https://github.com/ssooking/cobaltstrike3.12_cracked    java1.8，远控、钓鱼、内网
+- https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    java1.8，Windows下远控、钓鱼、内网
 - https://github.com/BlackHacker511/BlackRAT    java,跨平台
 - https://github.com/tiagorlampert/CHAOS    go，win远控，可过大部分杀软
 - https://github.com/Ne0nd0g/merlin    go，c2通讯，一对多
@@ -895,6 +901,7 @@
 ### 权限绕过
 - https://payloads.online/archivers/2018-12-22/1    DLL Hijacking & COM Hijacking ByPass UAC - 议题解读
 - https://github.com/tyranid/DotNetToJScript    能够利用JS/Vbs脚本加载.Net程序的工具
+- https://github.com/g3rzi/Manifesto    C#,寻找系统中存在可执行权限的组件
 - https://github.com/mdsecactivebreach/SharpPack    绕过系统应用白名单执行DotNet and PowerShell tools
 - https://github.com/rootm0s/WinPwnage    py2，win下权限提升，uac绕过，dll注入等
 - https://github.com/hfiref0x/UACME    包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
@@ -927,6 +934,7 @@
 - https://github.com/GreatSCT/GreatSCT    msf免杀
 - https://github.com/EgeBalci/HERCULES    msf免杀
 - https://github.com/trustedsec/nps_payload    msf免杀
+- https://github.com/clinicallyinane/shellcode_launcher/    C++,加载shellcode方式的payload到内存
 - https://github.com/4w4k3/Insanity-Framework    py，payload生成，过杀软，识别虚拟机，钓鱼，内存注入等
 - https://github.com/hlldz/SpookFlare    Meterpreter，Empire，Koadic等loader/dropper的生成器，可以绕过客户端检测和网络端检测的端点策略
 - https://github.com/pasahitz/regsvr32    使用C#+Empire实现最小体积免杀后门
@@ -1184,16 +1192,17 @@
 - https://github.com/dtag-dev-sec/tpotce    T-POT，里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
 - https://www.freebuf.com/sectool/190840.html    T-Pot多蜜罐平台使用心法
 - https://github.com/n3uz/t-pot-autoinstall    将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
-### Web蜜罐内网监测
+- https://github.com/leeberg/BlueHive    PS,利用Active Directory生成用户账户蜜罐
+### 外网蜜罐
+- https://github.com/p1r06u3/opencanary_web    PY,TORNADO,内网低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
+- https://github.com/p1r06u3/opencanary_web    
+- https://github.com/Cymmetria    知名欺骗防御蜜罐组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
+- https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/mushorg/snare    py3，web安全蜜罐，可克隆指定Web页面
 - https://github.com/honeynet/beeswarm    py，使用agent探针与蜜罐进行实时交互来引诱攻击者
+### 内网蜜罐监测
 - https://github.com/thinkst/opencanary    PY2,SNMP\RDP\SAMBA蜜罐
-- https://github.com/p1r06u3/opencanary_web    PY,TORNADO,内网低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
-- https://github.com/p1r06u3/opencanary_web    
-- https://github.com/Cymmetria    知名欺骗防御蜜罐组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐
-- https://github.com/Cymmetria/honeycomb    Cymmetria公司开源蜜罐框架，低交互
-- https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    RDP MITM，打造可记录图像和按键的 RDP 蜜罐（https://github.com/gosecure/pyrdp）
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    py，摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
@@ -1277,11 +1286,15 @@
 - https://github.com/samyk/frisky    针对 ios/macOS 应用的嗅探/修改/逆向/注入等工具
 - https://github.com/GeoSn0w/OsirisJailbreak12    IOS12不完全越狱
 - https://github.com/chaitin/passionfruit    iOS应用逆向与分析工具，可以大大加速iOS应用安全分析过程
-### 防火墙规则、waf、CDN相关
+### 防火墙规则、waf、CDN、入侵检测
 - https://github.com/baidu/openrasp    RASP,Runtime Application Self-Protection，实时应用自我保护，更智能，针对每个语言定制
-- https://github.com/snort3/snort3    snort算是最出名的开源ids入侵检测
-- https://github.com/chaitin/yanshi    长亭偃师（yanshi）,雷池（SafeLine）防火墙核心引擎使用到的代码生成工具
-- https://github.com/SpiderLabs/ModSecurity    C，跨平台 WAF engine for Apache, IIS and Nginx
+- https://github.com/snort3/snort3    C++,snort算是最出名的开源ids入侵检测
+- https://github.com/ptresearch/AttackDetection    近期漏洞的snort规则rules
+- https://github.com/OISF/suricata    C,IDS\IPS\NSM，兼容Snort插件
+- https://github.com/StamusNetworks/SELKS    基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
+- https://github.com/Security-Onion-Solutions/security-onion    安全洋葱入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。
+- https://github.com/chaitin/yanshi    C++,长亭偃师（yanshi）,雷池（SafeLine）防火墙核心引擎使用到的代码生成工具
+- https://github.com/SpiderLabs/ModSecurity    C,跨平台 WAF engine for Apache, IIS and Nginx
 - https://github.com/klaubert/waf-fle    ModSecurity Web控制台
 - https://github.com/xsec-lab/x-waf    适用于中小企业的云waf
 - https://github.com/jx-sec/jxwaf    基于openrestynginx+lua开发，独创的业务逻辑防护引擎和机器学习引擎，解决传统WAF无法对业务安全进行防护的痛点
@@ -1383,20 +1396,24 @@
 - https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
 - https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
 - http://sc.ftqq.com/3.version    server酱微信通知
-- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
 - https://www.wolframalpha.com    根据问题直接给出答案的网站
-- shodan.io    互联网感知引擎
-- fofa.so    白帽汇NOSEC
-- https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
-- zoomeye.org    知道创宇互联网感知引擎
 - https://sms.cngrok.com/receiving-sms    收码接码
 - https://www.pdflibr.com/    收码接码
 - https://www.fakenamegenerator.com    多国身份信息模拟器
 - https://recruitin.net    Easily use Google to search profiles on LinkedIn
 - https://www.truthfinder.com    美国公民信息查询
 - https://verify-email.org    邮件真实性验证
-- https://safeweb.norton.com    诺顿网站安全检测
 - http://www.vuln.cn/tools/ftp    在线FTP登录
+### 在线密码破解
+- https://www.cmd5.com/    HASH密码在线破解
+- https://www.onlinehashcrack.com    密码哈希在线破解，邮件通知
+### 在线信息搜集
+- shodan.io    互联网感知引擎
+- fofa.so    白帽汇NOSEC
+- https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
+- zoomeye.org    知道创宇互联网感知引擎
+- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
+- https://safeweb.norton.com    诺顿网站安全检测
 - http://www.link114.cn/title/    批量查询网站标题
 - https://www.whatweb.net/      在线web指纹识别
 - https://hackertarget.com/ip-tools/    提供api，ip相关工具、在线扫描器
@@ -1406,16 +1423,16 @@
 - https://www.dnsdb.io    DNS查询,子域名查询,IP查询,A记录查询,域名解析,旁站查询
 - https://dnsdumpster.com/    dns recon and research, find and lookup dns records
 - http://ip.chaxun.la/    ip反查域名---查询啦
+- http://tools.bugscaner.com    工具包汇总
+### 在线文件检测
 - https://habo.qq.com    在线恶意文件检测
 - https://www.virustotal.com    恶意软件检测
 - http://r.virscan.org/    恶意软件检测
-- https://www.appscan.io    app安全移动软件在线检测
-- http://safe.ijiami.cn    app安全移动软件在线检测
-- http://appscan.360.cn    app安全移动软件在线检测
+- https://www.appscan.io    盘古app安全移动软件在线检测
+- http://safe.ijiami.cn    爱加密app安全移动软件在线检测
+- http://appscan.360.cn    360移动app安全移动软件在线检测
+- https://service.security.tencent.com/kingkong    腾讯金刚app安全移动软件在线检测
 - https://www.nomoreransom.org    常见勒索软件分析还原
-- https://www.cmd5.com/    HASH密码在线破解
-- https://www.onlinehashcrack.com    密码哈希在线破解，邮件通知
-- http://tools.bugscaner.com    工具包汇总
 ### 在线办公套件
 - https://sadd.io/    在线操作系统https://github.com/Ridter/Intranet_Penetration_Tips
 - https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
