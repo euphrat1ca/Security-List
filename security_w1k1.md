@@ -29,15 +29,16 @@
 - https://paperswithcode.com/sota    机器学习具体项目、演示、代码
 - https://github.com/duoergun0729/nlp    一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    神经网络深度学习框架PyTorch
-- https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
+- https://github.com/r0f1/datascience    大数据分析功能库推荐
+- https://github.com/jackfrued/Python-100-Days    来吧看看python还有啥不能干
 - https://github.com/golang-china/gopl-zh    GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
 - https://github.com/evilcos/papers    余弦关于网络空间文章分享
+- https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
 - http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
 - http://paper.tuisec.win/detail/34ab12018f71e71    个人总结的漏洞管理流程分享
 - https://3gstudent.github.io/3gstudent.github.io/通过模拟可信目录绕过UAC的利用分析/
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
-- https://github.com/jackfrued/Python-100-Days    来吧看看python还有啥不能干
 ## 攻防测试资源
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课
@@ -182,8 +183,9 @@
 # 工具包集合
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹
 - http://www.4hou.com/web/11241.html    史上最全攻击模拟工具盘点
-- https://github.com/tmux/tmux    命令行功能加强工具
-- https://github.com/JeffXue/web-log-parser    PY,web日志分析工具
+- https://www.test404.com/sort/sectools    test404安全工具
+- https://www.test404.com/sort/othertools    test404实用工具
+- https://www.test404.com/sort/original    test404原创栏目
 - https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会工具集
 - https://www.cnblogs.com/k8gege    K8哥哥工具包。解压密码Kk8team,Kk8gege
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
@@ -192,6 +194,8 @@
 - https://github.com/fireeye/commando-vm    FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。类似kali
 - https://github.com/Cooolis/Cooolis.github.io    Cooolis是一个操作系统命令技巧备忘录，https://cooolis.payloads.online
 - https://github.com/LOLBAS-Project/LOLBAS    常见的渗透测试利用的脚本与二进制文件集合
+- https://github.com/tmux/tmux    命令行功能加强工具
+- https://github.com/JeffXue/web-log-parser    PY,web日志分析工具
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    csrf验证工具
 - https://github.com/ConsenSys/mythril-classic    用于以太坊智能协议的安全分析工具
 - https://github.com/lionsoul2014/ip2region    ip地址定位库，支持python3等多接口。类似geoip
@@ -559,6 +563,7 @@
 - https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - https://github.com/target/strelka    py3，通过实时扫描文件进行威胁情报分析和实时监测。
+- https://github.com/threathunterX/nebula    威胁猎人开源"星云"业务风控系统
 ### APT情报
 - https://github.com/blackorbird/APT_REPORT    apt取证调查报告
 - https://git.laucyun.com/security/APT34    APT34/OILRIG 资源文档文件泄露
@@ -801,8 +806,9 @@
 - https://github.com/hashcat/hashcat    C,哈希破解
 - https://github.com/fireeye/gocrack    GO,基于hashcat 3.6.0+的分布式密码破解工具
 - https://github.com/s3inlc/hashtopolis    基于php的hashcat的分布式破解工具，支持C#与python客户端
+- https://github.com/chris408/known_hosts-hashcat    PY,利用hashcat破解ssh密码hash
 - https://github.com/e-ago/bitcracker    首款开源的BitLocker密码破解工具
-- https://www.ru.nl/publish/pages/909282/draft-paper.pdf    破解SSD下使用BitLocker的论文
+- https://www.ru.nl/publish/pages/909282/draft-paper.pdf    破解SSD下使用BitLocker加密的论述文章
 - https://github.com/magnumripper/JohnTheRipper    已知密文的情况下尝试破解出明文的破解密码软件
 - https://github.com/shinnok/johnny    JohnTheRipper密码破解的GUI界面，理论兼容所有功能，有windows界面
 - https://github.com/MrSqar-Ye/wpCrack    wordpress hash破解
@@ -1223,6 +1229,7 @@
 - https://github.com/TKCERT/mail-security-tester    检测邮件防护与过滤系统的测试框架
 - https://github.com/chaitin/sqlchop-http-proxy    利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
 - https://github.com/OWASP/SecureTea-Project    当有人私自触碰电脑鼠标或触摸板，进行报警
+- https://github.com/openitsystem/itops    PY3\DJANGO,AD\Exchange管理系统
 ### 代码审计应用测试
 - https://www.waitalone.cn/seay-source-code-auditv2.html    Seay源代码审计系统2.1版本
 - https://github.com/pyupio/safety    检查所有已安装 Python 包, 查找已知的安全漏洞
@@ -1584,7 +1591,7 @@
 - https://www.onlinedoctranslator.com/    在线文档翻译
 - https://mixkit.co/    在线视频素材
 - https://zh.wikihow.com    生活百科
-- https://www.cn-ki.net/    论文期刊检索下载
+- https://www.cn-ki.net/    知网、论文期刊检索下载
 - http://sci-hub.tw/    文献、专利、书籍下载
 - http://www.1ppt.com/    免费ppt下载
 - http://ac.scmor.com/    谷歌搜索镜像
