@@ -34,10 +34,7 @@
 - https://github.com/golang-china/gopl-zh    GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
 - https://github.com/evilcos/papers    余弦关于网络空间文章分享
-- https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
-- http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
 - http://paper.tuisec.win/detail/34ab12018f71e71    个人总结的漏洞管理流程分享
-- https://3gstudent.github.io/3gstudent.github.io/通过模拟可信目录绕过UAC的利用分析/
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
 ## 攻防测试资源
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
@@ -59,7 +56,17 @@
 - https://github.com/demonsec666/Security-Toolkit    渗透攻击链中常用工具及使用场景
 - https://github.com/Kinimiwar/Penetration-Testing    渗透测试方向优秀资源收集
 - https://github.com/jshaw87/Cheatsheets    渗透测试/安全秘籍/笔记
-- https://github.com/nccgroup     实力挺强的团队，burp插件的编写、内网利用工具、app安全工具
+- https://github.com/nccgroup     国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
+- https://3gstudent.github.io/3gstudent.github.io/通过模拟可信目录绕过UAC的利用分析/
+- https://www.4hou.com/technology/16713.html    通过模拟可信目录绕过UAC的利用分析
+- https://www.4hou.com/technology/16882.html    模拟可信目录的利用技巧扩展
+- https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
+- http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
+### 产品设计
+- https://book.yunzhan365.com/dksd/oyru/mobile/index.html    基于攻击链的网络威胁捕猎架构设计
+- http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    科来网络攻击与防范图谱
+- https://www.anquanke.com/post/id/178339    漏扫动态爬虫实践。pyppeteer
+- https://www.jianshu.com/p/1ea9845b9f1d    使用Airtest超快速开发App爬虫
 ### 安全科普文章博客
 - http://topspeedsnail.com    常见的wifi破解、网站扫描技术演示
 - https://github.com/tiancode/learn-hacking    网络安全入门文章集
@@ -194,6 +201,7 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
 - https://github.com/Ridter/Pentest    安全工具集
 - https://github.com/redcanaryco/atomic-red-team    win、linux、mac等多方面apt利用手段、技术与工具集
+- https://github.com/BlackDiverX/cqtools    CQAcademy密码哈希hash抓取工具集合
 - https://github.com/fireeye/commando-vm    FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。类似kali
 - https://github.com/Cooolis/Cooolis.github.io    Cooolis是一个操作系统命令技巧备忘录，https://cooolis.payloads.online
 - https://github.com/LOLBAS-Project/LOLBAS    常见的渗透测试利用的脚本与二进制文件集合
@@ -228,10 +236,11 @@
 - https://github.com/boy-hack/hack-requests    PY3,burp数据包重放、线程安全、底层包日志分析
 ## 漏洞收集与exp、poc利用
 - https://sploitus.com    漏洞搜索引擎
-- https://www.exploit-db.com    Kali维护的漏洞列表
-- https://github.com/Lcys/Python_PoC    python3的poc、exp快速编写模板，有众多模范版本
+- https://www.exploit-db.com    Kali维护的漏洞列表，自带poc与EXP
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
 - https://github.com/mudongliang/LinuxFlaw    包含linux下软件漏洞列表
+- http://www.moonsec.com/post-389.html    破壳漏洞GNU BASH漏洞远程检测工具（CVE-2014-6271)
+- https://github.com/Lcys/Python_PoC    python3的poc、exp快速编写模板，有众多模范版本
 - https://github.com/coffeehb/Some-PoC-oR-ExP    各种漏洞poc、Exp的收集或编写
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
 - https://github.com/CVEProject/cvelist    Json格式的漏洞信息库，https://www.cvedetails.com
@@ -297,6 +306,7 @@
 - https://github.com/lijiejie/GitHack    .git文件利用工具
 ### MS与Office漏洞收集
 - https://github.com/Lz1y/CVE-2017-8759    .NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）https://www.freebuf.com/vuls/147793.html
+- https://github.com/digital-missiles/CVE-2019-0708-PoC-Hitting-Path    PY,RDP服务远程命令执行
 - https://github.com/WyAtu/CVE-2018-8581    Exchange使用完成添加收信规则的操作进行横向渗透和提权漏洞
 - https://github.com/dafthack/MailSniper    PS,用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）
 - https://github.com/sensepost/ruler    GO,通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互,通过客户端Outlook功能远程获取shell
@@ -424,6 +434,7 @@
 - https://github.com/evilcos/cookiehacker    Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    Chrome扩展，cookie注入工具包括注入，编辑，添加和删除cookie
 ## 信息搜集OSINT
+- http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    OSINT Cheat Sheet信息搜集技巧
 - https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    JAVA，多维度信息搜集,需要一定插件编写能力
 - https://github.com/smicallef/spiderfoot    利用OSINT自动化找出对方信息，gui界面，插件化
 - https://github.com/Nhoya/gOSINT    go，利用OSINT自动化搜集信息
@@ -461,7 +472,7 @@
 - https://github.com/Viralmaniar/I-See-You    bash,利用公网网站代理获取用户的真实地理信息。simple
 ### 网站克隆镜像伪造
 - http://www.httrack.com    网站克隆镜像
-#### 钓鱼框架邮件伪造
+### 钓鱼框架邮件伪造
 - https://github.com/bhdresh/SocialEngineeringPayloads    负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
 - https://github.com/trustedsec/social-engineer-toolkit    专为社交工程设计的开源渗透测试框架
 - https://github.com/thelinuxchoice/blackeye    拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
@@ -555,8 +566,7 @@
 - https://github.com/D4Vinci/Cr3dOv3r    根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 ## 威胁情报分析
 - cdn.databases.today,www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
-- https://www.threatcrowd.org/    威胁情报分析平台
-- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测
+- http://dingba.top/qqzk    全球智库
 - https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
 - https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
@@ -660,14 +670,6 @@
 - https://github.com/UltimateHackers/Striker    simple，信息搜集、cms利用与漏扫，侦察绕过Cloudflare
 - https://github.com/0x4D31/salt-scanner    基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用
 - https://github.com/opensec-cn/kunpeng    go，POC检测框架，以动态链接库的形式提供各种语言调用
-### 被动扫描抓包代理调试
-- https://github.com/zaproxy/zaproxy    The OWASP ZAP core project出品的综合性渗透测试工具。由于其流量代理、请求重放和可扩展性拿来做模糊测试未尝不可
-- https://github.com/x-Ai/BurpUnlimitedre    burpsuite 1.7.27的永久破解版
-- https://github.com/netxfly/passive_scan    基于http代理的web漏洞扫描器
-- https://www.0daydown.com/03/33647.html    IEInspector HTTP Analyzer，可以注入进程进行SSL解密
-- http://soft.125.la    精易助手，包括抓包发包正则调试等工具
-- https://www.getpostman.com    Chrome插件，http调试工具
-- https://github.com/jakubroztocil/httpie    http调试工具，类似curl，功能更完善
 ### 运维安全服务与资产管理
 - https://github.com/chaitin/cloudwalker    CloudWalker（牧云）服务器安全管理平台，逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等功能。
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要是在win下
@@ -688,6 +690,14 @@
 - https://github.com/ywolf/F-NAScan    py2.6，网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/flipkart-incubator/RTA    扫描公司内部所有在线设备, 提供整体安全视图, 标示所有安全异常
 - https://github.com/0xbug/Biu-framework    企业内网基础服务安全扫描框架
+### 被动扫描抓包代理调试
+- https://github.com/zaproxy/zaproxy    The OWASP ZAP core project出品的综合性渗透测试工具。由于其流量代理、请求重放和可扩展性拿来做模糊测试未尝不可
+- https://github.com/x-Ai/BurpUnlimitedre    burpsuite 1.7.27的永久破解版
+- https://github.com/netxfly/passive_scan    基于http代理的web漏洞扫描器
+- https://www.0daydown.com/03/33647.html    IEInspector HTTP Analyzer，可以注入进程进行SSL解密
+- http://soft.125.la    精易助手，包括抓包发包正则调试等工具
+- https://www.getpostman.com    Chrome插件，http调试工具
+- https://github.com/jakubroztocil/httpie    http调试工具，类似curl，功能更完善
 ### 上传漏洞利用
 - https://github.com/UltimateHackers/Arjun    扫描网页, 使用正则表达式爆破查找隐藏的GET/POST参数
 - https://github.com/3xp10it/xupload    用于自动测试上传功能是否可上传webshell的工具
@@ -792,6 +802,7 @@
 ### 弱口令扫描密码爆破
 - https://github.com/vanhauser-thc/thc-hydra    C,支持多种协议方式的破解与爆破
 - https://github.com/maaaaz/thc-hydra-windows    C,hydra的windows编译版本
+- https://github.com/galkan/crowbar    PY,支持openvpn、rdp、ssh、vnc破解
 - https://github.com/shack2/SNETCracker    C#,密码爆破工具，支持SSH、RDP、MySQL等常见协议
 - https://github.com/jmk-foofus/medusa    C,Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    c，支持多种协议的破解与爆破
@@ -968,6 +979,7 @@
 ### 横向移动与密码hash窃取
 - http://www.oxid.it/cain.html    Cain & Abel支持密码还原、arp中间人攻击
 - https://github.com/gentilkiwi/mimikatz    Windows下以抓取密码为主的横向移动神器
+- https://github.com/CoreSecurity/impacket    Impacket是用于处理网络协议的Python工具包，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
 - https://github.com/skelsec/pypykatz    使用纯py3实现的mimikatz
 - https://github.com/eladshamir/Internal-Monologue    无需LSASS进程使用Mimikatz从LSASS进程内存中提取内容, 从内存中提取明文密码, NTLM哈希, Kerberos ticket, 以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/AlessandroZ/LaZagne    py3，密码抓取工具
@@ -1001,6 +1013,7 @@
 - https://github.com/51x/WHP    windows下各种提权与利用工具
 - https://github.com/rasta-mouse/Sherlock    win提权漏洞验证
 - https://github.com/WindowsExploits/Exploits    微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
+- https://github.com/breenmachine/RottenPotatoNG    C++,CVE漏洞编号：CVE-2016-3225,烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权
 - https://github.com/decoder-it/lonelypotato    RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权
 - https://github.com/ohpe/juicy-potato    RottenPotatoNG变种，利用com对象、用户token进行提权
 - https://github.com/foxglovesec/Potato    RottenPotatoNG变种，利用本地域名欺骗和代理欺骗提权
@@ -1009,7 +1022,6 @@
 - https://github.com/klionsec/BypassAV-AllThings    利用aspx一句话配合提权payload提权
 - https://github.com/St0rn/Windows-10-Exploit    msf插件，win10 uac bypass
 - https://github.com/sam-b/CVE-2014-4113    利用Win32k.sys内核漏洞进行提取，ms14-058
-- https://github.com/breenmachine/RottenPotatoNG    利用NBNS本地域名欺骗和WPAD代理欺骗提权
 - https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
@@ -1088,17 +1100,6 @@
 - https://github.com/Mr-Un1k0d3r/DKMC    Don’t kill my cat生成混淆的shellcode，将shellcode存储在多语言图像中
 - https://github.com/deepzec/Bad-Pdf    生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
-### 协议解析流量还原分析
-- https://github.com/wireshark/wireshark    协议解析流量分析还原
-- https://github.com/CoreSecurity/impacket    Impacket是用于处理网络协议的Python工具包，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
-- https://github.com/secdev/scapy    内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
-- https://gitee.com/qielige/openQPA    协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
-- https://github.com/jtpereyda/boofuzz    网络协议fuzz测试
-- https://www.jianshu.com/p/4dca12a35158    5个常用的免费报文库
-- https://github.com/zerbea/hcxdumptool    从Wlan设备上捕获数据包
-- https://github.com/NytroRST/NetRipper    支持截获像putty,winscp,mssql,chrome,firefox,outlook，https中的明文密码
-- https://github.com/shramos/polymorph    支持几乎所有现有协议的实时网络数据包操作框架
-- https://github.com/nospaceships/raw-socket-sniffer    C,PS，无需驱动抓取Windows流量
 ### 中间人攻击流量劫持
 - https://github.com/bettercap/bettercap    网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等
 - https://github.com/mitmproxy/mitmproxy    PY,支持SSL拦截，进行https流量代理
@@ -1147,6 +1148,17 @@
 - https://github.com/Arno0x/DNSExfiltrator    利用DNS解析进行数据隐秘传输的工具
 - https://github.com/ytisf/PyExfil    用于数据取回的Python软件包
 - https://github.com/Arno0x/ReflectiveDnsExfiltrator反射DNS解析隐蔽通道进行数据泄露
+### 协议解析流量分析数据还原
+- https://www.jianshu.com/p/4dca12a35158    5个常用的免费报文库
+- https://github.com/wireshark/wireshark    LUA,协议解析流量分析还原
+- https://github.com/zeek/zeek    C++,bro的升级版，网络流量解析工具
+- https://github.com/secdev/scapy    内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
+- https://gitee.com/qielige/openQPA    协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
+- https://github.com/zerbea/hcxdumptool    从Wlan设备上捕获数据包
+- https://github.com/NytroRST/NetRipper    支持截获像putty,winscp,mssql,chrome,firefox,outlook，https中的明文密码
+- https://github.com/shramos/polymorph    支持几乎所有现有协议的实时网络数据包操作框架
+- https://github.com/nospaceships/raw-socket-sniffer    C,PS，无需驱动抓取Windows流量
+- https://github.com/jtpereyda/boofuzz    网络协议fuzz测试
 ## 硬件安全
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    固件硬件逆向分析方法技巧
 - https://github.com/unprovable/PentestHardware    硬件渗透测试实用手册
@@ -1190,6 +1202,8 @@
 - https://github.com/nsacyber/GRASSMARLIN    NSA旗下ICS/SCADA态势感知
 - https://github.com/nezza/scada-stuff    对 SCADA/ICS设备进行逆向与攻击
 ### 摄像头安全
+- https://www.freebuf.com/articles/terminal/203311.html    智能摄像头安全分析及案例参考
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    绿盟 智能设备安全分析手册.pdf
 - https://github.com/woj-ciech/kamerka    配合shodan API将扫描到的摄像头地理位置还有twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    GO,针对摄像头RTSP协议渗透测试，附弱口令字典
 - https://github.com/Ullaakut/camerattack    GO,摄像头远程禁用
@@ -1474,7 +1488,6 @@
 - https://www.palletsprojects.com/p/flask/    PY,微框架，就是毛坯房的意思。
 ### 爬虫相关
 - https://github.com/xuyichenmo/selenium-document    Selenium的中文文档
-- https://www.jianshu.com/p/1ea9845b9f1d    使用Airtest超快速开发App爬虫
 - https://github.com/alphardex/looter    轻量型爬虫框架，类比Scrapy
 - https://github.com/luyishisi/Anti-Anti-Spider    过反爬虫
 - https://github.com/xchaoinfo/fuck-login    模拟登录一些常见的网站
@@ -1488,7 +1501,6 @@
 - https://github.com/littlecodersh/itchat    微信个人号接口、微信机器人及命令行微信
 - https://github.com/sym233/core-values-encoder    js,社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
-- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
 - http://sc.ftqq.com/3.version    server酱微信通知
 - https://www.wolframalpha.com    根据问题直接给出答案的网站
 - https://sms.cngrok.com/receiving-sms    收码接码
@@ -1499,29 +1511,13 @@
 - https://verify-email.org    邮件真实性验证
 - http://www.vuln.cn/tools/ftp    在线FTP登录
 - https://pdos.csail.mit.edu/archive/scigen/    SCIgen 学术文档虚拟文件生成钓鱼
-### 外包网站源码
-- http://www.mycodes.net    源码之家，大部分免费
-- http://down.admin5.com/    A5网站源码下载
-- zbj.com    猪八戒，重庆外包平台，较正规
-- http://www.epwk.com    威客
-- https://www.a5.net    比较野
-- https://bbs.125.la/forum-98-1.html    比较野
-- https://www.xd0.com    xiaodao.la
-### 在线密码破解
-- https://www.cmd5.com/    HASH密码在线破解。限制位数
-- http://hashtoolkit.com    HASH密码在线破解。免费
-- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    md5密码破解。免费
-- https://md5.gromweb.com/?md5=    md5密码破解。免费
-- http://www.chamd5.org    md5密码破解。需要登录
-- http://www.xmd5.org    md5密码破解。需要登录
-- http://pmd5.com    md5密码破解。需要验证码
-- https://hashkiller.co.uk/Cracker    md5密码破解。需要验证码
-- https://www.onlinehashcrack.com    md5密码破解。需要验证码
-### 在线信息搜集
+## 在线信息搜集
 - shodan.io    互联网感知引擎
 - fofa.so    白帽汇NOSEC
 - https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
 - zoomeye.org    知道创宇互联网感知引擎
+- https://www.threatcrowd.org/    威胁情报分析平台
+- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。api良好，需要key
 - https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
 - https://safeweb.norton.com    诺顿网站安全检测
 - http://www.link114.cn/title/    批量查询网站标题
@@ -1534,6 +1530,16 @@
 - https://dnsdumpster.com/    dns recon and research, find and lookup dns records
 - http://ip.chaxun.la/    ip反查域名---查询啦
 - http://tools.bugscaner.com    常用工具集汇总
+### 在线密码破解
+- https://www.cmd5.com/    HASH密码在线破解。限制位数
+- http://hashtoolkit.com    HASH密码在线破解。免费
+- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    md5密码破解。免费
+- https://md5.gromweb.com/?md5=    md5密码破解。免费
+- http://www.chamd5.org    md5密码破解。需要登录
+- http://www.xmd5.org    md5密码破解。需要登录
+- http://pmd5.com    md5密码破解。需要验证码
+- https://hashkiller.co.uk/Cracker    md5密码破解。需要验证码
+- https://www.onlinehashcrack.com    md5密码破解。需要验证码
 ### 在线文件检测
 - https://habo.qq.com    在线恶意文件检测
 - https://www.virustotal.com    恶意软件检测
@@ -1543,22 +1549,6 @@
 - http://appscan.360.cn    360移动app安全移动软件在线检测
 - https://service.security.tencent.com/kingkong    腾讯金刚app安全移动软件在线检测
 - https://www.nomoreransom.org    常见勒索软件分析还原
-### 在线办公套件
-- https://sadd.io/    在线操作系统https://github.com/Ridter/Intranet_Penetration_Tips
-- https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
-- https://github.com/RobbieHan/gistandard    py，基于Django，OA工单办公管理系统
-- https://github.com/pavanw3b/sh00t    PY3,DJANGO，simple，安全测试工单管理
-- https://github.com/chaitin/strapdown-zeta    基于strapdown.js，长亭二次开发开源的Wiki系统，支持markdown
-- https://etherpad.net/    在线可编辑记事本
-- https://www.upload.ee/    文件共享平台
-- https://github.com/micahflee/onionshare    利用onion洋葱服务器匿名文件共享
-- https://github.com/filebrowser/filebrowser    GO,基于Caddy框架的网盘
-- https://github.com/nextcloud/server    php，私有云网盘，owncloud分支
-- https://github.com/owncloud/core    php，私有云网盘，界面不美观
-- https://github.com/haiwen/seafile    C,私有云网盘，速度快，功能少
-- https://github.com/ymfe/yapi    API管理工具
-- https://thyrsi.com/    图片上传分享工具
-- https://send.firefox.com    火狐网盘
 ### 隐私匿名加密
 - https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - http://bccto.me    一次性邮箱
@@ -1579,7 +1569,7 @@
 - https://signal.org
 - http://www.batmessenger.com
 - http://sid.co
-### 在线资源
+## 在线资源
 - https://github.com/DoubleLabyrinth/navicat-keygen    navicat注册机
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    MobaXterm注册机
 - http://www.angusj.com/resourcehacker    Windows对程序属性的修改
@@ -1604,6 +1594,34 @@
 - http://sci-hub.tw/    文献、专利、书籍下载
 - http://www.1ppt.com/    免费ppt下载
 - http://ac.scmor.com/    谷歌搜索镜像
+- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
+- https://www.gobaidugle.com    联合搜索
+- https://lookao.com/    匿名搜索
+- https://mijisou.com/    匿名搜索
+### 外包网站源码
+- http://www.mycodes.net    源码之家，大部分免费
+- http://down.admin5.com/    A5网站源码下载
+- zbj.com    猪八戒，重庆外包平台，较正规
+- http://www.epwk.com    威客
+- https://www.a5.net    比较野
+- https://bbs.125.la/forum-98-1.html    比较野
+- https://www.xd0.com    xiaodao.la
+### 在线办公套件
+- https://sadd.io/    在线操作系统https://github.com/Ridter/Intranet_Penetration_Tips
+- https://github.com/zyx0814/dzzoffice    在线办公套件,DEMO网址demo.dzzoffice.com
+- https://github.com/RobbieHan/gistandard    py，基于Django，OA工单办公管理系统
+- https://github.com/pavanw3b/sh00t    PY3,DJANGO，simple，安全测试工单管理
+- https://github.com/chaitin/strapdown-zeta    基于strapdown.js，长亭二次开发开源的Wiki系统，支持markdown
+- https://etherpad.net/    在线可编辑记事本
+- https://www.upload.ee/    文件共享平台
+- https://github.com/micahflee/onionshare    利用onion洋葱服务器匿名文件共享
+- https://github.com/filebrowser/filebrowser    GO,基于Caddy框架的网盘
+- https://github.com/nextcloud/server    php，私有云网盘，owncloud分支
+- https://github.com/owncloud/core    php，私有云网盘，界面不美观
+- https://github.com/haiwen/seafile    C,私有云网盘，速度快，功能少
+- https://github.com/ymfe/yapi    API管理工具
+- https://thyrsi.com/    图片上传分享工具
+- https://send.firefox.com    火狐网盘
 ***
 **个人维护的安全预警维基百科，根据中华人民共和国《网络安全法》相关政策规定，本文章只做安全预警，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担**
 - https://github.com/We5ter/Scanners-Box    增加条目，细化分类
