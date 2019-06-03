@@ -8,8 +8,6 @@
 - https://arxiv.org    康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    awesome系列
 - http://www.owasp.org.cn/owasp-project/owasp-things    OWASP项目
-- https://start.me/p/X20Apn    听风者情报源
-- https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    KCon大会文章PPT
 - https://github.com/SecWiki/sec-chart    安全思维导图集合
@@ -35,6 +33,8 @@
 - https://github.com/chai2010/advanced-go-programming-book    GO语言高级编程
 - https://github.com/evilcos/papers    余弦关于网络空间文章分享
 - http://paper.tuisec.win/detail/34ab12018f71e71    个人总结的漏洞管理流程分享
+### 应急响应
+- https://github.com/jiansiting/Decryption-Tools    勒索病毒解决方案
 - https://github.com/Bypass007/Emergency-Response-Notes    应急响应系列之 web 实战篇，Linux 应急响应流程及实战演练，windows 应急流程及实战演练
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
 ### 产品设计
@@ -72,7 +72,7 @@
 - https://www.freebuf.com/articles/web/195304.html  一句话木马的套路
 - http://www.pentest-standard.org/index.php/Pre-engagement#Scope_Creep    渗透测试标准-渗透项目实施前的互动。项目实施前
 - https://www.freebuf.com/articles/102500.html    黑客讲述渗透Hacking Team全过程（详细解说）
-- https://payloads.online/archivers/2019-05-21/1    鱼叉攻击-尝试
+- https://payloads.online/archivers/2019-05-21/1    鱼叉攻击-尝试。倾旋
 ### 安全科普文章博客
 - http://topspeedsnail.com    常见的wifi破解、网站扫描技术演示
 - https://github.com/tiancode/learn-hacking    网络安全入门文章集
@@ -200,15 +200,12 @@
 - https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://bugreader.com    国外知名厂商漏洞描述
 # 工具包集合
-- https://github.com/infosecn1nja/Red-Teaming-Toolkit    信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹
-- http://www.4hou.com/web/11241.html    史上最全攻击模拟工具盘点
 - https://www.test404.com/sort/sectools    test404安全工具
 - https://www.test404.com/sort/othertools    test404实用工具
 - https://www.test404.com/sort/original    test404原创栏目
 - https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会工具集
 - https://www.cnblogs.com/k8gege    K8哥哥工具包。解压密码Kk8team,Kk8gege
-- https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
-- https://github.com/Ridter/Pentest    安全工具集
+- https://github.com/Ridter/Pentest    后门、exp、fuzzing、字典、ps脚本
 - https://github.com/redcanaryco/atomic-red-team    win、linux、mac等多方面apt利用手段、技术与工具集
 - https://github.com/BlackDiverX/cqtools    CQAcademy密码哈希hash抓取工具集合
 - https://github.com/fireeye/commando-vm    FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。类似kali
@@ -265,6 +262,7 @@
 - https://github.com/jagracey/Regex-DoS    RegEx拒绝服务扫描器
 - https://github.com/Bo0oM/PHP_imap_open_exploit    利用imap_open绕过php exec函数禁用
 - https://www.anquanke.com/post/id/106488    利用mysql服务端恶意配置读取客户端文件，（如何利用MySQL LOCAL INFILE读取客户端文件，Read MySQL Client's File，【技术分享】从MySQL出发的反击之路）
+- https://github.com/jas502n/CVE-2019-12086-jackson-databind-file-read/    CVE-2019-12086 利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
 - https://github.com/jas502n/CVE-2019-7238    Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 ### 软件模板漏洞收集
@@ -498,8 +496,10 @@
 ### 钓鱼框架邮件伪造
 - https://github.com/bhdresh/SocialEngineeringPayloads    负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
 - https://github.com/trustedsec/social-engineer-toolkit    专为社交工程设计的开源渗透测试框架
-- https://github.com/thelinuxchoice/blackeye    拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
-- https://github.com/M4cs/BlackEye-Python    以blackeye为基础加强子域的管理
+- https://github.com/thelinuxchoice/blackeye    PY,拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
+- https://github.com/M4cs/BlackEye-Python    PY,以blackeye为基础,增加子域名模拟伪造功能
+- https://github.com/lunarca/SimpleEmailSpoofer    PY,域名伪造钓鱼邮件
+- https://www.jetmore.org/john/code/swaks/    PERL,基于smtp的邮箱域名伪造测试工具
 - https://github.com/azizaltuntas/Camelishing    py3，界面化社会工程学攻击辅助工具
 - https://github.com/JonCooperWorks/judas    go，克隆网站钓鱼
 - https://github.com/gophish/gophish    go，拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
@@ -515,7 +515,8 @@
 - https://github.com/fireeye/PwnAuth    OAuth滥用测试检测平台
 - https://github.com/n0pe-sled/Postfix-Server-Setup    自动化建立一个网络钓鱼服务器
 - https://github.com/Dionach/PhEmail    py2，钓鱼与邮件伪造
-- https://github.com/PHPMailer/PHPMailer    PHP，流行的PHP发送邮件的组件
+- https://salmon-mail.readthedocs.io    PY,邮件服务器
+- https://github.com/PHPMailer/PHPMailer    PHP，PHP发送邮件的组件
 - https://github.com/jbtronics/CrookedStyleSheets    php,使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 - http://tool.chacuo.net/mailanonymous    在线邮件伪造
 - http://ns4gov.000webhostapp.com 在线邮件伪造
@@ -859,7 +860,8 @@
 - https://www.52pojie.cn/thread-275945-1-1.html    ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
 - https://github.com/fox-it/adconnectdump     PY,Azure AD凭证导出工具
 - https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    Navicate数据库密码解密
-### 网站管理与webshell
+- https://github.com/psypanda/hashID    PY,对超过220种hash识别。'hash'
+- https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    PY2,对超过160种hash识别。
 - http://www.bt.cn    宝塔网站管理系统
 - https://github.com/AntSwordProject/antSword    js,中国蚁剑,插件式开发
 - https://github.com/Chora10/Cknife    java，中国菜刀
@@ -978,8 +980,8 @@
 - https://github.com/audibleblink/doxycannon    使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 ### Cross超越边界NPV
 - https://github.com/bannedbook/fanqiang/wiki    cross汇总
-- https://github.com/teddysun/across    梯子搭建
 - https://github.com/ToyoDAdoubi/doubi    各种常用一键脚本
+- https://github.com/teddysun/across    shell,npv、bbr、kms等脚本
 - https://github.com/Nyr/openvpn-install    openvpn一键
 - https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
 - https://github.com/teddysun/shadowsocks_install    shadowsocks,shadowsocksr
@@ -1047,13 +1049,13 @@
 - https://github.com/DanMcInerney/icebreaker    处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/hausec/ADAPE-Script    Active Directory权限提升脚本
 - https://github.com/klionsec/BypassAV-AllThings    利用aspx一句话配合提权payload提权
-- https://github.com/St0rn/Windows-10-Exploit    msf插件，win10 uac bypass
+- https://github.com/St0rn/Windows-10-Exploit    PY\msf插件，win10 uac bypass
 - https://github.com/sam-b/CVE-2014-4113    利用Win32k.sys内核漏洞进行提取，ms14-058
 - https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
 ### 权限绕过
-- https://payloads.online/archivers/2018-12-22/1    DLL Hijacking & COM Hijacking ByPass UAC - 议题解读
+- https://payloads.online/archivers/2018-12-22/1    DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。倾旋
 - https://github.com/tyranid/DotNetToJScript    能够利用JS/Vbs脚本加载.Net程序的工具
 - https://github.com/g3rzi/Manifesto    C#,寻找系统中存在可执行权限的组件
 - https://github.com/mdsecactivebreach/SharpPack    绕过系统应用白名单执行DotNet and PowerShell tools
@@ -1303,7 +1305,7 @@
 ### 大数据平台安全
 - https://github.com/shouc/BDA    针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    hadoop测试方式和工具集
-## 蜜罐安全
+## 欺骗防御
 - https://github.com/paralax/awesome-honeypots    蜜罐开源技术收集
 - https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
 - https://github.com/dtag-dev-sec/tpotce    T-POT，里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
@@ -1311,10 +1313,11 @@
 - https://github.com/n3uz/t-pot-autoinstall    将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 - https://github.com/leeberg/BlueHive    PS,利用Active Directory生成用户账户蜜罐
 - https://github.com/netxfly/x-proxy    GO,代理蜜罐，捕捉使用者流量。simple
+- https://www.freebuf.com/sectool/204652.html    基于EVE-NG平台上构建企业内网攻防环境
 ### 外网蜜罐
 - https://github.com/p1r06u3/opencanary_web    PY,TORNADO,内网低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
 - https://github.com/p1r06u3/opencanary_web    
-- https://github.com/Cymmetria    知名欺骗防御蜜罐组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
+- https://github.com/Cymmetria    欺骗防御组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/mushorg/snare    py3，web安全蜜罐，可克隆指定Web页面
@@ -1416,7 +1419,7 @@
 - https://github.com/GeoSn0w/OsirisJailbreak12    IOS12不完全越狱
 - https://github.com/chaitin/passionfruit    iOS应用逆向与分析工具，可以大大加速iOS应用安全分析过程
 - https://sukarodo.me/gr00t/    IOS12全版本越狱工具
-## 欺骗防御入侵检测
+## 流量审计入侵检测
 - https://github.com/JPCERTCC/LogonTracer    根据win登陆记录日志来分析并用图形化展示恶意登陆行为
 - https://github.com/jpcertcc/sysmonsearch    将Sysmon的日志结果可视化
 - http://m.imooc.com/article/21236    快速自检电脑是否被黑客入侵过(Windows版)
@@ -1587,6 +1590,11 @@
 - https://service.security.tencent.com/kingkong    腾讯金刚app安全移动软件在线检测
 - https://www.nomoreransom.org    常见勒索软件分析还原
 ### 隐私匿名加密
+- https://github.com/walkor/workerman-chat    php，在线聊天室。可扩展
+- https://github.com/hack-chat    https://hack.chat/?your-channel js,在线聊天，问号后面跟你的房间名
+- https://github.com/akaxincom/openzaly    java,聊天室，Akaxin为客户端闭源
+- https://github.com/RocketChat/Rocket.Chat    js,在线团队聊天服务器，https://rocket.chat/install
+- https://github.com/gyxuehu/EwoMail    PHP,EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
 - https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - http://bccto.me    一次性邮箱
 - https://www.guerrillamail.com    一次性邮箱
@@ -1595,10 +1603,6 @@
 - https://yandex.com/    非手机邮箱
 - https://mail.ru/    非手机邮箱
 - https://mail.protonmail.com/login    非手机邮箱
-- https://github.com/walkor/workerman-chat    php，在线聊天室，可扩展
-- https://github.com/hack-chat    https://hack.chat/?your-channel js,在线聊天，问号后面跟你的房间名
-- https://github.com/akaxincom/openzaly    java,聊天室，Akaxin为客户端闭源
-- https://github.com/RocketChat/Rocket.Chat    js,在线团队聊天服务器，https://rocket.chat/install
 - https://telegram.org
 - https://slack.com
 - https://www.whatsapp.com
@@ -1635,7 +1639,7 @@
 - https://www.gobaidugle.com    联合搜索
 - https://lookao.com/    匿名搜索
 - https://mijisou.com/    匿名搜索
-### 外包网站源码
+### 网站源码外包
 - http://www.mycodes.net    源码之家，大部分免费
 - http://down.admin5.com/    A5网站源码下载
 - zbj.com    猪八戒，重庆外包平台，较正规
@@ -1664,5 +1668,11 @@
 **个人维护的安全预警维基百科，根据中华人民共和国《网络安全法》相关政策规定，本文章只做安全预警，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担**
 - https://github.com/We5ter/Scanners-Box    增加条目，细化分类
 - https://www.anquanke.com/opensource    github搜索引擎
+- https://start.me/p/X20Apn    听风者情报源
+- https://start.me/p/GE7JQb/osint    情报源
+- https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
+- https://www.osint-labs.org/apt/    情报源
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit    信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹
+- https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
 TheEnd
 ***
