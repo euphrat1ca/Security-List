@@ -147,17 +147,21 @@
 - https://www.lshack.cn/849/    oscp备战
 ## 漏洞挖掘
 ### 学习靶场
-- https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/    124个合法的可以练习Hacking技术的网站
-- https://www.zhihu.com/question/267204109    学web安全去哪里找各种各样的靶场？
-- https://www.vulnhub.com    许多ctf靶机汇总
-- https://www.wechall.net    世界知名ctf汇总交流网站
-- https://www.xssgame.com    谷歌XSS挑战
-- https://www.mozhe.cn/bug    墨者学院在线靶场
-- http://xss.tv    在线靶场挑战
+- https://www.pentesteracademy.com    攻防技术认证。商业版
+- https://www.offensive-security.com/information-security-certifications/    kali攻防技术认证。商业版
+- https://www.root-me.org    root me在线靶场
 - https://www.hackthebox.eu    在线靶场挑战
 - https://0xrick.github.io/hack-the-box/bighead/    Hack The Box - BigHead关卡write-ups
-- https://www.root-me.org    在线靶场挑战
+- https://www.cybrary.it    网络安全工程师认证。CTF/Labs
+- https://www.ichunqiu.com/experiment/direction    i春秋实验室。Web/主机/应用
+- https://www.mozhe.cn/bug    墨者学院在线靶场。Web/主机/数据库/取证
+- https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/    124个合法的可以练习Hacking技术的网站
+- https://www.zhihu.com/question/267204109    学web安全去哪里找各种各样的靶场？
+- https://www.wechall.net    世界知名ctf汇总交流网站
+- https://www.xssgame.com    谷歌XSS挑战
+- http://xss.tv    Web在线靶场
 - http://www.itsecgames.com    bWAPP，包含 100多种漏洞环境
+- https://www.vulnhub.com    ctf靶机汇总
 - https://github.com/c0ny1/vulstudy    多种漏洞复现系统的docker汇总
 - https://github.com/bkimminich/juice-shop    常见web安全实验靶场市场
 - https://github.com/ethicalhack3r/DVWA     web安全实验靶场
@@ -256,34 +260,6 @@
 - http://www.zerodium.com/    漏洞市场
 - https://0day.today    漏洞市场
 - https://www.hackerone.com/    漏洞市场
-## 情报分析
-- http://dingba.top/qqzk    全球智库
-- cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
-- https://weleakinfo.com    密码泄露
-- https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
-- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
-- https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
-- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
-- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
-- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
-- https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
-- https://github.com/Te-k/harpoon    用于开源和威胁智能的CLI工具
-- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
-- https://avoidaclaim.com/fraud-warnings/    诈骗信息公示
-- http://www.payer.org/test/    恶意邮件地址电话公式
-- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
-- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
-- https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
-### IP地理库
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    geoip2全球IPV4
-- https://www.ipip.net   IPV4.商业版
-- https://www.ipplus360.com    IPV4/IPV6。商业版
-### 攻击源情报
-- https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
-### APT威胁情报
-- https://github.com/blackorbird/APT_REPORT    apt组织报告与公开文件
-- https://git.laucyun.com/security/APT34    APT34/OILRIG 资源文档文件泄露
-- https://ht.transparencytoolkit.org    Hacking Team 400G泄露
 # 工具包集合
 - https://www.parrotsec.org    Kali
 - https://github.com/toolswatch/blackhat-arsenal-tools    黑帽大会工具集
@@ -331,12 +307,8 @@
 - https://github.com/numpy/numpy/issues/12759    科学计算框架numpy命令执行RCE漏洞
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    jenkins远程命令执行
 - https://github.com/WyAtu/CVE-2018-20250    WinRar执行漏洞加使用介绍
+- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_poc.py    coremail配置文件读取，添加用户
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
-- https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
-- https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
-- https://github.com/w1109790800/penetration    CMS新老版本exp与系统漏洞搜集表
-- https://github.com/jas502n/CVE-2019-6340    Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
-- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    thinkphp v5.x 远程代码执行漏洞-POC集合
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    OpenSSH用户枚举漏洞（CVE-2018-15473）
@@ -346,6 +318,11 @@
 - https://github.com/jas502n/CVE-2019-12086-jackson-databind-file-read/    CVE-2019-12086 利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    PY.MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690
+- https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
+- https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
+- https://github.com/w1109790800/penetration    CMS新老版本exp与系统漏洞搜集表
+- https://github.com/jas502n/CVE-2019-6340    Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    thinkphp v5.x 远程代码执行漏洞-POC集合
 ### 沙盒虚拟化
 - http://www.linux-kvm.org/page/Main_Page    Linux下的虚拟化工具，支持unix/win等多种系统
 - https://www.docker.com    Linux下虚拟容器，目前只支持linux内核
@@ -360,20 +337,22 @@
 - https://github.com/MorteNoir1/virtualbox_e1000_0day    VirtualBox E1000 Guest-to-Host Escape逃逸。教程
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
 - https://github.com/Frichetten/CVE-2019-5736-PoC    GO，利用通过从容器内覆盖和执行主机系统runc二进制文件来来逃逸Docker虚拟机
-### MS与Office漏洞收集
+### MS漏洞收集
+- https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    PY，RDP服务远程命令执行/DOS攻击/蓝屏exp
+- https://github.com/robertdavidgraham/rdpscan    C. CVE-2019-0708 "BlueKeep" vulnerability.检测。msf插件
+- https://github.com/nccgroup/BKScan    shell.基于rdpscan/freerdp进行0708漏洞扫描，支持NLA验证
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
 - https://github.com/3gstudent/Smbtouch-Scanner    扫描内网永恒之蓝ETERNAL445SMB系列漏洞
 - https://github.com/smgorelik/Windows-RCE-exploits    windows命令执行RCE漏洞POC样本，分为web与文件两种形式
 - https://github.com/3gstudent/CVE-2017-8464-EXP    CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/Lz1y/CVE-2018-8420    Windows的msxml解析器漏洞可以通过ie或vbs执行后门
 - https://github.com/Lz1y/CVE-2017-8759    .NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）https://www.freebuf.com/vuls/147793.html
-- https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    PY，RDP服务远程命令执行.DOS攻击，蓝屏exp
-- https://github.com/robertdavidgraham/rdpscan    C. CVE-2019-0708 "BlueKeep" vulnerability.检测。和msf插件中的类似
-- https://github.com/WyAtu/CVE-2018-8581    Exchange使用完成添加收信规则的操作进行横向渗透和提权漏洞
 - https://github.com/QuickBreach/ExchangeRelayX    PY。基于FLASK.针对EWS（exchange web services）的NTLM中继攻击，提供OWA接口。
 - https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    APT34针对exchange的电子邮件爆破劫持工具
 - https://github.com/dafthack/MailSniper    PS，用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
+- https://github.com/WyAtu/CVE-2018-8581    PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管
 - https://github.com/sensepost/ruler    GO，通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击等操作。
+### Office漏洞收集
 - https://www.anquanke.com/post/id/163000    利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/BuffaloWill/oxml_xxe    XXE漏洞利用
 - https://thief.one/2017/06/20/1/    浅谈XXE漏洞攻击与防御
@@ -572,7 +551,7 @@
 - https://hide.me    npv可试用
 - https://windscribe.com    npv可试用
 - https://mono.sh    飞机场
-## 信息搜集OSINT
+# 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    OSINT Cheat Sheet信息搜集技巧
 - https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    JAVA，多维度信息搜集，需要一定插件编写能力
 - https://github.com/smicallef/spiderfoot    利用OSINT自动化找出对方信息，gui界面，插件化
@@ -588,13 +567,10 @@
 - https://github.com/woj-ciech/Danger-zone    关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
 - https://github.com/HurricaneLabs/machinae    PY.ip/url/file/email/dns/hash/domain多接口
 ### 在线信息搜集
-- shodan.io    互联网感知引擎
-- fofa.so    白帽汇NOSEC
+- https://shodan.io    互联网感知引擎
+- https://fofa.so    白帽汇NOSEC
 - https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
-- zoomeye.org    知道创宇互联网感知引擎
-- https://www.threatcrowd.org/    威胁情报分析平台
-- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。api良好，需要key
-- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
+- https://www.zoomeye.org    知道创宇互联网感知引擎
 - https://safeweb.norton.com    诺顿网站安全检测
 - http://www.link114.cn/title/    批量查询网站标题
 - https://hunter.io/    企业邮箱搜集
@@ -608,6 +584,38 @@
 - http://ip.chaxun.la/    ip反查域名---查询啦
 - https://bgp.he.net    bgp/asn/isp在线搜集工具
 - http://tools.bugscaner.com    常用工具集汇总
+## 情报分析
+- http://dingba.top/qqzk    全球智库
+- cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
+- https://weleakinfo.com    密码泄露
+- https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
+- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
+- https://github.com/Te-k/harpoon    PY.基于osint的威胁情报命令行工具
+- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
+- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
+- https://avoidaclaim.com/fraud-warnings/    诈骗信息公示
+- http://www.payer.org/test/    恶意邮件地址电话公式
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
+- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
+### IP地理库
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    geoip2全球IPV4
+- https://www.ipip.net   IPV4.商业版
+- https://www.ipplus360.com    IPV4/IPV6。商业版
+### 威胁源情报
+- https://www.threatcrowd.org/    威胁情报分析平台。Domain, IP, Email or Organization
+- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。商业版api
+- https://intel.criticalstack.com    Intel威胁情报库。恶意IP地址，集成于bro
+- https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
+- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
+- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
+- https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
+- https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
+### APT威胁情报
+- https://github.com/blackorbird/APT_REPORT    apt组织报告与公开文件
+- https://git.laucyun.com/security/APT34    APT34/OILRIG 资源文档文件泄露
+- https://ht.transparencytoolkit.org    Hacking Team 400G泄露
 ### 人员信息搜集
 - https://www.jianshu.com/p/147cf5414851    聊聊那些常见的探侦类APP
 - https://github.com/famavott/osint-scraper    输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
@@ -1204,6 +1212,7 @@
 - https://github.com/g3rzi/Manifesto    C#，寻找系统中存在可执行权限的组件
 - https://github.com/ufrisk/MemProcFS    以访问文件系统的方式访问物理内存， 可读写， 有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    绕过系统应用白名单执行DotNet and PowerShell tools
+- https://github.com/mdsecactivebreach/RDPInception/    BAT.rdp服务劫持，利用ps反弹shell
 ### shellcode相关
 - https://www.shellterproject.com    shellter是一款的动态Shellcode注入工具。商业版
 - https://github.com/r00t-3xp10it/venom    linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
@@ -1250,6 +1259,8 @@
 - https://github.com/unamer/CVE-2018-8120    影响Win32k组件，针对win7和win2008提权
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
+- https://github.com/dirkjanm/PrivExchange    PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
+- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    CVE-2019-1040利用exchange提权PrivExchange
 ### 文件捆绑
 - bat2exe.net    相类似也可以利用iexpress与winrar生成自解压exe可执行文件
 - https://github.com/islamadel/bat2exe    将bat文件转换为exe二进制文件
@@ -1274,6 +1285,7 @@
 - https://github.com/infobyte/evilgrade    一个模块化的脚本框架，使攻击者在不知情的情况下将恶意更新注入到用户更新中
 - https://github.com/quickbreach/smbetray    专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
 - https://github.com/mrexodia/haxxmap    对IMAP服务器进行中间人攻击
+- https://github.com/SySS-Research/Seth    PY3,BASH。Linux下MitM RDP远程服务中间人攻击
 ### 无线网络WIFI中间人攻击
 - 命令:netsh wlan show profile name="wifi名称" key=clear    获取WIFI连接密码
 - https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
@@ -1426,6 +1438,7 @@
 - https://github.com/wavestone-cdt/hadoop-attack-library    hadoop测试方式和工具集
 ## 欺骗防御
 - https://github.com/paralax/awesome-honeypots    蜜罐开源技术收集
+- https://github.com/phage-nz/malware-hunting     利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
 - https://github.com/dtag-dev-sec/tpotce    T-POT，里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
 - https://www.freebuf.com/sectool/190840.html    T-Pot多蜜罐平台使用心法
@@ -1664,7 +1677,7 @@
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/alexandreborges/malwoverview    simple，将恶意文件进行快速分类
 - https://github.com/Neo23x0/Loki    一款APT入侵痕迹扫描器
-- https://github.com/target/strelka    py3，通过实时扫描文件进行情报分析和实时监测。
+- https://github.com/target/strelka    py3，通过实时扫描文件进行数据分析和实时监测。
 ### 压力测试DDOS/CC相关
 - https://github.com/ywjt/Dshield    DDOS防护
 - https://github.com/NewEraCracker/LOIC/    C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
@@ -1676,6 +1689,10 @@
 - https://github.com/Markus-Go/bonesi    C.模拟僵尸网络进行ICMP/UDP/TCP/HTTP压测
 - https://github.com/ajmwagar/lor-axe    RUST，多线程、低带宽消耗的HTTP DoS工具
 - https://github.com/EZLippi/WebBench    C.网站压力测试，最高并发3万
+- http://www.yykkll.com    压测站评测
+- https://defconpro.net    便宜
+- https://vip-boot.xyz/login.php    价高
+- https://rocketstresser.com/login.php    多协议可测cdn
 ### 匿名信息保护洋葱路由TorBrowser
 - https://github.com/leitbogioro/Fuck_Aliyun    关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    DWS用来关闭windows监控服务
