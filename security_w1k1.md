@@ -256,10 +256,10 @@
 - http://www.zerodium.com/    漏洞市场
 - https://0day.today    漏洞市场
 - https://www.hackerone.com/    漏洞市场
-## 威胁情报分析
+## 情报分析
+- http://dingba.top/qqzk    全球智库
 - cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
 - https://weleakinfo.com    密码泄露
-- http://dingba.top/qqzk    全球智库
 - https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
 - https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
 - https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
@@ -274,6 +274,10 @@
 - https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
+### IP地理库
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    geoip2全球IPV4
+- https://www.ipip.net   IPV4.商业版
+- https://www.ipplus360.com    IPV4/IPV6。商业版
 ### 攻击源情报
 - https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
 ### APT威胁情报
@@ -332,6 +336,7 @@
 - https://github.com/Mr5m1th/0day    各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/w1109790800/penetration    CMS新老版本exp与系统漏洞搜集表
 - https://github.com/jas502n/CVE-2019-6340    Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    thinkphp v5.x 远程代码执行漏洞-POC集合
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    OpenSSH用户枚举漏洞（CVE-2018-15473）
@@ -355,11 +360,6 @@
 - https://github.com/MorteNoir1/virtualbox_e1000_0day    VirtualBox E1000 Guest-to-Host Escape逃逸。教程
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
 - https://github.com/Frichetten/CVE-2019-5736-PoC    GO，利用通过从容器内覆盖和执行主机系统runc二进制文件来来逃逸Docker虚拟机
-### 版本管理平台漏洞收集
-- https://github.com/shengqi158/svnhack    .svn文件夹泄漏利用工具
-- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
-- https://github.com/BugScanTeam/GitHack    .git文件利用工具，lijiejie改进版
-- https://github.com/lijiejie/GitHack    .git文件利用工具
 ### MS与Office漏洞收集
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
 - https://github.com/3gstudent/Smbtouch-Scanner    扫描内网永恒之蓝ETERNAL445SMB系列漏洞
@@ -617,7 +617,7 @@
 - https://github.com/Ridter/Mailget    通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    py，获取Twitter用户发推的地址
-- https://github.com/vaguileradiaz/tinfoleak    web界面，对twitter账户进行全面的情报分析
+- https://github.com/vaguileradiaz/tinfoleak    web界面，对twitter账户进行全面的分析
 - https://github.com/x0day/Multisearch-v2    Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/n0tr00t/Sreg    Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 - https://github.com/SpiderLabs/social_mapper    社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
@@ -660,6 +660,40 @@
 - https://github.com/bit4woo/Teemo    多方式域名收集及枚举工具
 - https://github.com/swisskyrepo/Subdomino    子域名枚举，端口扫描，服务存活确认
 - https://github.com/nmalcolm/Inventus    通过爬虫实现的子域名收集工具
+## 敏感信息泄露发现
+- https://github.com/Yelp/detect-secrets    PY，防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
+- https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件， 查找敏感信息， 例如证书
+- https://github.com/Raikia/CredNinja    多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
+- https://github.com/CERTCC/keyfinder    查找并分析私钥/公钥文件(文件系统中)， 支持 Android APK 文件
+- https://github.com/Ice3man543/hawkeye    go，cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
+- https://github.com/D4Vinci/Cr3dOv3r    根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
+- https://github.com/lijiejie/idea_exploit    PY，利用 IDE config folder (.idea) 进行文件下载
+- https://github.com/shengqi158/svnhack    .svn文件夹泄漏利用工具
+- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
+- https://github.com/Graph-X/davscan    PY,SHELL.用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
+- https://github.com/Threezh1/JSFinder    PY.用于发现网站js文件中的url与域名
+### AWS安全相关
+- https://github.com/RhinoSecurityLabs/pacu    亚马逊AWS漏洞检测框架
+- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    AWS 安全检测相关的项目列表
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    AWS安全工具集
+- https://github.com/sa7mon/S3Scanner    扫描amazon公开的S3 buckets和dump
+- https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
+- https://github.com/jordanpotti/AWSBucketDump    枚举AWS S3 buckets以查找敏感机密的文件
+- https://github.com/Netflix/repokid    AWS 最低权限策略部署工具
+### Git安全相关
+- https://github.com/0xbug/Hawkeye    JS，PYTHON，GitHub 泄露监控系统
+- https://github.com/neal1991/gshark    github信息泄露检测
+- https://github.com/VKSRC/Github-Monitor    GitHub监控，代码信息泄露，分钟级监控，邮件预警
+- https://github.com/metac0rtex/GitHarvester    github Repo信息搜集工具
+- https://github.com/repoog/GitPrey    GitHub敏感信息扫描工具
+- https://github.com/FeeiCN/GSIL    py3，近实时监控Github敏感信息，并发送告警通知。
+- https://github.com/UnkL4b/GitMiner    github敏感内容挖掘
+- https://github.com/dxa4481/truffleHog    GitHub敏感信息扫描工具，包括检测commit等
+- https://github.com/Hell0W0rld0/Github-Hunter    github信息监测脚本
+- https://github.com/awslabs/git-secrets    防止将敏感数据提交到 git 仓库的工具
+- https://github.com/zricethezav/gitleaks    GO.检查git repo中的密码信息和密钥
+- https://github.com/lijiejie/GitHack    .git文件利用工具
+- https://github.com/BugScanTeam/GitHack    .git文件利用工具，lijiejie改进版
 ### 目录路径发现
 - https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    JAVA，目录路径枚举Fuzz爆破
 - https://github.com/ffuf/ffuf    GO，web网站路径、参数、子域名、数据模糊测试（fuzzing）
@@ -685,33 +719,6 @@
 - https://github.com/P0cL4bs/Kadimus    本地文件包含漏洞扫描和利用工具
 - https://github.com/D35m0nd142/LFISuite    本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://github.com/OsandaMalith/LFiFreak    本地文件包含漏洞利用及扫描工具，支持反弹shell
-### 敏感信息泄露发现
-- https://github.com/Yelp/detect-secrets    PY，防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
-- https://github.com/Acceis/leakScraper    处理和可视化大规模文本文件， 查找敏感信息， 例如证书
-- https://github.com/Raikia/CredNinja    多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
-- https://github.com/CERTCC/keyfinder    查找并分析私钥/公钥文件(文件系统中)， 支持 Android APK 文件
-- https://github.com/Ice3man543/hawkeye    go，cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
-- https://github.com/D4Vinci/Cr3dOv3r    根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
-- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    AWS 安全检测相关的项目列表
-- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    AWS安全工具集
-- https://github.com/sa7mon/S3Scanner    扫描amazon公开的S3 buckets和dump
-- https://github.com/kromtech/s3-inspector    检测亚马逊AWS S3 bucket permissions
-- https://github.com/jordanpotti/AWSBucketDump    枚举AWS S3 buckets以查找敏感机密的文件
-- https://github.com/Netflix/repokid    AWS 最低权限策略部署工具
-- https://github.com/RhinoSecurityLabs/pacu    AWS漏洞检测框架
-- https://github.com/0xbug/Hawkeye    JS，PYTHON，GitHub 泄露监控系统
-- https://github.com/neal1991/gshark    github信息泄露检测
-- https://github.com/VKSRC/Github-Monitor    GitHub监控，代码信息泄露，分钟级监控，邮件预警
-- https://github.com/metac0rtex/GitHarvester    github Repo信息搜集工具
-- https://github.com/repoog/GitPrey    GitHub敏感信息扫描工具
-- https://github.com/FeeiCN/GSIL    py3，近实时监控Github敏感信息，并发送告警通知。
-- https://github.com/UnkL4b/GitMiner    github敏感内容挖掘
-- https://github.com/dxa4481/truffleHog    GitHub敏感信息扫描工具，包括检测commit等
-- https://github.com/Hell0W0rld0/Github-Hunter    github信息监测脚本
-- https://github.com/awslabs/git-secrets    防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    基于go的，检查git repo中的密码信息和密钥
-- https://github.com/lijiejie/idea_exploit    PY，利用 IDE config folder (.idea) 进行文件下载
-- https://github.com/Graph-X/davscan    DAVScan是一款快速轻便的webdav扫描仪，旨在发现DAV启用的Web服务器上的隐藏文件和文件夹
 ## 社工相关
 - https://github.com/brannondorsey/PassGAN    py，深度学习，密码字典样本生成
 - https://github.com/Mebus/cupp    根据用户习惯密码生成弱口令探测
@@ -840,7 +847,7 @@
 - https://github.com/ywolf/F-NAScan    py2.6，网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/flipkart-incubator/RTA    扫描公司内部所有在线设备， 提供整体安全视图， 标示所有安全异常
 - https://github.com/0xbug/Biu-framework    企业内网基础服务安全扫描框架
-### 被动扫描抓包代理
+### 被动扫描代理抓包
 - https://www.0daydown.com/03/33647.html    IEInspector HTTP Analyzer，可以注入进程进行SSL解密
 - http://soft.125.la    精易助手，包括抓包发包正则调试等工具
 - https://www.getpostman.com    Chrome插件，http调试工具
@@ -901,6 +908,7 @@
 - https://github.com/Moham3dRiahi/XAttacker    Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
 - https://github.com/code-scan/dzscan    首款集成化的Discuz扫描工具
 ### Web漏洞利用工具
+- https://github.com/gh0stkey/PoCBox    PHP.漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    基于搜索引擎的漏洞网页搜寻
 - https://github.com/jcesarstef/dotdotslash    目录遍历漏洞测试
@@ -908,7 +916,6 @@
 - https://github.com/ticarpi/jwt_tool    针对json web token的检测
 - https://github.com/chenjj/CORScanner    跨域资源共享域解析漏洞，跨域扫描器
 - https://github.com/dienuet/crossdomain    跨域资源共享域解析漏洞，跨域扫描器
-- https://github.com/gh0stkey/PoCBox    漏洞测试验证辅助平台，SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/d0nutptr/sic    RUST，CSS注入，csrf攻击
 - https://github.com/opensec-cn/vtest    集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞
 - https://github.com/commixproject/commix    命令注入漏洞扫描
@@ -1320,24 +1327,27 @@
 - https://github.com/SadFud/Exploits    PY+SHELL，PWN利用框架 CTFs exploit POCs.工控POC
 - https://github.com/shodan-labs/iotdb    nmap配合shodan API扫描IoT设备
 - https://github.com/vletoux/SpoolerScanner    检测 Windows 远程打印机服务是否开启的工具
-### 物理硬件安全
+### 物理HID/BadUsb安全
 - https://ducktoolkit.com/    BadUsb、橡皮鸭、HID键盘模拟器
 - https://github.com/insecurityofthings/jackit    用于Mousejack的开发代码
 - https://github.com/ebursztein/malusb    创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
 - https://github.com/mame82/P4wnP1    在树莓派安装网络劫持键盘注入(WHID)工具
 - https://github.com/360PegasusTeam/GhostTunnel    可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
+- https://github.com/0katz/CVE-2019-12476    HID绕过win10登录界面，利用浏览器调用powershell
+- https://github.com/tenable/router_badusb    利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
+### 物理硬件设备安全
+- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
+- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
 - https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
+- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
+- https://github.com/samyk/magspoof    信用卡信息盗取
+- https://github.com/knownsec/gsm    GO，使用树莓派配合硬件来进行短信转发
+- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝
+- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
+- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
 - https://github.com/RadioWar/NFCGUI    C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
 - https://github.com/LennyLeng/RadioEye    RFID配合常见的NFC使用
 - https://github.com/Proxmark/proxmark3/    RFID神器PM3
-- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
-- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
-- https://github.com/tenable/router_badusb    利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
-- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
-- https://github.com/knownsec/gsm    GO，使用树莓派配合硬件来进行短信转发
-- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
-- https://github.com/samyk/magspoof    信用卡信息盗取
-- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
 ### 设备固件安全
 - https://github.com/w3h/icsmaster    整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
 - https://blog.attify.com    firmware固件安全，IoT安全相关文章
@@ -1423,16 +1433,16 @@
 - https://github.com/leeberg/BlueHive    PS，利用Active Directory生成用户账户蜜罐
 - https://github.com/netxfly/x-proxy    GO.代理蜜罐的开发与应用实战。simple
 - https://www.freebuf.com/sectool/204652.html    基于EVE-NG平台上构建企业内网攻防环境
-### 外网蜜罐
+### 蜜罐监测
 - https://github.com/p1r06u3/opencanary_web    PY.基于TORNADO的内网低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
 - https://github.com/Cymmetria    欺骗防御组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/micheloosterhof/cowrie    py2，使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/mushorg/snare    py3，web安全蜜罐，可克隆指定Web页面
 - https://github.com/honeynet/beeswarm    py，使用agent探针与蜜罐进行实时交互来引诱攻击者
-### 内网蜜罐监测
 - https://github.com/thinkst/opencanary    PY2，SNMP\RDP\SAMBA蜜罐
-- https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    RDP MITM，打造可记录图像和按键的 RDP 蜜罐（https://github.com/gosecure/pyrdp）
+- https://github.com/gosecure/pyrdp    PY3.RDP MITM蜜罐
+- https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    基于PYRDP.打造可记录图像和按键的RDP蜜罐
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    py，摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    C，RTSP服务器组件用以构建摄像头蜜罐
@@ -1586,10 +1596,12 @@
 ### 无线网络入侵检测
 - https://github.com/anwi-wips/anwi    无线IDS， 基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/SYWorks/waidps    PY，Linux下无线网络入侵检测工具
-### 协议解析流量分析数据还原
+## 协议解析流量分析数据还原
 - https://www.jianshu.com/p/4dca12a35158    5个常用的免费报文库
+- http://www.tcpdump.org    网络数据包截获分析
 - https://github.com/wireshark/wireshark    LUA，协议解析流量分析还原
 - https://github.com/zeek/zeek    C++，bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
+- http://tcpick.sourceforge.net    TCP流嗅探和连接跟踪工具
 - https://github.com/secdev/scapy    内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - https://gitee.com/qielige/openQPA    协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 - https://github.com/zerbea/hcxdumptool    从Wlan设备上捕获数据包
@@ -1653,15 +1665,17 @@
 - https://github.com/alexandreborges/malwoverview    simple，将恶意文件进行快速分类
 - https://github.com/Neo23x0/Loki    一款APT入侵痕迹扫描器
 - https://github.com/target/strelka    py3，通过实时扫描文件进行情报分析和实时监测。
-### CC压力测试与DDOS相关
+### 压力测试DDOS/CC相关
 - https://github.com/ywjt/Dshield    DDOS防护
-- https://github.com/NewEraCracker/LOIC/    一个为Windows设计的网络压力测试工具现已支持Mac OS——译者注
-- https://github.com/649/Memcrashed-DDoS-Exploit    利用Memcached服务器的DDoS攻击工具， 向Memcached服务器发送伪造的UDP数据包使其向攻击目标回复大量数据包
+- https://github.com/NewEraCracker/LOIC/    C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
+- https://github.com/IKende/Beetle.DT    C#.分布式压力测试工具
+- https://github.com/649/Memcrashed-DDoS-Exploit    PY.利用shodan搜索Memcached服务器进行压力测试
 - https://github.com/jseidl/GoldenEye    py，DOS测试
-- https://github.com/mschwager/dhcpwn    DHCP IP 资源耗尽攻击工具
+- https://github.com/mschwager/dhcpwn    PY.DHCP/IP压力测试
 - https://github.com/Microsoft/Ethr    GO，跨平台，TCP， UDP， HTTP， HTTPS压力测试工具
-- https://github.com/Markus-Go/bonesi    模拟僵尸网络进行DDOS测试，但是无法应用于互联网
+- https://github.com/Markus-Go/bonesi    C.模拟僵尸网络进行ICMP/UDP/TCP/HTTP压测
 - https://github.com/ajmwagar/lor-axe    RUST，多线程、低带宽消耗的HTTP DoS工具
+- https://github.com/EZLippi/WebBench    C.网站压力测试，最高并发3万
 ### 匿名信息保护洋葱路由TorBrowser
 - https://github.com/leitbogioro/Fuck_Aliyun    关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    DWS用来关闭windows监控服务
