@@ -306,8 +306,8 @@
 - http://an7isec.blogspot.com/2014/04/pown-noobs-acunetix-0day.html    Pwn the n00bs - Acunetix 0day，awvs8命令执行漏洞
 - https://github.com/numpy/numpy/issues/12759    科学计算框架numpy命令执行RCE漏洞
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    jenkins远程命令执行
-- https://github.com/WyAtu/CVE-2018-20250    WinRar执行漏洞加使用介绍
-- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_poc.py    coremail配置文件读取，添加用户
+- https://github.com/WyAtu/CVE-2018-20250    WinRar执行漏洞使用介绍
+- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_poc.py    coremail配置文件读取，导出用户
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    CVE-2018-10933，libssh服务端身份验证绕过
@@ -407,7 +407,7 @@
 - https://github.com/LionSec/katoolin    使用linux服务器自动安装kali工具包
 - https://github.com/TrustedSec/ptf/    PY.基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
 - https://github.com/koenbuyens/kalirouter    将kali设置为一个路由流量分析系统
-- https://github.com/secforce/sparta    py，界面化，联动Nmap、Nikto、Hydra等工具
+- https://github.com/secforce/sparta    py.界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    py2，simple，联动kali下工具，漏洞扫描工具
 ### Nessus相关工具拓展插件
 - https://www.tenable.com/downloads/nessus    商业版漏洞扫描器
@@ -845,7 +845,7 @@
 - https://github.com/DefectDojo/django-DefectDojo    基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    web界面，宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    漏洞管理、资产管理、任务扫描系统
-- https://github.com/cea-sec/ivre    PY，网络资产指纹发现，搭建属于自己的shodan与zoomeye
+- https://github.com/cea-sec/ivre    PY。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。类比shodan/zoomeye
 - https://github.com/ysrc/xunfeng    PY，web界面，同程安全开发的网络资产识别引擎，漏洞检测引擎
 - https://github.com/superhuahua/xunfengES    web界面，base巡风开发，一个人的安全
 - https://github.com/zhaoweiho/SecurityManageFramwork    py3，django。企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化
@@ -1613,14 +1613,15 @@
 - https://www.jianshu.com/p/4dca12a35158    5个常用的免费报文库
 - http://www.tcpdump.org    网络数据包截获分析
 - https://github.com/wireshark/wireshark    LUA，协议解析流量分析还原
-- https://github.com/zeek/zeek    C++，bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
+- http://lcamtuf.coredump.cx/p0f3    C.p0f完全升级版，被动的流量指纹识别TCP/http
+- https://github.com/zeek/zeek    C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
 - http://tcpick.sourceforge.net    TCP流嗅探和连接跟踪工具
 - https://github.com/secdev/scapy    内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - https://gitee.com/qielige/openQPA    协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 - https://github.com/zerbea/hcxdumptool    从Wlan设备上捕获数据包
 - https://github.com/NytroRST/NetRipper    支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
 - https://github.com/shramos/polymorph    支持几乎所有现有协议的实时网络数据包操作框架
-- https://github.com/nospaceships/raw-socket-sniffer    C，PS，无需驱动抓取Windows流量
+- https://github.com/nospaceships/raw-socket-sniffer    C,PS，无需驱动抓取Windows流量
 ### 日志分析
 - https://github.com/Cyb3rWard0g/HELK     基于ELK的日志威胁分析
 - https://github.com/JeffXue/web-log-parser    PY，web日志分析工具
