@@ -15,7 +15,8 @@
 - https://github.com/k4m4/movies-for-hackers    安全相关电影
 - https://github.com/Hack-with-Github/Awesome-Hacking    GitHub万星推荐：黑客成长技术清单
 - https://github.com/tom0li/collection-document/    开发/安全建设/Bug Bounty/apt/SDL/SRC
-- https://github.com/Xyntax/slides/    安全数据分析/DNS恶意流量分析/威胁防御
+- https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
+- https://github.com/hongriSec/AI-Machine-Learning-Security    机器学习算法、AI模型、渗透测试工具
 ## 安全学习手册
 - https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    Coablt strike官方教程中文译版本
@@ -36,6 +37,15 @@
 - https://wizardforcel.gitbooks.io/asani/content    浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content    Android 渗透测试学习手册 中文版
 ## 安全建设
+- https://www.nist.gov/topics/cybersecurity    美国国家标准与技术研究院。NVD漏洞库
+- https://www.mitre.org/publications/all    mitre安全机构。CVE漏洞库
+- https://www.alibabacloud.com/blog    阿里
+- https://security.tencent.com/index.php/blog    腾讯
+- https://github.com/baidu-security    百度
+- https://blogs.cisco.com/tag/ios-security    思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
+- https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention    谷歌
+- https://aws.amazon.com/cn/blogs/security/    亚马逊
+- https://code.fb.com/category/security/    Facebook
 - http://www.freebuf.com/articles/ics-articles/178822.html    浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/    金融业企业安全建设之路。聂军
 - http://paper.tuisec.win/detail/34ab12018f71e71    个人总结的漏洞管理流程分享
@@ -65,7 +75,6 @@
 - https://www.nomoreransom.org    在线勒索病毒解决方案
 - https://www.secrss.com/articles/10986    一次攻防实战演习复盘总结。奇安信
 - https://bypass007.github.io/Emergency-Response-Notes/    应急响应/日志分析/僵木蠕分析
-- https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
 - https://github.com/tide-emergency/yingji    PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/ppabc/cc_iptables    收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
 ### 运维管理与安全服务checklist
@@ -100,31 +109,79 @@
 - https://github.com/ym2011/SecurityManagement    分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://lcx.cc    NuclearAtk核总。文章/工具
 - https://cn0xroot.com/    雪碧。通信硬件
-## 攻防测试资源
+### OSCP相关
+- https://github.com/anandkumar11u/OSCP-60days    OSCP All Tools
+- https://github.com/adon90/pentest_compilation    ctf比赛与OSCP考试中常见的知识点和命令
+- https://github.com/foobarto/redteam-notebook     OSCP-EXAM 红队标准渗透测试流程+常用命令
+- https://github.com/gajos112/OSCP    OSCP-EXAM
+- https://github.com/RustyShackleford221/OSCP-Prep    OSCP-EXAM
+- https://www.lshack.cn/849/    oscp备战
+## 数据分析
+- http://pandas.pydata.org    数据分析
+- https://github.com/r0f1/datascience    大数据分析功能库推荐
+- https://github.com/Xyntax/slides/    安全数据分析/DNS恶意流量分析/威胁防御
+## 情报分析
+- http://dingba.top/qqzk    全球智库
+- cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
+- https://weleakinfo.com    密码泄露
+- https://www.i-intelligence.eu    情报收集组织。开源情报工具和资源手册2018版
+- https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
+- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
+- https://github.com/Te-k/harpoon    PY.基于osint的威胁情报命令行工具
+- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
+- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
+- https://avoidaclaim.com/fraud-warnings/    诈骗信息公示
+- http://www.payer.org/test/    恶意邮件地址电话公式
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
+- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
+- https://github.com/momosecurity/aswan    PY.陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+### IP地理库
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    geoip2全球IPV4
+- https://www.ipip.net   IPV4.商业版
+- https://www.ipplus360.com    IPV4/IPV6。商业版
+### 威胁源情报
+- https://www.threatcrowd.org/    威胁情报分析平台。Domain, IP, Email or Organization
+- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。商业版api
+- https://intel.criticalstack.com    Intel威胁情报库。恶意IP地址，集成于bro
+- https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
+- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
+- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
+- https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
+- https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
+### APT威胁情报
+- https://github.com/blackorbird/APT_REPORT    apt组织报告与公开文件
+- https://git.laucyun.com/security/APT34    APT34/OILRIG 资源文档文件泄露
+- https://ht.transparencytoolkit.org    Hacking Team 400G泄露
+## 攻防技术资源
 - https://mitre-attack.github.io/    mitre科技机构对攻击技术的总结wiki
 - https://huntingday.github.io    MITRE | ATT&CK 中文站
 - https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课
 - https://github.com/maskhed/Papers    包含100课等经典攻防教材、安全知识
-- https://github.com/myselfexplorer/hackingLibrary    社工大佬的笔记手册
 - https://github.com/infosecn1nja/AD-Attack-Defense    红蓝方攻防手册
 - https://github.com/jeansgit/RedTeam    RedTeam资料收集整理。红蓝对抗资料分享，红蓝对抗相关图片，内网安全渗透总结
 - https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    [译] 渗透测试实战第三版(红队版)The Hacker Playbook 3
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming    优秀红队资源列表
 - https://github.com/kbandla/APTnotes    各种公开的文件和相关的APT笔记，还有软件样本
+- https://github.com/Kinimiwar/Penetration-Testing    渗透测试方向优秀资源收集
+- https://github.com/jshaw87/Cheatsheets    渗透测试/安全秘籍/笔记
+- http://www.pentest-standard.org/index.php/Pre-engagement    渗透测试标准-渗透项目实施前的互动。项目实施前
+- https://github.com/nccgroup     国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
+- https://www.freebuf.com/articles/102500.html    黑客讲述渗透Hacking Team全过程（详细解说）
+- https://github.com/myselfexplorer/hackingLibrary    社工大佬的笔记手册
+- https://payloads.online/archivers/2019-05-21/1    鱼叉攻击-尝试。倾旋
+- https://www.freebuf.com/articles/web/195304.html    一句话木马的套路
+### Web安全前端利用
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    Web安全学习笔记
 - https://techvomit.net/web-application-penetration-testing-notes/    web渗透测试笔记
 - https://github.com/qazbnm456/awesome-web-security    Web安全资料和资源列表
-- https://github.com/Kinimiwar/Penetration-Testing    渗透测试方向优秀资源收集
-- https://github.com/jshaw87/Cheatsheets    渗透测试/安全秘籍/笔记
-- https://github.com/nccgroup     国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
-- https://www.freebuf.com/articles/web/195304.html    一句话木马的套路
-- http://www.pentest-standard.org/index.php/Pre-engagement    渗透测试标准-渗透项目实施前的互动。项目实施前
-- https://www.freebuf.com/articles/102500.html    黑客讲述渗透Hacking Team全过程（详细解说）
-- https://payloads.online/archivers/2019-05-21/1    鱼叉攻击-尝试。倾旋
+- https://www.freebuf.com/articles/web/194698.html    小学生都会挖掘的JSON Hijacking实战利用
 ### 内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    mitre机构对横向移动的总结
+- https://adsecurity.org    Active Directory安全攻防
 - https://github.com/Ridter/Intranet_Penetration_Tips    内网渗透TIPS
 - https://payloads.online/archivers/2018-11-30/1    彻底理解Windows认证 - 议题解读。倾旋
 - https://github.com/klionsec/klionsec.github.io    内网大牛的学习历程
@@ -139,15 +196,6 @@
 - https://www.anquanke.com/post/id/88851    Powershell攻击指南黑客后渗透之道系列——进阶利用
 - https://www.anquanke.com/post/id/89362    Powershell攻击指南黑客后渗透之道系列——实战篇
 - https://www.4hou.com/penetration/18447.html    域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
-### 编辑器
-- https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
-### OSCP相关
-- https://github.com/anandkumar11u/OSCP-60days    OSCP All Tools
-- https://github.com/adon90/pentest_compilation    ctf比赛与OSCP考试中常见的知识点和命令
-- https://github.com/foobarto/redteam-notebook     OSCP-EXAM 红队标准渗透测试流程+常用命令
-- https://github.com/gajos112/OSCP    OSCP-EXAM
-- https://github.com/RustyShackleford221/OSCP-Prep    OSCP-EXAM
-- https://www.lshack.cn/849/    oscp备战
 ## 漏洞挖掘
 ### 学习靶场
 - https://www.pentesteracademy.com    攻防技术认证。商业版
@@ -190,7 +238,7 @@
 ### 漏洞复现
 - https://github.com/vulhub/vulhub    Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像
 - https://mp.weixin.qq.com/s/gSRmtU3BnyH0EpT5Mmplyw    VulnHub靶机学习——JIS-CTF实战记录
-- https://mp.weixin.qq.com/s/C91nxTVLBUpapSKwjHSbWQ    VulnHub靶机学习——Billu_b0x实战记录 
+- https://mp.weixin.qq.com/s/C91nxTVLBUpapSKwjHSbWQ    VulnHub靶机学习——Billu_b0x实战记录
 - https://github.com/Medicean/VulApps    收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 - https://github.com/bingohuang/docker-labs    制作在线docker平台
 ### 漏洞挖掘write-up
@@ -199,6 +247,7 @@
 - https://github.com/writeups/ios    ios漏洞writeup笔记
 - https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://bugreader.com    国外知名厂商漏洞描述
+- https://github.com/hongriSec/CTF-Training    收集各大CTF比赛的题目和Writeup
 ### Fuzzer模糊测试
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
@@ -227,7 +276,7 @@
 - cnit的二进制教程
 - awesome windows exploit
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    家用路由器0day
-- https://github.com/timip/OSEE 
+- https://github.com/timip/OSEE
 - https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu    windbg教程
 - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    windbg
 - https://rootkits.xyz/blog/     windows内核系列
@@ -258,7 +307,7 @@
 - https://zeroday.hitcon.org/vulnerability/    台湾公开漏洞库
 - https://nvd.nist.gov/vuln/search    美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    IBM exchange漏洞库
-- https://sec.ly.com/bugs    YSRC
+- twitter搜索 CVE RCE
 - https://www.zerodayinitiative.com/    设备（firmware）漏洞市场
 - http://www.zerodium.com/    漏洞市场
 - https://0day.today    漏洞市场
@@ -301,8 +350,6 @@
 - https://github.com/coffeehb/Some-PoC-oR-ExP    各种漏洞poc、Exp的收集或编写
 - https://github.com/CVEProject/cvelist    Json格式的漏洞信息库，https://www.cvedetails.com
 - https://github.com/vulnersCom/getsploit    PY2.仿照searchsploit通过各种数据库的官方接口进行payload的查找
-- https://github.com/RetireJS/grunt-retire    JS.js扩展库漏洞扫描
-- https://github.com/doyensec/electronegativity    JS。Electron applications安全检测
 - https://github.com/kkamagui/napper-for-tpm    PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 ### Web漏洞利用工具
 - https://github.com/wpscanteam/wpscan    RUBY.wordpress漏洞扫描工具
@@ -369,7 +416,7 @@
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
 - https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    Apache Axis 1.4 Remote Code Execution；CVE-2019-0227: Apache Axis RCE
-### 沙盒虚拟化
+### 沙盒虚拟化平台
 - http://www.linux-kvm.org/page/Main_Page    Linux下的虚拟化工具，支持unix/win等多种系统
 - https://www.docker.com    Linux下虚拟容器，目前只支持linux内核
 - https://www.virtualbox.org    跨平台多系统支持
@@ -443,7 +490,7 @@
 - https://github.com/SkyBlueEternal/CNVD-C-2019-48814-or-CNNVD-201904-961    Weblogic wls9_async_response 反序列化利用工具
 - https://github.com/TopScrew/CVE-2019-2725    CVE-2019-2725/CNVD-C-2019-48814 Weblogic wls9_async_response命令回显+webshell上传
 - https://github.com/fuhei/CNVD-C-2019-48814    Weblogic wls9_async_response 反序列化利用工具，CNVD-C-2019-48814
-- https://github.com/jas502n/CNVD-C-2019-48814    Weblogic wls9_async_response 反序列化利用工具。cve-2017-10271和CNVD-C-2019-48814 
+- https://github.com/jas502n/CNVD-C-2019-48814    Weblogic wls9_async_response 反序列化利用工具。cve-2017-10271和CNVD-C-2019-48814
 - https://github.com/knownsec/pocsuite3/blob/master/pocsuite3/pocs/20190404_WEB_Confluence_path_traversal.py    Confluence 未授权 RCE (CVE-2019-3396) 漏洞
 - https://github.com/mu0gua/VulnPOC    心脏滴血 heartbleed；cve-2019-2618 Weblogic；cve-2019-3395 Confluence
 ## 相关工具拓展插件
@@ -455,6 +502,7 @@
 - https://github.com/koenbuyens/kalirouter    将kali设置为一个路由流量分析系统
 - https://github.com/secforce/sparta    py.界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    PY2.simple，联动kali下工具，漏洞扫描工具
+- https://github.com/baguswiratmaadi/reverie    SHELL.ParrotSecOs联动工具
 ### Nessus相关工具拓展插件
 - https://www.tenable.com/downloads/nessus    商业版漏洞扫描器
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    扫描器Awvs 11和Nessus 7 Api利用脚本
@@ -501,9 +549,9 @@
 - https://github.com/s4n7h0/Halcyon    Nmap Script (NSE)IDE编辑器
 - https://github.com/m4ll0k/AutoNSE    NSE自动化利用
 - https://github.com/Rvn0xsy/nse_vuln     Nmap扫描、漏洞利用脚本。tomcat、weblogic、http（CVE-2017-12615/CNVD-C-2019-4814/CVE-2018-2894）
-- https://github.com/Screetsec/Dracnmap    shell，将Nmap复杂的命令进行一定程度的集成与简化，使新用户更加容易上手。
+- https://github.com/Screetsec/Dracnmap    SHELL.将Nmap复杂的命令进行一定程度的集成与简化，使新用户更加容易上手。
 - https://github.com/cldrn/rainmap-lite    DjanGO.Web版Nmap，可以建立新的扫描服务器，允许用户从他们的手机/平板电脑/网络浏览器启动Nmap扫描
-- https://github.com/trimstray/sandmap    shell，linux下Nmap可配置形式的命令行操作台
+- https://github.com/trimstray/sandmap    SHELL.linux下Nmap可配置形式的命令行操作台
 - https://github.com/m0nad/HellRaiser    基于nmap的扫描器，与cve漏洞关联
 - https://github.com/scipag/vulscan    基于nmap的高级漏洞扫描器，命令行环境使用
 - https://github.com/Rev3rseSecurity/WebMap    将nmap的xml web展示器
@@ -523,7 +571,7 @@
 - https://github.com/WayzDev/Kage    MSF的GUI界面，Session Handler
 #### CobaltStrike相关工具拓展插件
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
-- https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，一对多带界面
+- https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，多session带界面
 - https://github.com/dcsync/pycobalt    PY3.Python API for Cobalt Strike
 - https://github.com/anbai-inc/CobaltStrike_Hanization      CobaltStrike2.5汉化版，以msf库为基础，3.0以后改版
 - https://github.com/rsmudge/cortana-scripts    用于cs2.x与armitage的可拓展插件，cvs3.x的为AggressorScripts
@@ -573,7 +621,7 @@
 - https://www.wireguard.com/install/    新一代npv协议
 - https://github.com/bannedbook/fanqiang/wiki    cross汇总
 - https://github.com/ToyoDAdoubi/doubi    各种常用一键脚本
-- https://github.com/teddysun/across    shell，npv、bbr、kms等脚本
+- https://github.com/teddysun/across    SHELL.npv、bbr、kms等脚本
 - https://github.com/Nyr/openvpn-install    openvpn一键
 - https://github.com/quericy/one-key-ikev2-vpn    CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
 - https://github.com/teddysun/shadowsocks_install    shadowsocks，shadowsocksr
@@ -612,7 +660,7 @@
 - https://github.com/super-l/superl-url    PY.根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
 - https://github.com/HurricaneLabs/machinae    PY.ip/url/file/email/dns/hash/domain多接口
-### 在线信息搜集
+### 在线网站信息搜集
 - https://shodan.io    互联网感知引擎
 - https://fofa.so    白帽汇NOSEC
 - https://www.oshadan.com    傻蛋联网设备搜索_湖南安数网络
@@ -630,38 +678,6 @@
 - http://ip.chaxun.la/    ip反查域名---查询啦
 - https://bgp.he.net    bgp/asn/isp在线搜集工具
 - http://tools.bugscaner.com    常用工具集汇总
-## 情报分析
-- http://dingba.top/qqzk    全球智库
-- cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
-- https://weleakinfo.com    密码泄露
-- https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
-- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
-- https://github.com/Te-k/harpoon    PY.基于osint的威胁情报命令行工具
-- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
-- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
-- https://avoidaclaim.com/fraud-warnings/    诈骗信息公示
-- http://www.payer.org/test/    恶意邮件地址电话公式
-- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
-- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
-- https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
-### IP地理库
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    geoip2全球IPV4
-- https://www.ipip.net   IPV4.商业版
-- https://www.ipplus360.com    IPV4/IPV6。商业版
-### 威胁源情报
-- https://www.threatcrowd.org/    威胁情报分析平台。Domain, IP, Email or Organization
-- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。商业版api
-- https://intel.criticalstack.com    Intel威胁情报库。恶意IP地址，集成于bro
-- https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
-- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
-- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
-- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
-- https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
-- https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
-### APT威胁情报
-- https://github.com/blackorbird/APT_REPORT    apt组织报告与公开文件
-- https://git.laucyun.com/security/APT34    APT34/OILRIG 资源文档文件泄露
-- https://ht.transparencytoolkit.org    Hacking Team 400G泄露
 ### 人员信息搜集
 - https://www.jianshu.com/p/147cf5414851    聊聊那些常见的探侦类APP
 - https://github.com/famavott/osint-scraper    输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
@@ -680,14 +696,14 @@
 - https://github.com/laramies/theHarvester    企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
 - https://github.com/guelfoweb/knock    通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/aboul3la/Sublist3r    通过搜索引擎与爆破快速子域枚举工具
-- https://github.com/Ice3man543/subfinder    基于go实现的Sublist3r
-- https://github.com/OJ/gobuster    基于GO.根据dns查询子域名和web目录爆破的工具
+- https://github.com/Ice3man543/subfinder    Golang.go实现的Sublist3r
+- https://github.com/OJ/gobuster    Golang.根据dns查询子域名和web目录爆破的工具，自带字典
 - https://github.com/yanxiu0614/subdomain3    py3、py2的子域名，IP，CDN信息等
 - https://github.com/michenriksen/aquatone    子域名枚举、探测工具。可用于子域名接管漏洞探测
 - https://github.com/caffix/amass    基于GO.子域名枚举， 搜索互联网数据源， 使用机器学习猜测子域名
 - https://github.com/nahamsec/lazyrecon    侦查reconnaissance过程自动化脚本， 可自动使用Sublist3r/certspotter获取子域名， 调用nmap/dirsearch等
 - https://github.com/FeeiCN/ESD    PY3.爆破搜集子域名
-- https://github.com/pentester-io/commonspeak    shell，Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
+- https://github.com/pentester-io/commonspeak    SHELL.Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
 - https://github.com/blechschmidt/massdns    C.通过DNS高效子域发现工具
 - https://github.com/blark/aiodnsbrute/    PY3.DNS异步爆破子域名
 - https://github.com/lijiejie/subDomainsBrute    lijiejie开发的一款使用广泛的子域名爆破枚举工具
@@ -751,7 +767,7 @@
 ### 目录路径发现
 - https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    JAVA.目录路径枚举Fuzz爆破
 - https://github.com/ffuf/ffuf    GO.web网站路径、参数、子域名、数据模糊测试（fuzzing）
-- https://github.com/7kbstorm/7kbscan-WebPathBrute    C#，目录路径爆破
+- https://github.com/7kbstorm/7kbscan-WebPathBrute    C#。目录路径爆破
 - https://github.com/TheM4hd1/PenCrawLer    C#界面，web爬虫与目录路径爆破工具，除了常规扫描增加了递归爆破模式
 - https://github.com/maurosoria/dirsearch    经典目录路径扫描
 - https://github.com/Xyntax/DirBrute    目录路径爆破工具
@@ -925,26 +941,26 @@
 - https://github.com/ring04h/wyportmap    调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/RASSec/RASscan    端口服务扫描
 - https://github.com/angryip/ipscan    Angry IP Scanner，跨平台界面化端口扫描器
-- https://github.com/johnnyxmas/scancannon    shell，联动masscan和nmap
+- https://github.com/johnnyxmas/scancannon    SHELL.联动masscan和nmap
 - https://github.com/Lucifer1993/cmsprint    CMS和中间件指纹库
 - https://github.com/zerokeeper/WebEye    快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
 - https://github.com/n4xh4ck5/CMSsc4n    CMS指纹识别
 - https://github.com/HA71/WhatCMS    CMS检测和漏洞利用脚本， 基于Whatcms.org API
-- https://github.com/boy-hack/gwhatweb    CMS识别 python gevent实现
 - https://github.com/urbanadventurer/whatweb    RUBY.web指纹识别
+- https://github.com/boy-hack/gwhatweb    CMS识别 python gevent实现
+- https://github.com/Rvn0xsy/FastWhatWebSearch    whatweb工具结果搜索平台
 - https://github.com/Ms0x0/Dayu    JAVA.指纹识别工具
 - https://github.com/0xbug/Howl    网络设备 web 服务指纹扫描与检索
 - https://github.com/jekyc/wig    web应用信息搜集工具
 - https://github.com/tanjiti/FingerPrint    web应用指纹识别
 - https://github.com/nanshihui/Scan-T    网络爬虫式指纹识别
-- https://github.com/ywolf/F-MiddlewareScan    中间件扫描服务识别
-- https://github.com/Rvn0xsy/FastWhatWebSearch    whatweb工具结果搜索平台
-- https://github.com/EnableSecurity/wafw00f    WAF产品指纹识别
 - https://github.com/medbenali/CyberScan    渗透测试辅助工具，支持分析数据包、解码、端口扫描、IP地址分析等
 - https://github.com/ultrasecurity/webkiller    渗透辅助，PY.ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
 - https://github.com/mozilla/ssh_scan    服务器ssh配置信息扫描
 - https://github.com/mozilla/cipherscan    目标主机服务ssl类型识别
 - https://github.com/rbsec/sslscan    ssl类型识别
+- https://github.com/ywolf/F-MiddlewareScan    中间件扫描服务识别
+- https://github.com/EnableSecurity/wafw00f    WAF产品指纹识别
 ### XSS跨站脚本检测利用
 - https://github.com/UltimateHackers/AwesomeXSS    XSS Awesome系列
 - http://www.xss-payloads.com    很全面的xss工具包与资料
@@ -1004,11 +1020,11 @@
 - https://github.com/vanhauser-thc/thc-hydra    C.支持多种协议方式的破解与爆破
 - https://github.com/maaaaz/thc-hydra-windows    C.hydra的windows编译版本
 - https://github.com/galkan/crowbar    PY.支持openvpn、rdp、ssh、vnc破解
-- https://github.com/shack2/SNETCracker    C#，密码爆破工具，支持SSH、RDP、MySQL等常见协议.超级弱口令爆破工具
+- https://github.com/shack2/SNETCracker    C#。密码爆破工具，支持SSH、RDP、MySQL等常见协议.超级弱口令爆破工具
 - https://github.com/jmk-foofus/medusa    C.Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    C.支持多种协议的破解与爆破
 - https://github.com/lanjelot/patator    支持多种协议的爆破，采用模块化设计，使用灵活
-- https://github.com/0pn1i9ht/F-Scrack    ysrc对各类服务用户名密码爆破的脚本
+- https://github.com/euphrat1ca/F-Scrack    ysrc对各类服务用户名密码爆破的脚本
 - https://github.com/netxfly/crack_ssh    Go写的协程版的ssh\redis\mongodb弱口令破解
 - https://github.com/shengqi158/weak_password_detect    Linux下利用nmap多线程探测ssh弱口令
 - https://github.com/scu-igroup/ssh-scanner    联动nmap、hydra对ssh批量爆破
@@ -1131,30 +1147,30 @@
 - https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html    java1.8。cobalt strike是一个APT协同工作平台
 - https://github.com/BlackHacker511/BlackRAT    JAVA.跨平台
 - https://github.com/tiagorlampert/CHAOS    GO.win远控，可过大部分杀软
-- https://github.com/Ne0nd0g/merlin    GO.c2通讯，一对多
+- https://github.com/Ne0nd0g/merlin    GO.c2通讯，多session
 - https://github.com/0x09AL/Browser-C2    GO.利用chrome以浏览器的形式连接C2服务器
 - https://github.com/Tiked/Client    Windows， OS X and linux RAT client
-- https://github.com/quasar/QuasarRAT    c#，一对多，界面
-- https://github.com/TheM4hd1/Vayne-RaT    c#，一对多，界面
-- https://github.com/TheSph1nx/RT-101    c#，一对多，界面
-- https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp    c#，一对多，界面
-- https://github.com/DannyTheSloth/VanillaRat    C#，SIMPLE，界面
-- https://github.com/brunull/pace    C#，SIMPLE，界面
-- https://github.com/5alt/ZeroRAT    powershell，windows上的一句话远控，只需要执行一条指令不需要写文件
-- https://github.com/nettitude/PoshC2    PowerShell、C#，远控工具，有win提权组件
+- https://github.com/quasar/QuasarRAT    C#。一对多，界面
+- https://github.com/TheM4hd1/Vayne-RaT    C#。一对多，界面
+- https://github.com/TheSph1nx/RT-101    C#。一对多，界面
+- https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp    C#。一对多，界面
+- https://github.com/DannyTheSloth/VanillaRat    C#。SIMPLE，界面
+- https://github.com/brunull/pace    C#。SIMPLE，界面
+- https://github.com/5alt/ZeroRAT    powershell。windows上的一句话远控，只需要执行一条指令不需要写文件
+- https://github.com/nettitude/PoshC2    PowerShell、C#。远控工具，有win提权组件
 - https://github.com/mwsrc/njRAT    VB，源码
-- https://github.com/euphrat1ca/njRAT-v0.7d    vb，常见蠕虫远控，有很多变种，一对多带界面
+- https://github.com/euphrat1ca/njRAT-v0.7d    vb，常见蠕虫远控，有很多变种，多session带界面
 - https://github.com/peterpt/fuzzbunch    PY2.NSA漏洞利用工具，配有自动化安装脚本与gui界面，远控rat
-- https://github.com/n1nj4sec/pupy    PY.Windows， Linux， OSX， Android跨平台，一对多
+- https://github.com/n1nj4sec/pupy    PY.Windows， Linux， OSX， Android跨平台，多session
 - https://github.com/nathanlopez/Stitch    PY.Windows、Mac OSX、Linux跨平台
-- https://github.com/zerosum0x0/koadic    PY3.大宝剑利用JScript/VBScript 进行控制，设计为在内存中运行
+- https://github.com/zerosum0x0/koadic    PY3.大宝剑利用JScript/VBScript 进行控制，在内存中运行shell
 - https://github.com/Ridter/MyJSRat    PY2.利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html
 - https://github.com/Hood3dRob1n/JSRat-Py    PY.jsrat改进版
 - https://github.com/its-a-feature/Apfell    PY3.macOS与linux下的利用js后门，web界面管理
-- https://github.com/neoneggplant/EggShell    PY.macos/osx远控，可生成HID代码，一对多
-- https://github.com/Marten4n6/EvilOSX    PY.macos/osx远控，一对多
+- https://github.com/neoneggplant/EggShell    PY.macos/osx远控，可生成HID代码，多session
+- https://github.com/Marten4n6/EvilOSX    PY.macos/osx远控，多session
 - https://github.com/Mr-Un1k0d3r/ThunderShell    PY2.CLI与web端，内存马，RC4加密HTTP传输
-- https://github.com/vesche/basicRAT    PY3.simple远控，一对多
+- https://github.com/vesche/basicRAT    PY3.simple远控，多session
 - https://github.com/Viralmaniar/Powershell-RAT    PY.截图通过gmail传输
 - https://github.com/byt3bl33d3r/gcat    PY.使用 gmail 作为 C&C 服务器
 - https://github.com/sweetsoftware/Ares    PY.c2通讯，支持代理功能
@@ -1163,9 +1179,12 @@
 - https://github.com/ahhh/Reverse_DNS_Shell    PY.通过dns传输
 - https://github.com/deepzec/Grok-backdoor    PY.利用ngrok的后门
 - https://github.com/trustedsec/trevorc2    PY.搭建一个合法的网站（可浏览），用于隐藏命令执行的客户端/服务器通信
-- https://github.com/sensepost/DNS-Shell    PY.本地利用53端口nslookup传输加密的ps命令，回弹shell
 - https://github.com/iagox86/dnscat2    服务端为ruby（linux），客户端为C（win/linux），利用DNS协议进行端对端传输
+### 反弹shell管理
+- https://github.com/sysdream/chashell    Golang。利用dns反弹shell
 - https://github.com/FlyfishSec/rsGen    BAT，Windows下远程反弹shell命令行工具
+- https://github.com/sensepost/DNS-Shell    PY.本地利用53端口nslookup传输加密的ps命令，回弹shell
+- https://github.com/GuestGuri/Rootkit    PY.反弹一个tcp连接，将进程id绑定到一个空文件夹
 ## 后门生成与混淆免杀
 - https://github.com/Screetsec/Vegile    SHELL,C。msf免杀，程序注入
 - https://github.com/MohamedNourTN/Terminator    PY2.msf免杀
@@ -1181,8 +1200,8 @@
 - https://github.com/n00py/Hwacha    linux下快速生成metepreter等多种payload
 - https://github.com/4w4k3/Insanity-Framework    PY.生成免杀payload，识别虚拟机，钓鱼，内存注入等
 - https://github.com/trustedsec/unicorn    PY.一键生成多种后门
-- https://github.com/Kkevsterrr/backdoorme    py3、py2多种类型的后门、shell生成工具，可以自动维持权限
-- https://github.com/pasahitz/regsvr32    C#，使用C#+Empire实现最小体积免杀后门
+- https://github.com/Kkevsterrr/backdoorme    py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
+- https://github.com/pasahitz/regsvr32    C#。使用C#+Empire实现最小体积免杀后门
 - https://github.com/Cn33liz/StarFighters    基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher
 - https://github.com/mdsecactivebreach/SharpShooter    基于DotNetToJScript使用js、vbs，用于检索和执行任意CSharp源码的payload创建框架
 - https://github.com/mdsecactivebreach/CACTUSTORCH    基于DotNetToJScript使用js、vbs生成恶意payload
@@ -1195,7 +1214,6 @@
 - https://github.com/islamTaha12/Python-Rootkit    windows下rootkit，反弹meterpreter
 - https://github.com/mhaskar/Linux-Root-Kit    PY.simple。linux下rootkit
 - https://github.com/PinkP4nther/Sutekh    simple，rootkit，使普通用户获取root shell
-- https://github.com/GuestGuri/Rootkit    PY.反弹一个tcp连接，将进程id绑定到一个空文件夹
 ### 劫持注入权限绕过
 - https://github.com/hfiref0x/UACME    包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://payloads.online/archivers/2018-12-22/1    DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。倾旋
@@ -1210,11 +1228,11 @@
 - https://github.com/leechristensen/UnmanagedPowerShell    从非托管程序执行PowerShell，支持进程注入
 - https://github.com/D4Vinci/PasteJacker    剪贴板劫持利用工具
 - https://github.com/ChrisAD/ads-payload    利用环境变量与destop.ini绕过windows下的Palo Alto Traps endpoint 防护软件
-- https://github.com/malcomvetter/UnstoppableService    C#，将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
+- https://github.com/malcomvetter/UnstoppableService    C#。将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
 - https://github.com/threatexpress/metatwin    从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    可以修改二进制文件的HASH，同时保留微软windows的签名
 - https://github.com/secretsquirrel/SigThief    PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
-- https://github.com/g3rzi/Manifesto    C#，寻找系统中存在可执行权限的组件
+- https://github.com/g3rzi/Manifesto    C#。寻找系统中存在可执行权限的组件
 - https://github.com/ufrisk/MemProcFS    以访问文件系统的方式访问物理内存， 可读写， 有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    绕过系统应用白名单执行DotNet and PowerShell tools
 - https://github.com/mdsecactivebreach/RDPInception/    BAT.rdp服务劫持，利用ps反弹shell
@@ -1306,6 +1324,7 @@
 - https://github.com/wangshub/hmpa-pi    在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒
 - https://github.com/besimaltnok/PiFinger    检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点
 - https://github.com/WiPi-Hunter/PiSavar    利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
+- https://bbs.pediy.com/thread-246627.htm    打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似大菠萝
 ### 无线网络WIFI审计测试
 - https://www.wifislax.com    西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC
 - https://cn.elcomsoft.com/ewsa.html    ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
@@ -1357,6 +1376,7 @@
 - http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
 - https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
 - https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
+- https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
 - https://github.com/samyk/magspoof    信用卡信息盗取
 - https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
 - https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝
@@ -1420,24 +1440,26 @@
 - https://github.com/openitsystem/itops    PY3\DJANGO.AD\Exchange管理系统
 - https://github.com/tmobile/pacbot    JAVA.云平台自动化安全监控工具
 ### 代码审计应用测试
+- https://github.com/wufeifei/cobra    PY.源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。
 - https://www.waitalone.cn/seay-source-code-auditv2.html    Seay源代码审计系统2.1版本
-- https://github.com/pyupio/safety    检查所有已安装 Python 包， 查找已知的安全漏洞
-- https://github.com/pumasecurity/puma-scan    实时代码审计，vs插件
-- https://github.com/wufeifei/cobra    白盒代码安全审计系统
 - https://github.com/OneSourceCat/phpvulhunter    静态php代码审计
 - https://github.com/ripsscanner/rips    基于php的php代码审计工具
 - https://github.com/Qihoo360/phptrace    跟踪、分析PHP运行情况的工具
+- https://github.com/m4ll0k/WPSploit    Wordpress插件代码安全审计
+- https://github.com/elcodigok/wphardening    加强任何WordPress安装的安全
+- https://github.com/RetireJS/grunt-retire    JS.js扩展库漏洞扫描
 - https://github.com/ajinabraham/NodeJsScan    Node.JS应用代码审计
 - https://github.com/ctxis/beemka    针对Electron App的漏洞利用工具包
 - https://github.com/doyensec/electronegativity    Electron应用代码审计，App的错误配置和安全问题
+- https://github.com/pyupio/safety    检查所有已安装 Python包，查找已知的安全漏洞
 - https://github.com/shengqi158/pyvulhunter    Python应用审计
+- https://github.com/PyCQA/bandit    PY.python代码安全漏洞审计
+- https://github.com/python-security/pyt    用于检测Python Web应用程序中的安全漏洞的静态分析工具
 - https://github.com/securego/gosec    Go 语言源码安全分析工具
 - https://github.com/GoSSIP-SJTU/TripleDoggy    基于clang的c/c++/object-c源代码检测框架，有大量接口可以被调用
 - https://github.com/ga0/pyprotect    给python代码加密，防止逆向
 - https://github.com/presidentbeef/brakeman    Ruby on Rails应用静态代码分析
-- https://github.com/python-security/pyt    用于检测Python Web应用程序中的安全漏洞的静态分析工具
-- https://github.com/m4ll0k/WPSploit    Wordpress插件代码安全审计
-- https://github.com/elcodigok/wphardening    加强任何WordPress安装的安全
+- https://github.com/pumasecurity/puma-scan    C#.Visual Studio插件，实时代码审计
 ### 大数据平台安全
 - https://github.com/shouc/BDA    针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    hadoop测试方式和工具集
@@ -1452,15 +1474,17 @@
 - https://github.com/netxfly/x-proxy    GO.代理蜜罐的开发与应用实战。simple
 - https://www.freebuf.com/sectool/204652.html    基于EVE-NG平台上构建企业内网攻防环境
 ### 蜜罐监测
-- https://github.com/p1r06u3/opencanary_web    PY.基于TORNADO的内网低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
 - https://github.com/Cymmetria    欺骗防御组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
-- https://github.com/micheloosterhof/cowrie    PY2.使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
-- https://github.com/mushorg/snare    PY3.web安全蜜罐，可克隆指定Web页面
 - https://github.com/honeynet/beeswarm    PY.使用agent探针与蜜罐进行实时交互来引诱攻击者
+- https://github.com/p1r06u3/opencanary_web    PY.基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
+- https://github.com/micheloosterhof/cowrie    PY2.使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/thinkst/opencanary    PY2.SNMP\RDP\SAMBA蜜罐
 - https://github.com/gosecure/pyrdp    PY3.RDP MITM蜜罐
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    基于PYRDP.打造可记录图像和按键的RDP蜜罐
+### Web蜜罐
+- https://gitlab.com/SecurityBender/webhoneypot-framework    PY3.基于docker和docker-compose，现支持wordpress/drupal
+- https://github.com/mushorg/snare    PY3.web安全蜜罐，可克隆指定Web页面
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    C.RTSP服务器组件用以构建摄像头蜜罐
@@ -1508,7 +1532,7 @@
 - https://osquery.io    facebook开源的osquery跨平台系统监控、分析、查询软件
 - https://github.com/xdnice/PCShare    C++.可以监视目标机器屏幕、注册表、文件系统等
 - https://www.cheatengine.org    CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
-- http://www.angusj.com/resourcehacker/    二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui). 
+- http://www.angusj.com/resourcehacker/    二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui).
 ### 反编译
 - https://github.com/endgameinc/xori    自定义反汇编框架
 - https://sourceforge.net/projects/easypythondecompiler    Easy Python Decompiler，支持Python 1.0 - 3.4源码反编译，GUI界面。利用 "Uncompyle2" & "Decompyle++"
@@ -1658,6 +1682,9 @@
 - http://safe.ijiami.cn    爱加密app安全移动软件在线检测
 - http://appscan.360.cn    360移动app安全移动软件在线检测
 - https://service.security.tencent.com/kingkong    腾讯金刚app安全移动软件在线检测
+### 沙盒检测恶意分析
+- https://github.com/cuckoosandbox/cuckoo    PY,JS。自动恶意软件分析系统
+- https://github.com/euphrat1ca/Panda-Sandbox    PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
 ### 恶意文件查杀
 - https://github.com/mwleeds/android-malware-analysis    PY.利用机器学习进行恶意Android安卓应用检测
 - https://github.com/he1m4n6a/findWebshell    PY.webshell检查工具，可添加后门指纹。
@@ -1679,7 +1706,7 @@
 - https://github.com/Tencent/HaboMalHunter    哈勃分析系统，linux系统病毒分析及安全测试
 - http://www.clamav.net/downloads    病毒查杀软件
 - https://github.com/joxeankoret/pigaios    直接对比源代码与编译的二进制文件
-- https://github.com/felixweyne/ProcessSpawnControl    powershell，对恶意程序进行检测与监控
+- https://github.com/felixweyne/ProcessSpawnControl    powershell。对恶意程序进行检测与监控
 - https://github.com/sfaci/masc    扫描网站中的恶意软件， 以及其他一些网站维护功能
 - https://github.com/Neo23x0/munin    依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
 - https://github.com/1lastBr3ath/drmine    自动化检测网页是否包含挖矿脚本的工具
@@ -1758,7 +1785,6 @@
 - http://suo.im    访问数据查询，匿名访问
 ## 在线自服务与工具
 - https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
-- https://github.com/littlecodersh/itchat    微信个人号接口、微信机器人及命令行微信
 - https://github.com/sym233/core-values-encoder    js，社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
 - http://sc.ftqq.com/3.version    server酱微信通知
@@ -1800,6 +1826,10 @@
 - https://www.gobaidugle.com    联合搜索
 - https://lookao.com/    匿名搜索
 - https://mijisou.com/    匿名搜索
+- https://pandownload.com/    下载
+- https://www.baiduwp.com/    下载
+- http://www.speedpan.com/    下载
+- https://github.com/soimort/you-get    PY.视频下载
 ### 网站源码程序外包
 - http://www.mycodes.net    源码之家，大部分免费
 - http://down.admin5.com/    A5网站源码下载
@@ -1823,13 +1853,15 @@
 - https://github.com/deepfakes/faceswap    换脸大法好，虚拟音频视频
 - https://github.com/iperov/DeepFaceLab    换脸大法好，虚拟音频视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
-- https://github.com/TheAlgorithms/Python    PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    吴恩达机器学习python笔记
 - https://paperswithcode.com/sota    机器学习具体项目、演示、代码
+- https://github.com/TheAlgorithms/Python    PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
 - https://github.com/duoergun0729/nlp    一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    神经网络深度学习框架PyTorch
-- http://pandas.pydata.org    数据分析
-- https://github.com/r0f1/datascience    大数据分析功能库推荐
+- https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
+- https://github.com/youfou/wxpy    PY.微信个人号 API 
+### 编辑器
+- https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
 ### Web应用框架
 - https://goframe.org/index    一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架
