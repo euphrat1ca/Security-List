@@ -179,6 +179,8 @@
 - https://techvomit.net/web-application-penetration-testing-notes/    web渗透测试笔记
 - https://github.com/qazbnm456/awesome-web-security    Web安全资料和资源列表
 - https://www.freebuf.com/articles/web/194698.html    小学生都会挖掘的JSON Hijacking实战利用
+- https://www.lynda.com/JavaScript-tutorials/What-server-side-JavaScript-injection-SSJI/797717/5025838-4.html    SSJI服务的JavaScript注入
+- https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    SSJI服务的JavaScript注入
 ### 内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    mitre机构对横向移动的总结
 - https://adsecurity.org    Active Directory安全攻防
@@ -338,6 +340,8 @@
 - https://www.mythicsoft.com    全文检索工具
 - https://www.voidtools.com    文件和文件夹快速定位
 - https://mobaxterm.mobatek.net    putty
+### 字典
+- https://github.com/TheKingOfDuck/fuzzDicts    Web Pentesting Fuzz 字典
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt    Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    C#。基于.NET Core运行时实现的Windows HOOK库
@@ -382,9 +386,9 @@
 - https://github.com/opensec-cn/vtest    集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞
 - https://github.com/commixproject/commix    命令注入漏洞扫描
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    csrf验证工具
-- https://github.com/coffeehb/SSTIF    服务器端模板注入漏洞的半自动化工具
-- https://github.com/epinna/tplmap    服务器端模板注入漏洞检测与利用工具
+- https://github.com/coffeehb/SSTIF    SSTI (服务器模板注入) 漏洞的半自动化工具
 - https://github.com/tijme/angularjs-csti-scanner    探测客户端AngularJS模板注入漏洞工具
+- https://github.com/epinna/tplmap    SSTI (服务器模板注入) 漏洞检测与利用工具
 - https://github.com/blackye/Jenkins    Jenkins漏洞探测、用户抓取爆破
 - https://github.com/irsdl/IIS-ShortName-Scanner    JAVA.IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    PY2.IIS短文件名漏洞扫描
@@ -572,13 +576,13 @@
 #### CobaltStrike相关工具拓展插件
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，多session带界面
-- https://github.com/dcsync/pycobalt    PY3.Python API for Cobalt Strike
 - https://github.com/anbai-inc/CobaltStrike_Hanization      CobaltStrike2.5汉化版，以msf库为基础，3.0以后改版
 - https://github.com/rsmudge/cortana-scripts    用于cs2.x与armitage的可拓展插件，cvs3.x的为AggressorScripts
 - https://github.com/harleyQu1nn/AggressorScripts    cs3.0以后的脚本搜集
 - https://github.com/bluscreenofjeff/AggressorScripts    cs3.0以后的脚本搜集
 - https://github.com/FortyNorthSecurity/AggressorAssessor    cs3.x自动化攻击脚本集合
 - https://github.com/Ridter/CS_Chinese_support/    cs3.0传输信息的汉化插件
+- https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    cobaltstrike多版本crack
 - https://github.com/verctor/CS_xor64    生成cobaltstrike破解版所需的xor64.bin
 - https://github.com/ryhanson/ExternalC2    一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
@@ -588,6 +592,7 @@
 - https://github.com/phink-team/Cobaltstrike-MS17-010    cobaltstrike ms17-010（win7 x64 and win2008 r2）等插件
 - https://github.com/pxss/navicatpwd    Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    邮件上线提醒
+- https://github.com/dcsync/pycobalt    PY3.Python API for Cobalt Strike
 #### Empire相关工具拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
@@ -599,7 +604,7 @@
 - https://github.com/evilcos/cookiehacker    Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    Chrome扩展，cookie注入工具包括注入，编辑，添加和删除cookie
 ## 端口转发与代理
-- https://github.com/fatedier/frp    用于内网穿透的高性能的反向代理应用，支持 tcp， udp， http， https 协议
+- https://github.com/fatedier/frp    Golang.用于内网穿透的高性能的反向代理应用，支持 tcp， udp， http， https 协议
 - https://github.com/SECFORCE/Tunna    将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制
 - https://github.com/fbkcs/thunderdns    将tcp流量通过DNS协议转发，不需要客户端和socket5支持
 - https://github.com/cloudflare/mmproxy    C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP
@@ -1498,17 +1503,21 @@
 - https://ctf-wiki.github.io/ctf-wiki/    CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
 - https://github.com/gabemarshall/microctfs    小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    部署多个pwn题到一个docker容器中
+- https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    为CTF比赛编写CrackMe软件
 - https://github.com/facebook/fbctf    CTF比赛框架
+- https://github.com/zardus/ctf-tools    ctf工具集
 - https://github.com/0Chencc/CTFCrackTools    kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://github.com/guyoung/CaptfEncoder    Node.js.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://www.wishingstarmoye.com/ctf/autokey    CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2问号脸/
 - https://github.com/Gallopsled/pwntools    pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    pwn，自动攻击脚本
 - https://github.com/bugsafe/WeReport    WeReport报告助手
-- https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    为CTF比赛编写CrackMe软件
 ### 隐写术
-- https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources
+- https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
 - https://github.com/DominicBreuker/stego-toolkit    隐写工具包
+- https://dev.stegosuite.org/Stegosuite/Stegosuite/    Java。隐写工具
+- http://www.caesum.com/handbook/Stegsolve.jar    Java。图片隐写查看器，多图层查看器
 ## 逆向破解
 - https://down.52pojie.cn/    吾爱破解爱盘工具包。https://github.com/ganlvtech/down_52pojie_cn 网盘源码
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
@@ -1827,7 +1836,7 @@
 - https://lookao.com/    匿名搜索
 - https://mijisou.com/    匿名搜索
 - https://pandownload.com/    下载
-- https://www.baiduwp.com/    下载
+- https://www.baiduwp.com/    百度下载
 - http://www.speedpan.com/    下载
 - https://github.com/soimort/you-get    PY.视频下载
 ### 网站源码程序外包
@@ -1859,7 +1868,9 @@
 - https://github.com/duoergun0729/nlp    一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    神经网络深度学习框架PyTorch
 - https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
-- https://github.com/youfou/wxpy    PY.微信个人号 API 
+- https://github.com/youfou/wxpy    PY.微信个人号 API
+- https://github.com/liuwons/wxBot    PY.微信机器人
+- https://github.com/JeffreySu/WeiXinMPSDK    C#.微信平台SDK
 ### 编辑器
 - https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
 ### Web应用框架
