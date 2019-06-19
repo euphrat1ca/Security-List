@@ -9,6 +9,7 @@
 - https://github.com/knownsec/KCon    KCon大会文章PPT
 - https://github.com/SecWiki/sec-chart    安全思维导图集合
 - https://github.com/Mayter/sec-charts    copy了sec-wiki的思维导图加上收藏的思维导图
+- https://github.com/Ascotbe/Osmographic-brain-mapping    安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/knownsec/RD_Checklist    知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    灰袍技能书2017版本
 - https://github.com/evilcos/papers    余弦关于网络空间文章分享
@@ -17,25 +18,6 @@
 - https://github.com/tom0li/collection-document/    开发/安全建设/Bug Bounty/apt/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    所有资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、其他书籍七部分。
 - https://github.com/hongriSec/AI-Machine-Learning-Security    机器学习算法、AI模型、渗透测试工具
-## 安全学习手册
-- https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
-- https://www.cnblogs.com/backlion/p/10616308.html    Coablt strike官方教程中文译版本
-- https://legacy.gitbook.com/book/wbglil/cobalt-strike    Cobalt Stike中文使用文档
-- https://github.com/aleenzz/Cobalt_Strike_wiki    Cobalt Strike系列教程
-- https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
-- https://github.com/louchaooo/kali-tools-zh    kali下工具使用介绍手册
-- https://www.offensive-security.com/metasploit-unleashed/    kali出的metasploit指导笔记
-- http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/    hydra使用手册
-- https://www.gitbook.com/book/t0data/burpsuite/details    burpsuite实战指南
-- https://zhuanlan.zhihu.com/p/26618074    Nmap扩展脚本使用方法
-- https://somdev.me/21-things-xss/    XSS的21个扩展用途
-- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    sql注入sheet表
-- https://sqlwiki.netspi.com/    你要的sql注入知识点都能找到
-- https://github.com/kevins1022/SQLInjectionWiki    一个专注于聚合和记录各种SQL注入方法的wiki
-- https://github.com/hardenedlinux/linux-exploit-development-tutorial     Linux exploit 开发入门
-- http://blog.safebuff.com/2016/07/03/SSRF-Tips/    ssrf漏洞利用手册
-- https://wizardforcel.gitbooks.io/asani/content    浅入浅出Android安全 中文版
-- https://wizardforcel.gitbooks.io/lpad/content    Android 渗透测试学习手册 中文版
 ## 安全建设
 - https://www.nist.gov/topics/cybersecurity    美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    mitre安全机构。CVE漏洞库
@@ -70,31 +52,51 @@
 - https://paper.seebug.org/772/    如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 - https://paper.seebug.org/904/    如何打造自己的PoC框架-Pocsuite3-使用篇
 - https://paper.seebug.org/913/    如何打造自己的PoC框架-Pocsuite3-框架篇。simple
-### 应急响应
+## 应急响应
 - https://github.com/jiansiting/Decryption-Tools    勒索病毒解决方案
 - https://www.nomoreransom.org    在线勒索病毒解决方案
 - https://www.secrss.com/articles/10986    一次攻防实战演习复盘总结。奇安信
 - https://bypass007.github.io/Emergency-Response-Notes/    应急响应/日志分析/僵木蠕分析
 - https://github.com/tide-emergency/yingji    PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/ppabc/cc_iptables    收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
-### 运维管理与安全服务checklist
-- https://mitre.github.io/attack-navigator/enterprise/    mitre机构att&ck入侵检测条目
+### 运维管理/安全服务/checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
-- http://www.freebuf.com/articles/network/169632.html    开源软件创建SOC的一份清单
-- https://github.com/0xRadi/OWASP-Web-Checklist    owasp网站检查条目
 - https://www.securitypaper.org/    SDL开发安全生命周期管理
+- https://github.com/FallibleInc/security-guide-for-developers    安全开发规范
 - https://github.com/danielmiessler/SecLists    表类型包括用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell等
-- https://github.com/GitGuardian/APISecurityBestPractices    api接口测试checklist
+- https://github.com/aqzt/kjyw    快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
+- http://www.freebuf.com/articles/network/169632.html    开源软件创建SOC的一份清单
+- https://github.com/drduh/macOS-Security-and-Privacy-Guide    PY.MacOS安全性基线
+- https://mitre.github.io/attack-navigator/enterprise/    mitre机构att&ck入侵检测条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    区块链，以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
+- https://github.com/0xRadi/OWASP-Web-Checklist    owasp网站检查条目
+- https://github.com/GitGuardian/APISecurityBestPractices    api接口测试checklist
 - https://xz.aliyun.com/t/2089    金融科技SDL安全设计checklist
+- http://pentestmonkey.net/category/cheat-sheet    渗透测试常见条目
+- https://github.com/aqzt/sso    服务器安全运维规范（Server security operation）
 - https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
 - https://github.com/a13xp0p0v/kconfig-hardened-check    用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://github.com/wstart/DB_BaseLine    数据库基线检查工具
-- https://github.com/aqzt/sso    服务器安全运维规范（Server security operation）
-- https://github.com/aqzt/kjyw    快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
-- http://pentestmonkey.net/category/cheat-sheet    渗透测试常见条目
-- https://github.com/1hack0/bug-bounty-101    挖洞技术手册
+## 安全学习手册
+- https://github.com/HarmJ0y/CheatSheets    多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
+- https://www.cnblogs.com/backlion/p/10616308.html    Coablt strike官方教程中文译版本
+- https://legacy.gitbook.com/book/wbglil/cobalt-strike    Cobalt Stike中文使用文档
+- https://github.com/aleenzz/Cobalt_Strike_wiki    Cobalt Strike系列教程
+- https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    Kali Linux Web渗透测试秘籍 中文版
+- https://github.com/louchaooo/kali-tools-zh    kali下工具使用介绍手册
+- https://www.offensive-security.com/metasploit-unleashed/    kali出的metasploit指导笔记
+- http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/    hydra使用手册
+- https://www.gitbook.com/book/t0data/burpsuite/details    burpsuite实战指南
+- https://zhuanlan.zhihu.com/p/26618074    Nmap扩展脚本使用方法
+- https://somdev.me/21-things-xss/    XSS的21个扩展用途
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    sql注入sheet表
+- https://sqlwiki.netspi.com/    你要的sql注入知识点都能找到
+- https://github.com/kevins1022/SQLInjectionWiki    一个专注于聚合和记录各种SQL注入方法的wiki
+- https://github.com/hardenedlinux/linux-exploit-development-tutorial     Linux exploit 开发入门
+- http://blog.safebuff.com/2016/07/03/SSRF-Tips/    ssrf漏洞利用手册
+- https://wizardforcel.gitbooks.io/asani/content    浅入浅出Android安全 中文版
+- https://wizardforcel.gitbooks.io/lpad/content    Android 渗透测试学习手册 中文版
 ### 安全基础文章博客
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    网络安全科普小册子
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    网络安全电子版教材。中传信安课程网站
@@ -109,7 +111,12 @@
 - https://github.com/ym2011/SecurityManagement    分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://lcx.cc    NuclearAtk核总。文章/工具
 - https://cn0xroot.com/    雪碧。通信硬件
-### OSCP相关
+### OSCE漏洞挖掘
+- https://www.freebuf.com/news/206041.html    中文首发丨OSCE（Offensive Security Certified Expert）考证全攻略
+- https://github.com/ihack4falafel/OSCE    #
+- https://github.com/dhn/OSCE    #
+- https://github.com/73696e65/windows-exploits    #
+### OSCP渗透测试
 - https://github.com/anandkumar11u/OSCP-60days    OSCP All Tools
 - https://github.com/adon90/pentest_compilation    ctf比赛与OSCP考试中常见的知识点和命令
 - https://github.com/foobarto/redteam-notebook     OSCP-EXAM 红队标准渗透测试流程+常用命令
@@ -124,7 +131,7 @@
 - http://dingba.top/qqzk    全球智库
 - cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query=    密码泄露
 - https://weleakinfo.com    密码泄露
-- https://www.i-intelligence.eu    情报收集组织。开源情报工具和资源手册2018版
+- https://www.i-intelligence.eu    情报收集组织。开源情报工具和资源手册2018版(open source intelligence tools and resources handbook)
 - https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
 - https://osint.link    Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
 - https://github.com/Te-k/harpoon    PY.基于osint的威胁情报命令行工具
@@ -198,7 +205,14 @@
 - https://www.anquanke.com/post/id/88851    Powershell攻击指南黑客后渗透之道系列——进阶利用
 - https://www.anquanke.com/post/id/89362    Powershell攻击指南黑客后渗透之道系列——实战篇
 - https://www.4hou.com/penetration/18447.html    域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
-## 漏洞挖掘
+## 漏洞复现挖掘
+- https://github.com/Ivan1ee/NET-Deserialize    .Net反序列化漏洞
+- https://github.com/ngalongc/bug-bounty-reference    漏洞挖掘write-up
+- https://github.com/writeups/ios    ios漏洞writeup笔记
+- https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
+- https://bugreader.com    国外知名厂商漏洞描述
+- https://github.com/hongriSec/CTF-Training    收集各大CTF比赛的题目和Writeup
+- https://github.com/1hack0/bug-bounty-101    挖洞技术手册
 ### 学习靶场
 - https://www.pentesteracademy.com    攻防技术认证。商业版
 - https://www.offensive-security.com/information-security-certifications/    kali攻防技术认证。商业版
@@ -243,13 +257,6 @@
 - https://mp.weixin.qq.com/s/C91nxTVLBUpapSKwjHSbWQ    VulnHub靶机学习——Billu_b0x实战记录
 - https://github.com/Medicean/VulApps    收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 - https://github.com/bingohuang/docker-labs    制作在线docker平台
-### 漏洞挖掘write-up
-- https://github.com/Ivan1ee/NET-Deserialize    .Net反序列化漏洞
-- https://github.com/ngalongc/bug-bounty-reference    漏洞挖掘write-up
-- https://github.com/writeups/ios    ios漏洞writeup笔记
-- https://github.com/userlandkernel/plataoplomo    Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
-- https://bugreader.com    国外知名厂商漏洞描述
-- https://github.com/hongriSec/CTF-Training    收集各大CTF比赛的题目和Writeup
 ### Fuzzer模糊测试
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
@@ -268,30 +275,32 @@
 - https://github.com/bunzen/pySSDeep    PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。GO.glaslos/ssdeep；C.ssdeep-project/ssdeep
 - https://github.com/cisco-sas/kitty    PY。针对TCP/IP的模糊测试框架
 - https://github.com/cisco-sas/katnip    PY。kitty框架的拓展库
-### 二进制安全
-- 0day安全
-- https://www.fuzzysecurity.com/tutorials.html    fuzzysecurity教程。*egghunter
-- 漏洞战争
-- modern windows exploit
+### 学习二进制pwn
+- 0day安全：软件漏洞分析技术（第2版）    #
+- 漏洞战争：软件漏洞分析精要    #
+- 加密与解密（第4版）    #
+- modern windows exploit    #
+- cnit的二进制教程    #
+- awesome windows exploit    #
+- https://www.youtube.com/channel/UC_PU5Tk6AkDnhQgl5gARObA    pwn学习三部曲学习
 - https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    exploit编写系列教程,10篇,后续在corelan网站上
-- http://www.securitysift.com/windows-exploit-development-part-1-basics
-- cnit的二进制教程
-- awesome windows exploit
+- https://www.fuzzysecurity.com/tutorials.html    fuzzysecurity教程。*egghunter
+- http://www.securitysift.com/windows-exploit-development-part-1-basics    #
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    家用路由器0day
-- https://github.com/timip/OSEE
+- https://github.com/timip/OSEE    #
 - https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu    windbg教程
 - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    windbg
 - https://rootkits.xyz/blog/     windows内核系列
-- https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation
+- https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation    #
 - https://pwnrip.com/windows-kernel-exploitation-part-1-stack-buffer-overflows/    windows kernel exploit
-- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
+- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References    #
 - https://github.com/ExpLife0011/awesome-windows-kernel-security-development     一些较新的win exploit资料
 - https://www.abatchy.com/tutorials    windows kernel exploit
 - https://blahcat.github.io/tutorials/    windows kernel exploit
 - https://b3n7s.github.io/2017/11/01/windows-kernel-debugging-under-vmware-fusion.html    windows kernel debugging under vm fusion
 - http://samdb.xyz/    intro to kernel exploit
-- https://github.com/hanc00l/rop_linux_kernel_pwn
-- https://github.com/xairy/linux-kernel-exploitation
+- https://github.com/hanc00l/rop_linux_kernel_pwn    #
+- https://github.com/xairy/linux-kernel-exploitation    #
 - https://azeria-labs.com/    arm 溢出
 ### 公开漏洞库与SRC
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
@@ -309,7 +318,7 @@
 - https://zeroday.hitcon.org/vulnerability/    台湾公开漏洞库
 - https://nvd.nist.gov/vuln/search    美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    IBM exchange漏洞库
-- twitter搜索 CVE RCE
+- twitter搜索 CVE RCE    #
 - https://www.zerodayinitiative.com/    设备（firmware）漏洞市场
 - http://www.zerodium.com/    漏洞市场
 - https://0day.today    漏洞市场
@@ -508,7 +517,6 @@
 - https://github.com/skavngr/rapidscan    PY2.simple，联动kali下工具，漏洞扫描工具
 - https://github.com/baguswiratmaadi/reverie    SHELL.ParrotSecOs联动工具
 ### Nessus相关工具拓展插件
-- https://www.tenable.com/downloads/nessus    商业版漏洞扫描器
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    联动nmap、nessus等工具进行安全测试
@@ -574,16 +582,13 @@
 - https://github.com/scriptjunkie/msfgui    metasploit的GUI界面，话说现在msf对windows支持也挺好的
 - https://github.com/WayzDev/Kage    MSF的GUI界面，Session Handler
 #### CobaltStrike相关工具拓展插件
-- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/rsmudge/armitage    CobaltStrike社区版，调用msf，多session带界面
 - https://github.com/anbai-inc/CobaltStrike_Hanization      CobaltStrike2.5汉化版，以msf库为基础，3.0以后改版
-- https://github.com/rsmudge/cortana-scripts    用于cs2.x与armitage的可拓展插件，cvs3.x的为AggressorScripts
-- https://github.com/harleyQu1nn/AggressorScripts    cs3.0以后的脚本搜集
-- https://github.com/bluscreenofjeff/AggressorScripts    cs3.0以后的脚本搜集
-- https://github.com/FortyNorthSecurity/AggressorAssessor    cs3.x自动化攻击脚本集合
-- https://github.com/Ridter/CS_Chinese_support/    cs3.0传输信息的汉化插件
 - https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    cobaltstrike多版本crack
 - https://github.com/verctor/CS_xor64    生成cobaltstrike破解版所需的xor64.bin
+- https://github.com/rsmudge/cortana-scripts    用于cs2.x与armitage的可拓展插件，cvs3.x的为AggressorScripts
+- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    使用Aggressor脚本雕饰Cobalt Strike
+- https://github.com/Ridter/CS_Chinese_support/    cs3.0传输信息的汉化插件
 - https://github.com/ryhanson/ExternalC2    一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    搜索分类域，为Cobalt Strike beacon C&C设置白名单域
@@ -593,6 +598,7 @@
 - https://github.com/pxss/navicatpwd    Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    邮件上线提醒
 - https://github.com/dcsync/pycobalt    PY3.Python API for Cobalt Strike
+- https://github.com/FortyNorthSecurity/AggressorAssessor    cs3.x自动化攻击脚本集合
 #### Empire相关工具拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    empire的node.js界面
@@ -836,7 +842,10 @@
 - https://github.com/Dionach/PhEmail    PY2.钓鱼与邮件伪造
 - https://github.com/lunarca/SimpleEmailSpoofer    PY.域名伪造钓鱼邮件
 - https://www.jetmore.org/john/code/swaks/    PERL，基于smtp的邮箱域名伪造测试工具
-## 漏洞检测扫描器
+## 网站扫描器漏洞检测
+- https://www.acunetix.com/web-vulnerability-scanner/    Acunetix WVS扫描器，支持win/Linux。商业版，有补丁
+- https://www.tenable.com/downloads/nessus    商业版漏洞扫描器，系统漏洞检测功能突出。商业版，有demo
+- https://www.ibm.com/us-en/marketplace/appscan-standard    IBM漏洞扫描器，重剑无锋。商业版，有补丁
 - https://github.com/andresriancho/w3af    PY.包含 200+ Web漏洞
 - https://github.com/gyoisamurai/GyoiThon    使用深度学习的渗透测试工具， 从每次扫描数据中学习， 扫描越多， 软件检测精准度越高
 - https://github.com/iSafeBlue/TrackRay    JAVA.溯光 (Trackray)集成资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|AWVS Metasploit集成|漏洞扫描器
@@ -844,10 +853,10 @@
 - https://github.com/boy-hack/w9scan    PY.下内置1200+插件可对网站进行一次规模的检测
 - https://github.com/boy-hack/w8scan    PY.web界面，基于bugscan扫描和架构思想的扫描器
 - https://github.com/al0ne/Vxscan    PY3.目录扫描/s泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站
-- https://www.52pojie.cn/thread-134667-1-1.html    Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].很有历史感
-- https://github.com/euphrat1ca/polar-scan    易语言的北极熊扫描器。很有历史感
-- https://github.com/euphrat1ca/yeezy-scan    椰树1.9扫描器。很有历史感
-- https://github.com/euphrat1ca/WebCruiserWVS    轻量级基于C#的扫描器，椰树扫描器的前身
+- https://www.52pojie.cn/thread-134667-1-1.html    Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].历史感。
+- https://github.com/euphrat1ca/polar-scan    易语言的北极熊扫描器。历史感。
+- https://github.com/euphrat1ca/yeezy-scan    椰树1.9扫描器。历史感。
+- https://github.com/euphrat1ca/WebCruiserWVS    C#。轻量扫描器，椰树前身
 - https://github.com/theInfectedDrake/TIDoS-Framework    覆盖从侦察到漏洞分析的所有内容
 - https://github.com/Tuhinshubhra/RED_HAWK    php，集成信息收集、漏洞扫描、指纹识别等的扫描工具
 - https://github.com/1N3/Sn1per    php，自动化中间件扫描以及设备指纹识别
@@ -1000,11 +1009,11 @@
 - https://github.com/sqlmapproject/sqlmap    sql注入sqlmap
 - https://github.com/ron190/jsql-injection    Java 编写的SQL注入工具
 - https://github.com/shack2/SuperSQLInjectionV1    C#。安恒航牛的超级SQL注入工具【SSQLInjection】
-- https://www.52pojie.cn/thread-80225-1-1.html    Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，虽然停止更新但很有历史感
-- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，虽然停止更新但很有历史感
+- https://www.52pojie.cn/thread-80225-1-1.html    Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，虽然停止更新但历史感。
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，虽然停止更新但历史感。
 - https://github.com/stamparm/DSSS    PY3.SIMPLE，DONE，用99行代码实现的sql注入漏洞扫描器
 - https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    PHP。
-- https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    基于搜索引擎的批量SQL注入漏洞扫描器。界面化很有历史感
+- https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    基于搜索引擎的批量SQL注入漏洞扫描器。界面化历史感。
 - https://github.com/Hadesy2k/sqliv    PY2.SIMPLE，DONE，基于搜索引擎的批量SQL注入漏洞扫描器
 - https://github.com/quentinhardy/odat    针对Oracle渗透的很全面的工具
 - https://github.com/m8r0wn/enumdb    MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
@@ -1104,7 +1113,7 @@
 - https://github.com/PowerShellMafia/PowerSploit    PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息搜集，ScriptModification编码加密
 - https://github.com/SecureAuthCorp/impacket    Impacket是用于处理网络协议的Python工具包，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
 - https://github.com/maaaaz/impacket-examples-windows    Impacket打包exe版
-- https://github.com/byt3bl33d3r/CrackMapExec    网络测试中的瑞士军刀，包含impacket、PowerSploit等多种模块
+- https://github.com/byt3bl33d3r/CrackMapExec    PY,PS.利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块
 - https://github.com/SpiderLabs/scavenger    对CrackMapExec进行二次包装开发进行内网敏感信息扫描
 - https://github.com/0xdea/tactical-exploitation    Python/PowerShell的测试脚本集
 - https://github.com/PowerShellEmpire/PowerTools    PowerShell脚本集，停止更新
@@ -1315,7 +1324,6 @@
 - https://github.com/mrexodia/haxxmap    对IMAP服务器进行中间人攻击
 - https://github.com/SySS-Research/Seth    PY3,BASH。Linux下MitM RDP远程服务中间人攻击
 ### 无线网络WIFI中间人攻击
-- 命令:netsh wlan show profile name="wifi名称" key=clear    获取WIFI连接密码
 - https://github.com/0v3rl0w/e013    窃取Wifi密码. VB脚本
 - https://github.com/cls1991/ng    获取你当前连接wifi的密码与ip
 - https://github.com/wi-fi-analyzer/fluxion    窃取用户wifi密码的进行密码重放攻击
@@ -1371,11 +1379,16 @@
 ### 物理HID/BadUsb安全
 - https://ducktoolkit.com/    BadUsb、橡皮鸭、HID键盘模拟器
 - https://github.com/insecurityofthings/jackit    用于Mousejack的开发代码
+- https://github.com/samratashok/Kautilya    PS。为人机接口设备提供各种有效负载的工具包
 - https://github.com/ebursztein/malusb    创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
 - https://github.com/mame82/P4wnP1    在树莓派安装网络劫持键盘注入(WHID)工具
 - https://github.com/360PegasusTeam/GhostTunnel    可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
 - https://github.com/0katz/CVE-2019-12476    HID绕过win10登录界面，利用浏览器调用powershell
 - https://github.com/tenable/router_badusb    利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
+- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    实战 Teensy 烧录间谍 U 盘
+- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    USBKiller
+- https://github.com/rawrly/JuiceJacking    shell.JuiceJacking，利用USB等人机接口设备窃取数据
+- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝
 ### 物理硬件设备安全
 - https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
 - http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
@@ -1384,7 +1397,6 @@
 - https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
 - https://github.com/samyk/magspoof    信用卡信息盗取
 - https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
-- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
 - https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
 - https://github.com/RadioWar/NFCGUI    C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
@@ -1685,8 +1697,8 @@
 ### 在线文件检测
 - https://app.any.run    可视化在线恶意文件检测
 - https://habo.qq.com    在线恶意文件检测
-- https://www.virustotal.com    恶意软件检测
-- http://r.virscan.org/    恶意软件检测
+- https://www.virustotal.com    在线病毒检测
+- http://r.virscan.org/    在线杀毒
 - https://www.appscan.io    盘古app安全移动软件在线检测
 - http://safe.ijiami.cn    爱加密app安全移动软件在线检测
 - http://appscan.360.cn    360移动app安全移动软件在线检测
@@ -1764,13 +1776,13 @@
 - https://yandex.com/    非手机邮箱
 - https://mail.ru/    非手机邮箱
 - https://mail.protonmail.com/login    非手机邮箱
-- https://telegram.org
-- https://slack.com
-- https://www.whatsapp.com
-- https://wire.com/en
-- https://signal.org
-- http://www.batmessenger.com
-- http://sid.co
+- https://telegram.org    #
+- https://slack.com    #
+- https://www.whatsapp.com    #
+- https://wire.com/en    #
+- https://signal.org    #
+- http://www.batmessenger.com    #
+- http://sid.co    #
 ### 办公套件
 - https://sadd.io/    在线操作系统
 - https://github.com/zyx0814/dzzoffice    在线办公套件，DEMO网址demo.dzzoffice.com
@@ -1789,8 +1801,8 @@
 - https://send.firefox.com    火狐网盘
 ### 短网址
 - https://www.ft12.com    支持访问数据查询
-- http://sina.lt
-- https://dwz.cn
+- http://sina.lt    #
+- https://dwz.cn    #
 - http://suo.im    访问数据查询，匿名访问
 ## 在线自服务与工具
 - https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
@@ -1831,7 +1843,7 @@
 - http://sci-hub.tw/    文献、专利、书籍下载
 - http://www.1ppt.com/    免费ppt下载
 - http://ac.scmor.com/    谷歌搜索镜像
-- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎，DEMO网址https://searx.me/
+- https://github.com/asciimoo/searx    搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
 - https://www.gobaidugle.com    联合搜索
 - https://lookao.com/    匿名搜索
 - https://mijisou.com/    匿名搜索
@@ -1844,12 +1856,14 @@
 - http://down.admin5.com/    A5网站源码下载
 - https://www.xd0.com    xiaodao.la
 - http://vipread.com    资料站
-- https://zbj.com    猪八戒，重庆外包平台，较正规
-- http://www.epwk.com    威客
-- https://www.a5.net    比较野
-- https://bbs.125.la/forum-98-1.html    比较野
+- freelancer    国外
+- 程序员客栈    #
 - https://zb.oschina.net    开源众包
 - https://codemart.com    码市
+- http://www.epwk.com    威客
+- https://zbj.com    猪八戒，重庆外包平台，存在压价现象
+- https://www.a5.net    比较野
+- https://bbs.125.la/forum-98-1.html    比较野
 # 计算机技术
 - https://github.com/jackfrued/Python-100-Days    100天精通python
 - https://books.studygolang.com/gopl-zh/    GO语言圣经中文版
@@ -1896,7 +1910,7 @@
 - https://start.me/p/GE7JQb/osint    情报源
 - https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
 - https://www.osint-labs.org/apt/    情报源
-- https://github.com/infosecn1nja/Red-Teaming-Toolkit    信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit    红队开源和商业工具
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
 TheEnd
 ***
