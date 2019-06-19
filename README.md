@@ -349,8 +349,9 @@
 - https://www.mythicsoft.com    全文检索工具
 - https://www.voidtools.com    文件和文件夹快速定位
 - https://mobaxterm.mobatek.net    putty
-### 字典
+### 测试字典
 - https://github.com/TheKingOfDuck/fuzzDicts    Web Pentesting Fuzz 字典
+- https://github.com/7dog7/bottleneckOsmosis    JS/api/param/FUZZ 字典
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt    Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    C#。基于.NET Core运行时实现的Windows HOOK库
@@ -1297,7 +1298,7 @@
 - https://github.com/alpha1ab/CVE-2018-8120    在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/dirkjanm/PrivExchange    PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
-- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    CVE-2019-1040利用exchange提权PrivExchange
+- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    INTRO.CVE-2019-1040利用exchange提权PrivExchange
 ### 文件捆绑
 - bat2exe.net    相类似也可以利用iexpress与winrar生成自解压exe可执行文件
 - https://github.com/islamadel/bat2exe    将bat文件转换为exe二进制文件
@@ -1315,7 +1316,8 @@
 - https://github.com/bettercap/bettercap    网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等
 - https://github.com/mitmproxy/mitmproxy    PY.支持SSL拦截，进行https流量代理
 - https://github.com/qiyeboy/BaseProxy    PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
-- https://github.com/lgandx/Responder    用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。a拿着b密码请求b，c对a说我是b，然后c获得了b的密码，https://www.secpulse.com/archives/65503.html 【脉搏译文系列】渗透师指南之Responder。
+- https://github.com/lgandx/Responder    PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。
+- https://www.secpulse.com/archives/65503.html    INTRO.【脉搏译文系列】渗透师指南之Responder。a拿着b密码请求b，c对a说我是b，然后c获得了b的密码。
 - https://github.com/Kevin-Robertson/Inveigh    一款PowerShell LLMNR / mDNS / NBNS欺骗器和中间人工具
 - https://github.com/LionSec/xerosploit    中间人攻击测试工具包
 - https://github.com/AlsidOfficial/WSUSpendu    可以自主创建恶意更新，并将其注入到WSUS服务器数据库中，然后随意的分发这些恶意更新
@@ -1910,6 +1912,7 @@
 - https://start.me/p/GE7JQb/osint    情报源
 - https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
 - https://www.osint-labs.org/apt/    情报源
+- https://www.xssav.com    情报聚合
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    红队开源和商业工具
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
 TheEnd
