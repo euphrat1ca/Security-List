@@ -787,11 +787,13 @@
 - https://github.com/euphrat1ca/CVE-2019-0232 Apache Tomcat Remote Code Execution on Windows - CGI-BIN
 - https://github.com/Lucifer1993/struts-scan PY.批量检测struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/lijiejie/struts2_045_scan Struts2-045漏洞批量扫描工具
-- https://github.com/jas502n/CVE-2018-3191 Weblogic CVE-2018-3191远程代码命令执行
-- https://github.com/pyn3rd/CVE-2018-3245 weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
-- https://github.com/TopScrew/CVE-2019-2725 weblogic命令回显+webshell上传+绕过
-- https://github.com/jas502n/CNVD-C-2019-48814 Weblogic wls9_async_response 反序列化利用工具。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961
+#### Weblogic系列漏洞
+- https://github.com/dr0op/WeblogicScan    PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
 - https://github.com/mu0gua/VulnPOC 心脏滴血 heartbleed；cve-2019-2618 Weblogic；cve-2019-3395 Confluence
+- https://github.com/pyn3rd/CVE-2018-3245 weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
+- https://github.com/jas502n/CVE-2018-3191 Weblogic CVE-2018-3191远程代码命令执行
+- https://github.com/TopScrew/CVE-2019-2725 wls9_async_response.war 和 wls-wsat.war组件无身份认证授权远程RCE漏洞。命令回显+webshell上传+绕过
+- https://github.com/jas502n/CNVD-C-2019-48814 Weblogic wls9_async_response 反序列化利用工具。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961
 ## 网站扫描器漏洞检测
 - https://www.acunetix.com/web-vulnerability-scanner/ Acunetix WVS扫描器，支持win/Linux。商业版，有补丁
 - https://www.tenable.com/downloads/nessus 商业版漏洞扫描器，系统漏洞检测功能突出。商业版，有Nessus无IP限制版虚拟机
