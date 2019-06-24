@@ -224,6 +224,7 @@ address | introduce |
 - https://github.com/userlandkernel/plataoplomo Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://bugreader.com 国外知名厂商漏洞描述
 - https://github.com/hongriSec/CTF-Training 收集各大CTF比赛的题目和Writeup
+- https://github.com/balsn/ctf_writeup    CTF writeups from Balsn
 - https://github.com/1hack0/bug-bounty-101 挖洞技术手册
 ### 学习靶场
 - https://www.root-me.org root me在线靶场
@@ -678,14 +679,14 @@ address | introduce |
 - https://github.com/JonCooperWorks/judas    GO.克隆网站钓鱼
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads 负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
-- https://github.com/trustedsec/social-engineer-toolkit 专为社交工程设计的开源渗透测试框架
+- https://github.com/trustedsec/social-engineer-toolkit    PY.TrustedSec开发的专为社交工程设计的开源渗透测试框架,支持网站克隆、邮件伪造、反弹shell等
 - https://github.com/thelinuxchoice/blackeye    PY.拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
 - https://github.com/M4cs/BlackEye-Python    PY.以blackeye为基础，增加子域名模拟伪造功能
 - https://github.com/gophish/gophish    GO.拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
 - https://github.com/L4bF0x/PhishingPretexts 钓鱼模板
 - https://github.com/azizaltuntas/Camelishing    PY3.界面化社会工程学攻击辅助工具
 - https://github.com/tatanus/SPF    PY2.deefcon上的钓鱼系统
-- https://github.com/MSG-maniac/mail_fishing 甲方内部钓鱼系统
+- https://github.com/MSG-maniac/mail_fishing PHP.基于thinkphp的甲方邮件钓鱼系统
 - https://github.com/samyoyo/weeman 钓鱼的http服务器
 - https://github.com/Raikia/FiercePhish 可以管理所有钓鱼攻击的完整钓鱼框架，允许你跟踪单独的网络钓鱼活动，定时发送电子邮件等
 - https://github.com/securestate/king-phisher 可视化钓鱼活动工具包
@@ -695,7 +696,7 @@ address | introduce |
 - https://github.com/ustayready/CredSniper 使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
 - https://github.com/n0pe-sled/Postfix-Server-Setup 自动化建立一个网络钓鱼服务器
 - https://github.com/fireeye/PwnAuth OAuth滥用测试检测平台
-- https://github.com/jbtronics/CrookedStyleSheets php，使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
+- https://github.com/jbtronics/CrookedStyleSheets    php.使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 ### 邮件伪造
 - http://tool.chacuo.net/mailanonymous 在线邮件伪造
 - http://ns4gov.000webhostapp.com 在线邮件伪造
@@ -1335,7 +1336,7 @@ address | introduce |
 - https://github.com/deepzec/Bad-Pdf 生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF 向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 ### 中间人攻击流量劫持
-- https://github.com/bettercap/bettercap 网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等
+- https://github.com/bettercap/bettercap     GO.网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    PY.支持SSL拦截，进行https流量代理。greatjob。15k。
 - https://github.com/qiyeboy/BaseProxy    PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/lgandx/Responder    PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。
@@ -1537,7 +1538,7 @@ address | introduce |
 - https://github.com/RabitW/IoTSecurityNAT IoT测试系统，方便快速接入各种设备，进行安全测试
 - https://github.com/mushorg/conpot 针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
 - https://github.com/trombastic/PyScada/    PY2.基于Django的SCADA操作管理系统
-### CTF相关
+### CTF平台框架工具
 - https://ctf-wiki.github.io/ctf-wiki/ CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
 - https://github.com/gabemarshall/microctfs 小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot 部署多个pwn题到一个docker容器中
