@@ -1,4 +1,7 @@
-***项目简介***
+***项目简介***  
+address | introduce |
+-|-|-
+名字 | 介绍 |
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦屁股。
 ***
 # 安全相关资源列表
@@ -8,7 +11,7 @@
 - http://www.irongeek.com/i.php?page=security/hackingillustrated 国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon KCon大会文章PPT
 - https://github.com/SecWiki/sec-chart 安全思维导图集合
-- https://github.com/Mayter/sec-charts copy了sec-wiki的思维导图加上收藏的思维导图
+- https://github.com/Mayter/sec-charts 在sec-wiki的思维导图加上作者收藏
 - https://github.com/Ascotbe/Osmographic-brain-mapping 安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/knownsec/RD_Checklist 知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017 灰袍技能书2017版本
@@ -51,34 +54,41 @@
 - https://github.com/crazywa1ker/DarthSidious-Chinese 从0开始你的域渗透之旅。DarthSidious 中文版
 - https://paper.seebug.org/772/ 如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 - https://paper.seebug.org/913/ 如何打造自己的PoC框架-Pocsuite3-框架篇。simple
-## 应急响应
+## 安全运维
+- https://github.com/aqzt/kjyw 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
+- https://github.com/aqzt/sso 服务器安全运维规范（Server security operation）
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    Linux服务器保护。9k
+- https://github.com/SwiftOnSecurity/sysmon-config sysmon配置文件安装
+- http://www.freebuf.com/articles/network/169632.html 开源软件创建SOC的一份清单
+### nginx运维
+- https://github.com/trimstray/nginx-admins-handbook    nginx操作手册。8k
+- https://github.com/valentinxxx/nginxconfig.io/ 在线nginx配置文件生成，demo网址https://nginxconfig.io
+### 勒索病毒
 - https://github.com/jiansiting/Decryption-Tools 勒索病毒解决方案
 - https://www.nomoreransom.org 在线勒索病毒解决方案
+### 应急响应
 - https://www.secrss.com/articles/10986 一次攻防实战演习复盘总结。奇安信
 - https://bypass007.github.io/Emergency-Response-Notes/ 应急响应实战笔记。应急响应/日志分析/僵木蠕分析
 - https://github.com/tide-emergency/yingji PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/trimstray/iptables-essentials IP table常见防火墙规则与命令
 - https://github.com/ppabc/cc_iptables 收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
-### 运维管理/安全服务/checklist
+### 安全服务/checklist
 - https://github.com/juliocesarfort/public-pentesting-reports 由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
-- https://www.securitypaper.org/ SDL开发安全生命周期管理
-- https://github.com/FallibleInc/security-guide-for-developers 安全开发规范
-- https://github.com/SwiftOnSecurity/sysmon-config sysmon配置文件安装
-- https://github.com/valentinxxx/nginxconfig.io/ 在线nginx配置文件生成，demo网址https://nginxconfig.io
-- https://github.com/aqzt/kjyw 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
-- http://www.freebuf.com/articles/network/169632.html 开源软件创建SOC的一份清单
-- https://github.com/drduh/macOS-Security-and-Privacy-Guide PY.MacOS安全性基线
 - https://mitre.github.io/attack-navigator/enterprise/ mitre机构att&ck入侵检测条目
+- http://pentestmonkey.net/category/cheat-sheet 渗透测试常见条目
+- https://github.com/Jsitech/JShielder linux下服务器一键加固脚本
+- https://github.com/a13xp0p0v/kconfig-hardened-check 用于检查 Linux 内核配置中的安全加固选项的脚本
+- https://github.com/wstart/DB_BaseLine 数据库基线检查工具
+- https://github.com/drduh/macOS-Security-and-Privacy-Guide PY.MacOS安全性基线
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q 区块链，以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist 区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://github.com/0xRadi/OWASP-Web-Checklist owasp网站检查条目
 - https://github.com/GitGuardian/APISecurityBestPractices api接口测试checklist
 - https://xz.aliyun.com/t/2089 金融科技SDL安全设计checklist
-- http://pentestmonkey.net/category/cheat-sheet 渗透测试常见条目
-- https://github.com/aqzt/sso 服务器安全运维规范（Server security operation）
-- https://github.com/Jsitech/JShielder linux下服务器一键加固脚本
-- https://github.com/a13xp0p0v/kconfig-hardened-check 用于检查 Linux 内核配置中的安全加固选项的脚本
-- https://github.com/wstart/DB_BaseLine 数据库基线检查工具
+### 安全开发
+- https://github.com/FallibleInc/security-guide-for-developers 安全开发规范
+- https://www.securitypaper.org/ SDL开发安全生命周期管理
+- https://github.com/shieldfy/API-Security-Checklist    api开发核对清单。12k。
 ## 安全学习手册
 - https://github.com/HarmJ0y/CheatSheets 多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html Coablt strike官方教程中文译版本
@@ -104,14 +114,15 @@
 - https://space.bilibili.com/37422870 入门安全视频
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26 华为e学云。安全科普
 - https://github.com/tiancode/learn-hacking 网络安全入门文章集
-- https://www.freebuf.com/articles/neopoints/190895.html 信息安全入门导航
 - https://www.lshack.cn 工控安全入门
+- https://keenlab.tencent.com/zh/index.html 腾讯科恩实验室
+- https://www.freebuf.com/articles/neopoints/190895.html    入门介绍。fuzz/漏挖/脚本
+- https://github.com/ym2011/SecurityManagement 分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - http://topspeedsnail.com 常见的wifi破解、网站扫描技术演示
 - https://www.cisco.com/c/zh_cn/about/video/IOT_security_video.html 利用保龄球社团网站及温度调节器，窃走企业研发蓝图
-- https://keenlab.tencent.com/zh/index.html 腾讯科恩实验室
-- https://github.com/ym2011/SecurityManagement 分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://lcx.cc NuclearAtk核总。文章/工具
 - https://cn0xroot.com/ 雪碧。通信硬件
+- https://null-byte.wonderhowto.com    msf/fb/wifi/pass/取证/social/信息搜集
 ### OSCE漏洞挖掘
 - https://www.freebuf.com/news/206041.html 中文首发丨OSCE（Offensive Security Certified Expert）考证全攻略
 - https://github.com/ihack4falafel/OSCE #
@@ -215,11 +226,11 @@
 - https://github.com/hongriSec/CTF-Training 收集各大CTF比赛的题目和Writeup
 - https://github.com/1hack0/bug-bounty-101 挖洞技术手册
 ### 学习靶场
+- https://www.root-me.org root me在线靶场
+- https://www.hackthebox.eu HTB在线靶场
+- https://0xrick.github.io/categories/    hack the box靶场write up，二进制逆向
 - https://www.pentesteracademy.com 攻防技术认证。商业版
 - https://www.offensive-security.com/information-security-certifications/ kali攻防技术认证。商业版
-- https://www.root-me.org root me在线靶场
-- https://www.hackthebox.eu 在线靶场挑战
-- https://0xrick.github.io/hack-the-box/bighead/ Hack The Box - BigHead关卡write-ups
 - https://www.cybrary.it 网络安全工程师认证。CTF/Labs
 - https://www.ichunqiu.com/experiment/direction i春秋实验室。Web/主机/应用
 - https://www.mozhe.cn/bug 墨者学院在线靶场。Web/主机/数据库/取证
@@ -304,6 +315,7 @@
 - https://github.com/xairy/linux-kernel-exploitation #
 - https://azeria-labs.com/ arm 溢出
 ### 常用漏洞库与SRC
+- https://sploitus.com    公开漏洞搜索引擎。greatjob。
 - https://github.com/raminfp/linux_exploit_development linux漏洞利用开发手册
 - https://wooyun.kieran.top/#!/ 2016年之前，乌云Drops文章，公开漏洞详情文章
 - https://wooyun.js.org/ 2016年之前，乌云Drops文章，公开漏洞详情文章
@@ -319,7 +331,7 @@
 - https://zeroday.hitcon.org/vulnerability/ 台湾公开漏洞库
 - https://nvd.nist.gov/vuln/search 美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com IBM exchange漏洞库
-- twitter搜索 CVE RCE #
+- twitter搜索“#exploit”、“#0day”、“CVE RCE”    #
 - https://www.zerodayinitiative.com/ 设备（firmware）漏洞市场
 - http://www.zerodium.com/ 漏洞市场
 - https://0day.today 漏洞市场
@@ -688,12 +700,14 @@
 ### 邮件伪造
 - http://tool.chacuo.net/mailanonymous 在线邮件伪造
 - http://ns4gov.000webhostapp.com 在线邮件伪造
-- https://salmon-mail.readthedocs.io PY.邮件服务器
-- https://github.com/PHPMailer/PHPMailer PHP，PHP发送邮件的组件
 - https://github.com/Dionach/PhEmail PY2.钓鱼与邮件伪造
 - https://github.com/lunarca/SimpleEmailSpoofer PY.域名伪造钓鱼邮件
 - https://www.jetmore.org/john/code/swaks/ PERL，基于smtp的邮箱域名伪造测试工具
+- https://salmon-mail.readthedocs.io PY.邮件服务器
+- https://github.com/PHPMailer/PHPMailer PHP，PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端服务器，支持pgp加解密、隐私保护。8K。
 ## 漏洞收集
+- https://github.com/swisskyrepo/PayloadsAllTheThings    web漏洞/CVE/WIN。8K.
 - https://github.com/mudongliang/LinuxFlaw 包含linux下软件漏洞列表
 - http://www.moonsec.com/post-389.html 破壳漏洞GNU BASH漏洞远程检测工具（CVE-2014-6271)
 - https://github.com/Lcys/Python_PoC python3的poc、exp快速编写模板，有众多模范版本
@@ -1323,7 +1337,7 @@
 - https://github.com/3gstudent/Worse-PDF 向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 ### 中间人攻击流量劫持
 - https://github.com/bettercap/bettercap 网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等
-- https://github.com/mitmproxy/mitmproxy PY.支持SSL拦截，进行https流量代理
+- https://github.com/mitmproxy/mitmproxy PY.支持SSL拦截，进行https流量代理。greatjob。15k。
 - https://github.com/qiyeboy/BaseProxy PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/lgandx/Responder PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。
 - https://www.secpulse.com/archives/65503.html INTRO.【脉搏译文系列】渗透师指南之Responder。a拿着b密码请求b，c对a说我是b，然后c获得了b的密码。
@@ -1338,7 +1352,7 @@
 - https://github.com/0v3rl0w/e013 窃取Wifi密码. VB脚本
 - https://github.com/cls1991/ng 获取你当前连接wifi的密码与ip
 - https://github.com/wi-fi-analyzer/fluxion 窃取用户wifi密码的进行密码重放攻击
-- https://github.com/wifiphisher/wifiphisher PY.中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取
+- https://github.com/wifiphisher/wifiphisher PY.中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取。goodjob。7k
 - https://github.com/1N3/PRISM-AP 自动部署RogueAP(恶意热点) MITM攻击框架
 - https://github.com/sensepost/mana Wifi劫持工具，可以监听计算机或其他移动设备的Wifi通信，并能够模仿该设备
 - https://github.com/deltaxflux/fluxion bash与PY.对使用wpa协议的无线网络进行MiTM攻击
@@ -1468,6 +1482,7 @@
 - https://github.com/openitsystem/itops PY3\DJANGO.AD\Exchange管理系统
 - https://github.com/tmobile/pacbot JAVA.云平台自动化安全监控工具
 ### 代码审计应用测试
+- https://www.joinfortify.com    Fortify SCA是HP出品的静态白盒软件源代码安全测试工具。商业版。goodjob。
 - https://github.com/wufeifei/cobra PY.源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。
 - https://www.waitalone.cn/seay-source-code-auditv2.html Seay源代码审计系统2.1版本
 - https://github.com/OneSourceCat/phpvulhunter 静态php代码审计
@@ -1544,21 +1559,22 @@
 ## 逆向破解
 - https://down.52pojie.cn/ 吾爱破解爱盘工具包。https://github.com/ganlvtech/down_52pojie_cn 网盘源码
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide 恶意软件逆向指南和工具的集合
-- https://github.com/ReFirmLabs/binwalk 对固件、二进制、pwn等文件实现识别与自动化逆向。可配置多种插件
-- http://www.binaryanalysis.org Binary Analysis Toolkit（BAT）对固件、二进制、pwn等文件实现识别与自动化逆向。
-- https://github.com/angr/angr 一个具有动态符号执行和静态分析的二进制分析工具
-- https://github.com/DominicBreuker/pspy PY.绕过root权限监控进程运行
-- https://www.hex-rays.com IDApro反汇编工具
-- http://www.ollydbg.net 可视化界面的32位汇编分析调试器
+- https://github.com/ReFirmLabs/binwalk    PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
+- https://github.com/radare/radare2    C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。
+- https://github.com/armijnhemel/binaryanalysis-ng     PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
+- https://github.com/angr/angr    PY.二进制分析工具,支持动态符号执行和静态分析。3k。
+- https://www.hex-rays.com IDA pro反汇编工具。商业版。32位汇编分析调试器ollydbg
+- https://github.com/x64dbg/x64dbg    C++.x64/x32 Windows调试工具。greatjob。34k。
 - https://github.com/NationalSecurityAgency/ghidra NSA出品的软件逆向动态调试框架Ghidra
 - https://github.com/ghidraninja/ghidra_scripts Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
-- http://www.capstone-engine.org Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。
+- http://www.capstone-engine.org Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
 - https://github.com/joxeankoret/pyew PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
-- https://www.radare.org C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等
+- https://github.com/DominicBreuker/pspy PY.绕过root权限监控进程运行
 ### 程序调试进程管理
 - https://github.com/processhacker/processhacker 监控系统资源、软件调试、检测恶意软件，管理进程
 - https://docs.microsoft.com/en-us/sysinternals/ 微软系统工具套装。Sysmon（系统监控）/autorun（自启动）/Process Explorer（加强进程管理）等
+- https://github.com/osquery/osquery    C++.跨平台讲系统状态模拟为关系数据库，用sql语句查看运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。14k。
 - https://github.com/kkamagui/shadow-box-for-x86 C。X86架构Linux轻量系统监控
 - https://github.com/kkamagui/shadow-box-for-arm C.PY。ARM架构Linux轻量系统监控
 - https://osquery.io facebook开源的osquery跨平台系统监控、分析、查询软件
@@ -1928,7 +1944,8 @@
 - https://github.com/FortyNorthSecurity/EyeWitness 获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 ***
 **个人维护的安全预警维基百科，根据中华人民共和国《网络安全法》相关政策规定，本文章只做安全预警，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担**
-- https://github.com/We5ter/Scanners-Box 增加条目，细化分类
+- https://github.com/We5ter/Scanners-Box 增加条目，细化分类。4k
+- https://github.com/topics/security    GitHub安全类目
 - https://www.anquanke.com/opensource github搜索引擎
 - https://start.me/p/X20Apn 听风者情报源
 - https://start.me/p/GE7JQb/osint 情报源
