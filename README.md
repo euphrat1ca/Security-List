@@ -142,6 +142,7 @@ address | introduce |
 - http://dingba.top/qqzk 全球智库
 - cdn.databases.today，www.databases.today，publicdbhost.dmca.gripe，www.wttech.org，hashes.org/leaks.php，rchive.org/search.php?query= 密码泄露
 - https://weleakinfo.com 密码泄露
+- https://opendata.rapid7.com    Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - https://www.i-intelligence.eu 情报收集组织。开源情报工具和资源手册2018版(open source intelligence tools and resources handbook)
 - https://www.start.umd.edu/gtd/ 全球恐怖主义动向数据库官网
 - https://osint.link Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
