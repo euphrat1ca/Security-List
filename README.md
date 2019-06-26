@@ -133,7 +133,7 @@ address | introduce |
 - https://github.com/foobarto/redteam-notebook OSCP-EXAM 红队标准渗透测试流程+常用命令
 - https://github.com/gajos112/OSCP OSCP-EXAM
 - https://github.com/RustyShackleford221/OSCP-Prep OSCP-EXAM
-- https://www.lshack.cn/849/ oscp备战
+- https://github.com/lsh4ck/oscp    oscp历程。lshack.cn备战
 ## 数据分析
 - http://pandas.pydata.org 数据分析
 - https://github.com/r0f1/datascience 大数据分析功能库推荐
@@ -312,7 +312,7 @@ address | introduce |
 - https://bbs.ichunqiu.com/thread-24898-1-1.html Test404 -HTTP Fuzzer V3.0
 - http://blog.topsec.com.cn/alphafuzzer/    启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
 ### 学习二进制pwn
-- https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology 0day安全：软件漏洞分析技术（第2版）
+- https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    0day安全：软件漏洞分析技术（第2版）
 - 漏洞战争：软件漏洞分析精要 #
 - 加密与解密（第4版） #
 - modern windows exploit #
