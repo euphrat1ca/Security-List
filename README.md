@@ -1111,20 +1111,20 @@ address | introduce |
 - https://github.com/nil0x42/phpsploit    PY3.利用特定的一句话脚本对网站进行管理
 - https://github.com/wonderqs/Blade    PY.利用特定的一句话脚本对网站进行管理
 - https://github.com/anestisb/WeBaCoo    perl.利用特定的一句话脚本对网站进行管理
-- https://github.com/keepwn/Altman    .net,mono.跨平台菜刀
+- https://github.com/keepwn/Altman    .Net,mono.跨平台菜刀
 - https://github.com/antonioCoco/SharPyShell ASP.NET webshell for C# web applications
 - https://github.com/k4mpr3t/b4tm4n 可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws 过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    php.网站管理，默认密码b374k
 - https://github.com/wso-shell/WSO webshell的文件管理，可以伪装为404界面
 - https://github.com/UltimateHackers/nano    php.一句话，附带py编写的生成器
-- https://github.com/rebeyond/memShell 一款可以写入java web server内存中的无文件webshell
-- https://github.com/DXkite/freebuf-stream-shell PHP使用流包装器实现WebShell。freebuf上有详细文章
-- https://xz.aliyun.com/t/2799 利用动态二进制加密实现新型一句话木马之客户端篇
-- https://github.com/rebeyond/Behinder “冰蝎”动态二进制加密网站管理客户端
-- https://xz.aliyun.com/t/2744#toc-8 利用动态二进制加密实现新型一句话木马之Java篇
-- https://xz.aliyun.com/t/2758#toc-4 利用动态二进制加密实现新型一句话木马之.NET篇
-- https://xz.aliyun.com/t/2774#toc-4 利用动态二进制加密实现新型一句话木马之PHP篇
+- https://github.com/rebeyond/memShell    JAVA.一款可以写入java web server内存中的无文件webshell
+- https://github.com/DXkite/freebuf-stream-shell    PHP.使用流包装器实现WebShell。freebuf介绍。
+- https://xz.aliyun.com/t/2799    intro.利用动态二进制加密实现新型一句话木马之客户端篇
+- https://github.com/rebeyond/Behinder    JAVA6.“冰蝎”动态二进制加密网站管理客户端
+- https://xz.aliyun.com/t/2744#toc-8    intro.利用动态二进制加密实现新型一句话木马之Java篇
+- https://xz.aliyun.com/t/2758#toc-4    intro.利用动态二进制加密实现新型一句话木马之.NET篇
+- https://xz.aliyun.com/t/2774#toc-4    intro.利用动态二进制加密实现新型一句话木马之PHP篇
 # 后渗透拓展
 - https://github.com/OpenWireSec/metasploit 后渗透框架
 - https://github.com/EmpireProject/Empire 基于poweshell的命令执行框架
@@ -1292,8 +1292,8 @@ address | introduce |
 - https://github.com/mschwager/0wned 利用python包进行高权限用户创建
 - https://github.com/mzet-/linux-exploit-suggester 查找linux有哪些补丁没有打的脚本
 - https://github.com/belane/linux-soft-exploit-suggester 查找linux有哪些有漏洞的软件
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs 脏牛提权漏洞exp。https://dirtycow.ninja
-- https://github.com/gbonacini/CVE-2016-5195 脏牛提权漏洞exp
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    C.脏牛提权漏洞exp集合wiki。https://dirtycow.ninja。2.3k。
+- https://github.com/euphrat1ca/CVE-2016-5195    C++,GO.脏牛提权漏洞exp。release。
 - https://github.com/jas502n/CVE-2018-17182 Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
 - https://github.com/stanleyb0y/sushell 利用su小偷实现低权限用户窃取root用户口令
 - https://github.com/jas502n/CVE-2018-17182/ Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
@@ -1317,6 +1317,7 @@ address | introduce |
 - https://github.com/foxglovesec/Potato RottenPotatoNG变种，利用本地域名欺骗和代理欺骗提权
 - https://github.com/DanMcInerney/icebreaker 处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/hausec/ADAPE-Script Active Directory权限提升脚本
+- https://github.com/euphrat1ca/ms15-051    C++.Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)。release。
 - https://github.com/klionsec/BypassAV-AllThings 利用aspx一句话配合提权payload提权
 - https://github.com/St0rn/Windows-10-Exploit PY\msf插件，win10 uac bypass
 - https://github.com/sam-b/CVE-2014-4113 利用Win32k.sys内核漏洞进行提取，ms14-058
@@ -1820,7 +1821,7 @@ address | introduce |
 - https://signal.org #
 - http://www.batmessenger.com #
 - http://sid.co #
-### 办公套件
+## 办公套件
 - https://sadd.io/ 在线操作系统
 - https://etherpad.net/ 在线可编辑记事本
 - https://www.upload.ee/ 文件共享平台
@@ -1840,6 +1841,8 @@ address | introduce |
 - https://github.com/tmux/tmux 命令行功能加强工具
 - https://cmder.net 命令行功能加强
 - https://github.com/nvbn/thefuck    PY.命令行自动补全改错工具
+- http://ohshitgit.com/    git操作手册
+- https://www.rejetto.com/hfs/    DELPHI.HFS文件上传下载管理工具服务器
 - https://www.mythicsoft.com 全文检索工具
 - https://www.voidtools.com 文件和文件夹快速定位
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen putty远程服务管理工具。MobaXterm注册机
@@ -1928,8 +1931,6 @@ address | introduce |
 - https://zhuanlan.zhihu.com/p/64895011 神经网络深度学习框架PyTorch
 - https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    PY.微信个人号 API
-- https://github.com/liuwons/wxBot    PY.微信机器人
-- https://github.com/JeffreySu/WeiXinMPSDK    C#.微信平台SDK
 ### 编辑器
 - https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
 ### Web应用框架
