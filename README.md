@@ -1,7 +1,7 @@
 address | introduce |
 -|-|-
 名字 | 介绍 |
-***
+  ***  
 ***项目简介***
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦屁股。
 # 安全相关资源列表
@@ -168,6 +168,7 @@ address | introduce |
 - https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv CobaltStrike服务端IP地址
 - https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1 洋葱路由出口节点
 - https://isc.sans.edu/api/threatlist/shodan shodan撒旦扫描器节点
+- https://vulnerablecontainers.org    对公开docker镜像漏洞扫描，并标出CVE号
 - https://github.com/ReAbout/datacon DataCon-方向三-攻击源与攻击者分析-writeup
 ### APT威胁情报
 - https://github.com/blackorbird/APT_REPORT apt组织报告与公开文件
@@ -227,7 +228,7 @@ address | introduce |
 - https://github.com/Ivan1ee/NET-Deserialize .Net反序列化漏洞
 - https://github.com/hongriSec/CTF-Training 收集各大CTF比赛的题目和Writeup
 - https://github.com/balsn/ctf_writeup    CTF writeups from Balsn
-- https://www.exploit-db.com     美国Offensive Security的漏洞库。kali团队，自带poc/exp，MSF插件
+- https://www.exploit-db.com    美国Offensive Security的漏洞库。kali团队，自带poc/exp，MSF插件
 - https://bugreader.com    国外知名厂商公开漏洞详情
 - https://blog.intigriti.com    intigriti公司bug bounty文章和公开漏洞详情
 - https://hackerone.com/hacktivity    HACKER ONE公开漏洞详情
@@ -238,14 +239,13 @@ address | introduce |
 - https://sploitus.com    公开漏洞搜索引擎。greatjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    #
 - https://github.com/raminfp/linux_exploit_development linux漏洞利用开发手册
-- https://wooyun.kieran.top/#!/ 2016年之前，乌云Drops文章，公开漏洞详情
-- https://wooyun.js.org/ 2016年之前，乌云Drops文章，公开漏洞详情
-- http://ics.cnvd.org.cn     中国国家工控漏洞库
-- https://ics-cert.us-cert.gov/advisories     美国国家工控漏洞库
+- https://drops.secquan.org    2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
+- http://ics.cnvd.org.cn    中国国家工控漏洞库
+- https://ics-cert.us-cert.gov/advisories    美国国家工控漏洞库
 - http://www.nsfocus.net/index.php?act=sec_bug 绿盟漏洞库，含工控
-- http://ivd.winicssec.com/     威努特工控漏洞库
-- http://cve.scap.org.cn/view/ics     CVE中文工控漏洞库
-- https://cve.mitre.org/cve/search_cve_list.html     美国MITRE公司负责维护的CVE漏洞库
+- http://ivd.winicssec.com/    威努特工控漏洞库
+- http://cve.scap.org.cn/view/ics    CVE中文工控漏洞库
+- https://cve.mitre.org/cve/search_cve_list.html    美国MITRE公司负责维护的CVE漏洞库
 - https://nvd.nist.gov/vuln/search    美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    IBM exchange漏洞库
 - https://www.zerodayinitiative.com/    设备（firmware）漏洞市场
@@ -452,7 +452,7 @@ address | introduce |
 - https://github.com/WayzDev/Kage MSF的GUI界面，Session Handler
 #### CobaltStrike相关工具拓展插件
 - https://github.com/rsmudge/armitage    JAVA.CobaltStrike社区版，调用msf，多session带界面
-- https://wbglil.gitbooks.io/cobalt-strike/content/     JAVA.Cobalt Stike中文使用文档，软件。
+- https://wbglil.gitbooks.io/cobalt-strike/content/    JAVA.Cobalt Stike中文使用文档，软件。
 - https://github.com/verctor/CS_xor64    JAVA.生成cobaltstrike破解版所需的xor64.bin
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    Cobalt Strike SCT有效载荷混淆器
 - https://github.com/dcsync/pycobalt    PY3.Python API for Cobalt Strike
@@ -708,7 +708,7 @@ address | introduce |
 - https://www.jetmore.org/john/code/swaks/ PERL，基于smtp的邮箱域名伪造测试工具
 - https://salmon-mail.readthedocs.io    PY.邮件服务器
 - https://github.com/PHPMailer/PHPMailer PHP，PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile       PY,JS.邮件客户端服务器，支持pgp加解密、隐私保护。8K。
+- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端服务器，支持pgp加解密、隐私保护。8K。
 ## 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    web漏洞/CVE/WIN。8K.
 - https://github.com/mudongliang/LinuxFlaw 包含linux下软件漏洞列表
@@ -1062,8 +1062,8 @@ address | introduce |
 - https://github.com/jmk-foofus/medusa    C.Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    C.支持多种协议的破解与爆破
 - https://github.com/lanjelot/patator 支持多种协议的爆破，采用模块化设计，使用灵活
-- https://github.com/euphrat1ca/F-Scrack ysrc对各类服务用户名密码爆破的脚本
-- https://github.com/netxfly/crack_ssh        GO.协程版ssh\redis\mongodb弱口令破解
+- https://github.com/euphrat1ca/F-Scrack    PY2.对各类服务用户名密码爆破的脚本.ysrc
+- https://github.com/netxfly/crack_ssh    GO.协程版ssh\redis\mongodb弱口令破解
 - https://github.com/scu-igroup/ssh-scanner 联动nmap、hydra对ssh批量爆破
 - https://github.com/ztgrace/changeme 弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
 - https://github.com/m4ll0k/SMBrute 利用smb服务进行用户名密码爆破
@@ -1341,7 +1341,7 @@ address | introduce |
 - https://github.com/deepzec/Bad-Pdf 生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF 向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 ### 中间人攻击流量劫持
-- https://github.com/bettercap/bettercap     GO.网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
+- https://github.com/bettercap/bettercap    GO.网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    PY.支持SSL拦截，进行https流量代理。greatjob。15k。
 - https://github.com/qiyeboy/BaseProxy    PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/lgandx/Responder    PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。
@@ -1567,15 +1567,15 @@ address | introduce |
 - https://down.52pojie.cn/ 吾爱破解爱盘工具包。https://github.com/ganlvtech/down_52pojie_cn 网盘源码
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide 恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
-- https://github.com/radare/radare2       C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。
+- https://github.com/radare/radare2    C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。
 - https://github.com/armijnhemel/binaryanalysis-ng    PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
 - https://github.com/angr/angr    PY.二进制分析工具,支持动态符号执行和静态分析。3k。
-- https://www.hex-rays.com IDA pro反汇编工具。商业版。32位汇编分析调试器ollydbg
+- https://www.hex-rays.com    IDA pro反汇编工具。商业版。32位汇编分析调试器ollydbg
 - https://github.com/x64dbg/x64dbg    C++.x64/x32 Windows调试工具。greatjob。34k。
-- https://github.com/NationalSecurityAgency/ghidra NSA出品的软件逆向动态调试框架Ghidra
-- https://github.com/ghidraninja/ghidra_scripts Ghidra的Binwal\Yara联动插件
+- https://github.com/NationalSecurityAgency/ghidra    JAVA.NSA出品的软件逆向动态调试框架Ghidra
+- https://github.com/ghidraninja/ghidra_scripts    YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
-- http://www.capstone-engine.org Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
+- https://github.com/aquynh/capstone    C.Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
 - https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
 - https://github.com/DominicBreuker/pspy    PY.绕过root权限监控进程运行
 ### 程序调试进程管理
@@ -1596,26 +1596,29 @@ address | introduce |
 - https://github.com/zrax/pycdc    C++.全版本python反编译
 - https://github.com/countercept/python-exe-unpacker    PY.py2exe or pyinstaller打包解压缩
 - https://github.com/blacknbunny/peanalyzer32    PY3.PE 文件分析和反汇编工具
+- https://github.com/java-decompiler/jd-gui    JAVA.java反编译工具。greatjob。7k。
 ## 移动安全
 - https://github.com/Brucetg/App_Security App安全学习资源
+- https://github.com/sensepost/objection    PY.移动端动态调试安全检测，Frida公司开发。goodjob。
+- https://github.com/MobSF/Mobile-Security-Framework-MobSF    软件自动化审计框架，支持docker运行。android、ios、win
+- https://github.com/mwrlabs/drozer    PY.MWR Labs开源Android 安全测试框架，支持编写自定义模块。
+- https://github.com/nccgroup/house    JS,PY.运行时手机 App 分析工具包， 带Web GUI
+- https://github.com/nettitude/scrounger    PY.Linux下iOS和Android移动应用程序渗透测试框架
+- https://github.com/lyxhh/lxhToolHTTPDecrypt    js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。
+### Android/JAVA安全
 - https://github.com/rovo89/Xposed    C++.Android动态修改hook。greatjob。
 - https://github.com/asLody/VirtualApp 安卓虚拟机，多开助手
-- https://github.com/android-hacker/VirtualXposed 基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
-- https://github.com/XekriCorp/LeakVM 安卓应用安全测试框架，已下架
-- https://github.com/dweinstein/awesome-frida    PY,JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架。greatjob。
-- https://github.com/sensepost/objection    PY.移动端动态调试安全检测，Frida公司开发。goodjob。
-- https://github.com/MobSF/Mobile-Security-Framework-MobSF 软件自动化审计框架，支持docker运行。android、ios、win
-- https://github.com/mwrlabs/drozer    PY.MWR Labs开源Android 安全测试框架，支持编写自定义模块。
-- https://github.com/programa-stic 基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
-- https://github.com/WooyunDota/DroidSSLUnpinning 安卓证书锁定解除的工具
-- https://github.com/jboss-javassist/javassist 能够操作字节码框架，通过它我们能很轻易的修改class代码文件
+- https://github.com/android-hacker/VirtualXposed    基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
+- https://github.com/XekriCorp/LeakVM    安卓应用安全测试框架，已下架
 - https://www.pd521.com 逆向未来，Android Killer安卓逆向工具
-- https://github.com/iBotPeaches/Apktool Android逆向反编译工具
-- https://github.com/nccgroup/house 运行时手机 App 分析工具包， 带Web GUI
-- https://github.com/nettitude/scrounger iOS和Android移动应用程序渗透测试框架
-- https://github.com/lyxhh/lxhToolHTTPDecrypt    js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。
+- https://github.com/dweinstein/awesome-frida    PY,JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架。greatjob。
+- https://github.com/pxb1988/dex2jar    JAVA. android .dex and java .class 文件逆向反编译
+- https://github.com/iBotPeaches/Apktool    java.Android逆向apk反编译工具.8K.
 - https://github.com/zsdlove/ApkVulCheck    PY3.安卓apk后进行特征值匹配，不是很好用
-- https://github.com/UltimateHackers/Diggy bash，apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
+- https://github.com/jboss-javassist/javassist    JAVA.能够操作字节码框架，通过它我们能很轻易的修改class代码文件。2.2K
+- https://github.com/UltimateHackers/Diggy    bash,apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
+- https://github.com/programa-stic    基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
+- https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 ### IOS与macOS安全
 - https://github.com/dmayer/idb    RUBY.开源的iOS App安全评估工具，作者是Danl A.Mayer。
 - https://github.com/mwrlabs/needle    PY.MWR Labs开发的一个开源iOS安全测试框架，同样支持开发自定义模块来扩展Needle的功能，目前主要功能包含对iOS应用数据存储，IPC.网络通信，静态代码分析，hooking及二进制文件防护等方面的安全审计。
@@ -1713,12 +1716,14 @@ address | introduce |
 - http://packetlife.net/captures/ 站点内容包括协议cheat sheet导图
 - http://speed.cis.nctu.edu.tw/pcaplib/ NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles netresec公司维护。产品包括网络取证与监控，networkminer，caploader，rawcao
-### 日志分析
-- https://github.com/Cyb3rWard0g/HELK 基于ELK的日志威胁分析
+### 日志分析与可视化
+- https://github.com/grafana/grafana    TypeScript,GO.用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
+- https://github.com/Cyb3rWard0g/HELK    Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
 - https://github.com/JeffXue/web-log-parser    PY.web日志分析工具
-- https://github.com/JPCERTCC/LogonTracer 根据win登陆记录日志来分析并用图形化展示恶意登陆行为
-- https://github.com/jpcertcc/sysmonsearch 将Sysmon的日志结果可视化
-- https://github.com/zhanghaoyil/Hawk-I 基于无监督机器学习算法从Web日志中自动提取攻击Payload
+- https://github.com/JPCERTCC/LogonTracer    JS,PY.根据win登陆记录日志来分析并用图形化展示恶意登陆行为
+- https://github.com/jpcertcc/sysmonsearch    JS.将Sysmon的日志结果可视化
+- https://github.com/olafhartong/sysmon-cheatsheet    Sysmon操作手册，各id属性含义
+- https://github.com/zhanghaoyil/Hawk-I    PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
 ### 恶意文件样本
 - https://github.com/open-power-workgroup/Hospital 全国莆田系医院名单
 - https://github.com/chenerlich/FCL 恶意代码使用的命令行收集
