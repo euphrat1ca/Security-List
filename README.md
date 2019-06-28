@@ -238,11 +238,11 @@ address | introduce |
 ### 常用漏洞库/SEC/BugBounty
 - https://sploitus.com    公开漏洞搜索引擎。greatjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    #
-- https://github.com/raminfp/linux_exploit_development linux漏洞利用开发手册
+- https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
 - https://drops.secquan.org    2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
 - http://ics.cnvd.org.cn    中国国家工控漏洞库
 - https://ics-cert.us-cert.gov/advisories    美国国家工控漏洞库
-- http://www.nsfocus.net/index.php?act=sec_bug 绿盟漏洞库，含工控
+- http://www.nsfocus.net/index.php?act=sec_bug    绿盟漏洞库，含工控
 - http://ivd.winicssec.com/    威努特工控漏洞库
 - http://cve.scap.org.cn/view/ics    CVE中文工控漏洞库
 - https://cve.mitre.org/cve/search_cve_list.html    美国MITRE公司负责维护的CVE漏洞库
@@ -1328,6 +1328,7 @@ address | introduce |
 - https://github.com/dirkjanm/PrivExchange    PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/ INTRO.CVE-2019-1040利用exchange提权PrivExchange
 ### 文件捆绑
+- http://www.angusj.com/resourcehacker    Windows对程序属性的修改，修改图标属性等。
 - bat2exe.net 相类似也可以利用iexpress与winrar生成自解压exe可执行文件
 - https://github.com/islamadel/bat2exe 将bat文件转换为exe二进制文件
 - https://github.com/tywali/Bat2ExeConverter 将bat文件转换为exe二进制文件
@@ -1579,6 +1580,7 @@ address | introduce |
 - https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
 - https://github.com/DominicBreuker/pspy    PY.绕过root权限监控进程运行
 ### 程序调试进程管理
+- https://www.crystalidea.com/uninstall-tool Windows卸载，软件安装跟踪。商业版。
 - https://github.com/processhacker/processhacker 监控系统资源、软件调试、检测恶意软件，管理进程
 - https://docs.microsoft.com/en-us/sysinternals/ 微软系统工具套装。Sysmon（系统监控）/autorun（自启动）/Process Explorer（加强进程管理）等
 - https://github.com/osquery/osquery    C++.跨平台讲系统状态模拟为关系数据库，用sql语句查看运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。14k。
@@ -1851,9 +1853,9 @@ address | introduce |
 - https://www.rejetto.com/hfs/    DELPHI.HFS文件上传下载管理工具服务器
 - https://www.mythicsoft.com 全文检索工具
 - https://www.voidtools.com 文件和文件夹快速定位
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen putty远程服务管理工具。MobaXterm注册机
-- https://github.com/DoubleLabyrinth/navicat-keygen 数据库管理工具navicat注册机
-- https://github.com/stascorp/rdpwrap Pascal。开启异步并发rdp请求服务
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    PY.putty远程服务管理工具。MobaXterm注册机
+- https://github.com/DoubleLabyrinth/navicat-keygen    C.数据库管理工具navicat注册机
+- https://github.com/stascorp/rdpwrap    Pascal.开启异步并发rdp请求服务
 ### 短网址
 - https://www.ft12.com 支持访问数据查询
 - http://sina.lt #
@@ -1872,38 +1874,46 @@ address | introduce |
 - https://verify-email.org 邮件真实性验证
 - http://www.vuln.cn/tools/ftp 在线FTP登录
 - https://pdos.csail.mit.edu/archive/scigen/ SCIgen 学术文档虚拟文件生成钓鱼
-## 在线资源
-- http://www.angusj.com/resourcehacker Windows对程序属性的修改
-- https://www.crystalidea.com/uninstall-tool Windows卸载
-- http://www.zdfans.com zd423 - 软件分享平台领跑者
-- https://www.flaticon.com 免费图标网站
-- https://www.wondercv.com/ 简历模板生成
-- https://msdn.itellyou.cn 原生镜像
+## 公开资源汇总
+- https://wn.run    万能命令.自动加载网站脚本，视频解析/下载/翻译/快照等。
+- https://2tool.top/    域名前面加上his.sh，网页快照
 - https://www.freenom.com 注册免费域名，dns解析
-- https://codebeautify.org 在线代码美化
-- http://patorjk.com Text to ASCII Art Generator
+- https://www.onlinedoctranslator.com/ 在线文档翻译
 - https://www.seopojie.com 推广链接SPAM，SEO
-- https://www.toolfk.com/ 程序员工具箱。文本对比/取坐标/转换/文档生成
 - http://www.mvyxws.com/ 常见医疗知识
+- https://zh.wikihow.com 生活百科
+- https://pandownload.com/ 下载
+- https://www.baiduwp.com/ 百度下载
+- http://www.speedpan.com/ 下载
+### 素材
+- https://msdn.itellyou.cn 原生镜像
+- http://patorjk.com Text to ASCII Art Generator
+- https://mixkit.co/ 在线视频素材
+- https://www.flaticon.com 免费图标网站
+- https://world-flags.org/worldflagstoha    国旗动漫化
+- https://www.wondercv.com/ 简历模板生成
+### 在线编辑
+- https://www.toolfk.com/ 程序员工具箱。文本对比/取坐标/转换/文档生成
+- https://codebeautify.org 在线代码美化
 - https://www.draw.io 在线思维导图/流程图
 - https://www.photopea.com/ 在线ps
 - http://edit.foxitcloud.cn/ 在线pdf编辑
 - https://www.pdfpai.com/ 在线pdf转换
 - http://www.alltoall.net/ 在线格式转换
-- https://www.onlinedoctranslator.com/ 在线文档翻译
-- https://mixkit.co/ 在线视频素材
-- https://zh.wikihow.com 生活百科
+### 资源下载
+- http://www.zdfans.com zd423 - 软件分享平台领跑者
 - https://www.cn-ki.net/ 知网、论文期刊检索下载
 - http://sci-hub.tw/ 文献、专利、书籍下载
+- http://wenku.baiduvvv.com/doc/    文库下载
 - http://www.1ppt.com/ 免费ppt下载
+### 搜索引擎
 - http://ac.scmor.com/ 谷歌搜索镜像
-- https://github.com/asciimoo/searx 搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
+- https://github.com/asciimoo/searx    PY.搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
 - https://www.gobaidugle.com 联合搜索
 - https://lookao.com/ 匿名搜索
 - https://mijisou.com/ 匿名搜索
-- https://pandownload.com/ 下载
-- https://www.baiduwp.com/ 百度下载
-- http://www.speedpan.com/ 下载
+### 视频下载
+- https://www.parsevideo.com/    视频解析
 - https://github.com/soimort/you-get    PY.视频下载
 ### 网站源码程序外包
 - http://www.mycodes.net 源码之家，大部分免费
