@@ -64,8 +64,8 @@ address | introduce |
 - https://github.com/trimstray/nginx-admins-handbook    nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/ 在线nginx配置文件生成，demo网址https://nginxconfig.io
 ### 勒索病毒
-- https://github.com/jiansiting/Decryption-Tools 勒索病毒解决方案
-- https://www.nomoreransom.org 在线勒索病毒解决方案
+- https://github.com/jiansiting/Decryption-Tools    勒索病毒解决方案汇总
+- https://www.nomoreransom.org    在线勒索病毒解决方案
 ### 应急响应
 - https://www.secrss.com/articles/10986 一次攻防实战演习复盘总结。奇安信
 - https://bypass007.github.io/Emergency-Response-Notes/ 应急响应实战笔记。应急响应/日志分析/僵木蠕分析
@@ -121,7 +121,7 @@ address | introduce |
 - https://www.cisco.com/c/zh_cn/about/video/IOT_security_video.html 利用保龄球社团网站及温度调节器，窃走企业研发蓝图
 - https://lcx.cc NuclearAtk核总。文章/工具
 - https://cn0xroot.com/ 雪碧。通信硬件
-- https://null-byte.wonderhowto.com    msf/fb/wifi/pass/取证/social/信息搜集
+- https://null-byte.wonderhowto.com    msf/fb/wifi/pass/取证/social/信息收集
 ### OSCE漏洞挖掘
 - https://www.freebuf.com/news/206041.html 中文首发丨OSCE（Offensive Security Certified Expert）考证全攻略
 - https://github.com/ihack4falafel/OSCE #
@@ -252,30 +252,29 @@ address | introduce |
 - http://www.zerodium.com/    灰色漏洞交易平台0day市场
 - https://0day.today    漏洞市场
 ### 学习靶场
-- https://www.root-me.org root me在线靶场
-- https://www.hackthebox.eu HTB在线靶场
-- https://0xrick.github.io/categories/    hack the box靶场write up，二进制逆向
-- https://www.pentesteracademy.com 攻防技术认证。商业版
-- https://www.offensive-security.com/information-security-certifications/ kali攻防技术认证。商业版
-- https://www.cybrary.it 网络安全工程师认证。CTF/Labs
-- https://www.ichunqiu.com/experiment/direction i春秋实验室。Web/主机/应用
-- https://www.mozhe.cn/bug 墨者学院在线靶场。Web/主机/数据库/取证
-- https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ 124个合法的可以练习Hacking技术的网站
-- https://www.zhihu.com/question/267204109 学web安全去哪里找各种各样的靶场？
-- https://www.wechall.net 世界知名ctf汇总交流网站
-- https://www.xssgame.com 谷歌XSS挑战
-- http://xss.tv Web在线靶场
-- http://www.itsecgames.com bWAPP，包含 100多种漏洞环境
-- https://www.vulnhub.com ctf靶机汇总
-- https://github.com/c0ny1/vulstudy 多种漏洞复现系统的docker汇总
-- https://github.com/bkimminich/juice-shop 常见web安全实验靶场市场
-- https://github.com/ethicalhack3r/DVWA web安全实验靶场
-- https://www.freebuf.com/articles/web/123779.html 新手指南：DVWA-1.9全级别教程
-- https://github.com/78778443/permeate php.常见漏洞靶场
-- https://github.com/gh0stkey/DoraBox php.常见漏洞靶场
+- https://www.root-me.org     root me在线靶场
+- https://www.hackthebox.eu     HTB在线靶场
+- https://0xrick.github.io/categories/    intro.hack the box靶场write up，二进制逆向
+- https://www.pentesteracademy.com     攻防技术认证。商业版
+- https://www.offensive-security.com/information-security-certifications/     kali攻防技术认证。商业版
+- https://www.cybrary.it     网络安全工程师认证。CTF/Labs
+- https://www.wechall.net     世界知名ctf汇总交流网站
+- https://www.ichunqiu.com/experiment/direction     i春秋实验室。Web/主机/应用
+- https://www.mozhe.cn/bug     墨者学院在线靶场。Web/主机/数据库/取证
+- https://adworld.xctf.org.cn    XCTF攻防世界
+- https://www.xssgame.com     谷歌XSS挑战
+- http://xss.tv     Web在线靶场
+- http://www.itsecgames.com     bWAPP，包含 100多种漏洞环境
+- https://www.vulnhub.com     ctf靶机汇总
+- https://github.com/c0ny1/vulstudy     多种漏洞复现系统的docker汇总
+- https://github.com/bkimminich/juice-shop    常见web安全实验靶场市场
+- https://github.com/ethicalhack3r/DVWA    web安全实验靶场
+- https://www.freebuf.com/articles/web/123779.html    intro.新手指南：DVWA-1.9全级别教程
+- https://github.com/78778443/permeate    php.常见漏洞靶场
+- https://github.com/gh0stkey/DoraBox    php.常见漏洞靶场
 - https://github.com/stamparm/DSVW    PY2.常见漏洞靶场
-- https://github.com/amolnaik4/bodhi    PY.常见漏洞靶场
-- https://github.com/Safflower/Solve-Me php.韩国一个偏代码审计的ctf靶场源码
+- https://github.com/amolnaik4/bodhi     PY.常见漏洞靶场
+- https://github.com/Safflower/Solve-Me    php.韩国一个偏代码审计的ctf靶场源码
 - https://github.com/WebGoat/WebGoat    JAVA.一键jar包web安全实验靶场
 - https://github.com/Audi-1/sqli-labs    PHP.基于SQLite的sql注入学习靶场
 - https://github.com/lcamry/sqli-labs    INTRO.通过sqli-labs演示mysql相关的注入手法
@@ -525,14 +524,14 @@ address | introduce |
 - https://github.com/chenjiandongx/async-proxy-pool py3异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon 使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 ## 信息搜集OSINT
-- http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet OSINT Cheat Sheet信息搜集技巧
-- https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    JAVA.多维度信息搜集，需要一定插件编写能力
+- http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet OSINT Cheat Sheet信息收集技巧
+- https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    JAVA.多维度信息收集，需要一定插件编写能力
 - https://github.com/smicallef/spiderfoot 利用OSINT自动化找出对方信息，gui界面，插件化
 - https://github.com/Nhoya/gOSINT    GO.利用OSINT自动化搜集信息
 - https://github.com/jofpin/trape    PY.利用OSINT对人员进行追踪定位
-- https://github.com/alpha1e0/pentestdb 多用途集成化信息搜集工具
+- https://github.com/alpha1e0/pentestdb    JAVA.多用途集成化信息收集工具
 - https://github.com/christophetd/CloudFlair cloudflare绕过，获取真实ip，集成censys
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework 渗透辅助，php，exp搜寻、payload与shell生产、信息搜集
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework 渗透辅助，php，exp搜寻、payload与shell生产、信息收集
 - https://github.com/Viralmaniar/Passhunt simple，用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 - https://github.com/yassineaboukir/Asnlookup simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描
 - https://github.com/s0md3v/Arjun    PY3.HTTP参数信息挖掘工具。simple
@@ -560,17 +559,20 @@ address | introduce |
 - http://tools.bugscaner.com 常用工具集汇总
 ### 人员信息搜集
 - https://www.jianshu.com/p/147cf5414851 聊聊那些常见的探侦类APP
+- https://www.truthfinder.com    美国公民信息查询
 - https://github.com/famavott/osint-scraper 输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
-- https://github.com/xHak9x/fbi    PY2.facebook脸书信息搜集工具
+- https://recruitin.net    Easily use Google to search profiles on LinkedIn
+- https://github.com/xHak9x/fbi    PY2.facebook脸书信息收集工具
 - https://github.com/initstring/linkedin2username 通过Linkedin 领英获取相关公司员工列表
-- https://github.com/0x09AL/raven linux下领英Linkedin information gathering tool
-- https://github.com/Ridter/Mailget 通过脉脉用户猜测企业邮箱
-- https://github.com/haccer/tweep 使用twitter API进行信息爬取查询
+- https://github.com/0x09AL/raven    linux下领英Linkedin information gathering tool
+- https://github.com/Ridter/Mailget    通过脉脉用户猜测企业邮箱
+- https://verify-email.org    邮件真实性验证
+- https://github.com/haccer/tweep    使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    PY.获取Twitter用户发推的地址
-- https://github.com/vaguileradiaz/tinfoleak web界面，对twitter账户进行全面的分析
-- https://github.com/x0day/Multisearch-v2 Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
-- https://github.com/n0tr00t/Sreg Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
-- https://github.com/SpiderLabs/social_mapper 社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
+- https://github.com/vaguileradiaz/tinfoleak    web界面，对twitter账户进行全面的分析
+- https://github.com/x0day/Multisearch-v2    Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
+- https://github.com/n0tr00t/Sreg    Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+- https://github.com/SpiderLabs/social_mapper    社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
 - https://github.com/vysec/MaiInt 公司雇员信息收集测试工具
 ### 子域名C段
 - https://github.com/laramies/theHarvester    PY.企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
@@ -591,7 +593,7 @@ address | introduce |
 - https://github.com/ring04h/wydomain 猪猪侠开发的一款域名收集全面、精准的子域名枚举工具
 - https://github.com/n4xh4ck5/N4xD0rk 利用搜索引擎来搜集子域名，可以使用西班牙语搜集
 - https://github.com/vysec/DomLink    PY2.调用WHOXY.com，对邮箱和域名进行进一步的搜集
-- https://github.com/jonluca/Anubis    PY3.子域名爆破与信息搜集
+- https://github.com/jonluca/Anubis    PY3.子域名爆破与信息收集
 - https://github.com/le4f/dnsmaper web界面，子域名枚举爆破工具以及地图位置标记
 - https://github.com/thewhiteh4t/seeker 获取高精度地理信息和设备信息的工具
 - https://github.com/0xbug/orangescan web界面，的在线子域名信息收集工具
@@ -602,7 +604,7 @@ address | introduce |
 - https://github.com/Xyntax/BingC 基于Bing搜索引擎的C段/旁站查询，多线程
 - https://github.com/zer0h/httpscan 网段Web主机发现小工具
 - https://github.com/s0md3v/ReconDog simple，侦查信息的瑞士军刀
-- https://github.com/chrismaddalena/ODIN    PY3.simple，信息搜集与后期漏洞利用
+- https://github.com/chrismaddalena/ODIN    PY3.simple，信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker 多方式收集目标子域名信息
 - https://github.com/code-scan/BroDomain 子域名查询
 - https://github.com/chuhades/dnsbrute 基于GO.dns子域名爆破工具
@@ -637,7 +639,7 @@ address | introduce |
 - https://github.com/0xbug/Hawkeye JS，PYTHON，GitHub 泄露监控系统
 - https://github.com/neal1991/gshark github信息泄露检测
 - https://github.com/VKSRC/Github-Monitor GitHub监控，代码信息泄露，分钟级监控，邮件预警
-- https://github.com/metac0rtex/GitHarvester github Repo信息搜集工具
+- https://github.com/metac0rtex/GitHarvester github Repo信息收集工具
 - https://github.com/repoog/GitPrey GitHub敏感信息扫描工具
 - https://github.com/FeeiCN/GSIL    PY3.近实时监控Github敏感信息，并发送告警通知。
 - https://github.com/UnkL4b/GitMiner github敏感内容挖掘
@@ -686,7 +688,7 @@ address | introduce |
 - https://github.com/thelinuxchoice/blackeye    PY.拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
 - https://github.com/M4cs/BlackEye-Python    PY.以blackeye为基础，增加子域名模拟伪造功能
 - https://github.com/gophish/gophish    GO.拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
-- https://github.com/L4bF0x/PhishingPretexts 钓鱼模板
+- https://github.com/L4bF0x/PhishingPretexts    钓鱼模板
 - https://github.com/azizaltuntas/Camelishing    PY3.界面化社会工程学攻击辅助工具
 - https://github.com/tatanus/SPF    PY2.deefcon上的钓鱼系统
 - https://github.com/MSG-maniac/mail_fishing PHP.基于thinkphp的甲方邮件钓鱼系统
@@ -701,14 +703,11 @@ address | introduce |
 - https://github.com/fireeye/PwnAuth OAuth滥用测试检测平台
 - https://github.com/jbtronics/CrookedStyleSheets    php.使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 ### 邮件伪造
-- http://tool.chacuo.net/mailanonymous 在线邮件伪造
-- http://ns4gov.000webhostapp.com 在线邮件伪造
+- http://tool.chacuo.net/mailanonymous    在线邮件伪造
+- http://ns4gov.000webhostapp.com    在线邮件伪造
 - https://github.com/Dionach/PhEmail    PY2.钓鱼与邮件伪造
 - https://github.com/lunarca/SimpleEmailSpoofer    PY.域名伪造钓鱼邮件
-- https://www.jetmore.org/john/code/swaks/ PERL，基于smtp的邮箱域名伪造测试工具
-- https://salmon-mail.readthedocs.io    PY.邮件服务器
-- https://github.com/PHPMailer/PHPMailer PHP，PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端服务器，支持pgp加解密、隐私保护。8K。
+- https://www.jetmore.org/john/code/swaks/    PERL，基于smtp的邮箱域名伪造测试工具
 ## 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    web漏洞/CVE/WIN。8K.
 - https://github.com/mudongliang/LinuxFlaw 包含linux下软件漏洞列表
@@ -738,13 +737,15 @@ address | introduce |
 - https://github.com/mpgn/CVE-2019-0192/ Apache Solr远程命令执行漏洞
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227 Apache Axis 1.4 Remote Code Execution；CVE-2019-0227: Apache Axis RCE
 ### 沙盒虚拟化平台
-- http://www.linux-kvm.org/page/Main_Page Linux下的虚拟化工具，支持unix/win等多种系统
-- https://www.docker.com Linux下虚拟容器，目前只支持linux内核
-- https://www.virtualbox.org 跨平台多系统支持
-- https://www.vmware.com 跨平台多系统支持。商业版
-- https://www.vmware.com/products/esxi-and-esx.html 虚拟化平台管理工具。商业版
-- http://www.eve-ng.net UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版
-- http://eve-ng.cn EVE-NG中文网
+- http://www.linux-kvm.org    Linux内核虚拟化工具，支持unix/win等多种系统
+- https://www.qemu.org    qemu-kvm虚拟机管理工具
+- https://github.com/moby/moby    GO.Linux下虚拟容器docker。54k。
+- https://github.com/hashicorp/vagrant    RUBY.管理虚拟机。19k。
+- https://www.virtualbox.org    跨平台多系统支持
+- https://www.vmware.com    跨平台多系统支持。商业版
+- https://www.vmware.com/products/esxi-and-esx.html    ESXI虚拟化平台管理工具。商业版
+- http://www.eve-ng.net    UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版
+- http://eve-ng.cn    EVE-NG中文网
 ### 沙盒虚拟机逃逸
 - https://github.com/hacksysteam/WpadEscape 利用wpad进行浏览器 sandbox沙箱逃逸
 - https://github.com/unamer/vmware_escape vmware虚拟机逃逸。CVE-2017-4901，CVE-2018-6981，CVE-2018-6982
@@ -865,7 +866,7 @@ address | introduce |
 - https://github.com/M4cs/BabySploit    PY.simple，模仿msf
 - https://github.com/iceyhexman/onlinetools    PY3.simple，DONE，web界面，利用antsword漏洞插件
 - https://github.com/tulpar/tulpar    PY.支持多种web漏洞扫描.simple
-- https://github.com/UltimateHackers/Striker    PY.信息搜集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
+- https://github.com/UltimateHackers/Striker    PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
 - https://github.com/0x4D31/salt-scanner    PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA、slack平台结合使用
 ### 漏洞测试框架
 - http://www.exploitpack.com    JAVA.渗透测试集成框架，包含超过38，000+ exploits.REMOVE
@@ -930,7 +931,7 @@ address | introduce |
 - https://github.com/boy-hack/gwhatweb    PY.CMS识别,gevent多线程实现
 - https://github.com/Ms0x0/Dayu    JAVA.指纹识别工具
 - https://github.com/0xbug/Howl 网络设备 web 服务指纹扫描与检索
-- https://github.com/jekyc/wig web应用信息搜集工具
+- https://github.com/jekyc/wig web应用信息收集工具
 - https://github.com/tanjiti/FingerPrint web应用指纹识别
 - https://github.com/nanshihui/Scan-T 网络爬虫式指纹识别
 - https://github.com/medbenali/CyberScan    PY.渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等
@@ -1129,7 +1130,7 @@ address | introduce |
 # 后渗透拓展
 - https://github.com/OpenWireSec/metasploit 后渗透框架
 - https://github.com/EmpireProject/Empire 基于poweshell的命令执行框架
-- https://github.com/PowerShellMafia/PowerSploit    PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息搜集，ScriptModification编码加密
+- https://github.com/PowerShellMafia/PowerSploit    PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密
 - https://github.com/SecureAuthCorp/impacket Impacket是用于处理网络协议的Python工具包，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
 - https://github.com/maaaaz/impacket-examples-windows Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    PY,PS.利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块
@@ -1146,11 +1147,11 @@ address | introduce |
 - https://github.com/xorrior/RemoteRecon 利用DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
 - https://github.com/0xwindows/VulScritp 内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等
 - https://github.com/zMarch/Orc bash.Linux下后渗透命令集合
-### 后渗透信息搜集白利用
+### 后渗透信息收集白利用
 - https://github.com/securemode/DefenderKeys 枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/BloodHoundAD/BloodHound    PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。
 - https://www.4hou.com/penetration/5752.html INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路径介绍
-- https://github.com/samratashok/nishang    PS.测试脚本集与开发框架。Check-VM检查虚拟机；Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）；Invoke-CredentialsPhish欺骗用户输入账号密码信息；FireBuster FireListener对内网进行扫描；Get-Information信息搜集
+- https://github.com/samratashok/nishang    PS.测试脚本集与开发框架。Check-VM检查虚拟机；Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）；Invoke-CredentialsPhish欺骗用户输入账号密码信息；FireBuster FireListener对内网进行扫描；Get-Information信息收集
 - https://github.com/m8r0wn/nullinux 用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/SkyLined/LocalNetworkScanner 利用浏览器漏洞当对方打开网址时，扫描对方内网信息
 - https://github.com/fdiskyou/hunter 调用 Windows API 对内网信息进行搜集很全面
@@ -1374,7 +1375,7 @@ address | introduce |
 - https://cn.elcomsoft.com/ewsa.html ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
 - https://www.passcape.com wifipr，握手包密码还原，另外还有许多商业版windows下密码还原工具
 - https://github.com/MisterBianco/BoopSuite 无线网络审计工具，支持2-5GHZ频段
-- https://github.com/aircrack-ng/aircrack-ng 由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成
+- https://github.com/aircrack-ng/aircrack-ng    C.由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成。1k。
 - https://github.com/t6x/reaver-wps-fork-t6x wps跑pin码攻击，常见wifi攻击
 - https://github.com/derv82/wifite2 wifite无线审计工具升级版，联动aircrack-ng与reaver
 - https://github.com/savio-code/fern-wifi-cracker 无线安全审计工具
@@ -1808,30 +1809,10 @@ address | introduce |
 - https://github.com/milesrichardson/docker-onion-nmap 使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe 一个使所有流量通过Tor网络发出的脚本
 - https://github.com/trimstray/multitor 启用多个tor通道转发流量，并设置负载均衡
-### 隐私匿名加密
-- https://github.com/walkor/workerman-chat php，在线聊天室。可扩展
-- https://github.com/hack-chat https://hack.chat/?your-channel js，在线聊天，问号后面跟你的房间名
-- https://github.com/akaxincom/openzaly    JAVA.聊天室，Akaxin为客户端闭源
-- https://github.com/RocketChat/Rocket.Chat js，在线团队聊天服务器，https://rocket.chat/install
-- https://github.com/gyxuehu/EwoMail PHP，EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://www.lshack.cn/118/ 在线接收验证码/邮箱/粘贴板/文件传输大集合。
-- http://bccto.me 一次性邮箱
-- https://www.guerrillamail.com 一次性邮箱
-- http://24mail.chacuo.net/ 一次性邮箱
-- http://www.yopmail.com 一次性邮箱
-- https://yandex.com/ 非手机邮箱
-- https://mail.ru/ 非手机邮箱
-- https://mail.protonmail.com/login 非手机邮箱
-- https://telegram.org #
-- https://slack.com #
-- https://www.whatsapp.com #
-- https://wire.com/en #
-- https://signal.org #
-- http://www.batmessenger.com #
-- http://sid.co #
 ## 办公套件
 - https://sadd.io/ 在线操作系统
 - https://etherpad.net/ 在线可编辑记事本
+- https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://www.upload.ee/ 文件共享平台
 - https://github.com/micahflee/onionshare 利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    GO.基于Caddy框架的网盘
@@ -1840,41 +1821,58 @@ address | introduce |
 - https://github.com/haiwen/seafile    C.私有云网盘，速度快，功能少
 - https://send.firefox.com 火狐网盘
 - https://github.com/zyx0814/dzzoffice 在线办公套件，DEMO网址demo.dzzoffice.com
-- https://github.com/RobbieHan/gistandard    PY.基于DjanGO.OA工单办公管理系统
-- https://github.com/pavanw3b/sh00t    PY3.DJANGO.simple，安全测试工单管理
-- https://github.com/chaitin/strapdown-zeta 基于strapdown.js，长亭二次开发开源的Wiki系统，支持markdown
 - https://github.com/ymfe/yapi API管理工具
 - https://thyrsi.com/ 图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    GO.多api图床
-- https://github.com/tmux/tmux 命令行功能加强工具
-- https://cmder.net 命令行功能加强
+- https://github.com/tmux/tmux    命令行功能加强工具
+- https://cmder.net    命令行功能加强
 - https://github.com/nvbn/thefuck    PY.命令行自动补全改错工具
-- http://ohshitgit.com/    git操作手册
+- http://ohshitgit.com/    intro.git操作手册
 - https://www.rejetto.com/hfs/    DELPHI.HFS文件上传下载管理工具服务器
-- https://www.mythicsoft.com 全文检索工具
-- https://www.voidtools.com 文件和文件夹快速定位
+- https://www.mythicsoft.com    全文检索工具
+- https://www.voidtools.com    文件和文件夹快速定位
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    PY.putty远程服务管理工具。MobaXterm注册机
 - https://github.com/DoubleLabyrinth/navicat-keygen    C.数据库管理工具navicat注册机
 - https://github.com/stascorp/rdpwrap    Pascal.开启异步并发rdp请求服务
+- http://sc.ftqq.com/3.version    server酱微信通知
+- http://www.vuln.cn/tools/ftp    在线FTP登录
+### 隐私匿名加密
+- https://github.com/walkor/workerman-chat    php.在线聊天室。可扩展
+- https://github.com/hack-chat    js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
+- https://github.com/akaxincom/openzaly    JAVA.聊天室，Akaxin为客户端闭源
+- https://github.com/RocketChat/Rocket.Chat    js.在线团队聊天服务器。https://rocket.chat/install
+- http://bccto.me    一次性邮箱
+- https://www.guerrillamail.com    一次性邮箱
+- http://24mail.chacuo.net/    一次性邮箱
+- http://www.yopmail.com    一次性邮箱
+- https://yandex.com/    免费邮箱
+- https://mail.ru/    免费邮箱
+- https://mail.tutanota.com    免费邮箱
+- https://github.com/tutao/tutanota    JS.tutanota邮件服务的客户端，支持加密验证
+- https://mail.protonmail.com    免费邮箱
+- https://sms.cngrok.com/receiving-sms    收码接码
+- https://www.pdflibr.com/    收码接码
+- https://www.fakenamegenerator.com    多国身份信息模拟器
+### 社区管理
+- https://github.com/elgg/elgg    PHP.社交网络引擎、社区，mysql数据库
+- https://github.com/chaitin/strapdown-zeta    strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
+- https://github.com/RobbieHan/gistandard    PY.基于DjanGO的OA工单办公管理系统
+- https://github.com/pavanw3b/sh00t    PY3.基于DjanGO的安全测试工单管理
+### 邮件通讯
+- https://salmon-mail.readthedocs.io    PY.实现邮件服务器功能的python包模块
+- https://github.com/gyxuehu/EwoMail    PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
+- https://github.com/PHPMailer/PHPMailer    PHP，PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 ### 短网址
 - https://www.ft12.com 支持访问数据查询
 - http://sina.lt #
 - https://dwz.cn #
 - http://suo.im 访问数据查询，匿名访问
-## 在线自服务与工具
-- https://github.com/Kickball/awesome-selfhosted awesome系列之自服务应用
-- https://github.com/sym233/core-values-encoder js，社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
-- http://sc.ftqq.com/3.version server酱微信通知
-- https://www.wolframalpha.com 问题答案
-- https://sms.cngrok.com/receiving-sms 收码接码
-- https://www.pdflibr.com/ 收码接码
-- https://www.fakenamegenerator.com 多国身份信息模拟器
-- https://recruitin.net Easily use Google to search profiles on LinkedIn
-- https://www.truthfinder.com 美国公民信息查询
-- https://verify-email.org 邮件真实性验证
-- http://www.vuln.cn/tools/ftp 在线FTP登录
-- https://pdos.csail.mit.edu/archive/scigen/ SCIgen 学术文档虚拟文件生成钓鱼
-## 公开资源汇总
+## 自服务应用
+- https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
+- https://github.com/sym233/core-values-encoder    js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
+- https://pdos.csail.mit.edu/archive/scigen/ SCIgen    学术文档虚拟文件生成钓鱼
+### 公开资源工具
 - https://wn.run    万能命令.自动加载网站脚本，视频解析/下载/翻译/快照等。
 - https://2tool.top/    域名前面加上his.sh，网页快照
 - https://www.freenom.com 注册免费域名，dns解析
@@ -1907,6 +1905,7 @@ address | introduce |
 - http://wenku.baiduvvv.com/doc/    文库下载
 - http://www.1ppt.com/ 免费ppt下载
 ### 搜索引擎
+- https://www.wolframalpha.com    问题答案搜索
 - http://ac.scmor.com/ 谷歌搜索镜像
 - https://github.com/asciimoo/searx    PY.搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
 - https://www.gobaidugle.com 联合搜索
@@ -1916,18 +1915,19 @@ address | introduce |
 - https://www.parsevideo.com/    视频解析
 - https://github.com/soimort/you-get    PY.视频下载
 ### 网站源码程序外包
-- http://www.mycodes.net 源码之家，大部分免费
-- http://down.admin5.com/ A5网站源码下载
-- https://www.xd0.com xiaodao.la
-- http://vipread.com 资料站
-- freelancer 国外
-- 程序员客栈 #
-- https://zb.oschina.net 开源众包
-- https://codemart.com 码市
-- http://www.epwk.com 威客
-- https://zbj.com 猪八戒，重庆外包平台，存在压价现象
-- https://www.a5.net 比较野
-- https://bbs.125.la/forum-98-1.html 比较野
+- http://www.mycodes.net    源码之家，大部分免费
+- http://down.admin5.com/    A5网站源码下载
+- https://www.xd0.com    xiaodao.la
+- http://vipread.com    资料站
+- https://bbs.125.la/forum-98-1.html    易语言源码。外包
+- https://www.fiverr.com    美金，短期
+- https://www.upwork.com     美金，中长期
+- https://www.proginn.com    程序员客栈
+- https://zb.oschina.net    开源众包
+- https://codemart.com    码市
+- http://www.epwk.com    威客
+- https://zbj.com    猪八戒，重庆外包，存在压价现象
+- http://task.a5.cn/tasklist.html    外包
 # 计算机技术
 - https://github.com/jackfrued/Python-100-Days 100天精通python
 - https://books.studygolang.com/gopl-zh/ GO语言圣经中文版
