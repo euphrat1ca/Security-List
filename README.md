@@ -71,7 +71,7 @@ address | introduce |
 - https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
 ### 应急响应
 - https://www.secrss.com/articles/10986    一次攻防实战演习复盘总结。奇安信
-- https://bypass007.github.io/Emergency-Response-Notes/    应急响应实战笔记。应急响应/日志分析/僵木蠕分析
+- https://github.com/Bypass007/Emergency-Response-Notes    应急响应实战笔记。应急响应/日志分析/僵木蠕分析。1.1k。
 - https://github.com/tide-emergency/yingji    PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/trimstray/iptables-essentials    IP table常见防火墙规则与命令
 - https://github.com/ppabc/cc_iptables    收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
@@ -242,7 +242,7 @@ address | introduce |
 - https://sploitus.com    公开漏洞搜索引擎。greatjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    #
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
-- https://drops.secquan.org    2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
+- https://shuimugan.com    2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
 - http://ics.cnvd.org.cn    中国国家工控漏洞库
 - https://ics-cert.us-cert.gov/advisories    美国国家工控漏洞库
 - http://www.nsfocus.net/index.php?act=sec_bug    绿盟漏洞库，含工控
@@ -363,6 +363,7 @@ address | introduce |
 ### 测试字典
 - https://github.com/TheKingOfDuck/fuzzDicts Web Pentesting Fuzz 字典
 - https://github.com/7dog7/bottleneckOsmosis JS/api/param/FUZZ 字典
+- https://github.com/tarraschk/richelieu     .fr邮箱密码表
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    C#.基于.NET Core运行时实现的Windows HOOK库
@@ -737,6 +738,7 @@ address | introduce |
 - https://github.com/numpy/numpy/issues/12759    科学计算框架numpy命令执行RCE漏洞
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    jenkins远程命令执行
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
+- https://github.com/t0kx/exploit-CVE-2015-1427    BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 ### 浏览器漏洞工具
 - https://github.com/SkyLined/LocalNetworkScanner    JS.利用浏览器漏洞当对方打开网址时，扫描对方内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
@@ -921,7 +923,7 @@ address | introduce |
 - https://github.com/chaitin/xray 洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置
 - https://github.com/netxfly/Transparent-Proxy-Scanner    GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 ### 端口发现服务指纹识别
-- https://github.com/nmap/nmap LUA，Nmap端口扫描器，具有有强大的脚本引擎框架
+- https://github.com/nmap/nmap LUA，Nmap端口扫描器，具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    C.无状态扫描，可以调用nmap进行指纹识别
 - https://github.com/zmap/zmap    C.无状态扫描，需要用C编写扩展模块
 - https://github.com/zmap/zgrab    GO.基于zmap扫描器进行指纹识别、调度管理，可绕过CDN
@@ -991,8 +993,10 @@ address | introduce |
 - https://github.com/jas502n/CVE-2019-7238    Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/rudSarkar/crlf-injector    CRLF注入漏洞批量扫描
 - https://github.com/Bo0oM/PHP_imap_open_exploit    利用imap_open绕过php exec函数禁用
-### Web前端域利用
+### Web前端利用
 - https://github.com/hahwul/a2sv    SSL漏洞扫描，心脏滴血 heartbleed漏洞等
+- https://github.com/Valve/fingerprintjs2    JS.被动式浏览器全指纹库获取。8k。goodjob。
+- https://github.com/Song-Li/cross_browser   JS.被动式跨浏览器指纹识别特征。指纹追踪技术—跨浏览器指纹识别。TrackingFree/crossbrowsertracking_NDSS17.pdf。goodjob.
 - https://www.freebuf.com/articles/web/194698.html    小学生都会挖掘的JSON Hijacking实战利用。jsonp跨域漏洞
 - https://www.anquanke.com/post/id/97671     JSONP与CORS漏洞挖掘
 - https://www.anquanke.com/post/id/152339    JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）
@@ -1349,7 +1353,7 @@ address | introduce |
 - https://github.com/r00t-3xp10it/backdoorppt    将payload更换图标
 - https://github.com/r00t-3xp10it/FakeImageExploiter    将payload更换图标。需要wine与resourcehacker环境
 - https://github.com/DamonMohammadbagher/FakeFileMaker    更换图标和名称
-- https://github.com/peewpw/Invoke-PSImage    PS.将PS脚本隐藏进PNG像素中，一行指令即可执行。1k。NoUpdate。
+- https://github.com/peewpw/Invoke-PSImage    PS.将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。
 - https://github.com/deepzec/Bad-Pdf 生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF 向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 ### 中间人攻击流量劫持
@@ -1622,7 +1626,7 @@ address | introduce |
 - https://github.com/nettitude/scrounger    PY.Linux下iOS和Android移动应用程序渗透测试框架
 - https://github.com/lyxhh/lxhToolHTTPDecrypt    js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。
 ### Android/JAVA安全
-- https://github.com/rovo89/Xposed    C++.Android动态修改hook。greatjob。
+- https://github.com/rovo89/Xposed    C++.Android动态修改hook，隐藏root执行权限。greatjob。
 - https://github.com/asLody/VirtualApp 安卓虚拟机，多开助手
 - https://github.com/android-hacker/VirtualXposed    基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
 - https://github.com/XekriCorp/LeakVM    安卓应用安全测试框架，已下架
@@ -1686,11 +1690,11 @@ address | introduce |
 - https://github.com/baidu/openrasp    基于RASP。Runtime Application Self-Protection，实时应用自我保护，更智能，针对每个语言定制
 - https://github.com/StamusNetworks/SELKS    基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 - https://github.com/Security-Onion-Solutions/security-onion    安全洋葱入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。
-- https://github.com/ossec/ossec-hids    开源hids堡垒机
+- https://github.com/ossec/ossec-hids    开源hids（主机入侵检测）堡垒机
 - https://github.com/grayddq/HIDS    hids基于主机型入侵检测系统，一个人的安全部
-- https://github.com/ysrc/yulong-hids    驭龙HIDS是一款由 YSRC 开源的入侵检测系统
+- https://github.com/ysrc/yulong-hids    驭龙HIDS是一款由 YSRC 开源的主机入侵检测系统
 - https://github.com/DianrongSecurity/AgentSmith-HIDS    点融开源HIDS，开源部分为主机情报收集工具
-- https://github.com/snort3/snort3    C++.snort算是最出名的开源ids入侵检测
+- https://github.com/snort3/snort3    C++.snort知名NIDS网络入侵检测
 - https://github.com/ptresearch/AttackDetection    近期漏洞的snort规则rules
 - https://github.com/OISF/suricata    C.IDS\IPS\NSM安全工具，兼容Snort插件
 ### 防火墙/waf/网关规则
@@ -1810,9 +1814,9 @@ address | introduce |
 - https://github.com/EZLippi/WebBench    C.网站压力测试，最高并发3万
 - https://github.com/jagracey/Regex-DoS RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    PY.RDP服务远程命令执行/DOS攻击/蓝屏exp
-- http://www.yykkll.com 压测站评测
-- https://defconpro.net 便宜
-- https://vip-boot.xyz/login.php 价高
+- http://www.yykkll.com    压测站评测
+- https://defconpro.net    #
+- https://vip-boot.xyz/login.php    #
 - https://rocketstresser.com/login.php 多协议可测cdn
 ### 匿名信息保护洋葱路由TorBrowser
 - https://github.com/leitbogioro/Fuck_Aliyun 关闭阿里云监控服务
@@ -1825,156 +1829,18 @@ address | introduce |
 - https://github.com/milesrichardson/docker-onion-nmap 使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe 一个使所有流量通过Tor网络发出的脚本
 - https://github.com/trimstray/multitor 启用多个tor通道转发流量，并设置负载均衡
-## 办公套件
-- https://sadd.io/ 在线操作系统
-- https://etherpad.net/ 在线可编辑记事本
-- https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
-- https://thyrsi.com/ 图片上传分享工具
-- https://www.upload.ee/ 文件共享平台
-- https://send.firefox.com 火狐网盘
-- https://www.rejetto.com/hfs/    DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
-- https://github.com/ganlvtech/down_52pojie_cn    PHP.52pojie网盘源码
-- https://github.com/micahflee/onionshare    PHP.利用onion洋葱服务器匿名文件共享
-- https://github.com/filebrowser/filebrowser    GO.基于Caddy框架的网盘
-- https://github.com/nextcloud/server    php.私有云网盘，owncloud分支
-- https://github.com/owncloud/core    php.私有云网盘，界面不美观
-- https://github.com/haiwen/seafile    C.私有云网盘，速度快，功能少
-- https://github.com/zyx0814/dzzoffice    PY.在线办公套件，DEMO网址demo.dzzoffice.com
-- https://github.com/ymfe/yapi    JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- https://github.com/aimerforreimu/auxpi    GO.多api图床
-- https://github.com/tmux/tmux    命令行功能加强工具
-- https://cmder.net    命令行功能加强
-- https://github.com/nvbn/thefuck    PY.命令行自动补全改错工具
-- http://ohshitgit.com/    intro.git操作手册
-- https://www.mythicsoft.com    全文检索工具
-- https://www.voidtools.com    文件和文件夹快速定位
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    PY.putty远程服务管理工具。MobaXterm注册机
-- https://github.com/DoubleLabyrinth/navicat-keygen    C.数据库管理工具navicat注册机
-- https://github.com/DoubleLabyrinth/winrar-keygen    C++.A keygen for WinRAR.
-- https://github.com/stascorp/rdpwrap    Pascal.开启异步并发rdp请求服务
-- http://sc.ftqq.com/3.version    server酱微信通知
-- http://www.vuln.cn/tools/ftp    在线FTP登录
-### 通讯隐私加密
-- https://github.com/walkor/workerman-chat    php.在线聊天室。可扩展
-- https://github.com/hack-chat    js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
-- https://github.com/akaxincom/openzaly    JAVA.聊天室，Akaxin为客户端闭源
-- https://github.com/RocketChat/Rocket.Chat    js.在线团队聊天服务器。https://rocket.chat/install
-- https://www.fakenamegenerator.com    多国身份信息模拟器
-### 社区管理
-- https://github.com/elgg/elgg    PHP.社交网络引擎、社区，mysql数据库
-- https://github.com/chaitin/strapdown-zeta    strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
-- https://github.com/RobbieHan/gistandard    PY.基于DjanGO的OA工单办公管理系统
-- https://github.com/pavanw3b/sh00t    PY3.基于DjanGO的安全测试工单管理
-### 邮件通讯
-- https://salmon-mail.readthedocs.io    PY.实现邮件服务器功能的python包模块
-- https://github.com/gyxuehu/EwoMail    PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://github.com/PHPMailer/PHPMailer       PHP.PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
-### 短网址
-- https://www.ft12.com    支持访问数据查询
-- http://sina.lt    新浪短链接，匿名访问
-- https://dwz.cn    百度短连接
-- http://suo.im    访问数据查询，匿名访问
-## 自服务应用
-- https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
-- https://github.com/sym233/core-values-encoder    js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
-- https://pdos.csail.mit.edu/archive/scigen/ SCIgen    学术文档虚拟文件生成钓鱼
-### 公开资源工具
-- https://wn.run    万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
-- https://2tool.top/    域名前面加上his.sh，网页快照
-- https://www.freenom.com    注册免费域名，dns解析
-- https://www.onlinedoctranslator.com/    在线文档翻译
-- https://www.seopojie.com    推广链接SPAM，SEO
-- https://zh.wikihow.com 生活百科
-- https://pandownload.com/ 下载
-- https://www.baiduwp.com/ 百度下载
-- http://www.speedpan.com/ 下载
-### 素材
-- https://msdn.itellyou.cn 原生镜像
-- http://patorjk.com Text to ASCII Art Generator
-- https://mixkit.co/ 在线视频素材
-- https://www.flaticon.com 免费图标网站
-- https://world-flags.org/worldflagstoha    国旗动漫化
-- https://www.wondercv.com/ 简历模板生成
-### 在线编辑
-- https://www.toolfk.com/ 程序员工具箱。文本对比/取坐标/转换/文档生成
-- https://codebeautify.org 在线代码美化
-- https://www.draw.io 在线思维导图/流程图
-- https://www.photopea.com/ 在线ps
-- http://edit.foxitcloud.cn/ 在线pdf编辑
-- https://www.pdfpai.com/ 在线pdf转换
-- http://www.alltoall.net/ 在线格式转换
-### 资源下载
-- https://www.cn-ki.net/    知网、论文期刊检索下载
-- http://sci-hub.tw/    文献、专利、书籍下载
-- http://wenku.baiduvvv.com/doc/    文库下载
-- http://www.pptbz.com    ppt下载
-- http://www.1ppt.com/    ppt下载
-### 搜索引擎
-- https://www.wolframalpha.com    问题答案搜索
-- http://ac.scmor.com/ 谷歌搜索镜像
-- https://github.com/asciimoo/searx    PY.搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
-- https://www.gobaidugle.com 联合搜索
-- https://lookao.com/ 匿名搜索
-- https://mijisou.com/ 匿名搜索
-### 视频下载
-- https://www.parsevideo.com/    视频解析
-- https://github.com/soimort/you-get    PY.视频下载
-### 网站源码程序外包
-- http://www.mycodes.net    源码之家，大部分免费
-- http://down.admin5.com/    A5网站源码下载
-- https://www.xd0.com    xiaodao.la
-- http://vipread.com    资料站
-- https://bbs.125.la/forum-98-1.html    易语言源码。外包
-- https://www.fiverr.com    美金，短期
-- https://www.upwork.com     美金，中长期
-- https://www.proginn.com    程序员客栈
-- https://zb.oschina.net    开源众包
-- https://codemart.com    码市
-- http://www.epwk.com    威客
-- https://zbj.com    猪八戒，重庆外包，压价
-- http://task.a5.cn/tasklist.html    外包
-# 计算机技术
-- https://github.com/jackfrued/Python-100-Days 100天精通python
-- https://books.studygolang.com/gopl-zh/ GO语言圣经中文版
-- https://github.com/chai2010/advanced-go-programming-book GO语言高级编程
-- https://github.com/Quorafind/golang-developer-roadmap-cn Go 开发者的路线图
-- https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频
-- https://github.com/fxsjy/jieba    PY.结巴中文分词
-- https://github.com/thunlp/THULAC-Python    PY.清华中文分词
-- https://github.com/lancopku/PKUSeg-python    PY3.北大中文分词
-- https://github.com/deepfakes/faceswap 换脸大法好，虚拟音频视频
-- https://github.com/iperov/DeepFaceLab 换脸大法好，虚拟音频视频
-- https://github.com/clone95/Data-Science-Study-Paths-March-2019 以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
-- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达机器学习python笔记
-- https://paperswithcode.com/sota 机器学习具体项目、演示、代码
-- https://github.com/TheAlgorithms/Python    PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
-- https://github.com/duoergun0729/nlp 一本开源的NLP（神经语言程序学）入门书籍
-- https://zhuanlan.zhihu.com/p/64895011 神经网络深度学习框架PyTorch
-- https://github.com/littlecodersh/itchat    PY.微信个人号接口、微信机器人及命令行微信
-- https://github.com/youfou/wxpy    PY.微信个人号 API
-### 编辑器
-- https://github.com/visualfc/liteide    C++.开源golang编辑器，支持交叉编译
-### Web应用框架
-- https://goframe.org/index 一款模块化、松耦合、生产级的Go应用开发框架
-- https://beego.me 一个使用 Go 的思维来帮助您构建并开发 Go 应用程序的开源框架
-- https://www.djangoproject.com    PY.完美主义者的 Deadline 终结框架
-- https://www.palletsprojects.com/p/flask/    PY.微框架，就是毛坯房的意思。
-### 爬虫相关
-- https://github.com/xuyichenmo/selenium-document Selenium的中文文档
-- https://github.com/alphardex/looter 轻量型爬虫框架，类比Scrapy
-- https://github.com/luyishisi/Anti-Anti-Spider 过反爬虫
-- https://github.com/xchaoinfo/fuck-login 模拟登录一些常见的网站
-- https://github.com/Maicius/InterestingCrawler 抓取QQ空间说说内容并进行分析
-- https://github.com/xjr7670/QQzone_crawler QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
-- https://github.com/CriseLYJ/awesome-python-login-model    PY.各大网站登陆方式
-- https://github.com/tikazyq/crawlab    PY3.爬虫管理平台
-- https://github.com/FortyNorthSecurity/EyeWitness 获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
+# wiki_FreeConnect
+- https://github.com/euphrat1ca/wiki_FreeConnect
+# wiki_Selfsource
+ - https://github.com/euphrat1ca/wiki_Selfsource
+# wiki_TipSkill
+ - https://github.com/euphrat1ca/wiki_TipSkill
 ***
 **个人维护的安全预警维基百科，根据中华人民共和国《网络安全法》相关政策规定，本文章只做安全预警，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担**
 - https://github.com/We5ter/Scanners-Box    增加条目，细化分类。4k。
 - https://github.com/topics/security    GitHub安全类目
 - https://www.anquanke.com/opensource    GitHub安全类目引擎，热度，时间
+- https://xj.hk    星际黑客。8aq.net。先知。freebuf
 - https://start.me/p/X20Apn    听风者情报源
 - https://start.me/p/GE7JQb/osint    情报源
 - https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
