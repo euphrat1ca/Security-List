@@ -622,6 +622,7 @@ address | introduce |
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
 - https://github.com/Graph-X/davscan    PY,SHELL.用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
 - https://github.com/Threezh1/JSFinder    PY.用于发现网站js文件中的url与域名
+- https://github.com/eldraco/domain_analyzer    PY.DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
 ## 云安全相关
 ### AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    PY.AWS云安全研究，工具集。
@@ -740,11 +741,11 @@ address | introduce |
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
 - https://github.com/t0kx/exploit-CVE-2015-1427    BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 ### 浏览器漏洞工具
-- https://github.com/SkyLined/LocalNetworkScanner    JS.利用浏览器漏洞当对方打开网址时，扫描对方内网信息
+- https://github.com/SkyLined/LocalNetworkScanner    JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
-- https://github.com/maxchehab/CSS-Keylogging    Chrome扩展程序和Express服务器利用CSS的键盘记录功能。
+- https://github.com/maxchehab/CSS-Keylogging    Chrome扩展程序。Express服务器利用CSS的键盘记录功能
 - https://github.com/evilcos/cookiehacker    Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
-- https://github.com/lfzark/cookie-injecting-tools Chrome扩展，cookie注入工具包括注入，编辑，添加和删除cookie
+- https://github.com/lfzark/cookie-injecting-tools    Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
 ### 沙盒虚拟化平台
 - http://www.linux-kvm.org    Linux内核虚拟化工具，支持unix/win等多种系统
 - https://www.qemu.org    qemu-kvm虚拟机管理工具
@@ -817,7 +818,7 @@ address | introduce |
 - https://github.com/lijiejie/struts2_045_scan Struts2-045漏洞批量扫描工具
 #### Weblogic系列漏洞
 - https://github.com/dr0op/WeblogicScan    PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
-- https://github.com/mu0gua/VulnPOC    心脏滴血 heartbleed；cve-2019-2618 Weblogic；cve-2019-3395 Confluence
+- https://github.com/mu0gua/VulnPOC    heartbleed；cve-2019-2618 Weblogic；cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/TopScrew/CVE-2019-2725    wls9_async_response.war 和 wls-wsat.war组件无身份认证授权远程RCE漏洞。命令回显+webshell上传+绕过
@@ -994,16 +995,14 @@ address | introduce |
 - https://github.com/rudSarkar/crlf-injector    CRLF注入漏洞批量扫描
 - https://github.com/Bo0oM/PHP_imap_open_exploit    利用imap_open绕过php exec函数禁用
 ### Web前端利用
-- https://github.com/hahwul/a2sv    SSL漏洞扫描，心脏滴血 heartbleed漏洞等
-- https://github.com/Valve/fingerprintjs2    JS.被动式浏览器全指纹库获取。8k。goodjob。
-- https://github.com/Song-Li/cross_browser   JS.被动式跨浏览器指纹识别特征。指纹追踪技术—跨浏览器指纹识别。TrackingFree/crossbrowsertracking_NDSS17.pdf。goodjob.
-- https://www.freebuf.com/articles/web/194698.html    小学生都会挖掘的JSON Hijacking实战利用。jsonp跨域漏洞
-- https://www.anquanke.com/post/id/97671     JSONP与CORS漏洞挖掘
-- https://www.anquanke.com/post/id/152339    JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）
-- https://github.com/ticarpi/jwt_tool    针对json web token的检测
-- https://github.com/chenjj/CORScanner    跨域资源共享域解析漏洞，跨域扫描器
-- https://github.com/dienuet/crossdomain    跨域资源共享域解析漏洞，跨域扫描器
-- https://github.com/eldraco/domain_analyzer    围绕web服务的域名进行信息收集和"域传送"等漏洞扫描，也支持针对背后的服务器端口扫描等
+- https://github.com/hahwul/a2sv    SSL漏洞扫描，OpenSSL心脏滴血漏洞等
+- https://github.com/Valve/fingerprintjs2    JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
+- https://github.com/Song-Li/cross_browser   JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
+- https://github.com/ticarpi/jwt_tool    PY.json web token的检测
+- https://github.com/chenjj/CORScanner    PY.CORS域配置错误，跨域解析漏洞扫描器。
+- https://www.jianjunchen.com/post/cors安全部署最佳实践/    intro。CORScanner
+- https://www.anquanke.com/post/id/152339    JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
+- https://github.com/dienuet/crossdomain    PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip csrf验证工具
 - https://github.com/d0nutptr/sic RUST，CSS注入，csrf攻击
