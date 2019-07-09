@@ -46,7 +46,7 @@ address | introduce |
 - https://www.anquanke.com/post/id/178339 漏扫动态爬虫实践。pyppeteer
 - https://www.jianshu.com/p/1ea9845b9f1d 使用Airtest超快速开发App爬虫
 - https://www.jianshu.com/p/852e0fbe2f4c 安全产品厂商分类
-- https://github.com/xianlimei/yiwei.github.io/wiki 私有云、区块链、rasp、waf、主机安全、堡垒机、应急响应中心、数据库安全防护、流量镜像。相关产品说明
+- https://github.com/xianlimei/yiwei.github.io/wiki    私有云、区块链、rasp、waf、主机安全、堡垒机、应急响应中心、数据库安全防护、流量镜像。相关产品说明
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html 构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/ OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
@@ -164,8 +164,7 @@ address | introduce |
 - https://www.ipplus360.com IPV4/IPV6。商业版
 ### 威胁源情报
 - https://github.com/OpenCTI-Platform/opencti    JS.网络威胁情报平台
-- https://www.threatcrowd.org/    威胁情报分析平台。Domain, IP, Email or Organization
-- https://x.threatbook.cn/    微步在线 | 威胁情报分析平台-ThreatBook，ip/域名/文件/邮箱检测。商业版api
+- https://www.threatcrowd.org/    威胁情报分析平台。ti.qianxin.com;feed.watcherlab.com;x.threatbook.cn。
 - https://intel.criticalstack.com    Intel威胁情报库，恶意IP地址，集成bro
 - https://talosintelligence.com/documents/ip-blacklist    恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    恶意软件IP地址
@@ -186,7 +185,7 @@ address | introduce |
 - https://github.com/maskhed/Papers    包含100课等经典攻防教材、安全知识
 - https://github.com/infosecn1nja/AD-Attack-Defense    红蓝方攻防手册
 - https://github.com/jeansgit/RedTeam    RedTeam资料收集整理。红蓝对抗资料分享，红蓝对抗相关图片，内网安全渗透总结
-- https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    [译] 渗透测试实战第三版(红队版)The Hacker Playbook 3。goodjob
+- https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    [译] 渗透测试实战第三版(红队版)The Hacker Playbook 3
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming    优秀红队资源列表
 - https://github.com/kbandla/APTnotes    各种公开的文件和相关的APT笔记，还有软件样本
 - https://github.com/Kinimiwar/Penetration-Testing    渗透测试方向优秀资源收集
@@ -304,7 +303,7 @@ address | introduce |
 - https://github.com/k0keoyo/kDriver-Fuzzer    C.基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
 - https://github.com/google/oss-fuzz    C.Linux下的开源软件的模糊测试
 - https://github.com/google/honggfuzz    C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
-- https://github.com/bunzen/pySSDeep    PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。GO.glaslos/ssdeep；C.ssdeep-project/ssdeep
+- https://github.com/bunzen/pySSDeep    PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。GO.glaslos/ssdeep;C.ssdeep-project/ssdeep
 - https://github.com/jtpereyda/boofuzz    PY.基于sulley测试框架的网络协议fuzz测试
 - https://github.com/cisco-sas/kitty    PY.针对TCP/IP的模糊测试框架
 - https://github.com/cisco-sas/katnip    PY.kitty框架的拓展库
@@ -389,25 +388,15 @@ address | introduce |
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version awvs11汉化包
 - https://github.com/grayddq/PublicSecScan 调用awvs对大量WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 #### burpsuit相关工具拓展插件
-- https://github.com/PortSwigger burpsuite官方插件库，商业版
-- https://github.com/snoopysecurity/awesome-burp-extensions awesome系列之burp拓展
-- https://github.com/d3vilbug/HackBar 集成hackbar
-- https://github.com/PortSwigger/turbo-intruder 比Burp自带的Intruder 更快，一分钟打1.61万次请求
-- https://github.com/bit4woo/reCAPTCHA 自动识别图形验证码并用于burp intruder爆破模块的插件，使用联众接口
-- https://github.com/Ebryx/AES-Killer burp插件，破解aes加密的插件
-- https://github.com/bugcrowd/HUNT 可以将burpsuite扫描器功能扩展的更加强大，同时支持zapproxy扩展
-- https://github.com/wagiro/BurpBounty burp插件增强主动与被动扫描功能
-- https://github.com/nccgroup/BurpSuiteHTTPSmuggler Burp拓展， 使用几种技巧绕过WAF
-- https://github.com/nccgroup/freddy burp插件，自动识别Java/.NET 应用程序中的反序列化漏洞
-- https://github.com/nccgroup/BurpSuiteLoggerPlusPlus Logger++代理记录、日志输出
-- https://github.com/nccgroup/argumentinjectionhammer Burp插件， 识别参数注入漏洞
-- https://github.com/PortSwigger/command-injection-attacker burp插件，命令注入漏洞检测
-- https://github.com/modzero/interestingFileScanner burp插件，增强敏感文件扫描
-- https://github.com/summitt/Burp-Non-HTTP-Extension burp插件，布置dns服务器抓取流量
-- https://github.com/ilmila/J2EEScan burp拓展，扫描J2EE应用
-- https://github.com/JGillam/burp-co2 集成了sqlmap，菜刀，字典生成等
-- https://github.com/swisskyrepo/SSRFmap burp插件，检测ssrf漏洞
-- https://github.com/c0ny1/chunked-coding-converter 本插件主要用于分块传输绕WAF
+- https://github.com/PortSwigger    burpsuite官方插件库，商业版
+- https://github.com/snoopysecurity/awesome-burp-extensions    awesome系列之burp拓展
+- https://github.com/d3vilbug/HackBar    hackbar
+- https://github.com/bit4woo/knife    burp增强右键菜单
+- https://github.com/nccgroup/BurpSuiteHTTPSmuggler    使用几种技巧绕过WAF
+- https://github.com/nccgroup/argumentinjectionhammer    Burp插件.识别参数注入漏洞
+- https://github.com/modzero/interestingFileScanner    增强敏感文件扫描
+- https://github.com/swisskyrepo/SSRFmap    检测ssrf漏洞
+- https://github.com/c0ny1/chunked-coding-converter    本插件主要用于分块传输绕WAF
 #### sqlmap相关工具拓展插件
 - https://github.com/codewatchorg/sqlipy burp与sqlmap联动插件
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI sqlmap的web gui
@@ -495,7 +484,7 @@ address | introduce |
 - https://github.com/v2ray    GO.多协议代理
 - https://github.com/gwuhaolin/lightsocks 轻量级网络混淆代理，基于 SOCKS5 协议，类SS
 - https://github.com/Umbrellazc/BypassCampusNet 校园网防断网; UDP 53 免流上网
-- https://doub.io/dbrj-5/ 通过虚拟网卡转为类VPN全局代理SSTAP，还有sockscap64，比proxifier使用简单
+- https://github.com/netchx/Netch    C#.类似sockscap64通过进程选择代理。通过虚拟网卡转为类VPN全局代理SSTAP。proxifier
 - https://github.com/ntkernel/lantern unlimited-landeng-for-win，无限流量蓝灯
 - https://www.psiphon3.com 开源赛风超越边界代理
 - http://www.vpngate.net 日本国立筑波大学超越边界代理
@@ -719,19 +708,17 @@ address | introduce |
 ### 软件模板漏洞
 - https://www.exploit-db.com/exploits/38847    CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
 - https://www.exploit-db.com/exploits/39755    Acunetix WVS 10 - Remote Command Execution远程命令执行
-- https://www.secpulse.com/archives/18940.html    intro.Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell执行命令。
+- https://www.secpulse.com/archives/18940.html    intro.Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
 - https://bbs.pediy.com/thread-195431.htm    INTRO.Pwn the n00bs - Acunetix 0day。溢出攻击
 - https://www.anquanke.com/post/id/176379    INTRO.蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
-- https://github.com/WyAtu/CVE-2018-20250    PY.WinRar执行漏洞使用介绍
-- https://github.com/BeichenDream/MysqlT    C#.伪造Myslq服务端,并利用Mysql逻辑漏洞来获取客户端的任意文件反击攻击者
-- https://www.anquanke.com/post/id/106488    INTRO.利用mysql服务端恶意配置读取客户端文件。如何利用MySQL LOCAL INFILE读取客户端文件，Read MySQL Client's File，【技术分享】从MySQL出发的反击之路。
+- https://github.com/WyAtu/CVE-2018-20250    PY.WinRAR代码执行复现与利用
 - https://github.com/diafygi/webrtc-ips    利用WebRtc服务获取内外网真实IP。https://whoer.net
 - https://www.freebuf.com/articles/terminal/175862.html    INTRO.从OpenVPN配置文件中创建反弹Shell实现用户系统控制
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    OpenSSH用户枚举漏洞（CVE-2018-15473）
 - https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
-- https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    Apache Axis 1.4 Remote Code Execution；CVE-2019-0227: Apache Axis RCE
+- https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    intro.文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    PY.MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690
@@ -743,6 +730,7 @@ address | introduce |
 ### 浏览器漏洞工具
 - https://github.com/SkyLined/LocalNetworkScanner    JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
+- https://quitten.github.io/Firefox/    利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
 - https://github.com/maxchehab/CSS-Keylogging    Chrome扩展程序。Express服务器利用CSS的键盘记录功能
 - https://github.com/evilcos/cookiehacker    Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
@@ -818,7 +806,7 @@ address | introduce |
 - https://github.com/lijiejie/struts2_045_scan Struts2-045漏洞批量扫描工具
 #### Weblogic系列漏洞
 - https://github.com/dr0op/WeblogicScan    PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
-- https://github.com/mu0gua/VulnPOC    heartbleed；cve-2019-2618 Weblogic；cve-2019-3395 Confluence
+- https://github.com/mu0gua/VulnPOC    heartbleed;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/TopScrew/CVE-2019-2725    wls9_async_response.war 和 wls-wsat.war组件无身份认证授权远程RCE漏洞。命令回显+webshell上传+绕过
@@ -893,25 +881,23 @@ address | introduce |
 - https://github.com/erevus-cn/pocscan 一款开源 Poc 调用框架，可轻松调用Pocsuite，Tangscan，Beebeeto，Knowsec老版本POC.可使用docker部署
 - https://github.com/DavexPro/PocHunter 借鉴pocscan 的一款多利用框架poc适配框架
 ### 资产管理与风险测试
-- https://gobies.org/updates.html 内网资产管理（端口、协议、标题、漏洞）检测。商业版
-- https://github.com/chaitin/cloudwalker CloudWalker（牧云）服务器安全管理平台，逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等功能。
-- https://github.com/mitre/caldera mitre公司模拟攻击测试系统，主要是在win下
-- https://github.com/guardicore/monkey 评估网络安全状况，分为扫描器与C2C服务器，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
-- https://github.com/jeffzh3ng/Fuxi-Scanner 资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
-- https://github.com/infobyte/faraday 协作渗透测试和漏洞管理平台，集成多种
-- https://github.com/DefectDojo/django-DefectDojo 基于django的漏洞资产管理平台
-- https://github.com/creditease-sec/insight web界面，宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
+- https://gobies.org/updates.html    内网资产管理（端口、协议、标题、漏洞）检测。商业版
+- https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要针对win。
+- https://github.com/guardicore/monkey    C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
+- https://github.com/jeffzh3ng/Fuxi-Scanner    资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
+- https://github.com/infobyte/faraday    协作渗透测试和漏洞管理平台，集成多种
+- https://github.com/DefectDojo/django-DefectDojo    基于django的漏洞资产管理平台
+- https://github.com/creditease-sec/insight    web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework 漏洞管理、资产管理、任务扫描系统
-- https://github.com/cea-sec/ivre PY。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。类比shodan/zoomeye
-- https://github.com/ysrc/xunfeng    PY.web界面，同程安全开发的网络资产识别引擎，漏洞检测引擎
-- https://github.com/superhuahua/xunfengES web界面，base巡风开发，一个人的安全
+- https://github.com/cea-sec/ivre    PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。shodan;zoomeye;G:Scan-T.
+- https://github.com/ysrc/xunfeng    PY.web界面，同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
+- https://github.com/lawrenceamer/0xsp-Mongoose    PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
 - https://github.com/zhaoweiho/SecurityManageFramwork    PY3.django。企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化
-- https://github.com/grayddq/PublicMonitors 对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
-- https://github.com/grayddq/PubilcAssetInfo 主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
-- https://github.com/maya6/SiteScan web界面，py3 celery。资产收集
+- https://github.com/grayddq/PublicMonitors    PY.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
+- https://github.com/grayddq/PubilcAssetInfo    PY.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
 - https://github.com/ywolf/F-NAScan    PY2.网络资产、端口服务搜集整理，生成报表显示。快速
-- https://github.com/flipkart-incubator/RTA 扫描公司内部所有在线设备， 提供整体安全视图， 标示所有安全异常
-- https://github.com/0xbug/Biu-framework 企业内网基础服务安全扫描框架
+- https://github.com/flipkart-incubator/RTA    PY.扫描公司内部所有在线设备， 提供整体安全视图， 标示所有安全异常
+- https://github.com/0xbug/Biu-framework    PY.企业内网基础服务安全扫描框架
 ### 被动扫描代理抓包
 - https://www.0daydown.com/03/33647.html IEInspector HTTP Analyzer，可以注入进程进行SSL解密
 - http://soft.125.la 精易助手，包括抓包发包正则调试等工具
@@ -1143,7 +1129,7 @@ address | introduce |
 - https://github.com/rapid7/metasploit-framework    RUBY.后渗透框架。17k。greatjob。
 - https://github.com/EmpireProject/Empire    PS.后渗透命令执行框架。PowerView。4.5k。godjob。
 - https://github.com/PowerShellMafia/PowerSploit    PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。PowerView。5.4k。godjob。
-- https://github.com/samratashok/nishang    PS.测试脚本集与开发框架。Check-VM检查虚拟机；Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）；Invoke-CredentialsPhish欺骗用户输入账号密码信息；FireBuster FireListener对内网进行扫描；Get-Information信息收集
+- https://github.com/samratashok/nishang    PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集
 - https://github.com/SecureAuthCorp/impacket    Impacket是用于处理网络协议的Python工具包，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。
 - https://github.com/maaaaz/impacket-examples-windows    Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    PY,PS.利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块
@@ -1158,7 +1144,7 @@ address | introduce |
 - https://github.com/JusticeRage/FFM    PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
 - https://github.com/DarkSpiritz/DarkSpiritz    PY2.后渗透框架
 - https://github.com/xorrior/RemoteRecon    利用DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
-- https://github.com/0xwindows/VulScritp    内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等
+- https://github.com/0xwindows/VulScritp    内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等
 - https://github.com/zMarch/Orc    bash.Linux下后渗透命令集合
 ### 后渗透信息收集白利用
 - https://github.com/securemode/DefenderKeys    枚举出被 Windows Defender 排除扫描的配置
@@ -1538,7 +1524,7 @@ address | introduce |
 - https://github.com/leeberg/BlueHive    PS.利用Active Directory生成用户账户蜜罐
 - https://github.com/netxfly/x-proxy    GO.代理蜜罐的开发与应用实战。simple
 - https://www.freebuf.com/sectool/204652.html 基于EVE-NG平台上构建企业内网攻防环境
-### 蜜罐框架
+### 蜜罐安全框架
 - https://github.com/Cymmetria 欺骗防御组织。Struct、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://github.com/honeytrap/honeytrap 可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/honeynet/beeswarm    PY.使用agent探针与蜜罐进行实时交互来引诱攻击者
@@ -1552,6 +1538,7 @@ address | introduce |
 - https://github.com/thinkst/opencanary    PY2.SNMP\RDP\SAMBA蜜罐
 - https://github.com/gosecure/pyrdp    PY3.RDP MITM蜜罐
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/ 基于PYRDP.打造可记录图像和按键的RDP蜜罐
+- https://blog.csdn.net/ls1120704214/article/details/88174003    利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐。从MySQL出发的反击之路;G:MysqlT;G:Rogue-MySql-Server
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    C.RTSP服务器组件用以构建摄像头蜜罐
@@ -1677,10 +1664,10 @@ address | introduce |
 - https://www.freebuf.com/news/193684.html iOS取证技巧：在无损的情况下完整导出SQLite数据库
 - https://polytechnic.purdue.edu/facilities/cybersecurity-forensics-lab/tools FileTSAR大规模的数据调查取证
 ## 入侵检测防护安全
-- http://m.imooc.com/article/21236 快速自检电脑是否被黑客入侵过(Windows版)
-- http://www.freebuf.com/articles/system/157597.html 快速自检电脑是否被黑客入侵过（Linux版）
-- http://www.freebuf.com/rookie/179638.html 服务器入侵溯源小技巧整理
-- https://bithack.io/forum/161 如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
+- http://m.imooc.com/article/21236    快速自检电脑是否被黑客入侵过(Windows版)
+- http://www.freebuf.com/articles/system/157597.html    快速自检电脑是否被黑客入侵过（Linux版）
+- http://www.freebuf.com/rookie/179638.html    服务器入侵溯源小技巧整理
+- https://bithack.io/forum/161    intro.如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
 - https://github.com/chaitin/yanshi    C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 ### EDR终端防护
 - http://edr.sangfor.com.cn/    深信服。后门检测查杀、僵尸网络隔离等。
@@ -1725,8 +1712,9 @@ address | introduce |
 - https://github.com/wireshark/wireshark LUA，协议解析流量分析还原
 - http://lcamtuf.coredump.cx/p0f3    C.p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
-- http://tcpick.sourceforge.net TCP流嗅探和连接跟踪工具
-- https://github.com/secdev/scapy 内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
+- https://github.com/0x4D31/fatt    PY.利用tshark对流量进行解析
+- http://tcpick.sourceforge.net    TCP流嗅探和连接跟踪工具
+- https://github.com/secdev/scapy    PY.内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - https://gitee.com/qielige/openQPA 协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 - https://github.com/zerbea/hcxdumptool 从Wlan设备上捕获数据包
 - https://github.com/NytroRST/NetRipper 支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
@@ -1781,6 +1769,7 @@ address | introduce |
 - https://github.com/yassineaddi/BackdoorMan 可对指定目录进行php webshell检测
 - https://github.com/nbs-system/php-malware-finder 一款高效率PHP-webshell扫描工具
 - https://github.com/emposha/PHP-Shell-Detector 测试效率高达99%的webshell检测工具
+- https://github.com/chaitin/cloudwalker    GO.CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
 - https://github.com/emposha/Shell-Detector Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
 - http://www.chkrootkit.org/ rootkit检测工具
 - http://rootkit.nl/projects/rootkit_hunter.html rootkit检测工具
