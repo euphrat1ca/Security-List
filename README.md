@@ -985,14 +985,14 @@ address | introduce |
 - https://github.com/Valve/fingerprintjs2    JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser   JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
 - https://github.com/ticarpi/jwt_tool    PY.json web token的检测
+- https://github.com/dienuet/crossdomain    PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 - https://github.com/chenjj/CORScanner    PY.CORS域配置错误，跨域解析漏洞扫描器。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    intro。CORScanner
 - https://www.anquanke.com/post/id/152339    JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
-- https://github.com/dienuet/crossdomain    PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 ### CSRF跨站请求伪造利用
-- https://www.owasp.org/index.php/File:CSRFTester-1.0.zip csrf验证工具
-- https://github.com/d0nutptr/sic RUST，CSS注入，csrf攻击
-- https://github.com/UltimateHackers/Blazy 支持测试 CSRF， Clickjacking， Cloudflare and WAF的弱口令探测器
+- https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    java.csrf验证工具
+- https://github.com/d0nutptr/sic    RUST.CSS注入，csrf攻击
+- https://github.com/UltimateHackers/Blazy    支持测试 CSRF， Clickjacking， Cloudflare and WAF的弱口令探测器
 ### XSS跨站脚本检测利用
 - https://github.com/UltimateHackers/AwesomeXSS XSS Awesome系列
 - http://www.xss-payloads.com 很全面的xss工具包与资料
