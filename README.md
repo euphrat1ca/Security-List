@@ -168,8 +168,8 @@ address | introduce |
 - https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv    CobaltStrike服务端IP地址
 - https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1    洋葱路由出口节点
 - https://isc.sans.edu/api/threatlist/shodan    shodan撒旦扫描器节点
-- https://vulnerablecontainers.org    对公开docker镜像漏洞扫描，并标出CVE号
 - https://github.com/ReAbout/datacon    DataCon-方向三-攻击源与攻击者分析-writeup
+- https://github.com/t4d/StalkPhish    PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 ### APT威胁情报
 - https://github.com/blackorbird/APT_REPORT apt组织报告与公开文件
 - https://git.laucyun.com/security/APT34 APT34/OILRIG 资源文档文件泄露
@@ -258,10 +258,10 @@ address | introduce |
 - http://www.zerodium.com/    灰色漏洞交易平台0day市场
 - https://0day.today    漏洞市场
 ### 学习靶场
-- https://www.root-me.org     root me在线靶场
-- https://www.hackthebox.eu     HTB在线靶场
-- https://0xrick.github.io/categories/    intro.hack the box靶场write up，二进制逆向
-- https://www.vulnhub.com     实验室、靶场、ctf靶机汇总
+- https://www.root-me.org     俄罗斯root me靶场，在线，免费
+- https://www.hackthebox.eu     欧洲HTB靶场，代理模拟，在线，免费三个等级
+- https://lab.pentestit.ru    俄罗斯靶场，代理模拟，在线，免费一个
+- https://www.vulnhub.com     实验室、靶场、ctf靶机汇总，离线
 - http://www.itsecgames.com     bWAPP，包含 100多种漏洞环境
 - https://www.offensive-security.com/information-security-certifications/     kali攻防技术认证。商业版
 - https://www.pentesteracademy.com     攻防技术认证。商业版
@@ -361,8 +361,11 @@ address | introduce |
 - https://github.com/lionsoul2014/ip2region    ip地址定位库，支持python3等多接口。类似geoip
 - https://github.com/sfan5/fi6s    ipv6端口快速扫描器
 - https://github.com/lavalamp-/ipv666    GO.ipv6地址枚举扫描
+### 容器安全
+- https://vulnerablecontainers.org    对公开docker容器镜像漏洞扫描，并标出CVE号
 - https://github.com/P3GLEG/WhaleTail    根据docker镜像生成成dockerfile
 - https://github.com/cr0hn/dockerscan    docker扫描工具
+- https://github.com/knqyf263/trivy    GO.针对容器的漏洞扫描器.2K。
 ### 测试字典
 - https://github.com/TheKingOfDuck/fuzzDicts Web Pentesting Fuzz 字典
 - https://github.com/7dog7/bottleneckOsmosis JS/api/param/FUZZ 字典
@@ -428,7 +431,6 @@ address | introduce |
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest 集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap 调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/johnnyxmas/scancannon SHELL.联动masscan和nmap
-- https://github.com/shengqi158/weak_password_detect Linux下利用nmap多线程探测ssh弱口令
 #### metasploit相关工具拓展插件
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit 结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL 一个可以创建SSL/TLS shell连接的脚本
@@ -989,6 +991,7 @@ address | introduce |
 - https://github.com/hahwul/a2sv    SSL漏洞扫描，OpenSSL心脏滴血漏洞等
 - https://github.com/Valve/fingerprintjs2    JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser   JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
+- https://github.com/WMJonssen/Centcount-Analytics    PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
 - https://github.com/ticarpi/jwt_tool    PY.json web token的检测
 - https://github.com/dienuet/crossdomain    PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 - https://github.com/chenjj/CORScanner    PY.CORS域配置错误，跨域解析漏洞扫描器。
@@ -1073,15 +1076,17 @@ address | introduce |
 - https://github.com/shack2/SNETCracker    C#.密码爆破工具，支持SSH、RDP、MySQL等常见协议.超级弱口令爆破工具
 - https://github.com/jmk-foofus/medusa    C.Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    C.支持多种协议的破解与爆破
-- https://github.com/lanjelot/patator 支持多种协议的爆破，采用模块化设计，使用灵活
+- https://github.com/lanjelot/patator    支持多种协议的爆破，采用模块化设计，使用灵活
 - https://github.com/euphrat1ca/F-Scrack    PY2.对各类服务用户名密码爆破的脚本.ysrc
 - https://github.com/netxfly/crack_ssh    GO.协程版ssh\redis\mongodb弱口令破解
-- https://github.com/scu-igroup/ssh-scanner 联动nmap、hydra对ssh批量爆破
-- https://github.com/ztgrace/changeme 弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
-- https://github.com/m4ll0k/SMBrute 利用smb服务进行用户名密码爆破
-- https://github.com/TunisianEagles/SocialBox 针对fb、gmail、ins、twitter的用户名密码爆破的脚本
-- https://github.com/Moham3dRiahi/XBruteForcer WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
+- https://github.com/ztgrace/changeme    弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
+- https://github.com/m4ll0k/SMBrute    利用smb服务进行用户名密码爆破
+- https://github.com/TunisianEagles/SocialBox    针对fb、gmail、ins、twitter的用户名密码爆破的脚本
+- https://github.com/Moham3dRiahi/XBruteForcer    WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
 - https://github.com/lijiejie/htpwdScan    PY.simple，http暴力破解、撞库攻击脚本
+- https://github.com/galkan/crowbar    PY.利用key对ssh、rdp、openvpn、vnc爆破
+- https://github.com/scu-igroup/ssh-scanner    NMAP,HYDRA.ssh批量爆破
+- https://github.com/shengqi158/weak_password_detect    NMAP.Linux下多线程探测ssh弱口令
 ### 在线密码破解
 - https://www.cmd5.com/ HASH密码在线破解。限制位数
 - https://hashkiller.co.uk/Cracker    密码破解。Google reCAPTCHA v3。
@@ -1596,7 +1601,8 @@ address | introduce |
 ### 程序调试进程管理
 - https://www.crystalidea.com/uninstall-tool    Windows卸载，软件安装跟踪。商业版。
 - https://github.com/processhacker/processhacker    监控系统资源、软件调试、检测恶意软件，管理进程
-- https://docs.microsoft.com/en-us/sysinternals/    微软系统工具套装。Sysmon（系统监控）/autorun（自启动）/Process Explorer（加强进程管理）等
+- https://docs.microsoft.com/en-us/sysinternals/    Windows Sysinternals出品。autorun（自启动）/Process Explorer（加强进程管理）等
+- https://github.com/SwiftOnSecurity/sysmon-config    Sysmon配置文件。系统进程监控，dns查询。
 - https://github.com/DominicBreuker/pspy    GO.绕过root权限监控进程运行.GOODJOB.
 - https://github.com/osquery/osquery    C++.跨平台讲系统状态模拟为关系数据库，用sql语句查看运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。14k。
 - https://github.com/kkamagui/shadow-box-for-x86    C.X86架构Linux轻量系统监控
@@ -1702,15 +1708,16 @@ address | introduce |
 - https://github.com/ptresearch/AttackDetection    近期漏洞的snort规则rules
 - https://github.com/OISF/suricata    C.IDS\IPS\NSM安全工具，兼容Snort插件
 ### 防火墙/waf/网关规则
-- http://www.safedog.cn/ 安全狗web防火墙
-- http://d99net.net/ 啊D出品D盾防火墙，包含waf与webshel检测功能
+- http://www.safedog.cn/    安全狗web防火墙。免费商业。
+- http://d99net.net/    啊D出品D盾防火墙，包含waf与webshel检测功能。免费商业。
+- https://www.pfsense.org    PHP.防火墙。开源商业
 - https://github.com/SpiderLabs/ModSecurity    C.跨平台 WAF engine for Apache， IIS and Nginx
-- https://github.com/SpiderLabs/owasp-modsecurity-crs a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls
-- https://github.com/klaubert/waf-fle ModSecurity Web控制台
-- https://github.com/xsec-lab/x-waf 适用于中小企业的云waf
-- https://github.com/jx-sec/jxwaf 基于openrestynginx+lua开发，独创的业务逻辑防护引擎和机器学习引擎，解决传统WAF无法对业务安全进行防护的痛点
-- https://github.com/loveshell/ngx_lua_waf 基于lua-nginx-moduleopenresty的web应用防火墙
-- https://github.com/Janusec/janusec 基于Golang开发的应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
+- https://github.com/SpiderLabs/owasp-modsecurity-crs    GO,C.owasp关于ModSecurity等防火墙规则库
+- https://github.com/klaubert/waf-fle    ModSecurity Web控制台
+- https://github.com/xsec-lab/x-waf    适用于中小企业的云waf
+- https://github.com/jx-sec/jxwaf    基于openrestynginx+lua开发，独创的业务逻辑防护引擎和机器学习引擎，解决传统WAF无法对业务安全进行防护的痛点
+- https://github.com/loveshell/ngx_lua_waf    基于lua-nginx-moduleopenresty的web应用防火墙
+- https://github.com/Janusec/janusec    Golang.应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 ### 防护Bypass权限绕过
 - https://github.com/kirillwow/ids_bypass IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass 利用ipV6地址绕过waf
