@@ -63,6 +63,7 @@ address | introduce |
 ### 安全配置基线
 - https://www.cisecurity.org/cis-benchmarks/    CIS总结的140多种配置基准
 - https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
+- https://github.com/trimstray/linux-hardening-checklist    Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://github.com/wstart/DB_BaseLine    数据库基线检查工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    PY.MacOS安全性基线
@@ -296,7 +297,7 @@ address | introduce |
 - https://github.com/bingohuang/docker-labs    制作在线docker平台
 ### Fuzzer模糊测试
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
-- https://github.com/secfigo/Awesome-Fuzzing    Fuzz相关学习资料
+- https://github.com/secfigo/Awesome-Fuzzing    Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
 - https://github.com/googleprojectzero/winafl    C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析 | AFL漏洞挖掘技术漫谈
 - https://github.com/mxmssh/drAFL    C.Linux二进制代码模糊测试
@@ -307,6 +308,7 @@ address | introduce |
 - https://github.com/jtpereyda/boofuzz    PY.基于sulley测试框架的网络协议fuzz测试
 - https://github.com/cisco-sas/kitty    PY.针对TCP/IP的模糊测试框架
 - https://github.com/cisco-sas/katnip    PY.kitty框架的拓展库
+- https://github.com/zyw-200/FirmAFL    C.针对iot固件IoT firmware灰盒模糊测试
 - https://github.com/xmendez/wfuzz    PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文
 - https://github.com/1N3/BlackWidow    PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
 - https://bbs.ichunqiu.com/thread-24898-1-1.html Test404 -HTTP Fuzzer V3.0
@@ -343,7 +345,6 @@ address | introduce |
 - https://github.com/redcanaryco/atomic-red-team    Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    红队工具、攻击手段
 - https://github.com/toolswatch/blackhat-arsenal-tools    blackhat工具集
-- https://github.com/LOLBAS-Project/LOLBAS    常见的渗透测试利用的脚本与二进制文件集合
 - https://github.com/demonsec666/Security-Toolkit    渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    安全工具集
 - https://github.com/k8gege/    K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
@@ -600,8 +601,8 @@ address | introduce |
 - https://github.com/Ice3man543/hawkeye    GO.cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r 根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 - https://github.com/lijiejie/idea_exploit    PY.利用 IDE config folder (.idea) 进行文件下载
-- https://github.com/shengqi158/svnhack .svn文件夹泄漏利用工具
-- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
+- https://github.com/shengqi158/svnhack    PY..svn文件夹泄漏利用工具
+- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
 - https://github.com/Graph-X/davscan    PY,BASH.用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
 - https://github.com/Threezh1/JSFinder    PY.用于发现网站js文件中的url与域名
 - https://github.com/eldraco/domain_analyzer    PY.DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
@@ -627,7 +628,7 @@ address | introduce |
 - https://github.com/dxa4481/truffleHog GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/Hell0W0rld0/Github-Hunter github信息监测脚本
 - https://github.com/awslabs/git-secrets 防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    GO.检查git repo中的密码信息和密钥
+- https://github.com/zricethezav/gitleaks    GO.检查git repo中的密码信息和密钥。G:git-hound.
 - https://github.com/internetwache/GitTools    SHELL\PY3.查找、下载、提取 .git 。1.4k。
 - https://github.com/BugScanTeam/GitHack    PY.可还原历史版本， .git 泄漏利用工具
 ### 目录路径发现
@@ -833,10 +834,10 @@ address | introduce |
 - https://www.ibm.com/us-en/marketplace/appscan-standard    IBM漏洞扫描器，重剑无锋。商业版，有补丁
 - https://github.com/andresriancho/w3af    PY.包含 200+ Web漏洞
 - https://github.com/gyoisamurai/GyoiThon    PY.使用深度学习的渗透测试工具， 从每次扫描数据中学习， 扫描越多， 软件检测精准度越高
-- https://github.com/iSafeBlue/TrackRay    JAVA.溯光 (Trackray)集成资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|AWVS Metasploit集成|漏洞扫描器
+- https://github.com/iSafeBlue/TrackRay    JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
+- https://github.com/TideSec/WDScanner    PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 - https://github.com/w-digital-scanner/w12scan    py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
 - https://github.com/boy-hack/w9scan    PY.下内置1200+插件可对网站进行一次规模的检测
-- https://github.com/boy-hack/w8scan    PY.web界面，基于bugscan扫描和架构思想的扫描器
 - https://www.52pojie.cn/thread-134667-1-1.html    Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].历史感。
 - https://github.com/euphrat1ca/polar-scan    易语言.北极熊扫描器。历史感。
 - https://github.com/euphrat1ca/yeezy-scan    椰树1.9扫描器。历史感。
@@ -887,6 +888,17 @@ address | introduce |
 - https://github.com/knownsec/pocsuite3    PY3.Pocsuite知道创宇维护的一个规范化POC/EXP利用框架.2K.GOODJOB.
 - https://github.com/opensec-cn/kunpeng    GO.POC检测框架，以动态链接库的形式提供各种语言调用
 - https://github.com/Lucifer1993/AngelSword    PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。G:POC-T;G:btScan;G:osprey;G:pocscan;G:TangScan;G:Beebeeto-framework。
+### 被动扫描代理抓包
+- https://www.0daydown.com/03/33647.html IEInspector HTTP Analyzer，可以注入进程进行SSL解密
+- http://soft.125.la 精易助手，包括抓包发包正则调试等工具
+- https://www.getpostman.com Chrome插件，http调试工具
+- https://github.com/jakubroztocil/httpie http调试工具，类似curl，功能更完善
+- https://github.com/zaproxy/zaproxy    JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性，拿来做模糊测试未尝不可。greatjob。6k。
+- https://github.com/x-Ai/BurpUnlimitedre burpsuite 1.7.27的永久破解版。
+- https://github.com/netxfly/passive_scan    PY2.基于Tornado服务的http代理web漏洞扫描器
+- https://github.com/cloudtracer/paskto    js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
+- https://github.com/chaitin/xray 洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置
+- https://github.com/netxfly/Transparent-Proxy-Scanner    GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 ### 资产管理与风险测试
 - https://gobies.org/updates.html    内网资产管理（端口、协议、标题、漏洞）检测。商业版
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要针对win。
@@ -905,29 +917,18 @@ address | introduce |
 - https://github.com/ywolf/F-NAScan    PY2.网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/flipkart-incubator/RTA    PY.扫描公司内部所有在线设备， 提供整体安全视图， 标示所有安全异常
 - https://github.com/0xbug/Biu-framework    PY.企业内网基础服务安全扫描框架
-### 被动扫描代理抓包
-- https://www.0daydown.com/03/33647.html IEInspector HTTP Analyzer，可以注入进程进行SSL解密
-- http://soft.125.la 精易助手，包括抓包发包正则调试等工具
-- https://www.getpostman.com Chrome插件，http调试工具
-- https://github.com/jakubroztocil/httpie http调试工具，类似curl，功能更完善
-- https://github.com/zaproxy/zaproxy    JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性，拿来做模糊测试未尝不可。greatjob。6k。
-- https://github.com/x-Ai/BurpUnlimitedre burpsuite 1.7.27的永久破解版。
-- https://github.com/netxfly/passive_scan    PY2.基于Tornado服务的http代理web漏洞扫描器
-- https://github.com/cloudtracer/paskto    js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
-- https://github.com/chaitin/xray 洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置
-- https://github.com/netxfly/Transparent-Proxy-Scanner    GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 ### 端口服务发现指纹识别
-- https://github.com/nmap/nmap LUA，Nmap端口扫描器，具有有强大的脚本引擎框架.greatjob.
+- https://github.com/nmap/nmap    LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    C.无状态扫描，可以调用nmap进行指纹识别
 - https://github.com/zmap/zmap    C.无状态扫描，需要用C编写扩展模块
-- https://github.com/chichou/grab.js 类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议
+- https://github.com/chichou/grab.js    JS.类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议
 - https://github.com/OffensivePython/Nscan 基于Masscan和Zmap的网络扫描器
 - https://github.com/RASSec/RASscan    端口服务扫描
 - https://github.com/angryip/ipscan    Angry IP Scanner，跨平台界面化端口扫描器
-- https://github.com/Lucifer1993/cmsprint CMS和中间件指纹库
-- https://github.com/zerokeeper/WebEye 快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
-- https://github.com/n4xh4ck5/CMSsc4n CMS指纹识别
-- https://github.com/HA71/WhatCMS CMS检测和漏洞利用脚本， 基于Whatcms.org API
+- https://github.com/Lucifer1993/cmsprint    CMS和中间件指纹库
+- https://github.com/zerokeeper/WebEye    快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
+- https://github.com/n4xh4ck5/CMSsc4n    CMS指纹识别
+- https://github.com/HA71/WhatCMS    CMS检测和漏洞利用脚本， 基于Whatcms.org API
 - https://github.com/urbanadventurer/whatweb    RUBY.web指纹识别
 - https://github.com/Rvn0xsy/FastWhatWebSearch whatweb工具结果搜索平台
 - https://github.com/boy-hack/gwhatweb    PY.CMS识别,gevent多线程实现
@@ -940,10 +941,10 @@ address | introduce |
 - https://github.com/medbenali/CyberScan    PY.渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等
 - https://github.com/ultrasecurity/webkiller    PY.渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
 - https://github.com/mozilla/ssh_scan 服务器ssh配置信息扫描
-- https://github.com/mozilla/cipherscan 目标主机服务ssl类型识别
-- https://github.com/rbsec/sslscan ssl类型识别
-- https://github.com/ywolf/F-MiddlewareScan 中间件扫描服务识别
-- https://github.com/EnableSecurity/wafw00f WAF产品指纹识别
+- https://github.com/mozilla/cipherscan    目标主机服务ssl类型识别
+- https://github.com/rbsec/sslscan    ssl类型识别
+- https://github.com/ywolf/F-MiddlewareScan    中间件扫描服务识别
+- https://github.com/EnableSecurity/wafw00f    WAF产品指纹识别
 - https://github.com/ggusoft/inforfinder    域名资产收集及指纹识别工具
 ### Web漏洞工具CMS利用
 - https://github.com/SecWiki/CMS-Hunter    CMS漏洞测试用例集合
@@ -1229,9 +1230,10 @@ address | introduce |
 - https://github.com/ahhh/Reverse_DNS_Shell    PY.通过dns传输
 - https://github.com/deepzec/Grok-backdoor    PY.利用ngrok的后门
 - https://github.com/trustedsec/trevorc2    PY.搭建一个合法的网站（可浏览），用于隐藏命令执行的客户端/服务器通信
-- https://github.com/iagox86/dnscat2    RUBY,C.cs结构，利用DNS协议进行端对端传输
+- https://github.com/iagox86/dnscat2    RUBY/C.cs结构，利用DNS协议进行端对端传输
 ### shell反弹rootkit生成
 - https://github.com/sysdream/chashell    Golang。利用dns反弹shell
+- https://github.com/WangYihang/Platypus    GO.反弹shell管理工具
 - https://github.com/FlyfishSec/rsGen    BAT.Windows下远程反弹shell命令行工具
 - https://github.com/sensepost/DNS-Shell    PY.本地利用53端口nslookup传输加密的ps命令，回弹shell
 - https://github.com/GuestGuri/Rootkit    PY.反弹一个tcp连接，将进程id绑定到一个空文件夹
@@ -1270,11 +1272,12 @@ address | introduce |
 - https://github.com/hfiref0x/UACME 包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://payloads.online/archivers/2018-12-22/1 DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。倾旋
 - https://github.com/rootm0s/WinPwnage    PY2.win下权限提升，uac绕过，dll注入等
-- https://github.com/stephenfewer/ReflectiveDLLInjection 一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
+- https://github.com/NYAN-x-CAT/Disable-Windows-Defender    C#.Changing values to bypass windows defender
+- https://github.com/stephenfewer/ReflectiveDLLInjection    C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/lmacken/pyrasite    PY3.对运行中dpython进程注入，支持≥py2.4
-- https://github.com/tyranid/DotNetToJScript 能够利用JS/Vbs脚本加载.Net程序的工具
-- https://github.com/Ben0xA/nps 实现不调用powershell.exe执行powershell命令
-- https://github.com/Mr-Un1k0d3r/PowerLessShell 实现不调用powershell.exe执行powershell命令
+- https://github.com/tyranid/DotNetToJScript    C#.能够利用JS/Vbs脚本加载.Net程序的工具
+- https://github.com/Ben0xA/nps    C#.实现不调用powershell.exe执行powershell命令
+- https://github.com/Mr-Un1k0d3r/PowerLessShell    PY.实现不调用powershell.exe执行powershell命令
 - https://github.com/p3nt4/PowerShdll 使用rundll32运行PowerShell，绕过软件限制
 - https://github.com/ionescu007/r0ak 内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell 从非托管程序执行PowerShell，支持进程注入
@@ -1477,11 +1480,11 @@ address | introduce |
 - https://github.com/nsacyber/GRASSMARLIN NSA旗下ICS/SCADA态势感知
 - https://github.com/nezza/scada-stuff 对 SCADA/ICS设备进行逆向与攻击
 ### 摄像头安全
-- https://github.com/woj-ciech/kamerka 配合shodan API将扫描到的摄像头地理位置还有twitter地理显示在地图上
+- https://github.com/woj-ciech/kamerka    PY.调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    GO.针对摄像头RTSP协议渗透测试，附弱口令字典
 - https://github.com/Ullaakut/camerattack    GO.摄像头远程禁用
 - https://github.com/NIteshx2/UltimateSecurityCam    PY3.摄像头监测外来人员软件，有防欺骗设置
-- http://www.dtxiaoting.com 扫描连接的WiFi中摄像头存在情况
+- http://www.dtxiaoting.com    扫描连接的WiFi中摄像头存在情况
 ### 路由网关安全
 - http://stascorp.com/search/?q=Router+Scan Pascal。Router Scan是毛子开发的路由器漏洞利用工具，界面化。GoodJob.
 - https://github.com/threat9/routersploit    PY3.仿msf路由器漏洞框架
@@ -1621,11 +1624,13 @@ address | introduce |
 - https://github.com/ChrisTheCoolHut/Zeratool    PY.pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    PY.pwn，自动攻击脚本
 ### CTF隐写术
+- https://www.freebuf.com/sectool/208781.html    将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
 - https://github.com/DominicBreuker/stego-toolkit    隐写工具包
 - https://dev.stegosuite.org/Stegosuite/Stegosuite/    Java.隐写工具
 - http://www.caesum.com/handbook/Stegsolve.jar    Java.图片隐写查看器，多图层查看器
 # 安全防护相关
+- https://github.com/Bypass007/Safety-Project-Collection    收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
 - https://www.veracrypt.fr    C.2K。类似BitLocker全盘加密，支持磁盘隐藏分区。
 - https://github.com/baidu/AdvBox Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
 - https://github.com/quoscient/octopus 区块链智能合约安全分析工具
@@ -1668,30 +1673,30 @@ address | introduce |
 - https://github.com/wavestone-cdt/hadoop-attack-library hadoop测试方式和工具集
 ## 欺骗防御
 - https://github.com/paralax/awesome-honeypots    蜜罐开源技术收集
-- https://github.com/phage-nz/malware-hunting    利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
-- https://github.com/threatstream/mhn    现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
-- https://github.com/dtag-dev-sec/tpotce    T-POT.里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
-- https://github.com/n3uz/t-pot-autoinstall     将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
-- https://www.freebuf.com/sectool/190840.html    INTRO.T-Pot多蜜罐平台使用心法
-- https://github.com/leeberg/BlueHive    PS.利用Active Directory生成用户账户蜜罐
-- https://github.com/netxfly/x-proxy    GO.代理蜜罐的开发与应用实战。simple
+- https://github.com/Cymmetria    欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    基于EVE-NG平台上构建企业内网攻防环境
 - https://www.bamsoftware.com/hacks/zipbomb/    ZIPBOMB压缩包炸弹
 ### 蜜罐安全
-- https://github.com/Cymmetria 欺骗防御组织。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
-- https://github.com/honeytrap/honeytrap 可扩展蜜罐框架，支持探针部署与高交互蜜罐
+- https://github.com/phage-nz/malware-hunting    PY.利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
+- https://github.com/threatstream/mhn    PY.现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
+- https://github.com/dtag-dev-sec/tpotce    T-POT.里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
+- https://github.com/n3uz/t-pot-autoinstall     bash.将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
+- https://www.freebuf.com/sectool/190840.html    INTRO.T-Pot多蜜罐平台使用心法
+- https://github.com/honeytrap/honeytrap    可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/honeynet/beeswarm    PY.使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web蜜罐
 - https://github.com/p1r06u3/opencanary_web    PY.基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
 - https://gitlab.com/SecurityBender/webhoneypot-framework    PY3.基于docker和docker-compose，现支持wordpress/drupal
 - https://github.com/mushorg/snare    PY3.web安全蜜罐，可克隆指定Web页面
+- https://github.com/netxfly/x-proxy    GO.代理蜜罐的开发与应用实战。simple
 ### 服务蜜罐
 - https://github.com/micheloosterhof/cowrie    PY2.使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/desaster/kippo    PY.蜜罐系统HoneyDrive下的图形化SSH蜜罐。1k。
 - https://github.com/thinkst/opencanary    PY2.SNMP\RDP\SAMBA蜜罐
 - https://github.com/gosecure/pyrdp    PY3.RDP MITM蜜罐
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    INTRO.基于PYRDP,打造可记录图像和按键的RDP蜜罐
-- https://blog.csdn.net/ls1120704214/article/details/88174003    GO.mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;G:MysqlT;G:Rogue-MySql-Server
+- https://blog.csdn.net/ls1120704214/article/details/88174003    GO.mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;G:MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;G:Rogue-MySql-Server
+- https://github.com/leeberg/BlueHive    PS.利用Active Directory生成用户账户蜜罐
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    C.RTSP服务器组件用以构建摄像头蜜罐
@@ -1739,7 +1744,6 @@ address | introduce |
 - https://github.com/kirillwow/ids_bypass    IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass    利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf 防火墙绕过脚本
-- https://github.com/christophetd/CloudFlair    cloudflare绕过，获取真实ip，集成censys
 - https://github.com/swisskyrepo/PayloadsAllTheThings A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - https://github.com/sirpsycho/firecall 直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/ INTRO.规避Sysmon DNS监控
@@ -1748,7 +1752,7 @@ address | introduce |
 - https://github.com/boy-hack/w8fuckcdn    PY.基于masscan通过扫描全网绕过CDN获取网站IP地址
 - https://github.com/3xp10it/xcdn    尝试找出cdn背后的真实ip，3xp10it.github.io 博客
 - https://github.com/zmap/zgrab    GO.基于zmap扫描器进行指纹识别、调度管理，可绕过CDN
-- https://github.com/m0rtem/CloudFail    针对Cloudfail，查找位于CDN后面网站的真实IP
+- https://github.com/christophetd/CloudFlair    PY.利用dns与api进行cloudflare绕过，获取真实ip，集成censys。G:CloudFail;G:Cloudmare.1K。
 - https://github.com/Nitr4x/whichCDN    CDN识别、检测
 - https://github.com/se55i0n/PortScanner    PY2.目标tcp端口快速扫描、banner识别、cdn检测
 - https://github.com/yanxiu0614/subdomain3    py.子域名，IP，CDN信息爆破
