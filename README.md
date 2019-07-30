@@ -35,6 +35,7 @@ address | introduce |
 - https://www.sec-un.org/金融业企业安全建设之路/ 金融业企业安全建设之路。聂军
 - http://paper.tuisec.win/detail/34ab12018f71e71 个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088 安全资产管理中容易被忽视的几点。聂军
+- https://github.com/xdite/internet-security    互联网金融企业安全与风控的实战手册。资安风控
 ### 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/ 卡巴斯基(Kaspersky)的“网络实时地图”
@@ -620,7 +621,7 @@ address | introduce |
 ### Git安全相关
 - https://github.com/0xbug/Hawkeye    JS,PY.GitHub 泄露监控系统
 - https://github.com/neal1991/gshark github信息泄露检测
-- https://github.com/VKSRC/Github-Monitor GitHub监控，代码信息泄露，分钟级监控，邮件预警
+- https://github.com/VKSRC/Github-Monitor    JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警
 - https://github.com/metac0rtex/GitHarvester github Repo信息收集工具
 - https://github.com/repoog/GitPrey GitHub敏感信息扫描工具
 - https://github.com/FeeiCN/GSIL    PY3.近实时监控Github敏感信息，并发送告警通知。
@@ -712,7 +713,7 @@ address | introduce |
 - https://github.com/lunarca/SimpleEmailSpoofer    PY.域名伪造钓鱼邮件
 - https://www.jetmore.org/john/code/swaks/       PERL.基于smtp的邮箱域名伪造测试工具
 ## 漏洞收集
-- https://github.com/swisskyrepo/PayloadsAllTheThings    web漏洞/CVE/WIN。8K.
+- https://github.com/swisskyrepo/PayloadsAllTheThings    Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/mudongliang/LinuxFlaw    包含linux下软件漏洞列表
 - http://www.moonsec.com/post-389.html    GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
 - https://github.com/Lcys/Python_PoC    py3.poc、exp快速编写模板，有众多模范版本
@@ -1111,7 +1112,7 @@ address | introduce |
 - https://github.com/MrSqar-Ye/wpCrack wordpress hash破解
 - https://github.com/testsecer/Md5Decrypt    C#.md5多接口查询基于网上web API的MD5搜索工具
 - https://github.com/s0md3v/Hash-Buster 能调用多个API进行hash破解查询的智能工具
-- https://www.52pojie.cn/thread-275945-1-1.html ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
+- https://www.52pojie.cn/thread-275945-1-1.html    ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
 - https://github.com/fox-it/adconnectdump    PY.Azure AD凭证导出工具
 - https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password Navicate数据库密码解密
 - https://github.com/psypanda/hashID    PY.对超过220种hash识别。使用'hash'
@@ -1427,6 +1428,7 @@ address | introduce |
 - https://github.com/shodan-labs/iotdb nmap配合shodan API扫描IoT设备
 - https://github.com/vletoux/SpoolerScanner 检测 Windows 远程打印机服务是否开启的工具
 ### 物理HID/BadUsb安全
+- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/ USBKiller
 - https://ducktoolkit.com/ BadUsb、橡皮鸭、HID键盘模拟器
 - https://github.com/insecurityofthings/jackit 用于Mousejack的开发代码
 - https://github.com/samratashok/Kautilya PS。为人机接口设备提供各种有效负载的工具包
@@ -1436,10 +1438,10 @@ address | introduce |
 - https://github.com/0katz/CVE-2019-12476 HID绕过win10登录界面，利用浏览器调用powershell
 - https://github.com/tenable/router_badusb 利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
 - https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/ 实战 Teensy 烧录间谍 U 盘
-- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/ USBKiller
 - https://github.com/rawrly/JuiceJacking    BASH.JuiceJacking，利用USB等人机接口设备窃取数据
-- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝
-### 物理硬件设备安全
+- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝usb copy
+- https://github.com/snovvcrash/usbrip    PY.Linux usb设备连接记录追踪。
+### RFID物理设备硬件安全
 - https://github.com/mame82/P4wnP1_aloa 在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
 - http://www.freebuf.com/news/others/605.html RFID Hacking–资源大合集
 - https://www.freebuf.com/geek/195631.html 成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
@@ -1493,7 +1495,7 @@ address | introduce |
 - https://github.com/scu-igroup/telnet-scanner Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## 逆向破解
-- https://down.52pojie.cn/ 吾爱破解爱盘工具包。
+- https://down.52pojie.cn/    吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide 恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
 - https://github.com/radare/radare2    C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
@@ -1626,8 +1628,7 @@ address | introduce |
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
-- https://github.com/DominicBreuker/stego-toolkit    隐写工具包
-- https://dev.stegosuite.org/Stegosuite/Stegosuite/    Java.隐写工具
+- https://github.com/DominicBreuker/stego-toolkit    隐写工具包。Stegosuite
 - http://www.caesum.com/handbook/Stegsolve.jar    Java.图片隐写查看器，多图层查看器
 # 安全防护相关
 - https://github.com/Bypass007/Safety-Project-Collection    收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
@@ -1859,7 +1860,7 @@ address | introduce |
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/wiki_FreeConnect    通讯相关
 # wiki_Selfsource
- - https://github.com/euphrat1ca/wiki_Selfsource    在线资源自服务应用
+ - https://github.com/euphrat1ca/wiki_Selfsource    自服务应用在线资源
 # wiki_TipSkill
  - https://github.com/euphrat1ca/wiki_TipSkill    计算机技术相关
 ***
