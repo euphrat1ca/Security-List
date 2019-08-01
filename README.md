@@ -176,6 +176,7 @@ address | introduce |
 - https://github.com/blackorbird/APT_REPORT apt组织报告与公开文件
 - https://git.laucyun.com/security/APT34 APT34/OILRIG 资源文档文件泄露
 - https://ht.transparencytoolkit.org Hacking Team 400G泄露
+- https://pan-unit42.github.io/playbook_viewer/    针对apt组织的威胁情报汇总
 ## 攻防技术资源
 - https://attack.mitre.org    mitre科技机构对攻击技术的总结wiki。攻击矩阵模型。翻译
 - https://github.com/infosecn1nja/awesome-mitre-attack    Mitre ATT&CK™框架资源收集
@@ -369,6 +370,7 @@ address | introduce |
 - https://github.com/globaleaks/Tor2web    darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    一个使所有流量通过Tor网络发出的脚本
+- https://github.com/Edu4rdSHL/tor-router    bash.使用tor代理全部流量。dnsleaktest.com dns检测。
 - https://github.com/trimstray/multitor 启用多个tor通道转发流量，并设置负载均衡
 ### 容器安全
 - https://vulnerablecontainers.org    对公开docker容器镜像漏洞扫描，并标出CVE号
@@ -558,6 +560,7 @@ address | introduce |
 ### 子域名C段
 - https://github.com/laramies/theHarvester    PY.企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
 - https://github.com/blechschmidt/massdns    C.通过DNS高效子域发现工具
+- https://github.com/SpiderLabs/HostHunter    PY3.通过多接口，ssl证书进行hostname子域名查询。
 - https://github.com/caffix/amass    GO.通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k。goodjob。
 - https://github.com/OJ/gobuster    Golang.根据dns查询子域名和web目录爆破的工具，自带字典
 - https://github.com/michenriksen/aquatone    GO.子域名枚举、探测工具。可用于子域名接管漏洞探测
