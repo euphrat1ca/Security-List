@@ -107,6 +107,7 @@ address | introduce |
 - https://wizardforcel.gitbooks.io/lpad/content    Android 渗透测试学习手册 中文版
 ### 安全基础文章博客
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html 网络安全科普小册子
+- https://book.yunzhan365.com/ybab/exnz/mobile/index.html    FP50 优秀网络安全解决方案 白皮书
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/ 网络安全电子版教材。中传信安课程网站
 - https://space.bilibili.com/37422870 入门安全视频
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26 华为e学云。安全科普
@@ -174,9 +175,11 @@ address | introduce |
 - https://github.com/t4d/StalkPhish    PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 ### APT威胁情报
 - https://github.com/blackorbird/APT_REPORT apt组织报告与公开文件
+- https://github.com/Yeti-791/APT-Guide    apt组织分析文档
 - https://git.laucyun.com/security/APT34 APT34/OILRIG 资源文档文件泄露
 - https://ht.transparencytoolkit.org Hacking Team 400G泄露
 - https://pan-unit42.github.io/playbook_viewer/    针对apt组织的威胁情报汇总
+- https://twthu.co/    apt组织威胁情报站
 ## 攻防技术资源
 - https://attack.mitre.org    mitre科技机构对攻击技术的总结wiki。攻击矩阵模型。翻译
 - https://github.com/infosecn1nja/awesome-mitre-attack    Mitre ATT&CK™框架资源收集
@@ -213,7 +216,7 @@ address | introduce |
 ### 内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement mitre机构对横向移动的总结
 - https://adsecurity.org Active Directory安全攻防
-- https://github.com/Ridter/Intranet_Penetration_Tips 内网渗透TIPS
+- https://github.com/Ridter/Intranet_Penetration_Tips    信息收集/内网渗透TIPS
 - https://payloads.online/archivers/2018-11-30/1 彻底理解Windows认证 - 议题解读。倾旋
 - https://github.com/klionsec/klionsec.github.io 内网大牛的学习历程
 - https://github.com/l3m0n/pentest_study 从零开始内网渗透学习
@@ -256,6 +259,8 @@ address | introduce |
 - https://www.zerodayinitiative.com/    设备（firmware）漏洞市场
 - http://www.zerodium.com/    灰色漏洞交易平台0day市场
 - https://0day.today    漏洞市场
+### BugBounty文章
+- https://github.com/xiangpasama/JDSRC-Small-Classroom    京东SRC小课堂系列文章
 ### 学习靶场
 - https://www.root-me.org     俄罗斯root me靶场，在线，免费
 - https://www.hackthebox.eu     欧洲HTB靶场，代理模拟，在线，免费三个等级
@@ -1391,7 +1396,7 @@ address | introduce |
 - https://github.com/SySS-Research/Seth    PY3,BASH。Linux下MitM RDP远程服务中间人攻击
 ## 无线安全
 - https://github.com/OpenATS/OpenATS    C++.无线电卫星天线追踪系统。
-### 无线网络WIFI中间人攻击
+### WIFI中间人攻击
 - https://github.com/0v3rl0w/e013    VB.窃取Wifi密码. 
 - https://github.com/cls1991/ng    PY.获取你当前连接wifi的密码与ip
 - https://github.com/wi-fi-analyzer/fluxion    窃取用户wifi密码的进行密码重放攻击
@@ -1400,13 +1405,7 @@ address | introduce |
 - https://github.com/sensepost/mana    Wifi劫持工具，可以监听计算机或其他移动设备的Wifi通信，并能够模仿该设备
 - https://github.com/deltaxflux/fluxion    bash,PY.对使用wpa协议的无线网络进行MiTM攻击
 - https://github.com/DanMcInerney/LANs.py    PY.无线网络劫持ARP欺骗
-### 无线网络WIFI防御
-- https://github.com/SkypLabs/probequest 嗅探和显示无线网卡附近的Wifi Probe请求
-- https://github.com/wangshub/hmpa-pi 在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒
-- https://github.com/besimaltnok/PiFinger 检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点
-- https://github.com/WiPi-Hunter/PiSavar 利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
-- https://bbs.pediy.com/thread-246627.htm 打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似大菠萝
-### 无线网络WIFI审计测试
+### WIFI网络审计测试
 - https://www.wifislax.com 西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC
 - https://cn.elcomsoft.com/ewsa.html ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
 - https://www.passcape.com wifipr，握手包密码还原，另外还有许多商业版windows下密码还原工具
@@ -1423,6 +1422,13 @@ address | introduce |
 - https://github.com/chrisk44/Hijacker 手机wifi测试工具
 - https://andrax-pentest.org/ kali hunter手机渗透测试系统
 - https://www.zimperium.com/zanti-mobile-penetration-testing 手机wifi渗透工具
+### WIFI网络防御
+- https://github.com/SkypLabs/probequest 嗅探和显示无线网卡附近的Wifi Probe请求
+- https://github.com/wangshub/hmpa-pi 在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒
+- https://github.com/besimaltnok/PiFinger 检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点
+- https://github.com/WiPi-Hunter/PiSavar 利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
+- https://bbs.pediy.com/thread-246627.htm 打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似大菠萝
+- https://github.com/SYWorks/waidps    PY.Linux下WiFi网络安全预警工具。
 ## IoT物联网安全
 - https://github.com/V33RU/IoTSecurity101 IoT工控安全与物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
 - https://iot-security.wiki/    工控安全百科
@@ -1507,7 +1513,7 @@ address | introduce |
 - https://github.com/Viralmaniar/Passhunt    PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## 逆向破解
 - https://down.52pojie.cn/    吾爱破解爱盘工具包。
-- https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide 恶意软件逆向指南和工具的集合
+- https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
 - https://github.com/radare/radare2    C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    C++.基于QT的radare2框架GUI。5k。
@@ -1518,8 +1524,7 @@ address | introduce |
 - https://github.com/NationalSecurityAgency/ghidra    JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比商业版IDA
 - https://github.com/ghidraninja/ghidra_scripts    YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
-- https://github.com/aquynh/capstone    C.Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
-- https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
+
 ### 程序调试进程管理
 - https://www.crystalidea.com/uninstall-tool    Windows卸载，软件安装跟踪。商业版。
 - https://github.com/processhacker/processhacker    监控系统资源、软件调试、检测恶意软件，管理进程
@@ -1537,6 +1542,11 @@ address | introduce |
 ### 汇编反编译框架
 - https://github.com/endgameinc/xori    RUST.自定义反汇编框架，PE32, 32+ and shellcode。
 - https://github.com/blacknbunny/peanalyzer32    PY3.PE 文件分析和反汇编工具
+- https://github.com/aquynh/capstone    C.Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
+- https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
+### C#/VB/易语言反编译
+- https://github.com/icsharpcode/ILSpy    C#.针对exe反编译软件。8k。goodjob。
+
 ### Python反编译
 - https://sourceforge.net/projects/easypythondecompiler Easy Python Decompiler，支持Python 1.0 - 3.4源码反编译，GUI界面。利用 "Uncompyle2" & "Decompyle++"
 - http://tools.bugscaner.com/decompyle    *.pyc或*.pyo文件在线反编译
@@ -1709,6 +1719,7 @@ address | introduce |
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    INTRO.基于PYRDP,打造可记录图像和按键的RDP蜜罐
 - https://blog.csdn.net/ls1120704214/article/details/88174003    GO.mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;G:MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;G:Rogue-MySql-Server
 - https://github.com/leeberg/BlueHive    PS.利用Active Directory生成用户账户蜜罐
+- https://github.com/hacklcs/HFish    GO.redis\MYSQL\SSH\GitHub蜜罐
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    C.RTSP服务器组件用以构建摄像头蜜罐
@@ -1768,8 +1779,9 @@ address | introduce |
 - https://github.com/se55i0n/PortScanner    PY2.目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    py.子域名，IP，CDN信息爆破
 ## 协议解析流量分析数据还原
-- http://www.tcpdump.org 网络数据包截获分析
-- https://github.com/wireshark/wireshark LUA，协议解析流量分析还原
+- http://www.colasoft.com.cn/download.php    科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
+- https://github.com/wireshark/wireshark    LUA.议解析流量分析还原
+- http://www.tcpdump.org    网络数据包截获分析
 - http://lcamtuf.coredump.cx/p0f3    C.p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
 - https://github.com/0x4D31/fatt    PY.利用tshark对流量进行解析
@@ -1884,5 +1896,6 @@ address | introduce |
 - https://start.me/p/rxRbpo/ti    信息安全导航，APT资源汇总，商业搜索，区块链，CVE号，博客
 - https://www.osint-labs.org    S.R.P OSINT-Labs开源情报实验室
 - https://www.xssav.com    情报网址导航
+- https://sec.thief.one    安全热点聚合平台
 TheEnd
 ***
