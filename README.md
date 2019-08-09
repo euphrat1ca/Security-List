@@ -183,10 +183,9 @@ address | introduce |
 ## 攻防技术资源
 - https://attack.mitre.org    mitre科技机构对攻击技术的总结wiki。攻击矩阵模型。翻译
 - https://github.com/infosecn1nja/awesome-mitre-attack    Mitre ATT&CK™框架资源收集
-- https://huntingday.github.io    MITRE | ATT&CK 中文站
-- https://micropoor.blogspot.com/2019/01/php8.html    PHP安全新闻早8点课程系列高持续渗透--Microporor
-- https://github.com/Micropoor/Micro8    Microporor高级攻防100课
-- https://github.com/maskhed/Papers    包含100课等经典攻防教材、安全知识
+- https://huntingday.github.io    MITRE | att&ck 中文站
+- https://github.com/Micropoor/Micro8    Microporor高级攻防100课。PHP安全新闻早8点课程
+- https://github.com/Ma3k4H3d/Papers    micro100课/AI/二进制逆向
 - https://github.com/infosecn1nja/AD-Attack-Defense    AD活动目录攻击链与防御
 - https://github.com/jeansgit/RedTeam    RedTeam资料收集整理。红蓝对抗资料分享，红蓝对抗相关图片，内网安全渗透总结
 - https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    [译] 渗透测试实战第三版(红队版)The Hacker Playbook 3
@@ -197,11 +196,11 @@ address | introduce |
 - http://www.pentest-standard.org/index.php/Pre-engagement    渗透测试标准-渗透项目实施前的互动。项目实施前
 - https://github.com/nccgroup    国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://github.com/r35tart/Penetration_Testing_Case    攻防测试案例
-- https://somdev.me/21-things-xss/ XSS的21个扩展用途
-- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ sql注入sheet表
-- https://sqlwiki.netspi.com/ 你要的sql注入知识点都能找到
-- https://github.com/kevins1022/SQLInjectionWiki 一个专注于聚合和记录各种SQL注入方法的wiki
-- http://blog.safebuff.com/2016/07/03/SSRF-Tips/ ssrf漏洞利用手册
+- https://somdev.me/21-things-xss/    XSS的21个扩展用途
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    sql注入sheet表
+- https://sqlwiki.netspi.com/    你要的sql注入知识点都能找到
+- https://github.com/kevins1022/SQLInjectionWiki    一个专注于聚合和记录各种SQL注入方法的wiki
+- http://blog.safebuff.com/2016/07/03/SSRF-Tips/    ssrf漏洞利用手册
 ### 社工综合利用
 - https://www.freebuf.com/articles/102500.html    黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    社工大佬的笔记手册
@@ -349,7 +348,7 @@ address | introduce |
 - https://azeria-labs.com/ arm 溢出
 # 技术手段利用方式工具包集合
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    红队开源和商业工具。goodjob。
-- https://github.com/redcanaryco/atomic-red-team    Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集
+- https://github.com/redcanaryco/atomic-red-team    Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    红队工具、攻击手段
 - https://github.com/toolswatch/blackhat-arsenal-tools    blackhat工具集
 - https://github.com/demonsec666/Security-Toolkit    渗透攻击链中常用工具及使用场景
@@ -917,19 +916,19 @@ address | introduce |
 - https://gobies.org/updates.html    内网资产管理（端口、协议、标题、漏洞）检测。商业版
 - https://github.com/mitre/caldera    mitre公司模拟攻击测试系统，主要针对win。
 - https://github.com/guardicore/monkey    C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
-- https://github.com/jeffzh3ng/Fuxi-Scanner    PY.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
+- https://github.com/jeffzh3ng/Fuxi-Scanner    PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/infobyte/faraday    协作渗透测试和漏洞管理平台，集成多种
-- https://github.com/DefectDojo/django-DefectDojo    基于django的漏洞资产管理平台
+- https://github.com/DefectDojo/django-DefectDojo    PY.基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework 漏洞管理、资产管理、任务扫描系统
 - https://github.com/cea-sec/ivre    PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。shodan;zoomeye;G:Scan-T.
 - https://github.com/ysrc/xunfeng    PY.web界面，同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
 - https://github.com/lawrenceamer/0xsp-Mongoose    PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
 - https://github.com/zhaoweiho/SecurityManageFramwork    PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。 
-- https://github.com/grayddq/PublicMonitors    PY.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
-- https://github.com/grayddq/PubilcAssetInfo    PY.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
+- https://github.com/grayddq/PublicMonitors    PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
+- https://github.com/grayddq/PubilcAssetInfo    PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
 - https://github.com/ywolf/F-NAScan    PY2.网络资产、端口服务搜集整理，生成报表显示。快速
-- https://github.com/flipkart-incubator/RTA    PY.扫描公司内部所有在线设备， 提供整体安全视图， 标示所有安全异常
+- https://github.com/flipkart-incubator/RTA    PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常
 - https://github.com/0xbug/Biu-framework    PY.企业内网基础服务安全扫描框架
 ### 端口服务发现指纹识别
 - https://github.com/nmap/nmap    LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
@@ -1444,34 +1443,15 @@ address | introduce |
 - https://github.com/SadFud/Exploits    PY,BASH.PWN利用框架 CTFs exploit POCs.工控POC
 - https://github.com/shodan-labs/iotdb nmap配合shodan API扫描IoT设备
 - https://github.com/vletoux/SpoolerScanner 检测 Windows 远程打印机服务是否开启的工具
-### 物理HID/BadUsb安全
-- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/ USBKiller
-- https://ducktoolkit.com/ BadUsb、橡皮鸭、HID键盘模拟器
-- https://github.com/insecurityofthings/jackit 用于Mousejack的开发代码
-- https://github.com/samratashok/Kautilya PS。为人机接口设备提供各种有效负载的工具包
-- https://github.com/ebursztein/malusb 创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
-- https://github.com/mame82/P4wnP1 在树莓派安装网络劫持键盘注入(WHID)工具
-- https://github.com/360PegasusTeam/GhostTunnel 可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
-- https://github.com/0katz/CVE-2019-12476 HID绕过win10登录界面，利用浏览器调用powershell
-- https://github.com/tenable/router_badusb 利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
-- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/ 实战 Teensy 烧录间谍 U 盘
-- https://github.com/rawrly/JuiceJacking    BASH.JuiceJacking，利用USB等人机接口设备窃取数据
-- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝usb copy
-- https://github.com/snovvcrash/usbrip    PY.Linux usb设备连接记录追踪。
-### RFID物理设备硬件安全
-- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
-- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
-- https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
-- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
-- https://www.balena.io/etcher/    C.USB Live烧录，rufus。10K.
-- https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
-- https://github.com/samyk/magspoof    信用卡信息盗取
-- https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
-- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
-- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
-- https://github.com/RadioWar/NFCGUI    C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
-- https://github.com/LennyLeng/RadioEye    RFID配合常见的NFC使用
-- https://github.com/Proxmark/proxmark3/    RFID神器PM3
+### 工控设备安全
+- https://github.com/moki-ics/moki 一键配置类似kali的工控渗透测试系统的脚本
+- https://gitlab.com/expliot_framework/expliot    PY3.工控安全漏洞测试框架
+- https://github.com/dark-lbp/isf    PY2.在routersploit基础开发的工控测试框架
+- https://github.com/enddo/smod    PY2.使用了scapy模块，主要针对modbus协议测试
+- https://github.com/XHermitOne/icscanner 带界面的ics扫描器
+- https://github.com/yanlinlin82/plcscan 通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
+- https://github.com/nsacyber/GRASSMARLIN NSA旗下ICS/SCADA态势感知
+- https://github.com/nezza/scada-stuff 对 SCADA/ICS设备进行逆向与攻击
 ### 设备固件安全
 - https://github.com/w3h/icsmaster 整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
 - https://blog.attify.com firmware固件安全，IoT安全相关文章
@@ -1485,19 +1465,6 @@ address | introduce |
 - https://github.com/yaseng/iot-security-wiki/ 物联网安全百科。伏宸安全实验
 - https://github.com/RUB-NDS/PRET 打印机攻击框架
 - https://github.com/rapid7/IoTSeeker 物联网设备默认密码扫描检测工具
-- https://github.com/schutzwerk/CANalyzat0r 专有汽车协议的安全分析工具包
-- https://github.com/pasta-auto 智能汽车测试
-- https://github.com/jgamblin/CarHackingTools 汽车黑客工具箱，汽车信息调查
-- https://github.com/jaredthecoder/awesome-vehicle-security 一个用于了解车辆安全和汽车黑客的资源清单
-### 工控设备安全
-- https://github.com/moki-ics/moki 一键配置类似kali的工控渗透测试系统的脚本
-- https://gitlab.com/expliot_framework/expliot    PY3.工控安全漏洞测试框架
-- https://github.com/dark-lbp/isf    PY2.在routersploit基础开发的工控测试框架
-- https://github.com/enddo/smod    PY2.使用了scapy模块，主要针对modbus协议测试
-- https://github.com/XHermitOne/icscanner 带界面的ics扫描器
-- https://github.com/yanlinlin82/plcscan 通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
-- https://github.com/nsacyber/GRASSMARLIN NSA旗下ICS/SCADA态势感知
-- https://github.com/nezza/scada-stuff 对 SCADA/ICS设备进行逆向与攻击
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    PY.调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    GO.针对摄像头RTSP协议渗透测试，附弱口令字典
@@ -1511,6 +1478,39 @@ address | introduce |
 - https://github.com/googleinurl/RouterHunterBR    PHP.路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
+### 车联网智能汽车安全
+- https://github.com/jaredthecoder/awesome-vehicle-security 一个用于了解车辆安全和汽车黑客的资源清单
+- https://github.com/pasta-auto 智能汽车测试
+- https://github.com/schutzwerk/CANalyzat0r    PY.专有汽车协议的安全分析工具包
+- https://github.com/jgamblin/CarHackingTools    BASH.汽车黑客工具箱，汽车信息调查
+## 物理设备HID/BadUsb安全
+- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/ USBKiller
+- https://ducktoolkit.com/ BadUsb、橡皮鸭、HID键盘模拟器
+- https://github.com/insecurityofthings/jackit 用于Mousejack的开发代码
+- https://github.com/samratashok/Kautilya PS。为人机接口设备提供各种有效负载的工具包
+- https://github.com/ebursztein/malusb 创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
+- https://github.com/mame82/P4wnP1 在树莓派安装网络劫持键盘注入(WHID)工具
+- https://github.com/360PegasusTeam/GhostTunnel 可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
+- https://github.com/0katz/CVE-2019-12476 HID绕过win10登录界面，利用浏览器调用powershell
+- https://github.com/tenable/router_badusb 利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
+- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/ 实战 Teensy 烧录间谍 U 盘
+- https://github.com/rawrly/JuiceJacking    BASH.JuiceJacking，利用USB等人机接口设备窃取数据
+- https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝usb copy
+- https://github.com/snovvcrash/usbrip    PY.Linux usb设备连接记录追踪。
+### 硬件安全RFID
+- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
+- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
+- https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
+- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
+- https://www.balena.io/etcher/    C.USB Live烧录，rufus。10K.
+- https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
+- https://github.com/samyk/magspoof    信用卡信息盗取
+- https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
+- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
+- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
+- https://github.com/RadioWar/NFCGUI    C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
+- https://github.com/LennyLeng/RadioEye    RFID配合常见的NFC使用
+- https://github.com/Proxmark/proxmark3/    RFID神器PM3
 ## 逆向破解
 - https://down.52pojie.cn/    吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    恶意软件逆向指南和工具的集合
@@ -1524,7 +1524,6 @@ address | introduce |
 - https://github.com/NationalSecurityAgency/ghidra    JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比商业版IDA
 - https://github.com/ghidraninja/ghidra_scripts    YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
-
 ### 程序调试进程管理
 - https://www.crystalidea.com/uninstall-tool    Windows卸载，软件安装跟踪。商业版。
 - https://github.com/processhacker/processhacker    监控系统资源、软件调试、检测恶意软件，管理进程
@@ -1546,7 +1545,6 @@ address | introduce |
 - https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
 ### C#/VB/易语言反编译
 - https://github.com/icsharpcode/ILSpy    C#.针对exe反编译软件。8k。goodjob。
-
 ### Python反编译
 - https://sourceforge.net/projects/easypythondecompiler Easy Python Decompiler，支持Python 1.0 - 3.4源码反编译，GUI界面。利用 "Uncompyle2" & "Decompyle++"
 - http://tools.bugscaner.com/decompyle    *.pyc或*.pyo文件在线反编译
@@ -1554,24 +1552,28 @@ address | introduce |
 - https://github.com/wibiti/uncompyle2    PY2.针对python2.7源码反编译
 - https://github.com/zrax/pycdc    C++.全版本python反编译
 - https://github.com/countercept/python-exe-unpacker    PY.py2exe or pyinstaller打包解压缩
-### Java反编译
+### Android/JAVA逆向反编译
 - https://github.com/java-decompiler/jd-gui    JAVA.java反编译工具。7k。
 - https://github.com/skylot/jadx    JAVA.jd-gui升级版，反编译出来的代码未格式化。20k。
 - https://github.com/deathmarine/Luyten    JAVA.格式化java反编译后代码，解决jd的INTERNAL ERROR问题。3k。
+- https://www.pd521.com    逆向未来，Android Killer安卓逆向工具
 ## 移动安全
-- https://github.com/Brucetg/App_Security App安全学习资源
+- https://github.com/Brucetg/App_Security    App安全学习资源
 - https://github.com/sensepost/objection    PY.移动端动态调试安全检测，Frida公司开发。goodjob。
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    软件自动化审计框架，支持docker运行。android、ios、win
 - https://github.com/mwrlabs/drozer    PY.MWR Labs开源Android 安全测试框架，支持编写自定义模块。
 - https://github.com/nccgroup/house    JS,PY.运行时手机 App 分析工具包， 带Web GUI
-- https://github.com/nettitude/scrounger    PY.Linux下iOS和Android移动应用程序渗透测试框架
 - https://github.com/lyxhh/lxhToolHTTPDecrypt    js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。
+### 移动端渗透测试框架
+- https://github.com/nettitude/scrounger    PY.Linux下iOS和Android移动应用程序渗透测试框架
+- https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project    移动端kali
+- https://github.com/cSploit/android    JAVA.cSploit: Android network pentesting suite
+- https://termux.com/    Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
+- https://github.com/Gameye98/Lazymux    PY2.通过Termux打造免root安卓渗透工具
 ### Android/JAVA安全
 - https://github.com/rovo89/Xposed    C++.Android动态修改hook，隐藏root执行权限。greatjob。
-- https://github.com/asLody/VirtualApp 安卓虚拟机，多开助手
-- https://github.com/android-hacker/VirtualXposed    基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
-- https://github.com/XekriCorp/LeakVM    安卓应用安全测试框架，已下架
-- https://www.pd521.com 逆向未来，Android Killer安卓逆向工具
+- https://github.com/asLody/VirtualApp    JAVA.安卓虚拟机，多开助手
+- https://github.com/android-hacker/VirtualXposed    JAVA.基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
 - https://github.com/dweinstein/awesome-frida    PY\JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架。GOODJOB。
 - https://github.com/pxb1988/dex2jar    JAVA. android .dex and java .class 文件逆向反编译
 - https://github.com/iBotPeaches/Apktool    java.Android逆向apk反编译工具.8K.
@@ -1580,6 +1582,7 @@ address | introduce |
 - https://github.com/UltimateHackers/Diggy    bash,apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 - https://github.com/programa-stic    基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
+- https://github.com/crifan/android_app_security_crack    安卓应用的安全和破解
 ### IOS与macOS安全
 - https://github.com/dmayer/idb    RUBY.开源的iOS App安全评估工具，作者是Danl A.Mayer。
 - https://github.com/mwrlabs/needle    PY.MWR Labs开发的一个开源iOS安全测试框架，同样支持开发自定义模块来扩展Needle的功能，目前主要功能包含对iOS应用数据存储，IPC.网络通信，静态代码分析，hooking及二进制文件防护等方面的安全审计。
