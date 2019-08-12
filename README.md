@@ -1,9 +1,6 @@
 ***项目简介***
 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
-address | introduce |
--|-|-
-名字 | 介绍 |
-  ***  
+***
 # 安全相关资源列表
 - https://arxiv.org 康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome awesome系列
@@ -24,19 +21,25 @@ address | introduce |
 ## 安全建设
 - https://www.nist.gov/topics/cybersecurity 美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all mitre安全机构。CVE漏洞库
-- https://www.alibabacloud.com/blog 阿里
-- https://security.tencent.com/index.php/blog 腾讯
-- https://github.com/baidu-security 百度
+- https://www.alibabacloud.com/blog 阿里安全建设
+- https://security.tencent.com/index.php/blog 腾讯安全建设
+- https://github.com/baidu-security 百度安全建设
 - https://blogs.cisco.com/tag/ios-security 思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
-- https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention 谷歌
-- https://aws.amazon.com/cn/blogs/security/ 亚马逊
-- https://code.fb.com/category/security/ Facebook
+- https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention 谷歌安全建设
+- https://aws.amazon.com/cn/blogs/security/ 亚马逊安全建设
+- https://code.fb.com/category/security/ Facebook安全建设
 - http://www.freebuf.com/articles/ics-articles/178822.html 浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/ 金融业企业安全建设之路。聂军
 - http://paper.tuisec.win/detail/34ab12018f71e71 个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088 安全资产管理中容易被忽视的几点。聂军
+### 安全运营中心(SOC)建设
+- https://www.secrss.com/articles/8051    谈一谈如何建设体系化的安全运营中心(SOC)
+- http://www.freebuf.com/articles/network/169632.html    开源软件创建SOC的一份清单
+### 安全风控建设
+- https://github.com/threathunterX/nebula    LUA\PERL.威胁猎人开源"星云"业务风控系统
+- https://github.com/momosecurity/aswan    PY.陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - https://github.com/xdite/internet-security    互联网金融企业安全与风控的实战手册。资安风控
-### 产品设计原型
+## 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/ 卡巴斯基(Kaspersky)的“网络实时地图”
 - http://www.digitalattackmap.com/ Arbor networks的由全球270个ISPs匿名分享流量的“数字攻击地图”
@@ -52,7 +55,7 @@ address | introduce |
 - https://www.freebuf.com/sectool/135032.html 构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/ OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
 - https://github.com/dvf/blockchain 用Python从零开始创建区块链
-- https://github.com/crazywa1ker/DarthSidious-Chinese 从0开始你的域渗透之旅。DarthSidious 中文版
+- https://github.com/crazywa1ker/DarthSidious-Chinese    从0开始你的域渗透之旅。DarthSidious 中文版
 - https://paper.seebug.org/772/ 如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 - https://paper.seebug.org/913/ 如何打造自己的PoC框架-Pocsuite3-框架篇。simple
 ## 安全运维
@@ -60,7 +63,6 @@ address | introduce |
 - https://github.com/aqzt/sso    服务器安全运维规范（Server security operation）
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    Linux服务器保护。9k
 - https://github.com/SwiftOnSecurity/sysmon-config    sysmon配置文件安装
-- http://www.freebuf.com/articles/network/169632.html    开源软件创建SOC的一份清单
 ### 安全配置基线
 - https://www.cisecurity.org/cis-benchmarks/    CIS总结的140多种配置基准
 - https://github.com/Jsitech/JShielder    linux下服务器一键加固脚本
@@ -135,29 +137,37 @@ address | introduce |
 - https://github.com/ihack4falafel/OSCE #
 - https://github.com/dhn/OSCE #
 - https://github.com/73696e65/windows-exploits #
-## 数据分析
-- http://pandas.pydata.org 数据分析
-- https://github.com/r0f1/datascience 大数据分析功能库推荐
-- https://github.com/Xyntax/slides/ 安全数据分析/DNS恶意流量分析/威胁防御
-## 情报分析
+## 数据情报分析
+- http://pandas.pydata.org    数据分析
+- https://github.com/r0f1/datascience    大数据分析功能库推荐
+- https://github.com/Xyntax/slides/    安全数据分析/DNS恶意流量分析/威胁防御
+- https://github.com/lion-gu/ioc-explorer    PY.从多数据源进行关联指标（IOC）自动探索
+### 日志分析与可视化
+- https://github.com/grafana/grafana    TypeScript,GO.用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
+- https://github.com/Cyb3rWard0g/HELK    Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
+- https://github.com/JeffXue/web-log-parser    PY.web日志分析工具
+- https://github.com/JPCERTCC/LogonTracer    JS,PY.根据win登陆记录日志来分析并用图形化展示恶意登陆行为
+- https://github.com/jpcertcc/sysmonsearch    JS.将Sysmon的日志结果可视化
+- https://github.com/olafhartong/sysmon-cheatsheet    Sysmon操作手册，各id属性含义
+- https://github.com/baronpan/SysmonHunter    JS.针对att&ck对sysmon日志进行分析展示
+- https://github.com/zhanghaoyil/Hawk-I    PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
+### 多维度情报源
 - http://dingba.top/qqzk 全球智库
 - http://snap.stanford.edu    斯坦福公开数据集。人口/社交/等
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    Alexa网站流量综合排名一万
 - https://github.com/BuzzFeedNews    网络数据集集合
 - http://cdn.databases.today;www.databases.today;publicdbhost.dmca.gripe;www.wttech.org;hashes.org/leaks.php;rchive.org/search.php?query=;https://weleakinfo.com    密码泄露
 - https://opendata.rapid7.com    Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
-- https://www.i-intelligence.eu 情报收集组织。开源情报工具和资源手册2018版(open source intelligence tools and resources handbook)
-- https://www.start.umd.edu/gtd/ 全球恐怖主义动向数据库官网
-- https://osint.link Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
+- https://www.i-intelligence.eu    情报收集组织。开源情报工具和资源手册2018版(open source intelligence tools and resources handbook)
+- https://www.start.umd.edu/gtd/    全球恐怖主义动向数据库官网
+- https://osint.link    Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
 - https://github.com/Te-k/harpoon    PY.基于osint的威胁情报命令行工具
-- https://github.com/needmorecowbell/sniff-paste 针对 Pastebin 的开源情报收集工具
-- https://trumail.io/ 验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
-- https://avoidaclaim.com/fraud-warnings/ 诈骗信息公示
-- http://www.payer.org/test/ 恶意邮件地址电话公式
-- https://github.com/ChrisJohnRiley/Scythe 验证账号是否为常用账号
-- https://github.com/fireeye/GeoLogonalyzer 远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
-- https://github.com/threathunterX/nebula    LUA\PERL，威胁猎人开源"星云"业务风控系统
-- https://github.com/momosecurity/aswan    PY.陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+- https://github.com/needmorecowbell/sniff-paste    针对 Pastebin 的开源情报收集工具
+- https://trumail.io/    验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
+- https://avoidaclaim.com/fraud-warnings/    诈骗信息公示
+- http://www.payer.org/test/    恶意邮件地址电话公式
+- https://github.com/ChrisJohnRiley/Scythe    验证账号是否为常用账号
+- https://github.com/fireeye/GeoLogonalyzer    远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 ### IP地理库
 - https://dev.maxmind.com/geoip/geoip2/geolite2/ geoip2全球IPV4
 - https://www.ipip.net   IPV4.商业版
@@ -180,10 +190,11 @@ address | introduce |
 - https://ht.transparencytoolkit.org Hacking Team 400G泄露
 - https://pan-unit42.github.io/playbook_viewer/    针对apt组织的威胁情报汇总
 - https://twthu.co/    apt组织威胁情报站
+- https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    2006年以来组织团队情报收集
 ## 攻防技术资源
 - https://attack.mitre.org    mitre科技机构对攻击技术的总结wiki。攻击矩阵模型。翻译
 - https://github.com/infosecn1nja/awesome-mitre-attack    Mitre ATT&CK™框架资源收集
-- https://huntingday.github.io    MITRE | att&ck 中文站
+- https://huntingday.github.io    MITRE。att&ck 中文站
 - https://github.com/Micropoor/Micro8    Microporor高级攻防100课。PHP安全新闻早8点课程
 - https://github.com/Ma3k4H3d/Papers    micro100课/AI/二进制逆向
 - https://github.com/infosecn1nja/AD-Attack-Defense    AD活动目录攻击链与防御
@@ -305,7 +316,7 @@ address | introduce |
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
-- https://github.com/googleprojectzero/winafl    C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析 | AFL漏洞挖掘技术漫谈
+- https://github.com/googleprojectzero/winafl    C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析-AFL漏洞挖掘技术漫谈
 - https://github.com/mxmssh/drAFL    C.Linux二进制代码模糊测试
 - https://github.com/k0keoyo/kDriver-Fuzzer    C.基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
 - https://github.com/google/oss-fuzz    C.Linux下的开源软件的模糊测试
@@ -504,7 +515,7 @@ address | introduce |
 - https://github.com/xuanhuan/ss-panel ss用户分布式管理
 - https://github.com/Ahref-Group/SS-Panel-smarty-Edition ss用户分布式管理，兑换码功能、商城系统，服务器信息
 - https://github.com/txthinking/brook    GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
-- https://github.com/Ccapton/brook-web brook程序服务端Web后台管理服务器（Linux|MacOS），基于python、flask、flask-restful
+- https://github.com/Ccapton/brook-web    brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    bash.Brook一键安装脚本
 - https://github.com/v2ray    GO.多协议代理
 - https://github.com/gwuhaolin/lightsocks 轻量级网络混淆代理，基于 SOCKS5 协议，类SS
@@ -554,7 +565,7 @@ address | introduce |
 - http://www.link114.cn/title/ 批量查询网站标题
 - https://www.whatweb.net/   在线web指纹识别
 - http://www.webscan.cc/ 同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具
-- https://www.phpinfo.me/bing.php 在线旁站查询|C段查询|必应接口C段查询
+- https://www.phpinfo.me/bing.php 在线旁站查询\C段查询\必应接口C段查询
 - https://www.phpinfo.me/domain/ 在线子域名爆破
 - http://ceye.io 在线dns查询，http请求解析，日志记录
 - https://www.dnsdb.io DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询
@@ -932,13 +943,16 @@ address | introduce |
 - https://github.com/0xbug/Biu-framework    PY.企业内网基础服务安全扫描框架
 ### 端口服务发现指纹识别
 - https://github.com/nmap/nmap    LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
-- https://github.com/robertdavidgraham/masscan    C.无状态扫描，可以调用nmap进行指纹识别
-- https://github.com/zmap/zmap    C.无状态扫描，需要用C编写扩展模块
-- https://github.com/chichou/grab.js    JS.类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议
-- https://github.com/OffensivePython/Nscan 基于Masscan和Zmap的网络扫描器
-- https://github.com/RASSec/RASscan    端口服务扫描
-- https://github.com/angryip/ipscan    Angry IP Scanner。跨平台界面化端口扫描器
+- https://github.com/robertdavidgraham/masscan    C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
+- https://github.com/zmap/zmap    C.无状态扫描，可使用用C编写扩展模块。censys基础件
+- https://github.com/zmap/zgrab2    GO.配合zmap/ztag的指纹抓取工具
+- https://github.com/zmap/zdns    GO.Fast CLI DNS Lookup Tool
+- https://github.com/zmap/ztag    PY.对zmap\zgrab产生的数据分析打标签。censys三件套
+- https://github.com/OffensivePython/Nscan    PY.类似于Masscan和Zmap的端口服务扫描器
+- https://github.com/RASSec/RASscan    PY.基础端口服务扫描demo
+- https://github.com/angryip/ipscan    JAVA.Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
 - http://www.advanced-ip-scanner.com    Advanced IP Scanner Portable端口扫描器。商业版。
+- https://github.com/chichou/grab.js    JS.类似 zgrab 的TCP指纹抓取解析工具。
 - https://github.com/AliasIO/Wappalyzer    JS.网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    json格式CMS和中间件指纹库
 - https://github.com/HA71/WhatCMS    bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
@@ -1497,6 +1511,7 @@ address | introduce |
 - https://github.com/rawrly/JuiceJacking    BASH.JuiceJacking，利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝usb copy
 - https://github.com/snovvcrash/usbrip    PY.Linux usb设备连接记录追踪。
+- https://github.com/RedDrip7/USB-Bootkit    物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
 ### 硬件安全RFID
 - https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
 - http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
@@ -1543,8 +1558,9 @@ address | introduce |
 - https://github.com/blacknbunny/peanalyzer32    PY3.PE 文件分析和反汇编工具
 - https://github.com/aquynh/capstone    C.Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
 - https://github.com/joxeankoret/pyew    PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
-### C#/VB/易语言反编译
+### VB/易语言/C#反编译
 - https://github.com/icsharpcode/ILSpy    C#.针对exe反编译软件。8k。goodjob。
+- https://github.com/0xd4d/dnSpy    C#.dnSpy is a debugger and .NET assembly editor
 ### Python反编译
 - https://sourceforge.net/projects/easypythondecompiler Easy Python Decompiler，支持Python 1.0 - 3.4源码反编译，GUI界面。利用 "Uncompyle2" & "Decompyle++"
 - http://tools.bugscaner.com/decompyle    *.pyc或*.pyo文件在线反编译
@@ -1802,14 +1818,6 @@ address | introduce |
 - http://packetlife.net/captures/ 站点内容包括协议cheat sheet导图
 - http://speed.cis.nctu.edu.tw/pcaplib/ NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles netresec公司维护。产品包括网络取证与监控，networkminer，caploader，rawcao
-### 日志分析与可视化
-- https://github.com/grafana/grafana    TypeScript,GO.用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
-- https://github.com/Cyb3rWard0g/HELK    Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
-- https://github.com/JeffXue/web-log-parser    PY.web日志分析工具
-- https://github.com/JPCERTCC/LogonTracer    JS,PY.根据win登陆记录日志来分析并用图形化展示恶意登陆行为
-- https://github.com/jpcertcc/sysmonsearch    JS.将Sysmon的日志结果可视化
-- https://github.com/olafhartong/sysmon-cheatsheet    Sysmon操作手册，各id属性含义
-- https://github.com/zhanghaoyil/Hawk-I    PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
 ### 恶意文件样本
 - https://github.com/open-power-workgroup/Hospital 全国莆田系医院名单
 - https://github.com/chenerlich/FCL 恶意代码使用的命令行收集
