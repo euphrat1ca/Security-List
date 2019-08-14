@@ -42,7 +42,7 @@
 ## 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/ 卡巴斯基(Kaspersky)的“网络实时地图”
-- http://www.digitalattackmap.com/ Arbor networks的由全球270个ISPs匿名分享流量的“数字攻击地图”
+- http://www.digitalattackmap.com/    Arbor networks的由全球270个ISPs匿名分享流量的“数字攻击地图”
 - https://hubble.nexusguard.com Nexusguard Hubble攻击地图
 - https://echarts.baidu.com/examples/index.html#chart-type-globe Echart图
 - https://book.yunzhan365.com/dksd/oyru/mobile/index.html 基于攻击链的网络威胁捕猎架构设计
@@ -253,7 +253,7 @@
 - https://dvpnet.io/lddt    DVP去中心化漏洞平台公开漏洞详情
 - https://sec.ly.com/bugs    同程安全公开漏洞详情
 - https://zeroday.hitcon.org/vulnerability/    台湾公开漏洞库
-### 常用漏洞库/SEC/BugBounty
+### 常用漏洞库/SRC/BugBounty
 - https://sploitus.com    公开漏洞搜索引擎。gOODjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    #
 - https://github.com/raminfp/linux_exploit_development    linux漏洞利用开发手册
@@ -312,7 +312,7 @@
 - https://github.com/Medicean/VulApps    收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 - https://github.com/c0ny1/vulstudy     多种漏洞复现系统的docker汇总
 - https://github.com/bingohuang/docker-labs    制作在线docker平台
-### Fuzzer模糊测试
+## Fuzzer模糊测试
 - http://www.freebuf.com/articles/rookie/169413.html    一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    fuzz资料数据库
@@ -328,7 +328,7 @@
 - https://github.com/zyw-200/FirmAFL    C.针对iot固件IoT firmware灰盒模糊测试
 - https://github.com/xmendez/wfuzz    PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文
 - https://github.com/1N3/BlackWidow    PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
-- https://bbs.ichunqiu.com/thread-24898-1-1.html Test404 -HTTP Fuzzer V3.0
+- https://bbs.ichunqiu.com/thread-24898-1-1.html    Test404 -HTTP Fuzzer V3.0
 - http://blog.topsec.com.cn/alphafuzzer/    启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
 ### 学习二进制pwn
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    0day安全：软件漏洞分析技术（第2版）
@@ -378,6 +378,7 @@
 - https://github.com/ultrasecurity/webkiller    PY.渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
 - https://github.com/medbenali/CyberScan    PY.渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等
 - https://github.com/opensec-cn/vtest    PY.用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/ismailtasdelen/hackertarget    PY.Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities. 
 ### 信息保护洋葱路由隐匿流量
 - https://github.com/leitbogioro/Fuck_Aliyun    关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    DWS用来关闭windows监控服务
@@ -756,7 +757,6 @@
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    OpenSSH用户枚举漏洞（CVE-2018-15473）
-- https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE
 - https://www.corben.io/atlassian-crowd-rce/    JAVA.atlassian crowd,CVE-2019-11580.
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
@@ -767,6 +767,7 @@
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    jenkins远程命令执行
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
 - https://github.com/t0kx/exploit-CVE-2015-1427    BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
+- https://github.com/milo2012/CVE-2018-13379    PY.FortiOS飞塔防火墙/VPN漏洞利用
 ### 浏览器漏洞工具
 - https://github.com/SkyLined/LocalNetworkScanner    JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    命令执行Firefox on Windows 64 bits.
@@ -791,7 +792,7 @@
 - https://github.com/MorteNoir1/virtualbox_e1000_0day VirtualBox E1000 Guest-to-Host Escape逃逸。教程
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2 Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
 - https://github.com/Frichetten/CVE-2019-5736-PoC    GO.利用通过从容器内覆盖和执行主机系统runc二进制文件来来逃逸Docker虚拟机
-### MS漏洞收集
+### MS相关漏洞
 - https://github.com/robertdavidgraham/rdpscan    C. CVE-2019-0708 "BlueKeep" vulnerability.检测。msf插件
 - https://github.com/nccgroup/BKScan    BASH.基于rdpscan/freerdp进行0708漏洞扫描，支持NLA验证
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
@@ -832,7 +833,7 @@
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials CVE-2018-9995摄像头路由，Get DVR Credentials
 - https://github.com/marcinguy/android712-blueborne CVE-2017-0781，安卓蓝牙远程代码执行
 - https://www.heibai.org/post/1395.html    奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
-### Java框架漏洞收集
+### Java框架相关漏洞
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    JAVA.枚举测试Java RMI（远程调用服务）安全
 - https://github.com/joaomatosf/jexboss    PY.JBoss和其他java序列化漏洞验证
@@ -840,12 +841,15 @@
 - https://github.com/quentinhardy/jndiat    JAVA.Java类名/目录接口/数据库审计检测
 - https://github.com/Coalfire-Research/java-deserialization-exploits    java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
 - https://github.com/GoSecure/break-fast-serial    借助DNS解析来检测Java反序列化漏洞工具
+#### apache相关漏洞
+- https://github.com/artsploit/solr-injection    Apache Solr Injection注入研究
+- https://github.com/mpgn/CVE-2019-0192/    Apache Solr远程命令执行漏洞
 - https://github.com/brianwrf/hackUtils    PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
 - https://github.com/s1kr10s/Apache-Struts-v3    Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    Apache Tomcat Remote Code Execution on Windows - CGI-BIN
 - https://github.com/Lucifer1993/struts-scan    PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    C#.Struts2漏洞检查工具2018版.界面。
-#### Weblogic系列漏洞
+#### Weblogic相关漏洞
 - https://github.com/dr0op/WeblogicScan    PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
 - https://github.com/mu0gua/VulnPOC    heartbleed;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
@@ -1352,12 +1356,13 @@
 - https://github.com/can1357/CVE-2018-8897    Linux系统利用Syscall实现提权
 - https://github.com/nilotpalbiswas/Auto-Root-Exploit    linux自动提权脚本
 - https://github.com/WazeHell/PE-Linux    Linux提权工具
-### Windows提利用相关
+### Windows提权利用相关
 - http://www.fuzzysecurity.com/tutorials/16.html    windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Sherlock    PS.win提权漏洞验证。1k。
 - https://github.com/SecWiki/windows-kernel-exploits    Windows平台提权漏洞Exp集合
 - https://github.com/51x/WHP    windows下各种提权与利用工具
+- https://github.com/taviso/ctftool/    C.利用Windows文本服务框架（TSF）下CTF文本服务协议进行高权限操作
 - https://github.com/WindowsExploits/Exploits    微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
 - https://github.com/SandboxEscaper/polarbearrepo    C++.Win 10计划任务本地权限提升、win server 2016-2019提权
 - https://github.com/breenmachine/RottenPotatoNG    C++.CVE漏洞编号：CVE-2016-3225，烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权
@@ -1493,36 +1498,39 @@
 - https://github.com/scu-igroup/telnet-scanner Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ### 车联网智能汽车安全
-- https://github.com/jaredthecoder/awesome-vehicle-security 一个用于了解车辆安全和汽车黑客的资源清单
-- https://github.com/pasta-auto 智能汽车测试
+- https://github.com/jaredthecoder/awesome-vehicle-security    一个用于了解车辆安全和汽车黑客的资源清单
+- https://github.com/pasta-auto    智能汽车测试
 - https://github.com/schutzwerk/CANalyzat0r    PY.专有汽车协议的安全分析工具包
 - https://github.com/jgamblin/CarHackingTools    BASH.汽车黑客工具箱，汽车信息调查
-## 物理设备HID/BadUsb安全
-- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/ USBKiller
-- https://ducktoolkit.com/ BadUsb、橡皮鸭、HID键盘模拟器
-- https://github.com/insecurityofthings/jackit 用于Mousejack的开发代码
-- https://github.com/samratashok/Kautilya PS。为人机接口设备提供各种有效负载的工具包
-- https://github.com/ebursztein/malusb 创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
-- https://github.com/mame82/P4wnP1 在树莓派安装网络劫持键盘注入(WHID)工具
-- https://github.com/360PegasusTeam/GhostTunnel 可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
-- https://github.com/0katz/CVE-2019-12476 HID绕过win10登录界面，利用浏览器调用powershell
-- https://github.com/tenable/router_badusb 利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
-- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/ 实战 Teensy 烧录间谍 U 盘
+## 硬件安全物理设备
+- https://shop.hak5.org/    硬件设备商店
+- https://github.com/O-MG/DemonSeed/    利用hid伪造恶意苹果数据线
+- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
+- https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
+- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
+- https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
+- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
+- https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
+- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
+### 物理设备HID/BadUsb
+- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    USBKiller
+- https://ducktoolkit.com/    BadUsb、橡皮鸭、HID键盘模拟器
+- https://github.com/insecurityofthings/jackit    用于Mousejack的开发代码
+- https://github.com/samratashok/Kautilya    PS.为人机接口设备提供各种有效负载的工具包
+- https://github.com/ebursztein/malusb    创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
+- https://github.com/mame82/P4wnP1    在树莓派安装网络劫持键盘注入(WHID)工具
+- https://github.com/360PegasusTeam/GhostTunnel    可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
+- https://github.com/0katz/CVE-2019-12476    HID绕过win10登录界面，利用浏览器调用powershell
+- https://github.com/tenable/router_badusb    利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
+- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    实战 Teensy 烧录间谍 U 盘
 - https://github.com/rawrly/JuiceJacking    BASH.JuiceJacking，利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    C#.U盘文件自动拷贝usb copy
 - https://github.com/snovvcrash/usbrip    PY.Linux usb设备连接记录追踪。
 - https://github.com/RedDrip7/USB-Bootkit    物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
-### 硬件安全RFID
-- https://github.com/mame82/P4wnP1_aloa    在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
-- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
-- https://www.freebuf.com/geek/195631.html    成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
-- https://github.com/UnicornTeam/HackCube-Special    独角兽实验室硬件渗透测试平台
 - https://www.balena.io/etcher/    C.USB Live烧录，rufus。10K.
-- https://github.com/osqzss/gps-sdr-sim    使用ADALM-Pluto, bladeRF, HackRF, and USRP等软件平台进行GPS信号模拟
+### 硬件安全RFID/NFC
+- http://www.freebuf.com/news/others/605.html    RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    信用卡信息盗取
-- https://github.com/knownsec/gsm    GO.使用树莓派配合硬件来进行短信转发
-- https://github.com/Orange-Cyberdefense/fenrir-ocd    主要功能和用途是绕过有线802.1x保护并使你能够访问目标网络
-- https://www.jianshu.com/p/a6927ffe0a20    adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
 - https://github.com/RadioWar/NFCGUI    C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
 - https://github.com/LennyLeng/RadioEye    RFID配合常见的NFC使用
 - https://github.com/Proxmark/proxmark3/    RFID神器PM3
@@ -1569,10 +1577,13 @@
 - https://github.com/zrax/pycdc    C++.全版本python反编译
 - https://github.com/countercept/python-exe-unpacker    PY.py2exe or pyinstaller打包解压缩
 ### Android/JAVA逆向反编译
+- https://www.pd521.com    逆向未来，android 逆向菜鸟速参手册完蛋版，Android Killer安卓逆向工具
 - https://github.com/java-decompiler/jd-gui    JAVA.java反编译工具。7k。
 - https://github.com/skylot/jadx    JAVA.jd-gui升级版，反编译出来的代码未格式化。20k。
 - https://github.com/deathmarine/Luyten    JAVA.格式化java反编译后代码，解决jd的INTERNAL ERROR问题。3k。
-- https://www.pd521.com    逆向未来，Android Killer安卓逆向工具
+- https://github.com/pxb1988/dex2jar    JAVA. android .dex and java .class 文件逆向反编译
+- https://github.com/iBotPeaches/Apktool    java.Android逆向apk反编译工具.8K.
+- https://github.com/UltimateHackers/Diggy    bash.apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 ## 移动安全
 - https://github.com/Brucetg/App_Security    App安全学习资源
 - https://github.com/sensepost/objection    PY.移动端动态调试安全检测，Frida公司开发。goodjob。
@@ -1591,11 +1602,8 @@
 - https://github.com/asLody/VirtualApp    JAVA.安卓虚拟机，多开助手
 - https://github.com/android-hacker/VirtualXposed    JAVA.基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现
 - https://github.com/dweinstein/awesome-frida    PY\JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架。GOODJOB。
-- https://github.com/pxb1988/dex2jar    JAVA. android .dex and java .class 文件逆向反编译
-- https://github.com/iBotPeaches/Apktool    java.Android逆向apk反编译工具.8K.
-- https://github.com/zsdlove/ApkVulCheck    PY3.安卓apk后进行特征值匹配，不是很好用
+- https://github.com/zsdlove/ApkVulCheck    PY3.对安卓apk进行特征值匹配。justsoso。
 - https://github.com/jboss-javassist/javassist    JAVA.能够操作字节码框架，通过它我们能很轻易的修改class代码文件。2.2K
-- https://github.com/UltimateHackers/Diggy    bash,apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 - https://github.com/programa-stic    基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    安卓证书锁定解除的工具
 - https://github.com/crifan/android_app_security_crack    安卓应用的安全和破解
@@ -1654,13 +1662,14 @@
 - https://github.com/gabemarshall/microctfs    SHELL,JS.小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    PY.部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    C++.为CTF比赛编写CrackMe软件
-### CTF杂项
+### CTF密码学
 - https://github.com/zardus/ctf-tools    ctf工具集
 - https://github.com/bugsafe/WeReport   PHP.WeReport报告助手，一键生成测试报告。
 - https://github.com/0Chencc/CTFCrackTools    kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://www.wishingstarmoye.com/ctf/autokey    CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
 - https://github.com/guyoung/CaptfEncoder    Node.js.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 - https://github.com/Wfzsec/awd_attack_framework   PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
+- https://github.com/3summer/CTF-RSA-tool    PY2.ctf rsa套路
 ### CTF二进制pwn利用
 - https://github.com/Gallopsled/pwntools    PY.pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    PY.pwn类型，二进制利用框架
@@ -1669,6 +1678,7 @@
 - https://www.freebuf.com/sectool/208781.html    将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
 - https://github.com/DominicBreuker/stego-toolkit    隐写工具包。Stegosuite
+- https://github.com/livz/cloacked-pixel    PY2.LSB图片数据隐藏
 - http://www.caesum.com/handbook/Stegsolve.jar    Java.图片隐写查看器，多图层查看器
 # 安全防护相关
 - https://github.com/Bypass007/Safety-Project-Collection    收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
