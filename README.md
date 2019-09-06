@@ -1,5 +1,6 @@
-***项目简介***
-信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
+***项目简介***  
+&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。  
+&emsp;&emsp;两千多行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。  
 ***
 # 安全相关资源列表
 - https://arxiv.org  康奈尔大学（Cornell University）开放文档
@@ -159,6 +160,7 @@
 - https://github.com/baronpan/SysmonHunter  JS.针对att&ck对sysmon日志进行分析展示
 - https://github.com/zhanghaoyil/Hawk-I  PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
 - https://github.com/open-falcon  GO/PY.小米开源的OpenFalcon是一款企业级、高可用、可扩展的开源监控解决方案。
+- https://github.com/JPCERTCC/LogonTracer  PY.日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。G:Releasel0ck/NetTracer;。
 ### 多维度情报源
 - http://dingba.top/qqzk 全球智库
 - https://data.mendeley.com/  门德利数据集
@@ -416,6 +418,11 @@
 - https://github.com/Ridter/Pentest  后门、exp、fuzzing、字典、ps脚本
 - https://github.com/danielmiessler/SecLists  用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell
 - https://github.com/alpha1e0/pentestdb  WEB渗透测试数据库。用于提供渗透测试的辅助工具(pentest-tool)、资源文件
+- https://github.com/brannondorsey/PassGAN  PY.深度学习，密码字典样本生成
+- https://github.com/Mebus/cupp  PY.根据用户习惯密码生成弱口令探测
+- https://github.com/Saferman/cupper  PY.根据用户习惯密码生成弱口令探测，楼上升级
+- https://github.com/LandGrey/pydictor  PY3.特定密码字典生成
+- https://github.com/HongLuDianXue/BaiLu-SED-Tool  pascal.白鹿社工字典生成器
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook  C#.基于.NET Core运行时实现的Windows HOOK库
@@ -685,10 +692,6 @@
 - https://github.com/Xyntax/FileSensor  PY3.动态敏感文件探测工具
 - https://github.com/ring04h/weakfilescan  PY.多线程网站泄露信息检测工具
 ## 社工相关
-- https://github.com/brannondorsey/PassGAN  PY.深度学习，密码字典样本生成
-- https://github.com/Mebus/cupp  PY.根据用户习惯密码生成弱口令探测
-- https://github.com/Saferman/cupper  PY.根据用户习惯密码生成弱口令探测，楼上升级
-- https://github.com/LandGrey/pydictor  PY3.特定密码字典生成
 - https://github.com/mehulj94/Radium-Keylogger  py.键盘记录工具
 - https://github.com/threatexpress/domainhunter  检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名
 - https://github.com/Mr-Un1k0d3r/CatMyPhish  收集目标类似的尚未注册的域名
@@ -1164,6 +1167,7 @@
 - https://github.com/clr2of8/DPAT  PY.利用hashcat等工具域密码进行破解测试
 ### 网站管理WebShell
 - https://github.com/AntSwordProject/antSword  js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
+- https://github.com/AntSwordProject/AntSword-Labs  antSword测试环境
 - https://github.com/Chora10/Cknife/pulls  JAVA.G:SecQuanCknife;gitee.com/9199771/cknife。2K。GOODJOB。
 - https://github.com/euphrat1ca/hatchet  C++.中国大砍刀
 - https://github.com/tengzhangchao/PyCmd  PY.一句话木马客户端程序，目前支持php、jsp，CS端通信加密
@@ -1292,7 +1296,7 @@
 ### 多姿态远控shell
 - https://blog.csdn.net/Fly_hps/article/list/8?/  FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
 - https://github.com/inquisb/icmpsh  C.Simple reverse ICMP shell。G:PiX-C2;G:icmptunnel。
-- https://github.com/iagox86/dnscat2  RUBY/C.cs结构，利用DNS协议进行端对端传输。G:dnscat2-powershell;G:Reverse_DNS_Shell。2k。goodjob。
+- https://github.com/iagox86/dnscat2  RUBY/C.cs结构，利用DNS协议进行端对端传输。G:yarrick/iodine;G:dns2tcp;G:lukebaggett/dnscat2-powershell;G:ahhh/Reverse_DNS_Shell。2k。goodjob。
 - https://github.com/Coalfire-Research/Slackor  GO,PY3.基于slack框架命令控制，利用dnsdns隐匿信道传输。集成spookflare/impacket/pypykatz。simple。goodjob。
 - https://github.com/DamonMohammadbagher/NativePayload_ARP  C#.利用arp协议传输后门
 - https://github.com/byt3bl33d3r/gcat  PY2.使用 gmail 作为 C&C 服务器。G:gdog;G:Powershell-RAT。
@@ -1823,7 +1827,7 @@
 - https://github.com/chaitin/yanshi  C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 ### EDR终端防护
 - http://edr.sangfor.com.cn/  深信服。后门检测查杀、僵尸网络隔离等。
-- https://documentation.wazuh.com  C.C/S架构网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞极限检测等。
+- https://documentation.wazuh.com  C.C/S架构网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
 ### 入侵检测系统IPS/IDS/HIDS
 - https://github.com/baidu/openrasp  基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。1k。greatjob。
 - https://github.com/StamusNetworks/SELKS  基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
@@ -1932,7 +1936,7 @@
 - https://github.com/Neo23x0/Loki 一款APT入侵痕迹扫描器
 - https://github.com/target/strelka  PY3.通过实时扫描文件进行分析和实时监测。
 ## 压力测试DDOS/CC/拒绝服务
-- https://github.com/ywjt/Dshield DDOS防护
+- https://github.com/ywjt/Dshield  PY.DDOS防护
 - https://github.com/NewEraCracker/LOIC/  C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
 - https://github.com/IKende/Beetle.DT  C#.分布式压力测试工具
 - https://github.com/649/Memcrashed-DDoS-Exploit  PY.利用shodan搜索Memcached服务器进行压力测试
