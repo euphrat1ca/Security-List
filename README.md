@@ -51,7 +51,7 @@
 - https://www.anquanke.com/post/id/178339 漏扫动态爬虫实践。pyppeteer
 - https://www.jianshu.com/p/1ea9845b9f1d 使用Airtest超快速开发App爬虫
 - https://www.jianshu.com/p/852e0fbe2f4c 安全产品厂商分类
-- https://github.com/xianlimei/yiwei.github.io/wiki  私有云、区块链、rasp、waf、主机安全、堡垒机、应急响应中心、数据库安全防护、流量镜像。相关产品说明
+- https://github.com/xianlimei/yiwei.github.io/wiki  私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html 构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/ OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
@@ -874,7 +874,7 @@
 - https://www.tenable.com/downloads/nessus  有偿漏洞扫描器，系统漏洞检测功能突出。有偿，有Nessus无IP限制版虚拟机
 - https://www.ibm.com/us-en/marketplace/appscan-standard  IBM漏洞扫描器，重剑无锋。有偿，有补丁
 - https://github.com/andresriancho/w3af  PY.包含 200+ Web漏洞
-- https://github.com/gyoisamurai/GyoiThon  PY.使用深度学习的渗透测试工具， 从每次扫描数据中学习， 扫描越多， 软件检测精准度越高
+- https://github.com/gyoisamurai/GyoiThon  PY.使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
 - https://github.com/iSafeBlue/TrackRay  JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
 - https://github.com/TideSec/WDScanner  PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 - https://github.com/w-digital-scanner/w12scan  py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
@@ -1508,13 +1508,13 @@
 - https://github.com/nsacyber/GRASSMARLIN  NSA旗下ICS/SCADA态势感知
 - https://github.com/nezza/scada-stuff  对 SCADA/ICS设备进行逆向与攻击
 ### 设备固件安全
-- https://github.com/w3h/icsmaster 整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
-- https://blog.attify.com firmware固件安全，IoT安全相关文章
-- https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/ 固件硬件逆向分析方法技巧
-- https://www.jianshu.com/p/3b3df82500b6 绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/ 绿盟：智能设备安全分析手册.pdf
-- https://paper.seebug.org/613/ 工控漏洞挖掘方法之固件逆向分析
-- https://github.com/unprovable/PentestHardware 硬件渗透测试实用手册
+- https://github.com/w3h/icsmaster  整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
+- https://blog.attify.com  firmware固件安全，IoT安全相关文章
+- https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/  固件硬件逆向分析方法技巧
+- https://www.jianshu.com/p/3b3df82500b6  绿盟马良：智能设备漏洞挖掘中几个突破点
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/  绿盟：智能设备安全分析手册.pdf
+- https://paper.seebug.org/613/  工控漏洞挖掘方法之固件逆向分析
+- https://github.com/unprovable/PentestHardware  硬件渗透测试实用手册
 - https://github.com/cwerling/psptool  PY.分析和解析AMD安全处理器的固件工具包
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/ 物联网安全百科。伏宸安全实验
@@ -1590,7 +1590,7 @@
 - https://docs.microsoft.com/en-us/sysinternals/  Windows Sysinternals出品。autorun（自启动）/Process Explorer（加强进程管理）等
 - https://github.com/SwiftOnSecurity/sysmon-config  Sysmon配置文件。系统进程监控，dns查询。
 - https://github.com/DominicBreuker/pspy  GO.绕过root权限监控进程运行.GOODJOB.
-- https://github.com/osquery/osquery  C++.跨平台讲系统状态模拟为关系数据库，用sql语句查看运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。14k。
+- https://github.com/osquery/osquery  C++.Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。14k。
 - https://github.com/kkamagui/shadow-box-for-x86  C.X86架构Linux轻量系统监控
 - https://github.com/kkamagui/shadow-box-for-arm  C.PY。ARM架构Linux轻量系统监控
 - https://osquery.io  facebook开源的osquery跨平台系统监控、分析、查询软件
