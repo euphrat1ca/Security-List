@@ -5,7 +5,7 @@
 - https://github.com/sym233/core-values-encoder    js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/ SCIgen    学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub  JS.万物皆可rss
-### 公开资源工具
+## 公开资源工具
 - https://archive.org    Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    网站时光机
 - https://wn.run    万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
@@ -19,6 +19,12 @@
 - https://github.com/wu-dada/baidupankey    JS.基于云盘万能钥匙api查询百度网盘提取密码
 - http://www.speedpan.com/ 下载
 - https://github.com/peterq/pan-light    GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
+### 地理定位
+- 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
+- http://opencellid.org/  gsm定位
+- cellidfinder.com  Cell ID Finder
+- cellphonetrackers.org  手机追踪器
+
 ### SEO引流
 - https://www.seopojie.com    推广链接SPAM，SEO
 - http://www.mkgzs.com    猫客剑眉大侠SEO引流
