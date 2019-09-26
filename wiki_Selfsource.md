@@ -107,6 +107,8 @@
 - https://dwz.cn    //百度短连接
 - http://suo.im    //访问数据查询，访问
 ## 办公套件
+- https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，封装系统。github:Chuyu-Team.
+- https://github.com/Chuyu-Team    //
 - https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
 - https://sadd.io/ 在线操作系统
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
@@ -121,7 +123,7 @@
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    //PY.putty远程服务管理工具。MobaXterm注册机
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR.
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
