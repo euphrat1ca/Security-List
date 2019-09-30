@@ -61,6 +61,7 @@
 - https://github.com/Lz1y/CVE-2018-8420    //Windows的msxml解析器漏洞可以通过ie或vbs执行后门
 - https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）https://www.freebuf.com/vuls/147793.html
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
+- https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
@@ -117,7 +118,7 @@
 - https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 #### Weblogic相关漏洞
 - https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
-- https://github.com/mu0gua/VulnPOC    //heartbleed改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
+- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
