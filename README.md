@@ -272,6 +272,7 @@
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
+- https://0day.life    //漏洞研究文章
 - https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件，简直漏洞挖掘教程
 - http://ics.cnvd.org.cn    //中国国家工控漏洞库
 - https://ics-cert.us-cert.gov/advisories    //美国国家工控漏洞库
@@ -671,17 +672,14 @@
 - https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
 - https://github.com/dowjones/hammer    //PY.AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ### Git安全相关
-- https://github.com/0xbug/Hawkeye    //JS,PY.GitHub 泄露监控系统
-- https://github.com/neal1991/gshark    //github信息泄露检测
+- https://github.com/0xbug/Hawkeye    //JS,PY.GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;
+- https://github.com/neal1991/gshark    //JS/GO.github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;
 - https://github.com/VKSRC/Github-Monitor    //JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警
-- https://github.com/metac0rtex/GitHarvester    //github Repo信息收集工具
-- https://github.com/repoog/GitPrey    //GitHub敏感信息扫描工具
-- https://github.com/FeeiCN/GSIL    //PY3.近实时监控Github敏感信息，并发送告警通知。
+- https://github.com/Furduhlutur/yar    //GO.用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
-- https://github.com/Hell0W0rld0/Github-Hunter    //github信息监测脚本
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound.
+- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound;G:metac0rtex/GitHarvester;。
 - https://github.com/internetwache/GitTools    //SHELL\PY3.查找、下载、提取 .git 。1.4k。
 - https://github.com/BugScanTeam/GitHack    //PY.可还原历史版本， .git源代码泄漏利用工具
 ### 目录路径发现
