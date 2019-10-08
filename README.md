@@ -1226,11 +1226,11 @@
 - https://github.com/mhaskar/Linux-Root-Kit    //PY.simple。linux简单rootkit
 - https://github.com/PinkP4nther/Sutekh    //C.rootkit使普通用户获取root shell
 ## 后门生成与混淆免杀
+- https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
+- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索
 - https://github.com/Screetsec/Vegile    //SHELL/C.msf免杀，程序注入
 - https://github.com/MohamedNourTN/Terminator    //PY2.msf免杀
-- https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
 - https://github.com/abedalqaderswedan1/aswcrypter    //py,bash.msf免杀
-- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索
 - https://github.com/pasahitz/zirikatu    //msf免杀
 - https://github.com/govolution/avet    //msf免杀
 - https://github.com/GreatSCT/GreatSCT    //msf免杀
@@ -1281,7 +1281,7 @@
 ### shellcode相关
 - https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。有偿
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY/C.后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY/C.通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C.以十六进制的方式执行shellcode，绕过杀软。
 - https://github.com/clinicallyinane/shellcode_launcher/    //C++.加载shellcode方式的payload到内存
 - https://github.com/Zer0Mem0ry/RunPE    //C++.通过内存读取，网络传输内容，利用PE执行shellcode
@@ -1297,14 +1297,14 @@
 - https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。2k。goodjob。Github:linuxprivchecker
 - https://github.com/jondonas/linux-exploit-suggester-2    //perl.查找linux哪些补丁没有打，存在提权利用。Github:linux-exploit-suggester。
 - https://github.com/belane/linux-soft-exploit-suggester    //查找linux那些软件有漏洞
-- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。
+- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
 - https://guif.re/linuxeop    //linux提权命令集合
 - https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
 - https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:DirtyCow-EXP;dirtycow.ninja。2.3k。
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台。release。
 - https://github.com/jas502n/CVE-2018-17182    //Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
-- https://github.com/jas502n/CVE-2018-17182/ Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
+- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
 - https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权
 - https://github.com/can1357/CVE-2018-8897    //Linux系统利用Syscall实现提权
