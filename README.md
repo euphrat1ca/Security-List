@@ -293,7 +293,7 @@
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://www.root-me.org    //俄罗斯root me靶场，在线，免费
 - https://lab.pentestit.ru    //俄罗斯靶场，真实环境，在线，免费一个
-- http://www.itsecgames.com    //bWAPP，包含 100多种漏洞环境
+- http://www.itsecgames.com    //bWAPP，bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。有偿
 - https://www.pentesteracademy.com    //攻防技术认证。有偿
 - https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
@@ -978,12 +978,13 @@
 - https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    //SQLi Dumper基于搜索引擎的自动化注入利用工具。GoodJob
 - https://github.com/ron190/jsql-injection    //Java.SQL注入工具.GOODJOB
 - https://github.com/shack2/SuperSQLInjectionV1    //C#.安恒航牛的超级SQL注入工具【SSQLInjection】.GOODJOB
-- https://www.52pojie.cn/thread-80225-1-1.html    //Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，虽然NoUpdate但历史感。
-- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，虽然NoUpdate但历史感。
-- https://github.com/Hadesy2k/sqliv    //PY2.SIMPLE，基于搜索引擎的批量SQL注入漏洞扫描器
-- https://github.com/quentinhardy/odat    //针对Oracle注入渗透工具
+- https://www.52pojie.cn/thread-80225-1-1.html    //Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，NoUpdate，历史感。
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，NoUpdate，历史感。
+- https://github.com/codingo/NoSQLMap    //PY2.针对nosql数据库的注入工具。1k。
+- https://github.com/torque59/Nosql-Exploitation-Framework    //NoSQL扫描/爆破工具
+- https://github.com/se55i0n/DBScanner    //PY2.扫描常见sql、no-sql数据库资产，进行未授权访问和弱口令检测。simple。
 - https://github.com/youngyangyang04/NoSQLAttack    //一款针对mongoDB的攻击工具
-- https://github.com/jas502n/unauthorized-tools    //PY.用于快速探测MongoDB未授权数据库结构，取第一条内容，并统计数据数量。 
+- https://github.com/jas502n/unauthorized-tools    //PY.用于快速探测MongoDB未授权数据库结构，取第一条内容，并统计数据数量。
 - https://studio3t.com/download    //MongoDB扫描与连接工具
 - https://github.com/Neohapsis/bbqsql    //SQL盲注利用框架
 - https://github.com/m8r0wn/enumdb    //MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
@@ -991,12 +992,12 @@
 - https://github.com/Mayter/mssql-command-tool    //GO.mssql连接工具，sqlserver利用
 - http://www.4hou.com/system/14950.html    //INTRO.利用PowerUpSQL，渗透测试技巧：绕过SQL Server登录触发器限制
 - https://github.com/stampery/mongoaudit    //MongoDB审计及渗透工具
-- https://github.com/torque59/Nosql-Exploitation-Framework    //NoSQL扫描/爆破工具
-- https://github.com/se55i0n/DBScanner    //PY2.扫描常见sql、no-sql数据库资产，进行未授权访问和弱口令检测。simple
 - https://github.com/missDronio/blindy    //MySQL盲注爆破工具
 - https://github.com/LoRexxar/Feigong    //针对各种情况自由变化的MySQL注入脚本
 - https://github.com/JohnTroony/Blisqy    //PY.用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB
 - https://github.com/Turr0n/firebase    //对没有正确配置的firebase数据库进行利用
+- https://github.com/quentinhardy/odat    //针对Oracle注入渗透工具
+- https://github.com/Hadesy2k/sqliv    //PY2.基于搜索引擎的批量SQL注入漏洞扫描器。simple。
 - https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    //PHP.sql注入辅助，数据脱取。
 - https://github.com/bambish/ScanQLi    //PY3.SQLI漏洞探测工具，不包含利用。simple
 ### 口令扫描密码爆破证书验证
@@ -1495,7 +1496,7 @@
 - https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
 - https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://www.hex-rays.com    //IDA pro反汇编工具。有偿。
-- https://github.com/x64dbg/x64dbg    //C++.x64/x32 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
+- https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
 - https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比有偿IDA
 - https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
