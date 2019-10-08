@@ -1491,15 +1491,15 @@
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
-- https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
-- https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
-- https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
-- https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://www.hex-rays.com    //IDA pro反汇编工具。有偿。
 - https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
 - https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比有偿IDA
 - https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
+- https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
+- https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
+- https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
+- https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
 ### 脱壳分析PE操作
 - http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。StudyPE;
