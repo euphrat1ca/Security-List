@@ -161,10 +161,11 @@
 - https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
 - https://github.com/mannirulz/BotDAD    //PY2.使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
 - https://github.com/lion-gu/ioc-explorer    //PY.从多数据源进行关联指标（IOC）自动探索
-### IP地理库
+### 地理定位分布ip库
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
 - https://www.ipip.net    //IPV4.有偿
 - https://www.ipplus360.com    //IPV4/IPV6地址库。有偿
+- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。ics-radar.shodan.io
 ### 多维度情报源
 - http://dingba.top/qqzk 全球智库
 - https://data.mendeley.com/    //门德利数据集
@@ -304,6 +305,7 @@
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
 - https://github.com/ethicalhack3r/DVWA    //web安全实验靶场
 - https://github.com/secvulture/dvta    //CS客户端靶场
+- https://www.netresec.com/?page=PCAP4SICS    //ics靶场pcap数据包
 - https://www.freebuf.com/articles/web/123779.html    //intro.新手指南：DVWA-1.9全级别教程
 - https://github.com/78778443/permeate    //php.常见漏洞靶场
 - https://github.com/gh0stkey/DoraBox    //php.常见漏洞靶场
@@ -1383,22 +1385,15 @@
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似大菠萝
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
-## IoT物联网安全
-- https://github.com/V33RU/IoTSecurity101    //IoT工控安全与物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
-- https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
+## ICS工控安全
 - https://iot-security.wiki/    //工控安全百科
 - http://www.linuxscada.info    //工控基础知识
 - http://www.freebuf.com/ics-articles    //工控相关文章
-- https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
-- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
-- https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - http://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
-- https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
-- https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali。
-- https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
-### ICS工控安全
 - https://github.com/w3h/icsmaster    //整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
-- http://www.icsmaster.org/archives/ics/942    //工控安全工具集
+- http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
+- https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
+- https://www.controlthings.io/    //SamuraiSTFU ics kali
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
 - https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
 - https://github.com/moki-ics/moki    //一键配置类似kali的工控渗透测试系统的脚本
@@ -1407,14 +1402,28 @@
 - https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens关于ICS数据包处理\捕获\可视化显示。
 - https://github.com/nsacyber/GRASSMARLIN    //Grassmarlin是一款由美国国家安全局开发的，能够帮助运维工程师在IP网络上发现并编目监控和数据采集系统（SCADA）和工业控制系统（ICS）主机的开源软件工具，也被称为被动网络映射器。其数据源十分多样化，包括PCAP文件、路由器和交换机配置文件、CAM表以及实时网络数据包的捕获。该工具能够自动识别可用网络，生成网络拓扑，实现主机间通信的可视化，还能够展示从主机通信中所提取的元数据。
+- https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
+- https://github.com/XHermitOne/icscanner    //界面化ics扫描器
+### ics 西门子S7安全
 - http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件
 - https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。
 - https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
-- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
-- https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
-- https://github.com/XHermitOne/icscanner    //界面化ics扫描器
-- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
+- https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
+### ics scada安全
 - https://github.com/nezza/scada-stuff    //对SCADA/ICS设备进行逆向与攻击
+- https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
+### ics modbus安全
+- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
+- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
+## IoT物联网安全
+- https://github.com/V33RU/IoTSecurity101    //IoT工控安全与物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
+- https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
+- https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
+- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
+- https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
+- https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
+- https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali。
+- https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 ### 设备固件安全
 - https://blog.attify.com    //firmware固件安全，IoT安全相关文章
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
