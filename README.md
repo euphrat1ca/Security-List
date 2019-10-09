@@ -474,6 +474,7 @@
 - https://github.com/TheKingOfDuck/burpFakeIP    //IP修改伪造
 #### sqlmap相关工具拓展插件
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
+- https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
 - https://github.com/KINGSABRI/sqlmap-tamper-api    //利用各种语言来编写sqlmapTamper
 - https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles的被动SQL注入漏洞扫描工具
