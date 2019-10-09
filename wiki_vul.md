@@ -34,6 +34,29 @@
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
+- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
+### Java框架相关漏洞
+- https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
+- https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
+- https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
+- https://github.com/frohoff/ysoserial    //java.用于生成反序列验证利用载荷
+- https://github.com/quentinhardy/jndiat    //JAVA.Java类名/目录接口/数据库审计检测
+- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
+- https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
+#### apache相关漏洞
+- https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
+- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
+- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
+- https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
+- https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
+- https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
+- https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
+#### Weblogic相关漏洞
+- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
+- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
+- https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
+- https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
+- https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
 ### 浏览器漏洞工具
 - https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
@@ -52,7 +75,7 @@
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
 ### MS相关漏洞
-- https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708, 四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。
+- https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708, 四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce，增加xp/03;
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
 - https://github.com/3gstudent/Smbtouch-Scanner    //PY.方程式永恒之蓝ETERNAL 445 SMB漏洞检测
 - https://github.com/countercept/doublepulsar-detection-script    //PY.方程式双倍脉冲RDP漏洞
@@ -100,25 +123,3 @@
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
 - https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
-### Java框架相关漏洞
-- https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
-- https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
-- https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
-- https://github.com/frohoff/ysoserial    //java.用于生成反序列验证利用载荷
-- https://github.com/quentinhardy/jndiat    //JAVA.Java类名/目录接口/数据库审计检测
-- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
-- https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
-#### apache相关漏洞
-- https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
-- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
-- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
-- https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
-- https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
-- https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
-- https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
-#### Weblogic相关漏洞
-- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
-- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
-- https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
-- https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
-- https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
