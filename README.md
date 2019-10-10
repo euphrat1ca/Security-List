@@ -262,7 +262,7 @@
 - https://github.com/userlandkernel/plataoplomo    //Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
 - https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
-- https://www.exploit-db.com    //美国Offensive Security的漏洞库。kali团队，自带poc/exp，MSF插件
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security的exploit-db.com漏洞库。kali团队，包含插件、漏洞环境等。
 - https://bugreader.com    //国外知名厂商公开漏洞详情
 - https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
 - https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
@@ -1386,37 +1386,8 @@
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似大菠萝
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
-## ICS工控安全
-- https://iot-security.wiki/    //工控安全百科
-- http://www.linuxscada.info    //工控基础知识
-- http://www.freebuf.com/ics-articles    //工控相关文章
-- http://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
-- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;
-- http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
-- https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
-- https://www.controlthings.io/    //SamuraiSTFU ics kali
-- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
-- https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
-- https://github.com/moki-ics/moki    //一键配置类似kali的工控渗透测试系统的脚本
-- https://gitlab.com/expliot_framework/expliot    //PY3.工控安全漏洞测试框架
-- https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。wenzheZhu
-- https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
-- https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens关于ICS数据包处理\捕获\可视化显示。
-- https://github.com/nsacyber/GRASSMARLIN    //Grassmarlin是一款由美国国家安全局开发的，能够帮助运维工程师在IP网络上发现并编目监控和数据采集系统（SCADA）和工业控制系统（ICS）主机的开源软件工具，也被称为被动网络映射器。其数据源十分多样化，包括PCAP文件、路由器和交换机配置文件、CAM表以及实时网络数据包的捕获。该工具能够自动识别可用网络，生成网络拓扑，实现主机间通信的可视化，还能够展示从主机通信中所提取的元数据。
-- https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
-- https://github.com/XHermitOne/icscanner    //界面化ics扫描器
-### ics 西门子S7安全
-- http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件
-- https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。
-- https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
-- https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
-### ics scada安全
-- https://github.com/nezza/scada-stuff    //对SCADA/ICS设备进行逆向与攻击
-- https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
-### ics modbus安全
-- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
-- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
 ## IoT物联网安全
+- https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科
 - https://github.com/V33RU/IoTSecurity101    //IoT工控安全与物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
@@ -1489,6 +1460,35 @@
 - https://github.com/RadioWar/NFCGUI    //C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
 - https://github.com/LennyLeng/RadioEye    //RFID配合常见的NFC使用
 - https://github.com/Proxmark/proxmark3/    //RFID神器PM3
+## ICS工控安全
+- http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
+- https://www.freebuf.com/ics-articles    //工控相关文章
+- https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
+- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;
+- http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
+- https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
+- https://www.controlthings.io/    //SamuraiSTFU ics kali
+- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
+- https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
+- https://github.com/moki-ics/moki    //一键配置类似kali的工控渗透测试系统的脚本
+- https://gitlab.com/expliot_framework/expliot    //PY3.工控安全漏洞测试框架
+- https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。wenzheZhu
+- https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
+- https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens关于ICS数据包处理\捕获\可视化显示。
+- https://github.com/nsacyber/GRASSMARLIN    //Grassmarlin是一款由美国国家安全局开发的，能够帮助运维工程师在IP网络上发现并编目监控和数据采集系统（SCADA）和工业控制系统（ICS）主机的开源软件工具，也被称为被动网络映射器。其数据源十分多样化，包括PCAP文件、路由器和交换机配置文件、CAM表以及实时网络数据包的捕获。该工具能够自动识别可用网络，生成网络拓扑，实现主机间通信的可视化，还能够展示从主机通信中所提取的元数据。
+- https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
+- https://github.com/XHermitOne/icscanner    //界面化ics扫描器
+### ics 西门子S7安全
+- http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件
+- https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。
+- https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
+- https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
+### ics scada安全
+- https://github.com/nezza/scada-stuff    //对SCADA/ICS设备进行逆向与攻击
+- https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
+### ics modbus安全
+- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
+- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
 ## 逆向破解
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
@@ -1746,6 +1746,7 @@
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统
 - https://www.qemu.org    //qemu-kvm虚拟机管理工具
 - https://github.com/moby/moby    //GO.Linux下虚拟容器dockerCE。54k。
+- https://github.com/containers/libpod    //GO.podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //RUBY.管理虚拟机。19k。
 - https://www.virtualbox.org    //跨平台多系统支持
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具。有偿
