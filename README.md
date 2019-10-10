@@ -1,6 +1,7 @@
-***项目简介***  
-&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。  
-&emsp;&emsp;两千多行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。
+***项目简介***
+- https://github.com/euphrat1ca/security_w1k1    mywiki
+&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
+&emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。
 ******
 # 安全相关资源列表
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
@@ -1390,7 +1391,7 @@
 - http://www.linuxscada.info    //工控基础知识
 - http://www.freebuf.com/ics-articles    //工控相关文章
 - http://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
-- https://github.com/w3h/icsmaster    //整合工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具
+- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;
 - http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
 - https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
