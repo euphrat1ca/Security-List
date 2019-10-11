@@ -1083,7 +1083,7 @@
 - https://github.com/FortyNorthSecurity/WMImplant    //PS.利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit。
 - https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。3.3K。greatjob。
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
-- https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS.利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块.3K。goodjob。
+- https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS.CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块.3K。goodjob。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
 - https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
