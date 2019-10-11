@@ -231,7 +231,7 @@
 ### 社工综合利用
 - https://www.freebuf.com/articles/102500.html    //黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
-- https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。倾旋
+- https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan
 ### Web漏洞攻防
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    //Web安全学习笔记
@@ -243,7 +243,7 @@
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://adsecurity.org    //Active Directory安全攻防
 - https://github.com/Ridter/Intranet_Penetration_Tips    //信息收集/内网渗透TIPS
-- https://payloads.online/archivers/2018-11-30/1    //彻底理解Windows认证 - 议题解读。倾旋
+- https://payloads.online/archivers/2018-11-30/1    //彻底理解Windows认证 - 议题解读。qingxuan
 - https://github.com/klionsec/klionsec.github.io    //内网大牛的学习历程
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习
 - https://3gstudent.github.io    //域渗透/DNS/可信目录/横向移动
@@ -391,7 +391,7 @@
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest Kali。
 - https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。pentest kali。
-- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。倾旋。https://cooolis.payloads.online
+- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。https://cooolis.payloads.online
 - https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具
 - https://github.com/kabachook/k8s-security/    //bash/py.Kubernetes安全集合
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#.针对Windows开发规范的Windows协议测试套件
@@ -1255,8 +1255,9 @@
 ### 劫持注入权限绕过
 - https://github.com/hfiref0x/UACME    //包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
-- https://payloads.online/archivers/2018-12-22/1    //DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。倾旋
-- https://github.com/rootm0s/WinPwnage    //PY2.win下权限提升，uac绕过，dll注入等
+- https://payloads.online/archivers/2018-12-22/1    //DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan
+- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。
+- https://github.com/rootm0s/WinPwnage    //PY2.win下权限提升，uac绕过，dll劫持注入等
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#.Changing values to bypass windows defender
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
@@ -1576,7 +1577,7 @@
 ## 系统监控管理
 - https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals出品系统管理套装。autorun（自启动）/Process Explorer（加强进程管理）等
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等
-- down4.huorong.cn/hrsword.exe    //火绒剑
+- down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
 - https://github.com/draios/sysdig    //C++.系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/PY.ARM架构Linux系统监控，同仓库还有shadow-box-for-x86架构系统监控
 - https://github.com/osquery/osquery    //C++.Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
