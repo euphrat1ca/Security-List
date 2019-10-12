@@ -138,6 +138,7 @@
 - https://github.com/theLSA/CS-checklist    //CS客户端安全检查checklist
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 ## 应急响应溯源
+- https://security.tencent.com/opensource/detail/19    腾讯开源的xSRC应急响应中心cms
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
 - https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。1.1k。
 - https://github.com/tide-emergency/yingji    //PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
@@ -344,8 +345,9 @@
 - https://github.com/google/oss-fuzz    //C.Linux下的开源软件的模糊测试
 - https://github.com/google/honggfuzz    //C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
 - https://github.com/bunzen/pySSDeep    //PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。GO.glaslos/ssdeep;C.ssdeep-project/ssdeep
-- https://github.com/jtpereyda/boofuzz    //PY.基于sulley测试框架的网络协议fuzz测试
-- https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架
+- https://github.com/OpenRCE/sulley    //PY.网络协议fuzz测试.
+- https://github.com/jtpereyda/boofuzz    //PY.基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。1.8K。W:peachfuzzer;
+- https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
 - https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库
 - https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
 - https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文
