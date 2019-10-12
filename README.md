@@ -1467,7 +1467,7 @@
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
 - https://www.freebuf.com/ics-articles    //工控相关文章
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
-- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;
+- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;G:euphrat1ca/ICSwiki;
 - http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
 - https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
