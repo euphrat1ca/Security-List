@@ -1,6 +1,8 @@
 ***项目简介***
-- https://github.com/euphrat1ca/security_w1k1    mywiki
+- https://github.com/euphrat1ca/security_w1k1    //mywiki
+  
 &emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
+  
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。
 ******
 # 安全相关资源列表
@@ -73,6 +75,10 @@
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://www.qianxin.com/threat/reportaptlist    //奇安信创新研究。红蓝紫队
+### 安全博客论坛
+- bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
+- cn0xroot.com:雪碧，通信硬件；lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
+- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站
 - https://www.hackinn.com/index.php/archives/492/    //HackingDay 2019 (中国杭州)
@@ -80,10 +86,6 @@
 - https://github.com/knownsec/KCon    //KCon大会文章PPT
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
-### 安全博客论坛
-- bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
-- cn0xroot.com:雪碧，通信硬件；lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
-- https://github.com/evilcos/papers    //余弦关于网络空间文章分享
 ### 安全工具使用手册指导介绍
 - https://github.com/HarmJ0y/CheatSheets    //多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
@@ -392,7 +394,7 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest Kali。
-- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。pentest kali。
+- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,KALI WINDOWS;
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。https://cooolis.payloads.online
 - https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具
 - https://github.com/kabachook/k8s-security/    //bash/py.Kubernetes安全集合

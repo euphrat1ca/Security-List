@@ -3,8 +3,8 @@
 ## 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
-- https://pdos.csail.mit.edu/archive/scigen/ SCIgen    //学术文档虚拟文件生成钓鱼
-- https://github.com/DIYgod/RSSHub  JS.万物皆可rss
+- https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
+- https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -12,38 +12,39 @@
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
 - https://www.onlinedoctranslator.com/    //在线文档翻译
-- https://zh.wikihow.com 生活百科
-- https://pandownload.com/ 下载
+- https://zh.wikihow.com    //生活百科
+- https://pandownload.com/    //下载
 - https://www.baiduwp.com/    //网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
 - https://github.com/wu-dada/baidupankey    //JS.基于云盘万能钥匙api查询百度网盘提取密码
-- http://www.speedpan.com/ 下载
+- http://www.speedpan.com/    //下载
 - https://github.com/peterq/pan-light    //GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
+- https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 ### 地理定位
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
-- http://opencellid.org/  gsm定位
-- cellidfinder.com  Cell ID Finder
-- cellphonetrackers.org  手机追踪器
+- http://opencellid.org/    //gsm定位
+- cellidfinder.com    //Cell ID Finder
+- cellphonetrackers.org    //手机追踪器
 
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 ### 素材
-- https://msdn.itellyou.cn 原生镜像
-- http://patorjk.com Text to ASCII Art Generator
-- https://mixkit.co/ 在线视频素材
-- https://www.flaticon.com 免费图标网站
+- https://msdn.itellyou.cn    //原生镜像
+- http://patorjk.com    //Text to ASCII Art Generator
+- https://mixkit.co/    //在线视频素材
+- https://www.flaticon.com    //免费图标网站
 - https://world-flags.org/worldflagstoha    //国旗动漫化
-- https://www.wondercv.com/ 简历模板生成
+- https://www.wondercv.com/    //简历模板生成
 ### 在线编辑
-- https://www.toolfk.com/ 程序员工具箱。文本对比/取坐标/转换/文档生成
-- https://codebeautify.org 在线代码美化
-- https://www.draw.io 在线思维导图/流程图
+- https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
+- https://codebeautify.org    //在线代码美化
+- https://www.draw.io    //在线思维导图/流程图
 - https://www.remove.bg/api    //在线抠图。api
-- https://www.photopea.com/ 在线ps
-- http://edit.foxitcloud.cn/ 在线pdf编辑
-- https://www.pdfpai.com/ 在线pdf转换
-- http://www.alltoall.net/ 在线格式转换
+- https://www.photopea.com/    //在线ps
+- http://edit.foxitcloud.cn/    //在线pdf编辑
+- https://www.pdfpai.com/    //在线pdf转换
+- http://www.alltoall.net/    //在线格式转换
 ### 资源下载
 - https://www.cn-ki.net/    //知网、论文期刊检索下载
 - http://sci-hub.tw/    //文献、专利、书籍下载
@@ -88,11 +89,11 @@
 - https://github.com/PHPMailer/PHPMailer    //   PHP.PHP发送邮件的组件
 - https://github.com/mailpile/Mailpile    //PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 ### 客户端通讯
-- https://github.com/dplusec/tgwechat/  采用Telegram类似的安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
-- https://bbs.pediy.com/thread-224988.htm  intro.[原创]PC微信发送消息研究
-- https://bbs.pediy.com/thread-223178.htm  intro.[原创] 对控制PC端微信发送信息的研究
-- https://github.com/TonyChen56/WeChatRobot  C++.微信pc机器人。
-- https://github.com/anhkgg/SuperWeChatPC  超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+- https://github.com/dplusec/tgwechat/    //采用Telegram类似的安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
+- https://bbs.pediy.com/thread-224988.htm    //intro.[原创]PC微信发送消息研究
+- https://bbs.pediy.com/thread-223178.htm    //intro.[原创] 对控制PC端微信发送信息的研究
+- https://github.com/TonyChen56/WeChatRobot    //C++.微信pc机器人。
+- https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 ### 社区管理
 - https://github.com/elgg/elgg    //PHP.社交网络引擎、社区，mysql数据库
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
@@ -111,7 +112,7 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
-- https://sadd.io/ 在线操作系统
+- https://sadd.io/    //在线操作系统
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
 - https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com
 - https://thyrsi.com/ 图片上传分享工具
@@ -150,20 +151,19 @@
 - https://zbj.com    //猪八戒，重庆外包，压价
 - http://task.a5.cn/tasklist.html    //外包
 ### 域名与IP检测
-https://x.threatbook.cn/
-https://www.virustotal.com/gui/
-https://www.threatcrowd.org/
-https://www.threatminer.org/
-https://www.talosintelligence.com/
-https://checkphish.ai/domain/avfisher.win
-https://login.opendns.com/
-https://www.alexa.com/siteinfo
-https://centralops.net/co/DomainDossier.aspx?dom_whois=1&net_whois=1&dom_dns=1
+https://x.threatbook.cn/    //
+https://www.virustotal.com/gui/    //
+https://www.threatminer.org/    //
+https://www.talosintelligence.com/    //
+https://checkphish.ai/domain/avfisher.win    //
+https://login.opendns.com/    //
+https://www.alexa.com/siteinfo    //
+https://centralops.net/co/DomainDossier.aspx?dom_whois=1&net_whois=1&dom_dns=1    //
 ### URL检测
-https://urlscan.io/
-https://sitecheck.sucuri.net/results/pool.cortins.tk
-https://quttera.com/
-https://www.virustotal.com/en/
+https://urlscan.io/    //
+https://sitecheck.sucuri.net/results/pool.cortins.tk    //
+https://quttera.com/    //
+https://www.virustotal.com/en/    //
 https://checkphish.ai/
 ### TOR节点检测
 https://www.dan.me.uk/torcheck
