@@ -1080,7 +1080,7 @@
 # 后渗透拓展
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。17k。greatjob。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。4.5k。greatjob。支持自定义域名host头绕过安全设备。
-- https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    //OracleJava8.cobalt strike是一个APT协同工作平台。greatjob。支持自定义域名host头绕过安全设备。
+- https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。。greatjob。G:RASSec/Cobalt-Strike;
 - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。3k。goodjob
@@ -1117,7 +1117,7 @@
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹
 - https://github.com/twelvesec/passcat    //C.Windows 下密码抓取工具
 - https://github.com/huntergregal/mimipenguin    //C.linux密码抓取
-- https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些
+- https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。4.7k。greatjob。
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码
 - https://github.com/putterpanda/mimikittenz    //PS.类似lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。
 - https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
@@ -1162,7 +1162,7 @@
 - https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
-- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。
+- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
 ## 远程管理控制
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++.红队C2通讯框架。Github:mwrlabs/C3;Github:cobbr/Covenant。
 - https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
@@ -1567,7 +1567,7 @@
 - https://github.com/jboss-javassist/javassist    //JAVA.能够操作字节码框架，通过它我们能很轻易的修改class代码文件。2.2K
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具
-- https://github.com/crifan/android_app_security_crack    //安卓应用的安全和破解
+- https://github.com/crifan/android_app_security_crack    //安卓应用的安全和破解。goodjob。
 ### IOS与macOS安全
 - https://github.com/axi0mX/ipwndfu    //PY.checkm8利用ios底层全版本越狱
 - https://github.com/dmayer/idb    //RUBY.开源的iOS App安全评估工具，作者是Danl A.Mayer。
