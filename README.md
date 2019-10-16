@@ -1,10 +1,12 @@
 ***项目简介***
-- https://github.com/euphrat1ca/security_w1k1    //mywiki
-  
-&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
-  
-&emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。
-******
+&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1    //mywiki<br>
+&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。<br>
+&emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
+
+导航标签：welljob;goodjob;greatjob;mywiki;模拟测试;* kali系统类;<br>
+状态标签：simple;noupdate;<br>
+类型标签：awesome系列;<br>
+***
 # 安全相关资源列表
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
@@ -393,8 +395,8 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
-- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest Kali。
-- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,KALI WINDOWS;
+- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
+- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。https://cooolis.payloads.online
 - https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具
 - https://github.com/kabachook/k8s-security/    //bash/py.Kubernetes安全集合
@@ -1153,7 +1155,7 @@
 - https://gobies.org    //goby是白帽汇赵武推的一款资产风险管理工具
 - https://github.com/mitre/caldera    //mitre公司模拟攻击测试系统，主要针对win。
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
-- https://github.com/guardicore/monkey    //C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测
+- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测，恶意病毒传播模拟测试。
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
 - https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
@@ -1208,6 +1210,7 @@
 - https://github.com/NYAN-x-CAT/Lime-RAT    //VB.勒索病毒源码
 - https://github.com/mwsrc/njRAT    //VB.源码
 - https://github.com/euphrat1ca/njRAT-v0.7d    //vb.常见蠕虫远控，有很多变种，多session带界面
+- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
 ### 多姿态远控shell
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
 - https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel。
@@ -1361,7 +1364,7 @@
 - https://github.com/OpenATS/OpenATS    //C++.无线电卫星天线追踪系统。
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
 ### WIFI网络审计测试
-- https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali
+- https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
 - https://cn.elcomsoft.com/ewsa.html    //ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
 - https://www.passcape.com    //wifipr，握手包密码还原，另外还有许多有偿windows下密码还原工具
 - https://github.com/MisterBianco/BoopSuite    //无线网络审计工具，支持2-5GHZ频段
@@ -1399,7 +1402,7 @@
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
-- https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali。
+- https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali系统类。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 ### 设备固件安全
 - https://blog.attify.com    //firmware固件安全，IoT安全相关文章
@@ -1708,7 +1711,7 @@
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。1k。greatjob。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
-- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。hids kali
+- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。hids kali系统类
 - https://github.com/ossec/ossec-hids    //C.开源hids（主机入侵检测）堡垒机
 - https://github.com/grayddq/HIDS    //hids基于主机型入侵检测系统，一个人的安全部
 - https://github.com/ysrc/yulong-hids    //驭龙HIDS是一款由 YSRC 开源的主机入侵检测系统
