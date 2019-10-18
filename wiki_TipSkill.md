@@ -19,6 +19,7 @@
 - https://github.com/lancopku/PKUSeg-python    //PY3.北大中文分词
 - https://github.com//chinese-poetry/chinese-poetry    //PY.中华最全诗词库数据
 ### 机器学习
+- https://github.com/google-research/bert    //PY.谷歌研究院最强NLP运算模型
 - https://paperswithcode.com/sota 机器学习具体项目、演示、代码
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019 以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
@@ -31,6 +32,7 @@
 - https://github.com/NVIDIA/pix2pixHD    //PY.NVIDIA利用GANs神经网络学习的Image2Image技术。
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //PY.一键换装
 - https://github.com/ecjtuseclab/AILoginBlasting    //PY.服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
+- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //PY.超轻量级人脸检测模型
 ### 大数据框架
 - https://github.com/taosdata/TDengine    //C.对标kafka、Hadoop数据处理引擎
 ### web框架

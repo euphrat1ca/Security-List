@@ -5,6 +5,7 @@
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
+- https://lovelive.tools/    //说话的艺术，zn语录
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机

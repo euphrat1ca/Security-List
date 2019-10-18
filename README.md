@@ -4,7 +4,7 @@
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
 
 导航标签：welljob;goodjob;greatjob;mywiki;模拟测试;* kali系统类;<br>
-状态标签：simple;noupdate;<br>
+状态标签：simple;noupdate;公开;有偿;免费<br>
 类型标签：awesome系列;<br>
 ***
 # 安全相关资源列表
@@ -79,7 +79,7 @@
 - https://www.qianxin.com/threat/reportaptlist    //奇安信创新研究。红蓝紫队
 ### 安全博客论坛
 - bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
-- cn0xroot.com:雪碧，通信硬件；lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
+- lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站
@@ -301,7 +301,7 @@
 - https://lab.pentestit.ru    //俄罗斯靶场，真实环境，在线，免费一个
 - http://www.itsecgames.com    //bWAPP，bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。有偿
-- https://www.pentesteracademy.com    //攻防技术认证。有偿
+- https://www.pentesteracademy.com    //教程+视频+实验室+认证培训 一套。有偿
 - https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
 - https://www.wechall.net    //世界知名ctf汇总交流网站
 - https://www.ichunqiu.com/experiment/direction    //i春秋实验室。Web/主机/应用/pwn教程
@@ -1150,15 +1150,17 @@
 - https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。快速
 - https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常
 ### 资产管理风险测试
-- https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
 - https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
-- https://gobies.org    //goby是白帽汇赵武推的一款资产风险管理工具
-- https://github.com/mitre/caldera    //mitre公司模拟攻击测试系统，主要针对win。
+- https://gobies.org    //goby是白帽汇资产风险管理工具
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
-- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测，恶意病毒传播模拟测试。
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
+- https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
 - https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
+- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
+- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。
+- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测，恶意病毒传播模拟测试。
+- https://github.com/NextronSystems/APTSimulator    //bat.Windows下apt攻击模拟测试
+- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
 ### 资产漏洞生命周期管理
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台，集成多种
 - https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
@@ -1168,7 +1170,7 @@
 ## 远程管理控制
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++.红队C2通讯框架。Github:mwrlabs/C3;Github:cobbr/Covenant。
 - https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
-- https://github.com/tiagorlampert/CHAOS    //GO.win远控，可过大部分杀软。welljob。
+- https://github.com/tiagorlampert/CHAOS    //GO.win远控，免杀功能。welljob。
 - https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB。1.2K。
 - https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台
 - https://github.com/Ne0nd0g/merlin    //GO.c2通讯，多session
@@ -1210,7 +1212,6 @@
 - https://github.com/NYAN-x-CAT/Lime-RAT    //VB.勒索病毒源码
 - https://github.com/mwsrc/njRAT    //VB.源码
 - https://github.com/euphrat1ca/njRAT-v0.7d    //vb.常见蠕虫远控，有很多变种，多session带界面
-- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
 ### 多姿态远控shell
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
 - https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel。
@@ -1363,6 +1364,7 @@
 ## 无线安全
 - https://github.com/OpenATS/OpenATS    //C++.无线电卫星天线追踪系统。
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
+- https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件
 ### WIFI网络审计测试
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
 - https://cn.elcomsoft.com/ewsa.html    //ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
@@ -1502,14 +1504,14 @@
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
 - https://www.hex-rays.com    //IDA pro反汇编工具。有偿。
-- https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
 - https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比有偿IDA
-- https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
+- https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
+- https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
 - https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
-- https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
+- https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
 ### 脱壳分析PE操作
 - http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。StudyPE;
@@ -1706,23 +1708,25 @@
 - https://github.com/chaitin/yanshi    //C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 ### EDR终端主机防护
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
-- https://documentation.wazuh.com    //C.C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
 ### 入侵检测系统IPS/IDS/HIDS
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。1k。greatjob。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
-- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
-- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。hids kali系统类
+- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，镜像可以作为传感器分布在网络中，以监控多个VLAN和子网。hids kali系统类。
+- https://documentation.wazuh.com    //C.wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
+- https://github.com/snort3/snort3    //C++.snort知名NIDS网络入侵检测
+- https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
+- https://github.com/OISF/suricata    //C.IDS\IPS\NSM安全工具，兼容Snort插件
+- https://github.com/iqiyi/qnsm    //C/C++.爱奇艺基于dpdk与Suricata，旁路部署的全流量，实时，高性能网络安全监控引擎，集成了DDOS检测和IDPS模块。
 - https://github.com/ossec/ossec-hids    //C.开源hids（主机入侵检测）堡垒机
 - https://github.com/grayddq/HIDS    //hids基于主机型入侵检测系统，一个人的安全部
 - https://github.com/ysrc/yulong-hids    //驭龙HIDS是一款由 YSRC 开源的主机入侵检测系统
 - https://github.com/DianrongSecurity/AgentSmith-HIDS    //bash/c.点融开源的基于Hook system_call的内核级HIDS，借鉴LKRG(Linux Kernel Runtime Guard)。开源部分为主机情报收集工具
-- https://github.com/snort3/snort3    //C++.snort知名NIDS网络入侵检测
-- https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
-- https://github.com/OISF/suricata    //C.IDS\IPS\NSM安全工具，兼容Snort插件
+- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 ### 无线网络入侵检测
 - https://github.com/anwi-wips/anwi    //无线IDS， 基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/SYWorks/waidps    //PY.Linux下无线网络入侵检测工具
 ### 防火墙/waf/网关规则
+- https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。免费有偿。
 - http://d99net.net/    //啊D出品D盾防火墙，包含waf与webshel检测功能。免费商业。
 - https://www.pfsense.org    //PHP.防火墙。开源有偿。
