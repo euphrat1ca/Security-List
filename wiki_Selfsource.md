@@ -1,5 +1,7 @@
 # wiki_Selfsource
  wiki_Selfsource
+## 常见软件技巧
+- https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 ## 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/

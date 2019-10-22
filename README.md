@@ -179,7 +179,7 @@
 - http://snap.stanford.edu    //斯坦福公开数据集。人口/社交/等
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
 - https://github.com/BuzzFeedNews    //网络数据集集合
-- http://cdn.databases.today;www.databases.today;publicdbhost.dmca.gripe;www.wttech.org;hashes.org/leaks.php;rchive.org/search.php?query=;https://weleakinfo.com;http://site3.sjk.space;    //密码泄露
+- W:cdn.databases.today;W:www.databases.today;W:publicdbhost.dmca.gripe;W:www.wttech.org;hashes.org/leaks.php;W:rchive.org/search.php?query=;W:weleakinfo.com;W:site3.sjk.space;    //密码泄露
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - https://www.start.umd.edu/gtd/    //全球恐怖主义动向数据库官网
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
@@ -1160,7 +1160,7 @@
 - https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
 - https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。
-- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令与exp对ssh、smb等多种协议方式进行攻击检测，恶意病毒传播模拟测试。
+- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。guardicore.com/infectionmonkey。
 - https://github.com/NextronSystems/APTSimulator    //bat.Windows下apt攻击模拟测试
 - https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
 ### 资产漏洞生命周期管理
@@ -1501,6 +1501,8 @@
 ### ics modbus安全
 - https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
 - https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
+### 工控模拟仿真
+- https://github.com/thiagoralves/OpenPLC_v3    //C++.最基本plc
 ## 逆向破解
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
