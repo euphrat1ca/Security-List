@@ -355,7 +355,7 @@
 - https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
 - https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库
 - https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
-- https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文
+- https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文。goodjob。2.3k。
 - https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 - http://blog.topsec.com.cn/alphafuzzer/    //启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
@@ -433,10 +433,8 @@
 - https://github.com/knqyf263/trivy    //GO.针对容器的漏洞扫描器.2K。
 ### 测试字典集
 - https://github.com/tarraschk/richelieu    //.fr邮箱密码表
-- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典
-- https://github.com/7dog7/bottleneckOsmosis/    //JS/api/param/FUZZ 字典
-- https://github.com/Ridter/Pentest    //后门、exp、fuzzing、字典、ps脚本
-- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell
+- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:xmendez/wfuzz/tree/master/wordlist;G:We5ter/Scanners-Box;G:shack2/SNETCracker/dic;
+- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;。
 - https://github.com/alpha1e0/pentestdb    //WEB渗透测试数据库。用于提供渗透测试的辅助工具(pentest-tool)、资源文件
 - https://github.com/brannondorsey/PassGAN    //PY.深度学习，密码字典样本生成
 - https://github.com/Mebus/cupp    //PY.根据用户习惯密码生成弱口令探测
@@ -1173,7 +1171,7 @@
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++.红队C2通讯框架。Github:mwrlabs/C3;Github:cobbr/Covenant。
 - https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
 - https://github.com/tiagorlampert/CHAOS    //GO.win远控，免杀功能。welljob。
-- https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB。1.2K。
+- https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB,1.2k。
 - https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台
 - https://github.com/Ne0nd0g/merlin    //GO.c2通讯，多session
 - https://github.com/0x09AL/Browser-C2    //GO.利用chrome以浏览器的形式连接C2服务器
@@ -1187,7 +1185,7 @@
 - https://github.com/5alt/ZeroRAT    //powershell.windows上的一句话远控，只需要执行一条指令不需要写文件
 - https://github.com/nettitude/PoshC2    //PowerShell/C#.远控工具，有win提权组件
 - https://github.com/peterpt/fuzzbunch    //PY2.方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲
-- https://github.com/nathanlopez/Stitch    //PY.Windows、Mac OSX、Linux跨平台。welljob。1.3k。
+- https://github.com/nathanlopez/Stitch    //PY.Windows、Mac OSX、Linux跨平台。welljob,1.3k。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //PY2.CLI与web端，内存加载，RC4加密HTTP传输
 - https://github.com/Ridter/MyJSRat    //PY2.利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html。welljob
 - https://github.com/Hood3dRob1n/JSRat-Py    //PY.jsrat改进版
@@ -1307,8 +1305,8 @@
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.提权枚举工具包，通过webApi上报信息。
 ### Linux提权相关
 - https://github.com/Ignitetechnologies/Privilege-Escalation    //Linux下的提权方法总结
-- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。2k。goodjob。Github:linuxprivchecker
-- https://github.com/jondonas/linux-exploit-suggester-2    //perl.查找linux哪些补丁没有打，存在提权利用。Github:linux-exploit-suggester。
+- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;
+- https://github.com/jondonas/linux-exploit-suggester-2    //perl.查找linux哪些补丁没有打，存在提权利用。Github:linux-exploit-suggester;
 - https://github.com/belane/linux-soft-exploit-suggester    //查找linux那些软件有漏洞
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
 - https://guif.re/linuxeop    //linux提权命令集合
@@ -1386,7 +1384,7 @@
 - https://github.com/0v3rl0w/e013    //VB.窃取Wifi密码. 
 - https://github.com/cls1991/ng    //PY.获取你当前连接wifi的密码与ip
 - https://github.com/wi-fi-analyzer/fluxion    //窃取用户wifi密码的进行密码重放攻击
-- https://github.com/wifiphisher/wifiphisher    //PY.中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取。goodjob。7k
+- https://github.com/wifiphisher/wifiphisher    //PY.中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取。goodjob,7k。
 - https://github.com/1N3/PRISM-AP    //自动部署RogueAP(恶意热点) MITM攻击框架
 - https://github.com/sensepost/mana    //Wifi劫持工具，可以监听计算机或其他移动设备的Wifi通信，并能够模仿该设备
 - https://github.com/deltaxflux/fluxion    //bash,PY.对使用wpa协议的无线网络进行MiTM攻击
@@ -1506,7 +1504,7 @@
 ## 逆向破解
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
-- https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob。5k。
+- https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 - https://www.hex-rays.com    //IDA pro反汇编工具。有偿。
 - https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比有偿IDA
 - https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
@@ -1514,7 +1512,7 @@
 - https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
-- https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
+- https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
 - https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。W:immunityinc.com，Immunity Debugger;32位汇编分析调试器Ollydbg;。
 ### 脱壳分析PE操作
 - http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
