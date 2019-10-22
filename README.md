@@ -78,6 +78,7 @@
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://www.qianxin.com/threat/reportaptlist    //奇安信创新研究。红蓝紫队
 ### 安全博客论坛
+- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
 - lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
@@ -982,6 +983,7 @@
 - https://github.com/sqlmapproject/sqlmap    //PY.sql注入sqlmap.GREATJOB.15K.
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表
 - https://sqlwiki.netspi.com/    //你要的sql注入知识点都能找到
+- https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI    //mysql注入,bypass的一些心得
 - https://github.com/kevins1022/SQLInjectionWiki    //一个专注于聚合和记录各种SQL注入方法的wiki
 - https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    //SQLi Dumper基于搜索引擎的自动化注入利用工具。GoodJob
 - https://github.com/ron190/jsql-injection    //Java.SQL注入工具.GOODJOB
@@ -1511,7 +1513,7 @@
 - https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
 - https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。0.1k。
-- https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。32位汇编分析调试器Ollydbg;。
+- https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。W:immunityinc.com，Immunity Debugger;32位汇编分析调试器Ollydbg;。
 ### 脱壳分析PE操作
 - http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。StudyPE;
@@ -1861,7 +1863,7 @@
 - https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
 - https://github.com/euphrat1ca/security_w1k1/blob/master/myMalwareSample.md/    //恶意样本数据源。myWiki
 ### 在线文件检测
-- https://app.any.run    //可视化在线恶意文件检测
+- https://app.any.run/    //可视化在线恶意文件检测。包含流行恶意文件样本
 - https://habo.qq.com    //在线恶意文件检测
 - https://www.virustotal.com    //在线文件、网址、域名、IP检测。包含pdns。
 - http://r.virscan.org/    //在线杀毒
