@@ -566,7 +566,7 @@
 - https://windscribe.com    //npv可试用
 - https://mono.sh    //飞机场
 ## 端口转发映射代理穿透
-- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。25k。greatjob。
+- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
 - https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 - https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
 - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制
@@ -1809,8 +1809,8 @@
 - https://www.freebuf.com/sectool/190840.html    //INTRO.T-Pot多蜜罐平台使用心法
 - https://github.com/honeytrap/honeytrap    //可扩展蜜罐框架，支持探针部署与高交互蜜罐
 - https://github.com/honeynet/beeswarm    //PY.使用agent探针与蜜罐进行实时交互来引诱攻击者
-### Web蜜罐
-- https://github.com/p1r06u3/opencanary_web    //PY.基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16中协议，现为探针/蜜罐-管理的架构，可以考虑二次开发为探针-沙盒-管理的架构
+### Web服务蜜罐
+- https://github.com/p1r06u3/opencanary_web    //PY.基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构
 - https://gitlab.com/SecurityBender/webhoneypot-framework    //PY3.基于docker和docker-compose，现支持wordpress/drupal
 - https://github.com/mushorg/snare    //PY3.web安全蜜罐，可克隆指定Web页面
 - https://github.com/netxfly/x-proxy    //GO.代理蜜罐的开发与应用实战。simple

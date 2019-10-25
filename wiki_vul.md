@@ -31,7 +31,7 @@
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
-- https://slides.com/securitymb/prototype-pollution-in-kibana#/    kibana <6.6.0 未授权远程代码命令执行
+- https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
