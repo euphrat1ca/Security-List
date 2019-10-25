@@ -1513,10 +1513,13 @@
 - https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
 - https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
 - https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。W:immunityinc.com，Immunity Debugger;32位汇编分析调试器Ollydbg;。
+### CTF二进制pwn利用
+- https://github.com/Gallopsled/pwntools    //PY.pwn类型，二进制利用框架
+- https://github.com/ChrisTheCoolHut/Zeratool    //PY.pwn类型，二进制利用框架
+- https://github.com/ChrisTheCoolHut/Rocket-Shot    //PY.pwn，自动攻击脚本
 ### 脱壳分析PE操作
 - http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。StudyPE;
-
 ### 程序调试进程管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于Restorator文件资源修改软件。
@@ -1665,17 +1668,14 @@
 - https://github.com/gabemarshall/microctfs    //SHELL,JS.小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    //PY.部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++.为CTF比赛编写CrackMe软件
-### CTF密码学
+### CTF混淆密码学加解密
 - https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
 - https://github.com/guyoung/CaptfEncoder    //Node.js.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
 - https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
 - https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
-### CTF二进制pwn利用
-- https://github.com/Gallopsled/pwntools    //PY.pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Zeratool    //PY.pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Rocket-Shot    //PY.pwn，自动攻击脚本
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
