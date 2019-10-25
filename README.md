@@ -20,7 +20,7 @@
 - https://github.com/secure-data-analysis-data-sharing/data-analysis 资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 ## 安全建设方案
-- https://www.nist.gov/topics/cybersecurity 美国国家标准与技术研究院。NVD漏洞库
+- https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库
 - https://www.alibabacloud.com/blog    //阿里安全建设
 - https://security.tencent.com/index.php/blog    //腾讯安全建设
@@ -503,7 +503,6 @@
 - https://github.com/cldrn/rainmap-lite    //DjanGO.Web版Nmap，可以建立新的扫描服务器，允许用户从他们的手机/平板电脑/网络浏览器启动Nmap扫描
 - https://github.com/trimstray/sandmap    //BASH.linux下Nmap可配置形式的命令行操作台
 - https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联
-- 
 - https://github.com/scipag/vulscan    //基于nmap的高级漏洞扫描器，命令行环境使用
 - https://github.com/Rev3rseSecurity/WebMap    //将nmap的xml web展示器
 - https://github.com/DanMcInerney/msf-autopwn    //执行NMap扫描或读取扫描结果， 然后自动使用msf攻击包含常见漏洞的主机
@@ -1080,7 +1079,7 @@
 - https://github.com/rebeyond/memShell    //JAVA.一款可以写入java web server内存中的无文件webshell
 - https://github.com/DXkite/freebuf-stream-shell    //PHP.使用流包装器实现WebShell。freebuf介绍。
 # 后渗透拓展
-- https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。17k。greatjob。
+- https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。noupdate。greatjob，4.5k。
 - https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。。greatjob。G:RASSec/Cobalt-Strike;
 - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
