@@ -1059,7 +1059,7 @@
 ### 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
 - https://github.com/AntSwordProject/AntSword-Labs    //antSword测试环境
-- https://github.com/Chora10/Cknife/pulls    //JAVA.Github:SecQuanCknife;gitee.com/9199771/cknife。2K。GOODJOB。
+- https://github.com/Chora10/Cknife/pulls    //JAVA.Github:SecQuanCknife;gitee.com/9199771/cknife。GOODJOB,2K。
 - https://github.com/euphrat1ca/hatchet    //C++.中国大砍刀
 - https://github.com/tengzhangchao/PyCmd    //PY.一句话木马客户端程序，目前支持php、jsp，CS端通信加密
 - https://github.com/epinna/weevely3    //PY.利用特定的一句话脚本对网站进行管理
@@ -1462,6 +1462,7 @@
 - https://github.com/rawrly/JuiceJacking    //BASH.JuiceJacking，利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    //C#.U盘文件自动拷贝usb copy
 - https://github.com/RedDrip7/USB-Bootkit    //物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
+- https://github.com/spacehuhn/esp8266_deauther    //C.WiFi扫描，WiFi ddos
 - https://www.balena.io/etcher/    //C.USB Live烧录，rufus。10K.
 ### 硬件安全RFID/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
@@ -1604,8 +1605,7 @@
 ### 系统进程
 - https://bitsum.com/    系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
 - https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://processhacker.sourceforge.io/    //查看进程的运行情况、内存以及模块信息，还可以对进程进行管理
-- https://github.com/processhacker/processhacker    //监控系统资源、软件调试、检测恶意软件，管理进程
+- https://github.com/processhacker/processhacker    //C.监控系统资源、内存以及模块信息、软件调试，管理进程
 - https://github.com/DominicBreuker/pspy    //GO.Linux下绕过root权限监控进程运行.GOODJOB.
 - https://github.com/rabbitstack/fibratus    //PY.能够捕捉到绝大多数的Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等。
 - https://github.com/open-falcon    //GO/PY.Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
@@ -1701,12 +1701,13 @@
 - https://github.com/tmobile/pacbot    //JAVA.云平台自动化安全监控工具
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
 - https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-## 入侵检测安全防护
+## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //intro.如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
 - https://github.com/chaitin/yanshi    //C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
+- https://github.com/0Kee-Team/WatchAD    //PY.域安全入侵感知系统
 ### EDR终端主机防护
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
 ### 入侵检测系统IPS/IDS/HIDS
@@ -1739,6 +1740,7 @@
 - https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf。
 - https://github.com/Janusec/janusec    //Golang.应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 ## Bypass安全防护绕过
+- https://github.com/AMOSSYS/Fragscapy    //PY.防火墙fuzz绕过bypass
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
