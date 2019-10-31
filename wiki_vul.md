@@ -7,6 +7,7 @@
 - https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，https://www.cvedetails.com
 - https://github.com/vulnersCom/getsploit    //PY2.仿照searchsploit通过各种数据库的官方接口进行payload的查找
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
+- https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 ### 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759

@@ -1134,6 +1134,7 @@
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
+- https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
 ### 资产管理信息搜集
 - https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T.
 - https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。3k。goodjob。
