@@ -78,7 +78,7 @@
 - https://etherpad.net/    //在线可编辑记事本
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://github.com/star7th/showdoc    //JS.文档管理平台
-- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作系统
+- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
 ### 通讯隐私加密虚拟身份
 - https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
 - https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel

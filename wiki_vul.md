@@ -8,6 +8,32 @@
 - https://github.com/vulnersCom/getsploit    //PY2.仿照searchsploit通过各种数据库的官方接口进行payload的查找
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
+### Web漏洞工具CMS利用
+- https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
+- https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
+- https://github.com/w1109790800/penetration    //CMS新老版本exp与系统漏洞搜集表
+- https://github.com/anx1ang/Poc_Pentest    //web_cms_exp
+- https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架
+- https://github.com/chuhades/CMS-Exploit-Framework    //CMS攻击框架
+- https://github.com/Tuhinshubhra/CMSeeK    //20多种CMS的基本检测，针对wp利用、可定制模块化爆破功能
+- https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
+- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
+- https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
+- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
+- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具
+- https://github.com/swisskyrepo/Wordpresscan    //基于WPScan以及WPSeku的优化版wordpress扫描器
+- https://github.com/m4ll0k/WPSeku    //精简的wordpress扫描工具
+- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
+- https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
+- https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
+- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
+- https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
+- https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
+- https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
+- https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
+- https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
+- https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 ### 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
@@ -54,6 +80,7 @@
 - https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 #### Weblogic相关漏洞
+- https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3，以支持2019
 - https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
 - https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行

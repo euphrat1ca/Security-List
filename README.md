@@ -1,8 +1,7 @@
-***项目简介***
+***项目简介***  
 &emsp;&emsp;https://github.com/euphrat1ca/security_w1k1    //mywiki<br>
 &emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
-
 导航标签：welljob;goodjob;greatjob;mywiki;模拟测试;* kali系统类;<br>
 状态标签：simple;noupdate;公开;有偿;免费<br>
 类型标签：awesome系列;<br>
@@ -523,8 +522,7 @@
 - https://github.com/scriptjunkie/msfgui    //metasploit的GUI界面，强化Windows下支持
 - https://github.com/WayzDev/Kage    //MSF的GUI界面，Session Handler
 #### CobaltStrike相关工具拓展插件
-- https://github.com/rsmudge/armitage    //JAVA.CobaltStrike社区版，调用msf，多session带界面
-- https://wbglil.gitbooks.io/cobalt-strike/content/    //Cobalt Stike3.13中文使用文档，软件。
+- https://www.cobaltstrike.com/aggressor-script/index.html    //cobaltstrike插件使用aggressor替代armitage的cortana插件
 - https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
 - https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
@@ -564,14 +562,15 @@
 - https://hide.me    //npv可试用
 - https://windscribe.com    //npv可试用
 - https://mono.sh    //飞机场
+- https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 ## 端口转发映射代理穿透
 - https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
+- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
 - https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 - https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
 - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持
 - https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP
-- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
 - https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass。
 - http://rootkiter.com/Termite    //C.EarthWorm(EW)升级版，可以实现多节点跳跃，提供多平台间的转接通讯，用于复杂网络环境下的数据转发。
 - https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm的多节点连接跳板构建多级代理工具
@@ -616,13 +615,14 @@
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //PY.企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
+- https://github.com/shmilylty/OneForAll    //py3.子域收集工具，多接口，协程爆破。
+- https://github.com/michenriksen/aquatone    //GO.子域名枚举、探测工具。可用于子域名接管漏洞探测
+- https://github.com/guelfoweb/knock    //PY.通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/blechschmidt/massdns    //C.通过DNS高效子域发现工具
 - https://github.com/SpiderLabs/HostHunter    //PY3.通过多接口，ssl证书进行hostname子域名查询。
 - https://github.com/caffix/amass    //GO.通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k。goodjob。
-- https://github.com/OJ/gobuster    //Golang.根据dns查询子域名和web目录爆破的工具，自带字典
-- https://github.com/michenriksen/aquatone    //GO.子域名枚举、探测工具。可用于子域名接管漏洞探测
+- https://github.com/OJ/gobuster    //Golang.根据dns查询子域名和web目录爆破的工具，自带字典。
 - https://github.com/euphrat1ca/LayerDomainFinder    //C#.cnseay法师Layer子域名挖掘机
-- https://github.com/guelfoweb/knock    //PY.通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/aboul3la/Sublist3r    //PY.通过搜索引擎与爆破快速子域枚举工具
 - https://github.com/Ice3man543/subfinder    //Golang.go实现的Sublist3r
 - https://github.com/TheRook/subbrute    //PY.扫描器中常用的子域名爆破API库
@@ -877,27 +877,19 @@
 - https://github.com/ywolf/F-MiddlewareScan    //中间件扫描服务识别
 - https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
-### Web漏洞工具CMS利用
-- https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
-- https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
-- https://github.com/w1109790800/penetration    //CMS新老版本exp与系统漏洞搜集表
-- https://github.com/anx1ang/Poc_Pentest web_cms_exp
-- https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架
-- https://github.com/chuhades/CMS-Exploit-Framework    //CMS攻击框架
-- https://github.com/Tuhinshubhra/CMSeeK    //20多种CMS的基本检测，针对wp利用、可定制模块化爆破功能
-- https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
-- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
-- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
-- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
-- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具
-- https://github.com/swisskyrepo/Wordpresscan    //基于WPScan以及WPSeku的优化版wordpress扫描器
-- https://github.com/m4ll0k/WPSeku    //精简的wordpress扫描工具
-- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
-- https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
-- https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
-- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
-- https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
-- https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
+### Web利用漏洞工具
+- https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
+- https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
+- https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
+- https://github.com/WMJonssen/Centcount-Analytics    //PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
+- https://github.com/ticarpi/jwt_tool    //PY.json web token的检测
+- https://github.com/MagicZer0/fastjson-rce-exploit    //JAVA.阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE。
+- https://github.com/dienuet/crossdomain    //PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
+- https://github.com/chenjj/CORScanner    //PY.CORS域配置错误，跨域解析漏洞扫描器。
+- https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
+- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
+- https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
+- https://github.com/rudSarkar/crlf-injector    //CRLF注入漏洞批量扫描
 - https://github.com/lietdai/doom    //thorn上实现的分布式任务分发的ip端口漏洞扫描器
 - https://github.com/gh0stkey/PoCBox    //PHP.漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
@@ -910,30 +902,13 @@
 - https://github.com/coffeehb/SSTIF    //SSTI (服务器模板注入) 漏洞的半自动化工具
 - https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
-- https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
-- https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
-- https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
-- https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
-- https://github.com/rudSarkar/crlf-injector    //CRLF注入漏洞批量扫描
-- https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
-### Web前端漏洞利用
-- https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
-- https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
-- https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
-- https://github.com/WMJonssen/Centcount-Analytics    //PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
-- https://github.com/ticarpi/jwt_tool    //PY.json web token的检测
-- https://github.com/dienuet/crossdomain    //PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
-- https://github.com/chenjj/CORScanner    //PY.CORS域配置错误，跨域解析漏洞扫描器。
-- https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
-- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
-- https://github.com/MagicZer0/fastjson-rce-exploit    //JAVA.阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE。
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    //java.csrf验证工具
 - https://github.com/d0nutptr/sic    //RUST.CSS注入，csrf攻击
 - https://github.com/UltimateHackers/Blazy    //支持测试 CSRF， Clickjacking， Cloudflare and WAF的弱口令探测器
 ### SSRF服务端请求伪造
 - http://blog.safebuff.com/2016/07/03/SSRF-Tips/    //ssrf漏洞利用手册
-- https://github.com/swisskyrepo/SSRFmap    //检测ssrf漏洞
+- https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议生成ssrf payload执行rce。
 ### XSS跨站脚本检测利用
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
@@ -1081,41 +1056,32 @@
 # 后渗透拓展
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。noupdate。greatjob，4.5k。
-- https://coding.net/u/ssooking/p/cobaltstrike-cracked/git    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。。greatjob。G:RASSec/Cobalt-Strike;
+- https://github.com/rsmudge/armitage    //OracleJava8.CobaltStrike社区版，调用msf。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:RASSec/Cobalt-Strike;W:coding.net/u/ssooking/p/cobaltstrike-cracked/git。
 - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
-- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。3k。goodjob
-- https://github.com/FortyNorthSecurity/WMImplant    //PS.利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit。
+- https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
+- https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
 - https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。greatjob,4K。
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS.CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块.goodjob，3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描
-- https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
-- https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
 - https://github.com/TheSecondSun/Bashark    //Bash.后渗透框架。大鲨鱼
-- https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
-- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
 - https://github.com/DarkSpiritz/DarkSpiritz    //PY2.后渗透框架
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
-### 内网中间人攻击流量劫持
-- https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
-- https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
-- https://github.com/qiyeboy/BaseProxy    //PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
-- https://github.com/LionSec/xerosploit    //中间人攻击测试工具包
-- https://github.com/AlsidOfficial/WSUSpendu    //可以自主创建恶意更新，并将其注入到WSUS服务器数据库中，然后随意的分发这些恶意更新
-- https://github.com/infobyte/evilgrade    //一个模块化的脚本框架，使攻击者在不知情的情况下将恶意更新注入到用户更新中
-- https://github.com/quickbreach/smbetray    //专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
-- https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
-- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击
-- http://ntwox.sourceforge.net    //ntwow多协议伪造网络测试工具集
+- https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
+- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
+### 权限维持
+- https://paper.seebug.org/    //ATT&CK 之后门持久化
+- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 ### 横向移动与密码hash窃取
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp中间人攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C.Windows下进行凭证抓取横向移动.GREATJOB。
 - https://github.com/skelsec/pypykatz    //PY3.使用python实现的mimikatz
 - https://github.com/eladshamir/Internal-Monologue    //C#.无需LSASS进程使用Mimikatz从LSASS进程内存中提取内容，从内存中提取明文密码，NTLM哈希，Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹
+- https://github.com/FortyNorthSecurity/WMImplant    //PS.利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit。
 - https://github.com/twelvesec/passcat    //C.Windows 下密码抓取工具
 - https://github.com/huntergregal/mimipenguin    //C.linux密码抓取
 - https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
@@ -1135,6 +1101,17 @@
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
 - https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
+### 内网中间人攻击流量劫持
+- https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
+- https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
+- https://github.com/qiyeboy/BaseProxy    //PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
+- https://github.com/LionSec/xerosploit    //中间人攻击测试工具包
+- https://github.com/AlsidOfficial/WSUSpendu    //可以自主创建恶意更新，并将其注入到WSUS服务器数据库中，然后随意的分发这些恶意更新
+- https://github.com/infobyte/evilgrade    //一个模块化的脚本框架，使攻击者在不知情的情况下将恶意更新注入到用户更新中
+- https://github.com/quickbreach/smbetray    //专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
+- https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
+- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击
+- http://ntwox.sourceforge.net    //ntwow多协议伪造网络测试工具集
 ### 资产管理信息搜集
 - https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T.
 - https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。3k。goodjob。
@@ -1147,11 +1124,11 @@
 - https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
 - https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
 - https://github.com/dr0op/bufferfly    //PY3.资产/域名存活验证，标题获取，语料提取，端口检测。
-- https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。快速
-- https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常
+- https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。
+- https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常。
 ### 资产管理风险测试
 - https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
-- https://gobies.org    //goby是白帽汇资产风险管理工具
+- https://gobies.org    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
