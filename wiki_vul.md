@@ -34,6 +34,8 @@
 - https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
+- https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
+- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
 ### 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
@@ -57,12 +59,12 @@
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
-- https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
-- https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
-- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
+### 数据库
+- https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
+- https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 ### Java框架相关漏洞
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
@@ -77,6 +79,7 @@
 - https://github.com/brianwrf/hackUtils    //PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
+- https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 #### Weblogic相关漏洞

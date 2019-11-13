@@ -1,4 +1,4 @@
-# cobaltstrike插件
+### cobaltstrike插件
 - https://github.com/rsmudge/cortana-scripts    //JAVA.作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts
 - https://github.com/Und3rf10w/external_c2_framework    //PY.Cobalt Strike's External C2构造CS的通讯通道。
 - https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
@@ -12,5 +12,5 @@
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒
 - 使用Aggressor脚本雕饰Cobalt Strike    //
-- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./CobaltstrikeWikiImage/bluscreenofjeffAggressorScripts.png)
+- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./wiki_CobaltstrikeImage/bluscreenofjeffAggressorScripts.png)
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
