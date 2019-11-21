@@ -20,10 +20,10 @@
 - https://github.com//chinese-poetry/chinese-poetry    //PY.中华最全诗词库数据
 ### 机器学习
 - https://github.com/google-research/bert    //PY.谷歌研究院最强NLP运算模型
-- https://paperswithcode.com/sota 机器学习具体项目、演示、代码
-- https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频
-- https://github.com/clone95/Data-Science-Study-Paths-March-2019 以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
-- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达机
+- https://paperswithcode.com/sota    //机器学习具体项目、演示、代码
+- https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
+- https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
+- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
 ### 神经网络GanS
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
@@ -35,10 +35,13 @@
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //PY.超轻量级人脸检测模型
 ### 大数据框架
 - https://github.com/taosdata/TDengine    //C.对标kafka、Hadoop数据处理引擎
+- https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
+- https://github.com/Tencent/wwsearch    //C++.腾讯全文检索引擎。ELK对标
+- https://github.com/F-Stack/f-stack    //C.腾讯开源基于dpdk的高性能网络框架
 ### web框架
-- http://www.bt.cn 宝塔网站管理系统
+- http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org
-- https://github.com/fex-team/webuploader  JS.文件上传框架
+- https://github.com/fex-team/webuploader    //JS.文件上传框架
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    //PY.Web界面展示。11k。
 ### 编辑器IDE

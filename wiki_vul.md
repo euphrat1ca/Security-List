@@ -76,6 +76,7 @@
 #### apache相关漏洞
 - https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
+- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE
 - https://github.com/brianwrf/hackUtils    //PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN

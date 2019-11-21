@@ -12,6 +12,7 @@
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
+- http://www.bingdian001.com/    //冰点文库下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
 - https://www.onlinedoctranslator.com/    //在线文档翻译
@@ -29,7 +30,6 @@
 - http://opencellid.org/    //gsm定位
 - cellidfinder.com    //Cell ID Finder
 - cellphonetrackers.org    //手机追踪器
-
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
