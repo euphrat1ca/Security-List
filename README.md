@@ -1,9 +1,9 @@
 ***项目简介***  
-&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1    //mywiki<br>
+&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1<br>
 &emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
 分类标签：mywiki。包含工具手册；通讯技术工具；威胁情报；恶意样本；自服务应用；研究技术；漏洞利用；web安全
-导航标签：welljob;goodjob;greatjob;模拟测试;* kali系统类;<br>
+导航标签：welljob;goodjob;greatjob;模拟测试;* kali系统类;作者拼音;<br>
 状态标签：simple;noupdate;公开;有偿;免费<br>
 类型标签：awesome系列;<br>
 ***
@@ -53,14 +53,13 @@
 - https://book.yunzhan365.com/dksd/oyru/mobile/index.html    //基于攻击链的网络威胁捕猎架构设计
 - http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    //科来网络攻击与防范图谱
 - https://www.anquanke.com/post/id/178339    //漏扫动态爬虫实践。pyppeteer
-- https://www.jianshu.com/p/1ea9845b9f1d    //使用Airtest超快速开发App爬虫
 - https://www.jianshu.com/p/852e0fbe2f4c    //安全产品厂商分类
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
-- https://github.com/crazywa1ker/DarthSidious-Chinese    //从0开始你的域渗透之旅。DarthSidious 中文版
+- https://github.com/chryzsh/DarthSidious    //从0开始你的域渗透之旅，包括搭建到渗透测试域环境。G:crazywa1ker/DarthSidious-Chinese;
 - https://paper.seebug.org/772/    //如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple
 ## 安全基础科普培训
@@ -71,7 +70,6 @@
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
 - https://github.com/tiancode/learn-hacking    //网络安全入门文章集
-- https://www.lshack.cn    //工控安全入门
 - https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
 - https://www.freebuf.com/articles/neopoints/190895.html    //入门介绍。fuzz/漏挖/脚本
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验
@@ -82,6 +80,7 @@
 - bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
 - lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
+- https://www.lshack.cn    //工控安全入门
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站
 - https://www.hackinn.com/index.php/archives/492/    //HackingDay 2019 (中国杭州)
@@ -240,6 +239,7 @@
 - https://www.freebuf.com/articles/102500.html    //黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
 - https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan
+- https://github.com/shegongbook/shegonganli    //社工案例
 ### Web漏洞攻防
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    //Web安全学习笔记
@@ -299,6 +299,7 @@
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
+- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:从外网到域控（vulnstack靶机实战）;
 - https://github.com/Medicean/VulApps    //收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 - https://github.com/c0ny1/vulstudy    //使用docker快速搭建dvwa等各大漏洞学习平台
 - https://github.com/bingohuang/docker-labs    //制作在线docker平台
@@ -327,7 +328,6 @@
 - https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/rapid7/metasploitable3    //metasploit练习系统
 - https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
-- https://github.com/chryzsh/DarthSidious    //AD域环境的搭建、渗透、防护
 - https://github.com/c0ny1/xxe-lab    //一个包含php，JAVA.python，C#等各种语言版本的XXE漏洞Demo
 ### 在线靶场学习
 - https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
@@ -347,16 +347,15 @@
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
 - https://github.com/googleprojectzero/winafl    //C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析-AFL漏洞挖掘技术漫谈
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //intro.AFL使用指南
-- https://github.com/mxmssh/drAFL    //C.Linux二进制代码模糊测试
-- https://github.com/k0keoyo/kDriver-Fuzzer    //C.基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
-- https://github.com/google/oss-fuzz    //C.Linux下的开源软件的模糊测试
-- https://github.com/google/honggfuzz    //C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
-- https://github.com/bunzen/pySSDeep    //PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。GO.glaslos/ssdeep;C.ssdeep-project/ssdeep
-- https://github.com/OpenRCE/sulley    //PY.网络协议fuzz测试.
-- https://github.com/jtpereyda/boofuzz    //PY.基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。1.8K。W:peachfuzzer;
+- https://github.com/mxmssh/drAFL    //C.Linux模糊测试。G:atrosinenko/kbdysch;G:google/oss-fuzz;
+- https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
+- https://github.com/MozillaSecurity/peach    //PY3.MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。网络协议、web接口、文件格式模糊测试。W:peach.tech
 - https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
 - https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库
-- https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
+- https://github.com/jtpereyda/boofuzz    //PY.基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。
+- https://github.com/k0keoyo/kDriver-Fuzzer    //C.基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
+- https://github.com/google/honggfuzz    //C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
+- https://github.com/bunzen/pySSDeep    //PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:glaslos/ssdeep;G:ssdeep-project/ssdeep
 - https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文。goodjob。2.3k。
 - https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
@@ -471,7 +470,7 @@
 - https://github.com/l3m0n/awvs_190703137    //PY.Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //PY.调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 #### burpsuit相关工具拓展插件
-- https://github.com/PortSwigger    //burpsuite官方插件库，有偿
+- https://github.com/PortSwigger    //burpsuite官方插件库。有偿
 - https://github.com/snoopysecurity/awesome-burp-extensions    //awesome系列之burp拓展
 - https://github.com/d3vilbug/HackBar    //hackbar
 - https://github.com/bit4woo/knife    //burp增强右键菜单
@@ -481,6 +480,7 @@
 - https://github.com/modzero/interestingFileScanner    //增强敏感文件扫描
 - https://github.com/c0ny1/chunked-coding-converter    //本插件主要用于分块传输绕WAF
 - https://github.com/ztosec/secscan-authcheck    //java.越权漏洞检测，支持web界面配置。Github:portswigger/authz
+- https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描apikey/tokens
 - https://github.com/TheKingOfDuck/burpFakeIP    //IP修改伪造
 #### sqlmap相关工具拓展插件
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
@@ -513,6 +513,7 @@
 - https://github.com/rootlabs/nWatch    //联动nmap，并对组织内网进行扫描
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
+- https://github.com/cloudflare/flan    //PY.cloudflare基于nmap开发的漏洞检测工具
 #### metasploit相关工具拓展插件
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    //结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    //一个可以创建SSL/TLS shell连接的脚本
@@ -755,6 +756,7 @@
 - https://github.com/M4cs/BlackEye-Python    //PY.以blackeye为基础，增加子域名模拟伪造功能
 - https://github.com/gophish/gophish    //GO.拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
 - https://github.com/L4bF0x/PhishingPretexts    //钓鱼模板
+- https://github.com/drk1wi/Modlishka    //GO.网络钓鱼工具
 - https://github.com/azizaltuntas/Camelishing    //PY3.界面化社会工程学攻击辅助工具
 - https://github.com/tatanus/SPF    //PY2.deefcon上的钓鱼系统
 - https://github.com/MSG-maniac/mail_fishing    //PHP.基于thinkphp的甲方邮件钓鱼系统
@@ -901,6 +903,16 @@
 - https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
 - https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
 - https://github.com/shengqi158/weak_password_detect    //NMAP.Linux下多线程探测ssh弱口令
+## 加解密保护密码学混淆
+- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
+- https://github.com/guyoung/CaptfEncoder    //Node.js.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
+- https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
+- https://www.veracrypt.fr    //C.2K。类似BitLocker全盘加密，支持磁盘隐藏分区。
+- https://github.com/AlkenePan/KAP    //GO.实现 ELF 文件保护
 ### 在线密码破解
 - https://www.cmd5.com/    //HASH密码在线破解。限制位数
 - https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
@@ -1230,13 +1242,15 @@
 - https://github.com/Arno0x/DNSExfiltrator    //利用DNS解析进行数据隐秘传输的工具
 - https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据泄露
 - https://github.com/ytisf/PyExfil    //用于数据取回的Python软件包
-## 无线安全
+## 通讯安全
 - https://github.com/OpenATS/OpenATS    //C++.无线电卫星天线追踪系统。
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
 - https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件
+- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C.利用Linux macsec进行链路层流量安全加密
 ### WIFI网络审计测试
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
 - https://cn.elcomsoft.com/ewsa.html    //ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
+- http://www.rt68.cn/    //小林无线，在线握手跑包
 - https://www.passcape.com    //wifipr，握手包密码还原，另外还有许多有偿windows下密码还原工具
 - https://github.com/MisterBianco/BoopSuite    //无线网络审计工具，支持2-5GHZ频段
 - https://github.com/aircrack-ng/aircrack-ng    //C.由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成。1k。
@@ -1261,7 +1275,7 @@
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
 ## IoT物联网安全
 - https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科
-- https://github.com/V33RU/IoTSecurity101    //IoT工控安全与物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
+- https://github.com/V33RU/IoTSecurity101    //IoT工业物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
@@ -1269,6 +1283,7 @@
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
 - https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali系统类。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
+- https://github.com/ElevenPaths/HomePWN    //PY.瑞士军刀类型IOT设备安全测试
 ### 设备固件安全
 - https://blog.attify.com    //firmware固件安全，IoT安全相关文章
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
@@ -1325,7 +1340,7 @@
 - https://github.com/rawrly/JuiceJacking    //BASH.JuiceJacking，利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    //C#.U盘文件自动拷贝usb copy
 - https://github.com/RedDrip7/USB-Bootkit    //物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
-- https://github.com/spacehuhn/esp8266_deauther/    //C.WiFi安全审计，WiFi ddos
+- https://github.com/spacehuhn/esp8266_deauther/    //C.WiFi安全审计，硬件WiFi ddos
 - https://www.balena.io/etcher/    //C.USB Live烧录，rufus。10K.
 ### 硬件安全RFID/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
@@ -1337,13 +1352,13 @@
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
 - https://www.freebuf.com/ics-articles    //工控相关文章
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
-- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:w3h/icsmaster;G:euphrat1ca/ICSwiki;
-- http://www.icsmaster.org/archives/ics/942    //intro.工控安全工具集
-- https://github.com/hslatman/awesome-industrial-control-system-security    // Industrial Control System (ICS) security安全集
-- https://www.controlthings.io/    //SamuraiSTFU ics kali
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
-- https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
+- https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:euphrat1ca/ICSwiki;
+- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集
+- http://www.icsmaster.org/archives/ics/942    //工控安全工具集。G:w3h/icsmaster;
+- https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/moki-ics/moki    //一键配置类似kali的工控渗透测试系统的脚本
+- https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //PY3.工控安全漏洞测试框架
 - https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。wenzheZhu
 - https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
@@ -1544,14 +1559,6 @@
 - https://github.com/gabemarshall/microctfs    //SHELL,JS.小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    //PY.部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++.为CTF比赛编写CrackMe软件
-### CTF混淆密码学加解密
-- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
-- https://github.com/guyoung/CaptfEncoder    //Node.js.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
-- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
-- https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
@@ -1560,7 +1567,6 @@
 - http://www.caesum.com/handbook/Stegsolve.jar    //Java.图片隐写查看器，多图层查看器
 # 安全体系防护相关
 - https://github.com/Bypass007/Safety-Project-Collection    //收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
-- https://www.veracrypt.fr    //C.2K。类似BitLocker全盘加密，支持磁盘隐藏分区。
 - https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
@@ -1613,7 +1619,7 @@
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO/C.owasp关于ModSecurity等防火墙规则库
 - https://github.com/xsec-lab/x-waf    //适用于中小企业的云waf
-- https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf。
+- https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;
 - https://github.com/Janusec/janusec    //Golang.应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/qq4108863/himqtt/    //C.物联网epoll高并发防火墙
 ## Bypass安全防护绕过

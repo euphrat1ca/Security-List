@@ -5,14 +5,20 @@
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
-- https://github.com/halfrost/LeetCode-Go    ////leetcode用go实现
+- https://github.com/halfrost/LeetCode-Go    //leetcode用go实现
 - https://github.com/jackfrued/Python-100-Days 100天精通python
 - https://github.com/TheAlgorithms/Python    //PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
 - https://github.com/littlecodersh/itchat    //PY.微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    //PY.微信个人号 API
 - https://github.com/insoxin/API    //PHP.基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
-- https://github.com/csy512889371/learnDoc  架构师的成长之路-博客-导图
+- https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
+- https://github.com/nusr/hacker-laws-zh    //开发定律
+### 自动化测试
+- https://github.com/AirtestProject/Airtest    //PY.Android、iOS跨平台的UI自动化框架
+- https://github.com/sleepybear1113/taobaoVisitingVenues    //js.双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
+- https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试
+- https://github.com/hyb1996/Auto.js    //js.安卓平台上的JavaScript自动化工具
 ### 语言集
 - https://github.com/fxsjy/jieba    //PY.结巴中文分词
 - https://github.com/thunlp/THULAC-Python    //PY.清华中文分词
@@ -38,6 +44,8 @@
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
 - https://github.com/Tencent/wwsearch    //C++.腾讯全文检索引擎。ELK对标
 - https://github.com/F-Stack/f-stack    //C.腾讯开源基于dpdk的高性能网络框架
+### 移动端开发
+- https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
 ### web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org

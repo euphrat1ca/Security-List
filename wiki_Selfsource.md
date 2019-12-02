@@ -8,6 +8,7 @@
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
 - https://lovelive.tools/    //说话的艺术，zn语录
+- https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -67,6 +68,7 @@
 ### 网盘服务
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing
 - https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
 - https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
@@ -92,7 +94,7 @@
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
 - https://github.com/PHPMailer/PHPMailer    //   PHP.PHP发送邮件的组件
 - https://github.com/mailpile/Mailpile    //PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
-### 客户端通讯
+### 客户端通讯分析
 - https://github.com/dplusec/tgwechat/    //采用Telegram类似的安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
 - https://bbs.pediy.com/thread-224988.htm    //intro.[原创]PC微信发送消息研究
 - https://bbs.pediy.com/thread-223178.htm    //intro.[原创] 对控制PC端微信发送信息的研究
