@@ -2,18 +2,30 @@
  wiki_TipSkill
 # 计算机技术
 - https://github.com/arpitjindal97/technology_books    //编程语言晋级。Premium eBook free for Geeks
-- https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
-- https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
-- https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
-- https://github.com/halfrost/LeetCode-Go    //leetcode用go实现
-- https://github.com/jackfrued/Python-100-Days 100天精通python
-- https://github.com/TheAlgorithms/Python    //PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
 - https://github.com/littlecodersh/itchat    //PY.微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    //PY.微信个人号 API
 - https://github.com/insoxin/API    //PHP.基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
+### 编辑器IDE
+- https://github.com/visualfc/liteide    //C++.开源golang编辑器，支持交叉编译
+- https://github.com/ricklamers/gridstudio    //PY/JS.类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
+- https://github.com/rjpcomputing/luaforwindows/    //Lua.Windows下的lua编辑器
+- https://github.com/s4n7h0/Halcyon/    //Java. IDE for Nmap Script NSE编辑器
+### golang开发
+- https://github.com/voidint/g    //gvm。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/,
+- https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
+- https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
+- https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
+- https://github.com/halfrost/LeetCode-Go    //leetcode用go实现
+### python开发
+- https://www.anaconda.com/    //版本管理控制
+- https://github.com/jackfrued/Python-100-Days 100天精通python
+- https://github.com/TheAlgorithms/Python    //PY.一是各种算法的基本原理讲解，二是各种算法的代码实现。
+### SDN软件自定义网络
+- https://github.com/microsoft/SDN    //PS.此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
+- https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //PY.Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js.双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
@@ -52,11 +64,6 @@
 - https://github.com/fex-team/webuploader    //JS.文件上传框架
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    //PY.Web界面展示。11k。
-### 编辑器IDE
-- https://github.com/visualfc/liteide    //C++.开源golang编辑器，支持交叉编译
-- https://github.com/ricklamers/gridstudio    //PY/JS.类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
-- https://github.com/rjpcomputing/luaforwindows/    //Lua.Windows下的lua编辑器
-- https://github.com/s4n7h0/Halcyon/    //Java. IDE for Nmap Script NSE编辑器
 ### Web应用框架
 - https://goframe.org/index    //GO.一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    //GO.一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架

@@ -9,6 +9,7 @@
 - https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
 - https://lovelive.tools/    //说话的艺术，zn语录
 - https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
+- https://github.com/sylnsfar/qrcode    //PY3.动态二维码
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
