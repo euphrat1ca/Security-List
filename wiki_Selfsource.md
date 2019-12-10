@@ -136,6 +136,10 @@
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
+### 文档处理
+- https://smallpdf.com/    //
+- http://pdftoword.55.la/    //
+- https://pdf.wondershare.com/    //pdf2ppt
 ### 资源下载
 - https://www.appinn.com/    //小众软件下载
 - https://www.parsevideo.com/    //视频解析

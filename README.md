@@ -19,6 +19,7 @@
 - https://github.com/tom0li/collection-document    //安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis 资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
+- https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
 ## 安全建设方案
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库
@@ -1141,6 +1142,7 @@
 - https://github.com/hfiref0x/UACME    //包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
 - https://payloads.online/archivers/2018-12-22/1    //DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan
+- https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
 - https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。
 - https://github.com/rootm0s/WinPwnage    //PY2.win下权限提升，uac绕过，dll劫持注入等
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#.Changing values to bypass windows defender
