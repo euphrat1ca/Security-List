@@ -1607,7 +1607,7 @@
 - https://github.com/ossec/ossec-hids    //C.开源hids（主机入侵检测）堡垒机
 - https://github.com/grayddq/HIDS    //hids基于主机型入侵检测系统，一个人的安全部
 - https://github.com/ysrc/yulong-hids    //驭龙HIDS是一款由 YSRC 开源的主机入侵检测系统
-- https://github.com/DianrongSecurity/AgentSmith-HIDS    //bash/c.点融开源的基于Hook system_call的内核级HIDS，借鉴LKRG(Linux Kernel Runtime Guard)。开源部分为主机情报收集工具
+- https://github.com/EBWi11/AgentSmith-HIDS    //c.Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 ### 无线网络入侵检测
 - https://github.com/anwi-wips/anwi    //无线IDS， 基于低成本的Wi-Fi模块(ESP8266)

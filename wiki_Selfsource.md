@@ -130,9 +130,9 @@
 - http://ohshitgit.com/    //intro.git操作手册
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似如SearchMyFiles
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //PY.putty远程服务管理工具。MobaXterm注册机
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //PY.putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机。G:github.com/HyperSine/
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
