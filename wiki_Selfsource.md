@@ -136,6 +136,8 @@
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
+### 电商
+- https://github.com/itcloudy/ERP    //go.基于beego的进存销管理系统
 ### 文档处理
 - https://smallpdf.com/    //
 - http://pdftoword.55.la/    //
