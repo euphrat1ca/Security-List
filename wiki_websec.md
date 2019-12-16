@@ -27,7 +27,7 @@
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
 - https://github.com/nabla-c0d3/sslyze    //PY3.SSL/TLS server扫描器
 ### 命令执行注入
-- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表
+- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。testjob。
 - https://github.com/commixproject/commix    //PY.命令注入漏洞扫描
 - https://github.com/ewilded/shelling    //JAVA.burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
 ### CSRF跨站请求伪造利用
@@ -40,7 +40,8 @@
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议生成ssrf payload执行rce。
 ### XSS跨站脚本检测利用
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
-- http://www.xss-payloads.com    //很全面的xss工具包与资料
+- http://www.xss-payloads.com    //xss工具包与资料
+- https://portswigger.net/web-security/cross-site-scripting/cheat-sheet    //跨站脚本（XSS）备忘录，收集了大量的XSS攻击向量，包含了各种事件处理、通讯协议、特殊属性、限制字符、编码方式、沙箱逃逸等技巧
 - https://somdev.me/21-things-xss/    //XSS的21个扩展用途
 - https://www.slideshare.net/GarethHeyes/xss-magic-tricks    //burpsuite团队总结xss知识点
 - https://github.com/ismailtasdelen/xss-payload-list    //XSS 漏洞Payload列表

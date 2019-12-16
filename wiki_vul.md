@@ -8,6 +8,7 @@
 - https://github.com/vulnersCom/getsploit    //PY2.仿照searchsploit通过各种数据库的官方接口进行payload的查找
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
+- https://github.com/KishanBagaria/AirDoS    //PY3.基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
 ### Web漏洞工具CMS利用
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
@@ -119,6 +120,7 @@
 - https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）https://www.freebuf.com/vuls/147793.html
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
 - https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
+- https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;P:goldenPac.py;
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
