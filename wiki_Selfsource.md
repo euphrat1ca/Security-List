@@ -51,14 +51,6 @@
 - http://edit.foxitcloud.cn/    //在线pdf编辑
 - https://www.pdfpai.com/    //在线pdf转换
 - http://www.alltoall.net/    //在线格式转换
-### 资源下载
-- https://www.cn-ki.net/    //知网、论文期刊检索下载
-- http://sci-hub.tw/    //文献、专利、书籍下载
-- https://github.com/gedoor/MyBookshelf    //JAVA.安卓app小说阅读器
-- http://wenku.baiduvvv.com/doc/    //文库下载
-- http://www.pptbz.com    //ppt下载
-- http://www.1ppt.com/    //ppt下载
-- http://vipread.com/    //信息安全知识库
 ### 搜索引擎
 - https://www.wolframalpha.com    //问题答案搜索
 - http://ac.scmor.com/    //谷歌搜索镜像
@@ -133,7 +125,17 @@
 - https://smallpdf.com/    //
 - http://pdftoword.55.la/    //
 - https://pdf.wondershare.com/    //pdf2ppt
-### 资源下载
+### 文档资源下载
+- https://www.cn-ki.net/    //知网、论文期刊检索下载
+- http://sci-hub.tw/    //文献、专利、书籍下载
+- https://github.com/gedoor/MyBookshelf    //JAVA.安卓app小说阅读器
+- http://wenku.baiduvvv.com/doc/    //文库下载
+- http://www.pptbz.com    //ppt下载
+- http://www.1ppt.com/    //ppt下载
+- http://vipread.com/    //信息安全知识库
+### 软件资源下载
+- http://flyonzone.ys168.com/    //飞扬时空
+- http://www.carrotchou.blog/    //胡萝卜周
 - https://www.appinn.com/    //小众软件下载
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //PY.视频下载
@@ -167,6 +169,7 @@
 - http://sina.lt    //新浪短链接，匿名访问
 - https://dwz.cn    //百度短连接
 - http://suo.im    //访问数据查询，访问
+
 ### 域名与IP检测
 https://x.threatbook.cn/    //
 https://www.virustotal.com/gui/    //
