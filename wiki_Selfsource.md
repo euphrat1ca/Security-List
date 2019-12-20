@@ -104,7 +104,6 @@
 - https://github.com/TonyChen56/WeChatRobot    //C++.微信pc机器人。
 - https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 ## 办公套件
-
 - https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
 - https://sadd.io/    //在线操作系统
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
@@ -123,10 +122,11 @@
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
-### 系统备份
+### 系统管理
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
+- https://github.com/RoliSoft/WSL-Distribution-Switcher    //PY3.Windows下Linux子系统WSL管理工具
 ### 电商
 - https://github.com/itcloudy/ERP    //go.基于beego的进存销管理系统
 ### 文档处理

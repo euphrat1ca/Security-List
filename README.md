@@ -3,7 +3,7 @@
 &emsp;&emsp;https://github.com/euphrat1ca/security_w1k1<br>
 &emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（此基础上做持久化控制）、扫尾。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
-分类标签：mywiki;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;web安全;<br>
+分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;web安全;<br>
 导航标签：一个人的安全部;awesome系列;类**架构;<br>
 类型标签：模拟测试;* kali系统类;作者拼音;Github:\Web:\Page:\常见缩写;<br>
 状态标签：simple;noupdate;公开;有偿;免费;商业;<br>
@@ -500,9 +500,10 @@
 - https://github.com/Screetsec/Dracnmap    //BASH.将Nmap复杂的命令进行一定程度的集成与简化，使新用户更加容易上手。
 - https://github.com/cldrn/rainmap-lite    //DjanGO.Web版Nmap，可以建立新的扫描服务器，允许用户从他们的手机/平板电脑/网络浏览器启动Nmap扫描
 - https://github.com/trimstray/sandmap    //BASH.linux下Nmap可配置形式的命令行操作台
-- https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联
 - https://github.com/scipag/vulscan    //基于nmap的高级漏洞扫描器，命令行环境使用
 - https://github.com/Rev3rseSecurity/WebMap    //将nmap的xml web展示器
+- https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联
+- https://github.com/materaj/nmap-parser-xml-to-csv    //PY.Nnmap结果xml转换到csv
 - https://github.com/DanMcInerney/msf-autopwn    //执行NMap扫描或读取扫描结果， 然后自动使用msf攻击包含常见漏洞的主机
 - https://github.com/rootlabs/nWatch    //联动nmap，并对组织内网进行扫描
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
@@ -653,6 +654,7 @@
 - https://github.com/nmalcolm/Inventus    //PY.通过爬虫实现的子域名收集工具
 ## 云安全相关
 ### 敏感信息泄露发现
+- https://github.com/donot-wong/sensinfor    //JS.chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/Yelp/detect-secrets    //PY.防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
@@ -1044,28 +1046,29 @@
 - https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
 - https://github.com/tiagorlampert/CHAOS    //GO.win远控，免杀功能。welljob。
 - https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB,1k。
-- https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台rat
-- https://github.com/Ne0nd0g/merlin    //GO.c2通讯，多session
-- https://github.com/Tiked/Client    //GO.跨平台rat
-- https://github.com/yuanyuanxiang/SimpleRemoter    //C++/C.基于大灰狼gh0st的远程控制器
+- https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台rat。
+- https://github.com/Ne0nd0g/merlin    //GO.c2通讯，多session。
+- https://github.com/Tiked/Client    //GO.跨平台rat。
+- https://github.com/yuanyuanxiang/SimpleRemoter    //C++/C.基于大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++.远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。0.2k。
-- https://github.com/TheM4hd1/Vayne-RaT    //C#.一对多，界面
-- https://github.com/TheSph1nx/RT-101    //C#.一对多，界面
-- https://github.com/DannyTheSloth/VanillaRat    //C#.SIMPLE，界面
-- https://github.com/brunull/pace    //C#.SIMPLE，界面
+- https://github.com/TheM4hd1/Vayne-RaT    //C#.一对多，界面。
+- https://github.com/TheSph1nx/RT-101    //C#.一对多，界面。
+- https://github.com/DannyTheSloth/VanillaRat    //C#.SIMPLE，界面。
+- https://github.com/brunull/pace    //C#.SIMPLE，界面。
 - https://github.com/nettitude/PoshC2    //PowerShell/C#.远控工具，有win提权组件
 - https://github.com/peterpt/fuzzbunch    //PY2.方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲
 - https://github.com/nathanlopez/Stitch    //PY.Windows、Mac OSX、Linux跨平台。welljob,1k。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //PY2.CLI与web端，内存加载，RC4加密HTTP传输
 - https://github.com/Ridter/MyJSRat    //PY2.利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html。welljob。
-- https://github.com/Hood3dRob1n/JSRat-Py    //PY.jsrat改进版
+- https://github.com/Hood3dRob1n/JSRat-Py    //PY.jsrat改进版。
 - https://github.com/its-a-feature/Apfell    //PY3.macOS与linux下的利用js后门，web界面管理
-- https://github.com/neoneggplant/EggShell    //PY.macos/osx远控，可生成HID代码，多session。goodjob。
-- https://github.com/Marten4n6/EvilOSX    //PY.macos/osx远控，多session
-- https://github.com/vesche/basicRAT    //PY3.simple远控，多session
+- https://github.com/neoneggplant/EggShell    //PY.macos/osx远控，可生成HID代码，多session。testjob。noupdate。
+- https://github.com/Marten4n6/EvilOSX    //PY.macos/osx远控，多session。testjob。noupdate。
+- https://github.com/vesche/basicRAT    //PY3.simple远控，多session。
 ### 多姿态远控shell
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
+- https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://github.com/BeetleChunks/redsails    //PY/C++.利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
 - https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;。
 - https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell。2k。goodjob。
@@ -1244,6 +1247,7 @@ Github:WebDAVC2;
 - https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C.利用Linux macsec进行链路层流量安全加密
 - https://github.com/srsLTE/srsLTE    //C++.开源通讯基站系统.G:RangeNetworks/openbts;
+- https://unicorn.360.com/hackcube/    //360独角兽无线电安全研究院
 ### 通讯安全RFID/SDR/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    //信用卡信息盗取
@@ -1254,7 +1258,7 @@ Github:WebDAVC2;
 - https://www.gnuradio.org/    //软件无线电信号处理方案。W:PlutoSDR;G:Nuand/bladeRF;G:jopohl/urh;
 - https://github.com/osqzss/gps-sdr-sim    //使用ADALM-Pluto/bladeRF/HackRF/USRP等软件平台进行GPS信号模拟
 - https://github.com/EttusResearch/uhd    //C++.USRP（Universal Software Radio Peripheral，通用软件无线电外设），伪基站。
-- https://github.com/mossmann/hackrf    //C.低成本软件无线电平台。G:sharebrained/portapack-hackrf;
+- https://github.com/mossmann/hackrf    //C.低成本软件无线电平台,greatscottgadgets.com (官网)。G:sharebrained/portapack-hackrf;
 ### WIFI网络审计测试
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
@@ -1289,16 +1293,16 @@ Github:WebDAVC2;
 - https://github.com/mame82/LOGITacker    //C.利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。
 - https://github.com/knownsec/gsm    //GO.使用树莓派配合硬件来进行短信转发
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络
-- https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
-- https://www.freebuf.com/geek/195631.html    //成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
 ### 物理设备HID/BadUsb
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //USBKiller
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
-- https://github.com/spacehuhn/wifi_ducky    //C.利用arduino Leonardo等开发板进行支持无线连接\在线编辑脚本的badusb
+- https://github.com/spacehuhn/wifi_ducky    //C.利用arduino Leonardo等开发板进行支持无线连接\在线编辑脚本的badusb。testjob。
 - https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
 - https://github.com/samratashok/Kautilya    //PS.为人机接口设备提供各种有效负载的工具包
 - https://github.com/ebursztein/malusb    //创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
-- https://github.com/mame82/P4wnP1    //在树莓派安装网络劫持键盘注入(WHID)工具
+- https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
+- https://www.freebuf.com/geek/195631.html    //intro.成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
+- https://github.com/mame82/P4wnP1    //在树莓派安装网络劫持键盘注入(WHID)工具,testjob.
 - https://github.com/360PegasusTeam/GhostTunnel    //可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
 - https://github.com/0katz/CVE-2019-12476    //HID绕过win10登录界面，利用浏览器调用powershell
 - https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    //实战 Teensy 烧录间谍 U 盘
@@ -1424,6 +1428,7 @@ Github:WebDAVC2;
 ## 逆向分析破解
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
+- https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集
 ### PC端逆向二进制文件分析
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
@@ -1523,6 +1528,7 @@ Github:WebDAVC2;
 ### 计算机设备取证
 - https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。有偿。易我数据恢复;RECUVA
 - http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。有偿
+- https://clonezilla.org/downloads.php    //再生龙(Clonezilla)是一个免费的灾难恢复、硬盘克隆、硬盘映像档制作的部署和解决方案,由台湾的国家高速网络与计算中心(国网中心)所开发
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
 - https://sourceforge.net/projects/networkminer/files/networkminer/    //网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机
 - https://github.com/decalage2/oletools    //PY.用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档
