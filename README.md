@@ -210,6 +210,7 @@
 - https://github.com/OpenCTI-Platform/opencti    //JS.网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 #### APT威胁情报
+- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;。
 - https://github.com/blackorbird/APT_REPORT    //apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
 - https://github.com/kbandla/APTnotes    //各种公开的文件和相关的APT笔记，还有软件样本
@@ -542,7 +543,7 @@
 - https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
 - https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
 - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。
-- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发
+- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
 - https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
 - https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
@@ -939,8 +940,8 @@
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_websec.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密。myWiki
 # 后渗透拓展
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
-- https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。noupdate。testjob,4.5k。
-- https://github.com/rsmudge/armitage    //OracleJava8.CobaltStrike社区版，调用msf。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:RASSec/Cobalt-Strike;W:coding.net/u/ssooking/p/cobaltstrike-cracked/git。
+- https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
+- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;。
 - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
@@ -955,7 +956,10 @@
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
-- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
+- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
+## 红队基础设施自动化部署建设
+- https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
+- 公众号：红队攻防全流程解析
 ## 权限维持
 - https://paper.seebug.org/    //ATT&CK 之后门持久化
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
