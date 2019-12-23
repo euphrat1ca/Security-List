@@ -194,7 +194,7 @@
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ### 多维度情报源
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
-- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露。W:cdn.databases.today;W:www.databases.today;W:publicdbhost.dmca.gripe;W:www.wttech.org;hashes.org/leaks.php;W:rchive.org/search.php?query=;W:weleakinfo.com;W:site3.sjk.space;
+- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
 - https://github.com/Te-k/harpoon    //PY.基于osint的威胁情报命令行工具
