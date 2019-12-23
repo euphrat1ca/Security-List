@@ -36,7 +36,7 @@
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
-- 开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //公众号
+- 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
 ### 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -251,6 +251,7 @@
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记。配合域环境。goodjob。
+- 公众号：域渗透 | Kerberos攻击速查表    //
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
@@ -482,7 +483,7 @@
 - https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
 - https://github.com/KINGSABRI/sqlmap-tamper-api    //利用各种语言来编写sqlmapTamper
-- https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles的被动SQL注入漏洞扫描工具
+- https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles（青花瓷）的被动SQL注入漏洞扫描工具
 - https://github.com/fengxuangit/Fox-scan    //基于sqlmapapi的主动和被动资源发现的漏洞扫描工具
 - https://github.com/UltimateHackers/sqlmate    //在sqlmap基础上增加了目录扫描、hash爆破等功能
 - https://github.com/ysrc/GourdScanV2    //ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
@@ -830,18 +831,16 @@
 - https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framework。
 - https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
 ### 被动扫描代理抓包
-- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密
-- http://soft.125.la    //精易助手，包括抓改发包正则调试等工具
-- https://www.getpostman.com    //Chrome插件.http调试工具
-- https://github.com/jakubroztocil/httpie    //http调试工具，类似curl，功能更完善
 - https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
-- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
-- https://github.com/netxfly/passive_scan    //PY2.基于Tornado服务的http代理web漏洞扫描器
-- https://github.com/boy-hack/w13scan    //PY3.被动扫描器。Passive Security Scanner (被动安全扫描器)。bloGithub:x.hacking8.com。
-- https://github.com/chaitin/xray    //洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置
+- Github:x.hacking8.com;G:netxfly/passive_scan;
+- https://github.com/chaitin/xray    //洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置.
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
+- https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
+- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
+- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
+- https://github.com/boy-hack/w13scan    //PY3.被动扫描器。Passive Security Scanner (被动安全扫描器)。
 ### 端口服务发现指纹识别
 - https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
@@ -959,7 +958,7 @@
 - https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
 ## 红队基础设施自动化部署建设
 - https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
-- 公众号：红队攻防全流程解析
+- 公众号：红队攻防全流程解析    //
 ## 权限维持
 - https://paper.seebug.org/    //ATT&CK 之后门持久化
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
