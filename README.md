@@ -535,7 +535,25 @@
 - https://github.com/byt3bl33d3r/DeathStar    //PY3.调用Empire RESTful API 自动化获取域管权限的
 - https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
-### Cross超越边界NPV
+## 端口转发映射代理穿透
+- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
+- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
+- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
+- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
+- https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。
+- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发
+- https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
+- https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
+- https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
+- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm的多节点连接跳板构建多级代理工具
+- https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
+- https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
+### 代理池
+- https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
+- https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
+- https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
+### Cross超越边界
 - https://www.wireguard.com/install/    //新一代npv协议
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本
@@ -565,23 +583,6 @@
 - https://mono.sh    //飞机场
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
-## 端口转发映射代理穿透
-- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
-- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
-- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
-- https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制
-- https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持
-- https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP
-- https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass。
-- http://rootkiter.com/Termite    //C.EarthWorm(EW)升级版，可以实现多节点跳跃，提供多平台间的转接通讯，用于复杂网络环境下的数据转发。免费。
-- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm的多节点连接跳板构建多级代理工具
-- https://github.com/decoder-it/psportfwd    //PowerShell.端口转发工具， 无需admin权限
-- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发
-- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
-- https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
-- https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
-- https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 # 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。
@@ -955,7 +956,7 @@
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
 - https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
-### 权限维持
+## 权限维持
 - https://paper.seebug.org/    //ATT&CK 之后门持久化
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 ### 横向移动与密码hash窃取
@@ -982,11 +983,29 @@
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //intro.Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://github.com/Kevin-Robertson/Inveigh    //PS.LLMNR/mDNS/NBNS欺骗器
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
-- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文
+- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
 - https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
+- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
+- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
+- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
+- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
+- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
+- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
+- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
+- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
+- https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
+- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;
+- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
+- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
+- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
+### 进程隐藏
+- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
+- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
+- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
 ### 资产管理信息搜集
 - https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
 - https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
@@ -1030,7 +1049,8 @@
 - https://github.com/AlsidOfficial/WSUSpendu    //可以自主创建恶意更新，并将其注入到WSUS服务器数据库中，然后随意的分发这些恶意更新
 - https://github.com/quickbreach/smbetray    //专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
 - https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
-- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击
+- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击。G:citronneur/rdpy rdp远程服务模拟开启
+- https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件进行rdp服务端口复用
 - http://ntwox.sourceforge.net    //ntwow多协议伪造网络测试工具集
 - https://github.com/Ekultek/suddensix    //bash.SLAAC（无状态地址自动配置）攻击自动化脚本，可用于在IPv4基础架构上构建IPv6覆盖网络，以执行中间人攻击。
 ### wifi中间人攻击
@@ -1137,38 +1157,20 @@ Github:WebDAVC2;
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA.宏混淆，其中还包括AV/Sandboxes逃避机制
 - https://github.com/9aylas/Shortcut-Payload-Generator 快捷方式(.lnk)文件Payload生成器.AutoIt编写
 ### 劫持注入权限绕过
-
-- https://github.com/hfiref0x/UACME    //包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
-- https://payloads.online/archivers/2018-12-22/1    //DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan
+- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
+- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
+- https://github.com/hfiref0x/UACME    //C.基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
-- https://github.com/rootm0s/WinPwnage    //PY2.win下权限提升，uac绕过，dll劫持注入等
 - https://github.com/St0rn/Windows-10-Exploit    //PY\msf插件，win10 uacbypass
-- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
 - https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
-- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#.Changing values to bypass windows defender
-- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://github.com/tyranid/DotNetToJScript    //C#.能够利用JS/Vbs脚本加载.Net程序的工具
 - https://github.com/Ben0xA/nps    //C#.实现不调用powershell.exe执行powershell命令
 - https://github.com/Mr-Un1k0d3r/PowerLessShell    //PY.实现不调用powershell.exe执行powershell命令
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入
-- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps endpoint 防护软件
-- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
-- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
-- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
-- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
-- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
-- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
-- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
-- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
-- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
-- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
-- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
+endpoint 防护软件
 ### shellcode相关
 - https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。有偿
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成

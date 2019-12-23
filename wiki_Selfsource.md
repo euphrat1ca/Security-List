@@ -17,6 +17,7 @@
 - http://www.bingdian001.com/    //冰点文库下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
+- https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://pandownload.com/    //下载
