@@ -36,7 +36,7 @@
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
-- 开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //公众号
+- 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
 ### 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -194,7 +194,7 @@
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ### 多维度情报源
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
-- W:cdn.databases.today;W:www.databases.today;W:publicdbhost.dmca.gripe;W:www.wttech.org;hashes.org/leaks.php;W:rchive.org/search.php?query=;W:weleakinfo.com;W:site3.sjk.space;    //密码泄露
+- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
 - https://github.com/Te-k/harpoon    //PY.基于osint的威胁情报命令行工具
@@ -210,6 +210,7 @@
 - https://github.com/OpenCTI-Platform/opencti    //JS.网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 #### APT威胁情报
+- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;。
 - https://github.com/blackorbird/APT_REPORT    //apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
 - https://github.com/kbandla/APTnotes    //各种公开的文件和相关的APT笔记，还有软件样本
@@ -250,6 +251,7 @@
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记。配合域环境。goodjob。
+- 公众号：域渗透 | Kerberos攻击速查表    //
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
@@ -274,10 +276,13 @@
 ### 常用漏洞库/SRC/BugBounty
 - https://sploitus.com    //公开漏洞搜索引擎。gOODjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //
+- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
+- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
+- https://0day.today    //漏洞市场
+- https://0day.life    //漏洞研究文章
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
-- https://0day.life    //漏洞研究文章
-- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件，简直漏洞挖掘教程
+- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件，漏洞挖掘教程
 - http://ics.cnvd.org.cn    //中国国家工控漏洞库
 - https://ics-cert.us-cert.gov/advisories    //美国国家工控漏洞库
 - http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
@@ -286,9 +291,6 @@
 - https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司负责维护的CVE漏洞库
 - https://nvd.nist.gov/vuln/search    //美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
-- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
-- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
-- https://0day.today    //漏洞市场
 ### BugBounty文章
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
@@ -481,7 +483,7 @@
 - https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
 - https://github.com/KINGSABRI/sqlmap-tamper-api    //利用各种语言来编写sqlmapTamper
-- https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles的被动SQL注入漏洞扫描工具
+- https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles（青花瓷）的被动SQL注入漏洞扫描工具
 - https://github.com/fengxuangit/Fox-scan    //基于sqlmapapi的主动和被动资源发现的漏洞扫描工具
 - https://github.com/UltimateHackers/sqlmate    //在sqlmap基础上增加了目录扫描、hash爆破等功能
 - https://github.com/ysrc/GourdScanV2    //ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
@@ -535,7 +537,25 @@
 - https://github.com/byt3bl33d3r/DeathStar    //PY3.调用Empire RESTful API 自动化获取域管权限的
 - https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
-### Cross超越边界NPV
+## 端口转发映射代理穿透
+- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
+- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
+- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
+- - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。testjob.
+- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
+- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
+- https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
+- https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
+- https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
+- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm的多节点连接跳板构建多级代理工具
+- https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
+- https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
+### 代理池
+- https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
+- https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
+- https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
+### Cross超越边界
 - https://www.wireguard.com/install/    //新一代npv协议
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本
@@ -565,23 +585,6 @@
 - https://mono.sh    //飞机场
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
-## 端口转发映射代理穿透
-- https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
-- https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
-- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
-- https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制
-- https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持
-- https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP
-- https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass。
-- http://rootkiter.com/Termite    //C.EarthWorm(EW)升级版，可以实现多节点跳跃，提供多平台间的转接通讯，用于复杂网络环境下的数据转发。免费。
-- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm的多节点连接跳板构建多级代理工具
-- https://github.com/decoder-it/psportfwd    //PowerShell.端口转发工具， 无需admin权限
-- https://github.com/davrodpin/mole    //GO.基于ssh的端口转发
-- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
-- https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
-- https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
-- https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 # 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。
@@ -829,18 +832,16 @@
 - https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framework。
 - https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
 ### 被动扫描代理抓包
-- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密
-- http://soft.125.la    //精易助手，包括抓改发包正则调试等工具
-- https://www.getpostman.com    //Chrome插件.http调试工具
-- https://github.com/jakubroztocil/httpie    //http调试工具，类似curl，功能更完善
 - https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
-- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
-- https://github.com/netxfly/passive_scan    //PY2.基于Tornado服务的http代理web漏洞扫描器
-- https://github.com/boy-hack/w13scan    //PY3.被动扫描器。Passive Security Scanner (被动安全扫描器)。bloGithub:x.hacking8.com。
-- https://github.com/chaitin/xray    //洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置
+- Github:x.hacking8.com;G:netxfly/passive_scan;
+- https://github.com/chaitin/xray    //洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置.
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
+- https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
+- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
+- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
+- https://github.com/boy-hack/w13scan    //PY3.被动扫描器。Passive Security Scanner (被动安全扫描器)。
 ### 端口服务发现指纹识别
 - https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
@@ -939,8 +940,8 @@
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_websec.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密。myWiki
 # 后渗透拓展
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
-- https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。noupdate。testjob,4.5k。
-- https://github.com/rsmudge/armitage    //OracleJava8.CobaltStrike社区版，调用msf。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:RASSec/Cobalt-Strike;W:coding.net/u/ssooking/p/cobaltstrike-cracked/git。
+- https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
+- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;。
 - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
@@ -955,8 +956,11 @@
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
-- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架
-### 权限维持
+- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
+## 红队基础设施自动化部署建设
+- https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
+- 公众号：红队攻防全流程解析    //
+## 权限维持
 - https://paper.seebug.org/    //ATT&CK 之后门持久化
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 ### 横向移动与密码hash窃取
@@ -983,11 +987,29 @@
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //intro.Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://github.com/Kevin-Robertson/Inveigh    //PS.LLMNR/mDNS/NBNS欺骗器
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
-- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文
+- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
 - https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
+- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
+- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
+- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
+- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
+- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
+- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
+- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
+- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
+- https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
+- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;
+- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
+- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
+- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
+### 进程隐藏
+- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
+- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
+- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
 ### 资产管理信息搜集
 - https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
 - https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
@@ -1031,7 +1053,8 @@
 - https://github.com/AlsidOfficial/WSUSpendu    //可以自主创建恶意更新，并将其注入到WSUS服务器数据库中，然后随意的分发这些恶意更新
 - https://github.com/quickbreach/smbetray    //专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
 - https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
-- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击
+- https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击。G:citronneur/rdpy rdp远程服务模拟开启
+- https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件进行rdp服务端口复用
 - http://ntwox.sourceforge.net    //ntwow多协议伪造网络测试工具集
 - https://github.com/Ekultek/suddensix    //bash.SLAAC（无状态地址自动配置）攻击自动化脚本，可用于在IPv4基础架构上构建IPv6覆盖网络，以执行中间人攻击。
 ### wifi中间人攻击
@@ -1138,38 +1161,20 @@ Github:WebDAVC2;
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA.宏混淆，其中还包括AV/Sandboxes逃避机制
 - https://github.com/9aylas/Shortcut-Payload-Generator 快捷方式(.lnk)文件Payload生成器.AutoIt编写
 ### 劫持注入权限绕过
-
-- https://github.com/hfiref0x/UACME    //包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
-- https://payloads.online/archivers/2018-12-22/1    //DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan
+- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
+- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
+- https://github.com/hfiref0x/UACME    //C.基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
-- https://github.com/rootm0s/WinPwnage    //PY2.win下权限提升，uac绕过，dll劫持注入等
 - https://github.com/St0rn/Windows-10-Exploit    //PY\msf插件，win10 uacbypass
-- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
 - https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
-- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#.Changing values to bypass windows defender
-- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://github.com/tyranid/DotNetToJScript    //C#.能够利用JS/Vbs脚本加载.Net程序的工具
 - https://github.com/Ben0xA/nps    //C#.实现不调用powershell.exe执行powershell命令
 - https://github.com/Mr-Un1k0d3r/PowerLessShell    //PY.实现不调用powershell.exe执行powershell命令
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入
-- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps endpoint 防护软件
-- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
-- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
-- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
-- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
-- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
-- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
-- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
-- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
-- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
-- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
-- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
+endpoint 防护软件
 ### shellcode相关
 - https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。有偿
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
@@ -1242,20 +1247,21 @@ Github:WebDAVC2;
 - https://github.com/Arno0x/DNSExfiltrator    //利用DNS解析进行数据隐秘传输的工具
 - https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据泄露
 - https://github.com/ytisf/PyExfil    //用于数据取回的Python软件包
-## 通讯安全
+## 无线通讯安全
 - https://github.com/OpenATS/OpenATS    //C++.无线电卫星天线追踪系统。
 -https://github.com/open-sdr/openwifi    //C.焦博士的首款开源Wi-Fi基带芯片设计openwifi
 - https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C.利用Linux macsec进行链路层流量安全加密
 - https://github.com/srsLTE/srsLTE    //C++.开源通讯基站系统.G:RangeNetworks/openbts;
 - https://unicorn.360.com/hackcube/    //360独角兽无线电安全研究院
+- http://www.right.com.cn/forum/    //恩山无线论坛
 ### 通讯安全RFID/SDR/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    //信用卡信息盗取
 - https://github.com/RadioWar/NFCGUI    //C#.图形化NFC协议安全分析工具，主要针对Mifare卡，,基于libnfc完成，支持所有基于PN532芯片解决方案。Ganso稳定版，Pangu加强版。
 - https://github.com/LennyLeng/RadioEye    //RFID配合常见的NFC使用
 - https://github.com/Proxmark/proxmark3/    //RFID神器PM3
-- https://github.com/UnicornTeam/HackCube-Special    //独角兽实验室SDR硬件渗透测试平台
+- https://github.com/UnicornTeam/hackcube    //独角兽实验室SDR硬件渗透测试平台。G:UnicornTeam/HackCube-Special;
 - https://www.gnuradio.org/    //软件无线电信号处理方案。W:PlutoSDR;G:Nuand/bladeRF;G:jopohl/urh;
 - https://github.com/osqzss/gps-sdr-sim    //使用ADALM-Pluto/bladeRF/HackRF/USRP等软件平台进行GPS信号模拟
 - https://github.com/EttusResearch/uhd    //C++.USRP（Universal Software Radio Peripheral，通用软件无线电外设），伪基站。
@@ -1289,6 +1295,7 @@ Github:WebDAVC2;
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
 ## 硬件安全物理设备
 - https://shop.hak5.org/    //硬件设备商店
+- https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
 - https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线
 - https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
 - https://github.com/mame82/LOGITacker    //C.利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。

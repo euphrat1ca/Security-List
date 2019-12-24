@@ -17,6 +17,7 @@
 - http://www.bingdian001.com/    //冰点文库下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
+- https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://pandownload.com/    //下载
@@ -103,7 +104,7 @@
 - https://thyrsi.com/ 图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //GO.多api图床
 - https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- https://github.com/tmux/tmux    //命令行功能加强工具
+- https://github.com/tmux/tmux    //Linux命令行功能加强工具，支持会话分屏与后台运行
 - https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
 - http://ohshitgit.com/    //intro.git操作手册
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似如SearchMyFiles
@@ -114,6 +115,7 @@
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
+- https://github.com/snowie2000/mactype    //Windows字体美化
 ### 系统管理
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
