@@ -276,13 +276,10 @@
 ### 常用漏洞库/SRC/BugBounty
 - https://sploitus.com    //公开漏洞搜索引擎。gOODjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //
-- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
-- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
-- https://0day.today    //漏洞市场
-- https://0day.life    //漏洞研究文章
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
-- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件，漏洞挖掘教程
+- https://0day.life    //漏洞研究文章
+- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件，简直漏洞挖掘教程
 - http://ics.cnvd.org.cn    //中国国家工控漏洞库
 - https://ics-cert.us-cert.gov/advisories    //美国国家工控漏洞库
 - http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
@@ -291,6 +288,9 @@
 - https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司负责维护的CVE漏洞库
 - https://nvd.nist.gov/vuln/search    //美国国家信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
+- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
+- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
+- https://0day.today    //漏洞市场
 ### BugBounty文章
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
@@ -542,8 +542,8 @@
 - https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
 - https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 - https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
-- - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。testjob.
 - https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
+- https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。
 - https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
 - https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
