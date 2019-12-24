@@ -655,6 +655,7 @@
 ## 云安全相关
 ### 敏感信息泄露发现
 - https://github.com/donot-wong/sensinfor    //JS.chrome敏感信息泄露插件，to find leak file and backup file
+- https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
 - https://github.com/Yelp/detect-secrets    //PY.防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
@@ -1627,7 +1628,7 @@ Github:WebDAVC2;
 ### 防火墙/waf/网关规则
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。免费有偿。
-- http://d99net.net/    //啊D出品D盾防火墙，包含waf与webshel检测功能。免费商业。
+- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。免费商业。P:xoslab.com 内核级检测文件生成写入;
 - https://www.pfsense.org    //PHP.可配置snort规则的防火墙。开源有偿。
 - https://github.com/evilsocket/opensnitch    //PY/GO.基于QT界面Linux下的应用防火墙
 - https://github.com/SpiderLabs/ModSecurity    //C.跨平台 WAF engine for Apache/IIS/Nginx等
