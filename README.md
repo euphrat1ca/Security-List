@@ -493,7 +493,7 @@
 - https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
 - https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
 - https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。
+- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。G:nccgroup/ABPT 全加密;
 - https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。
 - https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
 - https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
@@ -828,7 +828,7 @@
 - https://github.com/ywolf/F-MiddlewareScan    //中间件扫描服务识别
 - https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
-### 口令扫描密码爆破证书验证
+### 密码破解证书校验口令扫描
 - https://github.com/vanhauser-thc/thc-hydra    //C.支持多种协议方式的破解与爆破
 - https://github.com/maaaaz/thc-hydra-windows    //C.hydra的windows编译版本
 - https://github.com/galkan/crowbar    //PY.支持openvpn、rdp、ssh、vnc破解
@@ -839,7 +839,7 @@
 - https://github.com/euphrat1ca/F-Scrack    //PY2.对各类服务用户名密码爆破的脚本.ysrc
 - https://github.com/netxfly/crack_ssh    //GO.协程版ssh\redis\mongodb弱口令破解
 - https://github.com/ztgrace/changeme    //弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
-- https://github.com/m4ll0k/SMBrute    //利用smb服务进行用户名密码爆破
+- https://github.com/ShawnDEvans/smbmap    //py.利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本
 - https://github.com/Moham3dRiahi/XBruteForcer    //WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
 - https://github.com/lijiejie/htpwdScan    //PY.simple，http暴力破解、撞库攻击脚本
@@ -1565,7 +1565,7 @@ endpoint 防护软件
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //intro.如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
 - https://github.com/chaitin/yanshi    //C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
-- https://github.com/0Kee-Team/WatchAD    //PY.域安全入侵感知系统
+- https://github.com/0Kee-Team/WatchAD    //PY.360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 ### EDR终端主机防护
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
 ### NSM网络安全监控/入侵检测
