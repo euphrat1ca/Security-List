@@ -63,11 +63,13 @@
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
-### 数据库
+### 数据库漏洞
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 ## 中间件漏洞
-### Java框架相关漏洞
+### Python大框架漏洞
+- https://github.com/ryu22e/django_cve_2019_19844_poc/    //py.任意密码重置
+### Java框架漏洞
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
 - https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
@@ -75,6 +77,8 @@
 - https://github.com/quentinhardy/jndiat    //JAVA.Java类名/目录接口/数据库审计检测
 - https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
+- https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
+- https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 #### apache相关漏洞
 - https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
@@ -83,8 +87,6 @@
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
-- https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
-- https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 #### Weblogic相关漏洞
 - https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3，以支持2019
 - https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
