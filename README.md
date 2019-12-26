@@ -6,7 +6,7 @@
 分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;web安全;<br>
 导航标签：一个人的安全部;awesome系列;类**架构;<br>
 类型标签：模拟测试;* kali系统类;作者拼音;Github:\Web:\Page:\常见缩写;<br>
-状态标签：simple;noupdate;公开;有偿;免费;商业;<br>
+状态标签：simple;noupdate;商业版;社区版;<br>
 测评标签：testjob;welljob;goodjob;greatjob;<br>
 ***
 # 安全相关资源列表
@@ -37,6 +37,7 @@
 ### 安全实验室中心建设
 - https://www.freebuf.com/articles/es/211571.html    //安全实验室的发展及展望
 - 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
+- https://bbs.ichunqiu.com/thread-53927-1-1.html    //奇安信「实战攻防三部曲」要点总结。实战攻防之红蓝紫队
 ### 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -80,7 +81,6 @@
 - https://www.freebuf.com/articles/neopoints/190895.html    //入门介绍。fuzz/漏挖/脚本
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
-- https://www.qianxin.com/threat/reportaptlist    //奇安信创新研究。红蓝紫队
 ### 安全博客论坛
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
@@ -257,6 +257,7 @@
 - https://github.com/WebGoat/WebGoat    //JAVA.一键jar包web安全实验靶场
 - https://github.com/Audi-1/sqli-labs    //PHP.基于SQLite的sql注入学习靶场
 - https://github.com/lcamry/sqli-labs    //INTRO.通过sqli-labs演示mysql相关的注入手法
+- https://github.com/virusdefender/ssrf-app    //PY.服务端请求伪造ssrf靶场实例
 - https://github.com/c0ny1/upload-labs    //PHP.一个帮你总结所有类型的上传漏洞的靶场
 - https://github.com/LandGrey/upload-labs-writeup    //INTRO.upload-labs指导手册
 - https://github.com/c0ny1/xxe-lab    //一个包含php，JAVA.python，C#等各种语言版本的XXE漏洞Demo
@@ -280,10 +281,10 @@
 - https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
 ### 在线靶场学习
 - https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
-- https://www.root-me.org    //俄罗斯root me靶场，在线，免费
-- https://lab.pentestit.ru    //俄罗斯靶场，真实环境，在线，收费
-- https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。有偿
-- https://www.pentesteracademy.com    //教程+视频+实验室+认证培训 一套。有偿
+- https://www.root-me.org    //俄罗斯root me靶场。在线。社区版
+- https://lab.pentestit.ru    //俄罗斯靶场，真实环境。在线。商业版。
+- https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。商业版。
+- https://www.pentesteracademy.com    //教程+视频+实验室+认证培训一套。商业版。
 - https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
 - https://www.wechall.net    //世界知名ctf汇总交流网站
 - https://www.ichunqiu.com/experiment/direction    //i春秋实验室。Web/主机/应用/pwn教程
@@ -412,13 +413,13 @@
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
 #### awvs相关工具拓展插件
-- https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。有偿
+- https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/fnmsd/awvs_script_decode    //awvs10.5规则scripts解密版，SDK，开发手册
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS.awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //PY.Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //PY.调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 #### burpsuit相关工具拓展插件
-- https://github.com/PortSwigger    //burpsuite官方插件库。有偿
+- https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
 - https://github.com/snoopysecurity/awesome-burp-extensions    //awesome系列之burp拓展
 - https://github.com/d3vilbug/HackBar    //hackbar
 - https://github.com/bit4woo/knife    //burp增强右键菜单
@@ -674,13 +675,13 @@
 - https://github.com/Viralmaniar/I-See-You    //bash.利用公网网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
 ### 企业人员信息搜集
-- https://hunter.io/    //企业邮箱搜集。有偿。
+- https://hunter.io/    //企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
 - https://github.com/x0day/Multisearch-v2    //Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/vysec/MaiInt    //公司雇员信息收集测试工具
 - https://github.com/jofpin/trape    //PY.利用OSINT对人员进行追踪定位。4k。
-- https://www.truthfinder.com    //美国公民信息查询。有偿
-- https://infotracer.com    //姓名、手机、邮件地址等信息track。有偿。
+- https://www.truthfinder.com    //美国公民信息查询。商业版。
+- https://infotracer.com    //姓名、手机、邮件地址等信息track。商业版。
 - https://github.com/famavott/osint-scraper    //输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
 - https://github.com/n0tr00t/Sreg    //PY.Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 - https://github.com/SpiderLabs/social_mapper    //社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
@@ -727,9 +728,9 @@
 ## 漏洞收集
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //web漏洞、软件模板漏洞、数据库、中间件、CMS框架漏洞、MS&Linux等系统组件漏洞、IOT漏洞收集表单。myWiki
 ## 网站扫描器漏洞检测
-- https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。有偿，有补丁
-- https://www.tenable.com/downloads/nessus    //有偿漏洞扫描器，系统漏洞检测功能突出。有偿，有Nessus无IP限制版虚拟机
-- https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。有偿，有补丁
+- https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
+- https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版。有Nessus无IP限制版虚拟机
+- https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://github.com/andresriancho/w3af    //PY.包含 200+ Web漏洞
 - https://github.com/gyoisamurai/GyoiThon    //PY.使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
 - https://github.com/iSafeBlue/TrackRay    //JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
@@ -777,7 +778,7 @@
 - https://github.com/UltimateHackers/Striker    //PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
 - https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA、slack平台结合使用
 ### 漏洞测试框架
-- https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits，分为开源与有偿服务。Web:exploitpack.com;
+- https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
 - https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
 - https://github.com/dhondta/sploitkit    //PY3.类msf漏洞利用框架。G:Fplyth0ner-Combie/Bug-Project-Framework;G:PowerScript/KatanaFramework;G:M4cs/BabySploit
 - https://github.com/opensec-cn/kunpeng    //GO.漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
@@ -787,7 +788,7 @@
 - https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
 - Github:x.hacking8.com;G:netxfly/passive_scan;
-- https://github.com/chaitin/xray    //洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置.
+- https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
 - https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
@@ -806,7 +807,7 @@
 - https://github.com/OffensivePython/Nscan    //PY.类似于Masscan和Zmap的端口服务扫描器
 - https://github.com/RASSec/RASscan    //PY.基础端口服务扫描demo
 - https://github.com/angryip/ipscan    //JAVA.Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
-- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。有偿。
+- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 - https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
 - https://github.com/HA71/WhatCMS    //bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
@@ -859,9 +860,9 @@
 ### 在线密码破解
 - https://www.cmd5.com/    //HASH密码在线破解。限制位数
 - https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
-- http://hashtoolkit.com    //HASH密码在线破解。免费
-- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    //md5密码破解。免费
-- https://md5.gromweb.com/?md5=    //md5密码破解。免费
+- http://hashtoolkit.com    //HASH密码在线破解。社区版
+- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    //md5密码破解。社区版。
+- https://md5.gromweb.com/?md5=    //md5密码破解。社区版
 - http://www.chamd5.org    //md5密码破解。需要登录
 - http://www.xmd5.org    //md5密码破解。需要登录
 - http://pmd5.com    //md5密码破解。需要验证码
@@ -1061,8 +1062,8 @@
 - https://github.com/trustedsec/trevorc2    //PY.搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。
 Github:WebDAVC2;
 ### 移动端远程协助
-- https://spynote.us    //free有偿
-- http://droidjack.net/    //有偿
+- https://spynote.us    //商业版。
+- http://droidjack.net/    //商业版。
 - https://github.com/AhMyth/AhMyth-Android-RAT    //Smali.Android平台一对多带界面。goodjob。
 - https://github.com/The404Hacking/AndroRAT    //JAVA.Android平台一对多带界面。
 - https://github.com/n1nj4sec/pupy    //PY.Windows、Linux、OSX、Android跨平台，多session。testjob,5k。
@@ -1128,7 +1129,7 @@ Github:WebDAVC2;
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入
 endpoint 防护软件
 ### shellcode相关
-- https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。有偿
+- https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY/C.通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C.以十六进制的方式执行shellcode，绕过杀软。
@@ -1223,7 +1224,7 @@ endpoint 防护软件
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
 - https://cn.elcomsoft.com/ewsa.html    //ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3
 - http://www.rt68.cn/    //小林无线，在线握手跑包
-- https://www.passcape.com    //wifipr，握手包密码还原，另外还有许多有偿windows下密码还原工具
+- https://www.passcape.com    //wifipr，握手包密码还原，另外还有windows下密码还原工具。商业版。
 - https://github.com/MisterBianco/BoopSuite    //无线网络审计工具，支持2-5GHZ频段
 - https://github.com/aircrack-ng/aircrack-ng    //C.由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成。1k。
 - https://github.com/t6x/reaver-wps-fork-t6x    //wps跑pin码攻击，常见wifi攻击
@@ -1393,10 +1394,10 @@ endpoint 防护软件
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
 - https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
-- https://www.hex-rays.com    //IDA pro反汇编工具。有偿。
+- https://www.hex-rays.com    //IDA pro反汇编工具。商业版。
 - https://youtu.be/qCQRKLaz2nQ    //IDA pro教学视频
 - https://github.com/xrkk/awesome-ida    //IDA Pro有关的资源收集
-- https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，堪比有偿IDA
+- https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，类比IDA
 - https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
 - https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
 - https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
@@ -1486,8 +1487,8 @@ endpoint 防护软件
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
 - https://polytechnic.purdue.edu/facilities/cybersecurity-forensics-lab/tools    //FileTSAR大规模的数据调查取证
 ### 计算机设备取证
-- https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。有偿。易我数据恢复;RECUVA
-- http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。有偿
+- https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。商业版。易我数据恢复;RECUVA
+- http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。商业版。
 - https://clonezilla.org/downloads.php    //再生龙(Clonezilla)是一个免费的灾难恢复、硬盘克隆、硬盘映像档制作的部署和解决方案,由台湾的国家高速网络与计算中心(国网中心)所开发
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
 - https://sourceforge.net/projects/networkminer/files/networkminer/    //网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机
@@ -1586,9 +1587,9 @@ endpoint 防护软件
 - https://github.com/SYWorks/waidps    //PY.Linux下无线网络入侵检测工具
 ### 防火墙/waf/网关规则
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
-- http://www.safedog.cn/    //安全狗web防火墙。免费有偿。
-- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。免费商业。P:xoslab.com 内核级检测文件生成写入;
-- https://www.pfsense.org    //PHP.可配置snort规则的防火墙。开源有偿。
+- http://www.safedog.cn/    //安全狗web防火墙。商业版。
+- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;
+- https://www.pfsense.org    //PHP.可配置snort规则的防火墙。社区版。
 - https://github.com/evilsocket/opensnitch    //PY/GO.基于QT界面Linux下的应用防火墙
 - https://github.com/SpiderLabs/ModSecurity    //C.跨平台 WAF engine for Apache/IIS/Nginx等
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
@@ -1622,14 +1623,14 @@ endpoint 防护软件
 - https://github.com/containers/libpod    //GO.podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //RUBY.管理虚拟机。19k。
 - https://www.virtualbox.org    //跨平台多系统支持
-- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具。有偿
-- http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。有偿
-- https://github.com/zstackio/zstack    //Java.基于kvm与vmware的虚拟化云管理框架。有偿
+- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具。商业版。
+- http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
+- https://github.com/zstackio/zstack    //Java.基于kvm与vmware的虚拟化云管理框架。商业版。
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
 ## 代码审计应用测试
-- https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。有偿。goodjob。
+- https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://securitylab.github.com/tools/codeql    //GitHub开源代码审计，插件、函数库形式
 - https://github.com/wufeifei/cobra    //PY.源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。- https://github.com/pumasecurity/puma-scan    //C#.Visual Studio插件，实时代码审计
 - https://github.com/securego/gosec    //go.Go语言源码安全分析工具
@@ -1716,7 +1717,7 @@ endpoint 防护软件
 ## 沙盒检测恶意样本分析
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
 - https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
-- https://www.sandboxie.com    //基于转换存储的沙盒。公开。
+- https://www.sandboxie.com    //基于转换存储的沙盒。社区版。
 - https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
 ### 恶意软件/文件样本数据
 - https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
