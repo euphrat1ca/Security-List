@@ -131,11 +131,10 @@
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费
 ### 视频素材
-- https://www.videezy.com/    //部分免费
+- https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频素材
 ### 图片素材
-- https://www.videezy.com/    //免费使用，商用受保护
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图
 - https://www.flaticon.com    //免费图标网站
