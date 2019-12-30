@@ -10,6 +10,7 @@
 - https://lovelive.tools/    //说话的艺术，zn语录
 - https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //PY3.动态二维码
+- https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -36,13 +37,6 @@
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
-### 素材
-- https://msdn.itellyou.cn    //原生镜像
-- http://patorjk.com    //Text to ASCII Art Generator
-- https://mixkit.co/    //在线视频素材
-- https://www.flaticon.com    //免费图标网站
-- https://world-flags.org/worldflagstoha    //国旗动漫化
-- https://www.wondercv.com/    //简历模板生成
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
@@ -127,13 +121,34 @@
 - https://smallpdf.com/    //
 - http://pdftoword.55.la/    //
 - https://pdf.wondershare.com/    //pdf2ppt
-### 文档资源下载
+## 素材资源
+- https://pixabay.com/    //图像、视频免费使用，商用受保护
+- http://www.aigei.com/    //全资源部分免费商用
+- https://msdn.itellyou.cn    //原生镜像
+- http://patorjk.com    //Text to ASCII Art Generator
+- https://www.wondercv.com/    //简历模板生成
+### 音频素材
+- https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
+- https://www.tosound.com/    //免费
+### 视频素材
+- https://www.videezy.com/    //部分免费
+- https://www.pexels.com/    //图像、视频免费使用
+- https://mixkit.co/    //在线视频素材
+### 图片素材
+- https://www.videezy.com/    //免费使用，商用受保护
+- https://wallhaven.cc/    //大片既视感
+- https://www.cleanpng.com/    //矢量png图
+- https://www.flaticon.com    //免费图标网站
+- https://world-flags.org/worldflagstoha    //国旗动漫化
+### 字体素材
+- https://www.hellofont.cn/    //
+### 文档素材下载
 - https://www.cn-ki.net/    //知网、论文期刊检索下载
 - http://sci-hub.tw/    //文献、专利、书籍下载
 - https://github.com/gedoor/MyBookshelf    //JAVA.安卓app小说阅读器
 - http://wenku.baiduvvv.com/doc/    //文库下载
 - http://www.pptbz.com    //ppt下载
-- http://www.1ppt.com/    //ppt下载
+- http://www.1ppt.com/    //无登录免费ppt下载
 - http://vipread.com/    //信息安全知识库
 ### 软件资源下载
 - http://flyonzone.ys168.com/    //飞扬时空
