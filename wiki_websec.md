@@ -57,7 +57,7 @@
 - https://github.com/BlackHole1/autoFindXssAndCsrf    //自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
 - https://github.com/shogunlab/shuriken    //使用命令行进行XSS批量检测
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
-- https://github.com/bsmali4/xssfork    //kali下无法使用的话，请下载正确的PhantomJS到目录thirdparty/phantomjs/Linux
+- https://github.com/bsmali4/xssfork    //PY.利用无头浏览器进行xss测试，kali下无法使用的话，请下载正确的PhantomJS到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描
 - https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 ### XSS漏洞利用平台框架
