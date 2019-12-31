@@ -1396,9 +1396,10 @@ endpoint 防护软件
 - https://github.com/LinusHenze/Keysteal    //C++.窃取MacOS下KeyChain。CVE-2019-8526
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    //CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
 ## 逆向分析破解
+- https://www.pelock.com/articles/reverse-engineering-tools-review    //Reverse engineering tools review 逆向工具测评
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
-- https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集
+- https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.收集的所有开源工具: sec-tool-list;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
 ### PC端逆向二进制文件分析
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
@@ -1415,8 +1416,9 @@ endpoint 防护软件
 - https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
 - https://github.com/x64dbg/x64dbg    //C++.x96 Windows调试工具。greatjob。34k。W:immunityinc.com，Immunity Debugger;32位汇编分析调试器Ollydbg;。
 ### 查脱壳分析PE操作
-- http://www.exeinfo.xn.pl/    //PE侦壳工具，PEiD的加强版，可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等等PE信息。Website:ntinfo.biz;
-- https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。StudyPE;
+- https://github.com/horsicq/Detect-It-Easy    //C.官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl
+- https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
+- https://github.com/rednaga/APKiD   //YARA.查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:TUnpacker;G:BUnpacker;G:halfkiss/ZjDroid;
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
@@ -1480,6 +1482,7 @@ endpoint 防护软件
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 ## 数字取证
+- https://github.com/alphaSeclab/awesome-forensics    //取证相关工具和文章。收集的所有开源工具: sec-tool-list;逆向资源: awesome-reverse-engineering;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
 - https://www.audacityteam.org/    //音频文件和波形图处理工具
 - https://github.com/redaelli/imago-forensics    //PY2.将照片中Exif、MIME等信息提取存入CSV/sqlite中
 - http://www.magicexif.com/    //将照片图像中的exif信息数据化
@@ -1669,6 +1672,7 @@ endpoint 防护软件
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
 - https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
+- https://github.com/BinaryDefense/artillery    //PY.端点蜜罐防护
 ### 蜜罐安全
 - https://github.com/phage-nz/malware-hunting    //PY.利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    //PY.现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
