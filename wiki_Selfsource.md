@@ -7,7 +7,7 @@
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
-- https://lovelive.tools/    //说话的艺术，zn语录
+- https://lovelive.tools/    //说话的艺术，渣男语录
 - https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //PY3.动态二维码
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
@@ -15,17 +15,17 @@
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
-- http://www.bingdian001.com/    //冰点文库下载
+- http://www.bingdian001.com/    //百度文库冰点下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
 - https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
-- https://pandownload.com/    //下载
+- https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
 - https://github.com/wu-dada/baidupankey    //JS.基于云盘万能钥匙api查询百度网盘提取密码
-- http://www.speedpan.com/    //下载
+- http://www.speedpan.com/    //百度下载
 - https://github.com/peterq/pan-light    //GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
@@ -47,12 +47,12 @@
 - https://www.pdfpai.com/    //在线pdf转换
 - http://www.alltoall.net/    //在线格式转换
 ### 搜索引擎
-- https://www.wolframalpha.com    //问题答案搜索
+- https://www.dogedoge.com/    //多吉搜索
+- https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
 - http://ac.scmor.com/    //谷歌搜索镜像
-- https://github.com/asciimoo/searx    //PY.搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
-- https://www.gobaidugle.com    //联合搜索
-- https://lookao.com/    //匿名搜索
-- https://mijisou.com/    //匿名搜索
+- https://www.gobaidugle.com    //聚合搜索
+- https://www.wolframalpha.com    //问题答案搜索
+- https://github.com/asciimoo/searx    //PY.搭建一个自己的搜索引擎，DEMO网址 searx.me.
 ### 网盘服务
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
@@ -84,6 +84,11 @@
 - https://bbs.pediy.com/thread-223178.htm    //intro.[原创] 对控制PC端微信发送信息的研究
 - https://github.com/TonyChen56/WeChatRobot    //C++.微信pc机器人。
 - https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+## 注册机keygen
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //PY.putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机。G:github.com/HyperSine/
+- https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
 ## 办公套件
 - https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
 - https://sadd.io/    //在线操作系统
@@ -97,9 +102,6 @@
 - http://ohshitgit.com/    //intro.git操作手册
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似如SearchMyFiles
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //PY.putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机。G:github.com/HyperSine/
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
@@ -131,10 +133,13 @@
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费
 ### 视频素材
+- https://github.com/obsproject/obs-studio    //C.用于实时流媒体和屏幕录制.官网obsproject.com。
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频素材
 ### 图片素材
+- https://github.com/nagadomi/waifu2x    //lua.无损放大图片.官网“waifu2x.udp.jp/”。P:bigjpg.com;
+- https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图
 - https://www.flaticon.com    //免费图标网站
@@ -142,7 +147,7 @@
 ### 字体素材
 - https://www.hellofont.cn/    //
 ### 文档素材下载
-- https://www.cn-ki.net/    //知网、论文期刊检索下载
+- https://www.cn-ki.net/    //知网/论文期刊检索下载
 - http://sci-hub.tw/    //文献、专利、书籍下载
 - https://github.com/gedoor/MyBookshelf    //JAVA.安卓app小说阅读器
 - http://wenku.baiduvvv.com/doc/    //文库下载

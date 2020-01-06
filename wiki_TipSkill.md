@@ -37,6 +37,7 @@
 - https://github.com/lancopku/PKUSeg-python    //PY3.北大中文分词
 - https://github.com//chinese-poetry/chinese-poetry    //PY.中华最全诗词库数据
 ### 机器学习
+- https://visualgo.net/    //算法库
 - https://github.com/google-research/bert    //PY.谷歌研究院最强NLP运算模型
 - https://paperswithcode.com/sota    //机器学习具体项目、演示、代码
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频

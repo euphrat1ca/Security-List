@@ -26,7 +26,7 @@
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库
 - https://www.alibabacloud.com/blog    //阿里安全建设
-- https://security.tencent.com/index.php/blog    //腾讯安全建设
+- https://security.tencent.com/index.php/blog/msg/139    //腾讯安全建设。网络空间安全时代的红蓝对抗建设
 - https://github.com/baidu-security    //百度安全建设
 - https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention    //谷歌安全建设
 - https://aws.amazon.com/cn/blogs/security/    //亚马逊安全建设
@@ -401,7 +401,16 @@
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 ## 相关工具拓展插件
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
-#### kali环境拓展插件
+### burpsuit相关工具拓展插件
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_burpsuite.md/    //burpsuite插件收集.mywiki
+- https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
+### CobaltStrike相关工具拓展插件
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
+- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
+- https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
+- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
+- https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
+### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //linux下类似于kali的工具包一键安装工具
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
 - https://github.com/TrustedSec/ptf/    //PY.基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
@@ -413,26 +422,13 @@
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    //扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
-#### awvs相关工具拓展插件
+### awvs相关工具拓展插件
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/fnmsd/awvs_script_decode    //awvs10.5规则scripts解密版，SDK，开发手册
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS.awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //PY.Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //PY.调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
-#### burpsuit相关工具拓展插件
-- https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
-- https://github.com/snoopysecurity/awesome-burp-extensions    //awesome系列之burp拓展
-- https://github.com/d3vilbug/HackBar    //hackbar
-- https://github.com/bit4woo/knife    //burp增强右键菜单
-- https://github.com/c0ny1/jsEncrypter    //一个用于加密传输爆破的Burp Suite插件
-- https://github.com/nccgroup/BurpSuiteHTTPSmuggler    //使用几种技巧绕过WAF
-- https://github.com/nccgroup/argumentinjectionhammer    //Burp插件.识别参数注入漏洞
-- https://github.com/modzero/interestingFileScanner    //增强敏感文件扫描
-- https://github.com/c0ny1/chunked-coding-converter    //本插件主要用于分块传输绕WAF
-- https://github.com/ztosec/secscan-authcheck    //java.越权漏洞检测，支持web界面配置。Github:portswigger/authz
-- https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描apikey/tokens
-- https://github.com/TheKingOfDuck/burpFakeIP    //IP修改伪造
-#### sqlmap相关工具拓展插件
+### sqlmap相关工具拓展插件
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
@@ -443,7 +439,7 @@
 - https://github.com/ysrc/GourdScanV2    //ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
 - https://github.com/zt2/sqli-hunter    //基于sqlmapapi，ruby编写的漏洞代理型检测工具
 - https://github.com/jesuiscamille/AutoSQLi    //利用DorkNet，Googler， Ddgr， WhatWaf 和 sqlmap自动注入
-#### nmap相关工具拓展插件
+### nmap相关工具拓展插件
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //BASH.联动masscan和nmap
@@ -465,7 +461,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //PY.cloudflare基于nmap开发的漏洞检测工具
-#### metasploit相关工具拓展插件
+### metasploit相关工具拓展插件
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    //结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    //一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    //等待msf的session，并自动提为域管理
@@ -478,13 +474,7 @@
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //metasploit的GUI界面，强化Windows下支持
 - https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。
-#### CobaltStrike相关工具拓展插件
-- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
-- https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
-- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
-- https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
-#### Empire相关工具拓展插件
+### Empire相关工具拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面
 - https://github.com/interference-security/empire-web    //empire的web界面
@@ -1307,6 +1297,8 @@ endpoint 防护软件
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
 - https://github.com/cwerling/psptool    //PY.分析和解析AMD安全处理器的固件工具包
+- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
+- https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -1399,7 +1391,7 @@ endpoint 防护软件
 - https://www.pelock.com/articles/reverse-engineering-tools-review    //Reverse engineering tools review 逆向工具测评
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
-- https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.收集的所有开源工具: sec-tool-list;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
+- https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.
 ### PC端逆向二进制文件分析
 - https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
@@ -1720,6 +1712,7 @@ endpoint 防护软件
 - https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/nospaceships/raw-socket-sniffer    //C.PS.无需驱动抓取Windows流量
+- https://github.com/netsniff-ng/netsniff-ng    //C.a fast zero-copy analyzer,pcap捕获和重放工具
 ### 常用报文库开源协议库
 - https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
 - https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
