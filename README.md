@@ -38,6 +38,7 @@
 - https://www.freebuf.com/articles/es/211571.html    //安全实验室的发展及展望
 - 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
 - https://bbs.ichunqiu.com/thread-53927-1-1.html    //奇安信「实战攻防三部曲」要点总结。实战攻防之红蓝紫队
+- https://github.com/Leezj9671/offensiveinterview    //安全/渗透测试/红队面试题.G:WebBreacher/offensiveinterview;
 ### 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -400,7 +401,9 @@
 - https://github.com/boy-hack/hack-requests    //PY3.python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 ## 相关工具拓展插件
+### 菜刀相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
+- https://github.com/yzddmr6/as_webshell_venom    //js.免杀webshell无限生成工具蚁剑版
 ### burpsuit相关工具拓展插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_burpsuite.md/    //burpsuite插件收集.mywiki
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
@@ -499,13 +502,15 @@
 - https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
 - https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
-### Cross超越边界
-- https://www.wireguard.com/install/    //新一代npv协议
-- https://github.com/bannedbook/fanqiang/wiki    //cross汇总
+### Cross超越边界自组网
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本
 - https://github.com/teddysun/across    //BASH.npv、bbr、kms等脚本
 - https://github.com/Nyr/openvpn-install    //openvpn一键安装
 - https://github.com/quericy/one-key-ikev2-vpn    //CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
+- http://www.vpngate.net    //日本国立筑波大学云局域网
+- https://github.com/zerotier    //C++.网络虚拟化平台云自组网
+- https://github.com/bannedbook/fanqiang/wiki    //cross汇总
+- https://www.wireguard.com/install/    //新一代npv协议
 - https://github.com/teddysun/shadowsocks_install    //shadowsocks/shadowsocksr
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https等多种代理
 - https://github.com/shadowsocks/shadowsocks-manager    //shadowsocks多用户管理
@@ -523,7 +528,6 @@
 - https://github.com/netchx/Netch    //C#.类似sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，替代方案proxifier。
 - https://github.com/ntkernel/lantern    //unlimited-landeng-for-win，无限流量蓝灯
 - https://www.psiphon3.com    //开源赛风超越边界代理
-- http://www.vpngate.net    //日本国立筑波大学超越边界代理
 - https://hide.me    //npv可试用
 - https://windscribe.com    //npv可试用
 - https://mono.sh    //飞机场
@@ -846,7 +850,7 @@
 - https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
 - https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
 - https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
-- https://www.veracrypt.fr    //C.2K。类似BitLocker全盘加密，支持磁盘隐藏分区。
+- https://github.com/veracrypt/VeraCrypt    //C.2K。官网veracrypt.fr,类似BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
 - https://github.com/AlkenePan/KAP    //GO.实现 ELF 文件保护
 ### 在线密码破解
 - https://www.cmd5.com/    //HASH密码在线破解。限制位数
@@ -923,7 +927,7 @@
 - https://github.com/m8r0wn/ldap_search    //PY.通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/lgandx/Responder    //PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
 - https://www.secpulse.com/archives/65503.html    //INTRO.【脉搏译文系列】渗透师指南之Responder。a拿着b密码请求b，c对a说我是b，然后c获得了b的密码。
-- https://github.com/euphrat1ca/Security-Research/tree/master/tools/ms-office/subdoc-injector    //PY.构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
+- https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //PY.构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //intro.Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
 - https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
@@ -976,6 +980,7 @@
 - https://github.com/dr0op/bufferfly    //PY3.资产/域名存活验证，标题获取，语料提取，端口检测。
 - https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。
 - https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常。
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator 
 ### 资产管理风险测试
 - https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
 - https://gobies.org    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试
@@ -1444,7 +1449,7 @@ endpoint 防护软件
 - https://github.com/iBotPeaches/Apktool    //java.Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //bash.apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 ## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals出品系统管理套装。autorun（自启动）/Process Explorer（加强进程管理）等
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals出品系统管理套装。autorun（自启动）、Process Explorer（加强进程管理）、procmon
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子

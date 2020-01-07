@@ -39,6 +39,7 @@
 - https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议生成ssrf payload执行rce。
 ### XSS跨站脚本检测利用
+- https://xsspt.com/index.php?do=blist    //乌云xss学习
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
 - http://www.xss-payloads.com    //xss工具包与资料
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet    //跨站脚本（XSS）备忘录，收集了大量的XSS攻击向量，包含了各种事件处理、通讯协议、特殊属性、限制字符、编码方式、沙箱逃逸等技巧
@@ -61,12 +62,15 @@
 - https://github.com/riusksk/FlashScanner    //flash xss扫描
 - https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 ### XSS漏洞利用平台框架
+- http://xs.ax    //在线
+- https://xsspt.com    //在线
+- https://xss.wtf    //在线
 - https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
-- https://github.com/BlackHole1/WebRtcXSS    //PHP.基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
-- https://github.com/samdenty99/injectify    //TS,JS.利用xss在网站执行mitm攻击
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP.蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
 - https://github.com/euphrat1ca/XssPowerByTools    //PHP.XSS平台课程设计。simple。
 - https://github.com/AntSwordProject/ant    //Nodejs.蚁逅@1.0，实时上线的 XSS 盲打平台
+- https://github.com/BlackHole1/WebRtcXSS    //PHP.基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
+- https://github.com/samdenty99/injectify    //TS,JS.利用xss在网站执行mitm攻击
 ### 本地文件包含漏洞
 - https://github.com/hvqzao/liffy    //本地文件包含漏洞利用工具
 - https://github.com/D35m0nd142/Kadabra    //本地文件包含漏洞扫描和利用工具

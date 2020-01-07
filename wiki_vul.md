@@ -65,6 +65,7 @@
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
 ### 数据库漏洞
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
+- https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
 ## 中间件漏洞
 ### Python大框架漏洞
@@ -88,7 +89,7 @@
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 #### Weblogic相关漏洞
-- https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3，以支持2019
+- https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3,支持2019
 - https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
 - https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
