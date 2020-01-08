@@ -1,11 +1,11 @@
-## web安全测试利用
+# web安全测试利用
 - https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
 - https://github.com/gh0stkey/PoCBox    //PHP.漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测等
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
-### 前端利用
+## 前端利用
 - https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
 - https://github.com/WMJonssen/Centcount-Analytics    //PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
@@ -38,7 +38,8 @@
 - http://blog.safebuff.com/2016/07/03/SSRF-Tips/    //ssrf漏洞利用手册
 - https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议生成ssrf payload执行rce。
-### XSS跨站脚本检测利用
+## XSS跨站脚本检测利用
+- https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
 - https://xsspt.com/index.php?do=blist    //乌云xss学习
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
 - http://www.xss-payloads.com    //xss工具包与资料
@@ -47,7 +48,9 @@
 - https://www.slideshare.net/GarethHeyes/xss-magic-tricks    //burpsuite团队总结xss知识点
 - https://github.com/ismailtasdelen/xss-payload-list    //XSS 漏洞Payload列表
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload
-- https://github.com/evilcos/xssor2    //余弦写的xss利用辅助工具
+- https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
+### XSS检测辅助
+- https://github.com/hahwul/XSpear    //ruby.Powerfull XSS Scanning and Parameter analysis tool&gem
 - https://github.com/UltimateHackers/XSStrike    //可识别并绕过WAF的XSS扫描工具
 - https://github.com/raz-varren/xsshell    //GO.利用xss返回js交互shell
 - https://github.com/UltimateHackers/JShell    //利用xss返回js交互shell
@@ -65,7 +68,6 @@
 - http://xs.ax    //在线
 - https://xsspt.com    //在线
 - https://xss.wtf    //在线
-- https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP.蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
 - https://github.com/euphrat1ca/XssPowerByTools    //PHP.XSS平台课程设计。simple。
 - https://github.com/AntSwordProject/ant    //Nodejs.蚁逅@1.0，实时上线的 XSS 盲打平台

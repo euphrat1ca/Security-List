@@ -79,7 +79,7 @@
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
 ### 客户端通讯分析
 - https://github.com/seemoo-lab/opendrop    //py3.基于owlink.org的Apple AirDrop文档共享实现
-- https://github.com/dplusec/tgwechat/    //采用Telegram类似的安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
+- https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
 - https://bbs.pediy.com/thread-224988.htm    //intro.[原创]PC微信发送消息研究
 - https://bbs.pediy.com/thread-223178.htm    //intro.[原创] 对控制PC端微信发送信息的研究
 - https://github.com/TonyChen56/WeChatRobot    //C++.微信pc机器人。
@@ -100,7 +100,7 @@
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
 - http://ohshitgit.com/    //intro.git操作手册
-- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似如SearchMyFiles
+- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
 - http://sc.ftqq.com/3.version    //server酱微信通知
