@@ -156,6 +156,7 @@
 - http://vipread.com/    //信息安全知识库
 ### 软件资源下载
 - http://flyonzone.ys168.com/    //飞扬时空
+- http://www.zdfans.com/    //zd423
 - http://www.carrotchou.blog/    //胡萝卜周
 - https://www.appinn.com/    //小众软件下载
 - https://www.parsevideo.com/    //视频解析
