@@ -112,6 +112,7 @@
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //PY3.Windows下Linux子系统WSL管理工具
 ### 项目文档管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
+- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
 - https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
 - https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
 - https://etherpad.net/    //在线可编辑记事本
