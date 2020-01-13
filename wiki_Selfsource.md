@@ -53,7 +53,7 @@
 - https://www.gobaidugle.com    //聚合搜索
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //PY.搭建一个自己的搜索引擎，DEMO网址 searx.me.
-### 网盘服务
+### 云存储网盘服务
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
 - https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing
@@ -67,7 +67,7 @@
 ## 通讯服务
 - https://salmon-mail.readthedocs.io    //PY.实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://github.com/PHPMailer/PHPMailer    //   PHP.PHP发送邮件的组件
+- https://github.com/PHPMailer/PHPMailer    //PHP.PHP发送邮件的组件
 - https://github.com/mailpile/Mailpile    //PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 ### 通讯隐私加密虚拟身份
 - https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
