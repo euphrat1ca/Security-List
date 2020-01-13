@@ -404,6 +404,8 @@
 ### 菜刀相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js.免杀webshell无限生成工具蚁剑版
+- https://github.com/Ch1ngg/CaidaoMitmProxy    //PY3.基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。
+- https://github.com/ekgg/Caidao-AES-Version    //Burp插件.用AES算法透明加密菜刀的http数据流
 ### burpsuit相关工具拓展插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_burpsuite.md/    //burpsuite插件收集.mywiki
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
@@ -915,7 +917,7 @@
 - https://github.com/skelsec/pypykatz    //PY3.使用python实现的mimikatz
 - https://github.com/eladshamir/Internal-Monologue    //C#.无需LSASS进程使用Mimikatz从LSASS进程内存中提取内容，从内存中提取明文密码，NTLM哈希，Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
-- https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump”，并远程解析转储。
+- https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方）”，并远程解析转储。
 - https://github.com/twelvesec/passcat    //C.Windows 下密码抓取工具
 - https://github.com/huntergregal/mimipenguin    //C.linux密码抓取
 - https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
@@ -1459,7 +1461,7 @@ endpoint 防护软件
 - https://github.com/iBotPeaches/Apktool    //java.Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //bash.apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 ## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals出品系统管理套装。autorun（自启动）、Process Explorer（加强进程管理）、procmon
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（加强进程管理）、procmon、procdump（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
