@@ -27,7 +27,7 @@
 - https://github.com/microsoft/SDN    //PS.此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
 - https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
 ### 自动化测试
-- https://github.com/AirtestProject/Airtest    //PY.Android、iOS跨平台的UI自动化框架
+- https://github.com/AirtestProject/Airtest    //PY.网易Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js.双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
 - https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试
 - https://github.com/hyb1996/Auto.js    //js.安卓平台上的JavaScript自动化工具
