@@ -294,6 +294,7 @@
 - https://www.xssgame.com    //谷歌XSS挑战
 - http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
 ## Fuzzer模糊测试
+- 工控模糊测试Wurldtech Achilles阿基里斯国际认证
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
@@ -579,7 +580,7 @@
 - https://github.com/TheRook/subbrute    //PY.扫描器中常用的子域名爆破API库
 - https://github.com/nahamsec/lazyrecon    //BASH.侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等
 - https://github.com/FeeiCN/ESD    //PY3.爆破搜集子域名
-- https://github.com/guimaizi/get_domain    //py.SRC域名收集与监测V3.0
+- https://github.com/guimaizi/get_domain    //py.基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
 - https://github.com/pentester-io/commonspeak    //BASH.Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
 - https://github.com/blark/aiodnsbrute/    //PY3.DNS异步爆破子域名
 - https://github.com/lijiejie/subDomainsBrute    //PY.开发的一款使用广泛的子域名爆破枚举工具
@@ -784,15 +785,15 @@
 ### 被动扫描代理抓包
 - https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
-- Github:x.hacking8.com;G:netxfly/passive_scan;
+- https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
 - https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
 - https://github.com/timwhitez/crawlergo_x_XRAY    //PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫联动，相同还可以使用awvs等。
+- https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner，官网x.hacking8.com。G:netxfly/passive_scan;
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
 - https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
 - https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
-- https://github.com/boy-hack/w13scan    //PY3.被动扫描器。Passive Security Scanner (被动安全扫描器)。
 ### 端口服务发现指纹识别
 - https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
@@ -909,6 +910,7 @@
 - 公众号：红队攻防全流程解析    //
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
+- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
 ### 横向移动密码hash获取
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
@@ -1297,13 +1299,15 @@ endpoint 防护软件
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
+- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
 - https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali系统类。
-- https://blog.attify.com    //firmware固件安全，IoT安全相关文章
 - https://github.com/threat9/routersploit    //PY3.类msf物联网漏洞利用框架。
 - https://github.com/dhondta/dronesploit    //PY3.基于sploitkit无人机测试框架。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //PY.瑞士军刀类型IOT设备安全测试
 ### 设备固件安全
+- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
+- https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
 - http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //绿盟：智能设备安全分析手册.pdf
@@ -1649,7 +1653,8 @@ endpoint 防护软件
 - https://www.virtualbox.org    //跨平台多系统支持
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具。商业版。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
-- https://github.com/zstackio/zstack    //Java.基于kvm与vmware的虚拟化云管理框架。商业版。
+- https://github.com/zstackio/zstack    //Java.类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
+- https://www.proxmox.com/    //类似virtualbox的开源虚拟化平台，自带防火墙、邮件网关。
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集

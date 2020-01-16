@@ -48,6 +48,7 @@
 - https://github.com/WyAtu/CVE-2018-20250    //PY.WinRAR压缩包代码执行复现与利用
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。https://whoer.net web应用指纹获取集合
 - https://www.freebuf.com/articles/terminal/175862.html    //INTRO.从OpenVPN配置文件中创建反弹Shell实现用户系统控制
+- http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    //CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
