@@ -987,7 +987,7 @@
 - https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator 
 ### 资产管理风险测试
 - https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
-- https://gobies.org    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试
+- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。W:rumble.run;
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试

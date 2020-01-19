@@ -42,7 +42,7 @@
 - https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
 - https://xsspt.com/index.php?do=blist    //乌云xss学习
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
-- http://www.xss-payloads.com    //xss工具包与资料
+- http://www.xss-payloads.com    //xss工具包、资料、payload导航站
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet    //跨站脚本（XSS）备忘录，收集了大量的XSS攻击向量，包含了各种事件处理、通讯协议、特殊属性、限制字符、编码方式、沙箱逃逸等技巧
 - https://somdev.me/21-things-xss/    //XSS的21个扩展用途
 - https://www.slideshare.net/GarethHeyes/xss-magic-tricks    //burpsuite团队总结xss知识点
