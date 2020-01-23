@@ -103,7 +103,7 @@
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
 ### 系统管理
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.

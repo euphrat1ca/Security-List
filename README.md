@@ -267,7 +267,6 @@
 - https://github.com/incredibleindishell/CORS-vulnerable-Lab    //PHP.与COSR配置错误相关的漏洞代码靶场
 - https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
 - https://github.com/secvulture/dvta    //CS客户端靶场
-- https://www.netresec.com/?page=PCAP4SICS    //ics靶场pcap数据包
 - https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/abhi-r3v0/EVABS    //C++.Android靶场联系
@@ -500,7 +499,11 @@
 - https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
 - https://github.com/Dliv3/Venom    //GO.类似于于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具
 - https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
+### 代理端口复用
+https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
+- https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件，进行rdp服务端口复用
 - https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
+- https://github.com/BeetleChunks/redsails    //PY/C++.利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
 ### 代理池
 - https://github.com/SpiderClub/haipproxy    //PY3.Scrapy and Redis，高可用ip代理池
 - https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
@@ -613,7 +616,7 @@
 - https://github.com/Yelp/detect-secrets    //PY.防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
-- https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)， 支持 Android APK 文件
+- https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    //GO.cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 - https://github.com/lijiejie/idea_exploit    //PY.利用 IDE config folder (.idea) 进行文件下载
@@ -774,7 +777,7 @@
 - https://github.com/iceyhexman/onlinetools    //PY3.simple，DONE，web界面，利用antsword漏洞插件
 - https://github.com/tulpar/tulpar    //PY.支持多种web漏洞扫描.simple
 - https://github.com/UltimateHackers/Striker    //PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
-- https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA、slack平台结合使用
+- https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
 - https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
@@ -1013,8 +1016,7 @@
 - https://github.com/quickbreach/smbetray    //专注于通过文件内容交换、lnk交换来攻击客户端，以及窃取任何以明文形式传输的数据
 - https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
 - https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击。G:citronneur/rdpy rdp远程服务模拟开启
-- https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件进行rdp服务端口复用
-- http://ntwox.sourceforge.net    //ntwow多协议伪造网络测试工具集
+- http://ntwox.sourceforge.net    //ntwow多协议伪造，网络测试工具集
 - https://github.com/Ekultek/suddensix    //bash.SLAAC（无状态地址自动配置）攻击自动化脚本，可用于在IPv4基础架构上构建IPv6覆盖网络，以执行中间人攻击。
 ### wifi中间人攻击
 - https://github.com/wifiphisher/wifiphisher    //PY.中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取。goodjob,7k。
@@ -1052,7 +1054,6 @@
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
 - https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/BeetleChunks/redsails    //PY/C++.利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
 - https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;。
 - https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell。2k。goodjob。
 - https://www.4hou.com/penetration/18447.html    //域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
@@ -1431,7 +1432,7 @@ endpoint 防护软件
 ### 查脱壳分析PE操作
 - https://github.com/horsicq/Detect-It-Easy    //C.官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
-- https://github.com/rednaga/APKiD   //YARA.查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android
+- https://github.com/rednaga/APKiD   //YARA.查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android.
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:TUnpacker;G:BUnpacker;G:halfkiss/ZjDroid;
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
@@ -1461,11 +1462,11 @@ endpoint 防护软件
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
 - https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
 - https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
-- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，Android Killer安卓逆向工具
+- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:apk改之理;
 - https://github.com/iBotPeaches/Apktool    //java.Android逆向apk反编译工具.8K.
-- https://github.com/UltimateHackers/Diggy    //bash.apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
+- https://github.com/UltimateHackers/Diggy    //bash.基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
 ## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（加强进程管理）、procmon、procdump（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
@@ -1494,7 +1495,7 @@ endpoint 防护软件
 ### 系统文件
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
-## 数字取证
+# 数字取证
 - https://github.com/alphaSeclab/awesome-forensics    //取证相关工具和文章。收集的所有开源工具: sec-tool-list;逆向资源: awesome-reverse-engineering;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
 - https://github.com/laramies/metagoofil    //PY.从文件获取相关网站的用户名与邮箱等数据。documents (pdf,doc,xls,ppt,etc)
 - https://github.com/mozilla/mig    //go.火狐mozilla基金会针对海量文件的内容定位工具，支持节点分级部署。Deprecation
@@ -1508,13 +1509,6 @@ endpoint 防护软件
 - https://www.gimp.org/    //Gimp提供了转换各类图像文件可视化数据的功能，还可以用于确认文件是否是一个图像文件
 - http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
 - http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
-### 网络取证
-- https://github.com/Srinivas11789/PcapXray    //py.网络取证工具，可以捕获网络数据包，并可视化为包括设备标识的网络图，并突出显示重要的通信和文件操作。
-- http://f00l.de/pcapfix/    //pcap文件修复
-- https://github.com/USArmyResearchLab/Dshell    //可扩展的网络取证分析框架，支持快速开发插件与解析网络数据包捕获
-- https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
-- https://github.com/davidmcgrew/joy    //用来捕获和分析内外网流量数据的包，主要用于进行网络调查、安全监控和取证
-- https://sourceforge.net/projects/networkminer/files/networkminer/    //网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机
 ### 计算机设备取证
 - https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。商业版。易我数据恢复;RECUVA
 - http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。商业版。
@@ -1541,6 +1535,36 @@ endpoint 防护软件
 - https://github.com/viaforensics/android-forensics    //安卓取证App和框架，可以对安卓设备内各种信息进行提取
 - https://www.freebuf.com/articles/rookie/195107.html    //记一次微信数据库解密过程。微信的加密数据库的解密密码是由“设备的IMEI(MEID)+用户的uin，进行MD5，然后取其前7位小写字母”构成的
 - https://www.freebuf.com/news/193684.html    //iOS取证技巧：在无损的情况下完整导出SQLite数据库
+## 网络取证
+- https://github.com/Srinivas11789/PcapXray    //py.网络取证工具，可以捕获网络数据包，并可视化为包括设备标识的网络图，并突出显示重要的通信和文件操作。
+- http://f00l.de/pcapfix/    //pcap文件修复
+- https://github.com/USArmyResearchLab/Dshell    //可扩展的网络取证分析框架，支持快速开发插件与解析网络数据包捕获
+- https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
+- https://github.com/davidmcgrew/joy    //用来捕获和分析内外网流量数据的包，主要用于进行网络调查、安全监控和取证
+- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，解析http 2与TLS加密。产品包括网络取证与监控caploader 流量捕获、polarproxy tls加密流量代理等
+### 协议解析流量分析数据还原
+- http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
+- https://github.com/wireshark/wireshark    //LUA.议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
+- http://www.tcpdump.org    //网络数据包截获分析
+- http://lcamtuf.coredump.cx/p0f3    //C.p0f升级版，被动的流量指纹识别TCP/http
+- https://github.com/zeek/zeek    //C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
+- https://github.com/0x4D31/fatt    //PY.利用tshark对流量进行解析
+- https://github.com/netxfly/xsec-traffic    //GO.轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
+- http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
+- https://github.com/secdev/scapy    //PY.内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
+- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
+- https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
+- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
+- https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
+- https://github.com/nospaceships/raw-socket-sniffer    //C.PS.无需驱动抓取Windows流量
+- https://github.com/netsniff-ng/netsniff-ng    //C.a fast zero-copy analyzer,pcap捕获和重放工具
+### 常用报文库开源协议库
+- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
+- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
+- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
+- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
+- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
+- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ## CTF相关(Capture The Flag)
 - https://ctftime.org    //CTF排名比赛介绍
 - https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
@@ -1597,6 +1621,7 @@ endpoint 防护软件
 - https://github.com/0Kee-Team/WatchAD    //PY.360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 ### EDR终端主机防护
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
+- http://edr.topsec.com.cn/    //天融信终端威胁防御系统
 ### NSM网络安全监控/入侵检测
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
@@ -1661,7 +1686,9 @@ endpoint 防护软件
 ## 代码审计应用测试
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://securitylab.github.com/tools/codeql    //GitHub开源代码审计，插件、函数库形式
-- https://github.com/wufeifei/cobra    //PY.源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。- https://github.com/pumasecurity/puma-scan    //C#.Visual Studio插件，实时代码审计
+- https://github.com/microsoft/ApplicationInspector    //C#.基于规则代码安全审计
+- https://github.com/pumasecurity/puma-scan    //C#.Visual Studio插件，实时代码审计
+- https://github.com/wufeifei/cobra    //PY.源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。
 - https://github.com/securego/gosec    //go.Go语言源码安全分析工具
 - https://github.com/GoSSIP-SJTU/TripleDoggy    //C.c/c++/object-c源代码检测框架，支持接口调用
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
@@ -1722,29 +1749,6 @@ endpoint 防护软件
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试
 - https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
 - https://github.com/trombastic/PyScada/    //PY2.基于Django的SCADA操作管理系统
-## 协议解析流量分析数据还原
-- http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
-- https://github.com/wireshark/wireshark    //LUA.议解析流量分析还原。通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
-- http://www.tcpdump.org    //网络数据包截获分析
-- http://lcamtuf.coredump.cx/p0f3    //C.p0f升级版，被动的流量指纹识别TCP/http
-- https://github.com/zeek/zeek    //C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
-- https://github.com/0x4D31/fatt    //PY.利用tshark对流量进行解析
-- https://github.com/netxfly/xsec-traffic    //GO.轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
-- http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
-- https://github.com/secdev/scapy    //PY.内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
-- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
-- https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
-- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
-- https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
-- https://github.com/nospaceships/raw-socket-sniffer    //C.PS.无需驱动抓取Windows流量
-- https://github.com/netsniff-ng/netsniff-ng    //C.a fast zero-copy analyzer,pcap捕获和重放工具
-### 常用报文库开源协议库
-- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
-- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
-- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
-- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
-- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
-- https://www.netresec.com/?page=PcapFiles    //netresec公司维护。产品包括网络取证与监控，networkminer，caploader，rawcao
 ## 沙盒检测恶意样本分析
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
 - https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
