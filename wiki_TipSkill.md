@@ -52,10 +52,10 @@
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //PY.一键换装
 - https://github.com/ecjtuseclab/AILoginBlasting    //PY.服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //PY.超轻量级人脸检测模型
-### 大数据框架
+### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C.对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
-- https://github.com/Tencent/wwsearch    //C++.腾讯全文检索引擎。ELK对标
+- https://github.com/Tencent/wwsearch    //C++.腾讯全文检索引擎。对标ELK
 - https://github.com/F-Stack/f-stack    //C.腾讯开源基于dpdk的高性能网络框架
 - https://github.com/pentaho/pentaho-kettle    //java. ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:zhaxiaodong9860/kettle-scheduler 调度监控平台;G:majinju/kettle-manager WEB端管理;
 ### 移动端开发

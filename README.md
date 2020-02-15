@@ -412,6 +412,7 @@
 ### CobaltStrike相关工具拓展插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
+- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 - https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
 - https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
@@ -551,7 +552,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/HurricaneLabs/machinae    //PY.ip/url/file/email/dns/hash/domain多接口
 - https://github.com/gh0stkey/ahrid    //py.利用jsonp等漏洞通过分析模块对黑客画像溯源
 ### 在线信息搜集网站
-- https://shodan.io    //互联网感知引擎.W:https://www.zoomeye.org/;W:https://fofa.so/;W:https://censys.io/;
+- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;
 - https://www.oshadan.com    //傻蛋联网设备搜索，湖南安数网络。NOupdate。
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:http://tools.bugscaner.com/;
 - https://safeweb.norton.com    //诺顿网站安全检测
@@ -701,7 +702,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/JonCooperWorks/judas    //GO.克隆网站钓鱼
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
-- https://github.com/trustedsec/social-engineer-toolkit    //PY.TrustedSec开发的专为社交工程设计的开源渗透测试框架,支持网站克隆、邮件伪造、反弹shell等
+- https://github.com/trustedsec/social-engineer-toolkit    //PY.TrustedSec开发的专为社交工程设计的开源渗透测试框架,SET框架支持网站克隆、邮件伪造、反弹shell等
 - https://github.com/thelinuxchoice/blackeye    //PY.拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
 - https://github.com/M4cs/BlackEye-Python    //PY.以blackeye为基础，增加子域名模拟伪造功能
 - https://github.com/gophish/gophish    //GO.拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
@@ -844,7 +845,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/ztgrace/changeme    //弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
 - https://github.com/ShawnDEvans/smbmap    //py.利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本
-- https://github.com/Moham3dRiahi/XBruteForcer    //WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
+- https://github.com/Moham3dRiahi/XBruteForcer    //perl.WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
 - https://github.com/lijiejie/htpwdScan    //PY.simple，http暴力破解、撞库攻击脚本
 - https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
 - https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
@@ -1007,7 +1008,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
 ## MITM攻击流量劫持
-- https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
+- https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
 - https://github.com/qiyeboy/BaseProxy    //PY3.异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/LionSec/xerosploit    //中间人攻击测试工具包
@@ -1028,28 +1029,31 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/tenable/router_badusb    //利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
 ## 远程管理控制
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++.红队C2通讯框架。Github:mwrlabs/C3;Github:cobbr/Covenant。
-- https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
-- https://github.com/tiagorlampert/CHAOS    //GO.win远控，自带upx。welljob。
-- https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB,1k。
-- https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台rat。
+- https://github.com/tiagorlampert/CHAOS    //GO.跨平台TCP远程控制。welljob。
+- https://github.com/lesnuages/hershell    //GO.反向TCP远程控制shell，自带https证书校验。
 - https://github.com/Ne0nd0g/merlin    //GO.c2通讯，多session。
 - https://github.com/Tiked/Client    //GO.跨平台rat。
+- https://github.com/zerosum0x0/koadic    //PY3.大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell.GOODJOB,1k。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++/C.基于大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++.远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。0.2k。
+- https://github.com/quasar/QuasarRAT    //C#.多sessions，界面化。goodjob。2.4k。Github:NYAN-x-CAT/AsyncRAT-C-Sharp。
 - https://github.com/TheM4hd1/Vayne-RaT    //C#.一对多，界面。
 - https://github.com/TheSph1nx/RT-101    //C#.一对多，界面。
 - https://github.com/DannyTheSloth/VanillaRat    //C#.SIMPLE，界面。
 - https://github.com/brunull/pace    //C#.SIMPLE，界面。
 - https://github.com/nettitude/PoshC2    //PowerShell/C#.远控工具，有win提权组件
-- https://github.com/peterpt/fuzzbunch    //PY2.方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲
+- https://github.com/n1nj4sec/pupy    //PY.Windows、Linux、OSX、Android跨平台，多session。testjob,5k。
 - https://github.com/nathanlopez/Stitch    //PY.Windows、Mac OSX、Linux跨平台。welljob,1k。
-- https://github.com/Mr-Un1k0d3r/ThunderShell    //PY2.CLI与web端，内存加载，RC4加密HTTP传输
+- https://github.com/peterpt/fuzzbunch    //PY2.方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲
 - https://github.com/Ridter/MyJSRat    //PY2.利用js后门，配合chm、hta可实现很多后门方式。evi1cg.me/archives/chm_backdoor.html。welljob。
 - https://github.com/Hood3dRob1n/JSRat-Py    //PY.jsrat改进版。
 - https://github.com/its-a-feature/Apfell    //PY3.macOS与linux下的利用js后门，web界面管理
 - https://github.com/neoneggplant/EggShell    //PY.macos/osx远控，可生成HID代码，多session。testjob。noupdate。
 - https://github.com/Marten4n6/EvilOSX    //PY.macos/osx远控，多session。testjob。noupdate。
+- https://github.com/Mr-Un1k0d3r/ThunderShell    //PY2.CLI与web端，内存加载，RC4加密HTTP传输
 - https://github.com/vesche/basicRAT    //PY3.simple远控，多session。
+- https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台rat。
+- https://github.com/ThatcherDev/BetterBackdoor     //JAVA.基于jre环境的跨平台后门，支持键盘注入功能。testjob.
 ### 多姿态远控shell
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
@@ -1073,7 +1077,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - http://droidjack.net/    //商业版。
 - https://github.com/AhMyth/AhMyth-Android-RAT    //Smali.Android平台一对多带界面。goodjob。
 - https://github.com/The404Hacking/AndroRAT    //JAVA.Android平台一对多带界面。
-- https://github.com/n1nj4sec/pupy    //PY.Windows、Linux、OSX、Android跨平台，多session。testjob,5k。
 - https://github.com/home-assistant/home-assistant    //PY.物联网管理集群控制平台
 ### 僵木蠕远程协助
 - https://github.com/panda-re/lava    //批量恶意程序注入
@@ -1124,7 +1127,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 ### 劫持注入权限绕过
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
-- https://github.com/hfiref0x/UACME    //C.基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
+- https://github.com/hfiref0x/UACME    //C.天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
 - https://github.com/St0rn/Windows-10-Exploit    //PY\msf插件，win10 uacbypass
 - https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
@@ -1159,7 +1162,7 @@ endpoint 防护软件
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
 - https://guif.re/linuxeop    //linux提权命令集合
 - https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:DirtyCow-EXP;dirtycow.ninja。2.3k。
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow Linux kernel >= 2.6.22（2007年发行，到2016年10月18日才修复）;。2.3k。
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台。release。
 - https://github.com/jas502n/CVE-2018-17182    //Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
@@ -1258,7 +1261,6 @@ endpoint 防护软件
 ## 硬件安全物理设备HID
 - https://shop.hak5.org/    //硬件设备商店
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
-- https://www.balena.io/etcher/    //C.USB Live烧录，rufus。10K.
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //USBKiller电子杀手
 - https://github.com/0katz/CVE-2019-12476    //JS.HID绕过win10登录界面，利用浏览器调用powershell
 - https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
@@ -1275,8 +1277,8 @@ endpoint 防护软件
 - https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //badusb防御
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写
-- https://github.com/whid-injector/WHID    //C++.基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;
 - https://www.cnblogs.com/k1two2/p/7083159.html    //C.基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;
+- https://github.com/whid-injector/WHID    //C++.基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;P:WHIDelite;P:USBninja;P:CJMCU-Bettle;
 - https://github.com/ebursztein/malusb    //创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
 - https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
 - https://github.com/euphrat1ca/CVE-2019-12476    //P4wnP1_aloa插件.利用域用户重置密码缺陷，绕过win10登录界面，利用浏览器调用powershell执行命令.
@@ -1454,10 +1456,10 @@ endpoint 防护软件
 - https://sourceforge.net/projects/easypythondecompiler    //Easy Python Decompiler利用 "Uncompyle2" & "Decompyle++"，支持.pyc 1.0 - 3.4源码反编译，GUI界面。
 - https://github.com/zrax/pycdc    //C++.Linux全版本*.pyc反编译。
 ### Java逆向
-- https://github.com/java-decompiler/jd-gui    //JAVA.java反编译工具。7k。
-- https://github.com/skylot/jadx    //JAVA.jd-gui升级版，反编译出来的代码未格式化。20k。
-- https://github.com/deathmarine/Luyten    //JAVA.格式化java反编译后代码，解决jd的INTERNAL ERROR问题。3k。
+- https://github.com/skylot/jadx    //JAVA.jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:java-decompiler/jd-gui;
+- https://github.com/deathmarine/Luyten    //JAVA.java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
 - https://github.com/pxb1988/dex2jar    //JAVA. android/.dex/.class java文件逆向反编译
+- https://github.com/Col-E/Recaf    //java.java字节码编辑器。
 ### 安卓逆向APK分析
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
 - https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
@@ -1569,7 +1571,7 @@ endpoint 防护软件
 - https://ctftime.org    //CTF排名比赛介绍
 - https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
 - https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
-- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob
+- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:imsebao/Code-Audit 代码审计;
 - https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
 - https://github.com/Hacker0x01/hacker101    //RUBY.hacker one联名的Web攻防教学，有ctf靶场和视频.10K
 - https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
@@ -1715,7 +1717,6 @@ endpoint 防护软件
 - https://www.freebuf.com/articles/paper/207739.html    //intro.开源蜜罐测评报告
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
-- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
 - https://github.com/BinaryDefense/artillery    //PY.端点蜜罐防护
 ### 蜜罐安全
 - https://github.com/phage-nz/malware-hunting    //PY.利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
@@ -1730,7 +1731,7 @@ endpoint 防护软件
 - https://gitlab.com/SecurityBender/webhoneypot-framework    //PY3.基于docker和docker-compose，现支持wordpress/drupal
 - https://github.com/mushorg/snare    //PY3.web安全蜜罐，可克隆指定Web页面
 - https://github.com/netxfly/x-proxy    //GO.代理蜜罐的开发与应用实战。simple
-### 服务蜜罐
+### PC服务蜜罐
 - https://github.com/micheloosterhof/cowrie    //PY2.使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/desaster/kippo    //PY.蜜罐系统HoneyDrive下的图形化SSH蜜罐。1k。
 - https://github.com/thinkst/opencanary    //PY2.SNMP\RDP\SAMBA蜜罐
@@ -1738,7 +1739,7 @@ endpoint 防护软件
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    //INTRO.基于PYRDP,打造可记录图像和按键的RDP蜜罐
 - https://blog.csdn.net/ls1120704214/article/details/88174003    //GO.反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:Rogue-MySql-Server
 - https://github.com/leeberg/BlueHive    //PS.利用Active Directory生成用户账户蜜罐
-- https://github.com/hacklcs/HFish    //GO.redis\MYSQL\SSH\GitHub蜜罐
+- https://github.com/hacklcs/HFish    //GO.redis\MYSQL\SSH 等低交护蜜罐
 - http://www.imooc.com/article/26398    //NodeJS 应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    //PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮

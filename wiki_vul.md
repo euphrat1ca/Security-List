@@ -16,37 +16,39 @@
 - https://github.com/anx1ang/Poc_Pentest    //web_cms_exp
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架
 - https://github.com/chuhades/CMS-Exploit-Framework    //CMS攻击框架
-- https://github.com/Tuhinshubhra/CMSeeK    //20多种CMS的基本检测，针对wp利用、可定制模块化爆破功能
 - https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
-- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
-- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
-- https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
-- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
+- https://github.com/Tuhinshubhra/CMSeeK    //PY.WordPress,JOOMLA,DRUPAL等170余种CMS扫描识别检测。
+- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
 - https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具
 - https://github.com/swisskyrepo/Wordpresscan    //基于WPScan以及WPSeku的优化版wordpress扫描器
 - https://github.com/m4ll0k/WPSeku    //精简的wordpress扫描工具
 - https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
 - https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
 - https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
-- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
+- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
 - https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
+- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
+- https://github.com/rezasp/joomscan    //PERL.基于OWASP的Joomla检测利用
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
+- https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
+- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
 - https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
 - https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
-- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
 ### 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
 - https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
 - https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
 - https://www.secpulse.com/archives/18940.html    //intro.Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
-- https://bbs.pediy.com/thread-195431.htm    //INTRO.Pwn the n00bs - Acunetix 0day。溢出攻击
+- https://bbs.pediy.com/thread-195431.htm    //INTRO.Pwn the n00bs - Acunetix 0day。awvs溢出攻击
 - https://www.anquanke.com/post/id/176379    //INTRO.蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
 - https://github.com/WyAtu/CVE-2018-20250    //PY.WinRAR压缩包代码执行复现与利用
-- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。https://whoer.net web应用指纹获取集合
+- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
+- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。P:whoer.net web应用指纹获取集合;
 - https://www.freebuf.com/articles/terminal/175862.html    //INTRO.从OpenVPN配置文件中创建反弹Shell实现用户系统控制
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过
@@ -68,8 +70,9 @@
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
 - https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
-## 中间件漏洞
-### Python大框架漏洞
+### C#/.Net反序列化漏洞
+- https://github.com/pwntester/ysoserial.net    //C#.配合PowerShell生成有效负载利用
+### Python服务框架漏洞
 - https://github.com/ryu22e/django_cve_2019_19844_poc/    //py.任意密码重置
 ### Java框架漏洞
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
@@ -96,6 +99,7 @@
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
+- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化漏洞（CVE-2020-2551） 漏洞
 ### 浏览器漏洞工具
 - https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
@@ -125,6 +129,7 @@
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
 - https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
 - https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;P:goldenPac.py;
+- https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange

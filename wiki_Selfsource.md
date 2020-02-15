@@ -106,6 +106,7 @@
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
 ### 系统管理
+- https://github.com/pbatard/rufus    //C.etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
