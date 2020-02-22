@@ -210,7 +210,7 @@
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;。
-- https://daiker.gitbook.io/windows-protocol    //本系列文章将针对内网渗透的常见协议(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。Windows凭证利用。W:彻底理解Windows认证 - 议题解读;。
+- https://daiker.gitbook.io/windows-protocol    //本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。W:彻底理解Windows认证 - 议题解读;。
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 ## 漏洞挖掘复现分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
@@ -412,10 +412,10 @@
 ### CobaltStrike相关工具拓展插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
-- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 - https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
 - https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
+- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
@@ -916,6 +916,9 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
+- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
+- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
 ### 横向移动密码hash获取
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C.Windows下进行凭证抓取横向移动.GREATJOB。
@@ -1042,6 +1045,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/DannyTheSloth/VanillaRat    //C#.SIMPLE，界面。
 - https://github.com/brunull/pace    //C#.SIMPLE，界面。
 - https://github.com/nettitude/PoshC2    //PowerShell/C#.远控工具，有win提权组件
+- https://github.com/cobbr/Covenant    //C#. .Net服务端C2控制器，配合powershell进行权限控制。
 - https://github.com/n1nj4sec/pupy    //PY.Windows、Linux、OSX、Android跨平台，多session。testjob,5k。
 - https://github.com/nathanlopez/Stitch    //PY.Windows、Mac OSX、Linux跨平台。welljob,1k。
 - https://github.com/peterpt/fuzzbunch    //PY2.方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲
@@ -1301,7 +1305,6 @@ endpoint 防护软件
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
-- https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
 - https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali系统类。
 - https://github.com/threat9/routersploit    //PY3.类msf物联网漏洞利用框架。
@@ -1340,6 +1343,7 @@ endpoint 防护软件
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    //PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## ICS工控安全
+- https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类.
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
 - https://www.freebuf.com/ics-articles    //工控相关文章
