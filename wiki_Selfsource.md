@@ -11,6 +11,7 @@
 - https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //PY3.动态二维码
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
+- https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机

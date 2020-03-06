@@ -1,5 +1,6 @@
 ## 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
+- https://github.com/HacTF/poc--exp    //常用渗透poc收集
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 - http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
 - https://github.com/Lcys/Python_PoC    //py3.poc、exp快速编写模板，有众多模范版本
@@ -101,6 +102,7 @@
 - https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
 - https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化漏洞（CVE-2020-2551） 漏洞
 ### 浏览器漏洞工具
+- https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
 - https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
 - https://github.com/exodusintel/CVE-2019-0808    //JS/C++.CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
@@ -141,6 +143,7 @@
 - https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞
 - https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击等操作。
 - https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口对Outlook Web App进行枚举爆破
+- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行
 ### Office漏洞收集
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用

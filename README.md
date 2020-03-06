@@ -214,7 +214,7 @@
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 ## 漏洞挖掘复现分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
-- https://github.com/ngalongc/bug-bounty-reference 漏洞挖掘write-up
+- https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
 - https://github.com/1hack0/bug-bounty-101    //挖洞技术手册
 - https://github.com/writeups/ios    //ios漏洞writeup笔记
 - https://github.com/userlandkernel/plataoplomo    //Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
@@ -230,7 +230,6 @@
 ### 常用漏洞库/SRC/BugBounty
 - https://sploitus.com    //公开漏洞搜索引擎。gOODjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //
-- https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
 - https://0day.life    //漏洞研究文章
 - https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
@@ -297,11 +296,13 @@
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
+- https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://github.com/googleprojectzero/winafl    //C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析-AFL漏洞挖掘技术漫谈
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //intro.AFL使用指南
 - https://github.com/mxmssh/drAFL    //C.Linux模糊测试。G:atrosinenko/kbdysch;G:google/oss-fuzz;
 - https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
 - https://github.com/MozillaSecurity/peach    //PY3.MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。网络协议、web接口、文件格式模糊测试。W:peach.tech;G:TideSec/Peach_Fuzzing;
+- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //intro.使用Peach进行模糊测试从入门到放弃。P:【工控安全】基于Peach的Modbus协议模糊测试;
 - https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
 - https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库
 - https://github.com/jtpereyda/boofuzz    //PY.基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。
@@ -319,26 +320,26 @@
 - 加密与解密（第4版）    //
 - modern windows exploit    //
 - cnit的二进制教程    //
-- awesome windows exploit    //
+- awesome windows exploit    //Windows漏洞挖掘
 - https://www.youtube.com/channel/UC_PU5Tk6AkDnhQgl5gARObA    //pwn学习三部曲学习
 - https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    //exploit编写系列教程,10篇,后续在corelan网站上
 - https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。*egghunter
-- http://www.securitysift.com/windows-exploit-development-part-1-basics    //
+- http://www.securitysift.com/windows-exploit-development-part-1-basics    //Windows漏洞挖掘
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    //家用路由器0day
-- https://github.com/timip/OSEE    //
+- https://github.com/timip/OSEE    //oscp二进制漏洞挖掘
 - https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu    //windbg教程
 - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    //windbg
 - https://rootkits.xyz/blog/    //windows内核系列
-- https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation    //
+- https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation    //Windows漏洞挖掘
 - https://pwnrip.com/windows-kernel-exploitation-part-1-stack-buffer-overflows/    //windows kernel exploit
-- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References    //
+- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References    //Windows漏洞挖掘
 - https://github.com/ExpLife0011/awesome-windows-kernel-security-development    //一些较新的win exploit资料
 - https://www.abatchy.com/tutorials    //windows kernel exploit
 - https://blahcat.github.io/tutorials/    //windows kernel exploit
 - https://b3n7s.github.io/2017/11/01/windows-kernel-debugging-under-vmware-fusion.html    //windows kernel debugging under vm fusion
 - http://samdb.xyz/    //intro to kernel exploit
-- https://github.com/hanc00l/rop_linux_kernel_pwn    //
-- https://github.com/xairy/linux-kernel-exploitation    //
+- https://github.com/hanc00l/rop_linux_kernel_pwn    //Linux漏洞挖掘
+- https://github.com/xairy/linux-kernel-exploitation    //Linux漏洞挖掘
 - https://azeria-labs.com/    //arm 溢出
 - https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
 # 技术手段利用方式工具集合
@@ -348,6 +349,7 @@
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
+- https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;
@@ -1393,7 +1395,7 @@ endpoint 防护软件
 - https://github.com/frida/frida/    //PY\JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:dweinstein/awesome-frida;G:andreafioraldi/frida-fuzzer;。testjob。
 - https://github.com/sensepost/objection    //PY.移动端动态调试安全检测，Frida公司开发。testjob。
 - https://github.com/hluwa/ZenTracer    //PY.frida插件，Android方法调用追踪
-- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。
+- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。testjob.
 - https://github.com/rovo89/Xposed    //C++.Android动态修改hook，隐藏root执行权限。
 - https://github.com/Fuzion24/JustTrustMe    //Java.基于xposed模块进行app证书SSL注入抓包。
 - https://taichi.cool/    //Android魔改框架，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等。支持免root与Magisk模式。

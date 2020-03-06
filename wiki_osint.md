@@ -36,6 +36,8 @@
 - https://trumail.io/    //验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
 - https://github.com/ChrisJohnRiley/Scythe    //验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //【工具】Facebook相关的一些情报分析工具
+- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //【工具】一些与Twitter相关的情报分析工具
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki

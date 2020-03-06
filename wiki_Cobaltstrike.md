@@ -10,6 +10,7 @@
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒
 ### 加密通讯
+- https://www.cobaltstrike.com/help-malleable-c2    //配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
