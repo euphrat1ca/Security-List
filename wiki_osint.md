@@ -1,16 +1,5 @@
 # 开源情报数据源分析
-## 数据情报分析
-- http://pandas.pydata.org    //数据分析
-- https://github.com/r0f1/datascience    //大数据分析功能库推荐
-- https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
-- https://github.com/mannirulz/BotDAD    //PY2.使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
-- https://github.com/lion-gu/ioc-explorer    //PY.从多数据源进行关联指标（IOC）自动探索
-### 地理定位分布ip库
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
-- https://www.ipip.net    //IPV4.有偿
-- https://www.ipplus360.com    //IPV4/IPV6地址库。有偿
-- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。ics-radar.shodan.io
-## 开源情报资料
+# 开源情报资料
 - https://github.com/BuzzFeedNews    //网络数据集集合
 - https://www.start.umd.edu/gtd/    //全球恐怖主义动向数据库官网
 - http://dingba.top/qqzk    //全球智库
@@ -26,18 +15,64 @@
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
-### 多维度情报源
+## 数据情报分析
+- http://pandas.pydata.org    //数据分析
+- https://github.com/r0f1/datascience    //大数据分析功能库推荐
+- https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
+- https://github.com/mannirulz/BotDAD    //PY2.使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
+- https://github.com/lion-gu/ioc-explorer    //PY.从多数据源进行关联指标（IOC）自动探索
+### 地理定位ip库分布
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
+- https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
+- https://www.ipip.net    //IPV4.有偿
+- https://www.ipplus360.com    //IPV4/IPV6地址库。有偿
+- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:ics-radar.shodan.io;
+- 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
+- http://opencellid.org/    //gsm定位
+- cellidfinder.com    //Cell ID Finder
+- cellphonetrackers.org    //手机追踪器
+- https://www.suncalc.org    //根据日光影子判断时间与地理位置
+- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址BSSID、gps
+- http://www.cellocation.com/    //基站、WiFi定位
+## 多维度情报源
+- https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
+- https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
 - https://github.com/Te-k/harpoon    //PY.基于osint的威胁情报命令行工具
+### 社交媒体情报源
+- https://github.com/Greenwolf/social_mapper    //PY.Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
+- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //【工具】Facebook相关的一些情报分析工具
+- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //【工具】一些与Twitter相关的情报分析工具
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
+- https://recruitin.net    //Easily use Google to search profiles on LinkedIn
+- https://github.com/xHak9x/fbi    //PY2.facebook脸书信息收集工具
+- https://github.com/initstring/linkedin2username    //通过Linkedin 领英获取相关公司员工列表
+- https://github.com/0x09AL/raven    //linux下领英Linkedin information gathering tool
+- https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
+- https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
+- https://github.com/MazenElzanaty/TwLocation    //PY.获取Twitter用户发推的地址
+- https://github.com/vaguileradiaz/tinfoleak    //web界面，对twitter账户进行全面的分析
+- http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
+- https://github.com/martinvigo/ransombile    //RUBY.根据社交媒体密码找回信息
+- https://www.reg007.com/    //你注册过哪家网站
+### 企业人员信息搜集
+- https://hunter.io/    //企业邮箱搜集。商业版。
+- https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
+- https://github.com/x0day/Multisearch-v2    //Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
+- https://github.com/vysec/MaiInt    //公司雇员信息收集测试工具
+- https://github.com/jofpin/trape    //PY.利用OSINT对人员进行追踪定位。4k。
+- https://www.truthfinder.com    //美国公民信息查询。商业版。
+- https://infotracer.com    //姓名、手机、邮件地址等信息track。商业版。
+- https://github.com/famavott/osint-scraper    //输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
+- https://github.com/n0tr00t/Sreg    //PY.Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+- https://github.com/SpiderLabs/social_mapper    //社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
+- https://verify-email.org    //邮件真实性验证
 - https://trumail.io/    //验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
 - https://github.com/ChrisJohnRiley/Scythe    //验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
-- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //【工具】Facebook相关的一些情报分析工具
-- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //【工具】一些与Twitter相关的情报分析工具
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki

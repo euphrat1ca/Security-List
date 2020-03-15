@@ -34,6 +34,9 @@
 - http://www.freebuf.com/articles/ics-articles/178822.html    //浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
+### 红队基础设施自动化部署建设
+- https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
+- 公众号：红队攻防全流程解析    //
 ### 安全实验室中心建设
 - https://www.freebuf.com/articles/es/211571.html    //安全实验室的发展及展望
 - 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
@@ -370,6 +373,7 @@
 - https://github.com/lavalamp-/ipv666    //GO.ipv6地址枚举扫描
 - https://github.com/christophetd/IPv6teal    //PY.利用ipv6隐蔽隧道传输数据
 ### 信息保护隐匿流量洋葱路由
+- https://www.torproject.org/    //洋葱浏览器。P:dnmugu4755642434.onion/ kilos搜索引擎;
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    //DWS用来关闭windows监控服务
 - https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
@@ -502,7 +506,7 @@
 - https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
 - https://github.com/Dliv3/Venom    //GO.类似于于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具
 - https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
-### 代理端口复用
+### 端口复用
 https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件，进行rdp服务端口复用
 - https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
@@ -544,7 +548,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
 # 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
-- https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。
+- https://www.maltego.com/downloads/    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //PY.利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //GO.利用OSINT自动化搜集信息
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
@@ -678,27 +682,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/ggerganov/kbd-audio    //C++.linux下利用麦克风监控键盘输入测试输入值
 - https://github.com/Viralmaniar/I-See-You    //bash.利用公网网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
-### 企业人员信息搜集
-- https://hunter.io/    //企业邮箱搜集。商业版。
-- https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
-- https://github.com/x0day/Multisearch-v2    //Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
-- https://github.com/vysec/MaiInt    //公司雇员信息收集测试工具
-- https://github.com/jofpin/trape    //PY.利用OSINT对人员进行追踪定位。4k。
-- https://www.truthfinder.com    //美国公民信息查询。商业版。
-- https://infotracer.com    //姓名、手机、邮件地址等信息track。商业版。
-- https://github.com/famavott/osint-scraper    //输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
-- https://github.com/n0tr00t/Sreg    //PY.Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
-- https://github.com/SpiderLabs/social_mapper    //社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
-- https://verify-email.org    //邮件真实性验证
-- https://recruitin.net    //Easily use Google to search profiles on LinkedIn
-- https://github.com/xHak9x/fbi    //PY2.facebook脸书信息收集工具
-- https://github.com/initstring/linkedin2username    //通过Linkedin 领英获取相关公司员工列表
-- https://github.com/0x09AL/raven    //linux下领英Linkedin information gathering tool
-- https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
-- https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
-- https://github.com/MazenElzanaty/TwLocation    //PY.获取Twitter用户发推的地址
-- https://github.com/vaguileradiaz/tinfoleak    //web界面，对twitter账户进行全面的分析
-- http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
 ### 网站克隆
 - http://www.httrack.com    //网站克隆镜像
 - https://github.com/JonCooperWorks/judas    //GO.克隆网站钓鱼
@@ -800,7 +783,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
 - https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
-### 端口服务发现指纹识别
+### 端口服务指纹主机识别
 - https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
 - https://github.com/nray-scanner/nray    //GO.分布式扫描工具，支持ldap\证书扫描。
@@ -852,7 +835,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
 - https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
 - https://github.com/shengqi158/weak_password_detect    //NMAP.Linux下多线程探测ssh弱口令
-## 加解密保护密码学混淆
+### 加解密保护密码学混淆
 - https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
@@ -896,7 +879,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //PY2.对超过160种hash识别。
 ## web安全前端利用
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_websec.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密。myWiki
-# 后渗透拓展
+# 后渗透拓展利用
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;。
@@ -911,40 +894,18 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
 - https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
-## 红队基础设施自动化部署建设
-- https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
-- 公众号：红队攻防全流程解析    //
-## 权限维持
-- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
-- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
-- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
-- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
-- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
-- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
-### 横向移动密码hash获取
+- https://github.com/k8gege/Ladon    //C#.大型内网渗透扫描器&Cobalt Strike
+## 横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C.Windows下进行凭证抓取横向移动.GREATJOB。
 - https://github.com/klsecservices/bat-armor    //PY.bat文件混淆版mimikatz
 - https://github.com/skelsec/pypykatz    //PY3.使用python实现的mimikatz
-- https://github.com/eladshamir/Internal-Monologue    //C#.无需LSASS进程使用Mimikatz从LSASS进程内存中提取内容，从内存中提取明文密码，NTLM哈希，Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
 - https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方）”，并远程解析转储。
-- https://github.com/twelvesec/passcat    //C.Windows 下密码抓取工具
-- https://github.com/huntergregal/mimipenguin    //C.linux密码抓取
-- https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
-- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码
-- https://github.com/putterpanda/mimikittenz    //PS.类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。
-- https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
-- https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
-- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等
 - https://github.com/GhostPack/Rubeus    //C#.操作Kerberos的库， 实现了Kekeo的大部分功能
 - https://github.com/m8r0wn/ldap_search    //PY.通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
-- https://github.com/lgandx/Responder    //PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
-- https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //PY.构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
-- https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //intro.Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
-- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
-### 横向移动哈希传递
+### 横向移动凭证传递
 - https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。testjob,4K。
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS.CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块.testjob,3K。
@@ -953,6 +914,64 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/Kevin-Robertson/Inveigh    //PS.LLMNR/mDNS/NBNS欺骗器
 - https://github.com/poweradminllc/PAExec    //C++.类PSEXEC远程$IPC控制。
 - https://github.com/byt3bl33d3r/pth-toolkit    //PY.hash传递，wmi移动等。
+- https://github.com/lgandx/Responder    //PY.用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
+- https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //PY.构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
+- https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //intro.Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
+- https://github.com/eladshamir/Internal-Monologue    //C#.无需LSASS进程使用Mimikatz从LSASS进程内存中提取内容，从内存中提取明文密码，NTLM哈希，Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
+### 横向移动密码抓取
+- https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
+- https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
+- https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
+- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等
+- https://github.com/twelvesec/passcat    //C.Windows 下密码抓取工具
+- https://github.com/huntergregal/mimipenguin    //C.linux密码抓取
+- https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
+- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码
+- https://github.com/putterpanda/mimikittenz    //PS.类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。
+### 资产管理信息搜集
+- https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
+- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
+- https://github.com/w-digital-scanner/w12scan-client    //PY.w12scan网络资产发现引擎client客户端。boy-hack开发
+- https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
+- https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路- https://github.com/scallywag/nbtscan    //C.NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
+- https://github.com/royhills/arp-scan    //C.ARP协议主机设备发现。
+- https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息进行搜集很全面
+- https://github.com/m8r0wn/nullinux    //PY.用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
+- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
+- https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
+径介绍
+- https://github.com/sowish/LNScan    //详细的内部网络信息扫描器
+- https://github.com/dr0op/bufferfly    //PY3.资产/域名存活验证，标题获取，语料提取，端口检测。
+- https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。
+- https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常。
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator 
+### 资产管理风险测试
+- https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;
+- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。W:rumble.run;
+- https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
+- https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
+- https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
+- https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
+- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
+- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。
+- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。guardicore.com/infectionmonkey。
+- https://github.com/NextronSystems/APTSimulator    //bat.Windows下apt攻击模拟测试
+- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
+### 资产漏洞生命周期管理
+- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台，集成多种
+- https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
+- https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
+- https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
+- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
+## 权限维持
+- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
+- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
+- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
+- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
+- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
+- https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
+- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -977,41 +996,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
 - https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
 - https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
-### 资产管理信息搜集
-- https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
-- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
-- https://github.com/w-digital-scanner/w12scan-client    //PY.w12scan网络资产发现引擎client客户端。boy-hack开发
-- https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路- https://github.com/scallywag/nbtscan    //C.NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
-- https://github.com/royhills/arp-scan    //C.ARP协议主机设备发现。
-- https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息进行搜集很全面
-- https://github.com/m8r0wn/nullinux    //PY.用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
-- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
-- https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
-径介绍
-- https://github.com/sowish/LNScan    //详细的内部网络信息扫描器
-- https://github.com/dr0op/bufferfly    //PY3.资产/域名存活验证，标题获取，语料提取，端口检测。
-- https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。
-- https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常。
-- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator 
-### 资产管理风险测试
-- https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。
-- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。W:rumble.run;
-- https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
-- https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
-- https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
-- https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
-- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。
-- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。guardicore.com/infectionmonkey。
-- https://github.com/NextronSystems/APTSimulator    //bat.Windows下apt攻击模拟测试
-- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
-### 资产漏洞生命周期管理
-- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台，集成多种
-- https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
-- https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
-- https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
-- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
 ## MITM攻击流量劫持
 - https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
@@ -1325,8 +1309,9 @@ endpoint 防护软件
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
 - https://github.com/cwerling/psptool    //PY.分析和解析AMD安全处理器的固件工具包
-- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
+- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
+- http://tongxinmao.com/Topic/Detail/id/6    //通信猫调试软件
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -1504,6 +1489,7 @@ endpoint 防护软件
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 # 数字取证
+- http://xlysoft.net/    //SalvationDATA（效率源）取证工具
 - https://github.com/alphaSeclab/awesome-forensics    //取证相关工具和文章。收集的所有开源工具: sec-tool-list;逆向资源: awesome-reverse-engineering;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
 - https://github.com/laramies/metagoofil    //PY.从文件获取相关网站的用户名与邮箱等数据。documents (pdf,doc,xls,ppt,etc)
 - https://github.com/mozilla/mig    //go.火狐mozilla基金会针对海量文件的内容定位工具，支持节点分级部署。Deprecation
@@ -1639,6 +1625,7 @@ endpoint 防护软件
 - https://github.com/iqiyi/qnsm    //C/C++.基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://documentation.wazuh.com    //C.wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
+- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件变化实时监控工具（代码审计辅助）.testjob.
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 - https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
 - https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统

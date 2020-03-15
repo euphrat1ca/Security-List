@@ -47,7 +47,7 @@
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
 - https://github.com/deepfakes/faceswap    //PY.GUI,依赖较多换脸虚拟音频视频
-- https://github.com/iperov/DeepFaceLab    //PY,BASH.基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频
+- https://github.com/iperov/DeepFaceLab    //PY.基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频.G:swghosh/DeepFace Facebook;
 - https://github.com/NVIDIA/pix2pixHD    //PY.NVIDIA利用GANs神经网络学习的Image2Image技术。
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //PY.一键换装
 - https://github.com/ecjtuseclab/AILoginBlasting    //PY.服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。

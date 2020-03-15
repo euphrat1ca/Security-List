@@ -1,4 +1,4 @@
-## 漏洞收集
+# 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/HacTF/poc--exp    //常用渗透poc收集
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
@@ -39,7 +39,7 @@
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
-### 软件模板漏洞
+## 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
 - https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
@@ -75,7 +75,7 @@
 - https://github.com/pwntester/ysoserial.net    //C#.配合PowerShell生成有效负载利用
 ### Python服务框架漏洞
 - https://github.com/ryu22e/django_cve_2019_19844_poc/    //py.任意密码重置
-### Java框架漏洞
+## Java框架漏洞
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
 - https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
@@ -85,6 +85,7 @@
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
 - https://github.com/Lucifer1993/struts-scan    //PY.批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
+- https://github.com/gquere/CVE-2020-7931    //py.maven框架插件Artifactory模板ssti利用执行漏洞
 #### apache相关漏洞
 - https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
@@ -119,10 +120,17 @@
 - https://github.com/Frichetten/CVE-2019-5736-PoC    //GO.Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
-### MS相关漏洞
+### 物联网路由工控漏洞收集
+- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
+- https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
+- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
+- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
+- https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
+- https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
+## 微软MS相关漏洞
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708, 四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce，增加xp/03;
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
-- https://github.com/3gstudent/Smbtouch-Scanner    //PY.方程式永恒之蓝ETERNAL 445 SMB漏洞检测
+- https://github.com/3gstudent/Smbtouch-Scanner    //PY.MS17010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
 - https://github.com/countercept/doublepulsar-detection-script    //PY.方程式双倍脉冲RDP漏洞
 - https://github.com/smgorelik/Windows-RCE-exploits    //windows命令执行RCE漏洞POC样本，分为web与文件两种形式
 - https://github.com/3gstudent/CVE-2017-8464-EXP    //CVE-2017-8464，win快捷方式远程执行漏洞
@@ -132,6 +140,7 @@
 - https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
 - https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;P:goldenPac.py;
 - https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
+- https://github.com/ollypwn/SMBGhost    //py.CVE-2020-0796 - SMBv3 RCE 
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
@@ -165,10 +174,3 @@
 - https://github.com/khr0x40sh/MacroShop    //一组通过Office宏传递有效载荷的脚本
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py    //PY.配合responder利用word文档窃取ntlm哈希
 - https://github.com/deepzec/Bad-Pdf    //PY.配合responder利用恶意pdf窃取ntlm哈希
-### 物联网路由工控漏洞收集
-- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
-- https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
-- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
-- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
-- https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
-- https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE

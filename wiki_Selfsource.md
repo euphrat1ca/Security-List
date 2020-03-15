@@ -30,11 +30,6 @@
 - https://github.com/peterq/pan-light    //GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
-### 地理定位
-- 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
-- http://opencellid.org/    //gsm定位
-- cellidfinder.com    //Cell ID Finder
-- cellphonetrackers.org    //手机追踪器
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
@@ -70,6 +65,7 @@
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
 - https://github.com/PHPMailer/PHPMailer    //PHP.PHP发送邮件的组件
 - https://github.com/mailpile/Mailpile    //PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
+- https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器
 ### 通讯隐私加密虚拟身份
 - https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
 - https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
@@ -139,7 +135,7 @@
 - https://github.com/obsproject/obs-studio    //C.用于实时流媒体和屏幕录制.官网obsproject.com。
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
-- https://mixkit.co/    //在线视频素材
+- https://mixkit.co/    //在线视频资源素材
 ### 图片素材
 - https://github.com/nagadomi/waifu2x    //lua.无损放大图片.官网“waifu2x.udp.jp/”。P:bigjpg.com;
 - https://www.remove.bg/    //图片背景消除
