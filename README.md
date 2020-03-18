@@ -932,7 +932,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 ### 资产管理信息搜集
 - https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路
-- https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息进行搜集很全面
+- https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息搜集。testjob。
 - https://github.com/scallywag/nbtscan    //C.NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
 - https://github.com/royhills/arp-scan    //C.ARP协议主机设备发现。
 - https://github.com/m8r0wn/nullinux    //PY.用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
@@ -1144,48 +1144,7 @@ endpoint 防护软件
 - https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。https://cooolis.payloads.online
 ## 提权相关
-- https://github.com/AlessandroZ/BeRoot    //PY.通过检查常见的错误配置来查找提权方法. 支持Windows/Linux/Mac
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.提权枚举工具包，通过webApi上报信息。
-### Linux提权相关
-- https://github.com/Ignitetechnologies/Privilege-Escalation    //Linux下的提权方法总结
-- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;
-- https://github.com/jondonas/linux-exploit-suggester-2    //perl.查找linux哪些补丁没有打，存在提权利用。Github:linux-exploit-suggester;
-- https://github.com/belane/linux-soft-exploit-suggester    //查找linux那些软件有漏洞
-- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
-- https://guif.re/linuxeop    //linux提权命令集合
-- https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow Linux kernel >= 2.6.22（2007年发行，到2016年10月18日才修复）;。2.3k。
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台。release。
-- https://github.com/jas502n/CVE-2018-17182    //Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
-- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
-- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
-- https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
-- https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权
-- https://github.com/can1357/CVE-2018-8897    //Linux系统利用Syscall实现提权
-- https://github.com/nilotpalbiswas/Auto-Root-Exploit    //linux自动提权脚本
-- https://github.com/WazeHell/PE-Linux    //Linux提权工具
-### Windows提权利用相关
-- http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
-- https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
-- https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
-- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
-- https://github.com/51x/WHP    //windows下各种提权与利用工具
-- https://github.com/taviso/ctftool/    //C.利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
-- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
-- https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升、win server 2016-2019提权
-- https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225，烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权
-- https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权
-- https://github.com/ohpe/juicy-potato    //RottenPotatoNG变种，利用com对象、用户token进行提权
-- https://github.com/foxglovesec/Potato    //RottenPotatoNG变种，利用本地域名欺骗和代理欺骗提权
-- https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
-- https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
-- https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权
-- https://github.com/euphrat1ca/ms15-051    //C++.Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
-- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058
-- https://github.com/unamer/CVE-2018-8120    //影响Win32k组件，针对win7和win2008提权
-- https://github.com/alpha1ab/CVE-2018-8120    //在win7与win2k8的基础上增加了winXP与win2k3
-- https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
-- https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 ### 文件捆绑
 - https://github.com/islamadel/bat2exe    //VB.将bat文件转换为exe二进制文件。
 - https://github.com/tywali/Bat2ExeConverter    //将bat文件转换为exe二进制文件
@@ -1624,7 +1583,7 @@ endpoint 防护软件
 - https://github.com/snort3/snort3    //C++.snort知名NIDS网络入侵检测
 - https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
 - https://github.com/OISF/suricata    //C.IDS\IPS\NSM安全工具，兼容Snort插件
-- https://github.com/iqiyi/qnsm    //C/C++.基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
+- https://github.com/iqiyi/qnsm    //C/C++.爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://documentation.wazuh.com    //C.wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
 - https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件变化实时监控工具（代码审计辅助）.testjob.
