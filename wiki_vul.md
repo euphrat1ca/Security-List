@@ -139,7 +139,7 @@
 - https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:freebuf.com/vuls/147793.html
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
 - https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
-- https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;P:goldenPac.py;
+- https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;
 - https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
 - https://github.com/ollypwn/SMBGhost    //py.CVE-2020-0796 - SMBv3 RCE 
 ### Exchange漏洞与利用手段
@@ -203,7 +203,7 @@
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
 - https://github.com/51x/WHP    //windows下各种提权与利用工具
 - https://github.com/taviso/ctftool/    //C.利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
-- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213提权利用
+- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权
 - https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升，win server 2016-2019提权
 - https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225，烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权
 - https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权

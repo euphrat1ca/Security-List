@@ -1,4 +1,8 @@
 ### cobaltstrike插件
+- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
+- https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
+- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
+- https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
 - https://github.com/rsmudge/cortana-scripts    //JAVA.作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts
 - https://github.com/Und3rf10w/external_c2_framework    //PY.Cobalt Strike's External C2构造CS的通讯通道。
 - https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
@@ -17,3 +21,4 @@
 - https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 ### 后渗透拓展
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
+- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.

@@ -418,11 +418,6 @@
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
 ### CobaltStrike相关工具拓展插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
-- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
-- https://github.com/verctor/CS_xor64    //JAVA.生成cobaltstrike破解版所需的xor64.bin
-- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
-- https://github.com/dcsync/pycobalt    //PY3.Python API for Cobalt Strike
-- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
@@ -866,7 +861,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/clr2of8/DPAT    //PY.利用hashcat等工具域密码进行破解测试
 - https://github.com/testsecer/Md5Decrypt    //C#.md5多接口查询基于网上web API的MD5搜索工具
 - https://github.com/s0md3v/Hash-Buster    //能调用多个API进行hash破解查询的智能工具
-- https://github.com/magnumripper/JohnTheRipper    //C.已知密文的情况下尝试破解出明文的破解密码软件
+- https://github.com/magnumripper/JohnTheRipper    //C.开膛手john，已知密文的情况下尝试破解出明文的破解密码软件
 - https://github.com/shinnok/johnny    //C++.JohnTheRipper密码破解的GUI界面，理论兼容所有功能，有windows界面
 - https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
 - https://github.com/thehappydinoa/iOSRestrictionBruteForce    //PY.实现的 ios 访问限制密码破解工具
@@ -1294,7 +1289,7 @@ endpoint 防护软件
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类.
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
-- https://www.freebuf.com/ics-articles    //工控相关文章
+- https://www.freebuf.com/ics-articles    //工控相关文章。P:工控十大网络攻击武器分析报告;
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
 - https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:euphrat1ca/ICSwiki;
