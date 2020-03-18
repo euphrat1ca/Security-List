@@ -80,6 +80,17 @@
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://github.com/OpenCTI-Platform/opencti    //JS.网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
+- https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址，集成bro
+- https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
+- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
+- https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv/    //CobaltStrike服务端IP地址
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1/    //洋葱路由出口节点
+- https://isc.sans.edu/api/threatlist/shodan/    //shodan撒旦扫描器节点
+- http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP\域名
+- reputation.alienvault.com/reputation.data/    //恶意IP\域名
+- https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名
+- https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
+- http://www.payer.org/test/    //恶意邮件地址电话公示
 #### APT威胁情报
 - https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;。
 - https://github.com/blackorbird/APT_REPORT    //apt组织报告与公开文件

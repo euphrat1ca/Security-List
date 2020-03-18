@@ -13,13 +13,12 @@
 - https://sms.cngrok.com/receiving-sms    //收码接码
 - https://www.pdflibr.com/    //收码接码
 - https://github.com/anonaddy/anonaddy    //php.邮件匿名转发，白名单过滤
-### 国内手机号、短信验证码平台
-- http://www.smszk.com/    //在线短信验证码接收，手机验证码短信接收平台，最好用的免费云短信网站！
+### 国内手机号短信验证码平台
 - https://sms.cngrok.com/receiving-sms/    //短信码上到-掠影网络，国内临时接码的
 - https://www.becmd.com/    //免费接码 - 免费短信验证码接收平台
 - https://www.pdflibr.com/    //云短信 - 在线短信接收 中国,美国,菲律宾
 - https://yunduanxin.net/    //免费接短信,在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
-### 国外手机号、短信验证码平台
+### 国外手机号短信验证码平台
 - http://hs3x.com/    //Receive SMS Online For Free - Free Virtual Numbers，-美国,英国,奥地利,瑞典,比利时
 - http://receivefreesms.com/    //Receive FREE SMS online，美国,英国,挪威,瑞典,荷兰,澳大利亚,匈牙利,立陶宛,香港等
 - http://receivefreesms.net/    //Receive-SMS-Now - 美国,加拿大,西班牙

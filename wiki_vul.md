@@ -129,6 +129,7 @@
 - https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
 ## 微软MS相关漏洞
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708, 四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce，增加xp/03;
+- https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++.CVE-2019-0859 1day Exploit。可利用win32k.sys远程下载运行程序
 - https://github.com/3gstudent/Smbtouch-Scanner    //PY.MS17010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
 - https://github.com/countercept/doublepulsar-detection-script    //PY.方程式双倍脉冲RDP漏洞

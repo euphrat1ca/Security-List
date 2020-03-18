@@ -34,6 +34,7 @@
 - http://www.freebuf.com/articles/ics-articles/178822.html    //浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
+- 公众号：终端安全运营年度笔记    //
 ### 红队基础设施自动化部署建设
 - https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
 - 公众号：红队攻防全流程解析    //
@@ -929,25 +930,26 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码
 - https://github.com/putterpanda/mimikittenz    //PS.类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。
 ### 资产管理信息搜集
-- https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
-- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与client通信中间件)网络资产发现引擎，通过WEB API下发任务
-- https://github.com/w-digital-scanner/w12scan-client    //PY.w12scan网络资产发现引擎client客户端。boy-hack开发
 - https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路- https://github.com/scallywag/nbtscan    //C.NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
-- https://github.com/royhills/arp-scan    //C.ARP协议主机设备发现。
+- https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路
 - https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息进行搜集很全面
+- https://github.com/scallywag/nbtscan    //C.NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
+- https://github.com/royhills/arp-scan    //C.ARP协议主机设备发现。
 - https://github.com/m8r0wn/nullinux    //PY.用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
-- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
-- https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
-径介绍
 - https://github.com/sowish/LNScan    //详细的内部网络信息扫描器
 - https://github.com/dr0op/bufferfly    //PY3.资产/域名存活验证，标题获取，语料提取，端口检测。
 - https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。
 - https://github.com/flipkart-incubator/RTA    //PY2.扫描公司内部所有在线设备，提供整体安全视图，标示所有安全异常。
-- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator 
-### 资产管理风险测试
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限。有 asInvoker highestAvailable requireAdministrator
 - https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;
 - https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。W:rumble.run;
+- https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;
+- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发
+- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产。如百度云、阿里云、腾讯云等。一个人的安全部
+- https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
+径介绍
+- https://github.com/CTF-MissFeng/bayonet    //py3.src资产管理系统，以web形式展现。
+### 资产管理风险测试
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试

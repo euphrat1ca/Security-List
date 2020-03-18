@@ -97,6 +97,7 @@
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
 - http://ohshitgit.com/    //intro.git操作手册
+- https://anytxt.net/    //全文检索工具。社区版
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //文件和文件夹快速定位。Everything
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
