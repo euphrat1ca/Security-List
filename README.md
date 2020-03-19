@@ -103,7 +103,7 @@
 ### 安全工具使用手册指导介绍
 - https://github.com/HarmJ0y/CheatSheets    //多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
-- https://github.com/aleenzz/Cobalt_Strike_wiki    //Cobalt Strike系列教程。0.5k。
+- https://github.com/aleenzz/Cobalt_Strike_wiki    //Cobalt Strike系列 教程使用
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    //Kali Linux Web渗透测试秘籍 中文版
 - https://github.com/louchaooo/kali-tools-zh    //kali下工具使用介绍手册
 - https://www.offensive-security.com/metasploit-unleashed/    //kali出的metasploit指导笔记
@@ -710,56 +710,14 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://www.jetmore.org/john/code/swaks/    //PERL.基于smtp的邮箱域名伪造测试工具
 ## 漏洞收集
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //web漏洞、软件模板漏洞、数据库、中间件、CMS框架漏洞、MS&Linux等系统组件漏洞、IOT漏洞收集表单。myWiki
+## web安全前端利用
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_websec.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密、web应用扫描器框架。myWiki。
 ## 网站扫描器漏洞检测
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
 - https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版。有Nessus无IP限制版虚拟机
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
-- https://github.com/andresriancho/w3af    //PY.包含 200+ Web漏洞
 - https://github.com/gyoisamurai/GyoiThon    //PY.使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
 - https://github.com/iSafeBlue/TrackRay    //JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
-- https://github.com/TideSec/WDScanner    //PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
-- https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].历史感。
-- https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。历史感。
-- https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。历史感。
-- https://github.com/euphrat1ca/WebCruiserWVS    //C#.轻量扫描器，椰树前身
-- https://github.com/theInfectedDrake/TIDoS-Framework    //覆盖从侦察到漏洞分析的所有内容
-- https://github.com/Tuhinshubhra/RED_HAWK    //php.集成信息收集、漏洞扫描、指纹识别等的扫描工具
-- https://github.com/1N3/Sn1per    //PHP.自动化中间件扫描以及设备指纹识别
-- https://github.com/m4ll0k/Spaghetti    //web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描
-- https://github.com/blackye/lalascan    //集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架
-- https://github.com/Skycrab/leakScan    //web界面，漏洞扫描
-- https://github.com/az0ne/AZScanner    //web界面，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测
-- https://github.com/MiniSafe/microweb    //web界面，base bugscan，django
-- https://github.com/taipan-scanner/Taipan    //web界面，基于F#与C#的安全扫描器
-- https://github.com/zhangzhenfeng/AnyScan    //web界面，python漏洞扫描器，NoUpdate
-- https://github.com/Canbing007/wukong-agent    //web界面，python漏洞扫描器
-- https://github.com/dermotblair/webvulscan    //web界面，php，漏洞扫描器，支持输出pdf报告
-- https://github.com/0xInfection/TIDoS-Framework    //PY.linux，网站扫描器
-- https://github.com/secdec/adapt    //PY.linux，网站扫描器
-- https://github.com/sullo/nikto    //PERL.linux下网站扫描器
-- https://github.com/Ekultek/Zeus-Scanner    //PY.搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
-- https://github.com/jeffzh3ng/InsectsAwake    //PY.web界面，基于 Flask 应用框架的漏洞扫描系统，同时集成了渗透测试常用的端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite
-- https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器
-- https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner    //支持检测SQLi/XSS/LFI/RFI等漏洞的扫描器
-- https://github.com/RASSec/pentestEr_Fully-automatic-scanner    //定向自动测试工具
-- https://github.com/Fireflyi/lcyscan    //PY.插件化漏洞扫描器，支持生成报表
-- https://github.com/Arachni/arachni    //Web应用漏洞扫描框架，支持REST、RPC等api调用
-- https://github.com/swisskyrepo/DamnWebScanner    //基于chrome/opera插件的被动式漏洞扫描
-- https://github.com/0xsauby/yasuo    //RUBY.扫描主机第三方web应用服务漏洞
-- https://github.com/yangbh/Hammer    //Web应用漏洞扫描
-- https://github.com/viraintel/OWASP-Nettacker    //自动化渗透测试框架
-- https://github.com/flipkart-incubator/watchdog    //web扫描器与漏洞利用工具
-- https://github.com/m4ll0k/Galileo    //PY2.网站扫描器
-- https://github.com/samhaxr/hackbox    //PY2.simple，网站扫描器
-- https://github.com/secrary/EllaScanner    //PY3.simple，被动式漏洞扫描，支持历史cve编号漏洞识别
-- https://github.com/m4ll0k/WAScan    //PY.simple，扫描页面/链接/脚本/Form， 测试Payload等
-- https://github.com/jiangsir404/S7scan    //PY.DONE，简单扫描工具
-- https://github.com/hatRiot/clusterd    //PY.simple，web漏洞扫描利用
-- https://github.com/iceyhexman/onlinetools    //PY3.simple，DONE，web界面，利用antsword漏洞插件
-- https://github.com/tulpar/tulpar    //PY.支持多种web漏洞扫描.simple
-- https://github.com/UltimateHackers/Striker    //PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
-- https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
 - https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
@@ -873,8 +831,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
 - https://github.com/psypanda/hashID    //PY.对超过220种hash识别。使用'hash'
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //PY2.对超过160种hash识别。
-## web安全前端利用
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_websec.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密。myWiki
 # 后渗透拓展利用
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
@@ -1438,7 +1394,7 @@ endpoint 防护软件
 - https://bitsum.com/    系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
 - https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
 - https://github.com/processhacker/processhacker    //C.监控系统资源、内存以及模块信息、软件调试，管理进程
-- https://github.com/DominicBreuker/pspy    //GO.Linux下绕过root权限监控进程运行.GOODJOB.
+- https://github.com/DominicBreuker/pspy    //GO.Linux下绕过root权限系统监控进程运行.GOODJOB.
 - https://github.com/rabbitstack/fibratus    //PY.能够捕捉到绝大多数的Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等。
 - https://github.com/open-falcon    //GO/PY.Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
 ### 系统文件

@@ -5,6 +5,51 @@
 - https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测等
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
+## web应用扫描器框架
+- https://github.com/andresriancho/w3af    //PY.包含 200+ Web漏洞
+- https://github.com/TideSec/WDScanner    //PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+- https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].
+- https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。
+- https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。
+- https://github.com/euphrat1ca/WebCruiserWVS    //C#.轻量扫描器，椰树前身
+- https://github.com/theInfectedDrake/TIDoS-Framework    //覆盖从侦察到漏洞分析的所有内容
+- https://github.com/Tuhinshubhra/RED_HAWK    //php.集成信息收集、漏洞扫描、指纹识别等的扫描工具
+- https://github.com/1N3/Sn1per    //PHP.自动化中间件扫描以及设备指纹识别
+- https://github.com/m4ll0k/Spaghetti    //web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描
+- https://github.com/blackye/lalascan    //集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架
+- https://github.com/Skycrab/leakScan    //web界面，漏洞扫描
+- https://github.com/az0ne/AZScanner    //web界面，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测
+- https://github.com/MiniSafe/microweb    //web界面，base bugscan，django
+- https://github.com/taipan-scanner/Taipan    //web界面，基于F#与C#的安全扫描器
+- https://github.com/zhangzhenfeng/AnyScan    //web界面，python漏洞扫描器，NoUpdate
+- https://github.com/Canbing007/wukong-agent    //web界面，python漏洞扫描器
+- https://github.com/dermotblair/webvulscan    //web界面，php，漏洞扫描器，支持输出pdf报告
+- https://github.com/0xInfection/TIDoS-Framework    //PY.linux，网站扫描器
+- https://github.com/secdec/adapt    //PY.linux，网站扫描器
+- https://github.com/sullo/nikto    //PERL.linux下网站扫描器
+- https://github.com/Ekultek/Zeus-Scanner    //PY.搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
+- https://github.com/jeffzh3ng/InsectsAwake    //PY.web界面，基于 Flask 应用框架的漏洞扫描系统，同时集成了渗透测试常用的端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite
+- https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器
+- https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner    //支持检测SQLi注入/XSS跨站/LFI本地文件包含/RFI远程文件包含等漏洞的扫描器
+- https://github.com/RASSec/pentestEr_Fully-automatic-scanner    //定向自动测试工具
+- https://github.com/Fireflyi/lcyscan    //PY.插件化漏洞扫描器，支持生成报表
+- https://github.com/Arachni/arachni    //Web应用漏洞扫描框架，支持REST、RPC等api调用
+- https://github.com/swisskyrepo/DamnWebScanner    //基于chrome/opera插件的被动式漏洞扫描
+- https://github.com/0xsauby/yasuo    //RUBY.扫描主机第三方web应用服务漏洞
+- https://github.com/yangbh/Hammer    //Web应用漏洞扫描
+- https://github.com/viraintel/OWASP-Nettacker    //自动化渗透测试框架
+- https://github.com/flipkart-incubator/watchdog    //web扫描器与漏洞利用工具
+- https://github.com/m4ll0k/Galileo    //PY2.网站扫描器
+- https://github.com/samhaxr/hackbox    //PY2.simple，网站扫描器
+- https://github.com/secrary/EllaScanner    //PY3.simple，被动式漏洞扫描，支持历史cve编号漏洞识别
+- https://github.com/m4ll0k/WAScan    //PY.simple，扫描页面/链接/脚本/Form， 测试Payload等
+- https://github.com/jiangsir404/S7scan    //PY.DONE，简单扫描工具
+- https://github.com/hatRiot/clusterd    //PY.simple，web漏洞扫描利用
+- https://github.com/iceyhexman/onlinetools    //PY3.simple，DONE，web界面，利用antsword漏洞插件
+- https://github.com/tulpar/tulpar    //PY.支持多种web漏洞扫描.simple
+- https://github.com/UltimateHackers/Striker    //PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
+- https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
 ## 前端利用
 - https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
@@ -93,8 +138,8 @@
 - https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    //SQLi Dumper基于搜索引擎的自动化注入利用工具。GoodJob
 - https://github.com/ron190/jsql-injection    //Java.SQL注入工具.GOODJOB
 - https://github.com/shack2/SuperSQLInjectionV1    //C#.安恒航牛的超级SQL注入工具【SSQLInjection】.GOODJOB
-- https://www.52pojie.cn/thread-80225-1-1.html    //Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，NoUpdate，历史感。
-- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，NoUpdate，历史感。
+- https://www.52pojie.cn/thread-80225-1-1.html    //Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，NoUpdate，
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，NoUpdate，
 - https://github.com/codingo/NoSQLMap    //PY2.针对nosql数据库的注入工具。1k。
 - https://github.com/torque59/Nosql-Exploitation-Framework    //NoSQL扫描/爆破工具
 - https://github.com/se55i0n/DBScanner    //PY2.扫描常见sql、no-sql数据库资产，进行未授权访问和弱口令检测。simple。
