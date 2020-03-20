@@ -101,3 +101,29 @@
 - https://pan-unit42.github.io/playbook_viewer/    //针对apt组织的威胁情报汇总
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
+## 各国情报人员使用的部分开源情报（OSINT）工具
+### 账号密码泄露
+- https://haveibeenpwned.com/    //电子邮件账号泄露
+### 事实检测
+- https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
+- http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
+- https://www.politifact.com/    //新闻事实检查，使用评级量表对记者，政治人物和其他人的言论进行可信度评级
+- https://www.factcheck.org/scicheck/    //评估对公共政策有影响的虚假和误导性科学主张的可信度
+- https://www.snopes.com/    //事实检查网站，包括城市传说，谣言，神话，可疑的照片和视频，文章和公众人物提出的主张。
+- https://verificationjunkie.com/    //帮助验证和事实检查，以及评估目击者报告信息的有效性
+### 威胁情报
+- https://norsecorp.com/    //威胁情报网络，可视化展示攻击者是谁以及他们所追求的数据内容
+### 图像搜索
+- https://www.imageidentify.com/    //图像识别
+- http://www.opentopia.com/    //汇总全球公共实时流网络摄像头和监视摄像机
+### 公共记录
+- https://www.melissa.com/v2/lookups/propertyviewer/zipcode/    //利用地图进行，特定属性的公共记录信息获取
+- https://www.emporis.com/buildings    //搜索世界各地的建筑物，公司和设计/建筑图像
+### 搜索引擎
+- https://trends.google.com/trends/?geo=US    //搜索问题的相关趋势与联系
+- https://millionshort.com/    //信息搜集筛选
+### 交通运输
+- https://www.flightradar24.com/    //全球的实时飞行跟踪信息
+- https://www.marinetraffic.com/en/ais/home/centerx:5.4/centery:50.8/zoom:2    //全球船舶跟踪情报
+- https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    //美国联邦航空管理局（FAA）注册的所有飞机的登记册
+- https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询

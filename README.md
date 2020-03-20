@@ -73,7 +73,6 @@
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/chryzsh/DarthSidious    //从0开始你的域渗透之旅，包括搭建到渗透测试域环境。G:crazywa1ker/DarthSidious-Chinese;
-- https://paper.seebug.org/772/    //如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple
 ## 安全基础科普培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
@@ -175,8 +174,6 @@
 ### 勒索病毒
 - https://github.com/jiansiting/Decryption-Tools    //勒索病毒解决方案汇总
 - https://www.nomoreransom.org    //在线勒索病毒解决方案
-# 开源情报数据源分析
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_osint.md/    //开源情报数据源分析.mywiki
 ## 攻防技术资源
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;
@@ -295,29 +292,9 @@
 - https://www.mozhe.cn/bug    //墨者学院在线靶场。Web/主机/数据库/取证
 - https://www.xssgame.com    //谷歌XSS挑战
 - http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
-## Fuzzer模糊测试
-- 工控模糊测试Wurldtech Achilles阿基里斯国际认证
-- http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
-- https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
-- https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
-- https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
-- https://github.com/googleprojectzero/winafl    //C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析-AFL漏洞挖掘技术漫谈
-- http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //intro.AFL使用指南
-- https://github.com/mxmssh/drAFL    //C.Linux模糊测试。G:atrosinenko/kbdysch;G:google/oss-fuzz;
-- https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
-- https://github.com/MozillaSecurity/peach    //PY3.MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。网络协议、web接口、文件格式模糊测试。W:peach.tech;G:TideSec/Peach_Fuzzing;
-- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //intro.使用Peach进行模糊测试从入门到放弃。P:【工控安全】基于Peach的Modbus协议模糊测试;
-- https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
-- https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库
-- https://github.com/jtpereyda/boofuzz    //PY.基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。
-- https://github.com/k0keoyo/kDriver-Fuzzer    //C.基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer
-- https://github.com/google/honggfuzz    //C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
-- https://github.com/bunzen/pySSDeep    //PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:glaslos/ssdeep;G:ssdeep-project/ssdeep
-- https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文。goodjob,2k。
-- https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
-- https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
-- http://blog.topsec.com.cn/alphafuzzer/    //启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
-### 二进制学习pwn利用
+## 模糊测试
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_fuzzing.md/    //Fuzzer模糊测试.mywiki
+## 二进制学习pwn利用
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）
 - 漏洞战争：软件漏洞分析精要    //
@@ -403,7 +380,7 @@
 - https://github.com/LandGrey/pydictor    //PY3.特定密码字典生成
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
 ### 程序功能模块库
-- https://github.com/Microsoft/SymCrypt Windows使用的核心功能加密库
+- https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    //C#.基于.NET Core运行时实现的Windows HOOK库
 - https://github.com/boy-hack/hack-requests    //PY3.python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
@@ -481,7 +458,7 @@
 - https://github.com/D4Vinci/One-Lin3r    //metasploit、payload辅助查询工具
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //metasploit的GUI界面，强化Windows下支持
-- https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。
+- https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。testjob.
 ### Empire相关工具拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面
@@ -542,6 +519,8 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://mono.sh    //飞机场
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
+# 开源情报数据源分析
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_osint.md/    //开源情报数据源分析.mywiki
 # 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.maltego.com/downloads/    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
@@ -554,19 +533,16 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/HurricaneLabs/machinae    //PY.ip/url/file/email/dns/hash/domain多接口
 - https://github.com/gh0stkey/ahrid    //py.利用jsonp等漏洞通过分析模块对黑客画像溯源
 ### 在线信息搜集网站
-- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;
-- https://www.oshadan.com    //傻蛋联网设备搜索，湖南安数网络。NOupdate。
-- https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:http://tools.bugscaner.com/;
-- https://safeweb.norton.com    //诺顿网站安全检测
-- http://www.link114.cn/title/    //批量查询网站标题
+- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;
+- https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;
 - https://www.whatweb.net/    //在线web指纹识别
-- http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具.W:www.phpinfo.me/domain/;
-- http://ceye.io    //在线dns查询，http请求解析，日志记录
-- https://www.dnsdb.io    //DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询
-- https://dnsdumpster.com/    //dns recon and research， find and lookup dns records
+- http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具.W:phpinfo.me/domain/;
 - http://ip.chaxun.la/    //ip反查域名---查询啦
+- http://www.link114.cn/title/    //批量查询网站标题
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
-- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:https://crt.sh/;W:https://spyse.com/;W:https://securitytrails.com/#search;
+- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;
+- https://www.dnsdb.io    //全球DNS搜索引擎。DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询
+- https://dnsdumpster.com/    //dns recon and research， find and lookup dns records
 ### PDNS(Passive DNS)收集系统
 - https://github.com/JustinAzoff/bro-pdns    //GO.基于bro的pdns收集工具
 - https://www.circl.lu/services/passive-dns    //pdns服务
@@ -916,39 +892,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
-## 权限维持
-- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
-- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
-- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
-- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
-- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
-- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
-- https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
-- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
-### 后渗透白利用
-- https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
-- https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
-- https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
-- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
-- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
-- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
-- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
-- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
-- https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
-- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;
-- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
-- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
-- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
-### 签名提取伪造修改
-- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
-- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
-- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
-- https://github.com/secretsquirrel/SigThi    //PY3.伪造程序签名。
-### 进程隐藏
-- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
-- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
-- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
 ## MITM攻击流量劫持
 - https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
@@ -1045,7 +988,6 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/TideSec/BypassAntiVirus    //远控免杀系列
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
 - https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索
-- https://github.com/Screetsec/Vegile    //SHELL/C.msf免杀，程序注入
 - https://github.com/MohamedNourTN/Terminator    //PY2.msf免杀
 - https://github.com/abedalqaderswedan1/aswcrypter    //py,bash.msf免杀
 - https://github.com/pasahitz/zirikatu    //msf免杀
@@ -1094,8 +1036,43 @@ endpoint 防护软件
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
 - https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。https://cooolis.payloads.online
+## 权限维持
+- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
+- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
+- https://github.com/PowerShellMafia/PowerSploit    //PS.测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
+- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
+- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
+- https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
+- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
+### 后渗透白利用
+- https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
+- https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
+- https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
+- https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
+- https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
+- https://github.com/g3rzi/Manifesto    //C#.寻找系统中存在可执行权限的组件
+- https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
+- https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
+- https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
+- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;
+- https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
+- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
+- https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
+- https://github.com/Screetsec/Vegile    //SHELL/C.msf免杀，程序注入权限维持
+### 签名提取伪造修改
+- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
+- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
+- https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
+- https://github.com/secretsquirrel/SigThi    //PY3.伪造程序签名。
+### 进程隐藏
+- https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
+- https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
+- https://github.com/malcomvetter/UnstoppableService    //C#.将自身安装为Windows服务且管理员无法停止/暂停服务的程序.
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
+- 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
 ### 文件捆绑
 - https://github.com/islamadel/bat2exe    //VB.将bat文件转换为exe二进制文件。
 - https://github.com/tywali/Bat2ExeConverter    //将bat文件转换为exe二进制文件
@@ -1568,6 +1545,7 @@ endpoint 防护软件
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //INTRO.规避Sysmon DNS监控
 ### CDN识别绕过真实IP获取
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
+- http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录
 - https://github.com/al0ne/Vxscan    //PY3.目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
