@@ -1545,7 +1545,7 @@ endpoint 防护软件
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //INTRO.规避Sysmon DNS监控
 ### CDN识别绕过真实IP获取
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
-- http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录
+- http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录DNSLog
 - https://github.com/al0ne/Vxscan    //PY3.目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
@@ -1570,6 +1570,7 @@ endpoint 防护软件
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
 ## 代码审计应用测试
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
+- https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
 - https://securitylab.github.com/tools/codeql    //GitHub开源代码审计，插件、函数库形式
 - https://github.com/microsoft/ApplicationInspector    //C#.基于规则代码安全审计
 - https://github.com/pumasecurity/puma-scan    //C#.Visual Studio插件，实时代码审计
