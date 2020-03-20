@@ -21,4 +21,5 @@
 - https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 ### 后渗透拓展
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
-- https://github.com/euphrat1ca/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
+- https://github.com/gloxec/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
+- https://github.com/darkr4y/geacon    //GO.macos系统beacon上线

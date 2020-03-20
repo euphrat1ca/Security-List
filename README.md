@@ -269,7 +269,7 @@
 - https://github.com/secvulture/dvta    //CS客户端靶场
 - https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
-- https://github.com/abhi-r3v0/EVABS    //C++.Android靶场联系
+- https://github.com/abhi-r3v0/EVABS    //C++.Android靶场
 - https://github.com/ethicalhack3r/DVWA    //web安全实验靶场。新手指南：DVWA-1.9全级别教程
 - http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
@@ -1157,7 +1157,8 @@ endpoint 防护软件
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写
 - https://www.cnblogs.com/k1two2/p/7083159.html    //C.基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;
-- https://github.com/whid-injector/WHID    //C++.基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;P:WHIDelite;P:USBninja;P:CJMCU-Bettle;
+- https://github.com/whid-injector/WHID    //C++.基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;P:WHIDelite;P:CJMCU-Bettle;
+- https://usbninja.com/    //恶意数据线攻击。G:USBNinjaRRG/USBNinja;
 - https://github.com/ebursztein/malusb    //创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
 - https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
 - https://github.com/euphrat1ca/CVE-2019-12476    //P4wnP1_aloa插件.利用域用户重置密码缺陷，绕过win10登录界面，利用浏览器调用powershell执行命令.
@@ -1178,29 +1179,29 @@ endpoint 防护软件
 - https://github.com/V33RU/IoTSecurity101    //IoT工业物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
-- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
-- https://github.com/adi0x90/attifyos    //AttifyOS物联网设备渗透测试系统。iot kali系统类。
 - https://github.com/threat9/routersploit    //PY3.类msf物联网漏洞利用框架。
 - https://github.com/dhondta/dronesploit    //PY3.基于sploitkit无人机测试框架。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //PY.瑞士军刀类型IOT设备安全测试
+- http://tongxinmao.com/Topic/Detail/id/6    //通信猫调试软件。tcp udp协议调试
 ### 设备固件安全
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
 - http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //绿盟：智能设备安全分析手册.pdf
+- https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
+- https://github.com/firmadyne/firmadyne    //bash,PY.基于QEMU虚拟机的固件仿真与分析平台。testjob。
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy
 、Firmwalker组件。
-- https://github.com/firmadyne/firmadyne    //bash,PY.基于Linux的iot固件仿真与分析平台。
+- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
 - https://github.com/cwerling/psptool    //PY.分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
-- http://tongxinmao.com/Topic/Detail/id/6    //通信猫调试软件
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -1556,7 +1557,8 @@ endpoint 防护软件
 - https://github.com/m0rtem/CloudFail    //PY.利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
 ### 沙盒虚拟化容器云平台
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统
-- https://www.qemu.org    //纯软件实现的虚拟化模拟器，几乎可以模拟任何硬件设备。qemu-kvm为虚拟机管理工具
+- https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
+- https://www.busybox.net/    //集成了三百多个最常用Linux命令和工具的软件，良好支持嵌入式。
 - https://github.com/moby/moby    //GO.Linux下虚拟容器dockerCE。54k。
 - https://github.com/containers/libpod    //GO.podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //RUBY.管理虚拟机。19k。
