@@ -958,6 +958,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/deepzec/Grok-backdoor    //PY.利用ngrok的后门
 - https://github.com/trustedsec/trevorc2    //PY.搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:WebDAVC2;
 - https://github.com/h0mbre/Dali    //PY.利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
+- https://github.com/fox-it/LDAPFragger    //C#.利用ldap协议进行c2通讯
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
