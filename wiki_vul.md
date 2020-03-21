@@ -144,16 +144,20 @@
 - https://github.com/ollypwn/SMBGhost    //py.CVE-2020-0796 - SMBv3 RCE 
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
-- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
 - https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法
 - https://evi1cg.me/archives/Exchange_Hack.html    //Exchange在渗透测试中的利用
-- https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，针对EWS（exchange web services）的NTLM中继攻击，提供OWA接口。
 - https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    //APT34针对exchange的电子邮件爆破劫持工具
-- https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
+#### Exchange提权利用
 - https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞
-- https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击等操作。
-- https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口对Outlook Web App进行枚举爆破
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行
+- https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
+- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
+#### Exchange接口利用
+- https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击等操作。
+- https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，针对EWS（exchange web services）的NTLM中继攻击，提供OWA接口。
+- https://github.com/mullender/python-ntlm    //PY.利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
+- https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口对Outlook Web App进行枚举爆破
+- https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 ### Office漏洞收集
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
@@ -197,6 +201,7 @@
 - https://github.com/nilotpalbiswas/Auto-Root-Exploit    //linux自动提权脚本
 - https://github.com/WazeHell/PE-Linux    //Linux提权工具
 ### Windows提权利用相关
+- Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
@@ -217,4 +222,3 @@
 - https://github.com/unamer/CVE-2018-8120    //影响Win32k组件，针对win7和win2008提权
 - https://github.com/alpha1ab/CVE-2018-8120    //在win7与win2k8的基础上增加了winXP与win2k3
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
-- https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
