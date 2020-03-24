@@ -10,7 +10,7 @@
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/KishanBagaria/AirDoS    //PY3.基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
-### Web漏洞工具CMS利用
+## Web漏洞工具CMS利用
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/w1109790800/penetration    //CMS新老版本exp与系统漏洞搜集表
@@ -33,12 +33,14 @@
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
 - https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
 - https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
-- https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
 - https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
 - https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
+### discuz漏洞
+- https://paper.seebug.org/1144/    //Discuz X3以后漏洞总结
+- https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
 ## 软件模板漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
@@ -79,7 +81,7 @@
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
 - https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
-- https://github.com/frohoff/ysoserial    //java.用于生成反序列验证利用载荷
+- https://github.com/frohoff/ysoserial    //java.用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html 转化java加密指令;
 - https://github.com/quentinhardy/jndiat    //JAVA.Java类名/目录接口/数据库审计检测
 - https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
@@ -90,7 +92,8 @@
 - https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
 - https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE
-- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro 1.2.4 Remote Code Execution/Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5
+- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5版本。
+- https://paper.seebug.org/shiro-rememberme-1-2-4/    //Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
@@ -143,21 +146,20 @@
 - https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
 - https://github.com/ollypwn/SMBGhost    //py.CVE-2020-0796 - SMBv3 RCE 
 ### Exchange漏洞与利用手段
-- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结
-- https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法
-- https://evi1cg.me/archives/Exchange_Hack.html    //Exchange在渗透测试中的利用
+- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。枚举；钓鱼；pth；猕猴桃抓明文、生成挑战值；劫持；提权
+- https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法。自动发现服务暴破；规则和通知功能getshell；邮件内容检索；NTLM Relay。W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/ 利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控;
 - https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    //APT34针对exchange的电子邮件爆破劫持工具
 #### Exchange提权利用
-- https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞
-- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行
+- https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞，利用PrivExchange漏洞产生http->ldap中转实现的提权。
 - https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
-- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用exchange提权PrivExchange
+- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
+- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行
 #### Exchange接口利用
-- https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击等操作。
-- https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，针对EWS（exchange web services）的NTLM中继攻击，提供OWA接口。
+- https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
+- https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据。IE浏览器可行；
 - https://github.com/mullender/python-ntlm    //PY.利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
-- https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口对Outlook Web App进行枚举爆破
-- https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
+- https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
+- https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 ### Office漏洞收集
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用

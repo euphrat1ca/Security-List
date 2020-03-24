@@ -34,6 +34,7 @@
 - https://www.suncalc.org    //根据日光影子判断时间与地理位置
 - https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址BSSID、gps
 - http://www.cellocation.com/    //基站、WiFi定位
+- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位
 ## 多维度情报源
 - https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
@@ -57,7 +58,7 @@
 - https://github.com/vaguileradiaz/tinfoleak    //web界面，对twitter账户进行全面的分析
 - http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
 - https://github.com/martinvigo/ransombile    //RUBY.根据社交媒体密码找回信息
-- https://www.reg007.com/    //你注册过哪家网站
+- https://www.reg007.com/    //注册过哪家网站app
 ### 企业人员信息搜集
 - https://hunter.io/    //企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
@@ -73,6 +74,7 @@
 - https://trumail.io/    //验证对方邮箱是否为垃圾邮箱，每个月可以免费验证1000次
 - https://github.com/ChrisJohnRiley/Scythe    //验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
+- http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki

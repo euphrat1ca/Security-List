@@ -96,8 +96,8 @@
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
 ### XSS检测辅助
+- https://github.com/s0md3v/XSStrike    //PY3.可识别并绕过WAF的XSS扫描工具
 - https://github.com/hahwul/XSpear    //ruby.Powerfull XSS Scanning and Parameter analysis tool&gem
-- https://github.com/UltimateHackers/XSStrike    //可识别并绕过WAF的XSS扫描工具
 - https://github.com/raz-varren/xsshell    //GO.利用xss返回js交互shell
 - https://github.com/UltimateHackers/JShell    //利用xss返回js交互shell
 - https://github.com/shawarkhanethicalhacker/BruteXSS    //一款XSS扫描器，可暴力注入参数
