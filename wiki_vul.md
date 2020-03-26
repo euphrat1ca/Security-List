@@ -2,7 +2,6 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/HacTF/poc--exp    //常用渗透poc收集
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
-- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
 - https://github.com/Lcys/Python_PoC    //py3.poc、exp快速编写模板，有众多模范版本
 - https://github.com/coffeehb/Some-PoC-oR-ExP    //各种漏洞poc、Exp的收集或编写
 - https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，https://www.cvedetails.com
@@ -38,10 +37,14 @@
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
-### discuz漏洞
+### Discuz漏洞
 - https://paper.seebug.org/1144/    //Discuz X3以后漏洞总结
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
-## 软件模板漏洞
+### 公共网关接口CGI漏洞
+- 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
+- https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi；
+- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
+## 软件应用漏洞
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
 - https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
@@ -70,9 +73,13 @@
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
 ### 数据库漏洞
+- https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
+- https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
 - https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
+- https://www.freebuf.com/vuls/212799.html    //MongoDB未授权访问漏洞分析及整改建议
+- https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ### C#/.Net反序列化漏洞
 - https://github.com/pwntester/ysoserial.net    //C#.配合PowerShell生成有效负载利用
 ### Python服务框架漏洞
@@ -89,10 +96,11 @@
 - https://github.com/shack2/Struts2VulsTools    //C#.Struts2漏洞检查工具2018版.界面。
 - https://github.com/gquere/CVE-2020-7931    //py.maven框架插件Artifactory模板ssti利用执行漏洞
 #### apache相关漏洞
-- https://github.com/artsploit/solr-injection    //Apache Solr Injection注入研究
-- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE
-- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE
-- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792/S2-032/Joomla 1.5 - 3.4.5版本。
+- https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
+- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化
+- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置
+- https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行
+- https://github.com/brianwrf/hackUtils    //PY.Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
@@ -161,13 +169,13 @@
 - https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
 - https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等）。提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 ### Office漏洞收集
+- https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
 - https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
 - https://github.com/thom-s/docx-embeddedhtml-injection    //word2016，滥用Word联机视频特征执行恶意代码poc
 - https://blog.cymulate.com/abusing-microsoft-office-online-video    //word2016，滥用Word联机视频特征执行恶意代码介绍
-- https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads    //无需开启宏即可在word文档中利用DDE执行命令
-- http://www.freebuf.com/articles/terminal/150285.html    //无需开启宏即可在word文档中利用DDE执行命令利用
+- http://www.freebuf.com/articles/terminal/150285.html    //无需开启宏即可在word文档中利用DDE（动态数据交换机制Dynamic Data Exchange）执行命令。G:0xdeadbeefJERKY/Office-DDE-Payloads;
 - https://github.com/Ridter/CVE-2017-11882    //利用word文档RTF获取shell，https://evi1cg.me/archives/CVE_2017_11882_exp.html
 - https://fuping.site/2017/04/18/CVE-2017-0199漏洞复现过程    //WORD RTF 文档，配合msf利用
 - https://github.com/tezukanice/Office8570    //利用ppsx幻灯片远程命令执行，https://github.com/rxwx/CVE-2017-8570

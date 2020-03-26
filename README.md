@@ -64,6 +64,7 @@
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
 - https://github.com/Hygieia/Hygieia    //JS.Capitalone银行开源的DevOps利器
+- https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:snyk/snyk;
 ### 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html    //FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/    //卡巴斯基(Kaspersky)的“网络实时地图”
@@ -657,7 +658,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具
 - https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名
-- https://github.com/thinkst/canarytokens    //PY.重要文件的追踪溯源，信标定位（https://canarytokens.org/generate#）服务端代码
+- https://github.com/thinkst/canarytokens    //PY.重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标
 - https://github.com/ggerganov/kbd-audio    //C++.linux下利用麦克风监控键盘输入测试输入值
 - https://github.com/Viralmaniar/I-See-You    //bash.利用公网网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
@@ -1010,7 +1011,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/pasahitz/regsvr32    //C#.使用C#+Empire实现最小体积免杀后门
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher
-- https://github.com/mdsecactivebreach/SharpShooter    //基于DotNetToJScript使用js、vbs，用于检索和执行任意CSharp源码的payload创建框架
+- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS.基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //基于DotNetToJScript使用js、vbs生成恶意payload
 - https://github.com/OmerYa/Invisi-Shell    //对powershell文件进行混淆
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码
@@ -1099,7 +1100,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/Arno0x/DNSExfiltrator    //利用DNS解析进行数据隐秘传输的工具
 - https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据泄露
 - https://github.com/ytisf/PyExfil    //用于数据取回的Python软件包
-## 无线通讯安全
+# 无线通讯安全
 - https://github.com/OpenATS/OpenATS    //C++.无线电卫星天线追踪系统。
 -https://github.com/open-sdr/openwifi    //C.焦博士的首款开源Wi-Fi基带芯片设计openwifi
 - https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件。
@@ -1146,23 +1147,27 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似于大菠萝
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
-## 硬件安全物理设备HID
-- https://shop.hak5.org/    //硬件设备商店
+## 硬件安全物理设备
+- https://shop.hak5.org/    //硬件设备商店。G:hak5 模块、payloads;
+- EMP干扰器 usbkiller 特斯拉线圈电源 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //USBKiller电子杀手
-- https://github.com/0katz/CVE-2019-12476    //JS.HID绕过win10登录界面，利用浏览器调用powershell
 - https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
 - https://github.com/samratashok/Kautilya    //PS.为人机接口设备提供各种有效负载的工具包
-- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线
 - https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
-- https://github.com/mame82/LOGITacker    //C.利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。
 - https://github.com/knownsec/gsm    //GO.使用树莓派配合硬件来进行短信转发
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络
+### 硬件无线安全
 - https://openwrt.org/    //C.针对嵌入式设备的Linux操作系统。G:coolsnowwolf/lede Lean's OpenWrt 中文;
-- https://github.com/spacehuhn/esp8266_deauther/    //C.WiFi安全审计，硬件WiFi ddos
+- https://www.wifipineapple.com/downloads    //Wifi-Pineapple大菠萝nano固件
+- https://github.com/yearnwang/wifipineaplle_dwall_log    //PHP.dwall日志输出加强
+- https://github.com/spacehuhn/esp8266_deauther/    //C.WiFi安全审计，硬件WiFi ddos。WiFi操作模块
 - https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
-### 物理设备BadUsb
+- https://github.com/mame82/LOGITacker    //C.利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。
+### 物理设备BadUsb/HID
 - https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //badusb防御
+- https://github.com/0katz/CVE-2019-12476    //JS.HID绕过win10登录界面，利用浏览器调用powershell
+- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写
 - https://www.cnblogs.com/k1two2/p/7083159.html    //C.基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;
@@ -1178,11 +1183,6 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/rawrly/JuiceJacking    //BASH.JuiceJacking,利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    //C#.U盘文件自动拷贝usb copy
 - https://github.com/RedDrip7/USB-Bootkit    //物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
-### 车联网智能汽车安全
-- https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
-- https://github.com/pasta-auto    //智能汽车测试
-- https://github.com/schutzwerk/CANalyzat0r    //PY.专有汽车协议的安全分析工具包
-- https://github.com/jgamblin/CarHackingTools    //BASH.汽车黑客工具箱，汽车信息调查
 ## IoT物联网安全
 - https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科
 - https://github.com/V33RU/IoTSecurity101    //IoT工业物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
@@ -1211,6 +1211,11 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/cwerling/psptool    //PY.分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
+### 车联网智能汽车安全
+- https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
+- https://github.com/pasta-auto    //智能汽车测试
+- https://github.com/schutzwerk/CANalyzat0r    //PY.专有汽车协议的安全分析工具包
+- https://github.com/jgamblin/CarHackingTools    //BASH.汽车黑客工具箱，汽车信息调查
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -1286,7 +1291,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/asLody/VirtualApp    //JAVA.android魔改框架，支持软件层模拟系统安装xposed等模块。greatjob。
 - https://github.com/android-hacker/VirtualXposed    //JAVA.基于VirtualApp 和 epic 免root使用xposed
 - https://github.com/Genymobile/scrcpy    //C.基于adb连接使pc控制Android设备
-- https://github.com/zsdlove/ApkVulCheck    //PY3.对安卓apk进行特征值匹配。justsoso。
+- https://github.com/zsdlove/ApkVulCheck    //PY3.对安卓apk进行特征值匹配。welljob。
 - https://github.com/jboss-javassist/javassist    //JAVA.能够操作字节码框架，通过它我们能很轻易的修改class代码文件。2.2K
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具

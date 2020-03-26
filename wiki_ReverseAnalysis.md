@@ -55,4 +55,4 @@
 - https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
 - https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:apk改之理;
 - https://github.com/iBotPeaches/Apktool    //java.Android逆向apk反编译工具.8K.
-- https://github.com/UltimateHackers/Diggy    //bash.基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具。simple
+- https://github.com/UltimateHackers/Diggy    //bash.基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具，apkurl。simple
