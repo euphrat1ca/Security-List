@@ -110,6 +110,7 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //PY3.Windows下Linux子系统WSL管理工具
+- https://github.com/electerm/electerm    //JS.远程管理工具，putty/xshell/mobaxterm
 ### 项目文档管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理

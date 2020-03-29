@@ -100,6 +100,7 @@
 - lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
 - https://www.lshack.cn    //工控安全入门
+- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)。小四
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站
 - https://www.hackinn.com/index.php/archives/492/    //HackingDay 2019 (中国杭州)
@@ -703,11 +704,11 @@ W:ns4gov.000webhostapp.com;
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
 - https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
+- https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;
+- https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
 - https://github.com/dhondta/sploitkit    //PY3.类msf漏洞利用框架。G:PowerScript/KatanaFramework;G:M4cs/BabySploit
 - - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言.降龙核工业交响曲bug project framework漏洞框架
 - https://github.com/opensec-cn/kunpeng    //GO.漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
-- https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framework。
-- https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
 ### 被动扫描代理抓包
 - https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
@@ -793,6 +794,7 @@ W:ns4gov.000webhostapp.com;
 - http://pmd5.com    //md5密码破解。需要验证码
 - https://www.onlinehashcrack.com    //md5密码破解。需要验证码
 ### 密码破解还原
+- https://ophcrack.sourceforge.io/    //C.使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
 - https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具
 - https://github.com/hashcat/hashcat    //C.哈希破解
@@ -993,10 +995,10 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/islamTaha12/Python-Rootkit    //PY.windows下rootkit远控，反弹meterpreter
 - https://github.com/mhaskar/Linux-Root-Kit    //PY.simple。linux简单rootkit
 - https://github.com/PinkP4nther/Sutekh    //C.rootkit使普通用户获取root shell
-## 后门生成与混淆免杀
-- https://github.com/TideSec/BypassAntiVirus    //远控免杀系列
+## 后门免杀混淆
+- https://github.com/TideSec/BypassAntiVirus    //公众号：远控免杀专题(52)。goodjob。
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
-- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索
+- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。welljob。
 - https://github.com/MohamedNourTN/Terminator    //PY2.msf免杀
 - https://github.com/abedalqaderswedan1/aswcrypter    //py,bash.msf免杀
 - https://github.com/pasahitz/zirikatu    //msf免杀
