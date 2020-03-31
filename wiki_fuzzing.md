@@ -23,7 +23,3 @@
 - https://github.com/google/honggfuzz    //C.具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。
 - https://github.com/bunzen/pySSDeep    //PY.一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:glaslos/ssdeep;G:ssdeep-project/ssdeep
 - http://blog.topsec.com.cn/alphafuzzer/    //启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
-### web模糊测试
-- https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，模块化可处理burp所抓请求和响应报文。goodjob,2k。
-- https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
-- https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0

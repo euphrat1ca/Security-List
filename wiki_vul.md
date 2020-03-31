@@ -1,5 +1,6 @@
 # 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
+- https://github.com/offensive-security/exploitdb-bin-sploits    //exploit db编译好的漏洞执行文件
 - https://github.com/HacTF/poc--exp    //常用渗透poc收集
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 - https://github.com/Lcys/Python_PoC    //py3.poc、exp快速编写模板，有众多模范版本
@@ -201,7 +202,7 @@
 - https://github.com/nilotpalbiswas/Auto-Root-Exploit    //linux自动提权脚本
 - https://github.com/WazeHell/PE-Linux    //Linux提权工具
 - https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow Linux kernel >= 2.6.22（2007年发行，到2016年10月18日才修复）;。2.3k。
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台。release。
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台，release。goodjob。
 - https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
 - https://github.com/jas502n/CVE-2018-17182    //Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
@@ -213,7 +214,7 @@
 - Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;
+- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;。goodjob。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
 - https://github.com/51x/WHP    //windows下各种提权与利用工具

@@ -387,6 +387,7 @@
 - https://github.com/Saferman/cupper    //PY.根据用户习惯密码生成弱口令探测，楼上升级
 - https://github.com/LandGrey/pydictor    //PY3.特定密码字典生成
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
+- https://github.com/digininja/CeWL/    //ruby.爬取目标网站关键词生成字典。test job.
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    //C#.基于.NET Core运行时实现的Windows HOOK库
@@ -723,6 +724,7 @@ W:ns4gov.000webhostapp.com;
 ### 端口服务指纹主机识别
 - https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
 - https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
+- https://paper.seebug.org/1052/    //intro.从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
 - https://github.com/nray-scanner/nray    //GO.分布式扫描工具，支持ldap\证书扫描。
 - https://github.com/zmap/zmap    //C.无状态扫描，可使用用C编写扩展模块。censys基础件
 - https://github.com/zmap/zgrab2    //GO.配合zmap/ztag的指纹抓取工具
