@@ -19,9 +19,7 @@
 - https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
 - https://github.com/Tuhinshubhra/CMSeeK    //PY.WordPress,JOOMLA,DRUPAL等170余种CMS扫描识别检测。
 - https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
-- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具
-- https://github.com/swisskyrepo/Wordpresscan    //基于WPScan以及WPSeku的优化版wordpress扫描器
-- https://github.com/m4ll0k/WPSeku    //精简的wordpress扫描工具
+- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具。G:shadowlabscc/ProjectOpal;G:swisskyrepo/Wordpresscan;G:m4ll0k/WPSeku;
 - https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
 - https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
 - https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
@@ -60,7 +58,6 @@
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过
 - https://github.com/leapsecurity/libssh-scanner    //CVE-2018-10933，libssh服务端身份验证绕过
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
-- https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE
 - https://www.corben.io/atlassian-crowd-rce/    //JAVA.atlassian crowd,CVE-2019-11580.
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //intro.文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
@@ -72,6 +69,7 @@
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
+- https://github.com/jas502n/fastjson-RCE    //fastjson-v1.2.47-RCE 命令执行漏洞
 ### 数据库漏洞
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用
@@ -106,14 +104,15 @@
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
+- https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行
 #### Weblogic相关漏洞
 - https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3,支持2019
-- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce）检测
+- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce命令执行）检测
 - https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
-- https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化利用工具，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725
-- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化漏洞（CVE-2020-2551） 漏洞
+- https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化命令执行，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
+- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551） 漏洞
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
 - https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
@@ -153,7 +152,6 @@
 - https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
 - https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;
 - https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
-- https://github.com/ollypwn/SMBGhost    //py.CVE-2020-0796 - SMBv3 RCE 
 ### Exchange漏洞与利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。枚举；钓鱼；pth；猕猴桃抓明文、生成挑战值；劫持；提权
 - https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法。自动发现服务暴破；规则和通知功能getshell；邮件内容检索；NTLM Relay。W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/ 利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控;
@@ -215,6 +213,7 @@
 - Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
+- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
 - https://github.com/51x/WHP    //windows下各种提权与利用工具

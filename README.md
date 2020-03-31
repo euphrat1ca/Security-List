@@ -350,7 +350,6 @@
 - https://github.com/lionsoul2014/ip2region    //ip地址定位库，支持python3等多接口。类似于于geoip架构
 - https://github.com/ultrasecurity/webkiller    //PY.渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
 - https://github.com/medbenali/CyberScan    //PY.渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等
-- https://github.com/opensec-cn/vtest    //PY.用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/ismailtasdelen/hackertarget    //PY.Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
 - https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
 - https://github.com/feross/SpoofMAC    //PY.跨平台mac修改
@@ -502,7 +501,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/teddysun/across    //BASH.npv、bbr、kms等脚本
 - https://github.com/Nyr/openvpn-install    //openvpn一键安装
 - https://github.com/quericy/one-key-ikev2-vpn    //CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
-- http://www.vpngate.net    //日本国立筑波大学云局域网
+- http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/zerotier    //C++.网络虚拟化平台云自组网
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://www.wireguard.com/install/    //新一代npv协议
@@ -838,7 +837,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/klsecservices/bat-armor    //PY.bat文件混淆版mimikatz
 - https://github.com/skelsec/pypykatz    //PY3.使用python实现的mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
-- https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方）”，并远程解析转储。
+- https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
 - https://github.com/GhostPack/Rubeus    //C#.操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket)
 - https://github.com/m8r0wn/ldap_search    //PY.通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
@@ -1311,7 +1310,7 @@ W:ns4gov.000webhostapp.com;
 ## 逆向安全分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ReverseAnalysis.md/    //逆向分析、反编译、破解。myWiki
 ## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
@@ -1422,6 +1421,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:hongriSec/CTF-Training;Github:balsn/ctf_writeup;
 - https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
 - https://github.com/NEALWE/AWD_FrameWork    //PY2.awd框架，比赛常用脚本。
+- 公众号：VulnHub通关日记-DC_    //vulnhub write up
 ### CTF靶场平台
 - https://github.com/facebook/fbctf    //HACK,PHP.CTF比赛平台搭建。
 - https://github.com/CTFd/CTFd    //py2.基于flask的动态Capture The Flag framework
@@ -1477,7 +1477,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/iqiyi/qnsm    //C/C++.爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://documentation.wazuh.com    //C.wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
-- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件变化实时监控工具（代码审计辅助）.testjob.
+- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）.testjob.
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 - https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
 - https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统
@@ -1506,11 +1506,13 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //INTRO.规避Sysmon DNS监控
-### CDN识别绕过真实IP获取
+### 真实IP信息获取
+- http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
 - http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录DNSLog
+- https://github.com/opensec-cn/vtest    //PY.用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/al0ne/Vxscan    //PY3.目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
-- https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址
+- https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
 - https://github.com/christophetd/CloudFlair    //PY.利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:CloudFail;Github:Cloudmare.1K。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测

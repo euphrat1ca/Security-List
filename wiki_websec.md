@@ -125,6 +125,7 @@
 - https://github.com/D35m0nd142/LFISuite    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 ### 上传漏洞利用
+- https://github.com/WSP-LAB/FUSE    //py2.基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。TESTJOB。
 - https://github.com/UltimateHackers/Arjun    //扫描网页， 使用正则表达式爆破查找隐藏的GET/POST参数
 - https://github.com/3xp10it/xupload    //用于自动测试上传功能是否可上传webshell的工具
 - https://github.com/gunnerstahl/JQShell    //PY3.CVE-2018-9206 jQuery File Upload利用工具
