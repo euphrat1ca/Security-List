@@ -80,6 +80,11 @@
 - https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。testjob。
 - https://github.com/commixproject/commix    //PY.命令注入漏洞扫描
 - https://github.com/ewilded/shelling    //JAVA.burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
+### XXE漏洞
+- https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
+- https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
+- https://github.com/orf/xcat    //py3.xpath注入漏洞检测利用
+- https://github.com/enjoiz/XXEinjector/    //ruby.外部实体注入漏洞xxe检测利用
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    //java.csrf验证工具
 - https://github.com/d0nutptr/sic    //RUST.CSS注入，csrf攻击
@@ -128,6 +133,7 @@
 - https://github.com/P0cL4bs/Kadimus    //本地文件包含漏洞扫描和利用工具
 - https://github.com/D35m0nd142/LFISuite    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
+- https://xz.aliyun.com/t/5535    //session写文件getshell，PHP保存session至文件，Java保存session至内存。
 ### 上传漏洞利用
 - https://github.com/WSP-LAB/FUSE    //py2.基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。TESTJOB。
 - https://github.com/UltimateHackers/Arjun    //扫描网页， 使用正则表达式爆破查找隐藏的GET/POST参数

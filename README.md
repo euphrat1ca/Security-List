@@ -163,6 +163,7 @@
 - https://github.com/theLSA/CS-checklist    //CS客户端安全检查checklist
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 - 汽车安全测试Checklist    //水滴安全实验室
+- https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 ## 应急响应溯源
 - https://security.tencent.com/opensource/detail/19    腾讯开源的xSRC应急响应中心cms
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
@@ -340,7 +341,7 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
-- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。博客cnblogs.com/k8gege，常见解压密码Kk8team，Kk8gege。
+- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;
 - https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具，配合客户端checklist
@@ -393,16 +394,16 @@
 - https://github.com/unknownv2/CoreHook    //C#.基于.NET Core运行时实现的Windows HOOK库
 - https://github.com/boy-hack/hack-requests    //PY3.python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
-## 相关工具拓展插件
+## 相关拓展工具插件
 ### 菜刀相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js.免杀webshell无限生成工具蚁剑版
 - https://github.com/Ch1ngg/CaidaoMitmProxy    //PY3.基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。
 - https://github.com/ekgg/Caidao-AES-Version    //Burp插件.用AES算法透明加密菜刀的http数据流
-### burpsuit相关工具拓展插件
+### burpsuit相关拓展工具插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_burpsuite.md/    //burpsuite插件收集.mywiki
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
-### CobaltStrike相关工具拓展插件
+### CobaltStrike相关拓展工具插件
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
@@ -412,17 +413,17 @@
 - https://github.com/secforce/sparta    //PY.界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    //PY2.simple，联动kali下工具，漏洞扫描工具
 - https://github.com/baguswiratmaadi/reverie    //BASH.ParrotSecOs联动工具
-### Nessus相关工具拓展插件
+### Nessus相关拓展工具插件
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    //扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
-### awvs相关工具拓展插件
+### awvs相关拓展工具插件
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
-- https://github.com/fnmsd/awvs_script_decode    //awvs10.5规则scripts解密版，SDK，开发手册
+- https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS.awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //PY.Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //PY.调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
-### sqlmap相关工具拓展插件
+### sqlmap相关拓展工具插件
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
@@ -433,7 +434,8 @@
 - https://github.com/ysrc/GourdScanV2    //ysrc出品的被动式漏洞扫描工具，基于sqlmapapi
 - https://github.com/zt2/sqli-hunter    //基于sqlmapapi，ruby编写的漏洞代理型检测工具
 - https://github.com/jesuiscamille/AutoSQLi    //利用DorkNet，Googler， Ddgr， WhatWaf 和 sqlmap自动注入
-### nmap相关工具拓展插件
+- 公众号：记一次渗透棋牌APP实录    //利用sqlmap --technique S --os-shell栈查询(stack queries)进行命令执行
+### nmap相关拓展工具插件
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //BASH.联动masscan和nmap
@@ -455,7 +457,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //PY.cloudflare基于nmap开发的漏洞检测工具
-### metasploit相关工具拓展插件
+### metasploit相关拓展工具插件
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    //结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    //一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    //等待msf的session，并自动提为域管理
@@ -468,7 +470,7 @@
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //metasploit的GUI界面，强化Windows下支持
 - https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。testjob.
-### Empire相关工具拓展插件
+### Empire相关拓展工具插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面
 - https://github.com/interference-security/empire-web    //empire的web界面
@@ -763,7 +765,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/shack2/SNETCracker    //C#.密码爆破工具，支持SSH、RDP、MySQL等常见协议.超级弱口令爆破工具
 - https://github.com/jmk-foofus/medusa    //C.Linux下登录密码爆破工具
 - https://github.com/nmap/ncrack    //C.支持多种协议的破解与爆破
-- https://github.com/lanjelot/patator    //支持多种协议的爆破，采用模块化设计，使用灵活
+- https://github.com/lanjelot/patator    //PY.支持多种协议的爆破，采用模块化设计，使用灵活.WELLJOB。
 - https://github.com/euphrat1ca/F-Scrack    //PY2.对各类服务用户名密码爆破的脚本.ysrc
 - https://github.com/netxfly/crack_ssh    //GO.协程版ssh\redis\mongodb弱口令破解
 - https://github.com/ztgrace/changeme    //弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
@@ -1152,7 +1154,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
 ## 硬件安全物理设备
 - https://shop.hak5.org/    //硬件设备商店。G:hak5 模块、payloads;
-- EMP干扰器 usbkiller 特斯拉线圈电源 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;
+- EMP干扰器 usbkiller 特斯拉线圈高频共振变压器 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //USBKiller电子杀手
 - https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
@@ -1565,18 +1567,21 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/PyCQA/bandit    //PY.python代码安全漏洞审计
 - https://github.com/python-security/pyt    //PY.用于检测Python Web应用程序中的安全漏洞的静态分析工具
 ## 欺骗防御
-- https://github.com/paralax/awesome-honeypots    //开源蜜罐收集
+- https://github.com/paralax/awesome-honeypots    //优秀蜜罐，相关技术手段收集。goodjob。G:OWASP/Honeypot-Project;
 - https://www.freebuf.com/articles/paper/207739.html    //intro.开源蜜罐测评报告
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
 - https://github.com/BinaryDefense/artillery    //PY.端点蜜罐防护
+### 主动反制面包屑
+- https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
 ### 蜜罐安全
 - https://github.com/phage-nz/malware-hunting    //PY.利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    //PY.现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
 - https://github.com/dtag-dev-sec/tpotce    //T-POT.里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
 - https://github.com/n3uz/t-pot-autoinstall    //bash.将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 - https://www.freebuf.com/sectool/190840.html    //INTRO.T-Pot多蜜罐平台使用心法
-- https://github.com/honeytrap/honeytrap    //可扩展蜜罐框架，支持探针部署与高交互蜜罐
+- https://github.com/honeytrap/honeytrap    //GO.可扩展高交互蜜罐框架，侦听所有端口，监管蜜罐运行状态。testjob。
 - https://github.com/honeynet/beeswarm    //PY.使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web服务蜜罐
 - https://github.com/p1r06u3/opencanary_web    //PY.基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构

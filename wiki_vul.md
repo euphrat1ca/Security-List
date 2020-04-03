@@ -87,7 +87,7 @@
 - https://github.com/threedr3am/learnjavabug    //java.Java安全相关的漏洞和技术demo
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //JAVA.枚举测试Java RMI（远程调用服务）安全
-- https://github.com/joaomatosf/jexboss    //PY.JBoss和其他java序列化漏洞验证
+- https://github.com/joaomatosf/jexboss    //PY.扫描和检测Jboss中可能存在多个安全漏洞。
 - https://github.com/frohoff/ysoserial    //java.用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html 转化java加密指令;
 - https://github.com/quentinhardy/jndiat    //JAVA.Java类名/目录接口/数据库审计检测
 - https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
@@ -103,13 +103,15 @@
 - https://github.com/brianwrf/hackUtils    //PY.Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
+#### tomcat相关漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行
+- https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取/包含漏洞
 #### Weblogic相关漏洞
 - https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3,支持2019
-- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传），CVE-2019-2729（XML反序列化rce命令执行）检测
-- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence
+- https://github.com/dr0op/WeblogicScan    //PY3.weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
+- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化命令执行，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
@@ -171,8 +173,6 @@
 ### Office漏洞收集
 - https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
-- https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
-- https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
 - https://github.com/thom-s/docx-embeddedhtml-injection    //word2016，滥用Word联机视频特征执行恶意代码poc
 - https://blog.cymulate.com/abusing-microsoft-office-online-video    //word2016，滥用Word联机视频特征执行恶意代码介绍
 - http://www.freebuf.com/articles/terminal/150285.html    //无需开启宏即可在word文档中利用DDE（动态数据交换机制Dynamic Data Exchange）执行命令。G:0xdeadbeefJERKY/Office-DDE-Payloads;
@@ -214,7 +214,7 @@
 - Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;。goodjob。
+- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;。goodjob。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
 - https://github.com/51x/WHP    //windows下各种提权与利用工具
