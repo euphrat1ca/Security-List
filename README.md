@@ -1061,7 +1061,7 @@ W:ns4gov.000webhostapp.com;
 - https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
-- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
