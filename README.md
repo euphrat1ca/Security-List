@@ -65,6 +65,7 @@
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
 - https://github.com/Hygieia/Hygieia    //JS.Capitalone银行开源的DevOps利器
 - https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:snyk/snyk;
+- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //秦波：大型互联网应用安全SDL体系建设实践
 ### 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html    //FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/    //卡巴斯基(Kaspersky)的“网络实时地图”
@@ -183,7 +184,7 @@
 ### 勒索病毒
 - https://github.com/jiansiting/Decryption-Tools    //勒索病毒解决方案汇总
 - https://www.nomoreransom.org    //在线勒索病毒解决方案
-## 攻防技术资源
+## 攻防技术资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;
 - https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程
@@ -198,12 +199,12 @@
 - https://github.com/jshaw87/Cheatsheets    //渗透测试/安全秘籍/笔记
 - http://www.pentest-standard.org/index.php/Pre-engagement    //渗透测试标准-渗透项目实施前的互动。项目实施前
 - https://github.com/r35tart/Penetration_Testing_Case    //攻防测试案例
-### 社工综合利用
+### 学习社工综合利用
 - https://www.freebuf.com/articles/102500.html    //黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
 - https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan
 - https://github.com/shegongbook/shegonganli    //社工案例
-### Web漏洞攻防
+### 学习Web漏洞攻防
 - https://portswigger.net/web-security    //burpsuite官方web安全材料与实验室。testjob。
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    //Web安全学习笔记
@@ -211,7 +212,7 @@
 - https://github.com/qazbnm456/awesome-web-security    //Web安全资料和资源列表
 - https://www.lynda.com/JavaScript-tutorials/What-server-side-JavaScript-injection-SSJI/797717/5025838-4.html    //SSJI服务的JavaScript注入
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //SSJI服务的JavaScript注入
-### 内网安全后渗透
+### 学习内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记。配合域环境。goodjob。
@@ -832,7 +833,8 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
 - https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
-- https://github.com/k8gege/Ladon    //C#.大型内网渗透扫描器&Cobalt Strike
+- https://github.com/k8gege/Ladon    //C#.大型内网渗透扫描器&Cobalt Strike。k8gege
+- https://github.com/llamasoft/polyshell    //利用脚本模板
 ## 横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C.Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
@@ -1057,6 +1059,7 @@ W:ns4gov.000webhostapp.com;
 - https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -1150,14 +1153,14 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似于大菠萝
 - https://github.com/SYWorks/waidps    //PY.Linux下WiFi网络安全预警工具。
-## 硬件安全物理设备
+## 近源渗透
 - https://shop.hak5.org/    //硬件设备商店。G:hak5 模块、payloads;
 - EMP干扰器 usbkiller 特斯拉线圈电源 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
-- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //USBKiller电子杀手
+- https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //intro.USBKiller电子杀手
 - https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
 - https://github.com/samratashok/Kautilya    //PS.为人机接口设备提供各种有效负载的工具包
-- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码。利用recovery对.key文件进行绕过
+- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对.key文件进行绕过
 - https://github.com/knownsec/gsm    //GO.使用树莓派配合硬件来进行短信转发
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络
 ### 硬件无线安全
@@ -1170,7 +1173,7 @@ W:ns4gov.000webhostapp.com;
 ### 物理设备BadUsb/HID
 - https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //badusb防御
 - https://github.com/0katz/CVE-2019-12476    //JS.HID绕过win10登录界面，利用浏览器调用powershell
-- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线
+- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线。G:HackusbCN/HackUSB-Payload;
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写
 - https://www.cnblogs.com/k1two2/p/7083159.html    //C.基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;

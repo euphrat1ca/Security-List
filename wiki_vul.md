@@ -1,7 +1,7 @@
 # 漏洞收集
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/offensive-security/exploitdb-bin-sploits    //exploit db编译好的漏洞执行文件
-- https://github.com/HacTF/poc--exp    //常用渗透poc收集
+- https://github.com/HacTF/poc--exp    //常用渗透poc收集。G:DrunkenShells/Disclosures;
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 - https://github.com/Lcys/Python_PoC    //py3.poc、exp快速编写模板，有众多模范版本
 - https://github.com/coffeehb/Some-PoC-oR-ExP    //各种漏洞poc、Exp的收集或编写
