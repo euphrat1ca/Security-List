@@ -182,6 +182,7 @@
 - https://github.com/baronpan/SysmonHunter    //JS.针对att&ck对sysmon日志进行分析展示
 - https://github.com/zhanghaoyil/Hawk-I    //PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
 - https://github.com/JPCERTCC/LogonTracer    //PY.日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;。
+- https://gitee.com/524831546/xlog/    //GO.web访问日志分析工具,可以分析nginx、resin ,tomcat,apache访问日志，然后对访问的ip，流量，响应时间，状态码，URI，浏览器，爬虫进行详细全面的分析展示。
 ### 勒索病毒
 - https://github.com/jiansiting/Decryption-Tools    //勒索病毒解决方案汇总
 - https://www.nomoreransom.org    //在线勒索病毒解决方案
@@ -1072,7 +1073,8 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/ufrisk/MemProcFS    //C.以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
 - https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
-- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;
+- https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
+;
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
 - https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
