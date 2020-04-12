@@ -217,13 +217,13 @@
 ### 学习内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
-- https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记。配合域环境。goodjob。
-- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。公众号：域渗透 | Kerberos攻击速查表
+- https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
+- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]，黄金票据/白银票据。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;
+- https://daiker.gitbook.io/windows-protocol    //本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;。
-- https://daiker.gitbook.io/windows-protocol    //本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。W:彻底理解Windows认证 - 议题解读;。
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 ## 漏洞挖掘复现分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
@@ -521,7 +521,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/txthinking/brook    //GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
-- https://github.com/v2ray    //GO.多协议代理
+- https://github.com/v2ray/v2ray-core    //GO.多协议代理。G:2dust/v2rayN;。
 - https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网
 - https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，替代方案proxifier。
@@ -529,7 +529,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://www.psiphon3.com    //开源赛风超越边界代理
 - https://hide.me    //npv可试用
 - https://windscribe.com    //npv可试用
-- https://mono.sh    //飞机场
+- https://mono.sh    //飞机场.mymonocloud
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
 # 开源情报数据源分析
@@ -1280,6 +1280,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/Brucetg/App_Security    //App安全学习资源
 - https://github.com/OWASP/owasp-mstg    OWASP Mobile Security Testing Guide移动安全测试资源
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    //软件自动化审计框架，支持docker运行。android、ios、win
+- https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/    //PY.Runtime Mobile Security (RMS) 移动端动态测试
 - https://github.com/mwrlabs/drozer    //PY.MWR Labs开源Android 安全测试框架，支持编写自定义模块。
 - https://github.com/nccgroup/house    //JS,PY.运行时手机 App 分析工具包， 带Web GUI
 ### 移动端渗透测试框架

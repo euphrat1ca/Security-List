@@ -150,13 +150,13 @@
 - https://github.com/smgorelik/Windows-RCE-exploits    //windows命令执行RCE漏洞POC样本，分为web与文件两种形式
 - https://github.com/3gstudent/CVE-2017-8464-EXP    //CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/Lz1y/CVE-2018-8420    //Windows的msxml解析器漏洞可以通过ie或vbs执行后门
-- https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:freebuf.com/vuls/147793.html
+- https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:freebuf.com/vuls/147793.html;
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
-- https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门
+- https://github.com/Ridter/RTF_11882_0802    //PY.利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
 - https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;
-- https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写
+- https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
 ### Exchange漏洞与利用手段
-- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。枚举；钓鱼；pth；猕猴桃抓明文、生成挑战值；劫持；提权
+- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。枚举；钓鱼；pth；猕猴桃抓明文、生成挑战值；劫持；提权；
 - https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法。自动发现服务暴破；规则和通知功能getshell；邮件内容检索；NTLM Relay。W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/ 利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控;
 - https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    //APT34针对exchange的电子邮件爆破劫持工具
 #### Exchange提权利用
