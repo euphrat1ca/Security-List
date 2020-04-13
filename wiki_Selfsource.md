@@ -31,6 +31,8 @@
 - https://github.com/peterq/pan-light    //GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+### 数据可视化
+- https://flourish.studio/    //图表在线展示。W:finereport.com;
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
@@ -40,8 +42,8 @@
 - https://www.draw.io    //在线思维导图/流程图
 - https://www.remove.bg/api    //在线抠图。api
 - https://www.photopea.com/    //在线ps
-- http://edit.foxitcloud.cn/    //在线pdf编辑
-- https://www.pdfpai.com/    //在线pdf转换
+- http:///    //在线pdf编辑
+- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;
 - http://www.alltoall.net/    //在线格式转换
 ### 搜索引擎
 - https://www.dogedoge.com/    //多吉搜索

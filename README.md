@@ -219,7 +219,7 @@
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
 - https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]，黄金票据/白银票据。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;
-- https://daiker.gitbook.io/windows-protocol    //本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
+- https://daiker.gitbook.io/windows-protocol    //内网域基础协议分析系列文章。本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
@@ -396,16 +396,17 @@
 - https://github.com/unknownv2/CoreHook    //C#.基于.NET Core运行时实现的Windows HOOK库
 - https://github.com/boy-hack/hack-requests    //PY3.python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
-## 相关拓展工具插件
+## 拓展插件相关工具
 ### 菜刀相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js.免杀webshell无限生成工具蚁剑版
 - https://github.com/Ch1ngg/CaidaoMitmProxy    //PY3.基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。
 - https://github.com/ekgg/Caidao-AES-Version    //Burp插件.用AES算法透明加密菜刀的http数据流
-### burpsuit相关拓展工具插件
+### burpsuit拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_burpsuite.md/    //burpsuite插件收集.mywiki
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
-### CobaltStrike相关拓展工具插件
+- https://github.com/lilifengcode/Burpsuite-Plugins-Usage    //burp插件使用介绍
+### CobaltStrike拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Cobaltstrike.md/    //cobaltstrike插件收集.mywiki
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
@@ -415,17 +416,17 @@
 - https://github.com/secforce/sparta    //PY.界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    //PY2.simple，联动kali下工具，漏洞扫描工具
 - https://github.com/baguswiratmaadi/reverie    //BASH.ParrotSecOs联动工具
-### Nessus相关拓展工具插件
+### Nessus拓展插件相关工具
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    //扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
-### awvs相关拓展工具插件
+### awvs拓展插件相关工具
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS.awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //PY.Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //PY.调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
-### sqlmap相关拓展工具插件
+### sqlmap拓展插件相关工具
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //PY2.WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
@@ -437,7 +438,7 @@
 - https://github.com/zt2/sqli-hunter    //基于sqlmapapi，ruby编写的漏洞代理型检测工具
 - https://github.com/jesuiscamille/AutoSQLi    //利用DorkNet，Googler， Ddgr， WhatWaf 和 sqlmap自动注入
 - 公众号：记一次渗透棋牌APP实录    //利用sqlmap --technique S --os-shell栈查询(stack queries)进行命令执行
-### nmap相关拓展工具插件
+### nmap拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //BASH.联动masscan和nmap
@@ -459,7 +460,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //PY.cloudflare基于nmap开发的漏洞检测工具
-### metasploit相关拓展工具插件
+### metasploit拓展插件相关工具
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    //结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    //一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    //等待msf的session，并自动提为域管理
@@ -472,7 +473,7 @@
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //metasploit的GUI界面，强化Windows下支持
 - https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。testjob.
-### Empire相关拓展工具插件
+### Empire拓展插件相关工具
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面
 - https://github.com/interference-security/empire-web    //empire的web界面
@@ -1616,7 +1617,7 @@ W:ns4gov.000webhostapp.com;
 ## 沙盒检测恶意样本分析
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
 - https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
-- https://www.sandboxie.com    //基于转换存储的沙盒。社区版。
+- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
 - https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
 ### 恶意软件/文件样本数据
 - https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
