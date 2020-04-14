@@ -42,8 +42,7 @@
 - https://www.draw.io    //在线思维导图/流程图
 - https://www.remove.bg/api    //在线抠图。api
 - https://www.photopea.com/    //在线ps
-- http:///    //在线pdf编辑
-- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;
+- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;。
 - http://www.alltoall.net/    //在线格式转换
 ### 搜索引擎
 - https://www.dogedoge.com/    //多吉搜索
@@ -124,9 +123,6 @@
 - https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
 - https://gitea.io/zh-cn/    //GO.轻量级代码托管/git代码管理解决方案.G:go-gitea/gitea;.
 ### 文档处理
-- https://smallpdf.com/    //
-- http://pdftoword.55.la/    //
-- https://pdf.wondershare.com/    //pdf2ppt
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用

@@ -14,7 +14,8 @@
 - https://github.com/rjpcomputing/luaforwindows/    //Lua.Windows下的lua编辑器
 - https://github.com/s4n7h0/Halcyon/    //Java. IDE for Nmap Script NSE编辑器
 ### golang开发
-- https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/,
+- https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/。
+- https://goproxy.io/zh/    //goroxy，加载国内库源快速。W:https://goproxy.cn/;
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
