@@ -218,7 +218,7 @@
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
-- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]，黄金票据/白银票据。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;
+- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;P:Kerberos的白银票据详解/Kerberos的黄金票据详解;。
 - https://daiker.gitbook.io/windows-protocol    //内网域基础协议分析系列文章。本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
@@ -510,7 +510,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/zerotier    //C++.网络虚拟化平台云自组网
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
-- https://www.wireguard.com/install/    //新一代npv协议
+- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;。
 - https://github.com/teddysun/shadowsocks_install    //shadowsocks/shadowsocksr
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https等多种代理
 - https://github.com/shadowsocks/shadowsocks-manager    //shadowsocks多用户管理
@@ -719,7 +719,8 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
 - https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
 - https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
-- https://github.com/timwhitez/crawlergo_x_XRAY    //PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫联动，相同还可以使用awvs等。
+- https://github.com/ox01024/Xray_and_crwlergo_in_server    //PY.PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动。相同还可以使用awvs爬虫功能等。
+G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner，官网x.hacking8.com。G:netxfly/passive_scan;
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
@@ -1404,6 +1405,7 @@ W:ns4gov.000webhostapp.com;
 - http://www.tcpdump.org    //网络数据包截获分析
 - http://lcamtuf.coredump.cx/p0f3    //C.p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
+- https://github.com/brimsec/brim    //JS.结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。testjob。
 - https://github.com/0x4D31/fatt    //PY.利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //GO.轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
@@ -1517,6 +1519,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //INTRO.规避Sysmon DNS监控
+- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 ### 真实IP信息获取
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
@@ -1580,9 +1583,10 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
 - https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
 - https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
-### 恶意软件/文件样本数据
+### 软件/文件样本数据
 - https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSample.md/    //恶意样本数据源收集库。myWiki
+- https://github.com/gh0stkey/avList    //杀软进程对应杀软名称
 ### 在线文件检测
 - https://app.any.run/    //可视化在线恶意文件检测。包含流行恶意文件样本
 - https://habo.qq.com    //在线恶意文件检测
