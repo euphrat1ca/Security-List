@@ -261,13 +261,12 @@
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
+- https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:Medicean/VulApps;G:c0ny1/vulstudy;
 - http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:从外网到域控（vulnstack靶机实战）;
-- https://github.com/Medicean/VulApps    //收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
-- https://github.com/c0ny1/vulstudy    //使用docker快速搭建dvwa等各大漏洞学习平台
+- https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://github.com/bingohuang/docker-labs    //制作在线docker平台
 ### 离线靶场学习
 - https://www.soteria-int.com/    //西班牙游戏竞技模拟平台CYWARIA安全靶场，商业。
-- https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://github.com/WebGoat/WebGoat    //JAVA.一键jar包web安全实验靶场
 - https://github.com/Audi-1/sqli-labs    //PHP.基于SQLite的sql注入学习靶场
 - https://github.com/lcamry/sqli-labs    //INTRO.通过sqli-labs演示mysql相关的注入手法
@@ -654,7 +653,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/fnk0c/cangibrina    //通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器
 - https://github.com/Go0s/SitePathScan    //基于协程的目录路径爆破工具，配合aiohttp扫描路径比之前快了三倍有余
 - https://github.com/0daysec/webscan_dir    //PY.轻量级web目录扫描器，支持选择字典和过滤状态码
-- https://github.com/lijiejie/BBScan    //PY.网站信息泄漏批量扫描脚本
+- https://github.com/lijiejie/BBScan    //PY.网站信息泄漏批量扫描脚本。GOODJOB。
 - https://github.com/jerrychan807/WSPIH    //PY3.敏感文件路径扫描下载
 - https://github.com/aipengjie/sensitivefilescan    //PY2.网站敏感文件扫描工具
 - https://github.com/Mosuan/FileScan    //PY.网站敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
@@ -1079,7 +1078,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
 ;G:rek7/dll-hijacking;。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell，CS插件。
 - https://github.com/gianlucaborello/libprocesshider    //C.利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
 - https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;

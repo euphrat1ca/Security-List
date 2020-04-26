@@ -24,6 +24,5 @@
 - https://github.com/gloxec/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 - https://github.com/darkr4y/geacon    //GO.macos系统beacon上线
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除
-- https://github.com/mdsecactivebreach/RDPInception/    //RDP劫持注入，mstsc 反向攻击
 ### 提权漏洞利用
 - https://github.com/rsmudge/ElevateKit/    //PS.cna插件，CS利用第三方模块提权
