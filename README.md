@@ -286,7 +286,7 @@
 - http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
 - https://github.com/78778443/permeate    //php.常见漏洞靶场
-- https://github.com/gh0stkey/DoraBox    //php.常见漏洞靶场
+- https://github.com/gh0stkey/DoraBox    //php.多拉基础Web漏洞训练靶场。noupdate。
 - https://github.com/stamparm/DSVW    //PY2.常见漏洞靶场
 - https://github.com/amolnaik4/bodhi    //PY.常见漏洞靶场
 - https://github.com/Safflower/Solve-Me    //php.韩国一个偏代码审计的ctf靶场源码
@@ -491,7 +491,7 @@
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
 - https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
 - https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
-- https://github.com/Dliv3/Venom    //GO.类似于于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具
+- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;
 - https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
 ### 端口复用
 https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
@@ -563,7 +563,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //PY.企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts
-- https://github.com/shmilylty/OneForAll    //py3.子域收集工具，多接口，协程爆破。
+- https://github.com/shmilylty/OneForAll    //py3.子域收集工具，多接口/爆破/验证/接管。testjob。
 - https://github.com/michenriksen/aquatone    //GO.子域名枚举、探测工具。可用于子域名接管漏洞探测
 - https://github.com/guelfoweb/knock    //PY.通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/blechschmidt/massdns    //C.通过DNS高效子域发现工具
@@ -1003,6 +1003,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/islamTaha12/Python-Rootkit    //PY.windows下rootkit远控，反弹meterpreter
 - https://github.com/mhaskar/Linux-Root-Kit    //PY.simple。linux简单rootkit
 - https://github.com/PinkP4nther/Sutekh    //C.rootkit使普通用户获取root shell
+- https://github.com/sameera-madushan/Print-My-Shell    //PY.多种反向shell生成
 ## 后门免杀混淆
 - https://github.com/TideSec/BypassAntiVirus    //公众号：远控免杀专题(52)。goodjob。
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
@@ -1079,7 +1080,7 @@ G:timwhitez/crawlergo_x_XRAY;
 ;G:rek7/dll-hijacking;。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell
-- https://github.com/gianlucaborello/libprocesshider    //C.利用 LD_PRELOAD 来实现系统函数的劫持，在linux 下隐藏进程
+- https://github.com/gianlucaborello/libprocesshider    //C.利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
 - https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL。需要重启；
@@ -1249,6 +1250,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类.
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
+- 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //系列
 - https://www.freebuf.com/ics-articles    //工控相关文章。P:工控十大网络攻击武器分析报告;
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
@@ -1403,6 +1405,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
 - https://github.com/wireshark/wireshark    //LUA.议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - http://www.tcpdump.org    //网络数据包截获分析
+- https://github.com/didi/sharingan    //GO.流量录制，流量重放。testjob。
 - http://lcamtuf.coredump.cx/p0f3    //C.p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++.bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
 - https://github.com/brimsec/brim    //JS.结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。testjob。
@@ -1511,6 +1514,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;
 - https://github.com/Janusec/janusec    //Golang.应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/qq4108863/himqtt/    //C.物联网epoll高并发防火墙
+- https://github.com/koangel/grapeSQLI    //go.基于libinjection的Sql inject & XSS分析程序。
 ## Bypass安全防护绕过
 - https://github.com/AMOSSYS/Fragscapy    //PY.防火墙fuzz绕过bypass
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本

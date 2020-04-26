@@ -17,25 +17,30 @@
 - https://github.com/anx1ang/Poc_Pentest    //web_cms_exp
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架
 - https://github.com/chuhades/CMS-Exploit-Framework    //CMS攻击框架
-- https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits
-- https://github.com/Tuhinshubhra/CMSeeK    //PY.WordPress,JOOMLA,DRUPAL等170余种CMS扫描识别检测。
-- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描
-- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具。G:shadowlabscc/ProjectOpal;G:swisskyrepo/Wordpresscan;G:m4ll0k/WPSeku;
-- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
-- https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
-- https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
-- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE， SA-CORE-2019-003， CVE-2019-6340
-- https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
-- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
-- https://github.com/rezasp/joomscan    //PERL.基于OWASP的Joomla检测利用
-- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
-- https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
-- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。goodjob.
+- https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits。welljob。
+- https://github.com/Tuhinshubhra/CMSeeK    //PY.WordPress,JOOMLA,DRUPAL等170余种CMS扫描识别检测。welljob。
+- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描.NoUpdate。welljob。
+- https://github.com/ajinabraham/NodeJsScan    //PY.NodeJS应用安全测试审计，查询可利用接口，WebUI。
 - https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
 - https://github.com/irsdl/IIS-ShortName-Scanner    //JAVA.IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
+### thinkphp漏洞
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
+- https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
+### joomla漏洞
+- https://github.com/momika233/Joomla-3.4.6-RCE    //PY.joomla rce
+- https://github.com/rezasp/joomscan    //PERL.基于OWASP的Joomla检测利用
+### wordpress漏洞
+- https://github.com/wpscanteam/wpscan    //RUBY.wordpress漏洞扫描工具。G:shadowlabscc/ProjectOpal;G:swisskyrepo/Wordpresscan;G:m4ll0k/WPSeku;
+- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
+- https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
+- https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
+### Drupal漏洞
+- https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600/SA-CORE-2018-002 Drupal7.x 版本代码执行
+- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE/SA-CORE-2019-003/CVE-2019-6340
+- https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
 ### Discuz漏洞
 - https://paper.seebug.org/1144/    //Discuz X3以后漏洞总结
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
@@ -214,9 +219,9 @@
 - Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost 任意命令执行提权漏洞。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;。goodjob。
+- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;。goodjob。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
-- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合
+- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。kerberos域控ms14‐068/
 - https://github.com/51x/WHP    //windows下各种提权与利用工具
 - https://github.com/taviso/ctftool/    //C.利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权
@@ -229,6 +234,5 @@
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权
 - https://github.com/euphrat1ca/ms15-051    //C++.Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
 - https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058
-- https://github.com/unamer/CVE-2018-8120    //影响Win32k组件，针对win7和win2008提权
-- https://github.com/alpha1ab/CVE-2018-8120    //在win7与win2k8的基础上增加了winXP与win2k3
+- https://github.com/alpha1ab/CVE-2018-8120    //在win7与win2k8的基础上增加了winXP与win2k3。G:unamer/CVE-2018-8120;
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面

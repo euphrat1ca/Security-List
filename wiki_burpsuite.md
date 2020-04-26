@@ -11,3 +11,4 @@
 - https://github.com/ztosec/secscan-authcheck    //java.越权漏洞检测，支持web界面配置。Github:portswigger/authz
 - https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描 api key/tokens
 - https://github.com/TheKingOfDuck/burpFakeIP    //PY.IP修改伪造
+- https://github.com/c0ny1/sqlmap4burp-plus-plus    //sqlmap4burp++是一款多个系统平台的Burp与sqlmap联动插件
