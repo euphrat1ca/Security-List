@@ -227,8 +227,9 @@
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权
 - https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升，win server 2016-2019提权
 - https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225；烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权。
-- https://github.com/CCob/SweetPotato    //C#.RottenPotatoNG变种，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。G:ohpe/juicy-potato;。
 - https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:foxglovesec/Potato;。
+- https://github.com/CCob/SweetPotato    //C#.RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。G:ohpe/juicy-potato;。
+- https://github.com/uknowsec/SweetPotato    //C#.烂土豆webshell执行版本
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权

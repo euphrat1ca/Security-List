@@ -152,6 +152,7 @@
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //PY.MacOS安全性基线
+- https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 。基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置
 ### 安全服务checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
@@ -761,7 +762,17 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/ywolf/F-MiddlewareScan    //中间件扫描服务识别
 - https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
-### 密码破解证书校验口令扫描
+### 加解密保护密码学混淆
+- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
+- https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
+- https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
+- https://github.com/veracrypt/VeraCrypt    //C.2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
+- https://github.com/AlkenePan/KAP    //GO.实现 ELF 文件保护
+### 口令扫描爆破证书校验
 - https://github.com/vanhauser-thc/thc-hydra    //C.支持多种协议方式的破解与爆破
 - https://github.com/maaaaz/thc-hydra-windows    //C.hydra的windows编译版本
 - https://github.com/galkan/crowbar    //PY.支持openvpn、rdp、ssh、vnc破解
@@ -779,27 +790,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
 - https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
 - https://github.com/shengqi158/weak_password_detect    //NMAP.Linux下多线程探测ssh弱口令
-### 加解密保护密码学混淆
-- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
-- https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
-- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
-- https://github.com/3summer/CTF-RSA-tool    //PY2.ctf rsa套路
-- https://github.com/veracrypt/VeraCrypt    //C.2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
-- https://github.com/AlkenePan/KAP    //GO.实现 ELF 文件保护
-### 在线密码破解
-- https://www.cmd5.com/    //HASH密码在线破解。限制位数
-- https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
-- http://hashtoolkit.com    //HASH密码在线破解。社区版
-- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    //md5密码破解。社区版。
-- https://md5.gromweb.com/?md5=    //md5密码破解。社区版
-- http://www.chamd5.org    //md5密码破解。需要登录
-- http://www.xmd5.org    //md5密码破解。需要登录
-- http://pmd5.com    //md5密码破解。需要验证码
-- https://www.onlinehashcrack.com    //md5密码破解。需要验证码
-### 密码破解还原
+### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C.使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
 - https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具
@@ -822,6 +813,17 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
 - https://github.com/psypanda/hashID    //PY.对超过220种hash识别。使用'hash'
 - https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //PY2.对超过160种hash识别。
+- https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS.WebLogic密码破解
+### 在线密码破解
+- https://www.cmd5.com/    //HASH密码在线破解。限制位数
+- https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
+- http://hashtoolkit.com    //HASH密码在线破解。社区版
+- http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    //md5密码破解。社区版。
+- https://md5.gromweb.com/?md5=    //md5密码破解。社区版
+- http://www.chamd5.org    //md5密码破解。需要登录
+- http://www.xmd5.org    //md5密码破解。需要登录
+- http://pmd5.com    //md5密码破解。需要验证码
+- https://www.onlinehashcrack.com    //md5密码破解。需要验证码
 # 后渗透拓展利用
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
@@ -863,6 +865,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/eladshamir/Internal-Monologue    //C#.无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/byt3bl33d3r/pth-toolkit    //PY.PTH(Pass The Hash)传递，wmi移动
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）
+- https://github.com/QAX-A-Team/sharpwmi    //C#.基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 ### 横向移动密码抓取
 - https://github.com/0x09AL/RdpThief    //C++.RDP密码抓取明文。G:citronneur/rdpy;
 - https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
@@ -1006,7 +1009,7 @@ G:timwhitez/crawlergo_x_XRAY;
 ## 后门免杀混淆
 - https://github.com/TideSec/BypassAntiVirus    //公众号：远控免杀专题(52)。goodjob。
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。1.5K。
-- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。welljob。
+- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。
 - https://github.com/MohamedNourTN/Terminator    //PY2.msf免杀
 - https://github.com/abedalqaderswedan1/aswcrypter    //py,bash.msf免杀
 - https://github.com/pasahitz/zirikatu    //msf免杀
@@ -1019,13 +1022,26 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/4w4k3/Insanity-Framework    //PY.生成免杀payload，识别虚拟机，钓鱼，内存注入等
 - https://github.com/trustedsec/unicorn    //PY.一键生成多种后门
 - https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
+### shellcode相关
+- https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
+- https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY/C.通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C.以十六进制的方式执行shellcode，绕过杀软。
+- https://github.com/clinicallyinane/shellcode_launcher/    //C++.加载shellcode方式的payload到内存
+- https://github.com/Zer0Mem0ry/RunPE    //C++.通过内存读取，网络传输内容，利用PE执行shellcode
+- https://github.com/brimstone/go-shellcode    //GO.加载载荷到内存
+- https://github.com/TheWover/donut    //C.将.Net程序集生成shellcode并以内存的形式加载运行
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
+- https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
+- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;
+### Windows混淆免杀
+- https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool.配合http协议格式绕过
+- https://github.com/OmerYa/Invisi-Shell    //对powershell文件进行混淆
+- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码
 - https://github.com/pasahitz/regsvr32    //C#.使用C#+Empire实现最小体积免杀后门
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher
 - https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS.基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //基于DotNetToJScript使用js、vbs生成恶意payload
-- https://github.com/OmerYa/Invisi-Shell    //对powershell文件进行混淆
-- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码
-- https://github.com/danielbohannon/Invoke-Obfuscation    //对powershell文件进行混淆，加密操作以及重新编码
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA.宏混淆，其中还包括AV/Sandboxes逃避机制
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写
 ### 劫持注入权限绕过
@@ -1043,18 +1059,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint 防护软件
 - https://github.com/Screetsec/Vegile    //SHELL/C.msf免杀，程序注入权限维持
-### shellcode相关
-- https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
-- https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY/C.通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
-- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C.以十六进制的方式执行shellcode，绕过杀软。
-- https://github.com/clinicallyinane/shellcode_launcher/    //C++.加载shellcode方式的payload到内存
-- https://github.com/Zer0Mem0ry/RunPE    //C++.通过内存读取，网络传输内容，利用PE执行shellcode
-- https://github.com/brimstone/go-shellcode    //GO.加载载荷到内存
-- https://github.com/TheWover/donut    //C.将.Net程序集生成shellcode并以内存的形式加载运行
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
-- https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
@@ -1078,7 +1082,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
 ;G:rek7/dll-hijacking;。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.rdp服务劫持，利用ps反弹shell，CS插件。
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT.基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/gianlucaborello/libprocesshider    //C.利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
 - https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;
@@ -1140,8 +1144,8 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.passcape.com    //wifipr，握手包密码还原，另外还有windows下密码还原工具。商业版。
 - https://github.com/MisterBianco/BoopSuite    //无线网络审计工具，支持2-5GHZ频段
 - https://github.com/aircrack-ng/aircrack-ng    //C.由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成。1k。
+- https://github.com/derv82/wifite2    //wifite无线审计工具升级版，联动aircrack-ng与reaver。
 - https://github.com/t6x/reaver-wps-fork-t6x    //wps跑pin码攻击，常见wifi攻击
-- https://github.com/derv82/wifite2    //wifite无线审计工具升级版，联动aircrack-ng与reaver
 - https://github.com/savio-code/fern-wifi-cracker    //无线安全审计工具
 - https://github.com/P0cL4bs/WiFi-Pumpkin    //无线安全渗透测试套件
 - https://github.com/entropy1337/infernal-twin    //自动化无线攻击工具Infernal-Wireless
@@ -1203,10 +1207,12 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
 - https://github.com/threat9/routersploit    //PY3.类msf物联网漏洞利用框架。
-- https://github.com/dhondta/dronesploit    //PY3.基于sploitkit无人机测试框架。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //PY.瑞士军刀类型IOT设备安全测试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫调试软件。tcp udp协议调试
+### 无人机
+- https://github.com/dhondta/dronesploit    //PY3.基于sploitkit无人机测试框架。
+- https://github.com/samyk/skyjack    //PERL.基于aircrack破解无人机无线网络，进行飞机劫持
 ### 设备固件安全
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
@@ -1598,35 +1604,29 @@ G:timwhitez/crawlergo_x_XRAY;
 - http://safe.ijiami.cn    //爱加密app安全移动软件在线检测
 - http://appscan.360.cn    //360移动app安全移动软件在线检测
 - https://service.security.tencent.com/kingkong    //腾讯金刚app安全移动软件在线检测
-### 恶意文件查杀
+### 文件查杀
 - https://www.freebuf.com/articles/network/139697.html    //intro.使用深度学习检测DGA（域名生成算法）
 - https://github.com/mwleeds/android-malware-analysis    //PY.利用机器学习进行恶意Android安卓应用检测
-- https://github.com/he1m4n6a/findWebshell    //PY.webshell检查工具，可添加后门指纹。
-- https://github.com/ym2011/ScanBackdoor    //一款简洁的Webshell扫描工具
-- https://github.com/erevus-cn/scan_webshell    //webshell扫描工具
-- https://github.com/yassineaddi/BackdoorMan    //可对指定目录进行php webshell检测
-- https://github.com/nbs-system/php-malware-finder    //一款高效率PHP-webshell扫描工具
-- https://github.com/emposha/PHP-Shell-Detector    //测试效率高达99%的webshell检测工具
 - https://github.com/chaitin/cloudwalker    //GO.CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
-- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描
+- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:he1m4n6a/findWebshell;G:ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:yassineaddi/BackdoorMan;G:nbs-system/php-malware-finder;G:emposha/PHP-Shell-Detector;G:nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;
+- https://github.com/KasperskyLab/klara    //卡巴斯基开源基于Yara的分布式恶意软件扫描系统，
+- https://github.com/botherder/kraken    //GO.实现的Yara恶意软件扫描器
+- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
+- https://github.com/nao-sec/tknk_scanner    //yara引擎为基础的恶意软件识别框架
+- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
 - http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
 - http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
 - http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
-- https://github.com/KasperskyLab/klara    //卡巴斯基开源基于Yara的分布式恶意软件扫描系统，
-- https://github.com/botherder/kraken    //GO.实现的Yara恶意软件扫描器
-- https://github.com/netxfly/sec_check 通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
-- https://github.com/nao-sec/tknk_scanner yara引擎为基础的恶意软件识别框架
-- https://github.com/viper-framework    //PY2.二进制分析和管理框架，对恶意文件进行分析
-- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
+- https://github.com/viper-framework    //PY2.二进制分析和管理框架
 - http://www.clamav.net/downloads    //病毒查杀软件
 - https://github.com/joxeankoret/pigaios    //直接对比源代码与编译的二进制文件
-- https://github.com/felixweyne/ProcessSpawnControl    //PS.对恶意程序进行检测与监控
 - https://github.com/sfaci/masc    //扫描网站中的恶意软件， 以及其他一些网站维护功能
 - https://github.com/Neo23x0/munin    //依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
 - https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
-- https://github.com/alexandreborges/malwoverview    //simple，将恶意文件进行快速分类
+- https://github.com/alexandreborges/malwoverview    //simple.将恶意文件进行快速分类
 - https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
-- https://github.com/target/strelka    //PY3.通过实时扫描文件进行分析和实时监测。
+- https://github.com/felixweyne/ProcessSpawnControl    //PS.对恶意程序进行检测与监控
+- https://github.com/target/strelka    //PY3.文件变化实时监控。
 ## 压力测试DDOS/CC/拒绝服务
 - https://github.com/ywjt/Dshield    //PY.DDOS防护
 - https://github.com/NewEraCracker/LOIC/    //C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
@@ -1644,6 +1644,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://defconpro.net    //#
 - https://vip-boot.xyz/login.php    //#
 - https://rocketstresser.com/login.php    //多协议，支持cdn测试
+- https://klionsec.github.io/2017/11/15/hping3/    //HPing3网络工具组包
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_FreeConnect.md/    //通讯工具技术相关.myWiki
 # wiki_Selfsource

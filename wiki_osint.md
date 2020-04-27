@@ -106,6 +106,7 @@
 ## 各国情报人员使用的部分开源情报（OSINT）工具
 ### 账号密码泄露
 - https://haveibeenpwned.com/    //电子邮件账号泄露
+- https://intelx.io/    //账号密码泄露
 ### 事实检测
 - https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
