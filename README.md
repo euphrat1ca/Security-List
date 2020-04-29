@@ -522,7 +522,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/txthinking/brook    //GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
-- https://github.com/v2ray/v2ray-core    //GO.多协议代理。G:2dust/v2rayN;。
+- https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;。
 - https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网
 - https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，替代方案proxifier。
@@ -1124,7 +1124,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/srsLTE/srsLTE    //C++.开源通讯基站系统.G:RangeNetworks/openbts;
 - https://unicorn.360.com/hackcube/    //360独角兽无线电安全研究院
 - http://www.right.com.cn/forum/    //恩山无线论坛
-### 通讯安全RFID/SDR/NFC
+### 通讯安全SDR/RFID/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    //信用卡信息盗取
 - https://github.com/xcicode/MifareOneTool   //C#.简称“M1T”，用于读卡和写卡，配合USB转TTL驱动。
@@ -1210,22 +1210,23 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //PY.瑞士军刀类型IOT设备安全测试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫调试软件。tcp udp协议调试
-### 无人机
+### 无人机安全
 - https://github.com/dhondta/dronesploit    //PY3.基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //PERL.基于aircrack破解无人机无线网络，进行飞机劫持
 ### 设备固件安全
-- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //绿盟：智能设备安全分析手册.pdf
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //绿盟：智能设备安全分析手册.pdf。
+- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
+- https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
+- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
+- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
+- https://github.com/chipsec/chipsec    //C.PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
 - https://github.com/firmadyne/firmadyne    //bash,PY.基于QEMU虚拟机的固件仿真与分析平台。testjob。
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy
 、Firmwalker组件。
-- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
-- https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
-- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
 - https://github.com/cwerling/psptool    //PY.分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件
@@ -1242,6 +1243,7 @@ G:timwhitez/crawlergo_x_XRAY;
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //PY.调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    //GO.针对摄像头RTSP协议渗透测试，附弱口令字典
+- https://github.com/JrDw0/rtspBruter    //PY.rtsp密码爆破
 - https://github.com/Ullaakut/camerattack    //GO.摄像头远程禁用
 - https://github.com/NIteshx2/UltimateSecurityCam    //PY3.摄像头监测外来人员软件，有防欺骗设置
 - http://www.dtxiaoting.com    //扫描连接的WiFi中摄像头存在情况
@@ -1490,7 +1492,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
 - http://edr.topsec.com.cn/    //天融信终端威胁防御系统
 ### NSM网络安全监控/入侵检测
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。
+- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。G:baidu-security/openrasp-iast //灰盒扫描工具;。testjob,1k。
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
 - https://github.com/snort3/snort3    //C++.snort知名NIDS网络入侵检测
 - https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules

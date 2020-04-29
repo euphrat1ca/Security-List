@@ -120,7 +120,8 @@
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/shack2/javaserializetools    //JAVA.Weblogic反序列化命令执行，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
-- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551） 漏洞
+- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
+- https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
 - https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
@@ -139,12 +140,13 @@
 - https://github.com/Frichetten/CVE-2019-5736-PoC    //GO.Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
-### 物联网路由工控漏洞收集
+## 物联网路由工控漏洞收集
 - https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
-- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
-- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
+- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
+- https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
+- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
 - https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
 ## 微软MS相关漏洞
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce 增加xp/03;
