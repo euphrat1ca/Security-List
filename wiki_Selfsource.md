@@ -13,7 +13,7 @@
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
-## 公开资源工具
+### 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
@@ -36,7 +36,7 @@
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
-### 在线编辑
+## 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
 - https://www.draw.io    //在线思维导图/流程图
@@ -44,6 +44,8 @@
 - https://www.photopea.com/    //在线ps
 - https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;。
 - http://www.alltoall.net/    //在线格式转换
+### 协同办公
+- https://shimo.im/    //石墨笔记，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
 ### 搜索引擎
 - https://www.dogedoge.com/    //多吉搜索
 - https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索

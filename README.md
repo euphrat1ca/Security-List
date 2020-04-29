@@ -1330,36 +1330,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    //CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
 ## 逆向安全分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ReverseAnalysis.md/    //逆向分析、反编译、破解。myWiki
-## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
-- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
-- down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
-- https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
-- https://github.com/draios/sysdig    //C++.系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
-- https://github.com/kkamagui/shadow-box-for-arm    //C/PY.ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
-- https://github.com/osquery/osquery    //C++.Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
-- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;
-- http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用。在解除占用时不会强制关闭占用文件进程
-### 程序调试进程管理
-- https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
-- http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
-- https://github.com/euphrat1ca/PeDoll    //C++.基于inlineHook技术的软件分析工具，C/S架构
-- https://github.com/everdox/InfinityHook    //C++.挂钩系统调用，上下文切换，页面错误等。
-### 系统日志相关
-- http://www.nirsoft.net/utils/computer_activity_view.html    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径
-- https://github.com/SwiftOnSecurity/sysmon-config    //Sysmon配置文件。系统进程监控，dns查询。
-### 系统注册表监控
-- https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处
-### 系统进程
-- https://bitsum.com/    系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
-- https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://github.com/processhacker/processhacker    //C.监控系统资源、内存以及模块信息、软件调试，管理进程
-- https://github.com/DominicBreuker/pspy    //GO.Linux下绕过root权限系统监控进程运行.GOODJOB.
-- https://github.com/rabbitstack/fibratus    //PY.能够捕捉到绝大多数的Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等。
-- https://github.com/open-falcon    //GO/PY.Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
-### 系统文件
-- https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
-- http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 # 数字取证
 - http://xlysoft.net/    //SalvationDATA（效率源）取证工具
 - https://github.com/alphaSeclab/awesome-forensics    //取证相关工具和文章。收集的所有开源工具: sec-tool-list;逆向资源: awesome-reverse-engineering;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;
@@ -1462,6 +1432,74 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/Gallopsled/pwntools    //PY.pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    //PY.pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //PY.pwn，自动攻击脚本
+## 系统监控管理
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
+- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
+- down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
+- https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
+- https://github.com/draios/sysdig    //C++.系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
+- https://github.com/kkamagui/shadow-box-for-arm    //C/PY.ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
+- https://github.com/osquery/osquery    //C++.Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
+- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;
+- http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用。在解除占用时不会强制关闭占用文件进程
+### 程序调试进程管理
+- https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
+- http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
+- https://github.com/euphrat1ca/PeDoll    //C++.基于inlineHook技术的软件分析工具，C/S架构
+- https://github.com/everdox/InfinityHook    //C++.挂钩系统调用，上下文切换，页面错误等。
+### 系统日志相关
+- http://www.nirsoft.net/utils/computer_activity_view.html    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径
+- https://github.com/SwiftOnSecurity/sysmon-config    //Sysmon配置文件。系统进程监控，dns查询。
+### 系统注册表监控
+- https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处
+### 系统进程
+- https://bitsum.com/    系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
+- https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
+- https://github.com/open-falcon    //GO/PY.Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
+- https://github.com/processhacker/processhacker    //C.监控系统资源、内存以及模块信息、软件调试，管理进程
+- https://github.com/DominicBreuker/pspy    //GO.Linux非root权限，系统进程命令运行监控.GOODJOB.
+- https://github.com/rabbitstack/fibratus    //PY.对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
+### 系统文件监控
+- https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
+- http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
+- https://github.com/target/strelka    //PY3.文件变化实时监控。
+## 恶意样本分析沙盒检测
+- https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
+- https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
+- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
+- https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
+### 软件/文件样本数据
+- https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSample.md/    //恶意样本数据源收集库。myWiki
+- https://github.com/gh0stkey/avList    //杀软进程对应杀软名称
+### 在线文件检测
+- https://app.any.run/    //可视化在线恶意文件检测。包含流行恶意文件样本
+- https://habo.qq.com    //在线恶意文件检测
+- http://r.virscan.org/    //在线杀毒
+- https://www.appscan.io    //盘古app安全移动软件在线检测
+- http://safe.ijiami.cn    //爱加密app安全移动软件在线检测
+- http://appscan.360.cn    //360移动app安全移动软件在线检测
+- https://service.security.tencent.com/kingkong    //腾讯金刚app安全移动软件在线检测
+### 文件查杀
+- https://www.freebuf.com/articles/network/139697.html    //intro.使用深度学习检测DGA（域名生成算法）
+- https://github.com/mwleeds/android-malware-analysis    //PY.利用机器学习进行恶意Android安卓应用检测
+- https://github.com/chaitin/cloudwalker    //GO.CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
+- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:he1m4n6a/findWebshell;G:ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:yassineaddi/BackdoorMan;G:nbs-system/php-malware-finder;G:emposha/PHP-Shell-Detector;G:nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;
+- https://github.com/KasperskyLab/klara    //卡巴斯基开源基于Yara的分布式恶意软件扫描系统，
+- https://github.com/botherder/kraken    //GO.实现的Yara恶意软件扫描器
+- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
+- https://github.com/nao-sec/tknk_scanner    //yara引擎为基础的恶意软件识别框架
+- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
+- http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
+- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
+- http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
+- https://github.com/viper-framework    //PY2.二进制分析和管理框架
+- http://www.clamav.net/downloads    //病毒查杀软件
+- https://github.com/joxeankoret/pigaios    //直接对比源代码与编译的二进制文件
+- https://github.com/sfaci/masc    //扫描网站中的恶意软件， 以及其他一些网站维护功能
+- https://github.com/Neo23x0/munin    //依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
+- https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
+- https://github.com/alexandreborges/malwoverview    //simple.将恶意文件进行快速分类
 # 安全体系防护相关
 - https://github.com/Bypass007/Safety-Project-Collection    //收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
 - https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
@@ -1480,7 +1518,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/tmobile/pacbot    //JAVA.云平台自动化安全监控工具
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
 - https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-- https://github.com/ossec/ossec-hids    //C.开源hids（主机入侵检测）堡垒机
 ## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
@@ -1488,9 +1525,12 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://bithack.io/forum/161    //intro.如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
 - https://github.com/chaitin/yanshi    //C++.长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 - https://github.com/0Kee-Team/WatchAD    //PY.360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
+- https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
+- https://github.com/ossec/ossec-hids    //C.开源hids（主机入侵检测）堡垒
 ### EDR终端主机防护
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
 - http://edr.topsec.com.cn/    //天融信终端威胁防御系统
+- https://github.com/felixweyne/ProcessSpawnControl    //PS.对恶意程序进行检测与监控
 ### NSM网络安全监控/入侵检测
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。G:baidu-security/openrasp-iast //灰盒扫描工具;。testjob,1k。
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
@@ -1589,46 +1629,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/python-security/pyt    //PY.用于检测Python Web应用程序中的安全漏洞的静态分析工具
 ## 欺骗防御
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_honeypot.md/    //欺骗防御蜜罐主动反制。myWiki
-## 沙盒检测恶意样本分析
-- https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
-- https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
-- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
-- https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
-### 软件/文件样本数据
-- https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSample.md/    //恶意样本数据源收集库。myWiki
-- https://github.com/gh0stkey/avList    //杀软进程对应杀软名称
-### 在线文件检测
-- https://app.any.run/    //可视化在线恶意文件检测。包含流行恶意文件样本
-- https://habo.qq.com    //在线恶意文件检测
-- http://r.virscan.org/    //在线杀毒
-- https://www.appscan.io    //盘古app安全移动软件在线检测
-- http://safe.ijiami.cn    //爱加密app安全移动软件在线检测
-- http://appscan.360.cn    //360移动app安全移动软件在线检测
-- https://service.security.tencent.com/kingkong    //腾讯金刚app安全移动软件在线检测
-### 文件查杀
-- https://www.freebuf.com/articles/network/139697.html    //intro.使用深度学习检测DGA（域名生成算法）
-- https://github.com/mwleeds/android-malware-analysis    //PY.利用机器学习进行恶意Android安卓应用检测
-- https://github.com/chaitin/cloudwalker    //GO.CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
-- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:he1m4n6a/findWebshell;G:ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:yassineaddi/BackdoorMan;G:nbs-system/php-malware-finder;G:emposha/PHP-Shell-Detector;G:nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;
-- https://github.com/KasperskyLab/klara    //卡巴斯基开源基于Yara的分布式恶意软件扫描系统，
-- https://github.com/botherder/kraken    //GO.实现的Yara恶意软件扫描器
-- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
-- https://github.com/nao-sec/tknk_scanner    //yara引擎为基础的恶意软件识别框架
-- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
-- http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
-- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
-- http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
-- https://github.com/viper-framework    //PY2.二进制分析和管理框架
-- http://www.clamav.net/downloads    //病毒查杀软件
-- https://github.com/joxeankoret/pigaios    //直接对比源代码与编译的二进制文件
-- https://github.com/sfaci/masc    //扫描网站中的恶意软件， 以及其他一些网站维护功能
-- https://github.com/Neo23x0/munin    //依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
-- https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
-- https://github.com/alexandreborges/malwoverview    //simple.将恶意文件进行快速分类
-- https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
-- https://github.com/felixweyne/ProcessSpawnControl    //PS.对恶意程序进行检测与监控
-- https://github.com/target/strelka    //PY3.文件变化实时监控。
 ## 压力测试DDOS/CC/拒绝服务
 - https://github.com/ywjt/Dshield    //PY.DDOS防护
 - https://github.com/NewEraCracker/LOIC/    //C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
