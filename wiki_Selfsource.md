@@ -36,7 +36,25 @@
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
-## 在线编辑
+## 办公套件
+- https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
+- https://sadd.io/    //在线操作系统
+- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
+- https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com
+- https://thyrsi.com/ 图片上传分享工具
+- https://github.com/aimerforreimu/auxpi    //GO.多api图床
+- https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- https://github.com/tmux/tmux    //命令行功能加强工具
+- https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
+- http://ohshitgit.com/    //intro.git操作手册
+- https://anytxt.net/    //全文检索工具。社区版
+- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+- https://www.voidtools.com    //文件和文件夹快速定位。Everything
+- https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
+- http://www.vuln.cn/tools/ftp    //在线FTP登录
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
+### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
 - https://www.draw.io    //在线思维导图/流程图
@@ -44,8 +62,16 @@
 - https://www.photopea.com/    //在线ps
 - https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;。
 - http://www.alltoall.net/    //在线格式转换
-### 协同办公
-- https://shimo.im/    //石墨笔记，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
+- https://etherpad.net/    //在线可编辑记事本
+- https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
+### 项目文档管理
+- https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
+- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
+- https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
+- https://github.com/star7th/showdoc    //JS.文档管理平台。
+- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
+- https://gitea.io/zh-cn/    //GO.轻量级代码托管/git代码管理解决方案.G:go-gitea/gitea;.
 ### 搜索引擎
 - https://www.dogedoge.com/    //多吉搜索
 - https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
@@ -90,23 +116,6 @@
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机。G:github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机。G:github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
-## 办公套件
-- https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
-- https://sadd.io/    //在线操作系统
-- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
-- https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com
-- https://thyrsi.com/ 图片上传分享工具
-- https://github.com/aimerforreimu/auxpi    //GO.多api图床
-- https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- https://github.com/tmux/tmux    //命令行功能加强工具
-- https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
-- http://ohshitgit.com/    //intro.git操作手册
-- https://anytxt.net/    //全文检索工具。社区版
-- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //文件和文件夹快速定位。Everything
-- https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
-- http://www.vuln.cn/tools/ftp    //在线FTP登录
 ### 系统管理
 - https://github.com/pbatard/rufus    //C.etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
@@ -114,17 +123,6 @@
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //PY3.Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS.远程管理工具，putty/xshell/mobaxterm
-### 项目文档管理
-- https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
-- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
-- https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
-- https://etherpad.net/    //在线可编辑记事本
-- https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
-- https://github.com/star7th/showdoc    //JS.文档管理平台。
-- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
-- https://gitea.io/zh-cn/    //GO.轻量级代码托管/git代码管理解决方案.G:go-gitea/gitea;.
-### 文档处理
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
