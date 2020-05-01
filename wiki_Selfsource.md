@@ -13,6 +13,7 @@
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
+- https://github.com/huiyadanli/RevokeMsgPatcher    //C#.A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 ### 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -54,6 +55,7 @@
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
+- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;。
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
@@ -104,6 +106,7 @@
 - https://www.fakenamegenerator.com    //多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    //PY.随机身份生成脚本
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
+- https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;。
 ### 客户端通讯分析
 - https://github.com/seemoo-lab/opendrop    //py3.基于owlink.org的Apple AirDrop文档共享实现
 - https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。

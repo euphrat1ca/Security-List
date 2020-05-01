@@ -1,5 +1,4 @@
 # 开源情报数据源分析
-# 开源情报资料
 - https://github.com/BuzzFeedNews    //网络数据集集合
 - https://www.start.umd.edu/gtd/    //全球恐怖主义动向数据库官网
 - http://dingba.top/qqzk    //全球智库
