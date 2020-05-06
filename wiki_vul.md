@@ -200,33 +200,24 @@
 - https://github.com/AlessandroZ/BeRoot    //PY.通过检查常见的错误配置来查找提权方法. 支持Windows/Linux/Mac
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.提权枚举工具包，通过webApi上报信息。
 ### Linux提权相关
-- https://guif.re/linuxeop    //linux提权命令集合
-- https://github.com/Ignitetechnologies/Privilege-Escalation    //Linux下的提权方法总结
-- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;
-- https://github.com/jondonas/linux-exploit-suggester-2    //perl.查找linux哪些补丁没有打，存在提权利用。Github:linux-exploit-suggester;
-- https://github.com/belane/linux-soft-exploit-suggester    //查找linux那些软件有漏洞
+- https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
-- https://github.com/nilotpalbiswas/Auto-Root-Exploit    //linux自动提权脚本
-- https://github.com/WazeHell/PE-Linux    //Linux提权工具
+- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:nilotpalbiswas/Auto-Root-Exploit;G:WazeHell/PE-Linux;-
 - https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow Linux kernel >= 2.6.22（2007年发行，到2016年10月18日才修复）;2.3k。
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台，release。goodjob。
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台，release编译版。goodjob。
 - https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
-- https://github.com/jas502n/CVE-2018-17182    //Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
 - https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
-- https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权
-- https://github.com/can1357/CVE-2018-8897    //Linux系统利用Syscall实现提权
+- https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:can1357/CVE-2018-8897;-
 ### Windows提权利用相关
-- Exchange提权利用    //mywiki
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
+- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:kerberos域控ms14‐068/;G:51x/WHP;G:ianxtianxt/win-exp-/;
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;goodjob。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
-- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。kerberos域控ms14‐068/
-- https://github.com/51x/WHP    //windows下各种提权与利用工具
+- https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;goodjob。
+- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C.利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
-- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权
 - https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升，win server 2016-2019提权
 - https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225；烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权。
 - https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:foxglovesec/Potato;
@@ -234,8 +225,8 @@
 - https://github.com/uknowsec/SweetPotato    //C#.烂土豆webshell执行版本
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
-- https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权
 - https://github.com/euphrat1ca/ms15-051    //C++.Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
-- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058
-- https://github.com/alpha1ab/CVE-2018-8120    //在win7与win2k8的基础上增加了winXP与win2k3。G:unamer/CVE-2018-8120;
+- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058。
+- https://github.com/alpha1ab/CVE-2018-8120    //win32k.sys组件的NtUserSetImeInfoEx()系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:unamer/CVE-2018-8120;
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
+- https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权

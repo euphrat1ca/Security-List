@@ -166,9 +166,9 @@
 - 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 ## 应急响应溯源
-- https://security.tencent.com/opensource/detail/19    腾讯开源的xSRC应急响应中心cms
+- https://security.tencent.com/opensource/detail/19    //腾讯开源的xSRC应急响应中心cms
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
-- https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。1.1k。
+- https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;-
 - https://github.com/tide-emergency/yingji    //PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;
 - https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
@@ -1331,7 +1331,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
 - https://github.com/zstackio/zstack    //Java.类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
-- https://www.proxmox.com/    //类似virtualbox的开源虚拟化平台，自带防火墙、邮件网关。
+- https://www.proxmox.com/    //ProxmoxVE类virtualbox架构，开源虚拟化平台，自带防火墙、邮件网关。
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
