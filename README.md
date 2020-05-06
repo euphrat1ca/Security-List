@@ -1095,6 +1095,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.gimp.org/    //Gimp提供了转换各类图像文件可视化数据的功能，还可以用于确认文件是否是一个图像文件
 - http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
 - http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
+- https://github.com/GuidoBartoli/sherloq    //C++.数字图片取证
 ### 计算机设备取证
 - https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。商业版。易我数据恢复;RECUVA
 - http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。商业版。

@@ -1,6 +1,6 @@
 # Fuzzer模糊测试
-## 模糊测试数据资料
 - 工控模糊测试Wurldtech Achilles阿基里斯国际认证
+## 模糊测试数据资料
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
