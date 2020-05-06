@@ -93,7 +93,7 @@
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
 #### APT威胁情报
-- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;。
+- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;
 - https://github.com/blackorbird/APT_REPORT    //apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
 - https://github.com/kbandla/APTnotes    //各种公开的文件和相关的APT笔记，还有软件样本

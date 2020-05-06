@@ -37,7 +37,7 @@
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
-- https://github.com/RUB-NDS/PRET    //PY2.打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;。2k。
+- https://github.com/RUB-NDS/PRET    //PY2.打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;2k。
 - https://github.com/rapid7/IoTSeeker    //物联网设备默认密码扫描检测工具
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //PY.调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上

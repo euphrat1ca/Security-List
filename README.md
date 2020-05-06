@@ -1,6 +1,6 @@
 ***项目简介***
 根据中华人民共和国《网络安全法》相关政策规定，本文章只做学习测试，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担(The author does not assume any legal responsibility.)<br>
-&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1<br>
+&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1 //Have to say,the index is in my mind<br>
 &emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（此基础上做持久化控制）、扫尾。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
 分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;<br>
@@ -8,7 +8,6 @@
 类型标签：模拟测试;* Kali系统类;* ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect;常见缩写;<br>
 状态标签：simple;noupdate;商业版;社区版;<br>
 测评标签：testjob;welljob;goodjob;greatjob;<br>
-
 # 安全相关资源列表
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
@@ -171,7 +170,7 @@
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
 - https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。1.1k。
 - https://github.com/tide-emergency/yingji    //PY2.查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;
 - https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
 ### 日志分析可视化
 - https://github.com/grafana/grafana    //TypeScript,GO.用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
@@ -182,7 +181,7 @@
 - https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
 - https://github.com/baronpan/SysmonHunter    //JS.针对att&ck对sysmon日志进行分析展示
 - https://github.com/zhanghaoyil/Hawk-I    //PY.基于无监督机器学习算法从Web日志中自动提取攻击Payload
-- https://github.com/JPCERTCC/LogonTracer    //PY.日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;。
+- https://github.com/JPCERTCC/LogonTracer    //PY.日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;
 - https://gitee.com/524831546/xlog/    //GO.web访问日志分析工具,可以分析nginx、resin ,tomcat,apache访问日志，然后对访问的ip，流量，响应时间，状态码，URI，浏览器，爬虫进行详细全面的分析展示。
 ### 勒索病毒
 - https://github.com/jiansiting/Decryption-Tools    //勒索病毒解决方案汇总
@@ -217,14 +216,14 @@
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //SSJI服务的JavaScript注入
 ### 学习内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
-- https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;.
+- https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;-
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
-- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;P:Kerberos的白银票据详解/Kerberos的黄金票据详解;。
+- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;P:Kerberos的白银票据详解/Kerberos的黄金票据详解;
 - https://daiker.gitbook.io/windows-protocol    //内网域基础协议分析系列文章。本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防
-- https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;。
+- https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 ## 漏洞挖掘复现分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
@@ -389,7 +388,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/quericy/one-key-ikev2-vpn    //CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/zerotier    //C++.网络虚拟化平台云自组网
-- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;。
+- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;
 - https://github.com/teddysun/shadowsocks_install    //shadowsocks/shadowsocksr
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https等多种代理
 - https://github.com/shadowsocks/shadowsocks-manager    //shadowsocks多用户管理
@@ -401,7 +400,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/txthinking/brook    //GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
-- https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;。
+- https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;
 - https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS。
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
 - https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯
@@ -438,7 +437,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 ### 测试字典集
 - https://github.com/tarraschk/richelieu    //.fr邮箱密码表
 - https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:xmendez/wfuzz/tree/master/wordlist;G:We5ter/Scanners-Box;G:shack2/SNETCracker/dic;
-- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;。
+- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;
 - https://github.com/alpha1e0/pentestdb    //WEB渗透测试数据库。用于提供渗透测试的辅助工具(pentest-tool)、资源文件
 - https://github.com/brannondorsey/PassGAN    //PY.深度学习，密码字典样本生成
 - https://github.com/Mebus/cupp    //PY.根据用户习惯密码生成弱口令探测
@@ -569,7 +568,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;。
+- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;
 - https://github.com/internetwache/GitTools    //SHELL\PY3.查找、下载、提取 .git 。1.4k。
 - https://github.com/BugScanTeam/GitHack    //PY.可还原历史版本， .git源代码泄漏利用工具
 ### 目录路径发现
@@ -758,19 +757,15 @@ G:timwhitez/crawlergo_x_XRAY;
 # 后渗透拓展利用
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
-- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;。
+- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
-- https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
-- https://github.com/TheSecondSun/Bashark    //Bash.后渗透框架。大鲨鱼
-- https://github.com/DarkSpiritz/DarkSpiritz    //PY2.后渗透框架
+- https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等。G:0xdea/tactical-exploitation;
+- https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合。G:llamasoft/polyshell;
+- https://github.com/TheSecondSun/Bashark    //Bash.LINUX大鲨鱼后渗透框架。G:DarkSpiritz/DarkSpiritz;G:JusticeRage/FFM;
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
-- https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等
-- https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
-- https://github.com/JusticeRage/FFM    //PY3.拥有下载、上传功能，生成可执行py脚本的后门的后渗透框架。
-- https://github.com/k8gege/Ladon    //C#.大型内网渗透扫描器&Cobalt Strike。k8gege
-- https://github.com/llamasoft/polyshell    //利用脚本模板
+- https://github.com/NetSPI/ESC    //C#,PS.利用sqlserve数据库攻击系统
 ## 横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C.Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
@@ -895,7 +890,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;
 - https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
 - https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;。
+- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;
 - https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell。2k。goodjob。
 - https://www.4hou.com/penetration/18447.html    //域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 - https://github.com/no0be/DNSlivery    //PY3.基于scapy利用dns协议传输文件，条件简单。
@@ -941,10 +936,10 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //PY.客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/4w4k3/Insanity-Framework    //PY.生成免杀payload，识别虚拟机，钓鱼，内存注入等
-- https://github.com/trustedsec/unicorn    //PY.一键生成多种后门。G:n00py/Hwacha;。
+- https://github.com/trustedsec/unicorn    //PY.一键生成多种后门。G:n00py/Hwacha;
 - https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。2K。
-- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;。
+- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;
 ### shellcode相关
 - https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
@@ -991,7 +986,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
-- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;。
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#.基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -1003,7 +998,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/mdsecactivebreach/SharpPack    //C#.绕过系统应用白名单执行DotNet and PowerShell tools
 - https://payloads.online/archivers/2018-12-22/1    //INTRO.DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
 - https://github.com/sensepost/rattler    //C++.自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
-;G:rek7/dll-hijacking;。
+;G:rek7/dll-hijacking;
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C.一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/mdsecactivebreach/RDPInception/    //BAT.基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/gianlucaborello/libprocesshider    //C.利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
@@ -1059,14 +1054,14 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //PY2.通过Termux打造免root安卓渗透工具
 ### Android/Java安全
-- https://github.com/frida/frida/    //PY\JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:dweinstein/awesome-frida;G:andreafioraldi/frida-fuzzer;。testjob。
+- https://github.com/frida/frida/    //PY\JAVA.Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:dweinstein/awesome-frida;G:andreafioraldi/frida-fuzzer;testjob。
 - https://github.com/sensepost/objection    //PY.移动端动态调试安全检测，Frida公司开发。testjob。
 - https://github.com/hluwa/ZenTracer    //PY.frida插件，Android方法调用追踪
 - https://github.com/lyxhh/lxhToolHTTPDecrypt    //js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。testjob.
 - https://github.com/rovo89/Xposed    //C++.Android动态修改hook，隐藏root执行权限。
 - https://github.com/Fuzion24/JustTrustMe    //Java.基于xposed模块进行app证书SSL注入抓包。
 - https://taichi.cool/    //Android魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
-- https://github.com/android-hacker/VirtualXposed    //JAVA.基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;。
+- https://github.com/android-hacker/VirtualXposed    //JAVA.基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;
 - https://github.com/Genymobile/scrcpy    //C.基于adb连接使pc控制Android设备
 - https://github.com/zsdlove/ApkVulCheck    //PY3.对安卓apk进行特征值匹配。welljob。
 - https://github.com/jboss-javassist/javassist    //JAVA.能够操作字节码框架，轻易的修改class代码文件。2.2K
@@ -1286,7 +1281,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - http://edr.topsec.com.cn/    //天融信终端威胁防御系统
 - https://github.com/felixweyne/ProcessSpawnControl    //PS.对恶意程序进行检测与监控
 ### NSM网络安全监控/入侵检测
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。G:baidu-security/openrasp-iast //灰盒扫描工具;。testjob,1k。
+- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。G:baidu-security/openrasp-iast //灰盒扫描工具;testjob,1k。
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
 - https://github.com/snort3/snort3    //C++.snort知名NIDS网络入侵检测
 - https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
@@ -1333,7 +1328,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/containers/libpod    //GO.podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //RUBY.管理虚拟机。19k。
 - https://www.virtualbox.org    //跨平台多系统支持
-- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具。商业版。
+- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
 - https://github.com/zstackio/zstack    //Java.类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
 - https://www.proxmox.com/    //类似virtualbox的开源虚拟化平台，自带防火墙、邮件网关。
@@ -1394,16 +1389,16 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Selfsource.md/    //自服务应用在线资源、文件\url\节点检测.myWiki
 # wiki_TipSkill
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TipSkill.md/    //计算机技术相关.myWiki
-<br>
+---
 - https://github.com/We5ter/Scanners-Box    //增加条目，细化分类。4k。
 - https://www.anquanke.com/opensource    //GitHub安全类目引擎，热度，时间
 - https://i.hacking8.com/    //安全信息流
 - http://wiki.ioin.in/    //sec-news 安全文摘;先知;freebuf
 - https://github.com/topics/security    //GitHub安全类目
-- https://xj.hk    //星际黑客。W:8aq.net;。
+- https://xj.hk    //星际黑客。W:8aq.net;
 - https://www.osint-labs.org    //S.R.P OSINT-Labs开源情报实验室
 - https://www.xssav.com    //安全网址导航
 - https://sec.thief.one    //安全热点聚合平台
-- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;。
+- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;
 <br>
 TheEnd

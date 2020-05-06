@@ -6,7 +6,7 @@
 - https://github.com/srsLTE/srsLTE    //C++.开源通讯基站系统.G:RangeNetworks/openbts;
 - https://unicorn.360.com/hackcube/    //360独角兽无线电安全研究院
 - http://www.right.com.cn/forum/    //恩山无线论坛，wireless。
-- https://github.com/peplin/pygatt    //PY.蓝牙安全，BLE/Bluetooth/zigbee传感器控制。G:nian-hua/Litchi;。
+- https://github.com/peplin/pygatt    //PY.蓝牙安全，BLE/Bluetooth/zigbee传感器控制。G:nian-hua/Litchi;
 ### 通讯安全SDR/RFID/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    //信用卡信息盗取

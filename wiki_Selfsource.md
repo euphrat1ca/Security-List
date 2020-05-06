@@ -52,21 +52,21 @@
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务，3389分身多开。
 ### 协同办公
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
-- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
-- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;。
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
+- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;
 ### 文档编辑
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;。
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
 - https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
-- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;。
+- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
 - https://www.draw.io    //在线思维导图/流程图
 - https://www.remove.bg/api    //在线抠图。api
 - https://www.photopea.com/    //在线ps
-- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;。
+- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;
 - http://www.alltoall.net/    //在线格式转换
 - https://etherpad.net/    //在线可编辑记事本
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
@@ -110,7 +110,7 @@
 - https://www.fakenamegenerator.com    //多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    //PY.随机身份生成脚本
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
-- https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;。
+- https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
 ### 客户端通讯分析
 - https://github.com/seemoo-lab/opendrop    //py3.基于owlink.org的Apple AirDrop文档共享实现
 - https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
