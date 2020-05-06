@@ -42,20 +42,24 @@
 - https://sadd.io/    //在线操作系统
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
 - https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com
-- https://thyrsi.com/ 图片上传分享工具
+- https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //GO.多api图床
 - https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //PY.命令行自动补全改错工具
 - http://ohshitgit.com/    //intro.git操作手册
-- https://anytxt.net/    //全文检索工具。社区版
-- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //文件和文件夹快速定位。Everything
-- https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
+- https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务，3389分身多开。
+### 协同办公
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;。
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;。
+### 文档编辑
+- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;。
+- http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
+- https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
+- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;。
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
@@ -119,7 +123,9 @@
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C.数据库管理工具navicat注册机。G:github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++.A keygen for WinRAR注册机。G:github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
-### 系统管理
+## 系统管理
+- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
+- https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
 - https://github.com/pbatard/rufus    //C.etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。

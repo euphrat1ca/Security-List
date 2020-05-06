@@ -7,6 +7,7 @@
 ### 主动反制面包屑
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
+- https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。主动防御
 ### 蜜罐安全
 - https://github.com/phage-nz/malware-hunting    //PY.利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    //PY.现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据

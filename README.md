@@ -381,13 +381,14 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 ### Cross超越边界自组网
+- https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本
 - https://github.com/teddysun/across    //BASH.npv、bbr、kms等脚本
+- https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要.NetFramework4.8。
 - https://github.com/Nyr/openvpn-install    //openvpn一键安装
 - https://github.com/quericy/one-key-ikev2-vpn    //CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/zerotier    //C++.网络虚拟化平台云自组网
-- https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;。
 - https://github.com/teddysun/shadowsocks_install    //shadowsocks/shadowsocksr
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https等多种代理
@@ -401,10 +402,9 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
 - https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;。
-- https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS
-- https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网
-- https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，替代方案proxifier。
-- https://github.com/ntkernel/lantern    //unlimited-landeng-for-win，无限流量蓝灯
+- https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS。
+- https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
+- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯
 - https://www.psiphon3.com    //开源赛风超越边界代理
 - https://hide.me    //npv可试用
 - https://windscribe.com    //npv可试用
@@ -569,7 +569,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound;G:metac0rtex/GitHarvester;。
+- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;。
 - https://github.com/internetwache/GitTools    //SHELL\PY3.查找、下载、提取 .git 。1.4k。
 - https://github.com/BugScanTeam/GitHack    //PY.可还原历史版本， .git源代码泄漏利用工具
 ### 目录路径发现
@@ -759,7 +759,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/rapid7/metasploit-framework    //RUBY.后渗透框架。greatjob,17k。
 - https://github.com/EmpireProject/Empire    //PS.后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8.cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf。G:RASSec/Cobalt-Strike;。
-- https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/samratashok/nishang    //PS.测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/0xdea/tactical-exploitation    //Python/PowerShell的测试脚本集
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
@@ -779,6 +778,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/skelsec/pypykatz    //PY3.使用python实现的mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,PY.调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
 - https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
+  - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/GhostPack/Rubeus    //C#.操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket)
 - https://github.com/m8r0wn/ldap_search    //PY.通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
@@ -1065,12 +1065,11 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/lyxhh/lxhToolHTTPDecrypt    //js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。testjob.
 - https://github.com/rovo89/Xposed    //C++.Android动态修改hook，隐藏root执行权限。
 - https://github.com/Fuzion24/JustTrustMe    //Java.基于xposed模块进行app证书SSL注入抓包。
-- https://taichi.cool/    //Android魔改框架，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等。支持免root与Magisk模式。
-- https://github.com/asLody/VirtualApp    //JAVA.android魔改框架，支持软件层模拟系统安装xposed等模块。greatjob。
-- https://github.com/android-hacker/VirtualXposed    //JAVA.基于VirtualApp 和 epic 免root使用xposed
+- https://taichi.cool/    //Android魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
+- https://github.com/android-hacker/VirtualXposed    //JAVA.基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;。
 - https://github.com/Genymobile/scrcpy    //C.基于adb连接使pc控制Android设备
 - https://github.com/zsdlove/ApkVulCheck    //PY3.对安卓apk进行特征值匹配。welljob。
-- https://github.com/jboss-javassist/javassist    //JAVA.能够操作字节码框架，通过它我们能很轻易的修改class代码文件。2.2K
+- https://github.com/jboss-javassist/javassist    //JAVA.能够操作字节码框架，轻易的修改class代码文件。2.2K
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具
 - https://github.com/crifan/android_app_security_crack    //安卓应用的安全和破解。goodjob。
@@ -1189,9 +1188,8 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/ChrisTheCoolHut/Zeratool    //PY.pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //PY.pwn，自动攻击脚本
 ## 系统监控管理
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
-- down4.huorong.cn/hrsword.exe    //火绒剑。W:process monitor;
+- down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
 - https://github.com/draios/sysdig    //C++.系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/PY.ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
@@ -1397,15 +1395,15 @@ G:timwhitez/crawlergo_x_XRAY;
 # wiki_TipSkill
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TipSkill.md/    //计算机技术相关.myWiki
 <br>
-- https://www.anquanke.com/opensource    //GitHub安全类目引擎，热度，时间
 - https://github.com/We5ter/Scanners-Box    //增加条目，细化分类。4k。
+- https://www.anquanke.com/opensource    //GitHub安全类目引擎，热度，时间
+- https://i.hacking8.com/    //安全信息流
+- http://wiki.ioin.in/    //sec-news 安全文摘;先知;freebuf
 - https://github.com/topics/security    //GitHub安全类目
-- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti。
-- https://xj.hk    //星际黑客。
-- https://www.8aq.net/    //先知;freebuf
-- http://wiki.ioin.in/    //sec-news 安全文摘
+- https://xj.hk    //星际黑客。W:8aq.net;。
 - https://www.osint-labs.org    //S.R.P OSINT-Labs开源情报实验室
 - https://www.xssav.com    //安全网址导航
 - https://sec.thief.one    //安全热点聚合平台
+- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;。
 <br>
 TheEnd
