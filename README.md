@@ -102,8 +102,7 @@
 - https://www.lshack.cn    //工控安全入门
 - http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)。小四
 ### 安全大会资料
-- https://www.hackinn.com/search/?keyword=    //资料站
-- https://www.hackinn.com/index.php/archives/492/    //HackingDay 2019 (中国杭州)
+- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;-
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    //KCon大会文章PPT
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
@@ -466,14 +465,14 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 ### 在线信息搜集网站
 - https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;
+- http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
 - https://www.whatweb.net/    //在线web指纹识别
 - http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具.W:phpinfo.me/domain/;
 - http://ip.chaxun.la/    //ip反查域名---查询啦
 - http://www.link114.cn/title/    //批量查询网站标题
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
-- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;
-- https://www.dnsdb.io    //全球DNS搜索引擎。DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询
-- https://dnsdumpster.com/    //dns recon and research， find and lookup dns records
+- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;-
+- https://www.dnsdb.io    //全球DNS搜索引擎。DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。
 ### 真实IP信息获取
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
@@ -516,7 +515,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/jonluca/Anubis    //PY3.子域名爆破与信息收集
 - https://github.com/le4f/dnsmaper    //PY.web界面，子域名枚举爆破工具以及地图位置标记
 - https://github.com/thewhiteh4t/seeker    //PY.获取高精度地理信息和设备信息的工具
-- https://github.com/0xbug/orangescan    //web界面，的在线子域名信息收集工具
+- https://github.com/0xbug/orangescan    //web界面，子域名信息收集工具
 - https://github.com/We5ter/GSDF    //PY.基于谷歌SSL透明证书的子域名查询脚本
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //PY.利用CloudFlare的dns进行子域名枚举
 - https://github.com/x0day/bannerscan    //PY.C段/旁站查询与路径扫描

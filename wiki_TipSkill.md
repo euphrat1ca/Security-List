@@ -82,7 +82,7 @@
 - https://github.com/Maicius/InterestingCrawler 抓取QQ空间说说内容并进行分析
 - https://github.com/xjr7670/QQzone_crawler QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 - https://github.com/CriseLYJ/awesome-python-login-model    //PY.各大网站登陆方式
-- https://github.com/tikazyq/crawlab    //PY3.爬虫管理平台
+- https://github.com/tikazyq/crawlab    //PY3.分布式任务管理爬虫，可做漏洞预警系统设计。
 - https://github.com/FortyNorthSecurity/EyeWitness 获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 ### 情报源获取
 - https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《Combat Intelligence》（战斗情报）
