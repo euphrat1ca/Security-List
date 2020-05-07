@@ -509,7 +509,7 @@ https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/guimaizi/get_domain    //py.基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
 - https://github.com/pentester-io/commonspeak    //BASH.Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
 - https://github.com/blark/aiodnsbrute/    //PY3.DNS异步爆破子域名
-- https://github.com/lijiejie/subDomainsBrute    //PY.开发的一款使用广泛的子域名爆破枚举工具
+- https://github.com/lijiejie/subDomainsBrute    //PY3.子域名爆破枚举工具,GOODJOB.
 - https://github.com/ring04h/wydomain    //PY.猪猪侠开发的一款域名子域名枚举工具
 - https://github.com/n4xh4ck5/N4xD0rk    //PY.利用搜索引擎来搜集子域名，可以使用西班牙语搜集
 - https://github.com/vysec/DomLink    //PY2.调用WHOXY.com，对邮箱和域名进行进一步的搜集
