@@ -1,9 +1,9 @@
 ## 欺骗防御
-- https://github.com/paralax/awesome-honeypots    //优秀蜜罐，相关技术手段收集。goodjob。G:OWASP/Honeypot-Project;
+- https://github.com/paralax/awesome-honeypots    //优秀蜜罐，相关技术手段收集。goodjob。G:OWASP/Honeypot-Project;P:SDN网络微隔离;--
 - https://www.freebuf.com/articles/paper/207739.html    //intro.开源蜜罐测评报告
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
-- https://github.com/BinaryDefense/artillery    //PY.端点蜜罐防护
+- https://github.com/BinaryDefense/artillery    //PY.端点蜜罐防护。
 ### 主动反制面包屑
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
