@@ -94,9 +94,9 @@
 - https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
 ### 文件同步
-- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。P:freefilesync;P:filegee //商业;P:goodsync //商业版;--
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;
+- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 ## 通讯服务
 - https://salmon-mail.readthedocs.io    //PY.实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案

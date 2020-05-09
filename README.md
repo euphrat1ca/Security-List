@@ -78,7 +78,7 @@
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
-- https://bloodzer0.github.io/ossa/    //OSSA，利用开源文件进行开源安全架构.主机、扫描器、端口、日志、防护设备等
+- https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行架构.主机、扫描器、端口、日志、防护设备等安全建设。goodjob。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/chryzsh/DarthSidious    //从0开始你的域渗透之旅，包括搭建到渗透测试域环境。G:crazywa1ker/DarthSidious-Chinese;
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple
@@ -245,6 +245,7 @@
 - https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
 - https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
 - https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
+- http://www.exphub.org/    //chamd5工控漏洞预警
 ### 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
@@ -822,17 +823,15 @@ G:timwhitez/crawlergo_x_XRAY;
 径介绍
 - https://github.com/CTF-MissFeng/bayonet    //py3.src资产管理系统，以web形式展现。
 ### 资产管理风险测试
-- https://github.com/jeffzh3ng/Fuxi-Scanner    //PY2.资产管理，漏洞检测集成awvs、创宇Pocsuite、nmap、hydra
+- https://github.com/jeffzh3ng/Fuxi-Scanner    //PY.资产收集，漏洞检测（集成awvs、创宇Pocsuite、nmap、hydra）。
+- https://github.com/TideSec/Mars    //PY.基于docker资产安全检测（集成awvs、创宇Pocsuite、nmap、hydra），一键启动。G:0xbug/Biu-framework;
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
-- https://github.com/0xbug/Biu-framework    //PY.企业内网基础服务安全扫描框架
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.CS架构资产安全检测工具，汇集多种redteam toolkit。
-- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。
-- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。guardicore.com/infectionmonkey。
-- https://github.com/NextronSystems/APTSimulator    //bat.Windows下apt攻击模拟测试
+- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。G:NextronSystems/APTSimulator;--
+- https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。P:guardicore.com/infectionmonkey;G:lawrenceamer/0xsp-Mongoose;--
 - https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
-### 资产漏洞生命周期管理
-- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台，集成多种
+### 资产漏洞生命周期
+- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
 - https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统

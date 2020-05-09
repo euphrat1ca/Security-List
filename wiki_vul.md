@@ -222,7 +222,8 @@
 - https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225；烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权。
 - https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:foxglovesec/Potato;
 - https://github.com/CCob/SweetPotato    //C#.RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。G:ohpe/juicy-potato;
-- https://github.com/uknowsec/SweetPotato    //C#.烂土豆webshell执行版本
+- https://github.com/uknowsec/SweetPotato    //C#.烂土豆webshell执行版本。
+- https://github.com/itm4n/PrintSpoofer    //C#。pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
 - https://github.com/euphrat1ca/ms15-051    //C++.Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
