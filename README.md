@@ -224,7 +224,7 @@
 - https://adsecurity.org    //Active Directory安全攻防
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
-## 漏洞挖掘复现分析
+# 漏洞发掘复现分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
 - https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
 - https://github.com/1hack0/bug-bounty-101    //挖洞技术手册
@@ -232,31 +232,31 @@
 - https://github.com/userlandkernel/plataoplomo    //Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
 - https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
 - https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security的exploit-db.com漏洞库。kali团队，包含插件、漏洞环境等。
+- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
+### 漏洞库社区
+- https://sploitus.com    //公开漏洞搜索引擎,goodjob。
+- twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。
+- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库
+- https://www.us-cert.gov/ics/advisories    //美国工控漏洞库
+- http://ivd.winicssec.com/    //威努特工控漏洞库
+- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
+- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
+- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
+- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
+- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
+### 漏洞市场/SRC/BugBounty
+- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
+- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
+- https://0day.today    //漏洞市场
+- https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
+- https://0day.life    //漏洞研究文章
 - https://bugreader.com    //国外知名厂商公开漏洞详情
 - https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
 - https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
 - https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情
 - https://sec.ly.com/bugs    //同程安全公开漏洞详情
 - https://zeroday.hitcon.org/vulnerability/    //台湾公开漏洞库
-### 常用漏洞库/SRC/BugBounty
-- https://sploitus.com    //公开漏洞搜索引擎。gOODjob。
-- twitter搜索“#exploit”、“#0day”、“CVE RCE”    //
-- https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
-- https://0day.life    //漏洞研究文章
-- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
-- http://ics.cnvd.org.cn    //中国国家工控漏洞库
-- https://ics-cert.us-cert.gov/advisories    //美国国家工控漏洞库
-- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
-- http://ivd.winicssec.com/    //威努特工控漏洞库
-- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
-- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司负责维护的CVE漏洞库
-- https://nvd.nist.gov/vuln/search    //美国国家信息安全漏洞库
-- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
-- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
-- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
-- https://0day.today    //漏洞市场
-### BugBounty文章
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
@@ -304,7 +304,7 @@
 - http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
 ## 模糊测试
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_fuzzing.md/    //Fuzzer模糊测试.mywiki
-## 二进制学习pwn利用
+## 二进制pwn利用
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）
 - 漏洞战争：软件漏洞分析精要    //
@@ -1367,20 +1367,18 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_honeypot.md/    //欺骗防御蜜罐主动反制。myWiki
 ## 压力测试DDOS/CC/拒绝服务
 - https://github.com/ywjt/Dshield    //PY.DDOS防护
-- https://github.com/NewEraCracker/LOIC/    //C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台
+- https://github.com/NewEraCracker/LOIC/    //C#.基于Praetox's LOIC project的压测工具，使用mono进行跨平台。
 - https://github.com/IKende/Beetle.DT    //C#.分布式压力测试工具
 - https://github.com/649/Memcrashed-DDoS-Exploit    //PY.利用shodan搜索Memcached服务器进行压力测试
 - https://github.com/jseidl/GoldenEye    //PY.DOS测试
 - https://github.com/mschwager/dhcpwn    //PY.DHCP/IP压力测试
 - https://github.com/Microsoft/Ethr    //GO.跨平台，TCP， UDP， HTTP， HTTPS压力测试工具
 - https://github.com/Markus-Go/bonesi    //C.模拟僵尸网络进行ICMP/UDP/TCP/HTTP压测
-- https://github.com/ajmwagar/lor-axe RUST，多线程、低带宽消耗的HTTP DoS工具
+- https://github.com/ajmwagar/lor-axe    //RUST.多线程、低带宽消耗的HTTP DoS工具
 - https://github.com/EZLippi/WebBench    //C.网站压力测试，最高并发3万
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //PY.RDP服务远程命令执行/DOS攻击/蓝屏exp
-- http://www.yykkll.com    //压测站评测
-- https://defconpro.net    //#
-- https://vip-boot.xyz/login.php    //#
+- http://www.yykkll.com    //压测站评测。W:defconpro.net;W:vip-boot.xyz
 - https://rocketstresser.com/login.php    //多协议，支持cdn测试
 - https://klionsec.github.io/2017/11/15/hping3/    //HPing3网络工具组包
 # wiki_FreeConnect
@@ -1389,16 +1387,13 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Selfsource.md/    //自服务应用在线资源、文件\url\节点检测.myWiki
 # wiki_TipSkill
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TipSkill.md/    //计算机技术相关.myWiki
+
 ---
-- https://github.com/We5ter/Scanners-Box    //增加条目，细化分类。4k。
-- https://www.anquanke.com/opensource    //GitHub安全类目引擎，热度，时间
-- https://i.hacking8.com/    //安全信息流
+- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
+- https://i.hacking8.com/    //安全信息流。
 - http://wiki.ioin.in/    //sec-news 安全文摘;先知;freebuf
-- https://github.com/topics/security    //GitHub安全类目
-- https://xj.hk    //星际黑客。W:8aq.net;
-- https://www.osint-labs.org    //S.R.P OSINT-Labs开源情报实验室
-- https://www.xssav.com    //安全网址导航
-- https://sec.thief.one    //安全热点聚合平台
+- https://github.com/topics/security    //GitHub安全类目。G:We5ter/Scanners-Box;--
+- https://www.osint-labs.org    //S.R.P OSINT-Labs开源情报实验室。W:xj.hk;W:8aq.net;W:xssav.com;W:sec.thief.one;--
 - https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;
 <br>
 TheEnd

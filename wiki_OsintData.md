@@ -23,8 +23,8 @@
 ### 地理定位ip库分布
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
-- https://www.ipip.net    //IPV4.有偿
-- https://www.ipplus360.com    //IPV4/IPV6地址库。有偿
+- https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版
+- https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
 - https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:ics-radar.shodan.io;
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
 - http://opencellid.org/    //gsm定位

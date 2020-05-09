@@ -170,7 +170,7 @@
 - https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞，利用PrivExchange漏洞产生http->ldap中转实现的提权。
 - https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。Abusing Exchange: One API call away from Domain。CVE-2019-1040
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
-- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行
+- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行。G:Jumbo-WJB/CVE-2020-0688;G:random-robbie/cve-2020-0688;--
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
 - https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据。IE浏览器可行；

@@ -85,17 +85,18 @@
 - https://www.gobaidugle.com    //聚合搜索
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //PY.搭建一个自己的搜索引擎，DEMO网址 searx.me.
-### 云存储网盘服务
+## 同步网盘云存储
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
-- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing
 - https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
 - https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
-- https://github.com/nextcloud/server    //php.私有云网盘，owncloud分支
-- https://github.com/owncloud/core    //php.私有云网盘，界面不美观
 - https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
+### 文件同步
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。P:freefilesync;P:filegee //商业;P:goodsync //商业版;--
+- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
+- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;
 ## 通讯服务
 - https://salmon-mail.readthedocs.io    //PY.实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
