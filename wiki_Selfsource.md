@@ -40,7 +40,7 @@
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 ## 办公套件
-- https://cmder.net    //Windows命令行加强版。通过*user_aliases*配置文件配置快捷键
+- https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键
 - https://sadd.io/    //在线操作系统
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
 - https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com

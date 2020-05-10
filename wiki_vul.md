@@ -163,20 +163,19 @@
 - https://github.com/gentilkiwi/kekeo    //C.Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;
 - https://github.com/padovah4ck/CVE-2020-0683    //C++.利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
 ### Exchange漏洞利用手段
-- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。枚举；钓鱼；pth；猕猴桃抓明文、生成挑战值；劫持；提权；
-- https://blog.riskivy.com/exchange-server-in-pentest/    //深入Exchange Server在网络渗透下的利用方法。自动发现服务暴破；规则和通知功能getshell；邮件内容检索；NTLM Relay。W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/ 利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控;--
+- https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
 #### Exchange接口利用
-- https://github.com/sensepost/ruler    //GO.通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
+- https://github.com/sensepost/ruler    //GO.基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
 - https://github.com/johnnyDEP/OWA-Toolkit    //PS.利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
 - https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    //APT34针对exchange的电子邮件爆破劫持工具
 - https://github.com/dafthack/MailSniper    //PS.用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等），提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 - https://github.com/QuickBreach/ExchangeRelayX    //PY.基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据，IE浏览器可行。
 - https://github.com/mullender/python-ntlm    //PY.利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
 #### Exchange提权利用
-- https://github.com/WyAtu/CVE-2018-8581    //PY.利用Exchange普通权限邮箱账号密码，对其他用户(包括域管理员)邮箱收件箱的委托接管。Exchange SSRF 漏洞，利用PrivExchange漏洞产生http->ldap中转实现的提权。
+- https://github.com/WyAtu/CVE-2018-8581    //PY.利用普通用户登录，通过ssrf调用Exchange Server凭证到已控制的内网服务器上，并默认Exchange Server权限较高，就达到了提权的目的。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
 - https://github.com/dirkjanm/PrivExchange    //PY.基于impacket，利用exchange提升system权限。CVE-2019-1040 Abusing Exchange: One API call away from Domain。
-- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO.CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
-- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号的exchange远程代码执行。G:Jumbo-WJB/CVE-2020-0688;G:random-robbie/cve-2020-0688;--
+- https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO。CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
+- https://github.com/Yt1g3r/CVE-2020-0688_EXP    //PY.基于低权限账号进行ysoserial-远程代码执行。G:Jumbo-WJB/CVE-2020-0688;G:random-robbie/cve-2020-0688;--
 ### Office漏洞收集
 - https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析

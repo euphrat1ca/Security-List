@@ -548,8 +548,8 @@
 - https://github.com/eldraco/domain_analyzer    //PY.DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
 - https://github.com/mhelwig/privdns    //PY3.利用nameserver的错误配置，dns解析暴露其内网地址
 - https://github.com/gehaxelt/ds_store    //GO.苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
-- https://github.com/shengqi158/svnhack    //PY.文件夹*.svn*泄漏利用工具
-- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码泄露漏洞利用工具，2014-05-05版
+- https://github.com/admintony/svnExploit/    //PY.SVN源代码泄露全版本Dump源码
+- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:shengqi158/svnhack;--
 ### 亚马逊AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //PY.AWS云安全研究，工具集。
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
@@ -775,6 +775,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
   - https://github.com/GhostPack    //C#.SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/GhostPack/Rubeus    //C#.操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket)
+- https://github.com/dirkjanm/krbrelayx    //PY.基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/m8r0wn/ldap_search    //PY.通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
 ### 横向移动凭证传递
