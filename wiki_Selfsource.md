@@ -2,7 +2,7 @@
  wiki_Selfsource
 ## 常见软件技巧
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
-## 自服务应用
+# 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
@@ -14,7 +14,7 @@
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://github.com/huiyadanli/RevokeMsgPatcher    //C#.A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
-### 公开资源工具
+## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
@@ -24,14 +24,16 @@
 - https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
+- https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
+- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+### 下载器
 - https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
 - https://github.com/wu-dada/baidupankey    //JS.基于云盘万能钥匙api查询百度网盘提取密码
 - http://www.speedpan.com/    //百度下载
 - https://github.com/peterq/pan-light    //GO.网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
-- https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://xdown.org/    //bit下载器，类IDM架构。
 ### 数据可视化
 - https://flourish.studio/    //图表在线展示。W:finereport.com;
 ### SEO引流
@@ -94,7 +96,7 @@
 - https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
 ### 文件同步
-- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync;P:filegee //商业;P:goodsync //商业版;--
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
 - https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 ## 通讯服务

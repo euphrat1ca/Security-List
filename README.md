@@ -371,7 +371,7 @@
 - https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;
 - https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
 ### 端口复用
-https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
+- https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件，进行rdp服务端口复用
 - https://github.com/cloudflare/mmproxy    //C.在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
 - https://github.com/BeetleChunks/redsails    //PY/C++.利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
@@ -782,6 +782,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS.CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS.包含impacket、PowerSploit等多种模块.testjob,3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描
+- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/FortyNorthSecurity/WMImplant    //PS.利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit。
 - https://github.com/Kevin-Robertson/Inveigh    //PS.LLMNR/mDNS/NBNS欺骗器
 - https://github.com/poweradminllc/PAExec    //C++.类PSEXEC远程$IPC控制。
@@ -949,7 +950,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/TheWover/donut    //C.将.Net程序集生成shellcode并以内存的形式加载运行
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
 - https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;
 ### Windows混淆免杀
 - https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool.配合http协议格式绕过
 - https://github.com/OmerYa/Invisi-Shell    //对powershell文件进行混淆
