@@ -39,11 +39,11 @@
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
-## 办公套件
+# 办公套件
 - https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键
 - https://sadd.io/    //在线操作系统
-- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
 - https://github.com/zyx0814/dzzoffice    //PY.在线办公套件，DEMO网址demo.dzzoffice.com
+- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //GO.多api图床
 - https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
@@ -56,6 +56,27 @@
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;
+### 项目管理
+- https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
+- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
+- https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
+- https://github.com/star7th/showdoc    //JS.文档管理平台。
+- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
+### 网盘同步云存储
+- https://send.firefox.com    //火狐网盘
+- https://www.upload.ee/    //文件共享平台
+- https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
+- https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
+- https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
+- https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
+- https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
+### 文件同步
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
+- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
+- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
+- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
+- https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 ### 文档编辑
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;
@@ -72,14 +93,6 @@
 - http://www.alltoall.net/    //在线格式转换
 - https://etherpad.net/    //在线可编辑记事本
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
-### 项目文档管理
-- https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
-- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
-- https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
-- https://github.com/star7th/showdoc    //JS.文档管理平台。
-- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
-- https://gitea.io/zh-cn/    //GO.轻量级代码托管/git代码管理解决方案.G:go-gitea/gitea;.
 ### 搜索引擎
 - https://www.dogedoge.com/    //多吉搜索
 - https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
@@ -87,18 +100,6 @@
 - https://www.gobaidugle.com    //聚合搜索
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //PY.搭建一个自己的搜索引擎，DEMO网址 searx.me.
-## 同步网盘云存储
-- https://send.firefox.com    //火狐网盘
-- https://www.upload.ee/    //文件共享平台
-- https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
-- https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
-- https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
-- https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
-- https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
-### 文件同步
-- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
-- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 ## 通讯服务
 - https://salmon-mail.readthedocs.io    //PY.实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
