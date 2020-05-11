@@ -22,6 +22,7 @@
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 - https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
 - https://github.com/zhengjim/Chinese-Security-RSS/    //安全RSS订阅列表
+- http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计
 ## 安全建设方案
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库

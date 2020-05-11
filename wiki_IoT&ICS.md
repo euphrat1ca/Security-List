@@ -59,7 +59,11 @@
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟公开课系列
-- https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护
+- https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护。
+- http://plcscan.org/blog/    //烽台科技灯塔实验室。W:freebuf.com/ics-articles //工控分类;--
+- http://plcscan.org/blog/2014/08/ics-security-attack-demo-rail-transit/    //工控安全攻防演练场景实现分享（轨道交通）。W:乌云工控漏洞;--
+- https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结
+- http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:freebuf.com/column/209611.html;--
 ### ICS工具框架集
 - http://www.icsmaster.org/archives/ics/942    //工控安全工具集。G:w3h/icsmaster;--
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
@@ -67,10 +71,10 @@
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
 - https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //PY3.工控安全漏洞测试框架
-- https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。wenzheZhu
+- https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。
 - https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens关于ICS数据包处理\捕获\可视化显示。
-- https://github.com/nsacyber/GRASSMARLIN    //Grassmarlin是一款由美国国家安全局开发的，能够帮助运维工程师在IP网络上发现并编目监控和数据采集系统（SCADA）和工业控制系统（ICS）主机的开源软件工具，也被称为被动网络映射器。其数据源十分多样化，包括PCAP文件、路由器和交换机配置文件、CAM表以及实时网络数据包的捕获。该工具能够自动识别可用网络，生成网络拓扑，实现主机间通信的可视化，还能够展示从主机通信中所提取的元数据。
+- https://github.com/nsacyber/GRASSMARLIN    //SA 开发的工控 ICS/SCADA 态势感知开源工具。
 - https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
 - https://github.com/XHermitOne/icscanner    //界面化ics扫描器
 ### ics 西门子S7安全
