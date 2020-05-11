@@ -149,9 +149,10 @@
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
+- https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
 - https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
-- https://github.com/drduh/macOS-Security-and-Privacy-Guide    //PY.MacOS安全性基线
-- https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 。基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置
+- https://github.com/drduh/macOS-Security-and-Privacy-Guide    //PY.MacOS安全性基线。
+- https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 ### 安全服务checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
@@ -356,15 +357,14 @@
 - https://github.com/ismailtasdelen/hackertarget    //PY.Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
 - https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
 - https://github.com/feross/SpoofMAC    //PY.跨平台mac修改
-  ## 拓展插件相关工具
+## 拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelopment.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件.mywiki
 ## 端口转发映射代理穿透
 - https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
 - https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
 - https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- https://github.com/sensepost/reGeorg    //PY.reDuh 的升级版，主要是把内网服务器的端口通过http/https隧道转发到本机，形成一个回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。1K。G:nccgroup/ABPT 全加密;
-- https://github.com/SECFORCE/Tunna    //PY.将TCP协议通过HTTP封装传递，可以用于绕过防火墙环境中的网络限制。
-- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。1.6k。
+- https://github.com/L-codes/Neo-reGeorg    //PY.‘reDuh’‘reGeorg’的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。
+- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。2k。G:SECFORCE/Tunna;--
 - https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
 - https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
@@ -402,13 +402,9 @@
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
 - https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;
-- https://github.com/gwuhaolin/lightsocks    //轻量级网络混淆代理，基于 SOCKS5 协议，类SS。
+- https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
-- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯
-- https://www.psiphon3.com    //开源赛风超越边界代理
-- https://hide.me    //npv可试用
-- https://windscribe.com    //npv可试用
-- https://mono.sh    //飞机场.mymonocloud
+- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场.mymonocloud;W:windscribe.com;W:hide.me;--
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
 ### IPv6安全相关
@@ -721,6 +717,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
 - https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
 - https://github.com/shengqi158/weak_password_detect    //NMAP.Linux下多线程探测ssh弱口令
+- https://github.com/InfosecMatter/Minimalistic-offensive-security-tools    //ps。smb、ad域密码爆破。
 ### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C.使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
@@ -937,7 +934,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //PY.客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/4w4k3/Insanity-Framework    //PY.生成免杀payload，识别虚拟机，钓鱼，内存注入等
-- https://github.com/trustedsec/unicorn    //PY.一键生成多种后门。G:n00py/Hwacha;
+- https://github.com/trustedsec/unicorn    //PY.一键生成多种后门。G:n00py/Hwacha;G:ShutdownRepo/shellerator;--
 - https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;
@@ -953,15 +950,13 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
 - https://github.com/Rvn0xsy/Cooolis-ms    //PY.Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
 ### Windows混淆免杀
-- https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool.配合http协议格式绕过
-- https://github.com/OmerYa/Invisi-Shell    //对powershell文件进行混淆
-- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码
-- https://github.com/pasahitz/regsvr32    //C#.使用C#+Empire实现最小体积免杀后门
-- https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher
+- https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
+- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:cwolff411/powerob //powershell混淆;G:OmerYa/Invisi-Shell;--
+- https://github.com/pasahitz/regsvr32    //C#.使用C#+Empire实现最小体积免杀后门。
+- https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:mdsecactivebreach/CACTUSTORCH;--
 - https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS.基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
-- https://github.com/mdsecactivebreach/CACTUSTORCH    //基于DotNetToJScript使用js、vbs生成恶意payload
-- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA.宏混淆，其中还包括AV/Sandboxes逃避机制
-- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写
+- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
+- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
 ### 劫持注入权限绕过
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps

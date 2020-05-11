@@ -78,7 +78,8 @@
 - https://github.com/jas502n/fastjson-RCE    //fastjson-v1.2.47-RCE 命令执行漏洞
 ### 数据库漏洞
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
-- https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用
+- https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
+- https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net命令执行。
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
 - https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
