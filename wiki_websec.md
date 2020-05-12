@@ -33,7 +33,7 @@
 - https://github.com/secdec/adapt    //PY.linux，网站扫描器
 - https://github.com/sullo/nikto    //PERL.linux下网站扫描器
 - https://github.com/Ekultek/Zeus-Scanner    //PY.搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
-- https://github.com/jeffzh3ng/InsectsAwake    //PY.web界面，基于 Flask 应用框架的漏洞扫描系统，同时集成了渗透测试常用的端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite
+- https://github.com/jeffzh3ng/InsectsAwake    //PY.web界面，基于Flask应用框架的漏洞扫描系统，集成端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite。
 - https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器
 - https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner    //支持检测SQLi注入/XSS跨站/LFI本地文件包含/RFI远程文件包含等漏洞的扫描器
