@@ -22,6 +22,7 @@
 - https://github.com/mushorg/snare    //PY3.web安全蜜罐，可克隆指定Web页面
 - https://github.com/netxfly/x-proxy    //GO.代理蜜罐的开发与应用实战。simple
 ### PC服务蜜罐
+- https://github.com/hacklcs/HFish    //GO.redis\MYSQL\SSH etc 低交护蜜罐。goodjob。
 - https://github.com/micheloosterhof/cowrie    //PY2.使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议
 - https://github.com/desaster/kippo    //PY.蜜罐系统HoneyDrive下的图形化SSH蜜罐。1k。
 - https://github.com/thinkst/opencanary    //PY2.SNMP\RDP\SAMBA蜜罐
@@ -29,7 +30,6 @@
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    //INTRO.基于PYRDP,打造可记录图像和按键的RDP蜜罐
 - https://blog.csdn.net/ls1120704214/article/details/88174003    //GO.反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:Rogue-MySql-Server
 - https://github.com/leeberg/BlueHive    //PS.利用Active Directory生成用户账户蜜罐
-- https://github.com/hacklcs/HFish    //GO.redis\MYSQL\SSH 等低交护蜜罐
 - http://www.imooc.com/article/26398    //NodeJS 应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### 摄像头蜜罐
 - https://github.com/alexbredo/honeypot-camera    //PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮

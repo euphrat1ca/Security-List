@@ -107,6 +107,7 @@
 - https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行
 - https://github.com/brianwrf/hackUtils    //PY.Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。
+- https://github.com/feihong-cs/ShiroExploit_GUI    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）的一键化检测
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 #### tomcat相关漏洞
@@ -203,8 +204,8 @@
 - https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
 - https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:nilotpalbiswas/Auto-Root-Exploit;G:WazeHell/PE-Linux;-
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow Linux kernel >= 2.6.22（2007年发行，到2016年10月18日才修复）;2.3k。
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux 平台 和 Android 平台，release编译版。goodjob。
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C.脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,GO.脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:gbonacini/CVE-2016-5195;--
 - https://github.com/mschwager/0wned    //PY.利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
@@ -231,3 +232,113 @@
 - https://github.com/alpha1ab/CVE-2018-8120    //win32k.sys组件的NtUserSetImeInfoEx()系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:unamer/CVE-2018-8120;
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权
+## 漏洞发掘分析
+- https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
+- https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
+- https://github.com/1hack0/bug-bounty-101    //挖洞技术手册
+- https://github.com/writeups/ios    //ios漏洞writeup笔记
+- https://github.com/userlandkernel/plataoplomo    //Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
+- https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
+- https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
+- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
+### 漏洞库社区
+- https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
+- twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。
+- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库
+- https://www.us-cert.gov/ics/advisories    //美国工控漏洞库
+- http://ivd.winicssec.com/    //威努特工控漏洞库
+- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
+- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
+- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
+- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
+- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
+- http://www.exphub.org/    //chamd5工控漏洞预警
+### 漏洞市场/SRC/BugBounty
+- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
+- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
+- https://0day.today    //漏洞市场
+- https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
+- https://0day.life    //漏洞研究文章
+- https://bugreader.com    //国外知名厂商公开漏洞详情
+- https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
+- https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
+- https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情
+- https://sec.ly.com/bugs    //同程安全公开漏洞详情
+- https://zeroday.hitcon.org/vulnerability/    //台湾公开漏洞库
+- https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
+## 漏洞复现
+- https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
+- https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:Medicean/VulApps;G:c0ny1/vulstudy;
+- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:从外网到域控（vulnstack靶机实战）;
+- https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
+- https://github.com/bingohuang/docker-labs    //制作在线docker平台
+### 离线靶场学习
+- https://www.soteria-int.com/    //西班牙游戏竞技模拟平台CYWARIA安全靶场，商业。
+- https://github.com/WebGoat/WebGoat    //JAVA.一键jar包web安全实验靶场
+- https://github.com/Audi-1/sqli-labs    //PHP.基于SQLite的sql注入学习靶场
+- https://github.com/lcamry/sqli-labs    //INTRO.通过sqli-labs演示mysql相关的注入手法
+- https://github.com/virusdefender/ssrf-app    //PY.服务端请求伪造ssrf靶场实例
+- https://github.com/c0ny1/upload-labs    //PHP.一个帮你总结所有类型的上传漏洞的靶场
+- https://github.com/LandGrey/upload-labs-writeup    //INTRO.upload-labs指导手册
+- https://github.com/c0ny1/xxe-lab    //一个包含php，JAVA.python，C#等各种语言版本的XXE漏洞Demo
+- https://github.com/Go0s/LFIboomCTF    //本地文件包含漏洞&&PHP利用协议&&实践源码
+- https://github.com/incredibleindishell/CORS-vulnerable-Lab    //PHP.与COSR配置错误相关的漏洞代码靶场
+- https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
+- https://github.com/secvulture/dvta    //CS客户端靶场
+- https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
+- https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
+- https://github.com/abhi-r3v0/EVABS    //C++.Android靶场
+- https://github.com/ethicalhack3r/DVWA    //web安全实验靶场。新手指南：DVWA-1.9全级别教程
+- http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
+- https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
+- https://github.com/78778443/permeate    //php.常见漏洞靶场
+- https://github.com/gh0stkey/DoraBox    //php.多拉基础Web漏洞训练靶场。noupdate。
+- https://github.com/stamparm/DSVW    //PY2.常见漏洞靶场
+- https://github.com/amolnaik4/bodhi    //PY.常见漏洞靶场
+- https://github.com/Safflower/Solve-Me    //php.韩国一个偏代码审计的ctf靶场源码
+- https://github.com/rapid7/metasploitable3    //metasploit练习系统
+- https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
+### 在线靶场学习
+- https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
+- https://www.root-me.org    //俄罗斯root me靶场。在线。社区版
+- https://lab.pentestit.ru    //俄罗斯靶场，真实环境。在线。商业版。
+- https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。商业版。
+- https://www.pentesteracademy.com    //教程+视频+实验室+认证培训一套。商业版。
+- https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
+- https://www.wechall.net    //世界知名ctf汇总交流网站
+- https://www.ichunqiu.com/experiment/direction    //i春秋实验室。Web/主机/应用/pwn教程
+- https://www.mozhe.cn/bug    //墨者学院在线靶场。Web/主机/数据库/取证
+- https://www.xssgame.com    //谷歌XSS挑战
+- http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
+## 模糊测试
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_fuzzing.md/    //Fuzzer模糊测试.mywiki
+## 二进制pwn利用
+- https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法
+- https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）
+- 漏洞战争：软件漏洞分析精要    //
+- 加密与解密（第4版）    //
+- modern windows exploit    //
+- cnit的二进制教程    //
+- awesome windows exploit    //Windows漏洞挖掘
+- https://www.youtube.com/channel/UC_PU5Tk6AkDnhQgl5gARObA    //pwn学习三部曲学习
+- https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    //exploit编写系列教程,10篇,后续在corelan网站上
+- https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。*egghunter
+- http://www.securitysift.com/windows-exploit-development-part-1-basics    //Windows漏洞挖掘
+- http://security.cs.rpi.edu/courses/binexp-spring2015/    //家用路由器0day
+- https://github.com/timip/OSEE    //oscp二进制漏洞挖掘
+- https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu    //windbg教程
+- https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    //windbg
+- https://rootkits.xyz/blog/    //windows内核系列
+- https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation    //Windows漏洞挖掘
+- https://pwnrip.com/windows-kernel-exploitation-part-1-stack-buffer-overflows/    //windows kernel exploit
+- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References    //Windows漏洞挖掘
+- https://github.com/ExpLife0011/awesome-windows-kernel-security-development    //一些较新的win exploit资料
+- https://www.abatchy.com/tutorials    //windows kernel exploit
+- https://blahcat.github.io/tutorials/    //windows kernel exploit
+- https://b3n7s.github.io/2017/11/01/windows-kernel-debugging-under-vmware-fusion.html    //windows kernel debugging under vm fusion
+- http://samdb.xyz/    //intro to kernel exploit
+- https://github.com/hanc00l/rop_linux_kernel_pwn    //Linux漏洞挖掘
+- https://github.com/xairy/linux-kernel-exploitation    //Linux漏洞挖掘
+- https://azeria-labs.com/    //arm 溢出
+- https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
