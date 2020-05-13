@@ -272,22 +272,16 @@
 - https://github.com/audibleblink/doxycannon    //PY.使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 ### Cross超越边界自组网
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
-- https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本
-- https://github.com/teddysun/across    //BASH.npv、bbr、kms等脚本
-- https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要.NetFramework4.8。
-- https://github.com/Nyr/openvpn-install    //openvpn一键安装
-- https://github.com/quericy/one-key-ikev2-vpn    //CentOS/Debian/Ubuntu一键安装IPSEC/IKEV2 VPN脚本
+- https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本。G:Nyr/openvpn-install;G:quericy/one-key-ikev2-vpn;G:teddysun/shadowsocks_install;G:teddysun/across;--
+- https://github.com/netchx/Netch    //C#.类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要.NetFramework4.8。welljob。
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
+- https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:红蓝对抗之组一个安全的网;--
 - https://github.com/zerotier    //C++.网络虚拟化平台云自组网
 - https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;
-- https://github.com/teddysun/shadowsocks_install    //shadowsocks/shadowsocksr
-- https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https等多种代理
-- https://github.com/shadowsocks/shadowsocks-manager    //shadowsocks多用户管理
-- https://github.com/leitbogioro/SSR.Go    //shadowsocksrr配置管理简化工具
-- https://github.com/Ehco1996/django-sspanel    //基于Django的shadowsocks网络面板
+- https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https 等多种网络代理
 - https://github.com/ssrpanel/SSRPanel    //ss\ssr\v2ray用户分布式管理
-- https://github.com/xuanhuan/ss-panel    //ss用户分布式管理
-- https://github.com/Ahref-Group/SS-Panel-smarty-Edition    //ss用户分布式管理，兑换码功能、商城系统，服务器信息
+- https://github.com/Ahref-Group/SS-Panel-smarty-Edition    //ss用户分布式管理，兑换码功能、商城系统，服务器信息。G:xuanhuan/ss-panel;G:shadowsocks/shadowsocks-manager;
+G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/txthinking/brook    //GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
@@ -960,43 +954,6 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 - https://github.com/target/strelka    //PY3.文件变化实时监控。
-## 恶意样本分析沙盒检测
-- https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统
-- https://github.com/euphrat1ca/Panda-Sandbox    //PY.钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件分析系统
-- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
-- https://github.com/felicitychou/MalAnalyzer    //PY3.基于docker虚拟化的恶意代码沙箱
-### 软件/文件样本数据
-- https://github.com/open-power-workgroup/Hospital    //全国莆田系医院名单
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSample.md/    //恶意样本数据源收集库。myWiki
-- https://github.com/gh0stkey/avList    //杀软进程对应杀软名称
-### 在线文件检测
-- https://app.any.run/    //可视化在线恶意文件检测。包含流行恶意文件样本
-- https://habo.qq.com    //在线恶意文件检测
-- http://r.virscan.org/    //在线杀毒
-- https://www.appscan.io    //盘古app安全移动软件在线检测
-- http://safe.ijiami.cn    //爱加密app安全移动软件在线检测
-- http://appscan.360.cn    //360移动app安全移动软件在线检测
-- https://service.security.tencent.com/kingkong    //腾讯金刚app安全移动软件在线检测
-### 文件查杀
-- https://www.freebuf.com/articles/network/139697.html    //intro.使用深度学习检测DGA（域名生成算法）
-- https://github.com/mwleeds/android-malware-analysis    //PY.利用机器学习进行恶意Android安卓应用检测
-- https://github.com/chaitin/cloudwalker    //GO.CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
-- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:he1m4n6a/findWebshell;G:ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:yassineaddi/BackdoorMan;G:nbs-system/php-malware-finder;G:emposha/PHP-Shell-Detector;G:nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;
-- https://github.com/KasperskyLab/klara    //卡巴斯基开源基于Yara的分布式恶意软件扫描系统，
-- https://github.com/botherder/kraken    //GO.实现的Yara恶意软件扫描器
-- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
-- https://github.com/nao-sec/tknk_scanner    //yara引擎为基础的恶意软件识别框架
-- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
-- http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
-- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
-- http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
-- https://github.com/viper-framework    //PY2.二进制分析和管理框架
-- http://www.clamav.net/downloads    //病毒查杀软件
-- https://github.com/joxeankoret/pigaios    //直接对比源代码与编译的二进制文件
-- https://github.com/sfaci/masc    //扫描网站中的恶意软件， 以及其他一些网站维护功能
-- https://github.com/Neo23x0/munin    //依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
-- https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
-- https://github.com/alexandreborges/malwoverview    //simple.将恶意文件进行快速分类
 # 安全体系防护相关
 - https://github.com/Bypass007/Safety-Project-Collection    //收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
 - https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
