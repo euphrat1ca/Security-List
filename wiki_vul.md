@@ -10,7 +10,7 @@
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/KishanBagaria/AirDoS    //PY3.基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
-## Web漏洞工具CMS利用
+## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
 - https://github.com/w1109790800/penetration    //CMS新老版本exp与系统漏洞搜集表
@@ -26,6 +26,12 @@
 - https://github.com/lijiejie/IIS_shortname_Scanner    //PY2.IIS短文件名漏洞扫描
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
+- https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
+- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
+- https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
+- https://github.com/jas502n/fastjson-RCE    //fastjson-v1.2.47-RCE 命令执行漏洞
+- https://www.corben.io/atlassian-crowd-rce/    //JAVA.atlassian crowd,CVE-2019-11580.
+- https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
 ### thinkphp漏洞
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
 - https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
@@ -48,7 +54,7 @@
 - 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
 - https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi；
 - http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
-## 软件应用漏洞
+## 软硬固件漏洞应用
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
 - https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
@@ -61,21 +67,15 @@
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。P:whoer.net web应用指纹获取集合;
 - https://www.freebuf.com/articles/terminal/175862.html    //INTRO.从OpenVPN配置文件中创建反弹Shell实现用户系统控制
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
-- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过
-- https://github.com/leapsecurity/libssh-scanner    //CVE-2018-10933，libssh服务端身份验证绕过
+- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过。g:leapsecurity/libssh-scanner;--
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
-- https://www.corben.io/atlassian-crowd-rce/    //JAVA.atlassian crowd,CVE-2019-11580.
-- https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //intro.文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    //PY.MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690
 - https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
-- https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
-- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
-- https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
-- https://github.com/jas502n/fastjson-RCE    //fastjson-v1.2.47-RCE 命令执行漏洞
+- https://windows-internals.com/printdemon-cve-2020-1048/    //打印机欺骗利用打印功能。G:ionescu007/PrintDemon;--
 ### 数据库漏洞
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
@@ -200,7 +200,7 @@
 ## 提权相关漏洞
 - https://github.com/AlessandroZ/BeRoot    //PY.通过检查常见的错误配置来查找提权方法. 支持Windows/Linux/Mac
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.提权枚举工具包，通过webApi上报信息。
-### Linux提权相关
+### Linux提权利用相关
 - https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
 - https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:nilotpalbiswas/Auto-Root-Exploit;G:WazeHell/PE-Linux;-
@@ -213,7 +213,7 @@
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:can1357/CVE-2018-8897;-
 ### Windows提权利用相关
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
-- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:kerberos域控ms14‐068/;G:51x/WHP;G:ianxtianxt/win-exp-/;
+- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:kerberos域控ms14‐068/;G:51x/WHP;G:ianxtianxt/win-exp-/;G:lyshark/Windows-exploits;--
 - https://github.com/bitsadmin/wesng    //PY.WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Sherlock    //PS.win提权漏洞验证。1k。
 - https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;goodjob。

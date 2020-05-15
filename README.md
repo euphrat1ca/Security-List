@@ -1,7 +1,7 @@
 ***项目简介***
 根据中华人民共和国《网络安全法》相关政策规定，本文章只做学习测试，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担(The author does not assume any legal responsibility.)<br>
 &emsp;&emsp;https://github.com/euphrat1ca/security_w1k1 //Have to say,the index is in my mind<br>
-&emsp;&emsp;信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（此基础上做持久化控制）、扫尾。<br>
+&emsp;&emsp;一个 Red Team 攻击的生命周期，整个生命周期包括：信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场（扫尾）。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
 分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;<br>
 导航标签：一个人的安全部;Awesome系列;类似于*架构;<br>
@@ -95,6 +95,8 @@
 - https://www.freebuf.com/articles/neopoints/190895.html    //入门介绍。fuzz/漏挖/脚本
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
+- https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
+- https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
 ### 安全博客论坛
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
@@ -105,9 +107,8 @@
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;-
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
-- https://github.com/knownsec/KCon    //KCon大会文章PPT
-- https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
-- https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
+- https://github.com/knownsec/KCon    //KCon大会文章PPT。
+- https://www.hackinn.com/index.php/search/blackhat/    //blackhat黑帽大会ppt
 ### 安全工具使用手册指导介绍
 - https://github.com/HarmJ0y/CheatSheets    //多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
@@ -227,7 +228,7 @@
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 # 技术手段利用方式工具集合
-- https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队开源和商业工具。goodjob。
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队攻击生命周期，开源和商业工具。goodjob。
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    //红队工具、攻击手段
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集
@@ -446,24 +447,18 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/veracrypt/VeraCrypt    //C.2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
 - https://github.com/AlkenePan/KAP    //GO.实现 ELF 文件保护
 ### 口令扫描爆破证书校验
-- https://github.com/vanhauser-thc/thc-hydra    //C.支持多种协议方式的破解与爆破
-- https://github.com/maaaaz/thc-hydra-windows    //C.hydra的windows编译版本
-- https://github.com/galkan/crowbar    //PY.支持openvpn、rdp、ssh、vnc破解
-- https://github.com/shack2/SNETCracker    //C#.密码爆破工具，支持SSH、RDP、MySQL等常见协议.超级弱口令爆破工具
-- https://github.com/jmk-foofus/medusa    //C.Linux下登录密码爆破工具
-- https://github.com/nmap/ncrack    //C.支持多种协议的破解与爆破
-- https://github.com/lanjelot/patator    //PY.支持多种协议的爆破，采用模块化设计，使用灵活.WELLJOB。
-- https://github.com/euphrat1ca/F-Scrack    //PY2.对各类服务用户名密码爆破的脚本.ysrc
-- https://github.com/netxfly/crack_ssh    //GO.协程版ssh\redis\mongodb弱口令破解
-- https://github.com/ztgrace/changeme    //弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件
-- https://github.com/ShawnDEvans/smbmap    //py.利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;
-- https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本
-- https://github.com/Moham3dRiahi/XBruteForcer    //perl.WordPress、Joomla、DruPal、OpenCart、Magento等CMS用户密码爆破
-- https://github.com/lijiejie/htpwdScan    //PY.simple，http暴力破解、撞库攻击脚本
-- https://github.com/galkan/crowbar    //PY.利用key对ssh、rdp、openvpn、vnc爆破
-- https://github.com/scu-igroup/ssh-scanner    //NMAP,HYDRA.ssh批量爆破
-- https://github.com/shengqi158/weak_password_detect    //NMAP.Linux下多线程探测ssh弱口令
+- https://github.com/vanhauser-thc/thc-hydra    //C.支持多种协议方式的破解与爆破.G:scu-igroup/ssh-scanner;G:lijiejie/htpwdScan;G:ztgrace/changeme;G:netxfly/crack_ssh;G:euphrat1ca/F-Scrack;--
+- https://github.com/maaaaz/thc-hydra-windows    //C.hydra的windows编译版本.
+- https://github.com/shack2/SNETCracker    //C#.密码爆破工具，支持SSH、RDP、MySQL等常见协议,超级弱口令爆破工具.
+- https://github.com/jmk-foofus/medusa    //C.快速并发模块化的登陆爆破工具。
+- https://github.com/lanjelot/patator    //PY2.集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
+- https://github.com/nmap/ncrack    //C。Nmap协议破解爆破组件.
+- https://github.com/galkan/crowbar    //PY.支持openvpn、rdp、ssh、vnc破解.G:shengqi158/weak_password_detect;--
+- https://github.com/ShawnDEvans/smbmap    //py.利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;--
 - https://github.com/InfosecMatter/Minimalistic-offensive-security-tools    //ps。smb、ad域密码爆破。
+- https://github.com/3gstudent/SharpRDPCheck    //C#。RDP爆破验证，支持ntlm登录验证。G:najachai/RDPUploader;--
+- https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
+- https://github.com/Moham3dRiahi/XBruteForcer    //perl.WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破.
 ### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C.使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
@@ -631,22 +626,23 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/BlackHacker511/BlackRAT    //JAVA.跨平台rat。
 - https://github.com/ThatcherDev/BetterBackdoor     //JAVA.基于jre环境的跨平台后门，支持键盘注入功能。testjob.
 ### 多姿态远控shell
-- https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;
-- https://blog.csdn.net/Fly_hps/article/list/8?/    //FLy_鹏程万里【基础篇】———— 隐匿攻击之，ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy等多协议
+- https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
+- https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控plc远控
+- https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;--
 - https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;
-- https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell。2k。goodjob。
-- https://www.4hou.com/penetration/18447.html    //域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
+- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;--
+- https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell;--
+- https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 - https://github.com/no0be/DNSlivery    //PY3.基于scapy利用dns协议传输文件，条件简单。
-- https://github.com/Coalfire-Research/Slackor    //GO,PY3.基于slack框架命令控制，利用dns隐匿信道传输。集成spookflare/impacket/pypykatz。simple。goodjob。
+- https://github.com/Coalfire-Research/Slackor    //GO,PY3.基于slack框架命令控制，利用dns隐匿信道传输。集成spookflare/impacket/pypykatz，goodjob。
 - https://github.com/DamonMohammadbagher/NativePayload_ARP    //C#.利用arp协议传输后门
-- https://github.com/byt3bl33d3r/gcat    //PY2.使用 gmail 作为 C&C 服务器。Github:gdog;Github:Powershell-RAT。
-- https://github.com/mvrozanti/RAT-via-Telegram    //PY3.Windows下利用telegram的远程控制工具。Github:Parat;Github:twittor;Github:补bt2(Blaze Telegram Backdoor Toolkit);
+- https://github.com/byt3bl33d3r/gcat    //PY2.使用 gmail 作为 C&C 服务器。Github:gdog;Github:Powershell-RAT;--
+- https://github.com/mvrozanti/RAT-via-Telegram    //PY3.Windows下利用telegram的远程控制工具。Github:Parat;Github:twittor;Github:补bt2(Blaze Telegram Backdoor Toolkit);--
 - https://github.com/0x09AL/Browser-C2    //GO.利用chrome以浏览器的形式连接C2服务器
 - https://github.com/peewpw/Invoke-PSImage    //PS.将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。Github:et0x/C2。
 - https://github.com/Arno0x/WSC2    //PY.利用web套接字WebSockets进行数据传输
 - https://github.com/deepzec/Grok-backdoor    //PY.利用ngrok的后门
-- https://github.com/trustedsec/trevorc2    //PY.搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:WebDAVC2;
+- https://github.com/trustedsec/trevorc2    //PY.搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:WebDAVC2;--
 - https://github.com/h0mbre/Dali    //PY.利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
 - https://github.com/fox-it/LDAPFragger    //C#.利用ldap协议进行c2通讯
 ### 移动端远程协助
@@ -781,6 +777,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_IoT&ICS.md/    //物联网/工业互联网 安全。mywiki
 ## 移动安全
 - https://github.com/Brucetg/App_Security    //App安全学习资源
+- https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet    //移动安全测试条例
 - https://github.com/OWASP/owasp-mstg    OWASP Mobile Security Testing Guide移动安全测试资源
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    //软件自动化审计框架，支持docker运行。android、ios、win
 - https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/    //PY.Runtime Mobile Security (RMS) 移动端动态测试
