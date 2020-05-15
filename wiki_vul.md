@@ -110,6 +110,8 @@
 - https://github.com/feihong-cs/ShiroExploit_GUI    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）的一键化检测
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
+#### nginx相关漏洞
+- https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
 #### tomcat相关漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
