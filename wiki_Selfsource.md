@@ -56,6 +56,7 @@
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;
+- https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
 ### 项目管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
