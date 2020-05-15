@@ -1013,7 +1013,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO/C.owasp关于ModSecurity等防火墙规则库
 - https://github.com/xsec-lab/x-waf    //适用于中小企业的云waf
 - https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;
-- https://github.com/Janusec/janusec    //Golang.应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
+- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C.物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go.基于libinjection的Sql inject & XSS分析程序。
 ## Bypass安全防护绕过
