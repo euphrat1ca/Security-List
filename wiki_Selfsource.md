@@ -64,6 +64,12 @@
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
 - https://github.com/star7th/showdoc    //JS.开发文档、接口管理平台。
+### 项目同步
+- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
+- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
+- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
+- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
+- https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 ### 网盘同步云存储
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
@@ -72,13 +78,7 @@
 - https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少。
-- https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享
-### 文件同步
-- https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
-- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
-- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
-- https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
+- https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 ### 文档编辑
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
