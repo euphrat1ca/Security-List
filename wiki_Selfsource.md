@@ -14,6 +14,7 @@
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://github.com/huiyadanli/RevokeMsgPatcher    //C#.A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
+- https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -52,18 +53,17 @@
 - http://ohshitgit.com/    //intro.git操作手册
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务，3389分身多开。
-### 协同办公
+## 协同办公
+- https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
+- http://mrdoc.zmister.com/    //PY.给予django的MarkDown文档写作、项目管理，支持一键部署。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+### 办公通讯
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
-- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;
-- https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
 ### 项目管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
-- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理
-- https://gitee.com/pengzhile/atlassian-agent    //java.支持Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://github.com/lxerxa/actionview    //vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;
-- https://github.com/star7th/showdoc    //JS.文档管理平台。
-- https://gitee.com/zmister/MrDoc    //PY.简单的MarkDown文档写作、管理系统。
+- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
+- https://github.com/star7th/showdoc    //JS.开发文档、接口管理平台。
 ### 网盘同步云存储
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
@@ -71,7 +71,8 @@
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
 - https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    //GO.基于Caddy框架的网盘
-- https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少
+- https://github.com/haiwen/seafile    //C.私有云网盘，速度快，功能少。
+- https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享
 ### 文件同步
 - https://github.com/canton7/SyncTrayzor    //C#.同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -79,6 +80,8 @@
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 ### 文档编辑
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
+- https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。

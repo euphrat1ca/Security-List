@@ -395,8 +395,8 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
 - https://github.com/ox01024/Xray_and_crwlergo_in_server    //PY.PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动。相同还可以使用awvs爬虫功能等。
 G:timwhitez/crawlergo_x_XRAY;
-- https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner，官网x.hacking8.com。G:netxfly/passive_scan;
-- https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb
+- https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:netxfly/passive_scan;--
+- https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
 - https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
 - https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
@@ -722,7 +722,7 @@ G:timwhitez/crawlergo_x_XRAY;
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
 - https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
-- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;
+- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid //IIS后门;G:WBGlIl/IIS_backdoor;
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置

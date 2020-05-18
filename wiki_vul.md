@@ -62,6 +62,7 @@
 - https://www.secpulse.com/archives/18940.html    //intro.Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
 - https://bbs.pediy.com/thread-195431.htm    //INTRO.Pwn the n00bs - Acunetix 0day。awvs溢出攻击
 - https://www.anquanke.com/post/id/176379    //INTRO.蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
+- https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 - https://github.com/WyAtu/CVE-2018-20250    //PY.WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。P:whoer.net web应用指纹获取集合;
@@ -75,15 +76,14 @@
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/milo2012/CVE-2018-13379    //PY.FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //intro.如何攻击Fortigate SSL VPN
-- https://windows-internals.com/printdemon-cve-2020-1048/    //打印机欺骗利用打印功能。G:ionescu007/PrintDemon;--
+- https://windows-internals.com/printdemon-cve-2020-1048/    //欺骗利用打印机服务本地提权。G:ionescu007/PrintDemon;--
 ### 数据库漏洞
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net命令执行。
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问
-- https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;
-- https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行
-- https://www.freebuf.com/vuls/212799.html    //MongoDB未授权访问漏洞分析及整改建议
+- https://github.com/Ridter/redis-rce    //py.A exploit for Redis 4.x/5.x RCE, inspired by Redis post-exploitation.G:n0b0dyCN/redis-rogue-server;G:RicterZ/RedisModules-ExecuteCommand;--
+- https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ### C#/.Net反序列化漏洞
 - https://github.com/pwntester/ysoserial.net    //C#.配合PowerShell生成有效负载利用
@@ -221,10 +221,9 @@
 - https://github.com/danigargu/CVE-2020-0796    //C.CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;goodjob。
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C.利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
-- https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升，win server 2016-2019提权
-- https://github.com/breenmachine/RottenPotatoNG    //C++.CVE漏洞编号：CVE-2016-3225；烂土豆ms16-075利用NBNS本地域名欺骗和WPAD代理欺骗提权。
-- https://github.com/decoder-it/lonelypotato    //RottenPotatoNG变种，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:foxglovesec/Potato;
-- https://github.com/CCob/SweetPotato    //C#.RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。G:ohpe/juicy-potato;
+- https://github.com/SandboxEscaper/polarbearrepo    //C++.Win 10计划任务本地权限提升，win server 2016-2019提权。
+- https://github.com/breenmachine/RottenPotatoNG    //C++.CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:decoder-it/lonelypotato;G:foxglovesec/Potato;G:ohpe/juicy-potato;G:foxglovesec/RottenPotato;--
+- https://github.com/CCob/SweetPotato    //C#.RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。
 - https://github.com/uknowsec/SweetPotato    //C#.烂土豆webshell执行版本。
 - https://github.com/itm4n/PrintSpoofer    //C#。pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
