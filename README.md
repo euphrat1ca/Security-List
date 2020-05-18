@@ -98,12 +98,12 @@
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
 ### 安全博客论坛
-- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
-- bbs.125.la/ 精易求精;52pojie.cn/    //吾爱破解
-- lcx.cc：NuclearAtk核总，文章/工具；blog.orange.tw：橘子出品必属精品   //
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
+- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
+- www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
 - https://www.lshack.cn    //工控安全入门
-- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)。小四
+- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，小四。W:cnblogs.com/ssooking;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;-
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
