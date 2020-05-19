@@ -286,12 +286,12 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/txthinking/brook    //GO.支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
 - https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
-- https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;
-- https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;
+- https://github.com/v2ray/v2ray-core    //GO.多协议代理平台，自定义代理工具。G:2dust/v2rayN;--
+- https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;--
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
-- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场.mymonocloud;W:windscribe.com;W:hide.me;--
+- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场。mymonocloud;W:windscribe.com;W:hide.me;--
 - https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
-- https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //G:open-dingtalk/pierced 钉钉内网穿透
+- https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:open-dingtalk/pierced--
 ### IPv6安全相关
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C.si6networks.com组织的ipv6工具集
