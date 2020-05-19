@@ -6,6 +6,68 @@
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测等
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用
+## 网站扫描器漏洞检测
+- https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
+- https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版。有Nessus无IP限制版虚拟机
+- https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
+- https://github.com/gyoisamurai/GyoiThon    //PY.使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
+- https://github.com/iSafeBlue/TrackRay    //JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
+### 漏洞测试框架
+- https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
+- https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
+- https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;
+- https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
+- https://github.com/dhondta/sploitkit    //PY3.类msf漏洞利用框架。G:PowerScript/KatanaFramework;G:M4cs/BabySploit
+- - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言.降龙核工业交响曲bug project framework漏洞框架
+- https://github.com/opensec-cn/kunpeng    //GO.漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
+### 被动扫描代理抓包
+- https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
+- https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
+- https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
+- https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
+- https://github.com/ox01024/Xray_and_crwlergo_in_server    //PY.PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动。相同还可以使用awvs爬虫功能等。
+G:timwhitez/crawlergo_x_XRAY;
+- https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:netxfly/passive_scan;--
+- https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
+- https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
+- https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
+- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
+- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
+### 端口服务指纹主机识别
+- https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
+- https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
+- https://paper.seebug.org/1052/    //intro.从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
+- https://github.com/nray-scanner/nray    //GO.分布式扫描工具，支持ldap\证书扫描。
+- https://github.com/zmap/zmap    //C.无状态扫描，可使用用C编写扩展模块。censys三件套。
+- https://github.com/zmap/zgrab2    //GO.配合zmap/ztag的指纹抓取工具。censys三件套。
+- https://github.com/chichou/grab.js    //JS.类似于 zgrab 的TCP指纹抓取解析工具。
+- https://github.com/zmap/zdns    //GO.Fast CLI DNS Lookup Tool。censys三件套。
+- https://github.com/zmap/ztag    //PY.对zmap\zgrab产生的数据分析打标签。censys三件套。
+- https://github.com/OffensivePython/Nscan    //PY.类似于于Masscan和Zmap的端口服务扫描器
+- https://github.com/RASSec/RASscan    //PY.基础端口服务扫描demo
+- https://github.com/angryip/ipscan    //JAVA.Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
+- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
+- https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
+- https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
+- https://github.com/HA71/WhatCMS    //bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
+- https://github.com/urbanadventurer/whatweb    //RUBY.web指纹识别。2k。goodjob。
+- https://github.com/l3m0n/whatweb    //GO.网站指纹识别，Wappalyzer资产库。
+- https://github.com/Rvn0xsy/FastWhatWebSearch    //whatweb工具结果搜索平台
+- https://github.com/boy-hack/gwhatweb    //PY.CMS识别,gevent多线程实现
+- https://github.com/zerokeeper/WebEye    //PY.快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
+- https://github.com/n4xh4ck5/CMSsc4n    //PY.CMS指纹识别
+- https://github.com/Ms0x0/Dayu    //JAVA.指纹识别工具
+- https://github.com/0xbug/Howl    //网络设备 web 服务指纹扫描与检索
+- https://github.com/jekyc/wig    //web应用信息收集工具
+- https://github.com/tanjiti/FingerPrint    //web应用指纹识别
+- https://github.com/nanshihui/Scan-T    //网络爬虫式指纹识别
+- https://github.com/s0md3v/Arjun    //PY3.HTTP参数信息挖掘工具。simple。
+- https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描
+- https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别
+- https://github.com/rbsec/sslscan    //ssl类型识别
+- https://github.com/ywolf/F-MiddlewareScan    //中间件扫描服务识别
+- https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
+- https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ## web模糊测试
 - https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。
 - https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试

@@ -20,6 +20,13 @@
 - https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
 - https://github.com/mannirulz/BotDAD    //PY2.使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
 - https://github.com/lion-gu/ioc-explorer    //PY.从多数据源进行关联指标（IOC）自动探索
+### 常用报文库开源协议库
+- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
+- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
+- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
+- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
+- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
+- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ### 地理定位ip库分布
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
