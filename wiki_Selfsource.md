@@ -56,7 +56,7 @@
 ## 协同办公
 - https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
 - https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
-- http://mrdoc.zmister.com/    //PY.给予django的MarkDown文档写作、项目管理，支持一键部署。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+- http://mrdoc.zmister.com/    //PY.给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
 ### 办公通讯
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;

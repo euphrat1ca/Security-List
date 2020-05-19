@@ -12,10 +12,11 @@
 - https://github.com/nccgroup/argumentinjectionhammer    //Burp插件.识别参数注入漏洞
 - https://github.com/modzero/interestingFileScanner    //增强敏感文件扫描
 - https://github.com/c0ny1/chunked-coding-converter    //本插件主要用于分块传输绕WAF
-- https://github.com/ztosec/secscan-authcheck    //java.越权漏洞检测，支持web界面配置。Github:portswigger/authz
+- https://github.com/ztosec/secscan-authcheck    //java.越权漏洞检测，支持web界面配置。Github:portswigger/authz;--
 - https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描 api key/tokens
 - https://github.com/TheKingOfDuck/burpFakeIP    //PY.IP修改伪造
 - https://github.com/c0ny1/sqlmap4burp-plus-plus    //sqlmap4burp++是一款多个系统平台的Burp与sqlmap联动插件
+- https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
 ### nmap拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
