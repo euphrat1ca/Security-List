@@ -17,6 +17,7 @@
 - https://github.com/TheKingOfDuck/burpFakeIP    //PY.IP修改伪造
 - https://github.com/c0ny1/sqlmap4burp-plus-plus    //sqlmap4burp++是一款多个系统平台的Burp与sqlmap联动插件
 - https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
+- https://github.com/portswigger/http-request-smuggler    //http请求走私
 ### nmap拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
