@@ -11,17 +11,14 @@
 # 安全相关资源列表
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
-- https://github.com/k4m4/movies-for-hackers    //安全相关电影
 - http://www.owasp.org.cn/owasp-project/owasp-things    //OWASP项目
-- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单
 - https://github.com/SecWiki/sec-chart    //安全思维导图集合
-- https://github.com/Mayter/sec-charts    //在sec-wiki的思维导图加上作者收藏
+- https://github.com/Mayter/sec-charts    //在sec-wiki的思维导图 plus
 - https://github.com/Ascotbe/Osmographic-brain-mapping    //安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/tom0li/collection-document    //安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis 资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 - https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
-- https://github.com/zhengjim/Chinese-Security-RSS/    //安全RSS订阅列表
 - http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计
 ## 安全建设方案
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
@@ -97,13 +94,6 @@
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
-### 安全博客论坛
-- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
-- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
-- www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
-- https://www.lshack.cn    //工控安全入门
-- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，小四。W:cnblogs.com/ssooking;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;-
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
@@ -190,7 +180,7 @@
 - https://www.nomoreransom.org    //在线勒索病毒解决方案
 ## 攻防技术资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
-- https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;
+- https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;--
 - https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程
 - https://github.com/meitar/awesome-cybersecurity-blueteam    // A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - https://bitvijays.github.io    //infosec知识总结。goodjob。
@@ -295,13 +285,15 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/fgont/ipv6toolkit    //C.si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //GO.ipv6地址枚举扫描
 - https://github.com/christophetd/IPv6teal    //PY.利用ipv6隐蔽隧道传输数据
-### 信息保护隐匿流量洋葱路由
-- https://www.torproject.org/    //洋葱浏览器。P:dnmugu4755642434.onion/ kilos搜索引擎;
+## 信息隐匿保护
+- https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_Selfsource；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    //DWS用来关闭windows监控服务
 - https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
 - https://github.com/Rizer0/Log-killer    //日志清除，Windows/Linux 服务器中的所有
 - https://github.com/360-A-Team/EventCleaner    //日志擦除工具
+### 隐匿流量洋葱路由
+- https://www.torproject.org/    //洋葱浏览器。P:dnmugu4755642434.onion/ kilos搜索引擎;
 - https://github.com/s-rah/onionscan    //darkweb暗网爬虫
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    //使用nmap扫描Tor网络上隐藏的"onion"服务
@@ -733,7 +725,17 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件.mywiki
 
 ---
+### 博客论坛信息流
+- https://github.com/k4m4/movies-for-hackers    //安全相关电影
+- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单
+- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
+- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
+- www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
+- https://www.lshack.cn    //工控安全入门
+- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，小四。W:cnblogs.com/ssooking;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
 - https://i.hacking8.com/    //安全信息流。
 - http://wiki.ioin.in/    //sec-news 安全文摘;先知;freebuf
 - https://github.com/topics/security    //GitHub安全类目。G:We5ter/Scanners-Box;--
