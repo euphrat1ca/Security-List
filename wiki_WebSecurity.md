@@ -155,7 +155,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - http://blog.safebuff.com/2016/07/03/SSRF-Tips/    //ssrf漏洞利用手册
 - https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
-- https://www.anquanke.com/post/id/145519/    //浅析SSRF原理及利用方式
+- https://www.anquanke.com/post/id/145519/    //浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
 ## XSS跨站脚本检测利用
 - https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
 - https://xsspt.com/index.php?do=blist    //乌云xss学习
