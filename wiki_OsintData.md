@@ -8,6 +8,7 @@
 - https://opencorporates.com/    //国际天眼查
 - http://dingba.top/    //丁爸情报分析师。文章/资源汇总
 - https://osintcurio.us    //荷兰开源情报分析师博客
+- http://yss.mof.gov.cn/    //预算司
 - https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf/    //情报收集组织。开源情报资源与工具手册2018版
 - https://fas.org/irp/doddir/army/fmi2-22-9.pdf/    //开源情报的特征、开源情报组织、开源情报注意事项、开源情报的运作的计划和准备、开源情报类别、开源情报收集和处理等内容。
 - https://fas.org/irp/doddir/army/atp2-22-9.pdf/    //美国陆军开源情报2012版

@@ -54,19 +54,18 @@
 - https://github.com/Viralmaniar/Passhunt    //PY.simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## ICS工控安全
 - https://github.com/hslatman/awesome-industrial-control-system-security    //工控系统安全方向优秀资源收集仓库
+- http://www.icsmaster.org/archives/ics/942    //工匠安全实验室，工控安全工具集，技术文章复现研究。P:plcscan.org/blog/ //烽台科技灯塔实验室;W:freebuf.com/ics-articles //工控分类;--
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类。
 - https://github.com/ITI/ICS-Security-Tools    //工控安全资源。国内外文章、脚本、固件、协议库、数据包、相关工具。G:euphrat1ca/ICSwiki;
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟公开课系列
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护。
-- http://plcscan.org/blog/    //烽台科技灯塔实验室。W:freebuf.com/ics-articles //工控分类;--
 - http://plcscan.org/blog/2014/08/ics-security-attack-demo-rail-transit/    //工控安全攻防演练场景实现分享（轨道交通）。W:乌云工控漏洞;--
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结
 - http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:freebuf.com/column/209611.html;--
 ### ICS工具框架集
-- http://www.icsmaster.org/archives/ics/942    //工控安全工具集。G:w3h/icsmaster;--
-- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源
+- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:w3h/icsmaster;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
 - https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
@@ -77,6 +76,8 @@
 - https://github.com/nsacyber/GRASSMARLIN    //SA 开发的工控 ICS/SCADA 态势感知开源工具。
 - https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
 - https://github.com/XHermitOne/icscanner    //界面化ics扫描器
+### 工控协议
+- https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
 ### ics 西门子S7安全
 - http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件
 - https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。
