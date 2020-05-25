@@ -10,6 +10,7 @@
 - https://github.com/kkamagui/napper-for-tpm    //PY.针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/KishanBagaria/AirDoS    //PY3.基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
+- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15。goodjob。
 ## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
