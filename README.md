@@ -241,15 +241,14 @@
 ## 端口转发映射代理穿透
 - https://github.com/fatedier/frp    //Golang.用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。
 - https://github.com/inconshreveable/ngrok    //GO.端口转发，正反向代理，内网穿透.17K。
-- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 - https://github.com/L-codes/Neo-reGeorg    //PY.‘reDuh’‘reGeorg’的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。
-- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。2k。G:SECFORCE/Tunna;--
+- https://github.com/cnlh/nps    //GO.内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- https://github.com/vzex/dog-tunnel    //GO.Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。2k。G:SECFORCE/Tunna;G:securesocketfunneling/ssf;G:sysdream/ligolo;--
+- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;G:ls0f/gortcp;Github:rtcp;Github:NATBypass;--
+- https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发。
 - https://github.com/davrodpin/mole    //GO.基于ssh的端口转发。
 - https://github.com/fbkcs/thunderdns    //PY.将tcp流量通过DNS协议转发，不需要客户端和socket5支持。
-- https://github.com/securesocketfunneling/ssf    //C++.TCP/UDP端口转发、socks代理、remote远程shell。
-- https://github.com/ls0f/gortcp    //GO.内网穿透、远程文件上传下载、命令执行.Github:rtcp;Github:NATBypass;
-- https://github.com/Dliv3/Venom    //GO.类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;
-- https://github.com/decoder-it/psportfwd    //PowerShell.无需admin权限进行端口转发
+- https://github.com/esrrhs/pingtunnel/    //go。构建icmp隧道转发tcp/udp/sock5流量，端口转发、绕过验证。G:jamesbarlow/icmptunnel;--
 ### 端口复用
 - https://nets.ec/Shellcode/Socket-reuse    //C.套接字重用
 - https://github.com/earthquake/UniversalDVC    //C++.利用动态虚拟通道注册dll文件，进行rdp服务端口复用
@@ -323,11 +322,13 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/boy-hack/hack-requests    //PY3.python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/saghul/aiodns/    //PY.请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 ## 社工相关
-- https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具
-- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名
-- https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名
+- https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
+- https://github.com/ggerganov/kbd-audio    //C++.linux下利用麦克风监控键盘输入测试输入值。
+- https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
+- https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
+- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名。
+- https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
 - https://github.com/thinkst/canarytokens    //PY.重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标
-- https://github.com/ggerganov/kbd-audio    //C++.linux下利用麦克风监控键盘输入测试输入值
 - https://github.com/Viralmaniar/I-See-You    //bash.利用公网网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
 ### 网站克隆

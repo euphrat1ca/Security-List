@@ -81,7 +81,7 @@
 - https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;--
 - https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;Github:icmptunnel;--
+- https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;--
 - https://github.com/iagox86/dnscat2    //RUBY/C.cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell;--
 - https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 - https://github.com/no0be/DNSlivery    //PY3.基于scapy利用dns协议传输文件，条件简单。
