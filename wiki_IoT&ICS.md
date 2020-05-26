@@ -70,12 +70,15 @@
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
 - https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //PY3.工控安全漏洞测试框架
-- https://github.com/dark-lbp/isf    //PY2.基于routersploit基础开发的ISF(Industrial Control System Exploitation Framework)。
-- https://github.com/w3h/isf    //py2.基于Fuzzbunch命令行基础开发的工控测试框架。工匠实验室。
+- https://github.com/dark-lbp/isf    //PY2.基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
+- https://github.com/w3h/isf    //py2.基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens关于ICS数据包处理\捕获\可视化显示。
 - https://github.com/nsacyber/GRASSMARLIN    //SA 开发的工控 ICS/SCADA 态势感知开源工具。
 - https://github.com/digitalbond/Redpoint    //ICS识别所用nse脚本
 - https://github.com/XHermitOne/icscanner    //界面化ics扫描器
+### ICS代理转发远程访问
+- https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
+- http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能
 ### 工控协议
 - https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
 ### ics 西门子S7安全

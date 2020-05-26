@@ -31,9 +31,9 @@
 - https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
 - https://github.com/dpu/coremail-address-book/    /go。Coremail邮件系统组织通讯录导出脚本
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit
-- https://github.com/jas502n/fastjson-RCE    //fastjson-v1.2.47-RCE 命令执行漏洞
-- https://www.corben.io/atlassian-crowd-rce/    //JAVA.atlassian crowd,CVE-2019-11580.
-- https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086.利用jackson进行MySQL服务器任意文件读取漏洞
+- https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:jas502n/fastjson-RCE;--
+- https://www.corben.io/atlassian-crowd-rce/    //JAVA.atlassian crowd,CVE-2019-11580。
+- https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 ### thinkphp漏洞
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
 - https://github.com/Lucifer1993/TPscan    /PY3.thinkphp漏洞检测，已支持2019.
@@ -84,6 +84,7 @@
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net命令执行。
 - https://github.com/oliver006/redis_exporter    //GO.redis未授权访问，主从复制写shell。
+- https://github.com/r35tart/RedisWriteFile    //PY.通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:Ridter/redis-rce;G:RicterZ/RedisModules-ExecuteCommand;--
 - https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议

@@ -1,19 +1,23 @@
 # Fuzzer模糊测试
 - 工控模糊测试Wurldtech Achilles阿基里斯国际认证
+- LLVM工具链，基于编译器插桩的coverage-feedback driven fuzzer
+- https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全
 ## 模糊测试数据资料
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
-- https://github.com/mozillasecurity/fuzzdata    //
+- https://github.com/mozillasecurity/fuzzdata    //模糊测试输入样本资源
 ## 模糊测试框架工具
+- https://google.github.io/clusterfuzz/    //谷歌集群模糊测试平台
+- https://github.com/google/oss-fuzz    //C。谷歌对开源项目的进行免费的模糊测试服务
 - https://github.com/googleprojectzero/winafl    //C.Google Project Zero 基于Windows AFL开发的模糊测试框架。原创技术分析-AFL漏洞挖掘技术漫谈
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //intro.AFL使用指南
 - https://github.com/mxmssh/drAFL    //C.Linux模糊测试。G:atrosinenko/kbdysch;G:google/oss-fuzz;
 - https://github.com/zyw-200/FirmAFL    //C.针对iot固件IoT firmware灰盒模糊测试
-- https://www.peach.tech/    //C#.Peach3，网络协议、API、文件格式模糊测试。G:TideSec/Peach_Fuzzing;
+- https://www.peach.tech/    //C#.Peach3模板流（通过提前定义好的xml等文件模板对目标单位进行测试）模糊测试，网络协议、API、文件格式模糊测试。G:TideSec/Peach_Fuzzing;--
 - https://github.com/MozillaSecurity/peach    //PY3.MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。
-- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //intro.使用Peach进行模糊测试从入门到放弃。P:【工控安全】基于Peach的Modbus协议模糊测试;
+- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //intro.使用Peach进行模糊测试从入门到放弃。P:【工控安全】基于Peach的Modbus协议模糊测试;--
 - https://github.com/cisco-sas/kitty    //PY.针对TCP/IP的模糊测试框架。goodjob
 - https://kitty.readthedocs.io/en/latest/    //intro.kitty使用手册
 - https://github.com/cisco-sas/katnip    //PY.kitty框架的拓展库

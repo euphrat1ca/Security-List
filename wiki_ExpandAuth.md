@@ -78,7 +78,6 @@
 - https://github.com/ThatcherDev/BetterBackdoor     //JAVA.基于jre环境的跨平台后门，支持键盘注入功能。testjob.
 ### 多姿态远控shell
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
-- https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
 - https://github.com/ZHacker13/ReverseTCPShell    //PS.对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;--
 - https://github.com/0nise/shell-plus    //Java.基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://github.com/inquisb/icmpsh    //C.Simple reverse ICMP shell。Github:PiX-C2;--
