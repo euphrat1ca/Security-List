@@ -233,25 +233,3 @@ http://torstatus.blutmagie.de/
 SPF:http://spf.myisp.ch/
 MX:https://toolbox.googleapps.com/apps/checkmx
 DMARC:https://www.agari.com/insights/tools/DMARC
-### 在线恶意文件检测
-https://www.virustotal.com/gui/
-https://x.threatbook.cn/
-https://malwr.com/
-http://camas.comodo.com/  
-https://www.reverse.it/
-http://threatexpert.com/submit.aspx
-http://vicheck.ca/
-https://virusshare.com/
-https://malshare.com/
-https://github.com/ytisf/theZoo
-### 动态恶意文件检测
-cuckoo：https://github.com/cuckoosandbox/cuckoo
-regshot：https://sourceforge.net/projects/regshot/
-Process hackerhttps://processhacker.sourceforge.net
-Process monitor：https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
-ProcDot：https://www.cert.at/downloads/software/procdot_en.html
-windump：https://www.winpcap.org/windump/
-Graphviz：www.graphviz.org/Download.php
-Gapture-BAT:https://www.honeynet.org/node/315
-fakenet:https://sourceforge.net/projects/fakenet/
-wireshark:https://www.wireshark.org/download.html

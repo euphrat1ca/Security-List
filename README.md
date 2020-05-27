@@ -95,10 +95,9 @@
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
 ### 安全大会资料
-- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;-
+- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
-- https://github.com/knownsec/KCon    //KCon大会文章PPT。
-- https://www.hackinn.com/index.php/search/blackhat/    //blackhat黑帽大会ppt
+- https://github.com/knownsec/KCon    //KCon大会文章PPT。P:blackhat黑帽大会;--
 ### 安全工具使用手册指导介绍
 - https://github.com/HarmJ0y/CheatSheets    //多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
@@ -214,7 +213,7 @@
 - https://daiker.gitbook.io/windows-protocol    //内网域基础协议分析系列文章。本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
-- https://adsecurity.org    //Active Directory安全攻防
+- https://adsecurity.org    //Active Directory安全攻防。goodjob。
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 # 技术手段利用方式工具集合
@@ -727,20 +726,19 @@ W:ns4gov.000webhostapp.com;
 
 ---
 ### 博客论坛信息流
+- https://i.hacking8.com/    //安全信息流。
+- http://wiki.ioin.in/    //sec-news 安全文摘信息流。W:xj.hk;W:buaq.net;W:xssav.com;W:sec.thief.one;W:osint-labs.org;--
+- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
 - https://github.com/k4m4/movies-for-hackers    //安全相关电影
 - https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
+- https://github.com/topics/security    //GitHub安全类目。G:We5ter/Scanners-Box;--
+- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
 - https://www.lshack.cn    //工控安全入门
 - http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，小四。W:cnblogs.com/ssooking;--
 - http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
-- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
-- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
-- https://i.hacking8.com/    //安全信息流。
-- http://wiki.ioin.in/    //sec-news 安全文摘;先知;freebuf
-- https://github.com/topics/security    //GitHub安全类目。G:We5ter/Scanners-Box;--
-- https://www.osint-labs.org    //S.R.P OSINT-Labs开源情报实验室。W:xj.hk;W:8aq.net;W:xssav.com;W:sec.thief.one;--
-- https://start.me    //情报源。P:p/X20Apn;P:p/GE7JQb/osint;P:p/rxRbpo/ti;
 <br>
 TheEnd

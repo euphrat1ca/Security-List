@@ -149,6 +149,7 @@
 - https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS.基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
+- https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆
 ### 劫持注入权限绕过
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
