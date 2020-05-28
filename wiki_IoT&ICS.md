@@ -91,6 +91,6 @@
 - https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
 ### ics modbus安全
 - https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
-- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod。
+- https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod;--
 ### 工控模拟仿真
 - https://github.com/thiagoralves/OpenPLC_v3    //C++.最基本plc
