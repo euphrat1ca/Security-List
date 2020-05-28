@@ -84,10 +84,8 @@
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;
-- http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
-- https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
-- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
+- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;--
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化

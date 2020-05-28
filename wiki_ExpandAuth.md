@@ -129,7 +129,7 @@
 - https://github.com/trustedsec/unicorn    //PY.一键生成多种后门。G:n00py/Hwacha;G:ShutdownRepo/shellerator;--
 - https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/Veil-Framework/Veil    //PY.Msf免杀。2K。
-- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;
+- https://github.com/Screetsec/TheFatRat    //JAVA.msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
 ### shellcode相关
 - https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
@@ -164,7 +164,7 @@
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint 防护软件
-- https://github.com/Screetsec/Vegile    //SHELL/C.msf免杀，程序注入权限维持
+- https://github.com/Screetsec/Vegile    //SHELL/C。msf免杀，程序注入权限维持
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
@@ -208,14 +208,12 @@
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
-### 文件捆绑
-- https://github.com/islamadel/bat2exe    //VB.将bat文件转换为exe二进制文件。
-- https://github.com/tywali/Bat2ExeConverter    //将bat文件转换为exe二进制文件
-- https://github.com/Juntalis/win32-bat2exe    //将bat文件转换为exe二进制文件
-- http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。
+### 文件打包捆绑
+- https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
+- http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:islamadel/bat2exe;G:tywali/Bat2ExeConverter;G:Juntalis/win32-bat2exe;--
 - https://github.com/r00t-3xp10it/trojanizer    //将两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件
 - https://github.com/r00t-3xp10it/backdoorppt    //将payload更换图标
-- https://github.com/r00t-3xp10it/FakeImageExploiter    //将payload更换图标。需要wine与resourcehacker环境
+- https://github.com/r00t-3xp10it/FakeImageExploiter    //将payload更换图标，需要wine与resourcehacker环境。
 - https://github.com/DamonMohammadbagher/FakeFileMaker    //更换图标和名称
 - https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希

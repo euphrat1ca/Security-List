@@ -14,22 +14,26 @@
 - http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
 - http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
 - https://github.com/GuidoBartoli/sherloq    //C++.数字图片取证
-### 计算机设备取证
-- https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。商业版。易我数据恢复;RECUVA
-- http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。商业版。
-- https://clonezilla.org/downloads.php    //再生龙(Clonezilla)是一个免费的灾难恢复、硬盘克隆、硬盘映像档制作的部署和解决方案,由台湾的国家高速网络与计算中心(国网中心)所开发
+## 计算机设备取证
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
 - https://github.com/decalage2/oletools    //PY.用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档
 - https://github.com/google/bochspwn-reloaded    //Bochspwn Reloaded（内核信息泄漏检测）工具
 - https://github.com/comaeio/LiveCloudKd    //C.针对Hyper-V的内存取证
-- https://github.com/sevagas/swap_digger    //针对 Linux swap 进行取证分析的工具
-- http://extundelete.sourceforge.net/    //linux下的文件恢复
-- https://github.com/SekoiaLab/Fastir_Collector    //Windows取证/信息收集，不限于内存，注册表，文件信息等
-- https://github.com/Viralmaniar/Remote-Desktop-Caching-    //PY.RDP信息复原，png图片格式
-- https://github.com/snovvcrash/usbrip    //PY.Linux下带有CLI接口的开源取证工具，可用于跟踪/监控Linux机器上的USB设备连接事件（即USB事件历史记录，“已连接”和“已断开连接”事件）。
 - https://www.nirsoft.net/utils/usb_log_view.html    //USBLogView一款USB设备监控软件，后台运行，可以记录插入或拔出系统的任何USB的详情信息
 - https://github.com/CrowdStrike/automactc    //PY2.macOS环境自动化取证分类采集器
-#### 设备内存取证
+### Windows取证
+- http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
+- https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
+- https://github.com/SekoiaLab/Fastir_Collector    //Windows取证/信息收集，不限于内存，注册表，文件信息等
+- https://www.ontrack.com/products/data-recovery-software/    //easyrecovery文件恢复软件。商业版。易我数据恢复;RECUVA;--
+- http://www.diskgenius.cn/    //数据恢复/分区管理/备份还原。商业版。
+- https://clonezilla.org/downloads.php    //再生龙(Clonezilla)是一个免费的灾难恢复、硬盘克隆、硬盘映像档制作的部署和解决方案,由台湾的国家高速网络与计算中心(国网中心)所开发
+- https://github.com/Viralmaniar/Remote-Desktop-Caching-    //PY.RDP信息复原，png图片格式
+### Linux取证
+- https://github.com/snovvcrash/usbrip    //PY.Linux下带有CLI接口的开源取证工具，可用于跟踪/监控Linux机器上的USB设备连接事件（即USB事件历史记录，“已连接”和“已断开连接”事件）。
+- https://github.com/sevagas/swap_digger    //针对 Linux swap 进行取证分析的工具
+- http://extundelete.sourceforge.net/    //linux下的文件恢复
+### 设备内存取证
 - https://github.com/google/rekall    //PY.提取和分析数字Windows计算机系统
 - https://github.com/volatilityfoundation/volatility    //PY.计算机内存取证
 - https://github.com/gleeda/memtriage    //Windows内存取证分析
