@@ -94,3 +94,4 @@
 - https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod;--
 ### 工控模拟仿真
 - https://github.com/thiagoralves/OpenPLC_v3    //C++.最基本plc
+- https://www.modbustools.com/index.html    //modbus模拟软件
