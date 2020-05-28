@@ -38,6 +38,7 @@
 - https://github.com/alexbredo/honeypot-camera    //PY.摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
 - https://github.com/EasyDarwin/EasyIPCamera    //C.RTSP服务器组件用以构建摄像头蜜罐
 ### 工控蜜罐
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
 - https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统
 - https://github.com/djformby/GRFICS    //IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试
