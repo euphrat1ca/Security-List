@@ -235,7 +235,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/Hadesy2k/sqliv    //PY2.基于搜索引擎的批量SQL注入漏洞扫描器。simple。
 - https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    //PHP.sql注入辅助，数据脱取。
 - https://github.com/bambish/ScanQLi    //PY3.SQLI漏洞探测工具，不包含利用。simple
-### 网站管理WebShell
+## 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
 - https://github.com/AntSwordProject/AntSword-Labs    //antSword测试环境
 - https://github.com/Chora10/Cknife/pulls    //Java。中国菜刀,greatjob,2K。Github:SecQuanCknife;gitee.com/9199771/cknife;--
@@ -244,16 +244,20 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/euphrat1ca/Behinder    //JAVA6.rebeyond“冰蝎”动态二进制加密网站管理客户端
 - https://xz.aliyun.com/t/2744    //intro.“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
 - https://github.com/tengzhangchao/PyCmd    //PY.一句话木马客户端程序，目前支持php、jsp，CS端通信加密
-- https://github.com/epinna/weevely3    //PY.利用特定的一句话脚本对网站进行管理
-- https://github.com/nil0x42/phpsploit    //PY3.利用特定的一句话脚本对网站进行管理
-- https://github.com/wonderqs/Blade    //PY.利用特定的一句话脚本对网站进行管理
-- https://github.com/anestisb/WeBaCoo    //perl.利用特定的一句话脚本对网站进行管理
-- https://github.com/rebeyond/memShell    //JAVA.一款可以写入java web server内存中的无文件webshell
-- https://github.com/DXkite/freebuf-stream-shell    //PHP.使用流包装器实现WebShell。freebuf介绍。
-- https://github.com/yzddmr6/webshell-venom    //PY.免杀webshell无限生成工具。1k。Github:tennc/webshell。
-- https://github.com/UltimateHackers/nano    //php.一句话，附带py编写的生成器
-- https://github.com/antonioCoco/SharPyShell    //ASP.NET.webshell for C# web applications
+- https://github.com/yzddmr6/webshell-venom    //PY.免杀webshell无限生成工具。1k。Github:tennc/webshell;--
+### php webshells
 - https://github.com/k4mpr3t/b4tm4n    //PHP.大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws    //PHP.过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    //php.网站管理，默认密码b374k
 - https://github.com/wso-shell/WSO    //PHP.webshell的文件管理，可以伪装为404界面
+- https://github.com/DXkite/freebuf-stream-shell    //PHP.使用流包装器实现WebShell。freebuf介绍。
+- https://github.com/UltimateHackers/nano    //php.一句话，附带py编写的生成器
+- https://github.com/epinna/weevely3    //PY.利用特定的一句话脚本对网站进行管理
+- https://github.com/nil0x42/phpsploit    //PY3.利用特定的一句话脚本对网站进行管理
+- https://github.com/wonderqs/Blade    //PY.利用特定的一句话脚本对网站进行管理
+- https://github.com/anestisb/WeBaCoo    //perl.利用特定的一句话脚本对网站进行管理
+### Java webshells
+- https://github.com/rebeyond/memShell    //JAVA.一款可以写入java web server内存中的无文件webshell
+- https://github.com/threedr3am/JSP-Webshells    //jsp webshell 项目收集
+### ASP/X webshells
+- https://github.com/antonioCoco/SharPyShell    //ASP.NET.webshell for C# web application

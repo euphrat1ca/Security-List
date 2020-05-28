@@ -192,12 +192,15 @@
 - https://github.com/gianlucaborello/libprocesshider    //C.利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
 - https://github.com/lmacken/pyrasite    //PY3.对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;
-- https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL。需要重启；
+- https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
 ### 签名提取伪造修改
 - https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
 - https://github.com/secretsquirrel/SigThief    //PY.用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
 - https://github.com/secretsquirrel/SigThi    //PY3.伪造程序签名。
+## 痕迹清理隐藏
+- https://github.com/QAX-A-Team/ptrace/    //C. Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 ### 进程隐藏
 - https://www.cnblogs.com/mysgk/p/9602977.html    //INTRO.linux 下隐藏进程的一种方法。利用libprocesshider
 - https://github.com/M00nRise/ProcessHider    //C++.Windows下隐藏进程
