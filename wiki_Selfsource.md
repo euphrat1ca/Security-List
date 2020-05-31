@@ -86,6 +86,7 @@
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
 - https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;--
+- https://github.com/marktext/marktext/    //js。markdown编辑器
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
@@ -114,7 +115,7 @@
 - https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
 - https://github.com/akaxincom/openzaly    //JAVA.聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。https://rocket.chat/install
-- https://www.fakenamegenerator.com    //多国身份信息模拟器
+- https://www.fakenamegenerator.com/    //多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    //PY.随机身份生成脚本
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
 - https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
@@ -138,7 +139,7 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //PY3.Windows下Linux子系统WSL管理工具
-- https://github.com/electerm/electerm    //JS.远程管理工具，putty/xshell/mobaxterm
+- https://github.com/electerm/electerm    //JS.远程管理工具，类 putty/xshell/mobaxterm 架构
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用

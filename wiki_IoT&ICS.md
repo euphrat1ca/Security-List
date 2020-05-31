@@ -83,8 +83,6 @@
 ## 工控协议
 - https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
 ### ics 西门子S7安全
-- http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件
-- https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。
 - https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
 - https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
 ### ics scada安全
@@ -94,8 +92,10 @@
 - https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
 - https://github.com/ezelf/modbusKiller    //py.Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。Github:Exploit-install/smod;--
 ## 工控模拟仿真
-- wiki_Honeypots    //工控蜜罐
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Honeypot.md/    //工控蜜罐。myWiki
 - https://github.com/thiagoralves/OpenPLC_v3    //C++.自定义多用途PLC软件
 - https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件
 - https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，web界面。G:thiagoralves/ScadaBR_Installer;--
 - https://www.modbustools.com/index.html    //modbus模拟软件
+- http://snap7.sourceforge.net/    //以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
+- https://www.freebuf.com/articles/ics-articles/212283.html    //intro.西门子S7通信过程及重放攻击分析。利用snap7与isfs7300进行重放测试。

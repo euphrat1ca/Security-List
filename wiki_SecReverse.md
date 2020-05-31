@@ -1,6 +1,6 @@
 ## 逆向安全破解分析
 - https://www.pelock.com/articles/reverse-engineering-tools-review    //Reverse engineering tools review 逆向工具测评
-- https://down.52pojie.cn/    //吾爱破解爱盘工具包。
+- https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.
 - https://github.com/sjatsh/unwxapkg    //GO.微信小程序反编译。G:oujunke/UnWechatApp;G:xuedingmiaojun/wxappUnpacker;G:leo9960/wechat-app-unpack;
