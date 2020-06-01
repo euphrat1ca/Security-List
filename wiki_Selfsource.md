@@ -11,6 +11,7 @@
 - https://github.com/jxlwqq/id-validator.py    //PY3.居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //PY3.动态二维码
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
+- https://github.com/rohitrango/automatic-watermark-detection/    //PY。自动检测去水印
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://github.com/huiyadanli/RevokeMsgPatcher    //C#.A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。

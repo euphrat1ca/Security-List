@@ -18,7 +18,7 @@
 - https://github.com/c0ny1/sqlmap4burp-plus-plus    //sqlmap4burp++是一款多个系统平台的Burp与sqlmap联动插件
 - https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
-### nmap拓展插件相关工具
+### Nmap/Masscan拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //GO.Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //PY.nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //BASH.联动masscan和nmap
@@ -40,6 +40,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //PY.cloudflare基于nmap开发的漏洞检测工具
+- https://github.com/offensive-security/masscan-web-ui/    //PHP.Masscan web界面
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包

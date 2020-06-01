@@ -33,20 +33,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
 - https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
-### 端口服务指纹主机识别
-- https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
-- https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
-- https://paper.seebug.org/1052/    //intro.从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
-- https://github.com/nray-scanner/nray    //GO.分布式扫描工具，支持ldap\证书扫描。
-- https://github.com/zmap/zmap    //C.无状态扫描，可使用用C编写扩展模块。censys三件套。
-- https://github.com/zmap/zgrab2    //GO.配合zmap/ztag的指纹抓取工具。censys三件套。
-- https://github.com/chichou/grab.js    //JS.类似于 zgrab 的TCP指纹抓取解析工具。
-- https://github.com/zmap/zdns    //GO.Fast CLI DNS Lookup Tool。censys三件套。
-- https://github.com/zmap/ztag    //PY.对zmap\zgrab产生的数据分析打标签。censys三件套。
-- https://github.com/OffensivePython/Nscan    //PY.类似于于Masscan和Zmap的端口服务扫描器
-- https://github.com/RASSec/RASscan    //PY.基础端口服务扫描demo
-- https://github.com/angryip/ipscan    //JAVA.Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
-- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
+### 指纹识别主机端口服务
 - https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
 - https://github.com/HA71/WhatCMS    //bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
@@ -153,9 +140,10 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/UltimateHackers/Blazy    //支持测试 CSRF， Clickjacking， Cloudflare and WAF的弱口令探测器
 ### SSRF服务端请求伪造
 - http://blog.safebuff.com/2016/07/03/SSRF-Tips/    //ssrf漏洞利用手册
+- https://github.com/random-robbie/ssrf-finder/    //go。ssrf漏洞检测
 - https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //PY.利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
-- https://www.anquanke.com/post/id/145519/    //浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
+- https://www.anquanke.com/post/id/145519/    //intro。浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
 ## XSS跨站脚本检测利用
 - https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
 - https://xsspt.com/index.php?do=blist    //乌云xss学习

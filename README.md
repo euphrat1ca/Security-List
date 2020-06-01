@@ -199,6 +199,7 @@
 - https://github.com/shegongbook/shegonganli    //社工案例
 ### 学习Web漏洞攻防
 - https://portswigger.net/web-security    //burpsuite官方web安全材料与实验室。testjob。
+- https://github.com/irsdl/top10webseclist/    //十大网络黑客技术列表
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    //Web安全学习笔记
 - https://techvomit.net/web-application-penetration-testing-notes/    //web渗透测试笔记
@@ -415,7 +416,20 @@ W:ns4gov.000webhostapp.com;
 - http://www.xmd5.org    //md5密码破解。需要登录
 - http://pmd5.com    //md5密码破解。需要验证码
 - https://www.onlinehashcrack.com    //md5密码破解。需要验证码
-### 资产管理信息搜集
+## 资产管理信息搜集
+- https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
+- https://github.com/robertdavidgraham/masscan    //C.无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
+- https://paper.seebug.org/1052/    //intro.从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
+- https://github.com/nray-scanner/nray    //GO.分布式扫描工具，支持ldap\证书扫描。
+- https://github.com/zmap/zmap    //C.无状态扫描，可使用用C编写扩展模块。censys三件套。
+- https://github.com/zmap/zgrab2    //GO.配合zmap/ztag的指纹抓取工具。censys三件套。
+- https://github.com/chichou/grab.js    //JS.类似于 zgrab 的TCP指纹抓取解析工具。
+- https://github.com/zmap/zdns    //GO.Fast CLI DNS Lookup Tool。censys三件套。
+- https://github.com/zmap/ztag    //PY.对zmap\zgrab产生的数据分析打标签。censys三件套。
+- https://github.com/OffensivePython/Nscan    //PY.类似于于Masscan和Zmap的端口服务扫描器
+- https://github.com/RASSec/RASscan    //PY.基础端口服务扫描demo
+- https://github.com/angryip/ipscan    //JAVA.Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
+- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 - https://github.com/BloodHoundAD/BloodHound    //PS.使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://www.4hou.com/penetration/5752.html    //INTRO.域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路
 - https://github.com/fdiskyou/hunter    //C++.调用 Windows API 对内网信息搜集。testjob。
@@ -424,26 +438,25 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/m8r0wn/nullinux    //PY.用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:sowish/LNScan;G:dr0op/bufferfly;--
 - https://github.com/ywolf/F-NAScan    //PY2.网络资产、端口服务搜集整理，生成报表显示。G:flipkart-incubator/RTA;--
-- https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
-- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。W:rumble.run;--
+- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部.
 - https://github.com/cea-sec/ivre    //PY.网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;--
-- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack。
-- https://github.com/grayddq/PubilcAssetInfo    //PY3.主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部
-- https://github.com/grayddq/PublicMonitors    //PY3.对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险。一个人的安全部
 ### 资产管理风险测试
+- https://github.com/ysrc/xunfeng    //PY.巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
+- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:grayddq/PublicMonitors;--
+- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //PY.资产收集，漏洞检测（集成awvs、创宇Pocsuite、nmap、hydra）。
-- https://github.com/TideSec/Mars    //PY.基于docker资产安全检测（集成awvs、创宇Pocsuite、nmap、hydra），一键启动。G:0xbug/Biu-framework;
+- https://github.com/TideSec/Mars    //PY.基于docker资产安全检测（集成awvs、创宇Pocsuite、nmap、hydra），一键启动。G:0xbug/Biu-framework;--
 - https://github.com/lcatro/network_backdoor_scanner    //C++.反向链接、内外网穿透、通信数据加密，http弱口令破解。
 - https://github.com/vletoux/pingcastle   //PY.AD域信息威胁等级测试
 - https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。G:NextronSystems/APTSimulator;--
 - https://github.com/guardicore/monkey    //PY.C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。P:guardicore.com/infectionmonkey;G:lawrenceamer/0xsp-Mongoose;--
-- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试
+- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
+- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试.
 ### 资产漏洞生命周期
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
 - https://github.com/DefectDojo/django-DefectDojo    //PY.基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
-- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3.SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
 ## MITM攻击流量劫持
 - https://github.com/bettercap/bettercap    //GO.中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等.5K.GREATJOB.
 - https://github.com/mitmproxy/mitmproxy    //PY.中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
@@ -536,7 +549,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //PY.pwn，自动攻击脚本
 ## 系统监控管理
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
-- down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;
+- down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;--
 - https://github.com/mohuihui/antispy    //C/C++.枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
 - https://github.com/draios/sysdig    //C++.系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/PY.ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控

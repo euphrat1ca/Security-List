@@ -144,7 +144,7 @@
 - https://github.com/smicallef/spiderfoot    //PY.利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //GO.利用OSINT自动化搜集信息
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
-- https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描
+- https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //PY.根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
 - https://github.com/HurricaneLabs/machinae    //PY.ip/url/file/email/dns/hash/domain多接口
@@ -166,7 +166,7 @@
 - http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录DNSLog
 - https://github.com/opensec-cn/vtest    //PY.用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/al0ne/Vxscan    //PY3.目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
-- https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过
+- https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
 - https://github.com/christophetd/CloudFlair    //PY.利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:CloudFail;Github:Cloudmare.1K。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
@@ -247,9 +247,9 @@
 - https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
 - https://github.com/dowjones/hammer    //PY.AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ### Git安全相关
-- https://github.com/0xbug/Hawkeye    //JS,PY.GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;
-- https://github.com/neal1991/gshark    //JS/GO.github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;
-- https://github.com/VKSRC/Github-Monitor    //JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警
+- https://github.com/0xbug/Hawkeye    //JS,PY.GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
+- https://github.com/neal1991/gshark    //JS/GO.github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--
+- https://github.com/VKSRC/Github-Monitor    //JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警。
 - https://github.com/Furduhlutur/yar    //GO.用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
