@@ -19,8 +19,8 @@
 - http://pandas.pydata.org    //数据分析
 - https://github.com/r0f1/datascience    //大数据分析功能库推荐
 - https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
-- https://github.com/mannirulz/BotDAD    //PY2.使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
-- https://github.com/lion-gu/ioc-explorer    //PY.从多数据源进行关联指标（IOC）自动探索
+- https://github.com/mannirulz/BotDAD    //Py3。使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
+- https://github.com/lion-gu/ioc-explorer    //Py。从多数据源进行关联指标（IOC）自动探索
 ### 常用报文库开源协议库
 - https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
 - https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
@@ -49,14 +49,14 @@
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
-- https://github.com/Te-k/harpoon    //PY.基于osint的威胁情报命令行工具
+- https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki
 - https://www.threatcrowd.org/    //微步威胁情报分析平台。Web:ti.qianxin.com;Web:feed.watcherlab.com;Web:x.threatbook.cn。
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://github.com/OpenCTI-Platform/opencti    //JS.网络威胁情报平台
-- https://github.com/t4d/StalkPhish    //PY.钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
+- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 - https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址，集成bro
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
@@ -106,31 +106,31 @@
 - https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    //美国联邦航空管理局（FAA）注册的所有飞机的登记册
 - https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询
 ### 社交媒体情报源
-- https://github.com/Greenwolf/social_mapper    //PY.Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
+- https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //【工具】Facebook相关的一些情报分析工具
 - https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //【工具】一些与Twitter相关的情报分析工具
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
-- https://github.com/xHak9x/fbi    //PY2.facebook脸书信息收集工具
+- https://github.com/xHak9x/fbi    //Py3。facebook脸书信息收集工具
 - https://github.com/initstring/linkedin2username    //通过Linkedin 领英获取相关公司员工列表
 - https://github.com/0x09AL/raven    //linux下领英Linkedin information gathering tool
 - https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
-- https://github.com/MazenElzanaty/TwLocation    //PY.获取Twitter用户发推的地址
+- https://github.com/MazenElzanaty/TwLocation    //Py。获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    //web界面，对twitter账户进行全面的分析
 - http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
-- https://github.com/martinvigo/ransombile    //RUBY.根据社交媒体密码找回信息
+- https://github.com/martinvigo/ransombile    //Ruby。根据社交媒体密码找回信息
 - https://www.reg007.com/    //注册过哪家网站app
 ### 企业人员信息搜集
 - https://hunter.io/    //企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
 - https://github.com/x0day/Multisearch-v2    //Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/vysec/MaiInt    //公司雇员信息收集测试工具
-- https://github.com/jofpin/trape    //PY.利用OSINT对人员进行追踪定位。4k。
+- https://github.com/jofpin/trape    //Py。利用OSINT对人员进行追踪定位。4k。
 - https://www.truthfinder.com    //美国公民信息查询。商业版。
 - https://infotracer.com    //姓名、手机、邮件地址等信息track。商业版。
 - https://github.com/famavott/osint-scraper    //输入人名或邮箱地址， 自动从互联网爬取关于此人的信息
-- https://github.com/n0tr00t/Sreg    //PY.Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+- https://github.com/n0tr00t/Sreg    //Py。Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 - https://github.com/SpiderLabs/social_mapper    //社交媒体枚举和关联工具， 通过人脸识别关联人物侧写
 - https://verify-email.org    //邮件真实性验证
 - https://github.com/Tzeross/verifyemail    //py3。邮箱验证真实性
@@ -140,14 +140,14 @@
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
 ## 信息搜集OSINT
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
-- https://www.maltego.com/downloads/    //JAVA.多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
-- https://github.com/smicallef/spiderfoot    //PY.利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
-- https://github.com/Nhoya/gOSINT    //GO.利用OSINT自动化搜集信息
+- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
+- https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
+- https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
 - https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
-- https://github.com/super-l/superl-url    //PY.根据关键词，对搜索引擎内容检索结果的网址内容进行采集
+- https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
-- https://github.com/HurricaneLabs/machinae    //PY.ip/url/file/email/dns/hash/domain多接口
+- https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dns/hash/domain多接口
 - https://github.com/gh0stkey/ahrid    //py.利用jsonp等漏洞通过分析模块对黑客画像溯源
 ### 在线信息搜集网站
 - https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;
@@ -164,80 +164,81 @@
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
 - http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录DNSLog
-- https://github.com/opensec-cn/vtest    //PY.用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
-- https://github.com/al0ne/Vxscan    //PY3.目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
-- https://github.com/boy-hack/w8fuckcdn    //PY.基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
+- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
+- https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
-- https://github.com/christophetd/CloudFlair    //PY.利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:CloudFail;Github:Cloudmare.1K。
+- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:CloudFail;Github:Cloudmare.1K。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
-- https://github.com/se55i0n/PortScanner    //PY2.目标tcp端口快速扫描、banner识别、cdn检测。
+- https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    //py.子域名，IP，CDN信息爆破
-- https://github.com/m0rtem/CloudFail    //PY.利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
+- https://github.com/m0rtem/CloudFail    //Py。利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
 ### PDNS(Passive DNS)收集系统
-- https://github.com/JustinAzoff/bro-pdns    //GO.基于bro的pdns收集工具
+- https://github.com/JustinAzoff/bro-pdns    //Go。基于bro的pdns收集工具
 - https://www.circl.lu/services/passive-dns    //pdns服务
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
-- https://github.com/laramies/theHarvester    //PY.企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:bit4woo/teemo;--
+- https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:bit4woo/teemo;--
 - https://github.com/shmilylty/OneForAll    //py3.子域收集工具，多接口/爆破/验证/接管。testjob。
-- https://github.com/michenriksen/aquatone    //GO.子域名枚举、探测工具。可用于子域名接管漏洞探测
-- https://github.com/guelfoweb/knock    //PY.通过爆破进行子域名获取，可用于查找子域名接管漏洞
-- https://github.com/blechschmidt/massdns    //C.通过DNS高效子域发现工具
-- https://github.com/SpiderLabs/HostHunter    //PY3.通过多接口，ssl证书进行hostname子域名查询。
-- https://github.com/caffix/amass    //GO.通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k。goodjob。
+- https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。可用于子域名接管漏洞探测
+- https://github.com/guelfoweb/knock    //Py。通过爆破进行子域名获取，可用于查找子域名接管漏洞
+- https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具
+- https://github.com/SpiderLabs/HostHunter    //Py3。通过多接口，ssl证书进行hostname子域名查询。
+- https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k。goodjob。
 - https://github.com/OJ/gobuster    //Golang.根据dns查询子域名和web目录爆破的工具，自带字典。
-- https://github.com/euphrat1ca/LayerDomainFinder    //C#.cnseay法师Layer子域名挖掘机
-- https://github.com/aboul3la/Sublist3r    //PY.通过搜索引擎与爆破快速子域枚举工具
+- https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机
+- https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具
 - https://github.com/Ice3man543/subfinder    //Golang.go实现的Sublist3r
-- https://github.com/TheRook/subbrute    //PY.扫描器中常用的子域名爆破API库
+- https://github.com/TheRook/subbrute    //Py。扫描器中常用的子域名爆破API库
 - https://github.com/nahamsec/lazyrecon    //BASH.侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等
-- https://github.com/FeeiCN/ESD    //PY3.爆破搜集子域名
+- https://github.com/FeeiCN/ESD    //Py3。爆破搜集子域名
 - https://github.com/guimaizi/get_domain    //py.基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
 - https://github.com/pentester-io/commonspeak    //BASH.Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
-- https://github.com/blark/aiodnsbrute/    //PY3.DNS异步爆破子域名
-- https://github.com/lijiejie/subDomainsBrute    //PY3.子域名爆破枚举工具,GOODJOB.
-- https://github.com/ring04h/wydomain    //PY.猪猪侠开发的一款域名子域名枚举工具
-- https://github.com/n4xh4ck5/N4xD0rk    //PY.利用搜索引擎来搜集子域名，可以使用西班牙语搜集
-- https://github.com/vysec/DomLink    //PY2.调用WHOXY.com，对邮箱和域名进行进一步的搜集
-- https://github.com/jonluca/Anubis    //PY3.子域名爆破与信息收集
-- https://github.com/le4f/dnsmaper    //PY.web界面，子域名枚举爆破工具以及地图位置标记
-- https://github.com/thewhiteh4t/seeker    //PY.获取高精度地理信息和设备信息的工具
+- https://github.com/blark/aiodnsbrute/    //Py3。DNS异步爆破子域名
+- https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具,GOODJOB.
+- https://github.com/ring04h/wydomain    //Py。猪猪侠开发的一款域名子域名枚举工具
+- https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎来搜集子域名，可以使用西班牙语搜集
+- https://github.com/vysec/DomLink    //Py3。调用WHOXY.com，对邮箱和域名进行进一步的搜集
+- https://github.com/jonluca/Anubis    //Py3。子域名爆破与信息收集
+- https://github.com/le4f/dnsmaper    //Py。web界面，子域名枚举爆破工具以及地图位置标记
+- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://github.com/0xbug/orangescan    //web界面，子域名信息收集工具
-- https://github.com/We5ter/GSDF    //PY.基于谷歌SSL透明证书的子域名查询脚本
-- https://github.com/mandatoryprogrammer/cloudflare_enum    //PY.利用CloudFlare的dns进行子域名枚举
-- https://github.com/x0day/bannerscan    //PY.C段/旁站查询与路径扫描
-- https://github.com/Xyntax/BingC    //PY.基于Bing搜索引擎的C段/旁站查询，多线程
-- https://github.com/zer0h/httpscan    //PY.网段Web主机发现小工具
-- https://github.com/s0md3v/ReconDog    //PY.simple，侦查信息的瑞士军刀
-- https://github.com/chrismaddalena/ODIN    //PY3.simple，信息收集与后期漏洞利用
+- https://github.com/We5ter/GSDF    //Py。基于谷歌SSL透明证书的子域名查询脚本
+- https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
+- https://github.com/x0day/bannerscan    //Py。C段/旁站查询与路径扫描
+- https://github.com/Xyntax/BingC    //Py。基于Bing搜索引擎的C段/旁站查询，多线程
+- https://github.com/zer0h/httpscan    //Py。网段Web主机发现小工具
+- https://github.com/s0md3v/ReconDog    //Py。simple，侦查信息的瑞士军刀
+- https://github.com/chrismaddalena/ODIN    //Py3。simple，信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息
 - https://github.com/code-scan/BroDomain    //子域名查询
-- https://github.com/chuhades/dnsbrute    //GO.dns子域名爆破工具
-- https://github.com/evilsocket/dnssearch    //GO.dns子域名爆破工具
-- https://github.com/reconned/domained    //PY.可用于子域名收集的一款工具
-- https://github.com/bit4woo/Teemo    //PY.多方式域名收集及枚举工具
-- https://github.com/swisskyrepo/Subdomino    //PY.子域名枚举，端口扫描，服务存活确认
-- https://github.com/nmalcolm/Inventus    //PY.通过爬虫实现的子域名收集工具
+- https://github.com/chuhades/dnsbrute    //Go。dns子域名爆破工具
+- https://github.com/evilsocket/dnssearch    //Go。dns子域名爆破工具
+- https://github.com/reconned/domained    //Py。可用于子域名收集的一款工具
+- https://github.com/bit4woo/Teemo    //Py。多方式域名收集及枚举工具
+- https://github.com/swisskyrepo/Subdomino    //Py。子域名枚举，端口扫描，服务存活确认
+- https://github.com/nmalcolm/Inventus    //Py。通过爬虫实现的子域名收集工具
 ## 云安全相关
+- https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
 ### 敏感信息泄露发现
 - https://github.com/donot-wong/sensinfor    //JS.chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
-- https://github.com/Yelp/detect-secrets    //PY.防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
+- https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 - https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
-- https://github.com/Ice3man543/hawkeye    //GO.cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
+- https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
-- https://github.com/lijiejie/idea_exploit    //PY.利用 IDE config folder (.idea) 进行文件下载
+- https://github.com/lijiejie/idea_exploit    //Py。利用 IDE config folder (.idea) 进行文件下载
 - https://github.com/Graph-X/davscan    //PY,BASH.用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
-- https://github.com/Threezh1/JSFinder    //PY.用于发现网站js文件中的url与域名
-- https://github.com/eldraco/domain_analyzer    //PY.DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
-- https://github.com/mhelwig/privdns    //PY3.利用nameserver的错误配置，dns解析暴露其内网地址
-- https://github.com/gehaxelt/ds_store    //GO.苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
-- https://github.com/admintony/svnExploit/    //PY.SVN源代码泄露全版本Dump源码
+- https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
+- https://github.com/eldraco/domain_analyzer    //Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
+- https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址
+- https://github.com/gehaxelt/ds_store    //Go。苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
+- https://github.com/admintony/svnExploit/    //Py。SVN源代码泄露全版本Dump源码
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:shengqi158/svnhack;--
 ### 亚马逊AWS安全相关
-- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //PY.AWS云安全研究，工具集。
+- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
 - https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
@@ -245,23 +246,23 @@
 - https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
 - https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
 - https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
-- https://github.com/dowjones/hammer    //PY.AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
+- https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ### Git安全相关
-- https://github.com/0xbug/Hawkeye    //JS,PY.GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
-- https://github.com/neal1991/gshark    //JS/GO.github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--
+- https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
+- https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--
 - https://github.com/VKSRC/Github-Monitor    //JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警。
-- https://github.com/Furduhlutur/yar    //GO.用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
+- https://github.com/Furduhlutur/yar    //Go。用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //GO.检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;
-- https://github.com/internetwache/GitTools    //SHELL\PY3.查找、下载、提取 .git 。1.4k。
-- https://github.com/BugScanTeam/GitHack    //PY.可还原历史版本， .git源代码泄漏利用工具
+- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;
+- https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取 .git 。1.4k。
+- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本， .git源代码泄漏利用工具
 ### 目录路径发现
-- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //JAVA.目录路径枚举Fuzz爆破
-- https://github.com/ffuf/ffuf    //GO.web网站路径、参数、子域名、数据模糊测试（fuzzing）
-- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#.目录路径爆破
-- https://github.com/TheM4hd1/PenCrawLer    //C#.界面，web爬虫与目录路径爆破工具，除了常规扫描增加了递归爆破模式
+- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破
+- https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）
+- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破
+- https://github.com/TheM4hd1/PenCrawLer    //C#。界面，web爬虫与目录路径爆破工具，除了常规扫描增加了递归爆破模式
 - https://github.com/maurosoria/dirsearch    //经典目录路径扫描
 - https://github.com/Xyntax/DirBrute    //目录路径爆破工具
 - https://github.com/abaykan/crawlbox    //目录路径路径扫描器
@@ -269,10 +270,10 @@
 - https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞
 - https://github.com/fnk0c/cangibrina    //通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器
 - https://github.com/Go0s/SitePathScan    //基于协程的目录路径爆破工具，配合aiohttp扫描路径比之前快了三倍有余
-- https://github.com/0daysec/webscan_dir    //PY.轻量级web目录扫描器，支持选择字典和过滤状态码
-- https://github.com/lijiejie/BBScan    //PY.网站信息泄漏批量扫描脚本。GOODJOB。
-- https://github.com/jerrychan807/WSPIH    //PY3.敏感文件路径扫描下载
-- https://github.com/aipengjie/sensitivefilescan    //PY2.网站敏感文件扫描工具
-- https://github.com/Mosuan/FileScan    //PY.网站敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
-- https://github.com/Xyntax/FileSensor    //PY3.动态敏感文件探测工具
-- https://github.com/ring04h/weakfilescan    //PY.多线程网站泄露信息检测工具
+- https://github.com/0daysec/webscan_dir    //Py。轻量级web目录扫描器，支持选择字典和过滤状态码
+- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GOODJOB。
+- https://github.com/jerrychan807/WSPIH    //Py3。敏感文件路径扫描下载
+- https://github.com/aipengjie/sensitivefilescan    //Py3。网站敏感文件扫描工具
+- https://github.com/Mosuan/FileScan    //Py。网站敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
+- https://github.com/Xyntax/FileSensor    //Py3。动态敏感文件探测工具
+- https://github.com/ring04h/weakfilescan    //Py。多线程网站泄露信息检测工具

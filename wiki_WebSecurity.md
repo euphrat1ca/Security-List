@@ -10,45 +10,45 @@
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
 - https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版。有Nessus无IP限制版虚拟机
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
-- https://github.com/gyoisamurai/GyoiThon    //PY.使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
-- https://github.com/iSafeBlue/TrackRay    //JAVA.溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
+- https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
+- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
 ### 漏洞测试框架
-- https://github.com/euphrat1ca/exploitpack    //OracleJava.exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
-- https://github.com/knownsec/pocsuite3    //PY3.知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
-- https://github.com/Lucifer1993/AngelSword    //PY3.插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;
-- https://github.com/boy-hack/w9scan    //PY.下内置1200+插件可对网站进行一次规模的检测
-- https://github.com/dhondta/sploitkit    //PY3.类msf漏洞利用框架。G:PowerScript/KatanaFramework;G:M4cs/BabySploit
+- https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
+- https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;
+- https://github.com/boy-hack/w9scan    //Py。下内置1200+插件可对网站进行一次规模的检测
+- https://github.com/dhondta/sploitkit    //Py3。类msf漏洞利用框架。G:PowerScript/KatanaFramework;G:M4cs/BabySploit
 - - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言.降龙核工业交响曲bug project framework漏洞框架
-- https://github.com/opensec-cn/kunpeng    //GO.漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
+- https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描代理抓包
-- https://github.com/zaproxy/zaproxy    //JAVA.The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
+- https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。Github:x-Ai/BurpUnlimitedre。
 - https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
-- https://github.com/chaitin/xray    //GO.洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
-- https://github.com/ox01024/Xray_and_crwlergo_in_server    //PY.利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动,相同还可以使用awvs爬虫功能等。
+- https://github.com/chaitin/xray    //Go。洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版
+- https://github.com/ox01024/Xray_and_crwlergo_in_server    //Py。利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动,相同还可以使用awvs爬虫功能等。
 G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
-- https://github.com/w-digital-scanner/w13scan    //PY3.boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:netxfly/passive_scan;--
-- https://github.com/netxfly/Transparent-Proxy-Scanner    //GO.基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
+- https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:netxfly/passive_scan;--
+- https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
-- https://www.telerik.com/fiddler    //C#.Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
+- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
 - https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
 ### 指纹识别主机端口服务
 - https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
 - https://github.com/HA71/WhatCMS    //bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
-- https://github.com/urbanadventurer/whatweb    //RUBY.web指纹识别。2k。goodjob。
-- https://github.com/l3m0n/whatweb    //GO.网站指纹识别，Wappalyzer资产库。
+- https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k。goodjob。
+- https://github.com/l3m0n/whatweb    //Go。网站指纹识别，Wappalyzer资产库。
 - https://github.com/Rvn0xsy/FastWhatWebSearch    //whatweb工具结果搜索平台
-- https://github.com/boy-hack/gwhatweb    //PY.CMS识别,gevent多线程实现
-- https://github.com/zerokeeper/WebEye    //PY.快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
-- https://github.com/n4xh4ck5/CMSsc4n    //PY.CMS指纹识别
-- https://github.com/Ms0x0/Dayu    //JAVA.指纹识别工具
+- https://github.com/boy-hack/gwhatweb    //Py。CMS识别,gevent多线程实现
+- https://github.com/zerokeeper/WebEye    //Py。快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架
+- https://github.com/n4xh4ck5/CMSsc4n    //Py。CMS指纹识别
+- https://github.com/Ms0x0/Dayu    //Java。指纹识别工具
 - https://github.com/0xbug/Howl    //网络设备 web 服务指纹扫描与检索
 - https://github.com/jekyc/wig    //web应用信息收集工具
 - https://github.com/tanjiti/FingerPrint    //web应用指纹识别
 - https://github.com/nanshihui/Scan-T    //网络爬虫式指纹识别
-- https://github.com/s0md3v/Arjun    //PY3.HTTP参数信息挖掘工具。simple。
+- https://github.com/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
 - https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描
 - https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别
 - https://github.com/rbsec/sslscan    //ssl类型识别
@@ -56,16 +56,16 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ## web模糊测试
-- https://github.com/xmendez/wfuzz    //PY.Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。
-- https://github.com/1N3/BlackWidow    //PY.利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
+- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。
+- https://github.com/1N3/BlackWidow    //Py。利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 ## web应用扫描器框架
-- https://github.com/andresriancho/w3af    //PY.包含 200+ Web漏洞
+- https://github.com/andresriancho/w3af    //Py。包含 200+ Web漏洞
 - https://github.com/TideSec/WDScanner    //PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 - https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].
 - https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。
 - https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。
-- https://github.com/euphrat1ca/WebCruiserWVS    //C#.轻量扫描器，椰树前身
+- https://github.com/euphrat1ca/WebCruiserWVS    //C#。轻量扫描器，椰树前身
 - https://github.com/theInfectedDrake/TIDoS-Framework    //覆盖从侦察到漏洞分析的所有内容
 - https://github.com/Tuhinshubhra/RED_HAWK    //php.集成信息收集、漏洞扫描、指纹识别等的扫描工具
 - https://github.com/1N3/Sn1per    //PHP.自动化中间件扫描以及设备指纹识别
@@ -78,43 +78,43 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/zhangzhenfeng/AnyScan    //web界面，python漏洞扫描器，NoUpdate
 - https://github.com/Canbing007/wukong-agent    //web界面，python漏洞扫描器
 - https://github.com/dermotblair/webvulscan    //web界面，php，漏洞扫描器，支持输出pdf报告
-- https://github.com/0xInfection/TIDoS-Framework    //PY.linux，网站扫描器
-- https://github.com/secdec/adapt    //PY.linux，网站扫描器
-- https://github.com/sullo/nikto    //PERL.linux下网站扫描器
-- https://github.com/Ekultek/Zeus-Scanner    //PY.搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
-- https://github.com/jeffzh3ng/InsectsAwake    //PY.web界面，基于Flask应用框架的漏洞扫描系统，集成端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite。
+- https://github.com/0xInfection/TIDoS-Framework    //Py。linux，网站扫描器
+- https://github.com/secdec/adapt    //Py。linux，网站扫描器
+- https://github.com/sullo/nikto    //Perl。linux下网站扫描器
+- https://github.com/Ekultek/Zeus-Scanner    //Py。搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
+- https://github.com/jeffzh3ng/InsectsAwake    //Py。web界面，基于Flask应用框架的漏洞扫描系统，集成端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite。
 - https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器
 - https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner    //支持检测SQLi注入/XSS跨站/LFI本地文件包含/RFI远程文件包含等漏洞的扫描器
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner    //定向自动测试工具
-- https://github.com/Fireflyi/lcyscan    //PY.插件化漏洞扫描器，支持生成报表
+- https://github.com/Fireflyi/lcyscan    //Py。插件化漏洞扫描器，支持生成报表
 - https://github.com/Arachni/arachni    //Web应用漏洞扫描框架，支持REST、RPC等api调用
 - https://github.com/swisskyrepo/DamnWebScanner    //基于chrome/opera插件的被动式漏洞扫描
-- https://github.com/0xsauby/yasuo    //RUBY.扫描主机第三方web应用服务漏洞
+- https://github.com/0xsauby/yasuo    //Ruby。扫描主机第三方web应用服务漏洞
 - https://github.com/yangbh/Hammer    //Web应用漏洞扫描
 - https://github.com/viraintel/OWASP-Nettacker    //自动化渗透测试框架
 - https://github.com/flipkart-incubator/watchdog    //web扫描器与漏洞利用工具
-- https://github.com/m4ll0k/Galileo    //PY2.网站扫描器
-- https://github.com/samhaxr/hackbox    //PY2.simple，网站扫描器
-- https://github.com/secrary/EllaScanner    //PY3.simple，被动式漏洞扫描，支持历史cve编号漏洞识别
-- https://github.com/m4ll0k/WAScan    //PY.simple，扫描页面/链接/脚本/Form， 测试Payload等
-- https://github.com/jiangsir404/S7scan    //PY.DONE，简单扫描工具
-- https://github.com/hatRiot/clusterd    //PY.simple，web漏洞扫描利用
-- https://github.com/iceyhexman/onlinetools    //PY3.simple，DONE，web界面，利用antsword漏洞插件
-- https://github.com/tulpar/tulpar    //PY.支持多种web漏洞扫描.simple
-- https://github.com/UltimateHackers/Striker    //PY.信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
-- https://github.com/0x4D31/salt-scanner    //PY.基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
+- https://github.com/m4ll0k/Galileo    //Py3。网站扫描器
+- https://github.com/samhaxr/hackbox    //Py3。simple，网站扫描器
+- https://github.com/secrary/EllaScanner    //Py3。simple，被动式漏洞扫描，支持历史cve编号漏洞识别
+- https://github.com/m4ll0k/WAScan    //Py。simple，扫描页面/链接/脚本/Form， 测试Payload等
+- https://github.com/jiangsir404/S7scan    //Py。DONE，简单扫描工具
+- https://github.com/hatRiot/clusterd    //Py。simple，web漏洞扫描利用
+- https://github.com/iceyhexman/onlinetools    //Py3。simple，DONE，web界面，利用antsword漏洞插件
+- https://github.com/tulpar/tulpar    //Py。支持多种web漏洞扫描.simple
+- https://github.com/UltimateHackers/Striker    //Py。信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
+- https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
 ## 前端利用
 - https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
 - https://github.com/WMJonssen/Centcount-Analytics    //PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
-- https://github.com/ticarpi/jwt_tool    //PY.json web token的检测
-- https://github.com/MagicZer0/fastjson-rce-exploit    //JAVA.阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE。
-- https://github.com/dienuet/crossdomain    //PY.CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
-- https://github.com/chenjj/CORScanner    //PY.CORS域配置错误，跨域解析漏洞扫描器。
+- https://github.com/ticarpi/jwt_tool    //Py。json web token的检测
+- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE。
+- https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
+- https://github.com/chenjj/CORScanner    //Py。CORS域配置错误，跨域解析漏洞扫描器。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
 - https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
-- https://github.com/MichaelStott/CRLF-Injection-Scanner    //PY3.CRLF injection列表
+- https://github.com/MichaelStott/CRLF-Injection-Scanner    //Py3。CRLF injection列表
 - https://github.com/m3liot/shcheck    //用于检查web服务的http header的安全性
 - https://github.com/m101/hsploit    //RUST.HEVD 漏洞利用程序
 - https://github.com/rudSarkar/crlf-injector    //CRLF注入漏洞批量扫描
@@ -124,11 +124,11 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 ### SSL/TLS安全
 - https://github.com/drwetter/testssl.sh    //bash.开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
-- https://github.com/nabla-c0d3/sslyze    //PY3.SSL/TLS server扫描器
+- https://github.com/nabla-c0d3/sslyze    //Py3。SSL/TLS server扫描器
 ### 命令执行注入
 - https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。testjob。
-- https://github.com/commixproject/commix    //PY.命令注入漏洞扫描
-- https://github.com/ewilded/shelling    //JAVA.burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
+- https://github.com/commixproject/commix    //Py。命令注入漏洞扫描
+- https://github.com/ewilded/shelling    //Java。burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
 ### XXE漏洞
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
 - https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
@@ -141,11 +141,11 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 ### SSRF服务端请求伪造
 - http://blog.safebuff.com/2016/07/03/SSRF-Tips/    //ssrf漏洞利用手册
 - https://github.com/random-robbie/ssrf-finder/    //go。ssrf漏洞检测
-- https://github.com/swisskyrepo/SSRFmap    //PY.检测ssrf漏洞
-- https://github.com/tarunkant/Gopherus    //PY.利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
+- https://github.com/swisskyrepo/SSRFmap    //Py。检测ssrf漏洞
+- https://github.com/tarunkant/Gopherus    //Py。利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
 - https://www.anquanke.com/post/id/145519/    //intro。浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
 ## XSS跨站脚本检测利用
-- https://github.com/beefproject/beef    //JS,RUBY.BeEF跨平台Web浏览器渗透测试工具
+- https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
 - https://xsspt.com/index.php?do=blist    //乌云xss学习
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
 - http://www.xss-payloads.com    //xss工具包、资料、payload导航站
@@ -156,9 +156,9 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
 ### XSS检测辅助
-- https://github.com/s0md3v/XSStrike    //PY3.可识别并绕过WAF的XSS扫描工具
+- https://github.com/s0md3v/XSStrike    //Py3。可识别并绕过WAF的XSS扫描工具
 - https://github.com/hahwul/XSpear    //ruby.Powerfull XSS Scanning and Parameter analysis tool&gem
-- https://github.com/raz-varren/xsshell    //GO.利用xss返回js交互shell
+- https://github.com/raz-varren/xsshell    //Go。利用xss返回js交互shell
 - https://github.com/UltimateHackers/JShell    //利用xss返回js交互shell
 - https://github.com/shawarkhanethicalhacker/BruteXSS    //一款XSS扫描器，可暴力注入参数
 - https://github.com/1N3/XSSTracer    //小型XSS扫描器，也可检测CRLF、XSS、点击劫持的
@@ -167,7 +167,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/BlackHole1/autoFindXssAndCsrf    //自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
 - https://github.com/shogunlab/shuriken    //使用命令行进行XSS批量检测
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
-- https://github.com/bsmali4/xssfork    //PY.利用无头浏览器进行xss测试，kali下无法使用的话，请下载正确的PhantomJS到目录"thirdparty/phantomjs/Linux"。
+- https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下无法使用的话，请下载正确的PhantomJS到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描
 - https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 ### XSS漏洞利用平台框架
@@ -188,41 +188,41 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/WSP-LAB/FUSE    //py2.基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。TESTJOB。
 - https://github.com/UltimateHackers/Arjun    //扫描网页， 使用正则表达式爆破查找隐藏的GET/POST参数
 - https://github.com/3xp10it/xupload    //用于自动测试上传功能是否可上传webshell的工具
-- https://github.com/gunnerstahl/JQShell    //PY3.CVE-2018-9206 jQuery File Upload利用工具
+- https://github.com/gunnerstahl/JQShell    //Py3。CVE-2018-9206 jQuery File Upload利用工具
 - https://github.com/destine21/ZIPFileRaider    //burp插件，测试zip文件上传漏洞
-- https://github.com/jpiechowka/zip-shotgun    //PY.测试zip文件上传漏洞
-- https://github.com/almandin/fuxploider    //PY3.自判定网站类型与可被允许上传的文件格式类型。
+- https://github.com/jpiechowka/zip-shotgun    //Py。测试zip文件上传漏洞
+- https://github.com/almandin/fuxploider    //Py3。自判定网站类型与可被允许上传的文件格式类型。
 ### 数据库利用/扫描/爆破
-- https://github.com/sqlmapproject/sqlmap    //PY.sql注入sqlmap.GREATJOB.15K.
+- https://github.com/sqlmapproject/sqlmap    //Py。sql注入sqlmap.GREATJOB.15K.
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表
 - https://sqlwiki.netspi.com/    //你要的sql注入知识点都能找到
 - https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI    //mysql注入,bypass的一些心得
 - https://github.com/kevins1022/SQLInjectionWiki    //一个专注于聚合和记录各种SQL注入方法的wiki
 - https://sinister.ly/Thread-SQLi-Dumper-v-8-5-crack    //SQLi Dumper基于搜索引擎的自动化注入利用工具。GoodJob
-- https://github.com/ron190/jsql-injection    //Java.SQL注入工具.GOODJOB
-- https://github.com/shack2/SuperSQLInjectionV1    //C#.安恒航牛的超级SQL注入工具【SSQLInjection】.GOODJOB
+- https://github.com/ron190/jsql-injection    //Java。SQL注入工具.GOODJOB
+- https://github.com/shack2/SuperSQLInjectionV1    //C#。安恒航牛的超级SQL注入工具【SSQLInjection】.GOODJOB
 - https://www.52pojie.cn/thread-80225-1-1.html    //Pangolin Professinal Edition 3.2.4.1132 CracKed By Hmily[LCG]。白帽汇NOSEC的注入工具，NoUpdate，
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam编写的sql注入工具，NoUpdate，
-- https://github.com/codingo/NoSQLMap    //PY2.针对nosql数据库的注入工具。1k。
+- https://github.com/codingo/NoSQLMap    //Py3。针对nosql数据库的注入工具。1k。
 - https://github.com/torque59/Nosql-Exploitation-Framework    //NoSQL扫描/爆破工具
-- https://github.com/se55i0n/DBScanner    //PY2.扫描常见sql、no-sql数据库资产，进行未授权访问和弱口令检测。simple。
+- https://github.com/se55i0n/DBScanner    //Py3。扫描常见sql、no-sql数据库资产，进行未授权访问和弱口令检测。simple。
 - https://github.com/youngyangyang04/NoSQLAttack    //一款针对mongoDB的攻击工具
-- https://github.com/jas502n/unauthorized-tools    //PY.用于快速探测MongoDB未授权数据库结构，取第一条内容，并统计数据数量。
+- https://github.com/jas502n/unauthorized-tools    //Py。用于快速探测MongoDB未授权数据库结构，取第一条内容，并统计数据数量。
 - https://studio3t.com/download    //MongoDB扫描与连接工具
 - https://github.com/Neohapsis/bbqsql    //SQL盲注利用框架
 - https://github.com/m8r0wn/enumdb    //MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
 - https://github.com/NetSPI/PowerUpSQL    //Powershell.的sqlserver测试框架
-- https://github.com/Mayter/mssql-command-tool    //GO.mssql连接工具，sqlserver利用
-- http://www.4hou.com/system/14950.html    //INTRO.利用PowerUpSQL，渗透测试技巧：绕过SQL Server登录触发器限制
+- https://github.com/Mayter/mssql-command-tool    //Go。mssql连接工具，sqlserver利用
+- http://www.4hou.com/system/14950.html    //Intro。利用PowerUpSQL，渗透测试技巧：绕过SQL Server登录触发器限制
 - https://github.com/stampery/mongoaudit    //MongoDB审计及渗透工具
 - https://github.com/missDronio/blindy    //MySQL盲注爆破工具
 - https://github.com/LoRexxar/Feigong    //针对各种情况自由变化的MySQL注入脚本
-- https://github.com/JohnTroony/Blisqy    //PY.用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB
+- https://github.com/JohnTroony/Blisqy    //Py。用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB
 - https://github.com/Turr0n/firebase    //对没有正确配置的firebase数据库进行利用
 - https://github.com/quentinhardy/odat    //针对Oracle注入渗透工具
-- https://github.com/Hadesy2k/sqliv    //PY2.基于搜索引擎的批量SQL注入漏洞扫描器。simple。
+- https://github.com/Hadesy2k/sqliv    //Py3。基于搜索引擎的批量SQL注入漏洞扫描器。simple。
 - https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    //PHP.sql注入辅助，数据脱取。
-- https://github.com/bambish/ScanQLi    //PY3.SQLI漏洞探测工具，不包含利用。simple
+- https://github.com/bambish/ScanQLi    //Py3。SQLI漏洞探测工具，不包含利用。simple
 ## 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
 - https://github.com/AntSwordProject/AntSword-Labs    //antSword测试环境
@@ -230,9 +230,9 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/euphrat1ca/hatchet    //C++。中国大砍刀。
 - https://github.com/keepwn/Altman    //.Net,mono。跨平台菜刀。
 - https://github.com/euphrat1ca/Behinder    //JAVA6.rebeyond“冰蝎”动态二进制加密网站管理客户端
-- https://xz.aliyun.com/t/2744    //intro.“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
-- https://github.com/tengzhangchao/PyCmd    //PY.一句话木马客户端程序，目前支持php、jsp，CS端通信加密
-- https://github.com/yzddmr6/webshell-venom    //PY.免杀webshell无限生成工具。1k。Github:tennc/webshell;--
+- https://xz.aliyun.com/t/2744    //Intro。“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
+- https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序，目前支持php、jsp，CS端通信加密
+- https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。Github:tennc/webshell;--
 ### php webshells
 - https://github.com/k4mpr3t/b4tm4n    //PHP.大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws    //PHP.过防火墙webshell，post pass=DAws
@@ -240,12 +240,12 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/wso-shell/WSO    //PHP.webshell的文件管理，可以伪装为404界面
 - https://github.com/DXkite/freebuf-stream-shell    //PHP.使用流包装器实现WebShell。freebuf介绍。
 - https://github.com/UltimateHackers/nano    //php.一句话，附带py编写的生成器
-- https://github.com/epinna/weevely3    //PY.利用特定的一句话脚本对网站进行管理
-- https://github.com/nil0x42/phpsploit    //PY3.利用特定的一句话脚本对网站进行管理
-- https://github.com/wonderqs/Blade    //PY.利用特定的一句话脚本对网站进行管理
+- https://github.com/epinna/weevely3    //Py。利用特定的一句话脚本对网站进行管理
+- https://github.com/nil0x42/phpsploit    //Py3。利用特定的一句话脚本对网站进行管理
+- https://github.com/wonderqs/Blade    //Py。利用特定的一句话脚本对网站进行管理
 - https://github.com/anestisb/WeBaCoo    //perl.利用特定的一句话脚本对网站进行管理
 ### Java webshells
-- https://github.com/rebeyond/memShell    //JAVA.一款可以写入java web server内存中的无文件webshell
+- https://github.com/rebeyond/memShell    //Java。一款可以写入java web server内存中的无文件webshell
 - https://github.com/threedr3am/JSP-Webshells    //jsp webshell 项目收集
 ### ASP/X webshells
 - https://github.com/antonioCoco/SharPyShell    //ASP.NET.webshell for C# web application

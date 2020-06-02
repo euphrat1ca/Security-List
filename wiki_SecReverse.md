@@ -3,23 +3,23 @@
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.
-- https://github.com/sjatsh/unwxapkg    //GO.微信小程序反编译。G:oujunke/UnWechatApp;G:xuedingmiaojun/wxappUnpacker;G:leo9960/wechat-app-unpack;
+- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:oujunke/UnWechatApp;G:xuedingmiaojun/wxappUnpacker;G:leo9960/wechat-app-unpack;
 - https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
 ### PC端逆向分析
 - https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;
 - https://github.com/xrkk/awesome-ida    //IDA Pro有关的资源收集
 - https://github.com/onethawt/idaplugins-list    //IDA Plugins插件集合
-- https://github.com/dark-lbp/vxhunter    //PY.利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
-- https://github.com/NationalSecurityAgency/ghidra    //JAVA.NSA出品的软件逆向动态调试框架Ghidra，类比IDA。
-- https://github.com/ghidraninja/ghidra_scripts    //YARA,PY.Ghidra的Binwal\Yara联动插件
-- https://github.com/angr/angr    //PY.二进制分析工具,支持动态符号执行和静态分析。3k。
-- https://github.com/radare/radare2    //C.radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
-- https://github.com/radareorg/cutter    //C++.基于QT的radare2框架GUI。5k。
-- https://github.com/armijnhemel/binaryanalysis-ng    //PY3.Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
-- https://github.com/x64dbg/x64dbg    //C++.Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:32位汇编分析调试器Ollydbg;G:horsicq/x64dbg-Plugin-Manager;
-- https://github.com/ReFirmLabs/binwalk    //PY.固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
+- https://github.com/dark-lbp/vxhunter    //Py。利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
+- https://github.com/NationalSecurityAgency/ghidra    //Java。NSA出品的软件逆向动态调试框架Ghidra，类比IDA。
+- https://github.com/ghidraninja/ghidra_scripts    //YARA,Py。Ghidra的Binwal\Yara联动插件
+- https://github.com/angr/angr    //Py。二进制分析工具,支持动态符号执行和静态分析。3k。
+- https://github.com/radare/radare2    //C。radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
+- https://github.com/radareorg/cutter    //C++。基于QT的radare2框架GUI。5k。
+- https://github.com/armijnhemel/binaryanalysis-ng    //Py3。Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
+- https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:32位汇编分析调试器Ollydbg;G:horsicq/x64dbg-Plugin-Manager;
+- https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳分析PE操作
-- https://github.com/horsicq/Detect-It-Easy    //C.官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl
+- https://github.com/horsicq/Detect-It-Easy    //C。官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
 - https://github.com/rednaga/APKiD   //YARA.查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
@@ -28,25 +28,25 @@
 - https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex
 ### 汇编反编译框架
 - https://github.com/endgameinc/xori    //RUST.自定义反汇编框架，PE32, 32+ and shellcode。
-- https://github.com/blacknbunny/peanalyzer32    //PY3.PE 文件分析和反汇编工具
-- https://github.com/aquynh/capstone    //C.Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
-- https://github.com/joxeankoret/pyew    //PY.基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
+- https://github.com/blacknbunny/peanalyzer32    //Py3。PE 文件分析和反汇编工具
+- https://github.com/aquynh/capstone    //C。Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
+- https://github.com/joxeankoret/pyew    //Py。基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
 ### VB/易语言/C#逆向
-- https://github.com/icsharpcode/ILSpy    //C#.针对exe反编译软件。8k。goodjob。
-- https://github.com/0xd4d/dnSpy    //C#.dnSpy is a debugger and .NET assembly editor
+- https://github.com/icsharpcode/ILSpy    //C#。针对exe反编译软件。8k。goodjob。
+- https://github.com/0xd4d/dnSpy    //C#。dnSpy is a debugger and .NET assembly editor
 - https://www.vb-decompiler.org/products/cn.htm    //VB Decompiler是针对Visual Basic 5.0/6.0开发的程序反编译器
 ### Python逆向
-- https://sourceforge.net/projects/pyinstallerextractor    //PY.pyinstaller .exe反编译为 .pyc
-- https://github.com/countercept/python-exe-unpacker    //PY.Linux下py2exe or pyinstaller打包解压缩
+- https://sourceforge.net/projects/pyinstallerextractor    //Py。pyinstaller .exe反编译为 .pyc
+- https://github.com/countercept/python-exe-unpacker    //Py。Linux下py2exe or pyinstaller打包解压缩
 - http://tools.bugscaner.com/decompyle    //.pyc或 .pyo文件在线反编译
-- https://github.com/rocky/python-uncompyle6    //PY3.支持Python version 1.3 to version 3.7源码反编译，*.pyc。
-- https://github.com/wibiti/uncompyle2    //PY2.针对python2.7源码反编译
+- https://github.com/rocky/python-uncompyle6    //Py3。支持Python version 1.3 to version 3.7源码反编译，*.pyc。
+- https://github.com/wibiti/uncompyle2    //Py3。针对python2.7源码反编译
 - https://sourceforge.net/projects/easypythondecompiler    //Easy Python Decompiler利用 "Uncompyle2" & "Decompyle++"，支持.pyc 1.0 - 3.4源码反编译，GUI界面。
-- https://github.com/zrax/pycdc    //C++.Linux全版本*.pyc反编译。
+- https://github.com/zrax/pycdc    //C++。Linux全版本*.pyc反编译。
 ### Java逆向
-- https://github.com/skylot/jadx    //JAVA.jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:java-decompiler/jd-gui;
-- https://github.com/deathmarine/Luyten    //JAVA.java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
-- https://github.com/pxb1988/dex2jar    //JAVA. android/.dex/.class java文件逆向反编译
+- https://github.com/skylot/jadx    //Java。jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:java-decompiler/jd-gui;
+- https://github.com/deathmarine/Luyten    //Java。java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
+- https://github.com/pxb1988/dex2jar    //Java。 android/.dex/.class java文件逆向反编译
 - https://github.com/Col-E/Recaf    //java.java字节码编辑器。
 ### 安卓逆向APK分析
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
