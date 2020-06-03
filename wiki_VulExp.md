@@ -221,7 +221,7 @@
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:kerberos域控ms14‐068/;G:51x/WHP;G:ianxtianxt/win-exp-/;G:lyshark/Windows-exploits;--
 - https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Sherlock    //PS。win提权漏洞验证。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;--。
+- https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;G:chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
 - https://github.com/SandboxEscaper/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权。
@@ -236,6 +236,7 @@
 - https://github.com/alpha1ab/CVE-2018-8120    //win32k.sys组件的NtUserSetImeInfoEx()系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:unamer/CVE-2018-8120;
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权
+- https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
 ## 漏洞发掘分析
 - https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
 - https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
