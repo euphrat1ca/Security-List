@@ -81,6 +81,6 @@
 - https://github.com/mame82/P4wnP1    //在树莓派安装网络劫持键盘注入(WHID)工具,testjob.
 - https://github.com/360PegasusTeam/GhostTunnel    //可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
 - https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    //实战 Teensy 烧录间谍 U 盘。G:lr3800/teensy;
-- https://github.com/rawrly/JuiceJacking    //BASH.JuiceJacking,利用USB等人机接口设备窃取数据
+- https://github.com/rawrly/JuiceJacking    //Bash。JuiceJacking,利用USB等人机接口设备窃取数据
 - https://github.com/kenvix/USBCopyer    //C#。U盘文件自动拷贝usb copy
 - https://github.com/RedDrip7/USB-Bootkit    //物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。

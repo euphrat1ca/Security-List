@@ -36,7 +36,7 @@
 - https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
 - https://github.com/pasta-auto    //智能汽车测试
 - https://github.com/schutzwerk/CANalyzat0r    //Py。专有汽车协议的安全分析工具包
-- https://github.com/jgamblin/CarHackingTools    //BASH.汽车黑客工具箱，汽车信息调查
+- https://github.com/jgamblin/CarHackingTools    //Bash。汽车黑客工具箱，汽车信息调查
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -66,7 +66,7 @@
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结
 - http://plcscan.org/blog/2014/08/ics-security-attack-demo-rail-transit/    //工控安全攻防演练场景实现分享（轨道交通）。W:乌云工控漏洞;--
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护。
-- https://www.freebuf.com/vuls/230453.html/    //当PLC偶遇老旧但不乏经典的高级组包工具Hping3.DOS攻击
+- https://www.freebuf.com/vuls/230453.html/    //当PLC偶遇老旧但不乏经典的高级组包工具Hping。DOS攻击
 - https://www.freebuf.com/articles/ics-articles/212283.html    //西门子S7通信过程及重放攻击分析。利用snap7与isf对s7300进行重放测试。P:ics-articles/228770.html;--
 - https://www.freebuf.com/articles/ics-articles/220239.html/    //西门子S7comm-plus通信过程及重放攻击分析.P:ics-articles/230676.html;--
 - https://www.freebuf.com/articles/ics-articles/231701.html    //西门子S7系列中间人攻击：流量劫持和转发（一）
@@ -76,7 +76,7 @@
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:w3h/icsmaster;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
-- https://github.com/SadFud/Exploits    //PY/BASH.PWN利用框架 CTFs exploit POCs.工控漏洞POC
+- https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs.工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
 - https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
 - https://github.com/w3h/isf    //py2.基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。

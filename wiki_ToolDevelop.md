@@ -21,16 +21,16 @@
 ### Nmap/Masscan拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //Go。Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //Py。nmap调用库python
-- https://github.com/johnnyxmas/scancannon    //BASH.联动masscan和nmap
+- https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
 - https://github.com/cldrn/nmap-nse-scripts    //NSE收集列表
 - https://github.com/vulnersCom/nmap-vulners    //使用nmap扫描常见的服务漏洞
 - https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
 - https://github.com/m4ll0k/AutoNSE    //NSE自动化利用
 - https://github.com/vulnersCom/nmap-vulners    //lua.NSE利用 Vulners.com API将相关漏洞信息评分返回
 - https://github.com/Rvn0xsy/nse_vuln    //Nmap扫描漏洞利用脚本。tomcat任意文件上传漏洞CVE-2017-12615、weblogic、http（CVE-2017-12615/CNVD-C-2019-4814/CVE-2018-2894）
-- https://github.com/Screetsec/Dracnmap    //BASH.将Nmap复杂的命令进行一定程度的集成与简化，使新用户更加容易上手。
+- https://github.com/Screetsec/Dracnmap    //Bash。将Nmap复杂的命令进行一定程度的集成与简化，使新用户更加容易上手。
 - https://github.com/cldrn/rainmap-lite    //DjanGo。Web版Nmap，可以建立新的扫描服务器，允许用户从他们的手机/平板电脑/网络浏览器启动Nmap扫描
-- https://github.com/trimstray/sandmap    //BASH.linux下Nmap可配置形式的命令行操作台
+- https://github.com/trimstray/sandmap    //Bash。linux下Nmap可配置形式的命令行操作台
 - https://github.com/scipag/vulscan    //基于nmap的高级漏洞扫描器，命令行环境使用
 - https://github.com/Rev3rseSecurity/WebMap    //将nmap的xml web展示器
 - https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联
@@ -48,7 +48,7 @@
 - https://github.com/koenbuyens/kalirouter    //将kali设置为一个路由流量分析系统
 - https://github.com/secforce/sparta    //Py。界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    //Py3。simple，联动kali下工具，漏洞扫描工具
-- https://github.com/baguswiratmaadi/reverie    //BASH.ParrotSecOs联动工具
+- https://github.com/baguswiratmaadi/reverie    //Bash。ParrotSecOs联动工具
 ### Nessus拓展插件相关工具
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    //扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击

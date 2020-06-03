@@ -190,10 +190,10 @@
 - https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具
 - https://github.com/Ice3man543/subfinder    //Golang.go实现的Sublist3r
 - https://github.com/TheRook/subbrute    //Py。扫描器中常用的子域名爆破API库
-- https://github.com/nahamsec/lazyrecon    //BASH.侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等
+- https://github.com/nahamsec/lazyrecon    //Bash。侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等
 - https://github.com/FeeiCN/ESD    //Py3。爆破搜集子域名
 - https://github.com/guimaizi/get_domain    //py.基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
-- https://github.com/pentester-io/commonspeak    //BASH.Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
+- https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
 - https://github.com/blark/aiodnsbrute/    //Py3。DNS异步爆破子域名
 - https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具,GOODJOB.
 - https://github.com/ring04h/wydomain    //Py。猪猪侠开发的一款域名子域名枚举工具
@@ -230,7 +230,7 @@
 - https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 - https://github.com/lijiejie/idea_exploit    //Py。利用 IDE config folder (.idea) 进行文件下载
-- https://github.com/Graph-X/davscan    //PY,BASH.用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
+- https://github.com/Graph-X/davscan    //PY,Bash。用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
 - https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
 - https://github.com/eldraco/domain_analyzer    //Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
 - https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址

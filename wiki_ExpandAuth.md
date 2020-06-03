@@ -36,8 +36,8 @@
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //Intro。Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动
-- https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
+- https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）。P:域渗透——获得域控服务器的NTDS.dit文件;--
 ### 横向移动密码抓取
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:citronneur/rdpy;--
 - https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程

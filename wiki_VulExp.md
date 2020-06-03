@@ -86,7 +86,7 @@
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
 - https://github.com/r35tart/RedisWriteFile    //Py。通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:Ridter/redis-rce;G:RicterZ/RedisModules-ExecuteCommand;--
-- https://github.com/t0kx/exploit-CVE-2015-1427    //BASH.Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
+- https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ### C#/.Net反序列化漏洞
 - https://github.com/pwntester/ysoserial.net    //C#。配合PowerShell生成有效负载利用
@@ -156,19 +156,21 @@
 - https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
 - https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
 ## 微软MS相关漏洞
-- https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce 增加xp/03;
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
-- https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
-- https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞
 - https://github.com/smgorelik/Windows-RCE-exploits    //windows命令执行RCE漏洞POC样本，分为web与文件两种形式
 - https://github.com/3gstudent/CVE-2017-8464-EXP    //CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/Lz1y/CVE-2018-8420    //Windows的msxml解析器漏洞可以通过ie或vbs执行后门
-- https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:freebuf.com/vuls/147793.html;
+- https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:freebuf.com/vuls/147793.html;--
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
 - https://github.com/Ridter/RTF_11882_0802    //Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
-- https://github.com/gentilkiwi/kekeo    //C。Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;
+- https://github.com/gentilkiwi/kekeo    //C。Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:mubix/pykek;G:goldenPac.py;--
 - https://github.com/padovah4ck/CVE-2020-0683    //C++。利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
+### 微软直接RCE/LPE
+- https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;G:chompie1337/SMBGhost_RCE_PoC;--。
+- https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:coolboy4me/cve-2019-0708_bluekeep_rce //增加xp/03;G:MS08-067;--
+- https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17-010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
+- https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
 ### Exchange漏洞利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
 #### Exchange接口利用
@@ -221,7 +223,6 @@
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:kerberos域控ms14‐068/;G:51x/WHP;G:ianxtianxt/win-exp-/;G:lyshark/Windows-exploits;--
 - https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Sherlock    //PS。win提权漏洞验证。1k。
-- https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:ollypwn/SMBGhost;G:jiansiting/CVE-2020-0796;G:chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
 - https://github.com/SandboxEscaper/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权。

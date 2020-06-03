@@ -215,7 +215,7 @@
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具
 - https://adsecurity.org    //Active Directory安全攻防。goodjob。
-- https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;
+- https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;--
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 # 技术手段利用方式工具集合
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队攻击生命周期，开源和商业工具。goodjob。
