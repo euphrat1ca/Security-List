@@ -43,11 +43,11 @@
 - https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
 - https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等
-- https://github.com/twelvesec/passcat    //C。Windows 下密码抓取工具
+- https://github.com/twelvesec/passcat    //C。Windows 下密码抓取工具。
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
 - https://github.com/AlessandroZ/LaZagne    //py3.跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob。4.7k。
-- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码
-- https://github.com/putterpanda/mimikittenz    //PS。类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。
+- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码。
+- https://github.com/putterpanda/mimikittenz    //PS。类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:dafthack/DomainPasswordSpray;--
 ## 远程管理控制
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。Github:mwrlabs/C3;Github:cobbr/Covenant;--
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
@@ -60,7 +60,7 @@
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB。1k。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。基于大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。0.2k。
-- https://github.com/quasar/QuasarRAT/    C#。界面化远程管理工具。G:TheSph1nx/RT-101;G:DannyTheSloth/VanillaRatG:brunull/pace
+- https://github.com/quasar/QuasarRAT/    C#。界面化远程管理工具。G:TheSph1nx/RT-101;G:DannyTheSloth/VanillaRat;G:brunull/pace;--
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
 - https://github.com/cobbr/Covenant    //C#。.Net服务端C2控制器，配合powershell进行权限控制。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
@@ -120,19 +120,20 @@
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:n00py/Hwacha;G:ShutdownRepo/shellerator;--
-- https://github.com/Kkevsterrr/backdoorme    //py3、py2。多种类型的后门、shell生成工具，可以自动维持权限
+- https://github.com/Kkevsterrr/backdoorme    //py3,py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
 ### shellcode相关
-- https://www.shellterproject.com    //shellter是一款的动态Shellcode注入工具。商业版。
-- https://github.com/r00t-3xp10it/venom    //linux下metasploit Shellcode generator/compiller。Unix/Win/Web/Apk/IOS/MSoffice多种类型生成
+- https://www.shellterproject.com/    //shellter是一款的动态Shellcode注入工具。商业版。
+- https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY/C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
 - https://github.com/clinicallyinane/shellcode_launcher/    //C++。加载shellcode方式的payload到内存
 - https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode
-- https://github.com/brimstone/go-shellcode    //Go。加载载荷到内存
+- https://github.com/brimstone/go-shellcode    //Go。加载载荷到内存。
 - https://github.com/TheWover/donut    //C。将.Net程序集生成shellcode并以内存的形式加载运行
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
+- https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
 ### Windows混淆免杀
 - https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
@@ -194,8 +195,8 @@
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 ### 进程隐藏
-- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程。
-- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏执行程序、命令、后门、反调试取证。G:mempodippy/vlany/wiki //作者原知识库;--
+- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程。goodjob。
+- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏执行程序、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下隐藏进程。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务且管理员无法停止/暂停服务的程序。

@@ -33,9 +33,9 @@
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
 - 公众号：终端安全运营年度笔记    //
-### 安全建设防御
+### 安全建设防御方案
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略
-- "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome
+- "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
 - https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
 - https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口
@@ -132,7 +132,8 @@
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 - https://github.com/SwiftOnSecurity/sysmon-config    //sysmon配置文件安装
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
-- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，demo网址https://nginxconfig.io
+- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
+- https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 ### 系统安全检查基线配置
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
@@ -161,8 +162,8 @@
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
 - https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;-
 - https://github.com/tide-emergency/yingji    //Py3。查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
 - https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
+- https://github.com/al0ne/LinuxCheck    //Bash。linux信息收集/应急响应/常见后门检测脚本
 ### 日志分析可视化
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
@@ -512,6 +513,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具
 - https://github.com/crifan/android_app_security_crack    //安卓应用的安全和破解。goodjob。
 ### IOS/macOS安全
+- https://github.com/pwn20wndstuff/Undecimus/    //iOS 11.0 - 12.4全版本越狱。
 - https://github.com/axi0mX/ipwndfu    //Py。checkm8利用ios底层全版本越狱
 - https://github.com/dmayer/idb    //Ruby。开源的iOS App安全评估工具，作者是Danl A.Mayer。
 - https://github.com/mwrlabs/needle    //Py。MWR Labs开发的一个开源iOS安全测试框架，同样支持开发自定义模块来扩展Needle的功能，目前主要功能包含对iOS应用数据存储，IPC。网络通信，静态代码分析，hooking及二进制文件防护等方面的安全审计。
@@ -598,6 +600,9 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
 - https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
+## 安全防护建设
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护。
 ## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
@@ -651,6 +656,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
+- https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 ### 沙盒虚拟化容器云平台
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统
 - https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
