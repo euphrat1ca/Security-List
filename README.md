@@ -161,7 +161,7 @@
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
 - https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;-
 - https://github.com/tide-emergency/yingji    //Py3。查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
 - https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
 ### 日志分析可视化
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
@@ -676,6 +676,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/securego/gosec    //go.Go语言源码安全分析工具
 - https://github.com/GoSSIP-SJTU/TripleDoggy    //C。c/c++/object-c源代码检测框架，支持接口调用
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
+- https://www.kanxue.com/book-38-438.htm/    //第三课：Delphi代码审计--项目实战1
 ### JS代码审计应用安全
 - https://github.com/RetireJS/grunt-retire    //js.js扩展库漏洞扫描
 - https://github.com/Aurore54F/JaSt    //使用语法检测恶意/混淆的JS文件，https://www.blackhoodie.re/assets/archive/JaSt_blackhoodie.pdf
@@ -688,10 +689,10 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:Qihoo360/phptrace;
 - https://github.com/elcodigok/wphardening    //py.WordPress插件代码审计
 ### python代码审计应用安全
-- https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向
+- https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向。
 - https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞
 - https://github.com/facebook/pyre-check/    //Py3。facebook推出的Zoncolan基本版python代码静态审计工具。号称30分钟扫描一亿行代码库，bug漏洞都能找。
-- https://github.com/shengqi158/pyvulhunter    //Py。基于G:yinwang0/pysonar2的Python应用审计.NOUPDATE.
+- https://github.com/shengqi158/pyvulhunter    //Py。基于pysonar2的Python应用审计。NOUPDATE。G:yinwang0/pysonar2;--
 - https://github.com/PyCQA/bandit    //Py。python代码安全漏洞审计
 - https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具
 ## 压力测试DDOS/CC/拒绝服务

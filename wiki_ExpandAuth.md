@@ -194,9 +194,10 @@
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 ### 进程隐藏
-- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程
+- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程。
+- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏执行程序、命令、后门、反调试取证。G:mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
-- https://github.com/M00nRise/ProcessHider    //C++。Windows下隐藏进程
+- https://github.com/M00nRise/ProcessHider    //C++。Windows下隐藏进程。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务且管理员无法停止/暂停服务的程序。
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
