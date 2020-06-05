@@ -40,7 +40,7 @@
 - https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
 - https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口
 ### 红队基础设施自动化部署建设
-- https://github.com/QAX-A-Team/LuWu    //bash.红队基础设施自动化部署工具
+- https://github.com/QAX-A-Team/LuWu    //Bash。红队基础设施自动化部署工具
 - 公众号：红队攻防全流程解析    //
 ### 安全实验室中心建设
 - https://www.freebuf.com/articles/es/211571.html    //安全实验室的发展及展望
@@ -273,7 +273,7 @@
 G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
-- https://github.com/Ccapton/brook-ok    //bash.Brook一键安装脚本
+- https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本
 - https://github.com/v2ray/v2ray-core    //Go。多协议代理平台，自定义代理工具。G:2dust/v2rayN;--
 - https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;--
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
@@ -298,9 +298,9 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    //使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    //一个使所有流量通过Tor网络发出的脚本
-- https://github.com/Edu4rdSHL/tor-router    //bash.使用tor代理全部流量。dnsleaktest.com dns检测。
-- https://github.com/trimstray/multitor    //bash.启用多个TorBrowser通道转发流量，并设置负载均衡
-- https://github.com/NullArray/NetSet    //bash.终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
+- https://github.com/Edu4rdSHL/tor-router    //Bash。使用tor代理全部流量。dnsleaktest.com dns检测。
+- https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
+- https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
 ### 容器安全
 - https://vulnerablecontainers.org    //对公开docker容器镜像漏洞扫描，并标出CVE号
 - https://github.com/P3GLEG/WhaleTail    //根据docker镜像生成成dockerfile
@@ -330,7 +330,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名。
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标
-- https://github.com/Viralmaniar/I-See-You    //bash.利用公网网站代理获取用户的真实地理信息。simple
+- https://github.com/Viralmaniar/I-See-You    //Bash。利用公网网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
 ### 网站克隆
 - http://www.httrack.com    //网站克隆镜像
@@ -461,7 +461,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/mrexodia/haxxmap    //对IMAP服务器进行中间人攻击
 - https://github.com/SySS-Research/Seth    //PY3/BASH。Linux下MitM RDP远程服务中间人攻击。G:citronneur/rdpy rdp远程服务模拟开启
 - http://ntwox.sourceforge.net    //ntwow多协议伪造，网络测试工具集
-- https://github.com/Ekultek/suddensix    //bash.SLAAC（无状态地址自动配置）攻击自动化脚本，可用于在IPv4基础架构上构建IPv6覆盖网络，以执行中间人攻击。
+- https://github.com/Ekultek/suddensix    //Bash。SLAAC（无状态地址自动配置）攻击自动化脚本，可用于在IPv4基础架构上构建IPv6覆盖网络，以执行中间人攻击。
 ### wifi中间人攻击
 - https://github.com/wifiphisher/wifiphisher    //Py。中间人攻击，FakeAp恶意热点，WIFI钓鱼，凭证窃取。goodjob,7k。
 - https://github.com/1N3/PRISM-AP    //自动部署RogueAP(恶意热点) MITM攻击框架

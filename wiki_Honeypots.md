@@ -12,7 +12,7 @@
 - https://github.com/phage-nz/malware-hunting    //Py。利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    //Py。现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
 - https://github.com/dtag-dev-sec/tpotce    //T-POT.里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
-- https://github.com/n3uz/t-pot-autoinstall    //bash.将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
+- https://github.com/n3uz/t-pot-autoinstall    //Bash。将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 - https://www.freebuf.com/sectool/190840.html    //Intro。T-Pot多蜜罐平台使用心法
 - https://github.com/honeytrap/honeytrap    //Go。可扩展高交互蜜罐框架，侦听所有端口，监管蜜罐运行状态。testjob。
 - https://github.com/honeynet/beeswarm    //Py。使用agent探针与蜜罐进行实时交互来引诱攻击者

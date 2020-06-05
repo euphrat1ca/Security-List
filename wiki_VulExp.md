@@ -210,7 +210,7 @@
 ### Linux提权利用相关
 - https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
-- https://github.com/rebootuser/LinEnum    //bash.对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:nilotpalbiswas/Auto-Root-Exploit;G:WazeHell/PE-Linux;-
+- https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:nilotpalbiswas/Auto-Root-Exploit;G:WazeHell/PE-Linux;-
 - https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:gbonacini/CVE-2016-5195;--
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建

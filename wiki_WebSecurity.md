@@ -36,7 +36,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 ### 指纹识别主机端口服务
 - https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
-- https://github.com/HA71/WhatCMS    //bash.CMS检测和漏洞利用脚本，基于Whatcms.org API
+- https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API
 - https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k。goodjob。
 - https://github.com/l3m0n/whatweb    //Go。网站指纹识别，Wappalyzer资产库。
 - https://github.com/Rvn0xsy/FastWhatWebSearch    //whatweb工具结果搜索平台
@@ -122,7 +122,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
 ### SSL/TLS安全
-- https://github.com/drwetter/testssl.sh    //bash.开箱即用，全ssl安全测试，可输出报告。
+- https://github.com/drwetter/testssl.sh    //Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
 - https://github.com/nabla-c0d3/sslyze    //Py3。SSL/TLS server扫描器
 ### 命令执行注入

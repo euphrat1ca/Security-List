@@ -5,8 +5,8 @@
 - https://github.com/samratashok/nishang    //PS。测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等。G:0xdea/tactical-exploitation;
-- https://github.com/zMarch/Orc    //bash.Linux下后渗透命令集合。G:llamasoft/polyshell;
-- https://github.com/TheSecondSun/Bashark    //Bash.LINUX大鲨鱼后渗透框架。G:DarkSpiritz/DarkSpiritz;G:JusticeRage/FFM;
+- https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:llamasoft/polyshell;
+- https://github.com/TheSecondSun/Bashark    //Bash。LINUX大鲨鱼后渗透框架。G:DarkSpiritz/DarkSpiritz;G:JusticeRage/FFM;
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
@@ -110,7 +110,7 @@
 - https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具
 - https://github.com/FlyfishSec/rsGen    //BAT.Windows下远程反弹shell命令行工具
 - https://github.com/sensepost/DNS-Shell    //Py。本地利用53端口nslookup传输加密的ps命令，回弹shell
-- https://github.com/tokyoneon/Armor    //bash.生成加密 Payload 在 macOS 上反弹 Shell
+- https://github.com/tokyoneon/Armor    //Bash。生成加密 Payload 在 macOS 上反弹 Shell
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit。1k。
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter
@@ -185,7 +185,7 @@
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
-- https://github.com/jivoi/openssh-backdoor-kit    //bash.openssh后门编译生成
+- https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成
 - https://www.4hou.com/technology/16713.html    //通过模拟可信目录绕过UAC的利用分析\模拟可信目录的利用技巧扩展
 - https://github.com/LOLBAS-Project/LOLBAS    //Windows系统白利用工具集
 - https://github.com/g3rzi/Manifesto    //C#。寻找系统中存在可执行权限的组件
@@ -211,8 +211,8 @@
 - https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程。goodjob。
 - https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏执行程序、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
-- https://github.com/M00nRise/ProcessHider    //C++。Windows下隐藏进程。
-- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务且管理员无法停止/暂停服务的程序。
+- https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
+- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
