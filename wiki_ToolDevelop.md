@@ -106,7 +106,6 @@
 - https://github.com/phink-team/Cobaltstrike-MS17-010    //cobaltstrike ms17-010（win7 x64 and win2008 r2）等插件
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒
-- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike。k8gege
 #### cobaltstrike加密通讯
 - https://www.cobaltstrike.com/help-malleable-c2    //配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库

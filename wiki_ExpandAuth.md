@@ -10,6 +10,7 @@
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
+- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
@@ -17,7 +18,7 @@
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
 - https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
-  - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
+- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket)
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
@@ -88,6 +89,7 @@
 - https://github.com/trustedsec/trevorc2    //Py。搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:WebDAVC2;--
 - https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
+- https://github.com/k8gege/WinrmCmd    //Go。Winrm远程命令/端口复用后门/WinrmCmd/密码爆破。WinRM是WindowsRemoteManagementd（win远程管理）的简称。基于Web服务管理(WS-Management)标准，使用80端口或者443端口。
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
@@ -115,7 +117,7 @@
 - https://github.com/mhaskar/Linux-Root-Kit    //Py。simple。linux简单rootkit
 - https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
 - https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成
-## 后门免杀混淆
+## 后门混淆免杀
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等
@@ -123,6 +125,17 @@
 - https://github.com/Kkevsterrr/backdoorme    //py3,py2。多种类型的后门、shell生成工具，可以自动维持权限
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
+### 混淆加密反调试
+- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
+- https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
+- https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路
+- https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
+- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护
+- https://github.com/unixpickle/gobfuscate/    //Go。Go文件混淆加密二进制文件和软件包
 ### shellcode相关
 - https://www.shellterproject.com/    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。

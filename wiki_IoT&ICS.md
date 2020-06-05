@@ -32,6 +32,7 @@
 ### 无人机安全
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
+- https://github.com/PX4/Firmware    //px4无人机飞控
 ### 车联网安全
 - https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
 - https://github.com/pasta-auto    //智能汽车测试
@@ -40,8 +41,10 @@
 ### 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
-- https://github.com/RUB-NDS/PRET    //Py3。打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;2k。
+- https://github.com/RUB-NDS/PRET    //Py3。打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。2k。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;--
 - https://github.com/rapid7/IoTSeeker    //物联网设备默认密码扫描检测工具
+- https://mp.weixin.qq.com/s/VCZOR9Bw-8ecIqRysUYxKQ/    //自助终端设备安全剖析
+- https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //T00ls精华文：自助终端机的常见入侵方式
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //Py。调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    //Go。针对摄像头RTSP协议渗透测试，附弱口令字典

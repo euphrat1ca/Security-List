@@ -360,16 +360,6 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 W:ns4gov.000webhostapp.com;
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:lunarca/SimpleEmailSpoofer;G:Dionach/PhEmail;
 - https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具
-### 加解密保护密码学混淆
-- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
-- https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
-- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
-- https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
-- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护
 ### 口令扫描爆破证书校验
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:scu-igroup/ssh-scanner;G:lijiejie/htpwdScan;G:ztgrace/changeme;G:netxfly/crack_ssh;G:euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
@@ -523,6 +513,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/samyk/frisky    //针对 ios/mac OSX 应用的嗅探/修改/逆向/注入等工具
 - https://github.com/LinusHenze/Keysteal    //C++。窃取MacOS下KeyChain。CVE-2019-8526
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    //CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
+- https://github.com/sickcodes/Docker-OSX    //OSX-KVM in Docker! X11 Forwarding!，基于qemu和kvm封装的苹果镜像docker。
 ## CTF相关(Capture The Flag)
 - https://ctftime.org    //CTF排名比赛介绍
 - https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
@@ -602,7 +593,7 @@ W:ns4gov.000webhostapp.com;
 - https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
 ## 安全防护建设
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护。
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
