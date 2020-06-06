@@ -119,7 +119,7 @@
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行
-- https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取/包含漏洞
+- https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞
 #### Weblogic相关漏洞
 - https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3,支持2019
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
@@ -131,7 +131,7 @@
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
-- https://github.com/SkyLined/LocalNetworkScanner    //JS.浏览器漏洞扫描网站浏览者内网信息
+- https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
 - https://github.com/exodusintel/CVE-2019-0808    //JS/C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
 - https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
@@ -206,7 +206,7 @@
 - https://github.com/deepzec/Bad-Pdf    //Py。配合responder利用恶意pdf窃取ntlm哈希
 ## 提权相关漏洞
 - https://github.com/AlessandroZ/BeRoot    //Py。通过检查常见的错误配置来查找提权方法. 支持Windows/Linux/Mac
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP.提权枚举工具包，通过webApi上报信息。
+- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
 ### Linux提权利用相关
 - https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;
 - https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:xairy/kernel-exploits;G:Kabot/Unix-Privilege-Escalation-Exploits-Pack/;
@@ -283,14 +283,14 @@
 ### 离线靶场学习
 - https://www.soteria-int.com/    //西班牙游戏竞技模拟平台CYWARIA安全靶场，商业。
 - https://github.com/WebGoat/WebGoat    //Java。一键jar包web安全实验靶场
-- https://github.com/Audi-1/sqli-labs    //PHP.基于SQLite的sql注入学习靶场
+- https://github.com/Audi-1/sqli-labs    //PHP。基于SQLite的sql注入学习靶场
 - https://github.com/lcamry/sqli-labs    //Intro。通过sqli-labs演示mysql相关的注入手法
 - https://github.com/virusdefender/ssrf-app    //Py。服务端请求伪造ssrf靶场实例
-- https://github.com/c0ny1/upload-labs    //PHP.一个帮你总结所有类型的上传漏洞的靶场
+- https://github.com/c0ny1/upload-labs    //PHP。一个帮你总结所有类型的上传漏洞的靶场
 - https://github.com/LandGrey/upload-labs-writeup    //Intro。upload-labs指导手册
 - https://github.com/c0ny1/xxe-lab    //一个包含php，Java。python，C#等各种语言版本的XXE漏洞Demo
 - https://github.com/Go0s/LFIboomCTF    //本地文件包含漏洞&&PHP利用协议&&实践源码
-- https://github.com/incredibleindishell/CORS-vulnerable-Lab    //PHP.与COSR配置错误相关的漏洞代码靶场
+- https://github.com/incredibleindishell/CORS-vulnerable-Lab    //PHP。与COSR配置错误相关的漏洞代码靶场
 - https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
 - https://github.com/secvulture/dvta    //CS客户端靶场
 - https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具

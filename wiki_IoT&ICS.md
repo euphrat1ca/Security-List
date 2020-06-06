@@ -55,7 +55,7 @@
 ### 路由网关安全
 - http://stascorp.com/search/?q=Router+Scan    //Pascal.RouterScan毛子开发的路由器漏洞利用工具，界面化。GoodJob.
 - https://github.com/jh00nbr/Routerhunter-2.0    //路由器漏洞扫描利用。NoUpdate
-- https://github.com/googleinurl/RouterHunterBR    //PHP.路由器设备漏洞扫描利用
+- https://github.com/googleinurl/RouterHunterBR    //PHP。路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## ICS工业安全

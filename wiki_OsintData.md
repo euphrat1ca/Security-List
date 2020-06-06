@@ -50,12 +50,13 @@
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
 - https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
+- https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki
 - https://www.threatcrowd.org/    //微步威胁情报分析平台。Web:ti.qianxin.com;Web:feed.watcherlab.com;Web:x.threatbook.cn。
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
-- https://github.com/OpenCTI-Platform/opencti    //JS.网络威胁情报平台
+- https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
 - https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址，集成bro
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
@@ -162,8 +163,8 @@
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
 ### 真实IP信息获取
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    //py.基于django监控 DNS 解析记录和 HTTP 访问记录的工具，可以配合盲注、xss、解析对方真实ip使用
-- http://ceye.io    //知道创宇dns查询，http请求解析，dns解析日志记录DNSLog
+- https://github.com/BugScanTeam/DNSLog    //py.四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
+- http://ceye.io    //知道创宇dns查询，可以配合盲注、xss、解析对方真实ip使用。
 - https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
@@ -221,7 +222,7 @@
 ## 云安全相关
 - https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
 ### 敏感信息泄露发现
-- https://github.com/donot-wong/sensinfor    //JS.chrome敏感信息泄露插件，to find leak file and backup file
+- https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
 - https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
@@ -250,7 +251,7 @@
 ### Git安全相关
 - https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
 - https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--
-- https://github.com/VKSRC/Github-Monitor    //JS.GitHub监控，代码信息泄露，分钟级监控，邮件预警。
+- https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控，代码信息泄露，分钟级监控，邮件预警。
 - https://github.com/Furduhlutur/yar    //Go。用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等

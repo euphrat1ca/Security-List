@@ -40,7 +40,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
-- https://github.com/offensive-security/masscan-web-ui/    //PHP.Masscan web界面
+- https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan web界面
 ### kali环境拓展插件
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
@@ -56,13 +56,13 @@
 ### awvs拓展插件相关工具
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:fnmsd/awvs_script_decode;
-- https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS.awvs11汉化包
+- https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //Py。Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 ### sqlmap拓展插件相关工具
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //Py3。WebSocket 中转注入工具
-- https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP.sqlmap的web gui
+- https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP。sqlmap的web gui
 - https://github.com/KINGSABRI/sqlmap-tamper-api    //利用各种语言来编写sqlmapTamper
 - https://github.com/0xbug/SQLiScanner    //一款基于sqlmapapi和Charles（青花瓷）的被动SQL注入漏洞扫描工具
 - https://github.com/fengxuangit/Fox-scan    //基于sqlmapapi的主动和被动资源发现的漏洞扫描工具
@@ -83,7 +83,7 @@
 - https://github.com/D4Vinci/One-Lin3r    //metasploit、payload辅助查询工具
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //Java。metasploit的GUI界面，强化Windows下支持,Noupdate,Goodjob。
-- https://github.com/Zerx0r/Kage    //VueJS.图形化MSF的GUI界面，Session Handler控制。testjob.
+- https://github.com/Zerx0r/Kage    //VueJS。图形化MSF的GUI界面，Session Handler控制。testjob.
 ### Empire拓展插件相关工具
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面

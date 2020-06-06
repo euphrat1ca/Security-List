@@ -61,13 +61,13 @@
 ### 硬件无线安全
 - https://openwrt.org/    //C。针对嵌入式设备的Linux操作系统。G:coolsnowwolf/lede Lean's OpenWrt 中文;
 - https://www.wifipineapple.com/downloads    //Wifi-Pineapple大菠萝nano固件
-- https://github.com/yearnwang/wifipineaplle_dwall_log    //PHP.dwall日志输出加强
+- https://github.com/yearnwang/wifipineaplle_dwall_log    //PHP。dwall日志输出加强
 - https://github.com/spacehuhn/esp8266_deauther/    //C。WiFi安全审计，硬件WiFi ddos。WiFi操作模块
 - https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
 - https://github.com/mame82/LOGITacker    //C。利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。
 ### 物理设备BadUsb/HID
 - https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //badusb防御
-- https://github.com/0katz/CVE-2019-12476    //JS.HID绕过win10登录界面，利用浏览器调用powershell
+- https://github.com/0katz/CVE-2019-12476    //JS。HID绕过win10登录界面，利用浏览器调用powershell
 - https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线。G:HackusbCN/HackUSB-Payload;
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写

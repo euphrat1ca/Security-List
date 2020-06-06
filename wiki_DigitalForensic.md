@@ -64,7 +64,7 @@
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。testjob。
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
-- https://github.com/brimsec/brim    //JS.结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。testjob。
+- https://github.com/brimsec/brim    //JS。结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。testjob。
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具

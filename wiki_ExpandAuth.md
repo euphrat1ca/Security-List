@@ -24,7 +24,6 @@
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
 ### 横向移动凭证传递
-- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。testjob,4K。
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块.testjob,3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描
@@ -126,12 +125,12 @@
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
 ### 混淆加密反调试
-- https://github.com/bugsafe/WeReport    //PHP.WeReport报告助手，一键生成测试报告。
+- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
 - https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
-- https://github.com/gchq/CyberChef    //JS.反混淆，密码解密工具。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP.AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
+- https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
 - https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路
 - https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:FreeApophis/TrueCrypt;
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护
@@ -153,7 +152,7 @@
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:cwolff411/powerob //powershell混淆;G:OmerYa/Invisi-Shell;--
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:mdsecactivebreach/CACTUSTORCH;--
-- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS.基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
+- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆

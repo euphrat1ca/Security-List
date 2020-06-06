@@ -4,14 +4,14 @@
 - https://github.com/arpitjindal97/technology_books    //编程语言晋级。Premium eBook free for Geeks
 - https://github.com/littlecodersh/itchat    //Py。微信个人号接口、微信机器人及命令行微信
 - https://github.com/youfou/wxpy    //Py。微信个人号 API
-- https://github.com/insoxin/API    //PHP.基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
+- https://github.com/insoxin/API    //PHP。基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
 ### 编辑器IDE
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
-- https://github.com/ricklamers/gridstudio    //PY/JS.类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
-- https://github.com/rjpcomputing/luaforwindows/    //Lua.Windows下的lua编辑器
+- https://github.com/ricklamers/gridstudio    //PY/JS。类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
+- https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器
 - https://github.com/s4n7h0/Halcyon/    //Java。 IDE for Nmap Script NSE编辑器
 ### golang开发
 - https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/。
@@ -65,25 +65,29 @@
 - https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
 ### web框架
 - http://www.bt.cn    //宝塔网站管理系统
-- https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org
-- https://github.com/fex-team/webuploader    //JS.文件上传框架
+- https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
+- https://github.com/fex-team/webuploader    //JS。文件上传框架
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    //Py。Web界面展示。11k。
+## 网络通讯请求
+- https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
+- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。testjob,4K。
+- https://github.com/secdev/scapy    //Py。网络请求通用库
+- https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫
+- https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档
+- https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
+- https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
+- https://github.com/xchaoinfo/fuck-login    //模拟登录一些常见的网站
+- https://github.com/Maicius/InterestingCrawler    //抓取QQ空间说说内容并进行分析
+- https://github.com/xjr7670/QQzone_crawler    //QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
+- https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
+- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
+- https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 ### Web应用框架
 - https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
 - https://www.djangoproject.com    //Py。完美主义者的 Deadline 终结web服务框架
 - https://www.palletsprojects.com/p/flask/    //Py。web服务微框架。
-### 爬虫相关
-- https://github.com/xuyichenmo/selenium-document Selenium的中文文档
-- https://github.com/alphardex/looter 轻量型爬虫框架，类比Scrapy
-- https://github.com/luyishisi/Anti-Anti-Spider 过反爬虫
-- https://github.com/xchaoinfo/fuck-login 模拟登录一些常见的网站
-- https://github.com/Maicius/InterestingCrawler 抓取QQ空间说说内容并进行分析
-- https://github.com/xjr7670/QQzone_crawler QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
-- https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
-- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
-- https://github.com/FortyNorthSecurity/EyeWitness 获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
 ### 情报源获取
 - https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《Combat Intelligence》（战斗情报）
 - https://www.academia.edu/16427338/Field_Manual_30-5_Combat_Intelligence_1951?auto=download    //《Field Manual 30-5, Combat Intelligence 1951》（野战手册30-5，战斗情报1951）

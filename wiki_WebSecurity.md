@@ -1,6 +1,6 @@
 # web安全测试利用
 - https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
-- https://github.com/gh0stkey/PoCBox    //PHP.漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
+- https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测等
@@ -31,10 +31,10 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫
 - https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。W:charlesproxy.com 青花瓷;P:getpostman.com http调试工具。P:soft.125.la 精易助手;G:jakubroztocil/httpie
-- https://github.com/MegatronKing/HttpCanary    //JS.基于NetBare的安卓移动端抓包代理工具。welljob,1k.
+- https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
 ### 指纹识别主机端口服务
-- https://github.com/AliasIO/Wappalyzer    //JS.网站指纹识别。资产库，Chrome扩展。5k。
+- https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。
 - https://github.com/Lucifer1993/cmsprint    //json格式CMS和中间件指纹库
 - https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API
 - https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k。goodjob。
@@ -61,14 +61,14 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 ## web应用扫描器框架
 - https://github.com/andresriancho/w3af    //Py。包含 200+ Web漏洞
-- https://github.com/TideSec/WDScanner    //PHP.TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+- https://github.com/TideSec/WDScanner    //PHP。TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 - https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG].
 - https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。
 - https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。
 - https://github.com/euphrat1ca/WebCruiserWVS    //C#。轻量扫描器，椰树前身
 - https://github.com/theInfectedDrake/TIDoS-Framework    //覆盖从侦察到漏洞分析的所有内容
 - https://github.com/Tuhinshubhra/RED_HAWK    //php.集成信息收集、漏洞扫描、指纹识别等的扫描工具
-- https://github.com/1N3/Sn1per    //PHP.自动化中间件扫描以及设备指纹识别
+- https://github.com/1N3/Sn1per    //PHP。自动化中间件扫描以及设备指纹识别
 - https://github.com/m4ll0k/Spaghetti    //web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描
 - https://github.com/blackye/lalascan    //集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架
 - https://github.com/Skycrab/leakScan    //web界面，漏洞扫描
@@ -105,9 +105,9 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/UltimateHackers/Striker    //Py。信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
 - https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用
 ## 前端利用
-- https://github.com/Valve/fingerprintjs2    //JS.被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
-- https://github.com/Song-Li/cross_browser    //JS.被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
-- https://github.com/WMJonssen/Centcount-Analytics    //PHP.数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
+- https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
+- https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别crossbrowsertracking_NDSS17.pdf。
+- https://github.com/WMJonssen/Centcount-Analytics    //PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测
 - https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE。
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
@@ -172,11 +172,11 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 ### XSS漏洞利用平台框架
 - https://xss.fbisb.com/    //在线XSS平台,靶场xss练习。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;
-- https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP.蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
-- https://github.com/euphrat1ca/XssPowerByTools    //PHP.XSS平台课程设计。simple。
+- https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
+- https://github.com/euphrat1ca/XssPowerByTools    //PHP。XSS平台课程设计。simple。
 - https://github.com/AntSwordProject/ant    //Nodejs.蚁逅@1.0，实时上线的 XSS 盲打平台
-- https://github.com/BlackHole1/WebRtcXSS    //PHP.基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
-- https://github.com/samdenty99/injectify    //TS,JS.利用xss在网站执行mitm攻击
+- https://github.com/BlackHole1/WebRtcXSS    //PHP。基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
+- https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击
 ### 本地文件包含漏洞
 - https://github.com/hvqzao/liffy    //本地文件包含漏洞利用工具
 - https://github.com/D35m0nd142/Kadabra    //本地文件包含漏洞扫描和利用工具
@@ -221,7 +221,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/Turr0n/firebase    //对没有正确配置的firebase数据库进行利用
 - https://github.com/quentinhardy/odat    //针对Oracle注入渗透工具
 - https://github.com/Hadesy2k/sqliv    //Py3。基于搜索引擎的批量SQL注入漏洞扫描器。simple。
-- https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    //PHP.sql注入辅助，数据脱取。
+- https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper    //PHP。sql注入辅助，数据脱取。
 - https://github.com/bambish/ScanQLi    //Py3。SQLI漏洞探测工具，不包含利用。simple
 ## 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
@@ -234,11 +234,11 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序，目前支持php、jsp，CS端通信加密
 - https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。Github:tennc/webshell;--
 ### php webshells
-- https://github.com/k4mpr3t/b4tm4n    //PHP.大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
-- https://github.com/dotcppfile/DAws    //PHP.过防火墙webshell，post pass=DAws
+- https://github.com/k4mpr3t/b4tm4n    //PHP。大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
+- https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    //php.网站管理，默认密码b374k
-- https://github.com/wso-shell/WSO    //PHP.webshell的文件管理，可以伪装为404界面
-- https://github.com/DXkite/freebuf-stream-shell    //PHP.使用流包装器实现WebShell。freebuf介绍。
+- https://github.com/wso-shell/WSO    //PHP。webshell的文件管理，可以伪装为404界面
+- https://github.com/DXkite/freebuf-stream-shell    //PHP。使用流包装器实现WebShell。freebuf介绍。
 - https://github.com/UltimateHackers/nano    //php.一句话，附带py编写的生成器
 - https://github.com/epinna/weevely3    //Py。利用特定的一句话脚本对网站进行管理
 - https://github.com/nil0x42/phpsploit    //Py3。利用特定的一句话脚本对网站进行管理

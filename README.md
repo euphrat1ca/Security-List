@@ -60,7 +60,7 @@
 ### 安全开发
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
-- https://github.com/Hygieia/Hygieia    //JS.Capitalone银行开源的DevOps利器
+- https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
 - https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:snyk/snyk;
 - https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //秦波：大型互联网应用安全SDL体系建设实践
 ### 产品设计原型
@@ -169,9 +169,9 @@
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
 - https://github.com/JeffXue/web-log-parser    //Py。web日志分析工具
 - https://github.com/JPCERTCC/LogonTracer    //JS,Py。根据win登陆记录日志来分析并用图形化展示恶意登陆行为
-- https://github.com/jpcertcc/sysmonsearch    //JS.将Sysmon的日志结果可视化
+- https://github.com/jpcertcc/sysmonsearch    //JS。将Sysmon的日志结果可视化
 - https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
-- https://github.com/baronpan/SysmonHunter    //JS.针对att&ck对sysmon日志进行分析展示
+- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析展示
 - https://github.com/zhanghaoyil/Hawk-I    //Py。基于无监督机器学习算法从Web日志中自动提取攻击Payload
 - https://github.com/JPCERTCC/LogonTracer    //Py。日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;
 - https://gitee.com/524831546/xlog/    //Go。web访问日志分析工具,可以分析nginx、resin ,tomcat,apache访问日志，然后对访问的ip，流量，响应时间，状态码，URI，浏览器，爬虫进行详细全面的分析展示。
@@ -307,6 +307,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/cr0hn/dockerscan    //docker扫描工具
 - https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器.2K。
 ### 测试字典集
+- https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
 - https://github.com/tarraschk/richelieu    //.fr邮箱密码表
 - https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:xmendez/wfuzz/tree/master/wordlist;G:We5ter/Scanners-Box;G:shack2/SNETCracker/dic;
 - https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;
@@ -316,7 +317,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测，楼上升级
 - https://github.com/LandGrey/pydictor    //Py3。特定密码字典生成
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //ruby.爬取目标网站关键词生成字典。test job.
+- https://github.com/digininja/CeWL/    //ruby.爬取目标网站关键词生成字典。testjob.
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
@@ -345,7 +346,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/drk1wi/Modlishka    //Go。网络钓鱼工具
 - https://github.com/azizaltuntas/Camelishing    //Py3。界面化社会工程学攻击辅助工具
 - https://github.com/tatanus/SPF    //Py3。deefcon上的钓鱼系统
-- https://github.com/MSG-maniac/mail_fishing    //PHP.基于thinkphp的甲方邮件钓鱼系统
+- https://github.com/MSG-maniac/mail_fishing    //PHP。基于thinkphp的甲方邮件钓鱼系统
 - https://github.com/samyoyo/weeman    //钓鱼的http服务器
 - https://github.com/Raikia/FiercePhish    //可以管理所有钓鱼攻击的完整钓鱼框架，允许你跟踪单独的网络钓鱼活动，定时发送电子邮件等
 - https://github.com/securestate/king-phisher    //可视化钓鱼活动工具包
@@ -414,7 +415,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
 - https://github.com/zmap/zmap    //C。无状态扫描，可使用用C编写扩展模块。censys三件套。
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。
-- https://github.com/chichou/grab.js    //JS.类似于 zgrab 的TCP指纹抓取解析工具。
+- https://github.com/chichou/grab.js    //JS。类似于 zgrab 的TCP指纹抓取解析工具。
 - https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
 - https://github.com/zmap/ztag    //Py。对zmap\zgrab产生的数据分析打标签。censys三件套。
 - https://github.com/OffensivePython/Nscan    //Py。类似于于Masscan和Zmap的端口服务扫描器
@@ -527,10 +528,10 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
 - 公众号：VulnHub通关日记-DC_    //vulnhub write up
 ### CTF靶场平台
-- https://github.com/facebook/fbctf    //HACK,PHP.CTF比赛平台搭建。
+- https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
 - https://github.com/CTFd/CTFd    //py2.基于flask的动态Capture The Flag framework
 - https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台
-- https://github.com/gabemarshall/microctfs    //SHELL,JS.小型ctf镜像docker
+- https://github.com/gabemarshall/microctfs    //SHELL,JS。小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件
 ### CTF隐写术
@@ -628,7 +629,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。商业版。
 - http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;
-- https://www.pfsense.org    //PHP.可配置snort规则的防火墙。社区版。
+- https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
 - https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
 - https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台

@@ -7,7 +7,7 @@
 - https://yandex.com/    //免费邮箱
 - https://mail.ru/    //免费邮箱
 - https://mail.tutanota.com    //免费邮箱
-- https://github.com/tutao/tutanota    //JS.tutanota邮件服务的客户端，支持加密验证
+- https://github.com/tutao/tutanota    //JS。tutanota邮件服务的客户端，支持加密验证
 - https://mail.protonmail.com    //免费邮箱
 - https://www.zoho.com/  美国公司免费企业邮箱
 - https://sms.cngrok.com/receiving-sms    //收码接码

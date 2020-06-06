@@ -6,7 +6,7 @@
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
-- https://github.com/DIYgod/RSSHub    //JS.万物皆可rss
+- https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
 - https://lovelive.tools/    //说话的艺术，渣男语录
 - https://github.com/jxlwqq/id-validator.py    //Py3。居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //Py3。动态二维码
@@ -31,8 +31,8 @@
 ### 下载器
 - https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
-- https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
-- https://github.com/wu-dada/baidupankey    //JS.基于云盘万能钥匙api查询百度网盘提取密码
+- https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS。BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
+- https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
 - http://www.speedpan.com/    //百度下载
 - https://github.com/peterq/pan-light    //Go。网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
 - https://xdown.org/    //bit下载器，类IDM架构。
@@ -49,7 +49,7 @@
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //Go。多api图床
-- https://github.com/ymfe/yapi    //JS.可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
 - http://ohshitgit.com/    //Intro。git操作手册
@@ -66,7 +66,7 @@
 ### 项目管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
-- https://github.com/star7th/showdoc    //JS.开发文档、接口管理平台。
+- https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -77,8 +77,8 @@
 - https://send.firefox.com    //火狐网盘
 - https://www.upload.ee/    //文件共享平台
 - https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
-- https://github.com/ganlvtech/down_52pojie_cn    //PHP.52pojie网盘源码
-- https://github.com/micahflee/onionshare    //PHP.利用onion洋葱服务器匿名文件共享
+- https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码
+- https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C。私有云网盘，速度快，功能少。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
@@ -108,9 +108,9 @@
 - https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me.
 ## 通讯服务
 - https://salmon-mail.readthedocs.io    //Py。实现邮件服务器功能的python包模块
-- https://github.com/gyxuehu/EwoMail    //PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://github.com/PHPMailer/PHPMailer    //PHP.PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile    //PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
+- https://github.com/gyxuehu/EwoMail    //PHP。EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
+- https://github.com/PHPMailer/PHPMailer    //PHP。PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器
 ### 通讯隐私加密虚拟身份
 - https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
@@ -141,7 +141,7 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
-- https://github.com/electerm/electerm    //JS.远程管理工具，类 putty/xshell/mobaxterm 架构
+- https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
@@ -198,7 +198,7 @@
 - https://zbj.com    //猪八戒，重庆外包，压价
 - http://task.a5.cn/tasklist.html    //外包
 ### 社区管理
-- https://github.com/elgg/elgg    //PHP.社交网络引擎、社区，mysql数据库
+- https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统
 - https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理
