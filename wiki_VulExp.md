@@ -128,7 +128,8 @@
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 - https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
-- https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行
+- https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
+- https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
 - https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息
@@ -173,6 +174,7 @@
 - https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
 ### Exchange漏洞利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
+- https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
 - https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
@@ -181,7 +183,6 @@
 - https://github.com/QuickBreach/ExchangeRelayX    //Py。基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据，IE浏览器可行。
 - https://github.com/mullender/python-ntlm    //Py。利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
 #### Exchange提权利用
-- https://github.com/WyAtu/CVE-2018-8581    //Py。利用普通用户登录，通过ssrf调用Exchange Server凭证到已控制的内网服务器上，并默认Exchange Server权限较高，就达到了提权的目的。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
 - https://github.com/dirkjanm/PrivExchange    //Py。基于impacket，利用exchange提升system权限。CVE-2019-1040 Abusing Exchange: One API call away from Domain。
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO。CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    //Py。基于低权限账号进行ysoserial-远程代码执行。G:Jumbo-WJB/CVE-2020-0688;G:random-robbie/cve-2020-0688;--
