@@ -54,6 +54,10 @@
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。G:mwrlabs/C3;G:cobbr/Covenant;--
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:rsmudge/armitage CobaltStrike社区版，通过调用msf;G:RASSec/Cobalt-Strike;--
+### 远控通讯加密
+- https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密
+- https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测
+- https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式
 ### 跨平台远控
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
 -- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。testjob。5k。
@@ -64,7 +68,7 @@
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
 - https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版。
-- https://github.com/shelld3v/JSshell/    //Py。js远控
+- https://github.com/shelld3v/JSshell/    //Py。js远控。
 ### Windows远控
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。基于大灰狼gh0st的远程控制器。
