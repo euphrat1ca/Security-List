@@ -8,6 +8,9 @@
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
+### 游戏框架
+- https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
+- https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
 ### 编辑器IDE
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
 - https://github.com/ricklamers/gridstudio    //PY/JS。类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。

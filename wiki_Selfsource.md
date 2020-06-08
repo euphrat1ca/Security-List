@@ -100,7 +100,7 @@
 - https://etherpad.net/    //在线可编辑记事本
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 ### 搜索引擎
-- https://www.dogedoge.com/    //多吉搜索
+- http://www.duckduckgoog.com/    //不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
 - https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
 - http://ac.scmor.com/    //谷歌搜索镜像
 - https://www.gobaidugle.com    //聚合搜索

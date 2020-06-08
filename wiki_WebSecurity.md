@@ -193,7 +193,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/jpiechowka/zip-shotgun    //Py。测试zip文件上传漏洞
 - https://github.com/almandin/fuxploider    //Py3。自判定网站类型与可被允许上传的文件格式类型。
 ### 数据库利用/扫描/爆破
-- https://github.com/sqlmapproject/sqlmap    //Py。sql注入sqlmap.GREATJOB.15K.
+- https://github.com/sqlmapproject/sqlmap    //Py。sql注入标杆。GREATJOB，15k。
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表
 - https://sqlwiki.netspi.com/    //你要的sql注入知识点都能找到
 - https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI    //mysql注入,bypass的一些心得

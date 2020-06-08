@@ -157,6 +157,7 @@
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 - 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
+- https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
 ## 应急响应溯源
 - https://security.tencent.com/opensource/detail/19    //腾讯开源的xSRC应急响应中心cms
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
@@ -530,7 +531,9 @@ W:ns4gov.000webhostapp.com;
 ### CTF靶场平台
 - https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
 - https://github.com/CTFd/CTFd    //py2.基于flask的动态Capture The Flag framework
-- https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台
+- https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台。
+- https://github.com/wuhan005/Asteroid/    //C#。CTF AWD 实时 3D 攻击大屏
+- https://github.com/vidar-team/Cardinal/    //Go。CTF⛳️ AWD (Attack with Defense) 线下赛平台
 - https://github.com/gabemarshall/microctfs    //SHELL,JS。小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件
@@ -650,13 +653,13 @@ W:ns4gov.000webhostapp.com;
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 ### 沙盒虚拟化容器云平台
-- http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统
+- http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
 - https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
 - https://www.busybox.net/    //集成了三百多个最常用Linux命令和工具的软件，良好支持嵌入式。
 - https://github.com/moby/moby    //Go。Linux下虚拟容器dockerCE。54k。
 - https://github.com/containers/libpod    //Go。podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
-- https://www.virtualbox.org    //跨平台多系统支持
+- https://www.virtualbox.org    //跨平台多系统支持，社区版。
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
 - https://github.com/zstackio/zstack    //Java。类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
@@ -733,9 +736,8 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_WebSecurity.md/    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密、web应用扫描器框架。myWiki。
 ## 拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件.mywiki
-
 ---
-### 博客论坛信息流
+# 博客论坛信息流
 - https://i.hacking8.com/    //安全信息流。
 - http://wiki.ioin.in/    //sec-news 安全文摘信息流。W:xj.hk;W:buaq.net;W:xssav.com;W:sec.thief.one;W:osint-labs.org;--
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
