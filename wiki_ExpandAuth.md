@@ -219,7 +219,14 @@
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
+### Windows提权手段
+- http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
+- https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
+- https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
+### Linux提权手段
+- 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
+- https://guif.re/linuxeop    //linux提权命令集合。P:Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
 ### 文件打包捆绑
 - https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
 - http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:islamadel/bat2exe;G:tywali/Bat2ExeConverter;G:Juntalis/win32-bat2exe;--
