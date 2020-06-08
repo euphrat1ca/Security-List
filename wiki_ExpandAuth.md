@@ -12,17 +12,19 @@
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
-- http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击.NoUpdate。
+- http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://github.com/klsecservices/bat-armor    //Py。bat文件混淆版mimikatz
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
 - https://github.com/aas-n/spraykatz    //py3.Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
-- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket)
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps.域账号弱口令审计
+### 横向移动信息搜集
+- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
+- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 ### 横向移动凭证传递
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块.testjob,3K。
@@ -147,6 +149,7 @@
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
+- https://github.com/ReddyyZ/GhostShell/    //C。从新编码进行杀毒软件探测绕过
 ### Windows混淆免杀
 - https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:cwolff411/powerob //powershell混淆;G:OmerYa/Invisi-Shell;--
