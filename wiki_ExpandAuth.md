@@ -36,7 +36,7 @@
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html/    //导出域内hash
-- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件
+- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取
 ### 横向移动密码抓取
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
@@ -44,7 +44,8 @@
 - https://github.com/klsecservices/bat-armor    //Py。bat文件混淆版mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:citronneur/rdpy;--
-- https://github.com/quarkslab/quarkspwdump    //quarkslab出品的密码抓取工具，不用注入任何进程
+- https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取、hash dump，不用注入任何进程，含已编译版。
+- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
 - https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等
 - https://github.com/twelvesec/passcat    //C。Windows 下密码抓取工具。
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
