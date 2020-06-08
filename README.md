@@ -258,7 +258,7 @@
 - https://github.com/BeetleChunks/redsails    //PY/C++。利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
 ### 代理池
 - https://github.com/SpiderClub/haipproxy    //Py3。Scrapy and Redis，高可用ip代理池
-- https://github.com/chenjiandongx/async-proxy-pool    //py3.异步爬虫ip代理池
+- https://github.com/chenjiandongx/async-proxy-pool    //py3。异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
 ### Cross超越边界自组网
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
@@ -437,7 +437,7 @@ W:ns4gov.000webhostapp.com;
 ### 资产管理风险测试
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
 - https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:grayddq/PublicMonitors;--
-- https://github.com/w-digital-scanner/w12scan    //py3.django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
+- https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //Py。资产收集，漏洞检测（集成awvs、创宇Pocsuite、nmap、hydra）。
 - https://github.com/TideSec/Mars    //Py。基于docker资产安全检测（集成awvs、创宇Pocsuite、nmap、hydra），一键启动。G:0xbug/Biu-framework;--
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
@@ -520,7 +520,7 @@ W:ns4gov.000webhostapp.com;
 - https://ctftime.org    //CTF排名比赛介绍
 - https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
 - https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
-- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:imsebao/Code-Audit 代码审计;
+- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:imsebao/Code-Audit 代码审计;--
 - https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
 - https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频.10K
 - https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
@@ -620,7 +620,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
-- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）.testjob.
+- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 - https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
 - https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统
@@ -683,6 +683,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/Aurore54F/JaSt    //使用语法检测恶意/混淆的JS文件，https://www.blackhoodie.re/assets/archive/JaSt_blackhoodie.pdf
 - https://github.com/ctxis/beemka    //针对Electron App的漏洞利用工具包
 - https://github.com/doyensec/electronegativity    //Electron应用代码审计，App的错误配置和安全问题
+- https://github.com/callforpapers-source/jshole/    //Js。js漏洞扫描。
 ### php代码审计应用安全
 - https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本.noupdate.
 - https://github.com/OneSourceCat/phpvulhunter    //php.静态php代码审计.noupdate.

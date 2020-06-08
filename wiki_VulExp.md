@@ -3,7 +3,7 @@
 - https://github.com/offensive-security/exploitdb-bin-sploits    //exploit db编译好的漏洞执行文件
 - https://github.com/HacTF/poc--exp    //常用渗透poc收集。G:DrunkenShells/Disclosures;
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
-- https://github.com/Lcys/Python_PoC    //py3.poc、exp快速编写模板，有众多模范版本
+- https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/coffeehb/Some-PoC-oR-ExP    //各种漏洞poc、Exp的收集或编写
 - https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，https://www.cvedetails.com
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找
@@ -121,7 +121,7 @@
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行
 - https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞
 #### Weblogic相关漏洞
-- https://github.com/rabbitmask/WeblogicScan    //py3.Weblogic一键漏洞检测工具，V1.3,支持2019
+- https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具，V1.3,支持2019
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
 - https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行

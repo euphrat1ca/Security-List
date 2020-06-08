@@ -180,7 +180,7 @@
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:bit4woo/teemo;--
-- https://github.com/shmilylty/OneForAll    //py3.子域收集工具，多接口/爆破/验证/接管。testjob。
+- https://github.com/shmilylty/OneForAll    //py3。子域收集工具，多接口/爆破/验证/接管。testjob。
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。可用于子域名接管漏洞探测
 - https://github.com/guelfoweb/knock    //Py。通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具
@@ -254,11 +254,11 @@
 - https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控，代码信息泄露，分钟级监控，邮件预警。
 - https://github.com/Furduhlutur/yar    //Go。用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
-- https://github.com/dxa4481/truffleHog    //GitHub敏感信息扫描工具，包括检测commit等
+- https://github.com/    //GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。Github:git-hound //GitHound;G:metac0rtex/GitHarvester;
-- https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取 .git 。1.4k。
-- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本， .git源代码泄漏利用工具
+- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:git-hound //GitHound;G:metac0rtex/GitHarvester;G:dxa4481/truffleHog;--
+- https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取 .git。1.4k。
+- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，.git源代码泄漏利用工具。G:HightechSec/git-scanner;--
 ### 目录路径发现
 - https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破
 - https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）
