@@ -122,7 +122,7 @@
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
 - https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
 ### 客户端通讯分析
-- https://github.com/seemoo-lab/opendrop    //py3.基于owlink.org的Apple AirDrop文档共享实现
+- https://github.com/seemoo-lab/opendrop    //py3。基于owlink.org的Apple AirDrop文档共享实现
 - https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
 - https://bbs.pediy.com/thread-224988.htm    //Intro。[原创]PC微信发送消息研究
 - https://bbs.pediy.com/thread-223178.htm    //Intro。[原创] 对控制PC端微信发送信息的研究
