@@ -104,6 +104,9 @@
 - https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版.界面。
 - https://github.com/gquere/CVE-2020-7931    //py.maven框架插件Artifactory模板ssti利用执行漏洞
+#### SpringBoot相关漏洞
+- https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist
+- https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x
 #### apache相关漏洞
 - https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化
