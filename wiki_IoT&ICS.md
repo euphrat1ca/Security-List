@@ -113,7 +113,7 @@
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Honeypot.md/    //工控蜜罐。myWiki
 - https://github.com/thiagoralves/OpenPLC_v3    //C++。自定义多用途PLC软件
 - https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件
-- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，web界面。G:thiagoralves/ScadaBR_Installer;--
+- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，WebGui。G:thiagoralves/ScadaBR_Installer;--
 - https://www.modbustools.com/index.html    //modbus模拟软件
 - https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
 - https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC的网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。

@@ -59,7 +59,7 @@
 - https://github.com/ytisf/PyExfil    //用于数据取回的Python软件包
 ### 协议解析流量分析数据还原
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
-- https://github.com/wireshark/wireshark    //LUA.议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
+- https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - http://www.tcpdump.org    //网络数据包截获分析
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。testjob。
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动的流量指纹识别TCP/http

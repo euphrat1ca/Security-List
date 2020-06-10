@@ -16,10 +16,7 @@
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket);--
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
-- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计
-### 横向移动信息搜集
-- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
-- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
+- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
 ### 横向移动凭证传递
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块.testjob,3K。
@@ -65,7 +62,7 @@
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:BlackHacker511/BlackRAT;--
 ### JavaScript远控
-- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，web界面管理。
+- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，WebGui管理。
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
 - https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版。

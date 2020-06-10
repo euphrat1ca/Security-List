@@ -71,18 +71,18 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/1N3/Sn1per    //PHP。自动化中间件扫描以及设备指纹识别
 - https://github.com/m4ll0k/Spaghetti    //web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描
 - https://github.com/blackye/lalascan    //集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架
-- https://github.com/Skycrab/leakScan    //web界面，漏洞扫描
-- https://github.com/az0ne/AZScanner    //web界面，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测
-- https://github.com/MiniSafe/microweb    //web界面，base bugscan，django
-- https://github.com/taipan-scanner/Taipan    //web界面，基于F#与C#的安全扫描器
-- https://github.com/zhangzhenfeng/AnyScan    //web界面，python漏洞扫描器，NoUpdate
-- https://github.com/Canbing007/wukong-agent    //web界面，python漏洞扫描器
-- https://github.com/dermotblair/webvulscan    //web界面，php，漏洞扫描器，支持输出pdf报告
+- https://github.com/Skycrab/leakScan    //WebGui，漏洞扫描
+- https://github.com/az0ne/AZScanner    //WebGui，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测
+- https://github.com/MiniSafe/microweb    //WebGui，base bugscan，django
+- https://github.com/taipan-scanner/Taipan    //WebGui，基于F#与C#的安全扫描器
+- https://github.com/zhangzhenfeng/AnyScan    //WebGui，python漏洞扫描器，NoUpdate
+- https://github.com/Canbing007/wukong-agent    //WebGui，python漏洞扫描器
+- https://github.com/dermotblair/webvulscan    //WebGui，php，漏洞扫描器，支持输出pdf报告
 - https://github.com/0xInfection/TIDoS-Framework    //Py。linux，网站扫描器
 - https://github.com/secdec/adapt    //Py。linux，网站扫描器
 - https://github.com/sullo/nikto    //Perl。linux下网站扫描器
 - https://github.com/Ekultek/Zeus-Scanner    //Py。搜索引擎API/代理/路径爆破/sqli/xss/ByPass。simple，web扫描器
-- https://github.com/jeffzh3ng/InsectsAwake    //Py。web界面，基于Flask应用框架的漏洞扫描系统，集成端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite。
+- https://github.com/jeffzh3ng/InsectsAwake    //Py。WebGui，基于Flask应用框架的漏洞扫描系统，集成端口扫描、子域名爆破等功能，后端漏洞扫描采用Pocsuite。
 - https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器
 - https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner    //支持检测SQLi注入/XSS跨站/LFI本地文件包含/RFI远程文件包含等漏洞的扫描器
@@ -100,7 +100,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/m4ll0k/WAScan    //Py。simple，扫描页面/链接/脚本/Form， 测试Payload等
 - https://github.com/jiangsir404/S7scan    //Py。DONE，简单扫描工具
 - https://github.com/hatRiot/clusterd    //Py。simple，web漏洞扫描利用
-- https://github.com/iceyhexman/onlinetools    //Py3。simple，DONE，web界面，利用antsword漏洞插件
+- https://github.com/iceyhexman/onlinetools    //Py3。simple，DONE，WebGui，利用antsword漏洞插件
 - https://github.com/tulpar/tulpar    //Py。支持多种web漏洞扫描.simple
 - https://github.com/UltimateHackers/Striker    //Py。信息收集、cms利用与漏扫，侦察绕过Cloudflare.SIMPLE
 - https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用

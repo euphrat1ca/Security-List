@@ -118,7 +118,7 @@
 - https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    //Py。获取Twitter用户发推的地址
-- https://github.com/vaguileradiaz/tinfoleak    //web界面，对twitter账户进行全面的分析
+- https://github.com/vaguileradiaz/tinfoleak    //WebGui，对twitter账户进行全面的分析
 - http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
 - https://github.com/martinvigo/ransombile    //Ruby。根据社交媒体密码找回信息
 - https://www.reg007.com/    //注册过哪家网站app
@@ -139,7 +139,7 @@
 - https://github.com/ChrisJohnRiley/Scythe    //验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
-## 信息搜集OSINT
+## OSINT信息搜集
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
@@ -201,9 +201,9 @@
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎来搜集子域名，可以使用西班牙语搜集
 - https://github.com/vysec/DomLink    //Py3。调用WHOXY.com，对邮箱和域名进行进一步的搜集
 - https://github.com/jonluca/Anubis    //Py3。子域名爆破与信息收集
-- https://github.com/le4f/dnsmaper    //Py。web界面，子域名枚举爆破工具以及地图位置标记
+- https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记
 - https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
-- https://github.com/0xbug/orangescan    //web界面，子域名信息收集工具
+- https://github.com/0xbug/orangescan    //WebGui，子域名信息收集工具
 - https://github.com/We5ter/GSDF    //Py。基于谷歌SSL透明证书的子域名查询脚本
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
 - https://github.com/x0day/bannerscan    //Py。C段/旁站查询与路径扫描

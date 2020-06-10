@@ -157,7 +157,7 @@
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
 ### 图片素材
-- https://github.com/nagadomi/waifu2x    //lua.无损放大图片.官网“waifu2x.udp.jp/”。P:bigjpg.com;
+- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片.官网“waifu2x.udp.jp/”。P:bigjpg.com;
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图

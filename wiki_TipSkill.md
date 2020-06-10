@@ -71,7 +71,7 @@
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
 - https://github.com/fex-team/webuploader    //JS。文件上传框架
 ### 数据图形化展示
-- https://github.com/bokeh/bokeh    //Py。Web界面展示。11k。
+- https://github.com/bokeh/bokeh    //Py。WebGui展示。11k。
 ## 网络通讯请求
 - https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
 - https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。testjob,4K。

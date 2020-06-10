@@ -363,33 +363,36 @@ W:ns4gov.000webhostapp.com;
 - http://www.xmd5.org    //md5密码破解。需要登录
 - http://pmd5.com    //md5密码破解。需要验证码
 - https://www.onlinehashcrack.com    //md5密码破解。需要验证码
-## 资产管理信息搜集
-- https://github.com/nmap/nmap    //LUA.Nmap端口扫描器具有有强大的脚本引擎框架.greatjob.
-- https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second.
-- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
-- https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
-- https://github.com/zmap/zmap    //C。无状态扫描，可使用用C编写扩展模块。censys三件套。
-- https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。
-- https://github.com/chichou/grab.js    //JS。类似于 zgrab 的TCP指纹抓取解析工具。
+## 资产信息搜集
+- https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
+- https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:chichou/grab.js;--
 - https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
 - https://github.com/zmap/ztag    //Py。对zmap\zgrab产生的数据分析打标签。censys三件套。
-- https://github.com/OffensivePython/Nscan    //Py。类似于于Masscan和Zmap的端口服务扫描器
-- https://github.com/RASSec/RASscan    //Py。基础端口服务扫描demo
+- https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:sowish/LNScan;G:dr0op/bufferfly;--
+- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:flipkart-incubator/RTA;--
+- https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
+- https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;--
+- https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
+### 资产端口扫描
+- https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
+- https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
+- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
+- https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
+- https://github.com/RASSec/RASscan    //Py。基础端口服务扫描demo。
+- https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
+### 资产信息收集
+- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
+- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
+- https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路
+- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。testjob。
 - https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
-- https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
-- https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:sowish/LNScan;G:dr0op/bufferfly;--
-- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:flipkart-incubator/RTA;--
-- https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部.
-- https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;--
-- https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器，simple。
-### 资产管理风险测试
-- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产识别引擎，漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
+### 资产风险测试
+- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
 - https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:grayddq/PublicMonitors;--
 - https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
 - https://github.com/jeffzh3ng/Fuxi-Scanner    //Py。资产收集，漏洞检测（集成awvs、创宇Pocsuite、nmap、hydra）。
@@ -399,7 +402,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。G:NextronSystems/APTSimulator;--
 - https://github.com/guardicore/monkey    //Py。C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。P:guardicore.com/infectionmonkey;G:lawrenceamer/0xsp-Mongoose;--
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
-- https://github.com/alphasoc/flightsim    //Golang.malicious恶意网路流量模拟测试.
+- https://github.com/alphasoc/flightsim    //Golang。malicious恶意网路流量模拟测试.
 ### 资产漏洞生命周期
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
 - https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
@@ -592,7 +595,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO/C。owasp关于ModSecurity等防火墙规则库
 - https://github.com/xsec-lab/x-waf    //适用于中小企业的云waf
-- https://github.com/jx-sec/jxwaf    //lua.JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;
+- https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go.基于libinjection的Sql inject & XSS分析程序。
