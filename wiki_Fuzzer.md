@@ -1,4 +1,4 @@
-# Fuzzer模糊测试
+# Fuzzing模糊测试
 - 工控模糊测试Wurldtech Achilles阿基里斯国际认证
 - LLVM工具链，基于编译器插桩的coverage-feedback driven fuzzer
 - https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全

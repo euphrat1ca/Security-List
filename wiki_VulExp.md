@@ -316,7 +316,7 @@
 - https://www.xssgame.com    //谷歌XSS挑战
 - http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
 ## 模糊测试
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_fuzzing.md/    //Fuzzer模糊测试.mywiki
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md/    //Fuzzer模糊测试.mywiki
 ## 二进制pwn利用
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）
