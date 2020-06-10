@@ -103,6 +103,14 @@
 - https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
 - https://github.com/k8gege/WinrmCmd    //Go。Winrm远程命令/端口复用后门/WinrmCmd/密码爆破。WinRM是WindowsRemoteManagementd（win远程管理）的简称。基于Web服务管理(WS-Management)标准，使用80端口或者443端口。
+### 多姿态反弹shell
+- https://github.com/sysdream/chashell    //Golang。利用dns反弹shell。
+- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
+- https://github.com/FlyfishSec/rsGen    //BAT.Windows下远程shell反弹命令行工具。
+- https://github.com/sensepost/DNS-Shell    //Py。本地利用53端口nslookup传输加密的ps命令，回弹shell。
+- https://github.com/tokyoneon/Armor    //Bash。生成加密 Payload 在 macOS 上反弹 Shell。
+- https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
+- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
@@ -118,18 +126,16 @@
 - https://github.com/NYAN-x-CAT/Lime-RAT    //VB。勒索病毒源码
 - https://github.com/mwsrc/njRAT    //VB。源码
 - https://github.com/euphrat1ca/njRAT-v0.7d    //vb.常见蠕虫远控，有很多变种，多session带界面
-### shell反弹rootkit生成
-- https://github.com/sysdream/chashell    //Golang。利用dns反弹shell
-- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具
-- https://github.com/FlyfishSec/rsGen    //BAT.Windows下远程反弹shell命令行工具
-- https://github.com/sensepost/DNS-Shell    //Py。本地利用53端口nslookup传输加密的ps命令，回弹shell
-- https://github.com/tokyoneon/Armor    //Bash。生成加密 Payload 在 macOS 上反弹 Shell
-- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹
-- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit。1k。
-- https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter
-- https://github.com/mhaskar/Linux-Root-Kit    //Py。simple。linux简单rootkit
+### 自我隐匿rootkit
+- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
+- https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
+- https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
 - https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
-- https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成
+- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下进程隐藏。goodjob。
+- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
+- https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
+- https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
+- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 后门混淆免杀
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
@@ -189,13 +195,13 @@
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
-- https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts。5.4k。goodjob。
+- https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts;--
+- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
-- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1
-- https://www.secpulse.com/archives/103301.html    //Linux、Windows权限维持常用后门学习总结2，Windows后门总结
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;--
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
-- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。G:0x09AL/IIS-Raid //IIS后门;G:WBGlIl/IIS_backdoor;
-- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;
+- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
 ### 后渗透白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -221,12 +227,6 @@
 - https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
-### 进程隐藏
-- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下隐藏进程。goodjob。
-- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏执行程序、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
-- https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
-- https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
-- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 提权相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 ### Windows提权手段

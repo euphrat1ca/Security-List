@@ -652,18 +652,6 @@ W:ns4gov.000webhostapp.com;
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
-### 沙盒虚拟化容器云平台
-- http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
-- https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
-- https://www.busybox.net/    //集成了三百多个最常用Linux命令和工具的软件，良好支持嵌入式。
-- https://github.com/moby/moby    //Go。Linux下虚拟容器dockerCE。54k。
-- https://github.com/containers/libpod    //Go。podman.io虚拟容器。3k。
-- https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
-- https://www.virtualbox.org    //跨平台多系统支持，社区版。
-- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
-- http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
-- https://github.com/zstackio/zstack    //Java。类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
-- https://www.proxmox.com/    //ProxmoxVE类virtualbox架构，开源虚拟化平台，自带防火墙、邮件网关。
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
@@ -728,7 +716,7 @@ W:ns4gov.000webhostapp.com;
 # 开源情报数据源分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_OsintData.md/    //开源情报数据源分析.mywiki
 ## 欺骗防御
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Honeypots.md/    //欺骗防御、蜜罐、主动反制。myWiki
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md.md/    //欺骗防御、蜜罐、主动反制。myWiki
 ## 逆向安全分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecReverse.md/    //逆向分析、反编译、破解。myWiki
 ## 漏洞收集

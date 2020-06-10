@@ -4,10 +4,30 @@
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
 - https://github.com/BinaryDefense/artillery    //Py。端点蜜罐防护。
+## 虚拟化
+- http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
+- https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
+- https://www.busybox.net/    //集成了三百多个最常用Linux命令和工具的软件，良好支持嵌入式。
+- https://www.virtualbox.org    //跨平台多系统支持，社区版。
+- https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
+- https://www.proxmox.com/    //ProxmoxVE类virtualbox架构，开源虚拟化平台，自带防火墙、邮件网关。
+- http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
+### 虚拟化云平台
+- https://github.com/zstackio/zstack    //Java。类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
+### 虚拟化容器
+- https://github.com/moby/moby    //Go。Linux下虚拟容器dockerCE。54k。
+- https://github.com/containers/libpod    //Go。podman.io虚拟容器。3k。
+- https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
+- https://www.cnblogs.com/ryanyangcs/p/12558727.html/    //两个奇技淫巧，将 Docker 镜像体积减小 99%。多阶段构建，系统精简。
 ### 主动反制面包屑
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
 - https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。主动防御
+### 虚拟化沙盒
+- https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统，恶意样本分析沙盒检测。
+- https://github.com/euphrat1ca/Panda-Sandbox    //Py。钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件检测
+- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
+- https://github.com/felicitychou/MalAnalyzer    //Py3。基于docker虚拟化的恶意代码沙箱
 ## 蜜罐服务
 - https://github.com/phage-nz/malware-hunting    //Py。利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
 - https://github.com/threatstream/mhn    //Py。现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
