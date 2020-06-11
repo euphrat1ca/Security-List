@@ -2,8 +2,6 @@
  wiki_TipSkill
 # 计算机技术
 - https://github.com/arpitjindal97/technology_books    //编程语言晋级。Premium eBook free for Geeks
-- https://github.com/littlecodersh/itchat    //Py。微信个人号接口、微信机器人及命令行微信
-- https://github.com/youfou/wxpy    //Py。微信个人号 API
 - https://github.com/insoxin/API    //PHP。基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
