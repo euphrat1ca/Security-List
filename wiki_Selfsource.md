@@ -61,7 +61,8 @@
 - https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
 - http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
 ### 微信插件
-- https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:youfou/wxpy
+- https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:youfou/wxpy;--
+- https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
 - https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
 ### 办公通讯

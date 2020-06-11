@@ -17,8 +17,8 @@
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
-### 横向移动凭证传递
-- https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版
+### 横向移动凭证利用
+- https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版，凭证传递。
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块.testjob,3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
@@ -33,8 +33,9 @@
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html/    //导出域内hash
-- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取
-### 横向移动密码抓取
+- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取。
+- https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据
+### 横向移动密钥抓取
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
@@ -108,6 +109,7 @@
 - https://github.com/tokyoneon/Armor    //Bash。生成加密 Payload 在 macOS 上反弹 Shell。
 - https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
+- https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:andrew-d/static-binaries/tree/master/socat;--
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
