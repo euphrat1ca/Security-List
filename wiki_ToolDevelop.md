@@ -117,6 +117,7 @@
 - https://github.com/gloxec/CrossC2    //cobaltstrike插件.生成CobaltStrike的跨平台beacon.testjob.
 - https://github.com/darkr4y/geacon    //Go。macos系统beacon上线
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除
+- https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名上线。公众号:DNS上线CS(反溯源);--
 #### cobaltstrike提权利用
 - https://github.com/rsmudge/ElevateKit/    //PS。cna插件，CS利用第三方模块提权
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit

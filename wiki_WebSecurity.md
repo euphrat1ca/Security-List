@@ -133,7 +133,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
 - https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
 - https://github.com/orf/xcat    //py3。xpath注入漏洞检测利用
-- https://github.com/enjoiz/XXEinjector/    //ruby.外部实体注入漏洞xxe检测利用
+- https://github.com/enjoiz/XXEinjector/    //Ruby。外部实体注入漏洞xxe检测利用
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    //java.csrf验证工具
 - https://github.com/d0nutptr/sic    //RUST.CSS注入，csrf攻击
@@ -157,7 +157,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
 ### XSS检测辅助
 - https://github.com/s0md3v/XSStrike    //Py3。可识别并绕过WAF的XSS扫描工具
-- https://github.com/hahwul/XSpear    //ruby.Powerfull XSS Scanning and Parameter analysis tool&gem
+- https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem
 - https://github.com/raz-varren/xsshell    //Go。利用xss返回js交互shell
 - https://github.com/UltimateHackers/JShell    //利用xss返回js交互shell
 - https://github.com/shawarkhanethicalhacker/BruteXSS    //一款XSS扫描器，可暴力注入参数

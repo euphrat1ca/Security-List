@@ -125,16 +125,6 @@
 - https://github.com/NYAN-x-CAT/Lime-RAT    //VB。勒索病毒源码
 - https://github.com/mwsrc/njRAT    //VB。源码
 - https://github.com/euphrat1ca/njRAT-v0.7d    //vb.常见蠕虫远控，有很多变种，多session带界面
-### 自我隐匿rootkit
-- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
-- https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
-- https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
-- https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
-- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下进程隐藏。goodjob。
-- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
-- https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
-- https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
-- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 后门混淆免杀
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
@@ -176,21 +166,6 @@
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆
-### 劫持注入权限绕过
-- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
-- https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
-- https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
-- https://github.com/St0rn/Windows-10-Exploit    //PY\msf插件，win10 uacbypass
-- https://github.com/Hackplayers/evil-winrm    //ruby.利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
-- https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#。Changing values to bypass windows defender
-- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载.Net程序的工具
-- https://github.com/Ben0xA/nps    //C#。实现不调用powershell.exe执行powershell命令
-- https://github.com/Mr-Un1k0d3r/PowerLessShell    //Py。实现不调用powershell.exe执行powershell命令
-- https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制
-- https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
-- https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint 防护软件
-- https://github.com/Screetsec/Vegile    //SHELL/C。msf免杀，程序注入权限维持
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
@@ -198,10 +173,24 @@
 - https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
+### 权限维持权限绕过
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;--
 - https://www.4hou.com/posts/oAAj    //基于WinRM与HTTP Server API的端口复用。利用IIS的端口共享功能绕过防火墙
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
-### 后渗透白利用
+- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps
+- https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法
+- https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac
+- https://github.com/St0rn/Windows-10-Exploit    //PY\msf插件。win10 uacbypass
+- https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙，来完成测试操作
+- https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#。Changing values to bypass windows defender
+- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载.Net程序的工具
+- https://github.com/Ben0xA/nps    //C#。实现不调用powershell.exe执行powershell命令
+- https://github.com/Mr-Un1k0d3r/PowerLessShell    //Py。实现不调用powershell.exe执行powershell命令
+- https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制
+- https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
+- https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint 防护软件。
+- https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过
+### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
 - https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成
@@ -210,15 +199,28 @@
 - https://github.com/g3rzi/Manifesto    //C#。寻找系统中存在可执行权限的组件
 - https://github.com/ufrisk/MemProcFS    //C。以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    //C#。绕过系统应用白名单执行DotNet and PowerShell tools
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
+### 权限维持劫持注入
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
-;G:rek7/dll-hijacking;
+;G:rek7/dll-hijacking;P:微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;--
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/mdsecactivebreach/RDPInception/    //BAT.基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4
-- https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;
+- https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
-- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
+- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
+- https://github.com/Screetsec/Vegile    //SHELL/C。msf免杀，程序注入权限维持
+### 自我隐匿rootkit
+- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
+- https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
+- https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
+- https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
+- https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下进程隐藏。goodjob。
+- https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:mempodippy/vlany/wiki //作者原知识库;--
+- https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
+- https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
+- https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ### 签名提取伪造修改
 - https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
@@ -245,3 +247,4 @@
 - https://github.com/DamonMohammadbagher/FakeFileMaker    //更换图标和名称
 - https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
+- https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包

@@ -272,7 +272,7 @@
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测，楼上升级
 - https://github.com/LandGrey/pydictor    //Py3。特定密码字典生成
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //ruby.爬取目标网站关键词生成字典。testjob.
+- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。testjob.
 ### 程序功能模块库
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
