@@ -60,6 +60,8 @@
 - https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
 - https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
 - http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+### 远程协助
+- https://www.todesk.com/    //远程协助软件。W:anydesk;W:Teamviewer;--
 ### 微信插件
 - https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:youfou/wxpy;--
 - https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
