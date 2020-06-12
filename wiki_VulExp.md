@@ -67,7 +67,7 @@
 - https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 - https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
-- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。P:whoer.net web应用指纹获取集合;
+- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。P:whoer.net web应用指纹获取集合;--
 - https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过。g:leapsecurity/libssh-scanner;--
@@ -78,7 +78,7 @@
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //Intro。如何攻击Fortigate SSL VPN
-- https://windows-internals.com/printdemon-cve-2020-1048/    //欺骗利用打印机服务本地提权。G:ionescu007/PrintDemon;--
+- https://devel0pment.de/?p=1881/    //AnyDesk RCE UDP远程执行代码（CVE-2020-13160）
 ### 数据库漏洞
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
@@ -109,12 +109,12 @@
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x
 #### apache相关漏洞
 - https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
-- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化
+- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
 - https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行
-- https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution;Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。
-- https://github.com/feihong-cs/ShiroExploit_GUI    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）的一键化检测。G:nsightglacier/Shiro_exploit;--
-- https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞
+- https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。
+- https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
+- https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）的一键化检测。G:nsightglacier/Shiro_exploit;--
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 #### nginx相关漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
@@ -180,9 +180,9 @@
 - https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
-- https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
-- https://github.com/blackorbird/APT_REPORT/blob/master/APT34/Jason.zip    //APT34针对exchange的电子邮件爆破劫持工具
 - https://github.com/dafthack/MailSniper    //PS。用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等），提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
+- https://github.com/euphrat1ca/APT34-Jason    //C#。APT34针对exchange密码爆破。P:对APT34泄露工具的分析——Jason;--
+- https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
 - https://github.com/QuickBreach/ExchangeRelayX    //Py。基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据，IE浏览器可行。
 - https://github.com/mullender/python-ntlm    //Py。利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
 #### Exchange提权利用
@@ -226,6 +226,7 @@
 - https://github.com/rasta-mouse/Sherlock    //PS。win提权漏洞验证。1k。
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
+- https://windows-internals.com/printdemon-cve-2020-1048/    //欺骗利用打印机服务本地提权。G:ionescu007/PrintDemon;--
 - https://github.com/SandboxEscaper/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权。
 - https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:decoder-it/lonelypotato;G:foxglovesec/Potato;G:ohpe/juicy-potato;G:foxglovesec/RottenPotato;--
 - https://github.com/CCob/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权。

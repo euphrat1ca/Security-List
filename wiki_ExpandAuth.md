@@ -34,7 +34,7 @@
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop/    //利用mimikatz对mstsc，或使用xFreeRDP通过rdp服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)服务的135也可以进行哈希传递）。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html/    //导出域内hash
 - https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取。
-- https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据
+- https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:inguardians/peirates;--
 ### 横向移动密钥抓取
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
@@ -119,12 +119,11 @@
 ### 僵木蠕远程协助
 - https://github.com/panda-re/lava    //批量恶意程序注入
 - https://github.com/malwaredllc/byob    //僵尸网络生成框架
-- https://github.com/proxycannon/proxycannon-ng 构建僵尸网络
-- https://github.com/deadPix3l/CryptSky/    //勒索软件源码
+- https://github.com/proxycannon/proxycannon-ng    //构建僵尸网络
+- https://github.com/deadPix3l/CryptSky/    //勒索病毒源码
+- https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
-- https://github.com/NYAN-x-CAT/Lime-RAT    //VB。勒索病毒源码
-- https://github.com/mwsrc/njRAT    //VB。源码
-- https://github.com/euphrat1ca/njRAT-v0.7d    //vb.常见蠕虫远控，有很多变种，多session带界面
+- https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:mwsrc/njRAT;G:NYAN-x-CAT/Lime-RAT;--
 ## 后门混淆免杀
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
@@ -170,7 +169,8 @@
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts;--
-- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;--
+- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;公众号:Linux常见的持久化后门汇总
+;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
 ### 权限维持权限绕过

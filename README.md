@@ -111,6 +111,7 @@
 - https://github.com/hardenedlinux/linux-exploit-development-tutorial    //Linux exploit 开发入门
 - https://wizardforcel.gitbooks.io/asani/content    //浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content    //Android 渗透测试学习手册 中文版
+- https://www.octority.com/pepenote/    //10w行渗透测试技巧
 ### Offensive Security全家桶
 - https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
 #### OSCP渗透测试
@@ -385,8 +386,9 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
 ### 资产信息收集
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
-- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
+- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
+- https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。testjob。
@@ -699,7 +701,7 @@ W:ns4gov.000webhostapp.com;
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - https://www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
 - https://www.lshack.cn    //工控安全入门
-- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，逆向。W:cnblogs.com/ssooking;--
+- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，逆向。W:cnblogs.com/ssooking;W:3gstudent.github.io;--
 - http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
 <br>
 TheEnd

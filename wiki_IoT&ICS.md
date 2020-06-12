@@ -59,6 +59,7 @@
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## ICS工业安全
+- https://dale-peterson.com/    //Digital Bond工业安全公司，s4xevents.com旗下S4 Events工业安全培训教程。
 - https://www.freebuf.com/ics-articles    //freebuf工控分类。P:author/黄一113530;P:author/yy0308;--
 - http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;W:icsmaster.org //工匠安全实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:ITI/ICS-Security-Tools;G:euphrat1ca/ICSwiki;--
@@ -83,13 +84,16 @@
 - https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
 - https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
 - https://github.com/w3h/isf    //py2.基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
-### ICS 资产探测
+- https://github.com/digitalbond/Basecamp    //针对工业项目Project Basecamp开发的Metasploit模块利用。功能码（0x5a）问题。
+### ICS资产探测
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:cisagov/cset/;--
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
-- https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本
+- https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本。
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
+### ICS入侵检测
+- https://github.com/digitalbond/Quickdraw-Snort    //Snort工业入侵检测功能。G:digitalbond/Quickdraw-Snort;--
 ### ICS代理转发远程访问
 - https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
 - http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能

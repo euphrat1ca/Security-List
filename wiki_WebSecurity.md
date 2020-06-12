@@ -129,6 +129,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。testjob。
 - https://github.com/commixproject/commix    //Py。命令注入漏洞扫描
 - https://github.com/ewilded/shelling    //Java。burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
+- https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/    //CMD Hijack，命令执行截断执行，配合powershell（带-enc执行）、mshta等方法。
 ### XXE漏洞
 - https://github.com/BuffaloWill/oxml_xxe    //XXE漏洞利用
 - https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
