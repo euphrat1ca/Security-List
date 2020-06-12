@@ -53,7 +53,7 @@
 - https://github.com/NIteshx2/UltimateSecurityCam    //Py3。摄像头监测外来人员软件，有防欺骗设置
 - http://www.dtxiaoting.com    //扫描连接的WiFi中摄像头存在情况
 ### 路由网关安全
-- http://stascorp.com/search/?q=Router+Scan    //Pascal.RouterScan毛子开发的路由器漏洞利用工具，界面化。GoodJob.
+- http://stascorp.com/search/?q=Router+Scan    //Pascal。RouterScan毛子开发的路由器漏洞利用工具，界面化。GoodJob.
 - https://github.com/jh00nbr/Routerhunter-2.0    //路由器漏洞扫描利用。NoUpdate
 - https://github.com/googleinurl/RouterHunterBR    //PHP。路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
