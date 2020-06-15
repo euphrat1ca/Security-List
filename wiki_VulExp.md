@@ -1,5 +1,5 @@
 # 漏洞收集
-- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web安全/渗透测试/CTF常用脚本命令payloadsw。8K。goodjob。
+- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/offensive-security/exploitdb-bin-sploits    //exploit db编译好的漏洞执行文件
 - https://github.com/HacTF/poc--exp    //常用渗透poc收集。G:DrunkenShells/Disclosures;
 - https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
@@ -143,14 +143,16 @@
 - https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
 ### 沙盒虚拟机容器逃逸
-- https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
 - https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸
 - https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905
 - https://github.com/MorteNoir1/virtualbox_e1000_0day    //VirtualBox E1000 Guest-to-Host Escape逃逸。教程
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    //Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
-- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。
+- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。G:twistlock/RunC-CVE-2019-5736;W:Docker逃逸初探;公众号:Docker逃逸小结第一版;--
+- https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/    //Docker代码编译命令执行 （CVE-2019-13139）
+- https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/    //Docker cp命令漏洞 (CVE-2019-14271)
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
+- https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
 ## 物联网路由工控漏洞收集
 - https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露

@@ -6,6 +6,14 @@
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
+## 编程相关
+### 编程调试
+- https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
+### 程序功能模块库
+- https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
+- https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
+- https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
+- https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 ### 游戏框架
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
@@ -46,6 +54,7 @@
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
 ### 深度学习
+- https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
 ### 神经网络GanS
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
@@ -72,7 +81,6 @@
 - https://github.com/bokeh/bokeh    //Py。WebGui展示。11k。
 ## 网络通讯请求
 - https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
-- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket是用于处理网络协议的，内网中可用以提权例如wmiexec.py、NMB，SMB1-3和MS-DCERPC提供对协议实现本身的低级别编程访问。testjob,4K。
 - https://github.com/secdev/scapy    //Py。网络请求通用库
 - https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档

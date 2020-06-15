@@ -68,8 +68,8 @@
 - https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
 ### 办公通讯
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;
-- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;--
+- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
 ### 项目管理
 - https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
@@ -89,8 +89,9 @@
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C。私有云网盘，速度快，功能少。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
+- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联版本，vps使用OneDrive存储。
 ### 文档编辑
-- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
@@ -126,6 +127,7 @@
 - https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。https://rocket.chat/install
 - https://www.fakenamegenerator.com/    //多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    //Py。随机身份生成脚本
+- https://xbeginagain.github.io/generator/    //编号生成器，身份证、营业执照、组织机构代码、统一社会信用代码、手机号、银行卡账号
 - https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
 - https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
 ### 客户端通讯分析

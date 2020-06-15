@@ -46,7 +46,7 @@
 ### Java逆向
 - https://github.com/skylot/jadx    //Java。jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:java-decompiler/jd-gui;
 - https://github.com/deathmarine/Luyten    //Java。java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
-- https://github.com/pxb1988/dex2jar    //Java。 android/.dex/.class java文件逆向反编译
+- https://github.com/pxb1988/dex2jar    //Java。 android/.dex/.class文件逆向反编译为java代码，dex-tools SNAPSHOT。
 - https://github.com/Col-E/Recaf    //java.java字节码编辑器。
 ### 安卓逆向APK分析
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全

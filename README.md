@@ -162,7 +162,7 @@
 ## 应急响应溯源
 - https://security.tencent.com/opensource/detail/19    //腾讯开源的xSRC应急响应中心cms
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
-- https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记。应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;-
+- https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记，应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;G:tide-emergency/yingji;P:应急响应知识手册-360;--
 - https://github.com/tide-emergency/yingji    //Py3。查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
 - https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
 - https://github.com/al0ne/LinuxCheck    //Bash。linux信息收集/应急响应/常见后门检测脚本
@@ -229,10 +229,11 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
+- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;--
 - https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具，配合客户端checklist
-- https://github.com/kabachook/k8s-security/    //bash/py.Kubernetes安全集合
+- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件
 - https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
 - https://github.com/lionsoul2014/ip2region    //ip地址定位库，支持python3等多接口。类似于于geoip架构
@@ -274,11 +275,6 @@
 - https://github.com/LandGrey/pydictor    //Py3。特定密码字典生成
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。testjob.
-### 程序功能模块库
-- https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
-- https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
-- https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
-- https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 ## 社工相关
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
@@ -607,7 +603,6 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
-- https://github.com/swisskyrepo/PayloadsAllTheThings    //A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
