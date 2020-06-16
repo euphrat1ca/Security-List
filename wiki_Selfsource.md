@@ -85,8 +85,9 @@
 - https://www.upload.ee/    //文件共享平台
 - https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码
+- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘。
+- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器匿名文件共享
-- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘
 - https://github.com/haiwen/seafile    //C。私有云网盘，速度快，功能少。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联版本，vps使用OneDrive存储。

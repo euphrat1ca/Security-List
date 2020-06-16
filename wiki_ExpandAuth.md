@@ -44,6 +44,7 @@
 - https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
 ### 横向移动密钥抓取
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
+- https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:citronneur/rdpy;--
 - https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取、hash dump，不用注入任何进程，含已编译版。

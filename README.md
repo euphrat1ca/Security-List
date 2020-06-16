@@ -112,6 +112,7 @@
 - https://wizardforcel.gitbooks.io/asani/content    //浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content    //Android 渗透测试学习手册 中文版
 - https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://github.com/hookmaster/frida-all-in-one/    //《FRIDA操作手册》
 ### Offensive Security全家桶
 - https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
 #### OSCP渗透测试
