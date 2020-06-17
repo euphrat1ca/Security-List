@@ -21,6 +21,7 @@
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob,3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
+- https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
 ### 横向移动协议利用
 - https://github.com/poweradminllc/PAExec    //C++。类PSEXEC远程$IPC控制。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit;--
@@ -31,12 +32,13 @@
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:gentilkiwi/kekeo PTK(Pass the ticket);--
 ### 横向移动凭证利用
-- https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。
+- https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:outflanknl/Dumpert;--
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
 - https://github.com/lgandx/Responder    //Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //Py。构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //Intro。Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop-Protocol/    //使用hash登录RDP。借助mimikatz对mstsc，或使用xFreeRDP通过rdp服务、135端口服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)
+- 渗透技巧——Pass the Hash with Exchange Web Service/    //利用exchange web服务进行哈希传递
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html/    //导出域内hash。
 - https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:inguardians/peirates;--
 - https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取。
@@ -81,11 +83,11 @@
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
 - https://github.com/cobbr/Covenant    //C#。.Net服务端C2控制器，配合powershell进行权限控制。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。
+ https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:whitehatnote/BlueShell;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:Tiked/Client;--
 ### *nix远控
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
-- https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。
+- https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:creaktive/tsh //Tiny SHell;--
 ### 多姿态远控shell
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
 - https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:sweetsoftware/Ares;G:5alt/ZeroRAT;--
@@ -115,6 +117,7 @@
 - https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:andrew-d/static-binaries/tree/master/socat;--
+- https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
@@ -195,6 +198,8 @@
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint 防护软件。
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过
+- https://github.com/CCob/SharpBlock/    //C#。利用dll注入的方式进行EDR绕过
+- https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件
 ### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。

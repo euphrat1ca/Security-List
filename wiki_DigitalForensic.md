@@ -71,7 +71,15 @@
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 - https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
-- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码
+- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer,pcap捕获和重放工具
+### 邮箱取证
+- https://github.com/RedLectroid/SearchOutlook/    //Outlook运行实例中关键字搜索
+- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
+- https://github.com/dpu/coremail-address-book/    /go。Coremail邮件系统组织通讯录导出脚本。
+- https://github.com/dafthack/MailSniper    //PS。用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等），提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
+### 文件服务器取证
+### 数据库取证
+- https://github.com/vrana/adminer/    //php。php单文件数据库下载。phpstudy。

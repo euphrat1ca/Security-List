@@ -23,7 +23,7 @@
 - http://www.bingdian001.com/    //百度文库冰点下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
-- https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
+- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
@@ -77,7 +77,7 @@
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
+- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 ### 网盘同步云存储
@@ -122,7 +122,7 @@
 - https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器
 ### 通讯隐私加密虚拟身份
-- https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
+- https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展
 - https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
 - https://github.com/akaxincom/openzaly    //Java。聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。https://rocket.chat/install

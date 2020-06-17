@@ -28,8 +28,6 @@
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
-- https://github.com/euphrat1ca/OtherScript/blob/master/coremail_vul_check.sh    //coremail配置文件泄露导致用户导出/资产泄露/邮件伪造发送
-- https://github.com/dpu/coremail-address-book/    /go。Coremail邮件系统组织通讯录导出脚本。
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit。
 - https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:jas502n/fastjson-RCE;G:iSafeBlue/fastjson-autotype-bypass-demo;--
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
@@ -43,7 +41,7 @@
 ### wordpress漏洞
 - https://github.com/wpscanteam/wpscan    //Ruby。wordpress漏洞扫描工具。G:shadowlabscc/ProjectOpal;G:swisskyrepo/Wordpresscan;G:m4ll0k/WPSeku;
 - https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
-- https://github.com/Jamalc0m/wphunter    //php.wordpress扫描器
+- https://github.com/Jamalc0m/wphunter    //php。wordpress扫描器
 - https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
 ### Drupal漏洞
 - https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600/SA-CORE-2018-002 Drupal7.x 版本代码执行
@@ -182,7 +180,6 @@
 - https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
-- https://github.com/dafthack/MailSniper    //PS。用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等），提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 - https://github.com/euphrat1ca/APT34-Jason    //C#。APT34针对exchange密码爆破。P:对APT34泄露工具的分析——Jason;--
 - https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
 - https://github.com/QuickBreach/ExchangeRelayX    //Py。基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据，IE浏览器可行。
@@ -302,13 +299,14 @@
 - https://github.com/ethicalhack3r/DVWA    //web安全实验靶场。新手指南：DVWA-1.9全级别教程
 - http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
-- https://github.com/78778443/permeate    //php.常见漏洞靶场
-- https://github.com/gh0stkey/DoraBox    //php.多拉基础Web漏洞训练靶场。noupdate。
+- https://github.com/78778443/permeate    //php。常见漏洞靶场
+- https://github.com/gh0stkey/DoraBox    //php。多拉基础Web漏洞训练靶场。noupdate。
 - https://github.com/stamparm/DSVW    //Py3。常见漏洞靶场
 - https://github.com/amolnaik4/bodhi    //Py。常见漏洞靶场
-- https://github.com/Safflower/Solve-Me    //php.韩国一个偏代码审计的ctf靶场源码
+- https://github.com/Safflower/Solve-Me    //php。韩国一个偏代码审计的ctf靶场源码
 - https://github.com/rapid7/metasploitable3    //metasploit练习系统
 - https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
+- https://github.com/madhuakula/kubernetes-goat/    //Kubernetes靶场 Goat
 ### 在线靶场学习
 - https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
 - https://www.root-me.org    //俄罗斯root me靶场。在线。社区版
@@ -324,13 +322,9 @@
 ## 模糊测试
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md/    //Fuzzer模糊测试.mywiki
 ## 二进制pwn利用
+- https://github.com/FULLSHADE/WindowsExploitationResources/    //Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法
-- https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）
-- 漏洞战争：软件漏洞分析精要    //
-- 加密与解密（第4版）    //
-- modern windows exploit    //
-- cnit的二进制教程    //
-- awesome windows exploit    //Windows漏洞挖掘
+- https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）。漏洞战争：软件漏洞分析精要、加密与解密（第4版）、modern windows exploit、cnit的二进制教程、awesome windows exploit;--
 - https://www.youtube.com/channel/UC_PU5Tk6AkDnhQgl5gARObA    //pwn学习三部曲学习
 - https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    //exploit编写系列教程,10篇,后续在corelan网站上
 - https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。*egghunter
@@ -352,3 +346,7 @@
 - https://github.com/xairy/linux-kernel-exploitation    //Linux漏洞挖掘
 - https://azeria-labs.com/    //arm 溢出
 - https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
+### 二进制pwn利用CTF
+- https://github.com/Gallopsled/pwntools    //Py。pwn类型，二进制利用框架
+- https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
+- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn，自动攻击脚本

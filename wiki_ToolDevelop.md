@@ -121,6 +121,7 @@
 #### cobaltstrike提权利用
 - https://github.com/rsmudge/ElevateKit/    //PS。cna插件，CS利用第三方模块提权
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit
+- https://github.com/rxwx/spoolsystem/
 ### 菜刀相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js.免杀webshell无限生成工具蚁剑版
