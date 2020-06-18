@@ -468,6 +468,27 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/DominicBreuker/stego-toolkit    //隐写工具包。Stegosuite
 - https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
 - http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
+# 安全体系防护相关
+- https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
+- https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
+- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
+- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
+- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
+- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
+- https://github.com/PlagueScanner/PlagueScanner    //python.集成ClamAV、ESET、Bitdefender的反病毒引擎
+- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架
+- https://github.com/jumpserver/jumpserver    //Python3.开源堡垒机
+- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
+- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
+- https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
+- https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
+- https://github.com/openitsystem/itops    //PY3/DJANGo。AD\Exchange管理系统
+- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
+- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
+## 安全防护建设
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 系统监控管理
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;--
@@ -498,27 +519,6 @@ W:ns4gov.000webhostapp.com;--
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 - https://github.com/target/strelka    //Py3。文件变化实时监控。
-# 安全体系防护相关
-- https://github.com/Bypass007/Safety-Project-Collection    //收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
-- https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
-- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
-- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
-- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
-- https://github.com/PlagueScanner/PlagueScanner    //python.集成ClamAV、ESET、Bitdefender的反病毒引擎
-- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架
-- https://github.com/jumpserver/jumpserver    //Python3.开源堡垒机
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
-- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
-- https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
-- https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
-- https://github.com/openitsystem/itops    //PY3/DJANGo。AD\Exchange管理系统
-- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-## 安全防护建设
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
@@ -563,25 +563,16 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go.基于libinjection的Sql inject & XSS分析程序。
-## Bypass安全防护绕过
-- https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
-- https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
-- https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
-- https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
-- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
-- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
-- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
-- https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
 ## 代码审计应用测试
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
-- https://securitylab.github.com/tools/codeql    //GitHub开源代码审计，插件、函数库形式。testjob。
-- https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码安全审计
-- https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计
-- https://github.com/wufeifei/cobra    //Py。源代码安全审计，支持PHP、Java等开发语言，并支持数十种类型文件。
+- https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。testjob。
+- https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。
+- https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
+- https://github.com/wufeifei/cobra    //Py。源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。GUI界面。
 ### Ruby代码审计
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
 ### Clang+代码审计
