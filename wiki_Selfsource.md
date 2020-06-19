@@ -23,7 +23,7 @@
 - http://www.bingdian001.com/    //百度文库冰点下载
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 - https://www.freenom.com    //注册免费域名，dns解析
-- https://github.com/luolongfei/freenom    //php.freenom域名自动续期。
+- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
@@ -77,7 +77,7 @@
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php.基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
+- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 ### 网盘同步云存储
@@ -85,8 +85,14 @@
 - https://www.upload.ee/    //文件共享平台
 - https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码
+<<<<<<< HEAD
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器
+=======
+- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘。
+- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+- https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器匿名文件共享
+>>>>>>> ff72781f2f375e2f088eea2bb570444546b3cb9f
 - https://github.com/haiwen/seafile    //C。私有云网盘，速度快，功能少。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联版本，vps使用OneDrive存储。
@@ -121,7 +127,7 @@
 - https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器
 ### 通讯隐私加密虚拟身份
-- https://github.com/walkor/workerman-chat    //php.在线聊天室。可扩展
+- https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展
 - https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
 - https://github.com/akaxincom/openzaly    //Java。聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。https://rocket.chat/install

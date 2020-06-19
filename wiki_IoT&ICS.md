@@ -47,8 +47,9 @@
 - https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //T00ls精华文：自助终端机的常见入侵方式
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //Py。调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
-- https://github.com/Ullaakut/cameradar    //Go。针对摄像头RTSP协议渗透测试，附弱口令字典
+- https://github.com/Ullaakut/cameradar    //Go。针对摄像头RTSP协议渗透测试，附弱口令字典。
 - https://github.com/JrDw0/rtspBruter    //Py。rtsp密码爆破
+- https://github.com/IncludeSecurity/RTSPhuzz/    //Py。基于Boofuzz框架针对RTSP服务器的Fuzzer。
 - https://github.com/Ullaakut/camerattack    //Go。摄像头远程禁用
 - https://github.com/NIteshx2/UltimateSecurityCam    //Py3。摄像头监测外来人员软件，有防欺骗设置
 - http://www.dtxiaoting.com    //扫描连接的WiFi中摄像头存在情况
@@ -64,7 +65,7 @@
 - http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;W:icsmaster.org //工匠安全实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:ITI/ICS-Security-Tools;G:euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
-- 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟公开课系列
+- 公众号：【视频-公开课】SCADA系统安全技术—入侵检测 系列    //1分钟 专辑|工业控制系统网络安全
 ### 工业场景演练
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类。
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结

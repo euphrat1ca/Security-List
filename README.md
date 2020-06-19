@@ -112,6 +112,7 @@
 - https://wizardforcel.gitbooks.io/asani/content    //浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content    //Android 渗透测试学习手册 中文版
 - https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://github.com/hookmaster/frida-all-in-one/    //《FRIDA操作手册》
 ### Offensive Security全家桶
 - https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
 #### OSCP渗透测试
@@ -242,6 +243,19 @@
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
 - https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
 - https://github.com/feross/SpoofMAC    //Py。跨平台mac修改
+## 云安全相关
+- https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
+- https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
+### 亚马逊AWS安全相关
+- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
+- https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
+- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
+- https://github.com/sa7mon/S3Scanner    //扫描amazon公开的S3 buckets和dump
+- https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
+- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
+- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
+- https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_Selfsource；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
@@ -307,12 +321,13 @@
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器
 - https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台
-- https://github.com/jbtronics/CrookedStyleSheets    //php.使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
+- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 ### 邮件伪造
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;
-W:ns4gov.000webhostapp.com;
-- https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:lunarca/SimpleEmailSpoofer;G:Dionach/PhEmail;
-- https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具
+W:ns4gov.000webhostapp.com;--
+- https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:lunarca/SimpleEmailSpoofer;G:Dionach/PhEmail;--
+- https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具。
+- https://www.ehpus.com/post/smtp-injection-in-gsuite/    //基于smtp注入的邮件欺骗
 ### 口令扫描爆破证书校验
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:scu-igroup/ssh-scanner;G:lijiejie/htpwdScan;G:ztgrace/changeme;G:netxfly/crack_ssh;G:euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
@@ -333,7 +348,7 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具
 - https://github.com/hashcat/hashcat    //C。哈希破解
 - https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
-- https://github.com/s3inlc/hashtopolis    //php.hashcat的分布式破解工具，支持C#与python客户端
+- https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash
 - https://github.com/clr2of8/DPAT    //Py。利用hashcat等工具域密码进行破解测试
 - https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具
@@ -361,52 +376,6 @@ W:ns4gov.000webhostapp.com;
 - http://www.xmd5.org    //md5密码破解。需要登录
 - http://pmd5.com    //md5密码破解。需要验证码
 - https://www.onlinehashcrack.com    //md5密码破解。需要验证码
-## 资产信息搜集
-- https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
-- https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:chichou/grab.js;--
-- https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
-- https://github.com/zmap/ztag    //Py。对zmap\zgrab产生的数据分析打标签。censys三件套。
-- https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:sowish/LNScan;G:dr0op/bufferfly;--
-- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:flipkart-incubator/RTA;--
-- https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
-- https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。Github:Scan-T;G:LangziFun/LangNetworkTopology3;--
-- https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
-### 资产端口扫描
-- https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
-- https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
-- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
-- https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构
-- https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
-- http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
-- https://github.com/RASSec/RASscan    //Py。基础端口服务扫描demo。
-- https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
-### 资产信息收集
-- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
-- https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
-- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
-- https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
-- https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
-- https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。testjob。
-- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
-- https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
-### 资产风险测试
-- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:ody5sey/Voyager;G:CTF-MissFeng/bayonet;--
-- https://gobies.org/    //goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:grayddq/PublicMonitors;--
-- https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
-- https://github.com/jeffzh3ng/Fuxi-Scanner    //Py。资产收集，漏洞检测（集成awvs、创宇Pocsuite、nmap、hydra）。
-- https://github.com/TideSec/Mars    //Py。基于docker资产安全检测（集成awvs、创宇Pocsuite、nmap、hydra），一键启动。G:0xbug/Biu-framework;--
-- https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
-- https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试
-- https://github.com/mitre/caldera    //mitre公司apt攻击模拟测试，主要针对win。G:NextronSystems/APTSimulator;--
-- https://github.com/guardicore/monkey    //Py。C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。P:guardicore.com/infectionmonkey;G:lawrenceamer/0xsp-Mongoose;--
-- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。
-- https://github.com/alphasoc/flightsim    //Golang。malicious恶意网路流量模拟测试.
-### 资产漏洞生命周期
-- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
-- https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
-- https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
-- https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 ## MITM攻击流量劫持
 - https://github.com/bettercap/bettercap    //Go。中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等。5K。GREATJOB。
 - https://github.com/Binject/backdoorfactory    //Go。bettercap的二次开发拓展，用于将shellcode插入到网络上所有类型的二进制文件中。G:secretsquirrel/the-backdoor-factory;--
@@ -498,11 +467,28 @@ W:ns4gov.000webhostapp.com;
 - https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
 - https://github.com/DominicBreuker/stego-toolkit    //隐写工具包。Stegosuite
 - https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
-- http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器
-### 二进制pwn利用CTF
-- https://github.com/Gallopsled/pwntools    //Py。pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn，自动攻击脚本
+- http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
+# 安全体系防护相关
+- https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
+- https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
+- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
+- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
+- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
+- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
+- https://github.com/PlagueScanner/PlagueScanner    //python.集成ClamAV、ESET、Bitdefender的反病毒引擎
+- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架
+- https://github.com/jumpserver/jumpserver    //Python3.开源堡垒机
+- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
+- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
+- https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
+- https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
+- https://github.com/openitsystem/itops    //PY3/DJANGo。AD\Exchange管理系统
+- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
+- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
+## 安全防护建设
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 系统监控管理
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
 - down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;--
@@ -533,27 +519,6 @@ W:ns4gov.000webhostapp.com;
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 - https://github.com/target/strelka    //Py3。文件变化实时监控。
-# 安全体系防护相关
-- https://github.com/Bypass007/Safety-Project-Collection    //收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。welljob。
-- https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
-- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
-- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
-- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
-- https://github.com/PlagueScanner/PlagueScanner    //python.集成ClamAV、ESET、Bitdefender的反病毒引擎
-- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架
-- https://github.com/jumpserver/jumpserver    //Python3.开源堡垒机
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
-- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
-- https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
-- https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
-- https://github.com/openitsystem/itops    //PY3/DJANGo。AD\Exchange管理系统
-- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-## 安全防护建设
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 入侵检测感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
@@ -598,28 +563,22 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go.基于libinjection的Sql inject & XSS分析程序。
-## Bypass安全防护绕过
-- https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
-- https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
-- https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
-- https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
-- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
-- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
-- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
-- https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
 ## 代码审计应用测试
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
-- https://securitylab.github.com/tools/codeql    //GitHub开源代码审计，插件、函数库形式
-- https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码安全审计
-- https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计
-- https://github.com/wufeifei/cobra    //Py。源代码安全审计,支持PHP、Java等开发语言，并支持数十种类型文件。
-- https://github.com/securego/gosec    //go.Go语言源码安全分析工具
-- https://github.com/GoSSIP-SJTU/TripleDoggy    //C。c/c++/object-c源代码检测框架，支持接口调用
+- https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。testjob。
+- https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。
+- https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
+- https://github.com/wufeifei/cobra    //Py。源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。GUI界面。
+### Ruby代码审计
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
+### Clang+代码审计
+- https://github.com/GoSSIP-SJTU/TripleDoggy    //C。c/c++/object-c源代码检测框架，支持接口调用
+### 二进制代码审计
+- https://github.com/xfhg/intercept/    //Go。基于yaml与ripgrep的代码静态分析审计。
 - https://www.kanxue.com/book-38-438.htm/    //第三课：Delphi代码审计--项目实战1
 ### JS代码审计应用安全
 - https://github.com/RetireJS/grunt-retire    //js.js扩展库漏洞扫描
@@ -627,19 +586,21 @@ W:ns4gov.000webhostapp.com;
 - https://github.com/ctxis/beemka    //针对Electron App的漏洞利用工具包
 - https://github.com/doyensec/electronegativity    //Electron应用代码审计，App的错误配置和安全问题
 - https://github.com/callforpapers-source/jshole/    //Js。js漏洞扫描。
-### php代码审计应用安全
+### PHP代码审计应用安全
 - https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本.noupdate.
-- https://github.com/OneSourceCat/phpvulhunter    //php.静态php代码审计.noupdate.
-- https://github.com/ripsscanner/rips    //php.php代码审计工具.noupdate.
+- https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计.noupdate.
+- https://github.com/ripsscanner/rips    //php。php代码审计工具.noupdate.
 - https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:Qihoo360/phptrace;
 - https://github.com/elcodigok/wphardening    //py.WordPress插件代码审计
-### python代码审计应用安全
+### Python代码审计应用安全
 - https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向。
 - https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞
 - https://github.com/facebook/pyre-check/    //Py3。facebook推出的Zoncolan基本版python代码静态审计工具。号称30分钟扫描一亿行代码库，bug漏洞都能找。
 - https://github.com/shengqi158/pyvulhunter    //Py。基于pysonar2的Python应用审计。NOUPDATE。G:yinwang0/pysonar2;--
 - https://github.com/PyCQA/bandit    //Py。python代码安全漏洞审计
 - https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具
+### Golang代码审计
+- https://github.com/securego/gosec    //go。Go语言源码安全分析工具
 ## 压力测试DDOS/CC/拒绝服务
 - https://github.com/ywjt/Dshield    //Py。DDOS防护
 - https://github.com/NewEraCracker/LOIC/    //C#。基于Praetox's LOIC project的压测工具，使用mono进行跨平台。

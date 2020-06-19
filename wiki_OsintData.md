@@ -185,14 +185,15 @@
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具
 - https://github.com/SpiderLabs/HostHunter    //Py3。通过多接口，ssl证书进行hostname子域名查询。
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k。goodjob。
-- https://github.com/OJ/gobuster    //Golang.根据dns查询子域名和web目录爆破的工具，自带字典。
-- https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机
+- https://github.com/OJ/gobuster    //Golang。根据dns查询子域名和web目录爆破的工具，自带字典。
+- https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机。
+- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
 - https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具
-- https://github.com/Ice3man543/subfinder    //Golang.go实现的Sublist3r
+- https://github.com/Ice3man543/subfinder    //Golang。go实现的Sublist3r
 - https://github.com/TheRook/subbrute    //Py。扫描器中常用的子域名爆破API库
 - https://github.com/nahamsec/lazyrecon    //Bash。侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等
 - https://github.com/FeeiCN/ESD    //Py3。爆破搜集子域名
-- https://github.com/guimaizi/get_domain    //py.基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
+- https://github.com/guimaizi/get_domain    //py。基于selenium的SRC域名收集与监测。G:LangziFun/LangSrcCurise SRC子域名收集;
 - https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (也有其他数据集)
 - https://github.com/blark/aiodnsbrute/    //Py3。DNS异步爆破子域名
 - https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具,GOODJOB.
@@ -218,9 +219,7 @@
 - https://github.com/bit4woo/Teemo    //Py。多方式域名收集及枚举工具
 - https://github.com/swisskyrepo/Subdomino    //Py。子域名枚举，端口扫描，服务存活确认
 - https://github.com/nmalcolm/Inventus    //Py。通过爬虫实现的子域名收集工具
-## 云安全相关
-- https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
-### 敏感信息泄露发现
+## 敏感信息泄露发现
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
 - https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
@@ -237,16 +236,6 @@
 - https://github.com/gehaxelt/ds_store    //Go。苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
 - https://github.com/admintony/svnExploit/    //Py。SVN源代码泄露全版本Dump源码
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:shengqi158/svnhack;--
-### 亚马逊AWS安全相关
-- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
-- https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
-- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
-- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
-- https://github.com/sa7mon/S3Scanner    //扫描amazon公开的S3 buckets和dump
-- https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
-- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
-- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
-- https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ### Git安全相关
 - https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
 - https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--

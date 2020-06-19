@@ -12,7 +12,7 @@
 - https://www.zoho.com/  美国公司免费企业邮箱
 - https://sms.cngrok.com/receiving-sms    //收码接码
 - https://www.pdflibr.com/    //收码接码
-- https://github.com/anonaddy/anonaddy    //php.邮件匿名转发，白名单过滤
+- https://github.com/anonaddy/anonaddy    //php。邮件匿名转发，白名单过滤
 ### 国内手机号短信验证码平台
 - https://sms.cngrok.com/receiving-sms/    //短信码上到-掠影网络，国内临时接码的
 - https://www.becmd.com/    //免费接码 - 免费短信验证码接收平台

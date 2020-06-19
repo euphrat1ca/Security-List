@@ -1,7 +1,9 @@
 # Fuzzing模糊测试
+- https://google.github.io/fuzzbench/    //谷歌模糊测试测评工具，竞品比对
 - 工控模糊测试Wurldtech Achilles阿基里斯国际认证
 - LLVM工具链，基于编译器插桩的coverage-feedback driven fuzzer
 - https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全
+- https://github.com/HexHive/FuzzGen/    //C++。根据库的接口I/O自动生成fuzzer
 ## 模糊测试数据资料
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
