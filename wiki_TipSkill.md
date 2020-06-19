@@ -33,9 +33,6 @@
 - https://www.anaconda.com/    //python版本管理控制
 - https://github.com/jackfrued/Python-100-Days 100天精通python
 - https://github.com/TheAlgorithms/Python    //Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
-### SDN软件自定义网络
-- https://github.com/microsoft/SDN    //PS。此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
-- https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js.双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz

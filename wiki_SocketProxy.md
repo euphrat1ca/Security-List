@@ -18,14 +18,15 @@
 - https://github.com/SpiderClub/haipproxy    //Py3。Scrapy and Redis，高可用ip代理池
 - https://github.com/chenjiandongx/async-proxy-pool    //py3。异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
-### Cross超越边界自组网
+### IPv6安全相关
+- https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
+- https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
+- https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
+- https://github.com/christophetd/IPv6teal    //Py。利用ipv6隐蔽隧道传输数据
+## Cross超越边界
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本。G:Nyr/openvpn-install;G:quericy/one-key-ikev2-vpn;G:teddysun/shadowsocks_install;G:teddysun/across;--
 - https://github.com/netchx/Netch    //C#。类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要.NetFramework4.8。welljob。
-- http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
-- https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:红蓝对抗之组一个安全的网;--
-- https://github.com/zerotier    //C++。网络虚拟化平台云自组网
-- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https 等多种网络代理
 - https://github.com/ssrpanel/SSRPanel    //ss\ssr\v2ray用户分布式管理
 - https://github.com/Ahref-Group/SS-Panel-smarty-Edition    //ss用户分布式管理，兑换码功能、商城系统，服务器信息。G:xuanhuan/ss-panel;G:shadowsocks/shadowsocks-manager;
@@ -37,10 +38,12 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;--
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
 - https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场。mymonocloud;W:windscribe.com;W:hide.me;--
-- https://www.radmin-vpn.cn/    花生壳蒲公英teamviewer内网穿透
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:open-dingtalk/pierced--
-### IPv6安全相关
-- https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
-- https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
-- https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-- https://github.com/christophetd/IPv6teal    //Py。利用ipv6隐蔽隧道传输数据
+### Cross自组网
+- http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
+- https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:红蓝对抗之组一个安全的网;--
+- https://github.com/zerotier    //C++。网络虚拟化平台云自组网
+- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:angristan/wireguard-install;--
+- https://www.radmin-vpn.cn/    远程组网服务。
+- https://github.com/microsoft/SDN    //PS。此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
+- https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
