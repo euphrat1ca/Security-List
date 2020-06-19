@@ -43,7 +43,8 @@
 - https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试
 - https://github.com/guardicore/monkey    //Py。C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。P:guardicore.com/infectionmonkey;G:lawrenceamer/0xsp-Mongoose;G:NextronSystems/APTSimulator;G:mitre/caldera;--
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:ATpiu/asset-scan;--
-- https://github.com/alphasoc/flightsim    //Golang。malicious恶意网路流量模拟测试.
+- https://github.com/alphasoc/flightsim    //Golang。malicious恶意网路流量模拟测试。
+- https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证。
 ### 资产漏洞生命周期
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
 - https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
@@ -51,17 +52,16 @@
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 ## 网站扫描器漏洞检测
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
-- https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版。有Nessus无IP限制版虚拟机
+- https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版，Nessus无IP限制版虚拟机。
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
-- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。
+- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:Lucifer1993/SatanSword;--
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
-- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K.
-- https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;--
-- https://github.com/boy-hack/w9scan    //Py。下内置1200+插件可对网站进行一次规模的检测
-- https://github.com/dhondta/sploitkit    //Py3。类msf漏洞利用框架。G:PowerScript/KatanaFramework;G:M4cs/BabySploit;--
-- - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言.降龙核工业交响曲bug project framework漏洞框架
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K。
+- https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
+- https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:vulscanteam/vulscan;G:boy-hack/w9scan;G:dhondta/sploitkit;G:PowerScript/KatanaFramework;G:M4cs/BabySploit;--
+- https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
@@ -102,7 +102,7 @@ G:timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/m4ll0k/Spaghetti    //web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描。G:0xInfection/TIDoS-Framework;G:secdec/adapt;G:Ekultek/Zeus-Scanner;G:v3n0m-Scanner/V3n0M-Scanner;G:RASSec/pentestEr_Fully-automatic-scanner;--
 - https://github.com/az0ne/AZScanner    //WebGui，自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测。G:Skycrab/leakScan;G:MiniSafe/microweb;G:dermotblair/webvulscan;G:zhangzhenfeng/AnyScan;G:Canbing007/wukong-agent;G:jeffzh3ng/InsectsAwake;--
 - https://github.com/taipan-scanner/Taipan    //WebGui，基于F#与C#的安全扫描器.G:iceyhexman/onlinetools;--
-- https://github.com/blackye/BkScanner    //分布式、插件化web漏洞扫描器。G:Arachni/arachni;--
+- https://github.com/blackye/BkScanner    //多节点、分布式、插件化web漏洞扫描器。G:Arachni/arachni;--
 - https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
 - https://github.com/0xsauby/yasuo    //Ruby。扫描主机第三方web应用服务漏洞。G:yangbh/Hammer;G:viraintel/OWASP-Nettacker;G:flipkart-incubator/watchdog;G:m4ll0k/Galileo;G:samhaxr/hackbox;G:m4ll0k/WAScan;G:jiangsir404/S7scan;G:hatRiot/clusterd;G:tulpar/tulpar;G:UltimateHackers/Striker //绕过Cloudflare
 - https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用。
