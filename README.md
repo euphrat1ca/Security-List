@@ -209,7 +209,7 @@
 - https://techvomit.net/web-application-penetration-testing-notes/    //web渗透测试笔记
 - https://github.com/qazbnm456/awesome-web-security    //Web安全资料和资源列表
 - https://www.lynda.com/JavaScript-tutorials/What-server-side-JavaScript-injection-SSJI/797717/5025838-4.html    //SSJI服务的JavaScript注入
-- https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //SSJI服务的JavaScript注入
+- https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //Imperva WAF墙公司关于，SSJI服务的JavaScript注入
 ### 学习内网安全后渗透
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:Ridter/Intranet_Penetration_Tips;-
@@ -264,8 +264,7 @@
 - https://github.com/Rizer0/Log-killer    //日志清除，Windows/Linux 服务器中的所有
 - https://github.com/360-A-Team/EventCleaner    //日志擦除工具
 ### 隐匿流量洋葱路由
-- https://www.torproject.org/    //洋葱浏览器。P:dnmugu4755642434.onion/ kilos搜索引擎;
-- https://github.com/s-rah/onionscan    //darkweb暗网爬虫
+- https://www.torproject.org/    //洋葱浏览器。P:dnmugu4755642434.onion/ kilos搜索引擎;--
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    //使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    //一个使所有流量通过Tor网络发出的脚本

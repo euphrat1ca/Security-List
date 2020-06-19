@@ -82,7 +82,9 @@
 ## 网络通讯请求
 - https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
 - https://github.com/secdev/scapy    //Py。网络请求通用库
-- https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫
+- https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫。
+### 爬虫采集框架
+- https://github.com/s-rah/onionscan    //darkweb暗网爬虫
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档
 - https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
 - https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
@@ -91,7 +93,7 @@
 - https://github.com/xjr7670/QQzone_crawler    //QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 - https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
 - https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
-- https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证
+- https://github.com/zorlan/skycaiji/    //php。蓝天采集器，全自动无需干预。
 ### Web应用框架
 - https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
