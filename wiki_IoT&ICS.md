@@ -96,7 +96,7 @@
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
 ### ICS入侵检测
-- https://github.com/digitalbond/Quickdraw-Snort    //Snort工业入侵检测功能。G:digitalbond/Quickdraw-Snort;--
+- https://github.com/digitalbond/Quickdraw-Snort    //基于Suricata的类Snort工业入侵检测规则。W:oisf.net;--
 ### ICS代理转发远程访问
 - https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
 - http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能

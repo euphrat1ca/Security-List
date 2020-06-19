@@ -533,19 +533,19 @@ W:ns4gov.000webhostapp.com;--
 - http://edr.topsec.com.cn/    //天融信终端威胁防御系统
 - https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控
 ### NSM网络安全监控/入侵检测
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。G:baidu-security/openrasp-iast //灰盒扫描工具;testjob,1k。
+- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
 - https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
 - https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
 - https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件
 - https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
+- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
 - https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
 - https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
-- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius
 - https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
 - https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统
-- https://github.com/EBWi11/AgentSmith-HIDS    //c.Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。
+- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。
 ### 无线网络入侵检测
 - https://github.com/anwi-wips/anwi    //无线IDS， 基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
