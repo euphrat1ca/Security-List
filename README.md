@@ -336,12 +336,13 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/lanjelot/patator    //Py3。集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
 - https://github.com/nmap/ncrack    //C。Nmap协议破解爆破组件.
 - https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解.G:shengqi158/weak_password_detect;--
-- https://github.com/ShawnDEvans/smbmap    //py.利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;--
+- https://github.com/ShawnDEvans/smbmap    //py。利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:m4ll0k/SMBrute;--
 - https://github.com/InfosecMatter/Minimalistic-offensive-security-tools    //ps。smb、ad域密码爆破。
 - https://github.com/3gstudent/SharpRDPCheck    //C#。RDP爆破验证，支持ntlm登录验证。G:najachai/RDPUploader;--
 - https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M，stascorp.com解压密码Stas'M Corp.
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
-- https://github.com/Moham3dRiahi/XBruteForcer    //perl.WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破.
+- https://github.com/Moham3dRiahi/XBruteForcer    //perl。WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破。
+- https://github.com/ryanohoro/csbruter/    //cobaltstrike服务密码爆破，3.10版本
 ### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
