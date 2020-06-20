@@ -132,7 +132,6 @@
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
-- https://github.com/SwiftOnSecurity/sysmon-config    //sysmon配置文件安装
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
@@ -172,9 +171,7 @@
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks.基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1.5K。
 - https://github.com/JeffXue/web-log-parser    //Py。web日志分析工具
 - https://github.com/JPCERTCC/LogonTracer    //JS,Py。根据win登陆记录日志来分析并用图形化展示恶意登陆行为
-- https://github.com/jpcertcc/sysmonsearch    //JS。将Sysmon的日志结果可视化
-- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
-- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析展示
+- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:jpcertcc/sysmonsearch;--
 - https://github.com/zhanghaoyil/Hawk-I    //Py。基于无监督机器学习算法从Web日志中自动提取攻击Payload
 - https://github.com/JPCERTCC/LogonTracer    //Py。日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;
 - https://gitee.com/524831546/xlog/    //Go。web访问日志分析工具,可以分析nginx、resin ,tomcat,apache访问日志，然后对访问的ip，流量，响应时间，状态码，URI，浏览器，爬虫进行详细全面的分析展示。
@@ -490,8 +487,8 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 ## 系统监控管理
-- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter
-- down4.huorong.cn/hrsword.exe    //火绒剑系统管理。W:process monitor;--
+- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:火绒剑系统管理;--
+- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。
 - https://github.com/mohuihui/antispy    //C/C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
 - https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/Py。ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
@@ -504,14 +501,15 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
 ### 系统日志相关
-- http://www.nirsoft.net/utils/computer_activity_view.html    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径
+- http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径
+- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
 - https://github.com/SwiftOnSecurity/sysmon-config    //Sysmon配置文件。系统进程监控，dns查询。
 ### 系统注册表监控
 - https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处
 ### 系统进程
-- https://bitsum.com/    系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
+- https://bitsum.com/    //系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
 - https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://github.com/open-falcon    //GO/Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
+- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
 - https://github.com/processhacker/processhacker    //C。监控系统资源、内存以及模块信息、软件调试，管理进程
 - https://github.com/DominicBreuker/pspy    //Go。Linux非root权限，系统进程命令运行监控.GOODJOB.
 - https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
