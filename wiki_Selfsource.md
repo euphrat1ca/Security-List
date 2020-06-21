@@ -154,23 +154,27 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
-- https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构
+- https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
+### 系统快捷启动
+- https://getrolan.com/    //快捷启动。音速启动、Lucy、Lily（集成Recorder Devices for ShareX、OCR图像处理）
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
 - https://msdn.itellyou.cn    //原生镜像
 - http://patorjk.com    //Text to ASCII Art Generator
 - https://www.wondercv.com/    //简历模板生成
+### 素材录制
+- https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
+- https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的视频、图像录制处理，OCR识别。
 ### 音频素材
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费
 ### 视频素材
-- https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制.官网obsproject.com。
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
 ### 图片素材
-- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片.官网“waifu2x.udp.jp/”。P:bigjpg.com;
+- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:bigjpg.com;--
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图

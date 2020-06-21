@@ -35,9 +35,13 @@
 - https://github.com/TheAlgorithms/Python    //Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
-- https://github.com/sleepybear1113/taobaoVisitingVenues    //js.双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
-- https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试
-- https://github.com/hyb1996/Auto.js    //js.安卓平台上的JavaScript自动化工具
+- https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
+
+- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具
+### 无头浏览器
+- https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试。
+- https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
+- https://www.chromium.org/    //Chrome内核，无头浏览器。G:ariya/phantomjs/;W:miniblink.net;--
 ### 语言集
 - https://github.com/fxsjy/jieba    //Py。结巴中文分词
 - https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
@@ -50,6 +54,12 @@
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
+### 面部图像分析
+- https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
+- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:swghosh/DeepFace Facebook;--
+- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
+- https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
+- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装
 ### 深度学习
 - https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
@@ -57,11 +67,7 @@
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
 - https://github.com/deepfakes/faceswap    //Py。GUI,依赖较多换脸虚拟音频视频
-- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频.G:swghosh/DeepFace Facebook;
-- https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
-- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装
 - https://github.com/ecjtuseclab/AILoginBlasting    //Py。服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
-- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
 ### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
@@ -82,7 +88,6 @@
 - https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫。
 ### 爬虫采集框架
 - https://github.com/s-rah/onionscan    //darkweb暗网爬虫
-- https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档
 - https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
 - https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
 - https://github.com/xchaoinfo/fuck-login    //模拟登录一些常见的网站
