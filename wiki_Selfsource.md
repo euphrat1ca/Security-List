@@ -163,7 +163,7 @@
 - https://msdn.itellyou.cn    //原生镜像
 - http://patorjk.com    //Text to ASCII Art Generator
 - https://www.wondercv.com/    //简历模板生成
-### 素材录制
+### 素材采样
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的视频、图像录制处理，OCR识别。
 ### 音频素材

@@ -164,7 +164,8 @@
 - https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
 - https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记，应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;G:tide-emergency/yingji;P:应急响应知识手册-360;--
 - https://github.com/tide-emergency/yingji    //Py3。查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
-- https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击各类脚本，包括NGINX日志中的CC攻击IP处理。
+- https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击黑名单各类脚本，包括NGINX日志中的CC攻击IP封禁处理。
+- https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。
 - https://github.com/al0ne/LinuxCheck    //Bash。linux信息收集/应急响应/常见后门检测脚本
 ### 日志分析可视化
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
@@ -414,12 +415,12 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。testjob。Github:dweinstein/awesome-frida;G:andreafioraldi/frida-fuzzer;--
 - https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。testjob。
 - https://github.com/hanbinglengyue/FART/    //py.基于frida的ART环境下自动化脱壳方案。
-- https://github.com/hluwa/ZenTracer    //Py。frida插件，Android方法调用追踪
+- https://github.com/hluwa/ZenTracer    //Py。frida插件，Android app 运行时实时追踪，调用的类名方法名。
 - https://github.com/lyxhh/lxhToolHTTPDecrypt    //js.基于frida/Burp/flask的app渗透测试，利用HTTP协议，识别app加密算法，解密数据包，调用Burp。testjob.
 - https://github.com/rovo89/Xposed    //C++。Android动态修改hook，隐藏root执行权限。
 - https://github.com/Fuzion24/JustTrustMe    //Java。基于xposed模块进行app证书SSL注入抓包。
 - https://taichi.cool/    //Android魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
-- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;
+- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;--
 - https://github.com/Genymobile/scrcpy    //C。基于adb连接使pc控制Android设备
 - https://github.com/zsdlove/ApkVulCheck    //Py3。对安卓apk进行特征值匹配。welljob。
 - https://github.com/jboss-javassist/javassist    //Java。能够操作字节码框架，轻易的修改class代码文件。2.2K

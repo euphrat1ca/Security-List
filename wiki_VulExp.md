@@ -98,12 +98,15 @@
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //Java。枚举测试Java RMI（远程调用服务）安全
 - https://github.com/quentinhardy/jndiat    //Java。Java类名/目录接口/数据库审计检测
-- https://github.com/frohoff/ysoserial    //java。用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html/ 转化java加密指令;
-- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial
+- https://github.com/frohoff/ysoserial    //java。用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html/ 转化java加密指令;--
+- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial。
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
 - https://github.com/gquere/CVE-2020-7931    //py。Maven框架插件Artifactory模板ssti利用执行漏洞
-#### Jboss中间件漏洞
-- https://github.com/joaomatosf/jexboss    //Py。扫描和检测Jboss中可能存在多个安全漏洞。
+#### WildFly/Jboss中间件漏洞
+- https://github.com/joaomatosf/jexboss    //Py。扫描和检测Jboss中可能存在多个安全漏洞。jexboss exp 工具集。
+- https://www.freebuf.com/column/240174.html/    //Jboss漏洞利用。主要是未授权访问带来的文件上传（CVE-2007-1036、CVE-2010-0738、CVE-2006-5750、JBoss jmx-consoleHtmlAdaptor addURL() File Upload Vulnerability），与反序列化造成的命令执行（CVE-2015-7501、CVE-2017-7504、CVE-2017-12149、CVE-2013-4810）。
+- https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
+- https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
 #### Weblogic中间件相关漏洞
 - https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具，V1.3,支持2019
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
@@ -124,7 +127,8 @@
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行
-- https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞
+- https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞。
+- https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵
 ### Apache框架相关漏洞
 - https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
 - https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
@@ -184,6 +188,7 @@
 ### Exchange漏洞利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
 - https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
+- https://www.freebuf.com/articles/network/238365.html/    //Exchange后渗透利用上篇。P:articles/network/239026.html //Exchange后渗透分析下篇;--
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
 - https://github.com/euphrat1ca/APT34-Jason    //C#。APT34针对exchange密码爆破。P:对APT34泄露工具的分析——Jason;--

@@ -17,7 +17,8 @@
 ### 代理池
 - https://github.com/SpiderClub/haipproxy    //Py3。Scrapy and Redis，高可用ip代理池
 - https://github.com/chenjiandongx/async-proxy-pool    //py3。异步爬虫ip代理池
-- https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发
+- https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发。
+- https://github.com/realgam3/pymultitor/    //Py。使用多线程Tor代理
 ### IPv6安全相关
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
