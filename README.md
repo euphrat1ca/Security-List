@@ -618,7 +618,8 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/jseidl/GoldenEye    //Py。DOS攻击测试
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
-
+- https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
+---
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_FreeConnect.md/    //通讯工具技术相关.myWiki
 # wiki_Selfsource

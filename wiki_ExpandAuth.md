@@ -45,7 +45,7 @@
 - https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
 - https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
 ### 横向移动密钥抓取
-- https://github.com/huntergregal/mimipenguin    //C。linux密码抓取
+- https://github.com/huntergregal/mimipenguin    //C。linux密码抓取。
 - https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin
 - https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:citronneur/rdpy;--
@@ -56,6 +56,7 @@
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码。
 - https://github.com/putterpanda/mimikittenz    //PS。类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:dafthack/DomainPasswordSpray;--
+- https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。G:z1Ro0/get_TeamViewer_ID_Password;--
 ## 远程管理控制
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。G:mwrlabs/C3;G:cobbr/Covenant;--
@@ -225,7 +226,7 @@
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
 ;G:rek7/dll-hijacking;P:微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;--
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT.基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
+- https://github.com/mdsecactivebreach/RDPInception/    //BAT。基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
