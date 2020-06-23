@@ -67,7 +67,7 @@
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式
 ### 跨平台远控
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
--- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。testjob。5k。
+- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。testjob。5k。
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:BlackHacker511/BlackRAT;--
 ### JavaScript远控
@@ -84,7 +84,7 @@
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
 - https://github.com/cobbr/Covenant    //C#。.Net服务端C2控制器，配合powershell进行权限控制。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:whitehatnote/BlueShell;--
+- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:whitehatnote/BlueShell;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:Tiked/Client;--
 ### *nix远控
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
@@ -204,12 +204,11 @@
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
+- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;--
+- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能。G:公众号:Linux常见的持久化后门汇总;--
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts;--
-- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;公众号:Linux常见的持久化后门汇总
-;--
-- https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能
-- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;--
 ### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
@@ -223,8 +222,7 @@
 - https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
 ### 权限维持劫持注入
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
-- https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持
-;G:rek7/dll-hijacking;P:微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;--
+- https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持;G:rek7/dll-hijacking;P:微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;--
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
 - https://github.com/mdsecactivebreach/RDPInception/    //BAT。基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4
