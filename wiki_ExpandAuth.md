@@ -128,7 +128,6 @@
 ### 僵木蠕远程协助
 - https://github.com/panda-re/lava    //批量恶意程序注入
 - https://github.com/malwaredllc/byob    //僵尸网络生成框架
-- https://github.com/proxycannon/proxycannon-ng    //构建僵尸网络
 - https://github.com/deadPix3l/CryptSky/    //勒索病毒源码
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
@@ -204,12 +203,12 @@
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
-- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结1。P:archives/103301.html/;--
-- https://www.freebuf.com/vuls/195906.html/    //常见的几种Windows后门持久化方式。P:articles/system/229209.html;--
+- https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结。P:archives/103301.html/;--
+- https://www.freebuf.com/vuls/195906.html/    //Windows常见后门持久化方式。P:articles/system/229209.html;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能。G:公众号:Linux常见的持久化后门汇总;--
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts;--
-- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw/    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;--
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:t57root/pwnginx;G:0x09AL/IIS-Raid;G:WBGlIl/IIS_backdoor;--
 ### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -229,7 +228,7 @@
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-- https://github.com/Screetsec/Vegile    //SHELL/C。msf免杀，程序注入权限维持
+- https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入权限维持
 ### 自我隐匿rootkit
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。

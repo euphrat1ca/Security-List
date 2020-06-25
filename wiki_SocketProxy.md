@@ -41,6 +41,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场。mymonocloud;W:windscribe.com;W:hide.me;--
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:open-dingtalk/pierced--
 ### Cross自组网
+- https://github.com/proxycannon/proxycannon-ng    //Shell。从云端获取IP节点流量，构建Tor洋葱私人网络，形成僵尸网络组建。
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:红蓝对抗之组一个安全的网;--
 - https://github.com/zerotier    //C++。网络虚拟化平台云自组网
