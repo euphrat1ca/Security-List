@@ -318,7 +318,6 @@
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器
 - https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台
-- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 ### 邮件伪造
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;
 W:ns4gov.000webhostapp.com;--
@@ -619,6 +618,7 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
 - https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
+- https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击
 ---
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_FreeConnect.md/    //通讯工具技术相关.myWiki

@@ -6,6 +6,8 @@
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
+### 量化交易
+- http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
 ## 编程相关
 ### 编程调试
 - https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
@@ -35,13 +37,13 @@
 - https://github.com/TheAlgorithms/Python    //Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
-- https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz
-
+- https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具
 ### 无头浏览器
 - https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
 - https://www.chromium.org/    //Chrome内核，无头浏览器。G:ariya/phantomjs/;W:miniblink.net;--
+- http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 ### 语言集
 - https://github.com/fxsjy/jieba    //Py。结巴中文分词
 - https://github.com/thunlp/THULAC-Python    //Py。清华中文分词

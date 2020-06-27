@@ -49,38 +49,39 @@
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似于大菠萝
 - https://github.com/SYWorks/waidps    //Py。Linux下WiFi网络安全预警工具。
 ## 近源渗透
-- https://shop.hak5.org/    //硬件设备商店。G:hak5 模块、payloads;
-- EMP干扰器 usbkiller 特斯拉线圈高频共振变压器 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;
-- https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本
+- https://shop.hak5.org/    //硬件设备商店。G:hak5 模块、payloads;--
+- EMP干扰器 usbkiller 特斯拉线圈高频共振变压器 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;--
+- https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本。
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //Intro。USBKiller电子杀手
-- https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
-- https://github.com/samratashok/Kautilya    //PS。为人机接口设备提供各种有效负载的工具包
-- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对.key文件进行绕过
+- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对‘.key’文件进行绕过
 - https://github.com/knownsec/gsm    //Go。使用树莓派配合硬件来进行短信转发
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络
-### 硬件无线安全
+### 近源无线安全
 - https://openwrt.org/    //C。针对嵌入式设备的Linux操作系统。G:coolsnowwolf/lede Lean's OpenWrt 中文;
 - https://www.wifipineapple.com/downloads    //Wifi-Pineapple大菠萝nano固件
 - https://github.com/yearnwang/wifipineaplle_dwall_log    //PHP。dwall日志输出加强
 - https://github.com/spacehuhn/esp8266_deauther/    //C。WiFi安全审计，硬件WiFi ddos。WiFi操作模块
-- https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
+- https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT硬件设备的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
 - https://github.com/mame82/LOGITacker    //C。利用LOGITacker，通过RF枚举测试来挖掘Logitech无线输入设备的漏洞。
-### 物理设备BadUsb/HID
-- https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //badusb防御
-- https://github.com/0katz/CVE-2019-12476    //JS。HID绕过win10登录界面，利用浏览器调用powershell
-- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线。G:HackusbCN/HackUSB-Payload;
+### 近源BadUSB/HID
+- https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/    //物理设备BadUsb防御
 - https://ducktoolkit.com/    //BadUsb\橡皮鸭\HID键盘模拟器
 - https://github.com/hak5darren/USB-Rubber-Ducky/wiki    //badusb编写
-- https://www.cnblogs.com/k1two2/p/7083159.html    //C。基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;
-- https://github.com/whid-injector/WHID    //C++。基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;P:WHIDelite;P:CJMCU-Bettle;
-- https://usbninja.com/    //恶意数据线攻击。G:USBNinjaRRG/USBNinja;
+- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    //实战 Teensy 烧录间谍 U 盘。G:lr3800/teensy;--
+- https://github.com/mame82/P4wnP1    //在树莓派安装网络劫持键盘注入(WHID)工具，USB攻击平台。testjob。
+- https://www.cnblogs.com/k1two2/p/7083159.html    //C。基于esp8266、Atmega 32u4等开发板进行WiFiHID无线连接、在线编辑脚本的WiFiBadusb。testjob。Con:K1two2@Qq.Com;--
+- https://github.com/whid-injector/WHID    //C++。基于ESP的WiFiHID注入器。G:spacehuhn/wifi_ducky;G:sensepost/USaBUSe WifiHID注入器，测信道C2C通信;G:basic4/WiDucky;P:WHIDelite;P:CJMCU-Bettle;--
+- https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台。
+- https://www.freebuf.com/geek/195631.html    //Intro。成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试。
+- https://github.com/euphrat1ca/CVE-2019-12476    //Js。P4wnP1_aloa插件，利用域用户重置密码缺陷，绕过win10登录界面，利用浏览器调用powershell执行命令。G:0katz/CVE-2019-12476;--
+- https://github.com/360PegasusTeam/GhostTunnel    //可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身。
 - https://github.com/ebursztein/malusb    //创建跨平台的HID欺骗payload，并在Windows和OSX上建立反向TCP-shell
-- https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台
-- https://github.com/euphrat1ca/CVE-2019-12476    //P4wnP1_aloa插件.利用域用户重置密码缺陷，绕过win10登录界面，利用浏览器调用powershell执行命令.
-- https://www.freebuf.com/geek/195631.html    //Intro。成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试
-- https://github.com/mame82/P4wnP1    //在树莓派安装网络劫持键盘注入(WHID)工具,testjob.
-- https://github.com/360PegasusTeam/GhostTunnel    //可在隔离环境下使用HID生成隐蔽后门，释放有效负载后删除自身
-- https://lr3800.com/2017/10/18/实战-teensy-烧录间谍-u-盘/    //实战 Teensy 烧录间谍 U 盘。G:lr3800/teensy;
-- https://github.com/rawrly/JuiceJacking    //Bash。JuiceJacking,利用USB等人机接口设备窃取数据
-- https://github.com/kenvix/USBCopyer    //C#。U盘文件自动拷贝usb copy
+- https://github.com/O-MG/DemonSeed/    //利用hid伪造恶意苹果数据线。G:HackusbCN/HackUSB-Payload;--
+- https://usbninja.com/    //恶意数据线攻击。G:USBNinjaRRG/USBNinja;--
+### 近源设备接口
+- https://www.microsoft.com/en-us/download/details.aspx?id=35460/    //MouseWithoutBordersSetup 共享鼠标键盘。W:sharemouse.com;--
+- https://github.com/rawrly/JuiceJacking    //Bash。JuiceJacking,利用USB等人机接口设备窃取数据。
+- https://github.com/insecurityofthings/jackit    //用于Mousejack的开发代码
+- https://github.com/samratashok/Kautilya    //PS。为人机接口设备提供各种有效负载的工具包
+- https://github.com/kenvix/USBCopyer    //C#。U盘文件自动拷贝usb copy。
 - https://github.com/RedDrip7/USB-Bootkit    //物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
