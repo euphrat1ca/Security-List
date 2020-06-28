@@ -171,12 +171,16 @@
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks。基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1K。
 - https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk
+- https://github.com/olafhartong/ThreatHunting/    //Py。Splunk插件，打造MITRE ATT&CK矩阵检测规则edr系统。G:ion-storm/sysmon-config;--
 - https://developer.ibm.com/qradar/ce/    //IBM QRadar 轻量级日志和流量分析。
 - http://www.finderweb.net/    //主机、日志、文件管理系统
 #### 应急Windows日志分析
 - https://github.com/JPCERTCC/LogonTracer    //JS,Py。根据win登陆记录日志来分析并用图形化展示恶意登陆行为
 - https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:jpcertcc/sysmonsearch;--
 - https://github.com/JPCERTCC/LogonTracer    //Py。日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;--
+- http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径。
+- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
+- https://github.com/olafhartong/sysmon-modular/    //Sysmon配置文件，file/dns/att&ck/系统进程/图片 等分类为归置。G:SwiftOnSecurity/sysmon-config;--
 #### 应急Web日志分析
 - http://www.awstats.org/    //开源日志分析系统，可以图形方式生成高级Web，流媒体，ftp或邮件服务器统计信息。
 - https://www.goaccess.cc/    //C。全web日志格式类型可视化分析。
@@ -509,10 +513,6 @@ W:ns4gov.000webhostapp.com;--
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
 - https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
-### 系统日志相关
-- http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径
-- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
-- https://github.com/SwiftOnSecurity/sysmon-config    //Sysmon配置文件。系统进程监控，dns查询。
 ### 系统注册表监控
 - https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处
 ### 系统进程
