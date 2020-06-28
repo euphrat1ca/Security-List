@@ -42,8 +42,6 @@
 - https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址BSSID、gps。W:cellocation.com;--
 - https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位
 ## 多维度情报源
-- https://ddosecrets.com/data/international/    //blueleaks，并包含各个国家的泄露数据。
-- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
 - https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
 - https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
 - https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
@@ -81,8 +79,11 @@
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
 ## 各国情报人员使用的部分开源情报（OSINT）工具
 ### 账号密码泄露
-- https://haveibeenpwned.com/    //电子邮件账号泄露
-- https://intelx.io/    //账号密码泄露
+- https://haveibeenpwned.com/    //电子邮件账号泄露，检测。
+- https://intelx.io/    //账号密码泄露，检测。
+- https://ddosecrets.com/data/international/    //blueleaks，并包含各个国家的泄露数据。
+- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
+- http://demo.zeeroq.com/email/    //邮箱密码泄露
 ### 事实检测
 - https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息

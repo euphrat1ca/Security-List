@@ -46,6 +46,7 @@
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui
 ## kali环境拓展插件
+- https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具。G:taielab/Taie-RedTeam-OS;--
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
 - https://github.com/TrustedSec/ptf/    //Py。基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具

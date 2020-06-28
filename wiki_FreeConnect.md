@@ -1,7 +1,7 @@
 ## 通讯工具技术相关
 ### FreeConnect
 - http://bccto.me    //一次性邮箱
-- https://www.guerrillamail.com    //一次性邮箱
+- https://www.guerrillamail.com    //一次性邮箱shark
 - http://24mail.chacuo.net/    //一次性邮箱
 - http://www.yopmail.com    //一次性邮箱
 - https://yandex.com/    //免费邮箱

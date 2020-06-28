@@ -4,7 +4,7 @@
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 # 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
-- https://github.com/sym233/core-values-encoder    //js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
+- https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
 - https://lovelive.tools/    //说话的艺术，渣男语录
@@ -14,7 +14,6 @@
 - https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
-- https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 - https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
@@ -42,50 +41,62 @@
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 # 办公套件
-- https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键
-- https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:群晖;P:蜗牛星际;--
-- https://sadd.io/    //在线操作系统
-- https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
+- https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
+- https://github.com/tmux/tmux    //命令行功能加强工具
+- https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
+- https://u.tools/    //utools软件插件化，跨平台快捷操作平台。
+- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //Go。多api图床
-- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- https://github.com/tmux/tmux    //命令行功能加强工具
-- https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
-- http://ohshitgit.com/    //Intro。git操作手册
-- http://www.vuln.cn/tools/ftp    //在线FTP登录
-- https://github.com/stascorp/rdpwrap    //Pascal.开启异步并发rdp请求服务，3389分身多开。
-- https://www.processon.com/    //拓扑图、流程图，类似Visio
-## 网络服务
+### 思维导图
+- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图；xmind；
+### 网络服务
 - https://www.dnspod.cn/    //动态域名解析、DDNS服务。花生壳域名内网穿透。
 ## 协同办公
-- https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
-- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+- https://sadd.io/    //在线操作系统
+- https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
 ### 远程协助
 - https://www.todesk.com/    //远程协助软件。W:anydesk;W:Teamviewer;W:向日葵--
-### 微信插件
+- https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    //电脑控制手机打电话、发短信、接收通知、传输文件等
+- https://www.airdroid.com/    //移动端手机设备控制
+### 分身登录
+- http://www.vuln.cn/tools/ftp    //在线FTP登录
+- https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
+### 办公通讯
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;--
+- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
 - https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:youfou/wxpy;--
 - https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
 - https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
-### 办公通讯
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;--
-- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
+- https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 ### 项目管理
-- https://github.com/itcloudy/ERP    //go.基于beego的电商进存销管理系统
+- https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统
 - https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
+- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
+- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
+- http://ohshitgit.com/    //Intro。git操作手册
+- https://www.notion.so/    //项目管理。mybase；
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
 - https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
-- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
-### 网盘同步云存储
-- https://send.firefox.com    //火狐网盘
+- https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:群晖;P:蜗牛星际;--
+### 云盘存储
+- https://send.firefox.com/    //火狐网盘
+- https://airportal.cn/    //文件网盘
+- https://www.wenshushu.cn/    //文叔叔
+- https://cowtransfer.com/    //奶牛快传
+- https://anonfile.com/    //Anonymous File Upload
 - https://www.upload.ee/    //文件共享平台
-- https://www.rejetto.com/hfs/    //DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
+- https://www.rejetto.com/hfs/    //DELPHI。Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器
@@ -97,10 +108,9 @@
 ### 文档编辑
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
-- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
 - https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;--
 - https://github.com/marktext/marktext/    //js。markdown编辑器
+- https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
 ### 在线编辑
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
@@ -156,7 +166,7 @@
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 ### 系统快捷启动
-- https://getrolan.com/    //快捷启动。音速启动、Lucy、Lily（集成Recorder Devices for ShareX、OCR图像处理）
+- https://getrolan.com/    //快捷启动。音速启动；Lucy；Lily（集成Recorder Devices for ShareX、OCR图像处理）；
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
