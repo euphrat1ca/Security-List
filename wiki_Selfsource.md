@@ -27,6 +27,8 @@
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://thyrsi.com/    //图片上传分享工具
+- https://github.com/aimerforreimu/auxpi    //Go。多api图床
 ### 下载器
 - https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
@@ -41,17 +43,17 @@
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 # 办公套件
+- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
+## 敏捷办公
+- https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:Wox-launcher/Wox;P:火萤酱火柴;--
+- https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
 - https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
-- https://u.tools/    //utools软件插件化，跨平台快捷操作平台。
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
-- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
-- https://thyrsi.com/    //图片上传分享工具
-- https://github.com/aimerforreimu/auxpi    //Go。多api图床
 ### 思维导图
-- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图；xmind；
+- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;
 ### 网络服务
 - https://www.dnspod.cn/    //动态域名解析、DDNS服务。花生壳域名内网穿透。
 ## 协同办公
@@ -82,7 +84,7 @@
 - http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - http://ohshitgit.com/    //Intro。git操作手册
-- https://www.notion.so/    //项目管理。mybase；
+- https://www.notion.so/    //项目管理。mybase;
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -165,8 +167,6 @@
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
-### 系统快捷启动
-- https://getrolan.com/    //快捷启动。音速启动；Lucy；Lily（集成Recorder Devices for ShareX、OCR图像处理）；
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
