@@ -5,31 +5,32 @@
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
-- https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
-- https://github.com/ElevenPaths/HomePWN    //Py。瑞士军刀类型IOT设备安全测试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:TCPUDPDbg;--
-- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:dathlin/ClientServerProject;
+- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:dathlin/ClientServerProject;--
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调
-试助手软件
-## 物联网漏洞利用
+试助手软件。
+## 物联网利用分析
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
-### 设备固件安全
+- https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
+- https://github.com/ElevenPaths/HomePWN    //Py。瑞士军刀类型IOT设备安全测试
+## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
+- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
+- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //绿盟：智能设备安全分析手册.pdf。
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //‘绿盟：智能设备安全分析手册.pdf’。
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
-- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
-- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
-- https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
+- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
+- https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy、Firmwalker组件。
 - https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。testjob。
-- https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy
-、Firmwalker组件。
+- https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
-- https://github.com/nodemcu/nodemcu-flasher    //Pascal.firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
+- https://github.com/nodemcu/nodemcu-flasher    //Pascal。firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
+- https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片
 ### 无人机安全
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持

@@ -163,6 +163,24 @@
 ### 区块链安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
+## 云安全相关
+- https://cloud.tencent.com/developer/article/1621185    //【云原生攻防研究】针对容器的渗透测试方法
+- https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
+- https://github.com/brompwnie/botb    //Go。BOtB容器安全分析和脆弱点利用工具。利用CVE-2019-5736、DockerSocket或特权模式进行容器逃逸。
+### Kubernetes集群安全
+- https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
+- https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
+- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
+### 亚马逊AWS安全相关
+- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
+- https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
+- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
+- https://github.com/sa7mon/S3Scanner    //扫描amazon公开的S3 buckets和dump
+- https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
+- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
+- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
+- https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ## 攻防技术资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;--
@@ -220,20 +238,6 @@
 - https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
 - https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
-## 云安全相关
-- https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
-- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
-- https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
-### 亚马逊AWS安全相关
-- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
-- https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
-- https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
-- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
-- https://github.com/sa7mon/S3Scanner    //扫描amazon公开的S3 buckets和dump
-- https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
-- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
-- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
-- https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_Selfsource；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务

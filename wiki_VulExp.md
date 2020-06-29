@@ -65,7 +65,7 @@
 - https://github.com/Safflower/Solve-Me    //php。韩国一个偏代码审计的ctf靶场源码
 - https://github.com/rapid7/metasploitable3    //metasploit练习系统
 - https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
-- https://github.com/madhuakula/kubernetes-goat/    //Kubernetes靶场 Goat
+- https://github.com/madhuakula/kubernetes-goat/    //容器编排引擎Kubernetes靶场。P:Bust-a-kube;--
 ### 在线靶场学习
 - https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
 - https://www.root-me.org    //俄罗斯root me靶场。在线。社区版
