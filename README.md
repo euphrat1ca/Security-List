@@ -171,7 +171,7 @@
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks。基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1K。
 - https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk
-- https://github.com/olafhartong/ThreatHunting/    //Py。Splunk插件，打造MITRE ATT&CK矩阵检测规则edr系统。G:ion-storm/sysmon-config;--
+- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。公众号:打造MITRE ATT&CK矩阵检测规则edr系统;G:ion-storm/sysmon-config;--
 - https://developer.ibm.com/qradar/ce/    //IBM QRadar 轻量级日志和流量分析。
 - http://www.finderweb.net/    //主机、日志、文件管理系统
 #### 应急Windows日志分析

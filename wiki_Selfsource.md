@@ -32,10 +32,9 @@
 ### 下载器
 - https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
-- https://github.com/b3log/baidu-netdisk-downloaderx    //GO/JS。BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
-- https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
+- https://github.com/b3log/baidu-netdisk-downloaderx    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:peterq/pan-light;--
 - http://www.speedpan.com/    //百度下载
-- https://github.com/peterq/pan-light    //Go。网盘不限速客户端, golang + qt5, 跨平台图形界面。9k。
+- https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
 - https://xdown.org/    //bit下载器，类IDM架构。
 ### 数据可视化
 - https://flourish.studio/    //图表在线展示。W:finereport.com;
