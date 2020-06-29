@@ -166,7 +166,7 @@
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 ### 系统快捷启动
-- https://getrolan.com/    //快捷启动。音速启动；Lucy；Lily（集成Recorder Devices for ShareX、OCR图像处理）；
+- https://getrolan.com/    //Rolan快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;getquicker;--
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
