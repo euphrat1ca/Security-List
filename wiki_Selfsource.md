@@ -167,11 +167,6 @@
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
-<<<<<<< HEAD
-### 系统快捷启动
-- https://getrolan.com/    //Rolan快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;getquicker;--
-=======
->>>>>>> 6873a0e610b3655b807606e6868d992c655c1d94
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
