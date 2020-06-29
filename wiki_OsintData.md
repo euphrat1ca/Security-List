@@ -29,7 +29,7 @@
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ### 地理定位ip库分布
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
 - https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;
 - https://www.ipplus360.com    //IPV4/IPV6地址库。商业版

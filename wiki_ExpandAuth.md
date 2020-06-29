@@ -10,6 +10,7 @@
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
+- https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //红蓝对抗之Windows内网渗透
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
@@ -136,8 +137,8 @@
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等
-- https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:n00py/Hwacha;G:ShutdownRepo/shellerator;--
-- https://github.com/Kkevsterrr/backdoorme    //py3,py2。多种类型的后门、shell生成工具，可以自动维持权限
+- https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:n00py/Hwacha;G:ShutdownRepo/shellerator;G:Kkevsterrr/backdoorme;--
+- https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
 ### 混淆加密反调试
@@ -221,14 +222,14 @@
 - https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
 ### 权限维持劫持注入
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
+- https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:wietze/windows-dll-hijacking;--
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:rootm0s/WinPwnage;P:4hou.com/posts/wRPR 深入分析 DLL 调用过程实现“自适应” DLL 劫持;G:rek7/dll-hijacking;P:微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;--
-- https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中
-- https://github.com/mdsecactivebreach/RDPInception/    //BAT。基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
+- https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中。
+- https://github.com/mdsecactivebreach/RDPInception/    //Bat。基于tsclient服务进行rdp劫持，利用ps反弹shell，CS插件。
 - https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-- https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入权限维持
 ### 自我隐匿rootkit
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
@@ -266,3 +267,5 @@
 - https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 - https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
+## 痕迹清理
+- https://www.4hou.com/posts/Mo9R    //渗透基础——SSH日志的绕过，利用第三方语言原生库。

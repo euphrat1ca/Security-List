@@ -1,4 +1,21 @@
-## 通讯工具技术相关
+# 通讯工具技术相关
+## 通讯服务
+- https://salmon-mail.readthedocs.io    //Py。实现邮件服务器功能的python包模块
+- https://github.com/gyxuehu/EwoMail    //PHP。EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
+- https://github.com/PHPMailer/PHPMailer    //PHP。PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
+- https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器
+### 通讯隐私加密虚拟身份
+- https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展
+- https://github.com/hack-chat    //js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
+- https://github.com/akaxincom/openzaly    //Java。聊天室，Akaxin为客户端闭源
+- https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。https://rocket.chat/install
+- https://www.fakenamegenerator.com/    //多国身份信息模拟器
+- https://github.com/gh0stkey/RGPerson    //Py。随机身份生成脚本
+- https://xbeginagain.github.io/generator/    //编号生成器，身份证、营业执照、组织机构代码、统一社会信用代码、手机号、银行卡账号
+- https://github.com/euphrat1ca/FreeConnect    //通讯隐私加密
+- https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
+- https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
 ### FreeConnect
 - http://bccto.me    //一次性邮箱
 - https://www.guerrillamail.com    //一次性邮箱shark

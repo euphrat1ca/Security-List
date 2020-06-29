@@ -34,7 +34,7 @@
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
 - 公众号：终端安全运营年度笔记    //
 ### 安全建设防御方案
-- https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略
+- https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
 - https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
@@ -135,7 +135,7 @@
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
-### 系统安全检查基线配置
+### 系统检查基线配置
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
@@ -154,44 +154,15 @@
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
-- https://github.com/theLSA/CS-checklist    //CS客户端安全检查checklist
+- https://github.com/theLSA/CS-checklist    //CS客户端检查条目checklist
+- https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具，配合客户端checklist
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 - 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
-## 应急响应溯源
-- https://security.tencent.com/opensource/detail/19    //腾讯开源的xSRC应急响应中心cms
-- https://www.secrss.com/articles/10986    //一次攻防实战演习复盘总结。奇安信
-- https://github.com/Bypass007/Emergency-Response-Notes    //应急响应实战笔记，应急响应/日志分析/僵木蠕分析。2k。G:theLSA/emergency-response-checklist 应急响应指南;G:tide-emergency/yingji;P:应急响应知识手册-360;--
-- https://github.com/tide-emergency/yingji    //Py3。查看主机状态/启动项/历史命令/用户特权/文件修改/异常IP等
-- https://github.com/ppabc/cc_iptables    //收集处理DDOS、CC攻击黑名单各类脚本，包括NGINX日志中的CC攻击IP封禁处理。
-- https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。
-- https://github.com/al0ne/LinuxCheck    //Bash。linux信息收集/应急响应/常见后门检测脚本
-### 应急日志分析
-- https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
-- https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks。基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1K。
-- https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk
-- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。公众号:打造MITRE ATT&CK矩阵检测规则edr系统;G:ion-storm/sysmon-config;--
-- https://developer.ibm.com/qradar/ce/    //IBM QRadar 轻量级日志和流量分析。
-- http://www.finderweb.net/    //主机、日志、文件管理系统
-#### 应急Windows日志分析
-- https://github.com/JPCERTCC/LogonTracer    //JS,Py。根据win登陆记录日志来分析并用图形化展示恶意登陆行为
-- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:jpcertcc/sysmonsearch;--
-- https://github.com/JPCERTCC/LogonTracer    //Py。日本计算机应急团队开源的关于Windows下登录日志的追踪溯源，网络信息格式化展示。Github:Releasel0ck/NetTracer;--
-- http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径。
-- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
-- https://github.com/olafhartong/sysmon-modular/    //Sysmon配置文件，file/dns/att&ck/系统进程/图片 等分类为归置。G:SwiftOnSecurity/sysmon-config;--
-#### 应急Web日志分析
-- http://www.awstats.org/    //开源日志分析系统，可以图形方式生成高级Web，流媒体，ftp或邮件服务器统计信息。
-- https://www.goaccess.cc/    //C。全web日志格式类型可视化分析。
-- https://logstalgia.io/    //C++。跨平台可视化日志分析。
-- https://wangzhan.qianxin.com/activity/xingtu/    //360星图。P:LogForensics;--
-- https://github.com/zhanghaoyil/Hawk-I    //Py。基于无监督机器学习算法从Web日志中自动提取攻击Payload
-- https://gitee.com/524831546/xlog/    //Go。web访问日志分析工具,可以分析nginx、resin ,tomcat,apache访问日志，然后对访问的ip，流量，响应时间，状态码，URI，浏览器，爬虫进行详细全面的分析展示。
-- https://github.com/JeffXue/web-log-parser    //Py。web日志分析工具
-### 勒索病毒
-- https://github.com/jiansiting/Decryption-Tools    //勒索病毒解决方案汇总
-- https://www.nomoreransom.org    //在线勒索病毒解决方案
+### 区块链安全
+- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
+- https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
 ## 攻防技术资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;--
@@ -244,18 +215,14 @@
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;--
-- https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具，配合客户端checklist
-- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件
-- https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
-- https://github.com/lionsoul2014/ip2region    //ip地址定位库，支持python3等多接口。类似于于geoip架构
-- https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare
-- https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等
+- https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
+- https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
-- https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
-- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改
+- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
 ## 云安全相关
 - https://info.aquasec.com/kubernetes-security/    //Kubernetes攻击模型。G:aquasecurity/kube-hunter;--
+- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
 ### 亚马逊AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
@@ -288,17 +255,15 @@
 - https://github.com/cr0hn/dockerscan    //docker扫描工具
 - https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器.2K。
 ### 测试字典集
+- https://github.com/FlameOfIgnis/Pwdb-Public/    //多语言恶意软件常用密码分析。goodjob。
 - https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
 - https://github.com/tarraschk/richelieu    //.fr邮箱密码表
-- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:xmendez/wfuzz/tree/master/wordlist;G:We5ter/Scanners-Box;G:shack2/SNETCracker/dic;
-- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;
-- https://github.com/alpha1e0/pentestdb    //WEB渗透测试数据库。用于提供渗透测试的辅助工具(pentest-tool)、资源文件
+- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:xmendez/wfuzz/tree/master/wordlist;G:We5ter/Scanners-Box;G:shack2/SNETCracker/dic;--
+- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:7dog7/bottleneckOsmosis;G:Ridter/Pentest;G:alpha1e0/pentestdb;--
 - https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
-- https://github.com/Mebus/cupp    //Py。根据用户习惯密码生成弱口令探测
-- https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测，楼上升级
-- https://github.com/LandGrey/pydictor    //Py3。特定密码字典生成
-- https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal.白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。testjob.
+- https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:Mebus/cupp;G:LandGrey/pydictor;--
+- https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
+- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。testjob。
 ## 社工相关
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
@@ -478,102 +443,7 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/DominicBreuker/stego-toolkit    //隐写工具包。Stegosuite
 - https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
 - http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
-# 安全体系防护相关
-- https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
-- https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
-- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
-- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
-- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
-- https://github.com/PlagueScanner/PlagueScanner    //python.集成ClamAV、ESET、Bitdefender的反病毒引擎
-- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架
-- https://github.com/jumpserver/jumpserver    //Python3.开源堡垒机
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
-- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
-- https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
-- https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
-- https://github.com/openitsystem/itops    //PY3/DJANGo。AD\Exchange管理系统
-- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-## 安全防护建设
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
-## 系统监控管理
-- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:火绒剑系统管理;--
-- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。
-- https://github.com/mohuihui/antispy    //C/C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
-- https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
-- https://github.com/kkamagui/shadow-box-for-arm    //C/Py。ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
-- https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
-- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;
-- http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用。在解除占用时不会强制关闭占用文件进程
-### 程序调试进程管理
-- https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
-- http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
-- https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构
-- https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
-### 系统注册表监控
-- https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处
-### 系统进程
-- https://bitsum.com/    //系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可以用来监视进程动作
-- https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;
-- https://github.com/processhacker/processhacker    //C。监控系统资源、内存以及模块信息、软件调试，管理进程
-- https://github.com/DominicBreuker/pspy    //Go。Linux非root权限，系统进程命令运行监控.GOODJOB.
-- https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
-### 系统文件监控
-- https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
-- http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
-- https://github.com/target/strelka    //Py3。文件变化实时监控。
-## 入侵检测感知防护
-- http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
-- http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
-- http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
-- https://bithack.io/forum/161    //Intro。如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
-- https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
-- https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
-- https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
-- https://github.com/ossec/ossec-hids    //C。开源hids（主机入侵检测）堡垒
-### EDR终端主机防护
-- http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
-- http://edr.topsec.com.cn/    //天融信终端威胁防御系统
-- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控
-### NSM网络安全监控/入侵检测
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
-- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
-- https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
-- https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
-- https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件
-- https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
-- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
-- https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件
-- https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等。
-- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
-- https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
-- https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统
-- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。
-### 无线网络入侵检测
-- https://github.com/anwi-wips/anwi    //无线IDS， 基于低成本的Wi-Fi模块(ESP8266)
-- https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
-### 防火墙/waf/网关规则
-- https://github.com/0xInfection/Awesome-WAF    //awesome waf
-- http://www.safedog.cn/    //安全狗web防火墙。商业版。
-- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;
-- https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
-- https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
-- https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等。
-- https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
-- https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
-- https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;--
-- https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
-- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
-- https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
-- https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
-### 大数据平台安全
-- https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
-- https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
-## 代码审计应用测试
+## 应用代码审计
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
 - https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。testjob。
@@ -629,6 +499,10 @@ W:ns4gov.000webhostapp.com;--
 - https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
 - https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击
 ---
+# wiki_TowerDefence
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TowerDefence.md/    //安全体系防御，病毒后门查杀，系统监控，昏晓命令检测。mywiki
+# wiki_MalwareSec
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSec.md/    //病毒分析，应急响应合集。mywiki
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_FreeConnect.md/    //通讯工具技术相关.myWiki
 # wiki_Selfsource
