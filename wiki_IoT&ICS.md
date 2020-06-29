@@ -11,8 +11,9 @@
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:dathlin/ClientServerProject;
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调
 试助手软件
-## 物联网利用框架
+## 物联网漏洞利用
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。
+- https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
 ### 设备固件安全
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
@@ -68,6 +69,15 @@
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:ITI/ICS-Security-Tools;G:euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测 系列    //1分钟 专辑|工业控制系统网络安全
+### ICS漏洞利用
+- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:w3h/icsmaster;--
+- https://www.controlthings.io/    //SamuraiSTFU ics kali
+- https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
+- https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs。工控漏洞POC
+- https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
+- https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
+- https://github.com/w3h/isf    //py2。基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
+- https://github.com/digitalbond/Basecamp    //针对工业项目Project Basecamp开发的Metasploit模块利用。功能码（0x5a）问题。
 ### 工业场景演练
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类。
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结
@@ -79,15 +89,6 @@
 - https://www.freebuf.com/articles/ics-articles/231701.html    //西门子S7系列中间人攻击：流量劫持和转发（一）
 - https://www.freebuf.com/articles/ics-articles/233160.html    //西门子S7系列中间人攻击：PLC探测和流量分析（二）
 - https://www.freebuf.com/articles/ics-articles/234845.html/    //Modbus PLC攻击分析：从Modbus PollSlave到M340
-### ICS工具框架集
-- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:w3h/icsmaster;--
-- https://www.controlthings.io/    //SamuraiSTFU ics kali
-- https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
-- https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs.工控漏洞POC
-- https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
-- https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
-- https://github.com/w3h/isf    //py2.基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
-- https://github.com/digitalbond/Basecamp    //针对工业项目Project Basecamp开发的Metasploit模块利用。功能码（0x5a）问题。
 ### ICS资产探测
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:cisagov/cset/;--
