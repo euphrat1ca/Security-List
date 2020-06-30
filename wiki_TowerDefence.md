@@ -117,13 +117,14 @@
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
 ## 网络流量分析
+- https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //Intro。攻守道—流量分析的刀光剑影，wireshark操作指令。
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
-- https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //Intro。攻守道—流量分析的刀光剑影，wireshark操作指令。
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
 - https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
-- https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量
+- https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量。
+- https://github.com/aol/moloch    //大规模流量包捕获分析系统，capture/viewer/elasticsearch。
 ### 网络流量协议解析
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
