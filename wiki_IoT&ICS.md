@@ -7,17 +7,18 @@
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:TCPUDPDbg;--
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:dathlin/ClientServerProject;--
-- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调
-试助手软件。
+- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
+- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能。
 ## 物联网利用分析
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
+- https://github.com/jiansiting/ripple20-poc    //Py。基于ICMP_MS_SYNC的ripple20 poc。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //Py。瑞士军刀类型IOT设备安全测试
 ## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
-- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
+- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
 - http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //‘绿盟：智能设备安全分析手册.pdf’。
