@@ -28,18 +28,25 @@
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本。G:Nyr/openvpn-install;G:quericy/one-key-ikev2-vpn;G:teddysun/shadowsocks_install;G:teddysun/across;--
 - https://github.com/netchx/Netch    //C#。类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要.NetFramework4.8。welljob。
+- https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn
+- https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
+- https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本
+- https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;--
+- https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网，UDP 53 免流上网。
+- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场。mymonocloud;W:windscribe.com;W:hide.me;--
+- https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:open-dingtalk/pierced--
+### Shadowsocks代理
 - https://github.com/guyingbo/shadowproxy    //ss/socks5/http//https 等多种网络代理
 - https://github.com/ssrpanel/SSRPanel    //ss\ssr\v2ray用户分布式管理
 - https://github.com/Ahref-Group/SS-Panel-smarty-Edition    //ss用户分布式管理，兑换码功能、商城系统，服务器信息。G:xuanhuan/ss-panel;G:shadowsocks/shadowsocks-manager;
 G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
-- https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn
-- https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
-- https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本
+### V2ray代理
 - https://github.com/v2ray/v2ray-core    //Go。多协议代理平台，自定义代理工具。G:2dust/v2rayN;--
-- https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:gwuhaolin/lightsocks;--
-- https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网; UDP 53 免流上网。
-- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win，无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场。mymonocloud;W:windscribe.com;W:hide.me;--
-- https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:open-dingtalk/pierced--
+- https://github.com/2dust/v2rayNG    //kotlin。V2ray安卓客户端。BifrostV;--
+- https://github.com/yanue/V2rayU    //Swift。基于v2ray核心的mac版客户端，支持vmess,shadowsocks,socks5等服务协议。G:Cenmrev/V2RayX;--
+- https://itunes.apple.com/us/app/kitsunebi-proxy-utility/    //美区V2ray IOS客户端，PP助手IPA文件。Shadowrocket;Pepi;i2Ray;--
+- https://github.com/sprov065/v2-ui    //Py。多协议多用户的 v2ray 面板。G:Jrohy/multi-v2ray;--
+- https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    //免费飞机
 ### Cross自组网
 - https://github.com/proxycannon/proxycannon-ng    //Shell。从云端获取IP节点流量，构建Tor洋葱私人网络，形成僵尸网络组建。
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
