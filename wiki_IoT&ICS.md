@@ -38,6 +38,7 @@
 - https://github.com/PX4/Firmware    //px4无人机飞控
 ## 车联网安全
 - https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
+- https://www.freebuf.com/articles/terminal/241930.html    //车机的渗透思路与实例分析
 - https://github.com/pasta-auto    //智能汽车测试
 - https://github.com/schutzwerk/CANalyzat0r    //Py。专有汽车协议的安全分析工具包
 - https://github.com/jgamblin/CarHackingTools    //Bash。汽车黑客工具箱，汽车信息调查。
