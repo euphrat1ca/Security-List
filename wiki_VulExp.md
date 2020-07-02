@@ -171,7 +171,7 @@
 ### Python服务漏洞
 - https://github.com/ryu22e/django_cve_2019_19844_poc/    //py。Django任意密码重置
 ### Java服务漏洞
-- https://github.com/threedr3am/learnjavabug    //java.Java安全相关的漏洞和技术demo
+- https://github.com/threedr3am/learnjavabug    //java。Java安全相关的漏洞和技术demo
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //Java。枚举测试Java RMI（远程调用服务）安全
 - https://github.com/quentinhardy/jndiat    //Java。Java类名/目录接口/数据库审计检测

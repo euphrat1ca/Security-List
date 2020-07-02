@@ -21,11 +21,11 @@
 - https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:火绒剑系统管理;--
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。
 - https://github.com/mohuihui/antispy    //C/C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
-- https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob。6k。
+- https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob,6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/Py。ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
 - https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
-- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;
-- http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用。在解除占用时不会强制关闭占用文件进程
+- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;--
+- http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用，在解除占用时不会强制关闭占用文件进程。
 ### 程序调试进程管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
@@ -45,37 +45,33 @@
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 - https://github.com/target/strelka    //Py3。文件变化实时监控。
-## 入侵检测感知防护
+## 入侵感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //Intro。如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
-- https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 - https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
-### EDR终端主机防护
-- http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果
-- http://edr.topsec.com.cn/    //天融信终端威胁防御系统
-- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控
-### NSM网络安全监控/入侵检测
+### 主机防护终端检测
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
-- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu，涵盖ELK\Snort\Suricata\Bro等组件，系统作为传感器分布在网络中监控多个VLAN和子网。hids kali系统类。
+- http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果。
+- http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
+- https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
+- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控
+- https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
+- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
+- https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。YSRC开源。
+- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。douyu开源。
+### 入侵检测监控
+- https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
+- https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
 - https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
-- https://github.com/ptresearch/AttackDetection    //更新中的snort规则rules
+- https://github.com/ptresearch/AttackDetection    //snort规则rules更新
 - https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件
 - https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
-- https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
-- https://github.com/ossec/ossec-hids    //C。开源hids（主机入侵检测）堡垒。
-- https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
-- https://github.com/TheKingOfDuck/FileMonitor    //py.基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
-- https://github.com/grayddq/HIDS    //主机型入侵检测系统。一个人的安全部
-- https://github.com/ysrc/yulong-hids    //YSRC开源的驭龙HIDS主机入侵检测系统
-- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。
-### 无线网络入侵检测
-- https://github.com/anwi-wips/anwi    //无线IDS， 基于低成本的Wi-Fi模块(ESP8266)
-- https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
-### 防火墙/waf/网关规则
+- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
+### 防火墙Waf/网关
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。商业版。
 - http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;
@@ -89,6 +85,10 @@
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
+- https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
+### 无线网络入侵检测
+- https://github.com/anwi-wips/anwi    //无线IDS，基于低成本的Wi-Fi模块(ESP8266)
+- https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
 ### 大数据平台安全
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集

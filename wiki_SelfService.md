@@ -1,5 +1,5 @@
-# wiki_Selfsource
- wiki_Selfsource
+# wiki_SelfServicerce
+ wiki_SelfServicerce
 ## 常见软件技巧
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 # 自服务应用
@@ -73,17 +73,26 @@
 - https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
 - https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
-### 项目管理
-- https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统
-- https://www.redmine.org/    //Ruby on rails.类似于jira项目管理.
-- https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
-- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- https://gitee.com/pengzhile/atlassian-agent    //java.支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://github.com/lxerxa/actionview    //Vuejs.类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
-- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+### 社区管理
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
 - http://ohshitgit.com/    //Intro。git操作手册
-- https://www.notion.so/    //项目管理。mybase;
+- https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
+- https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown。
+- https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:hackmdio/codimd;--
+- https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
+- https://github.com/b3log/pipe    //Go。多用户博客平台。
+- https://github.com/b3log/solo    //Java。个人博客。
+- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+### 项目管理
+- https://github.com/lxerxa/actionview    //Vuejs。类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
+- https://www.redmine.org/    //Ruby on rails。类似于jira项目管理。
+- https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
+- https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理。
+- https://www.notion.so/    //项目管理。mybase;--
+- https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统。
+- https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
+- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
 ### 项目同步
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -141,15 +150,36 @@
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
-## 系统管理
+## 系统运维
 - https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
-- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;
-- https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team.
+- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;--
+- https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team;--
 - https://www.itsk.com/thread-401292-1-1.html    //it天空出品easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
+### 网站源码程序外包
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://www.mycodes.net    //源码之家，大部分免费
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://down.admin5.com/    //A5网站源码下载
+- https://www.xd0.com    //xiaodao.la
+- http://vipread.com    //资料站
+- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
+- https://www.fiverr.com    //美金，短期
+- https://www.upwork.com    // 美金，中长期
+- https://www.proginn.com    //程序员客栈
+- https://zb.oschina.net    //开源众包
+- https://codemart.com    //码市
+- http://www.epwk.com    //威客
+- https://zbj.com    //猪八戒，重庆外包，压价
+- http://task.a5.cn/tasklist.html    //外包
+### 短网址
+- https://www.ft12.com    //支持访问数据查询
+- http://sina.lt    //新浪短链接，匿名访问
+- https://dwz.cn    //百度短连接
+- http://suo.im    //访问数据查询，访问
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
@@ -159,6 +189,8 @@
 ### 素材采样
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的视频、图像录制处理，OCR识别。
+### 图书素材
+- https://www.jiumodiary.com/    //电子书搜索引擎
 ### 音频素材
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费
@@ -192,32 +224,3 @@
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器
-### 网站源码程序外包
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://www.mycodes.net    //源码之家，大部分免费
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://down.admin5.com/    //A5网站源码下载
-- https://www.xd0.com    //xiaodao.la
-- http://vipread.com    //资料站
-- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
-- https://www.fiverr.com    //美金，短期
-- https://www.upwork.com    // 美金，中长期
-- https://www.proginn.com    //程序员客栈
-- https://zb.oschina.net    //开源众包
-- https://codemart.com    //码市
-- http://www.epwk.com    //威客
-- https://zbj.com    //猪八戒，重庆外包，压价
-- http://task.a5.cn/tasklist.html    //外包
-### 社区管理
-- https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库
-- https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
-- https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统
-- https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理
-- https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台
-- https://github.com/b3log/pipe    //Go。多用户博客平台
-- https://github.com/b3log/solo    //Java。个人博客
-### 短网址
-- https://www.ft12.com    //支持访问数据查询
-- http://sina.lt    //新浪短链接，匿名访问
-- https://dwz.cn    //百度短连接
-- http://suo.im    //访问数据查询，访问

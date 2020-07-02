@@ -76,7 +76,7 @@
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎。对标ELK
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
-- https://github.com/pentaho/pentaho-kettle    //java. ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:zhaxiaodong9860/kettle-scheduler 调度监控平台;G:majinju/kettle-manager WEB端管理;
+- https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:zhaxiaodong9860/kettle-scheduler 调度监控平台;G:majinju/kettle-manager WEB端管理;
 ### 移动端开发
 - https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
 ### web框架

@@ -44,7 +44,7 @@ G:Ehco1996/django-sspanel;G:leitbogioro/SSR.Go;--
 - https://github.com/v2ray/v2ray-core    //Go。多协议代理平台，自定义代理工具。G:2dust/v2rayN;--
 - https://github.com/2dust/v2rayNG    //kotlin。V2ray安卓客户端。BifrostV;--
 - https://github.com/yanue/V2rayU    //Swift。基于v2ray核心的mac版客户端，支持vmess,shadowsocks,socks5等服务协议。G:Cenmrev/V2RayX;--
-- https://itunes.apple.com/us/app/kitsunebi-proxy-utility/    //美区V2ray IOS客户端，PP助手IPA文件。Shadowrocket;Pepi;i2Ray;--
+- https://itunes.apple.com/us/app/kitsunebi-proxy-utility/    //美区V2ray IOS客户端，PP助手IPA文件。Shadowrocket;Pepi;i2Ray;Quantumult;--
 - https://github.com/sprov065/v2-ui    //Py。多协议多用户的 v2ray 面板。G:Jrohy/multi-v2ray;--
 - https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    //免费飞机
 ### Cross自组网

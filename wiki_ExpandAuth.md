@@ -110,7 +110,7 @@
 - https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
 - https://github.com/k8gege/WinrmCmd    //Go。Winrm远程命令/端口复用后门/WinrmCmd/密码爆破。WinRM是WindowsRemoteManagementd（win远程管理）的简称。基于Web服务管理(WS-Management)标准，使用80端口或者443端口。
-### 多姿态反弹shell
+### 多姿态交互shell
 - https://github.com/sysdream/chashell    //Golang。利用dns反弹shell。
 - https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
 - https://github.com/FlyfishSec/rsGen    //BAT.Windows下远程shell反弹命令行工具。
@@ -120,6 +120,7 @@
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:andrew-d/static-binaries/tree/master/socat;--
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
+- https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
 ### 移动端远程协助
 - https://spynote.us    //商业版。
 - http://droidjack.net/    //商业版。
@@ -143,7 +144,7 @@
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:abedalqaderswedan1/aswcrypter;G:MohamedNourTN/Terminator;G:pasahitz/zirikatu;G:govolution/avet;G:GreatSCT/GreatSCT;G:EgeBalci/HERCULES;G:trustedsec/nps_payload;--
 ### 混淆加密反调试
 - https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java.CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
 - https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 - https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
