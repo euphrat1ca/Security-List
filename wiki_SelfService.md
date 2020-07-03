@@ -99,6 +99,7 @@
 - https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 - https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:群晖;P:蜗牛星际;--
+- https://github.com/amefs/FreeNAS-Doc-Chs    //FreeNAS（网络附加存储）
 ### 云盘存储
 - https://send.firefox.com/    //火狐网盘
 - https://airportal.cn/    //文件网盘

@@ -165,7 +165,7 @@
 ### 真实IP信息获取
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
-- http://ceye.io    //知道创宇dns查询，可以配合盲注、xss、解析对方真实ip使用。
+- http://ceye.io    //知道创宇dns查询，可以配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
 - https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
