@@ -7,10 +7,8 @@
 - https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
 - https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
 - https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
-## 漏洞库社区
-- https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
-- twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。
+## 漏洞信息预警
+- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
 - https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库
 - https://www.us-cert.gov/ics/advisories    //美国工控漏洞库
 - http://ivd.winicssec.com/    //威努特工控漏洞库
@@ -110,18 +108,20 @@
 - https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn，自动攻击脚本
 # 漏洞收集
+- https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
+- twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。G:offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:HacTF/poc--exp;G:DrunkenShells/Disclosures;G:coffeehb/Some-PoC-oR-ExP;G:zhzyker/exphub;--
+- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K。goodjob。
-- https://github.com/offensive-security/exploitdb-bin-sploits    //exploit db编译好的漏洞执行文件
-- https://github.com/HacTF/poc--exp    //常用渗透poc收集。G:DrunkenShells/Disclosures;
-- https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
-- https://github.com/coffeehb/Some-PoC-oR-ExP    //各种漏洞poc、Exp的收集或编写
-- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，https://www.cvedetails.com
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找
-- https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622. CVE-2018-6622漏洞利用工具
-- https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
+## 硬件漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
-- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15。goodjob。
+## 云平台漏洞
+- https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
+- https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622漏洞利用工具。
+## Linux软件漏洞
+- https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 ## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP

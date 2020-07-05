@@ -65,7 +65,7 @@
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
-- https://github.com/euphrat1ca/PRUBUnlimitedre    //burpsuite 1.7.27/2.1Pro。
+- https://github.com/TrojanAZhen/BurpSuitePro-2.1    //和谐burpsuite 1.7.27/2.1Pro。G:euphrat1ca/PRUBUnlimitedre;--
 - https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
 - https://github.com/chaitin/xray    //Go。洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版。
 - https://github.com/ox01024/Xray_and_crwlergo_in_server    //Py。利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动,相同还可以使用awvs爬虫功能等。
