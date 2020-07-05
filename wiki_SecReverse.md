@@ -20,13 +20,13 @@
 - https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:32位汇编分析调试器Ollydbg;G:horsicq/x64dbg-Plugin-Manager;--
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳分析PE操作
-- https://github.com/horsicq/Detect-It-Easy    //C。官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl
-- https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
+- https://github.com/horsicq/Detect-It-Easy    //C。官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl;--
 - https://github.com/rednaga/APKiD   //YARA。查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:TUnpacker;G:BUnpacker;G:halfkiss/ZjDroid;--
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
-- https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex
+- https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex。
+- https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
 ### 汇编反编译框架
 - https://github.com/endgameinc/xori    //RUST.自定义反汇编框架，PE32, 32+ and shellcode。
 - https://github.com/blacknbunny/peanalyzer32    //Py3。PE 文件分析和反汇编工具

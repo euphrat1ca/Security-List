@@ -66,7 +66,7 @@
 - https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
 - https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
 - https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
-- https://github.com/ptresearch/AttackDetection    //snort规则rules更新
+- https://github.com/ptresearch/AttackDetection    //suricata/snort规则rules更新
 - https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件
 - https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。

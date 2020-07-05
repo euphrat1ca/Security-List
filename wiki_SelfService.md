@@ -54,7 +54,7 @@
 ### 思维导图
 - https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;
 ### 网络服务
-- https://www.dnspod.cn/    //动态域名解析、DDNS服务。花生壳域名内网穿透。
+- https://www.dnspod.cn/    //动态域名解析、DDNS服务。花生壳;向日葵;蒲公英域名内网穿透。
 ## 协同办公
 - https://sadd.io/    //在线操作系统
 - https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
@@ -84,12 +84,11 @@
 - https://github.com/b3log/solo    //Java。个人博客。
 - http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
 ### 项目管理
-- https://github.com/lxerxa/actionview    //Vuejs。类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。Gitee:actionview;--
-- https://www.redmine.org/    //Ruby on rails。类似于jira项目管理。
+- https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:lxerxa/actionview;Gitee:actionview;--
 - https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://www.notion.so/    //项目管理。mybase;--
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
 - https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理。
-- https://www.notion.so/    //项目管理。mybase;--
 - https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统。
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
@@ -146,11 +145,6 @@
 - https://bbs.pediy.com/thread-223178.htm    //Intro。[原创] 对控制PC端微信发送信息的研究
 - https://github.com/TonyChen56/WeChatRobot    //C++。微信pc机器人。
 - https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
-## 注册机keygen
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:github.com/HyperSine/
-- https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
 ## 系统运维
 - https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
@@ -160,27 +154,11 @@
 - https://www.itsk.com/index.php    //IT天空论坛。系统操作封装
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
-### 网站源码程序外包
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://www.mycodes.net    //源码之家，大部分免费
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://down.admin5.com/    //A5网站源码下载
-- https://www.xd0.com    //xiaodao.la
-- http://vipread.com    //资料站
-- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
-- https://www.fiverr.com    //美金，短期
-- https://www.upwork.com    // 美金，中长期
-- https://www.proginn.com    //程序员客栈
-- https://zb.oschina.net    //开源众包
-- https://codemart.com    //码市
-- http://www.epwk.com    //威客
-- https://zbj.com    //猪八戒，重庆外包，压价
-- http://task.a5.cn/tasklist.html    //外包
-### 短网址
-- https://www.ft12.com    //支持访问数据查询
-- http://sina.lt    //新浪短链接，匿名访问
-- https://dwz.cn    //百度短连接
-- http://suo.im    //访问数据查询，访问
+### 注册机keygen
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:github.com/HyperSine/
+- https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
@@ -218,10 +196,31 @@
 - http://www.1ppt.com/    //无登录免费ppt下载
 - http://vipread.com/    //信息安全知识库
 ### 软件资源下载
-- http://flyonzone.ys168.com/    //飞扬时空
-- http://www.zdfans.com/    //zd423
 - http://www.carrotchou.blog/    //胡萝卜周
-- https://www.appinn.com/    //小众软件下载
+- https://www.ghpym.com/    //果核剥壳
+- http://flyonzone.ys168.com/    //飞扬时空
+- http://www.zdfans.com/    //zd423。W:appinn.com;--
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器
+### 网站源码程序外包
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://www.mycodes.net    //源码之家，大部分免费
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://down.admin5.com/    //A5网站源码下载
+- https://www.xd0.com    //xiaodao.la
+- http://vipread.com    //资料站
+- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
+- https://www.fiverr.com    //美金，短期
+- https://www.upwork.com    // 美金，中长期
+- https://www.proginn.com    //程序员客栈
+- https://zb.oschina.net    //开源众包
+- https://codemart.com    //码市
+- http://www.epwk.com    //威客
+- https://zbj.com    //猪八戒，重庆外包，压价
+- http://task.a5.cn/tasklist.html    //外包
+### 短网址
+- https://www.ft12.com    //支持访问数据查询
+- http://sina.lt    //新浪短链接，匿名访问
+- https://dwz.cn    //百度短连接
+- http://suo.im    //访问数据查询，访问
