@@ -120,8 +120,9 @@
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 - https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 ### cobaltstrike拓展
+- https://github.com/pandasec888/taowu-cobalt-strike    //梼杌国产化
+- https://github.com/gloxec/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
-- https://github.com/gloxec/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。testjob。
 - https://github.com/darkr4y/geacon    //Go。macos系统beacon上线
 - https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名上线。公众号:DNS上线CS(反溯源);--
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec    //C++。利用Windows远程访问工具（WMIEXEC,PSEXEC,SMBEXEC, ATEXEC）其一的任务计划进行横向，需要与135端口、445端口进行通信。
