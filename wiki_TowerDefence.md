@@ -74,7 +74,7 @@
 ### 防火墙Waf/网关
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。商业版。
-- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;
+- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;--
 - https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
 - https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
 - https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等。
@@ -106,6 +106,7 @@
 - https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/alexandreborges/malwoverview    //simple。将恶意文件进行快速分类
 ### 后门检测查杀
+- https://www.shellpub.com/    //跨平台webshell查杀。社区版。
 - http://www.clamav.net/downloads    //病毒查杀软件
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
 - https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架。
