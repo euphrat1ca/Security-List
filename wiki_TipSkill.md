@@ -71,6 +71,7 @@
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
 - https://github.com/deepfakes/faceswap    //Py。GUI,依赖较多换脸虚拟音频视频
 - https://github.com/ecjtuseclab/AILoginBlasting    //Py。服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
+- https://github.com/poloclub/cnn-explainer    //Js。CNN解释器细节可视化。
 ### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎

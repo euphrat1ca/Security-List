@@ -114,14 +114,67 @@
 - https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
-- https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找
-## 硬件漏洞
+- https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
+## 软硬固应用漏洞
+- https://github.com/mudongliang/LinuxFlaw    //Linux下软件漏洞列表
+- https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
+- https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
+- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过。g:leapsecurity/libssh-scanner;--
+- https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
+- https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    //Py。MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690。
+- https://devel0pment.de/?p=1881/    //AnyDesk RCE UDP远程执行代码（CVE-2020-13160）
+- https://github.com/LeadroyaL/ss-redirect-vuln-exp/    //Py。shadowsocks重定向漏洞、密文流破解。G:edwardz246003/shadowsocks;--
+- https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
+- https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
+### 攻击反制漏洞
+- https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
+- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
+- https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。
+- https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
+- https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
+- https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
+- https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
+- https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
+### 文本编辑器漏洞
+- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
+- http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
+### 安全设备漏洞
+- https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
+- https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
+- https://nosec.org/home/detail/2862.html    //Intro。如何攻击飞塔Fortigate SSL VPN
+- https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
+### 网络设备漏洞
+- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
+- https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
+- https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
+- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
+- https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
+- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
+- https://github.com/dunderhay/CVE-2020-5902    //F5 Big-IP负载均衡RCE/LFI，常用于政企。G:aqhmal/CVE-2020-5902-Scanner;G:jas502n/CVE-2020-5902;--
+### 浏览器漏洞工具
+- https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
+- https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息
+- https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
+- https://github.com/exodusintel/CVE-2019-0808    //JS/C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
+- https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
+- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能
+- https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
+- https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
+### 沙盒虚拟机容器逃逸
+- https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸
+- https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905
+- https://github.com/MorteNoir1/virtualbox_e1000_0day    //VirtualBox E1000 Guest-to-Host Escape逃逸。教程
+- https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    //Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
+- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。G:twistlock/RunC-CVE-2019-5736;W:Docker逃逸初探;公众号:Docker逃逸小结第一版;--
+- https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/    //Docker代码编译命令执行 （CVE-2019-13139）
+- https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/    //Docker cp命令漏洞 (CVE-2019-14271)
+- https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
+- https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
+- https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
 ## 云平台漏洞
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622漏洞利用工具。
-## Linux软件漏洞
-- https://github.com/mudongliang/LinuxFlaw    //包含linux下软件漏洞列表
 ## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
@@ -145,8 +198,9 @@
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 ### thinkphp漏洞
-- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合
-- https://github.com/Lucifer1993/TPscan    /Py3。thinkphp漏洞检测，已支持2019.
+- https://github.com/theLSA/tp5-getshell    //Py2。thinkphp5 rce漏洞检测工具。
+- https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合。
+- https://github.com/Lucifer1993/TPscan    /Py3。thinkphp漏洞检测，已支持2019。
 ### joomla漏洞
 - https://github.com/momika233/Joomla-3.4.6-RCE    //Py。joomla rce
 - https://github.com/rezasp/joomscan    //Perl。基于OWASP的Joomla检测利用
@@ -226,60 +280,6 @@
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:Ridter/redis-rce;G:RicterZ/RedisModules-ExecuteCommand;--
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
-## 软硬固应用漏洞
-- https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
-- https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
-- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过。g:leapsecurity/libssh-scanner;--
-- https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
-- https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    //Py。MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690。
-- https://devel0pment.de/?p=1881/    //AnyDesk RCE UDP远程执行代码（CVE-2020-13160）
-- https://github.com/LeadroyaL/ss-redirect-vuln-exp/    //Py。shadowsocks重定向漏洞、密文流破解。G:edwardz246003/shadowsocks;--
-- https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
-- https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
-### 攻击反制漏洞
-- https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
-- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
-- https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。
-- https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
-- https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
-- https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
-- https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
-- https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
-### 文本编辑器漏洞
-- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
-- http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
-### 安全设备漏洞
-- https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
-- https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
-- https://nosec.org/home/detail/2862.html    //Intro。如何攻击飞塔Fortigate SSL VPN
-- https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
-### 网络设备漏洞
-- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
-- https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
-- https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
-- https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
-- https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
-- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行
-### 浏览器漏洞工具
-- https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
-- https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息
-- https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
-- https://github.com/exodusintel/CVE-2019-0808    //JS/C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
-- https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
-- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能
-- https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
-- https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
-### 沙盒虚拟机容器逃逸
-- https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸
-- https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905
-- https://github.com/MorteNoir1/virtualbox_e1000_0day    //VirtualBox E1000 Guest-to-Host Escape逃逸。教程
-- https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    //Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
-- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。G:twistlock/RunC-CVE-2019-5736;W:Docker逃逸初探;公众号:Docker逃逸小结第一版;--
-- https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/    //Docker代码编译命令执行 （CVE-2019-13139）
-- https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/    //Docker cp命令漏洞 (CVE-2019-14271)
-- https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
-- https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
-- https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
 ## 微软MS相关漏洞
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序

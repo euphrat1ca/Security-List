@@ -54,9 +54,9 @@
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
 - https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
 - https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
-- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:apk改之理;
+- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:apk改之理;--
 - https://github.com/iBotPeaches/Apktool    //java。Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //Bash。基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具，apkurl。simple
-- https://github.com/TheKingOfDuck/ApkAnalyser    //py.提取安卓应用敏感信息。
+- https://github.com/TheKingOfDuck/ApkAnalyser    //py。提取安卓应用敏感信息。
 ### Javascript逆向
 - https://www.zyxiao.com/p/39429/    //记录一次前端JS加密绕过 ｜ 绕过前端解密的两种方法

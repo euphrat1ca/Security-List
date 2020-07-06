@@ -222,6 +222,9 @@
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:klionsec.github.io;--
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
 # 技术手段利用方式工具集合
+- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
+- https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
+- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;--
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队攻击生命周期，开源和商业工具。goodjob。
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    //红队工具、攻击手段
@@ -230,9 +233,7 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
-- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集
-- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
-- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;--
+- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件
 - https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
 - https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
