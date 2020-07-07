@@ -183,7 +183,7 @@
 - https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
 ## 攻防技术资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
-- https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io;G:lengjibo/ATT-CK-CN //att&ck实操实验记录;W:vulhub.org.cn/attack //att&ck汉化;--
+- https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io //MITRE | ATT&CK-CN 中文站;G:lengjibo/ATT-CK-CN //attck实操实验记录;W:vulhub.org.cn/attack //清华林妙倩 att ck汉化;G:NomadCN112/Chinese-translation-ATT-CK-framework;--
 - https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程
 - https://github.com/meitar/awesome-cybersecurity-blueteam    // A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - https://bitvijays.github.io    //infosec知识总结。goodjob。

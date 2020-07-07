@@ -12,7 +12,8 @@
 - https://github.com/dark-lbp/vxhunter    //Py。利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
 - https://github.com/NationalSecurityAgency/ghidra    //Java。NSA出品的软件逆向动态调试框架Ghidra，类比IDA。
 - https://github.com/ghidraninja/ghidra_scripts    //YARA,Py。Ghidra的Binwal\Yara联动插件。
-- https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra    //Intro。Ghidra教程
+- https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra    //Intro。Ghidra教程。
+- https://www.kanxue.com/book-brief-64.htm    //Ghidra操作手册。商业版。
 - https://github.com/angr/angr    //Py。二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://github.com/radare/radare2    //C。radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    //C++。基于QT的radare2框架GUI。5k。
