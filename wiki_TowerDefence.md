@@ -72,7 +72,7 @@
 - https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
-### 防火墙Waf/网关
+### 防火墙/Waf/网关
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。商业版。
 - http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:/xoslab.com 内核级检测文件生成写入;--
@@ -82,6 +82,7 @@
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
 - https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;--
+- https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机，Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块，。G:/C4o/LogFarmer;G:/C4o/IUS;--
 - https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
