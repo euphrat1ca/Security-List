@@ -5,8 +5,8 @@
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
-- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:TCPUDPDbg;--
-- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:dathlin/ClientServerProject;--
+- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
+- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:/dathlin/ClientServerProject;--
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
 - https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能。
 ## 物联网利用分析
@@ -68,13 +68,13 @@
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
 ## ICS工业安全
 - https://dale-peterson.com/    //Digital Bond工业安全公司，s4xevents.com旗下S4 Events工业安全培训教程。
-- https://www.freebuf.com/ics-articles    //freebuf工控分类。P:author/黄一113530;P:author/yy0308;--
+- https://www.freebuf.com/ics-articles    //freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
 - http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;W:icsmaster.org //工匠安全实验室;--
-- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:ITI/ICS-Security-Tools;G:euphrat1ca/ICSwiki;--
+- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测 系列    //1分钟 专辑|工业控制系统网络安全
 ### ICS漏洞利用
-- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:w3h/icsmaster;--
+- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
 - https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs。工控漏洞POC
@@ -88,14 +88,14 @@
 - http://plcscan.org/blog/2014/08/ics-security-attack-demo-rail-transit/    //工控安全攻防演练场景实现分享（轨道交通）。W:乌云工控漏洞;--
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护。
 - https://www.freebuf.com/vuls/230453.html/    //当PLC偶遇老旧但不乏经典的高级组包工具Hping。DOS攻击
-- https://www.freebuf.com/articles/ics-articles/212283.html    //西门子S7通信过程及重放攻击分析，利用snap7与isf对s7300进行重放测试。P:ics-articles/228770.html;--
-- https://www.freebuf.com/articles/ics-articles/220239.html    //西门子S7comm-plus通信过程及重放攻击分析.P:ics-articles/230676.html;--
+- https://www.freebuf.com/articles/ics-articles/212283.html    //西门子S7通信过程及重放攻击分析，利用snap7与isf对s7300进行重放测试。P:/ics-articles/228770.html;--
+- https://www.freebuf.com/articles/ics-articles/220239.html    //西门子S7comm-plus通信过程及重放攻击分析.P:/ics-articles/230676.html;--
 - https://www.freebuf.com/articles/ics-articles/231701.html    //西门子S7系列中间人攻击：流量劫持和转发（一）
 - https://www.freebuf.com/articles/ics-articles/233160.html    //西门子S7系列中间人攻击：PLC探测和流量分析（二）
 - https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340
 ### ICS资产探测
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
-- https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:cisagov/cset/;--
+- https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
 - https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本。
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器
@@ -125,7 +125,7 @@
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Honeypot.md/    //工控蜜罐。myWiki
 - https://github.com/thiagoralves/OpenPLC_v3    //C++。自定义多用途PLC软件
 - https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件
-- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，WebGui。G:thiagoralves/ScadaBR_Installer;--
+- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
 - https://www.modbustools.com/index.html    //modbus模拟软件
 - https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
 - https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC的网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。

@@ -29,11 +29,11 @@
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ### 地理定位ip库分布
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:lionsoul2014;--
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
 - https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;
 - https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
-- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:ics-radar.shodan.io;--
+- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:/ics-radar.shodan.io;--
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
 - http://opencellid.org/    //gsm定位
 - cellidfinder.com    //Cell ID Finder
@@ -68,7 +68,7 @@
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
 #### APT威胁情报
-- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:pan-unit42/iocs;
+- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;
 - https://github.com/blackorbird/APT_REPORT    //apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
 - https://github.com/kbandla/APTnotes    //各种公开的文件和相关的APT笔记，还有软件样本
@@ -142,7 +142,7 @@
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
 ## OSINT信息搜集
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
-- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:mtg-bi.com/pageproduct OSINT插件
+- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
@@ -180,15 +180,15 @@
 - https://www.circl.lu/services/passive-dns    //pdns服务
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
-- https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:bit4woo/teemo;--
+- https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:/bit4woo/teemo;--
 - https://github.com/shmilylty/OneForAll    //py3。子域收集工具，多接口/爆破/验证/接管。testjob。
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。可用于子域名接管漏洞探测
 - https://github.com/guelfoweb/knock    //Py。通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具。
-- https://github.com/LangziFun/LangSrcCurise/    Py。SRC子域名资产监控。goodjob。G:guimaizi/get_domain;G:code-scan/BroDomain;G:reconned/domained;G:bit4woo/Teemo;G:swisskyrepo/Subdomino;G:nmalcolm/Inventus--
+- https://github.com/LangziFun/LangSrcCurise/    Py。SRC子域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/bit4woo/Teemo;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
 - https://github.com/SpiderLabs/HostHunter    //Py3。通过多接口，ssl证书进行hostname子域名查询。
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k,goodjob。
-- https://github.com/OJ/gobuster    //Golang。根据dns查询子域名和web目录爆破的工具，自带字典。G:chuhades/dnsbrute;G:evilsocket/dnssearch;G:blark/aiodnsbrute/;--
+- https://github.com/OJ/gobuster    //Golang。根据dns查询子域名和web目录爆破的工具，自带字典。G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
 - https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机。
 - https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎来搜集子域名，支持西班牙语搜集。
@@ -198,14 +198,14 @@
 - https://github.com/We5ter/GSDF    //Py。基于谷歌SSL透明证书的子域名查询脚本
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
 - https://github.com/Xyntax/BingC    //Py。基于Bing搜索引擎的C段/旁站查询，多线程
-- https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:FeeiCN/ESD;
+- https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;
 - https://github.com/Ice3man543/subfinder    //Golang。go实现的Sublist3r
 - https://github.com/TheRook/subbrute    //Py。扫描器中常用的子域名爆破API库
 - https://github.com/nahamsec/lazyrecon    //Bash。侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等。
-- https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具。G:ring04h/wydomain;G:jonluca/Anubis;--
-- https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:0xbug/orangescan;--
+- https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具。G:/ring04h/wydomain;G:/jonluca/Anubis;--
+- https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
 - https://github.com/chrismaddalena/ODIN    //Py3。simple，信息收集与后期漏洞利用
-- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:x0day/bannerscan;G:zer0h/httpscan;G:s0md3v/ReconDog;--
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
 ## 敏感信息泄露发现
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
@@ -222,18 +222,18 @@
 - https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址
 - https://github.com/gehaxelt/ds_store    //Go。苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
 - https://github.com/admintony/svnExploit/    //Py。SVN源代码泄露全版本Dump源码
-- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:shengqi158/svnhack;--
+- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:/shengqi158/svnhack;--
 ### Git安全相关
-- https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:Hell0W0rld0/Github-Hunter;--
-- https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:FeeiCN/GSIL;G:repoog/GitPrey;--
+- https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:/Hell0W0rld0/Github-Hunter;--
+- https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:/FeeiCN/GSIL;G:/repoog/GitPrey;--
 - https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控，代码信息泄露，分钟级监控，邮件预警。
 - https://github.com/Furduhlutur/yar    //Go。用于侦察Github上的存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/UnkL4b/GitMiner    //github敏感内容挖掘
 - https://github.com/    //GitHub敏感信息扫描工具，包括检测commit等
 - https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:git-hound //GitHound;G:metac0rtex/GitHarvester;G:dxa4481/truffleHog;--
+- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;--
 - https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取 .git。1.4k。
-- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，.git源代码泄漏利用工具。G:HightechSec/git-scanner;--
+- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，.git源代码泄漏利用工具。G:/HightechSec/git-scanner;--
 ### 目录路径发现
 - https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破
 - https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）

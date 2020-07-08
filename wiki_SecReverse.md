@@ -3,7 +3,7 @@
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.
-- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:oujunke/UnWechatApp;G:xuedingmiaojun/wxappUnpacker;G:leo9960/wechat-app-unpack;
+- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
 - https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
 ### PC端逆向分析
 - https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;
@@ -18,13 +18,13 @@
 - https://github.com/radare/radare2    //C。radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
 - https://github.com/radareorg/cutter    //C++。基于QT的radare2框架GUI。5k。
 - https://github.com/armijnhemel/binaryanalysis-ng    //Py3。Binary Analysis Toolkit（BAT）。对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob,0.1k。
-- https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:32位汇编分析调试器Ollydbg;G:horsicq/x64dbg-Plugin-Manager;--
+- https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:/32位汇编分析调试器Ollydbg;G:/horsicq/x64dbg-Plugin-Manager;--
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳分析PE操作
 - https://github.com/horsicq/Detect-It-Easy    //C。官网 ntinfo.biz，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl;--
 - https://github.com/rednaga/APKiD   //YARA。查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
-- https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:TUnpacker;G:BUnpacker;G:halfkiss/ZjDroid;--
+- https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:/TUnpacker;G:/BUnpacker;G:/halfkiss/ZjDroid;--
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
 - https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex。
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
@@ -47,7 +47,7 @@
 - https://sourceforge.net/projects/easypythondecompiler    //Easy Python Decompiler利用 "Uncompyle2" & "Decompyle++"，支持.pyc 1.0 - 3.4源码反编译，GUI界面。
 - https://github.com/zrax/pycdc    //C++。Linux全版本*.pyc反编译。
 ### Java逆向
-- https://github.com/skylot/jadx    //Java。jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:java-decompiler/jd-gui;--
+- https://github.com/skylot/jadx    //Java。jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:/java-decompiler/jd-gui;--
 - https://github.com/deathmarine/Luyten    //Java。java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
 - https://github.com/pxb1988/dex2jar    //Java。android/.dex/.class文件逆向反编译为java代码，dex-tools SNAPSHOT。
 - https://github.com/Col-E/Recaf    //java。java字节码编辑器。
@@ -55,7 +55,7 @@
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
 - https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
 - https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
-- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:apk改之理;--
+- https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:/apk改之理;--
 - https://github.com/iBotPeaches/Apktool    //java。Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //Bash。基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具，apkurl。simple
 - https://github.com/TheKingOfDuck/ApkAnalyser    //py。提取安卓应用敏感信息。

@@ -15,17 +15,17 @@
 - https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
 - https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
 ## 安全防护建设
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
 ### 系统监控管理
-- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:火绒剑系统管理;--
+- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:/ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:/火绒剑系统管理;--
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。
 - https://github.com/mohuihui/antispy    //C/C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
 - https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob,6k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C/Py。ARM架构Linux系统监控，同仓库还有*shadow-box-for-x86*架构系统监控
 - https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等，osquery.io。14k。
-- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:CCleaner;--
+- https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:/CCleaner;--
 - http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用，在解除占用时不会强制关闭占用文件进程。
 ### 程序调试进程管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用更佳
@@ -54,7 +54,7 @@
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 - https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
 ### 主机防护终端检测
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
+- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果。
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
@@ -75,14 +75,14 @@
 ### 防火墙Waf/网关
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗web防火墙。商业版。
-- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:xoslab.com 内核级检测文件生成写入;--
+- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:/xoslab.com 内核级检测文件生成写入;--
 - https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
 - https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
 - https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等。
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
 - https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;--
-- https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:w2sft/ShareWAF_Blance //WAF负载均衡;--
+- https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
@@ -112,7 +112,7 @@
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
 - https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架。
 - https://github.com/chaitin/cloudwalker    //Go。CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
-- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:he1m4n6a/findWebshell;G:ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:yassineaddi/BackdoorMan;G:nbs-system/php-malware-finder;G:emposha/PHP-Shell-Detector;G:nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
+- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
 - https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
 - http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
 - http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测

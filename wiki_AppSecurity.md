@@ -18,7 +18,7 @@
 - https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
 ### Android安全
-- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。testjob。Github:dweinstein/awesome-frida;G:andreafioraldi/frida-fuzzer;--
+- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。testjob。Github:dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
 - https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。testjob。
 - https://github.com/hanbinglengyue/FART/    //py。基于frida的ART环境下自动化脱壳方案。
 - https://github.com/hluwa/ZenTracer    //Py。frida插件，Android app 运行时实时追踪，调用的类名方法名。
@@ -31,7 +31,7 @@
 #### 安卓Xposed利用
 - https://github.com/rovo89/Xposed    //C++。Android动态修改hook，隐藏root执行权限。
 - https://taichi.cool/    //Android魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
-- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:asLody/VirtualApp;--
+- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:/asLody/VirtualApp;--
 - https://github.com/Fuzion24/JustTrustMe    //Java。App证书SSL注入抓包。xposed插件。
 - https://github.com/monkeylord/XServer    //xposed插件。注入拦截方法调用，进行通信协议加密、混淆的分析。
 ### IOS/macOS安全
@@ -71,13 +71,13 @@
 - https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本.noupdate.
 - https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计.noupdate.
 - https://github.com/ripsscanner/rips    //php。php代码审计工具.noupdate.
-- https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:Qihoo360/phptrace;
+- https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:/Qihoo360/phptrace;
 - https://github.com/elcodigok/wphardening    //py.WordPress插件代码审计
 ### Python代码审计应用安全
 - https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向。
 - https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞
 - https://github.com/facebook/pyre-check/    //Py3。facebook推出的Zoncolan基本版python代码静态审计工具。号称30分钟扫描一亿行代码库，bug漏洞都能找。
-- https://github.com/shengqi158/pyvulhunter    //Py。基于pysonar2的Python应用审计。NOUPDATE。G:yinwang0/pysonar2;--
+- https://github.com/shengqi158/pyvulhunter    //Py。基于pysonar2的Python应用审计。NOUPDATE。G:/yinwang0/pysonar2;--
 - https://github.com/PyCQA/bandit    //Py。python代码安全漏洞审计
 - https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具
 ### Golang代码审计

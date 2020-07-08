@@ -43,7 +43,7 @@
 ### 无头浏览器
 - https://github.com/SeleniumHQ/selenium    //Web浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
-- https://www.chromium.org/    //Chrome内核，无头浏览器。G:ariya/phantomjs/;W:miniblink.net;--
+- https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
 - http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 ### 语言集
 - https://github.com/fxsjy/jieba    //Py。结巴中文分词
@@ -59,7 +59,7 @@
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
 ### 面部图像分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
-- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:swghosh/DeepFace Facebook;--
+- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装
@@ -77,7 +77,7 @@
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎。对标ELK
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
-- https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:zhaxiaodong9860/kettle-scheduler 调度监控平台;G:majinju/kettle-manager WEB端管理;
+- https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;
 ### 移动端开发
 - https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
 ### web框架

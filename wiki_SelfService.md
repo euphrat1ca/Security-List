@@ -32,7 +32,7 @@
 ### 下载器
 - https://pandownload.com/    //百度下载
 - https://www.baiduwp.com/    //网盘下载
-- https://github.com/b3log/baidu-netdisk-downloaderx    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:peterq/pan-light;--
+- https://github.com/b3log/baidu-netdisk-downloaderx    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:/peterq/pan-light;--
 - http://www.speedpan.com/    //百度下载
 - https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
 - https://xdown.org/    //bit下载器，类IDM架构。
@@ -42,9 +42,9 @@
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 # 办公套件
-- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool;--
+- https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
 ## 敏捷办公
-- https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:Wox-launcher/Wox;P:火萤酱火柴;--
+- https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
 - https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
 - https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
 - https://github.com/tmux/tmux    //命令行功能加强工具
@@ -65,26 +65,18 @@
 ### 分身登录
 - http://www.vuln.cn/tools/ftp    //在线FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
-### 办公通讯
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱从服务器推报警和日志到手机的工具。P:slack 通讯框架;P:企业微信;P:钉钉;P:TG BOT telegram机器人;--
-- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
-- https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:youfou/wxpy;--
-- https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
-- https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:TKkk-iOSer/WeChatPlugin-MacOS;--
-- https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
-- https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 ### 社区管理
-- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:go-gitea/gitea;--
+- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:/go-gitea/gitea;--
 - http://ohshitgit.com/    //Intro。git操作手册
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown。
-- https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:hackmdio/codimd;--
+- https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
 - https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
 - https://github.com/b3log/pipe    //Go。多用户博客平台。
 - https://github.com/b3log/solo    //Java。个人博客。
-- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:zmister2016/MrDoc;--
+- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
 ### 项目管理
-- https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:lxerxa/actionview;Gitee:actionview;--
+- https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:/lxerxa/actionview;Gitee:actionview;--
 - https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
 - https://www.notion.so/    //项目管理。mybase;--
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
@@ -93,32 +85,27 @@
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
 ### 项目同步
-- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:syncthing/syncthing;P:freefilesync.org;P:filegee //商业;P:goodsync //商业版;--
+- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee //商业;P:/goodsync //商业版;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:owncloud/core;P:Resilio Sync;--
+- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
-- https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:群晖;P:蜗牛星际;--
+- https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
 - https://github.com/amefs/FreeNAS-Doc-Chs    //FreeNAS（网络附加存储）
 ### 云盘存储
-- https://send.firefox.com/    //火狐网盘
-- https://airportal.cn/    //文件网盘
-- https://www.wenshushu.cn/    //文叔叔
-- https://cowtransfer.com/    //奶牛快传
-- https://anonfile.com/    //Anonymous File Upload
-- https://www.upload.ee/    //文件共享平台
-- https://www.rejetto.com/hfs/    //DELPHI。Windows下文件传输HFS (HTTP File Server)，http网盘。
-- https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码
-- https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享
-- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器
-- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
-- https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器匿名文件共享
-- https://github.com/haiwen/seafile    //C。私有云网盘，速度快，功能少。
+- https://send.firefox.com/    //火狐网盘传输。W:airportal.cn/;W:anonfile.com/;W:upload.ee/;W:ssavr.com;W:snapdrop.net;W:send-anywhere.com;--
+- https://cowtransfer.com/    //奶牛快传。W:wenshushu.cn/;W:deershare.com/send;--
+- https://www.rejetto.com/hfs/    //DELPHI。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
-- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联版本，vps使用OneDrive存储。
+- https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。
+- https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
+- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。
+- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+- https://github.com/haiwen/seafile    //C。私有云网盘同步，速度快，功能少。
+- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联VPS版本，vps使用OneDrive存储。
 ### 文档编辑
-- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:腾讯文档 //支持离线，三件套;P:语雀 //需要在线，支持文档、表格;P:Google文档 //三件套，需要在线;W:notion.so;--
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
-- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:vscode;P:emeditor;--
+- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
 - https://github.com/marktext/marktext/    //js。markdown编辑器
 - https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
 ### 在线编辑
@@ -137,14 +124,7 @@
 - http://ac.scmor.com/    //谷歌搜索镜像
 - https://www.gobaidugle.com    //聚合搜索
 - https://www.wolframalpha.com    //问题答案搜索
-- https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me.
-### 客户端通讯分析
-- https://github.com/seemoo-lab/opendrop    //py3。基于owlink.org的Apple AirDrop文档共享实现
-- https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
-- https://bbs.pediy.com/thread-224988.htm    //Intro。[原创]PC微信发送消息研究
-- https://bbs.pediy.com/thread-223178.htm    //Intro。[原创] 对控制PC端微信发送信息的研究
-- https://github.com/TonyChen56/WeChatRobot    //C++。微信pc机器人。
-- https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+- https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
 ## 系统运维
 - https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
@@ -155,9 +135,9 @@
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 ### 注册机keygen
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
@@ -178,7 +158,7 @@
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
 ### 图片素材
-- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:bigjpg.com;--
+- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:/bigjpg.com;--
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图

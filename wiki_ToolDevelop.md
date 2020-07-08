@@ -49,7 +49,7 @@
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui
 ## kali环境拓展插件
 - https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
-- https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具。G:taielab/Taie-RedTeam-OS;--
+- https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具。G:/taielab/Taie-RedTeam-OS;--
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
 - https://github.com/TrustedSec/ptf/    //Py。基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
 - https://github.com/koenbuyens/kalirouter    //将kali设置为一个路由流量分析系统
@@ -62,7 +62,7 @@
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
 ## awvs拓展插件相关工具
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
-- https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:fnmsd/awvs_script_decode;
+- https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:/fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //Py。Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
