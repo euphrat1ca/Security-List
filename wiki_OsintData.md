@@ -123,6 +123,7 @@
 - http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
 - https://github.com/martinvigo/ransombile    //Ruby。根据社交媒体密码找回信息
 - https://www.reg007.com/    //注册过哪家网站app
+- https://github.com/rtcatc/check-your-weibo    //微博互关检测脚本
 ### 企业人员信息搜集
 - https://hunter.io/    //企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查

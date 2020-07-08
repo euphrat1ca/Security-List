@@ -92,8 +92,8 @@
 - https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
 - https://github.com/amefs/FreeNAS-Doc-Chs    //FreeNAS（网络附加存储）
 ### 云盘存储
-- https://send.firefox.com/    //火狐网盘传输。W:airportal.cn/;W:anonfile.com/;W:upload.ee/;W:ssavr.com;W:snapdrop.net;W:send-anywhere.com;--
-- https://cowtransfer.com/    //奶牛快传。W:wenshushu.cn/;W:deershare.com/send;--
+- https://send.firefox.com/    //火狐网盘传输。G:/mozilla/send;--
+- https://cowtransfer.com/    //奶牛快传。W:wenshushu.cn/;W:deershare.com/send;W:airportal.cn/;W:anonfile.com/;W:upload.ee/;W:ssavr.com;G:/RobinLinus/snapdrop;W:send-anywhere.com;--
 - https://www.rejetto.com/hfs/    //DELPHI。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。

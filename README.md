@@ -135,6 +135,9 @@
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
+### 等保安全
+- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
+### 合规安全
 ### 系统检查基线配置
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
@@ -385,7 +388,7 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
 - https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频.10K
 - https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
-- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:hongriSec/CTF-Training;Github:balsn/ctf_writeup;
+- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:hongriSec/CTF-Training;Github:balsn/ctf_writeup;--
 - https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
 - https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
 - 公众号：VulnHub通关日记-DC_    //vulnhub write up
@@ -399,6 +402,14 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
 - https://github.com/m0xiaoxi/AWD_CTF_Platform    //CTF-AWD 训练平台
+### CTF工具集
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
+- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能。
+- https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
+- https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具

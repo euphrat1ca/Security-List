@@ -27,7 +27,7 @@
 - https://github.com/poweradminllc/PAExec    //C++。类PSEXEC远程$IPC控制。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
-- https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。免杀横向移动命令执行测试工具(无需445端口)。
+- https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(免杀，无需445端口)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://github.com/Kevin-Robertson/Inveigh    //PS。LLMNR/mDNS/NBNS欺骗器。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
@@ -73,7 +73,7 @@
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
 ### JavaScript远控
-- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，WebGui管理。
+- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，WebGui界面。
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
 - https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版。
@@ -135,47 +135,52 @@
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-## 后门混淆免杀
+## 后门免杀混淆
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
-- https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
-### 混淆加密反调试
-- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/
-- https://github.com/guyoung/CaptfEncoder    //Nodejs.基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
-- https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法
-- https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:/FreeApophis/TrueCrypt;
-- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护
-- https://github.com/unixpickle/gobfuscate/    //Go。Go文件混淆加密二进制文件和软件包
-### shellcode相关
+### 捆绑打包
+- https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
+- http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
+- https://github.com/r00t-3xp10it/trojanizer    //将两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件
+- https://github.com/r00t-3xp10it/backdoorppt    //将payload更换图标
+- https://github.com/r00t-3xp10it/FakeImageExploiter    //将payload更换图标，需要wine与resourcehacker环境。
+- https://github.com/DamonMohammadbagher/FakeFileMaker    //更换图标和名称
+- https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
+- https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
+- https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
+### 混淆加密
+- https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:/FreeApophis/TrueCrypt;--
+- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
+- https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
+### shellcode利用
 - https://www.shellterproject.com/    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY/C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
 - https://github.com/clinicallyinane/shellcode_launcher/    //C++。加载shellcode方式的payload到内存
-- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode
+- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
 - https://github.com/brimstone/go-shellcode    //Go。加载载荷到内存。
 - https://github.com/TheWover/donut    //C。将.Net程序集生成shellcode并以内存的形式加载运行
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat.生成混淆的shellcode，将shellcode存储在多语言图像中
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，shellcode混淆，将shellcode存储在多语言图像中。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
-- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms 是一个支持Metasploit Framework RPC的一个服务端，用于给Shellcode和PE加载器工作，在一定程度上绕过反病毒软件的静态查杀，同时可以让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。将shellcode用rsa加密并动态编译exe，自带反沙箱（检测父进程是否为Debugger），带界面。G:/ReddyyZ/GhostShell/;--
+- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。将shellcode用rsa加密并动态编译exe，自带反沙箱（检测父进程是否为Debugger），GUI生成器。G:/ReddyyZ/GhostShell/;--
 ### Windows混淆免杀
-- https://github.com/the-xentropy/xencrypt    //ps.PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
+- https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
+- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
+- https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
-- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的 .xsl文件。TESTJOB。
-- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
+- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
-- https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
+- https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等。
+- https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具，GUI界面。
+- https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
 ## Bypass安全防护
 - https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
@@ -259,15 +264,5 @@
 ### Linux提权手段
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
-### 文件打包捆绑
-- https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
-- http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
-- https://github.com/r00t-3xp10it/trojanizer    //将两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件
-- https://github.com/r00t-3xp10it/backdoorppt    //将payload更换图标
-- https://github.com/r00t-3xp10it/FakeImageExploiter    //将payload更换图标，需要wine与resourcehacker环境。
-- https://github.com/DamonMohammadbagher/FakeFileMaker    //更换图标和名称
-- https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
-- https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
-- https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
 ## 痕迹清理
 - https://www.4hou.com/posts/Mo9R    //渗透基础——SSH日志的绕过，利用第三方语言原生库。
