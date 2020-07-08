@@ -35,7 +35,8 @@
 ### 无人机安全
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
-- https://github.com/PX4/Firmware    //px4无人机飞控
+- https://github.com/PX4/Firmware    //px4无人机飞控。
+- https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机
 ## 车联网安全
 - https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
 - https://www.freebuf.com/articles/terminal/241930.html    //车机的渗透思路与实例分析

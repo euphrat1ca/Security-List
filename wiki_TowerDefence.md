@@ -17,6 +17,7 @@
 ## 安全防护建设
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:Linux下防火墙 firewall-cmd;--
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
+- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
 ### 系统监控管理
 - https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:火绒剑系统管理;--
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。

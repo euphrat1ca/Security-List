@@ -1,14 +1,13 @@
 # 无接触安全Contactless
-- https://github.com/OpenATS/OpenATS    //C++。无线电卫星天线追踪系统。
--https://github.com/open-sdr/openwifi    //C。焦博士的首款开源Wi-Fi基带芯片设计openwifi
-- https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电通信软硬件。
-- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密
-- https://github.com/srsLTE/srsLTE    //C++。开源通讯基站系统.G:RangeNetworks/openbts;
 - https://unicorn.360.com/hackcube/    //360独角兽无线电安全研究院
 - http://www.right.com.cn/forum/    //恩山无线论坛，wireless。
-- https://github.com/peplin/pygatt    //Py。蓝牙安全，BLE/Bluetooth/zigbee传感器控制。G:nian-hua/Litchi;
+- https://github.com/OpenATS/OpenATS    //C++。无线电卫星天线追踪系统。
+- https://github.com/open-sdr/openwifi    //C。焦博士的首款开源Wi-Fi基带芯片设计openwifi。
+- https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电。
+- https://github.com/srsLTE/srsLTE    //C++。开源通讯基站系统。G:RangeNetworks/openbts;--
+- https://github.com/peplin/pygatt    //Py。蓝牙安全，BLE/Bluetooth/zigbee传感器控制。G:nian-hua/Litchi;--
 - https://www.anquanke.com/post/id/204316    //GPS欺骗实验
-- https://github.com/asweigart/pyautogui    //py。操作电脑桌面库
+- https://github.com/asweigart/pyautogui    //py。操作电脑桌面库。
 ### 通讯安全SDR/RFID/NFC
 - http://www.freebuf.com/news/others/605.html    //RFID Hacking–资源大合集
 - https://github.com/samyk/magspoof    //信用卡信息盗取
@@ -55,7 +54,8 @@
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //Intro。USBKiller电子杀手
 - https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对‘.key’文件进行绕过
 - https://github.com/knownsec/gsm    //Go。使用树莓派配合硬件来进行短信转发
-- https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络
+- https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络。
+- https://www.bilibili.com/video/av69504054/    //Cantenna管子天线放大器。
 ### 近源无线安全
 - https://openwrt.org/    //C。针对嵌入式设备的Linux操作系统。G:coolsnowwolf/lede Lean's OpenWrt 中文;
 - https://www.wifipineapple.com/downloads    //Wifi-Pineapple大菠萝nano固件
