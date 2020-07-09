@@ -19,7 +19,7 @@
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
 ### 系统监控管理
-- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套。P:/ProcessMonitor、Sysmon、Sigcheck、Autoruns、;P:/火绒剑系统管理;--
+- https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套，autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序CPU异常动向, 异常时生成crash dump文件）、Process Monitor。;P:/火绒剑系统管理;--
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。
 - https://github.com/mohuihui/antispy    //C/C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态各种钩子
 - https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob,6k。

@@ -127,7 +127,6 @@
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
 ## 系统运维
-- https://docs.microsoft.com/en-us/sysinternals/    //Windows Sysinternals套件系统管理。autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序的CPU异常动向, 并在此异常时生成crash dump文件）
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
 - https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ 镜像写入;--
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++是Dism的GUI版，清理环境，封装系统。github:Chuyu-Team;--

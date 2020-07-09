@@ -195,20 +195,19 @@
 - https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
 ### Bypass权限绕过
+- https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
+- https://github.com/CCob/SharpBlock/    //C#。利用dll注入的方式进行EDR绕过。
+- https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
+- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载.Net程序的工具。
+- https://github.com/Ben0xA/nps    //C#。实现不调用‘powershell.exe’执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
+- https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
+- https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
 - https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法。
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac。
 - https://github.com/St0rn/Windows-10-Exploit    //PY,msf插件。win10 uacbypass。
-- https://github.com/ionescu007/r0ak    //内核层的瑞士军刀. 在Windows10内核中读/写/执行代码。
-- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载.Net程序的工具。
-- https://github.com/Ben0xA/nps    //C#。实现不调用powershell.exe执行powershell命令
-- https://github.com/Mr-Un1k0d3r/PowerLessShell    //Py。实现不调用powershell.exe执行powershell命令
-- https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
-- https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
-- https://github.com/CCob/SharpBlock/    //C#。利用dll注入的方式进行EDR绕过
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#。Changing values to bypass windows defender。
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
-- https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结。P:/archives/103301.html/;--
