@@ -6,7 +6,7 @@
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 - https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
-- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台。商业版。G:/dathlin/ClientServerProject;--
+- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
 - https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能。
 ## 物联网利用分析
@@ -103,8 +103,8 @@
 ### ICS入侵检测
 - https://github.com/digitalbond/Quickdraw-Snort    //基于Suricata的类Snort工业入侵检测规则。W:oisf.net;--
 ### ICS代理转发远程访问
-- https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控
-- http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能
+- https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控。
+- http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能。
 ## 工控协议
 - https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
 - https://www.freebuf.com/articles/ics-articles/218674.html/    //工控安全EthernetIP协议分析。Ethernet/IP协议中间人攻击。
