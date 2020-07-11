@@ -1,6 +1,6 @@
 # 应用安全
 ## 移动安全
-- https://github.com/crifan/android_app_security_crack    //电子书 安卓应用的安全和破解。goodjob。
+- https://github.com/crifan/android_app_security_crack    //电子书：安卓应用的安全和破解。goodjob。
 - https://github.com/Brucetg/App_Security    //App安全学习资源
 - https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet    //移动安全测试条例
 ### 移动测试框架
