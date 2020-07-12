@@ -34,7 +34,7 @@
 - https://github.com/dtag-dev-sec/tpotce    //T-POT.里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
 - https://github.com/n3uz/t-pot-autoinstall    //Bash。将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
 - https://www.freebuf.com/sectool/190840.html    //Intro。T-Pot多蜜罐平台使用心法
-- https://github.com/honeytrap/honeytrap    //Go。可扩展高交互蜜罐框架，侦听所有端口，监管蜜罐运行状态。testjob。
+- https://github.com/honeytrap/honeytrap    //Go。可扩展高交互蜜罐框架，侦听所有端口，监管蜜罐运行状态。
 - https://github.com/honeynet/beeswarm    //Py。使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web服务蜜罐
 - https://github.com/p1r06u3/opencanary_web    //Py。基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构

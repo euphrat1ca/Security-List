@@ -271,7 +271,7 @@
 - https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。testjob。
+- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ## 社工相关
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。

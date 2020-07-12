@@ -69,7 +69,7 @@
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式
 ### 跨平台远控
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
-- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。testjob。5k。
+- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。welljob,5k。
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
 ### JavaScript远控
@@ -157,6 +157,8 @@
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
 - https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
 ### shellcode利用
+- https://github.com/wetw0rk/Sickle    //Py。多格式shellcode测试、加载、打包器。testjob。
+- https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
 - https://www.shellterproject.com/    //shellter是一款的动态Shellcode注入工具。商业版。
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate

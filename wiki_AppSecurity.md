@@ -18,11 +18,11 @@
 - https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
 ### Android安全
-- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。testjob。Github:dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
-- https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。testjob。
+- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
+- https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。
 - https://github.com/hanbinglengyue/FART/    //py。基于frida的ART环境下自动化脱壳方案。
 - https://github.com/hluwa/ZenTracer    //Py。frida插件，Android app 运行时实时追踪，调用的类名方法名。
-- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js。基于frida/Burp/flask的app渗透测试，利用HTTP协议识别app加密算法、解密数据包。testjob.
+- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js。基于frida/Burp/flask的app渗透测试，利用HTTP协议识别app加密算法、解密数据包。
 - https://github.com/zsdlove/ApkVulCheck    //Py3。对安卓apk进行特征值匹配。welljob。
 - https://github.com/jboss-javassist/javassist    //Java。能够操作字节码框架，轻易的修改class代码文件。2.2K
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
@@ -49,7 +49,7 @@
 ## 应用代码审计
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
-- https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。testjob。
+- https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。
 - https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。
 - https://github.com/wufeifei/cobra    //Py。源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。GUI界面。
 - https://github.com/codespaces-io/codespaces    //VSCode代码审计插件

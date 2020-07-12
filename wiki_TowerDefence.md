@@ -51,19 +51,20 @@
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //Intro。如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
-- https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
-- https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
-### 主机防护终端检测
+### 主机终端监控
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果。
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
-- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控
-- https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
-- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。YSRC开源。
 - https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。douyu开源。
-### 入侵检测监控
+### 主机终端监测
+- https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
+- https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
+- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。
+- https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
+- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
+### 入侵检测防御
 - https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
 - https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
 - https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
@@ -132,13 +133,13 @@
 ### 网络流量协议解析
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动的流量指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
-- https://github.com/brimsec/brim    //JS。结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。testjob。
+- https://github.com/brimsec/brim    //JS。结构化日志查询引擎zq；用于多平台用户界面的Electron和React；以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - http://www.tcpdump.org    //网络数据包截获分析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
 - https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
 ### 协议分析数据还原
-- https://github.com/didi/sharingan    //Go。流量录制，流量重放。testjob。
+- https://github.com/didi/sharingan    //Go。流量录制，流量重放。
 - https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer,pcap捕获和重放工具

@@ -25,7 +25,7 @@
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 - https://github.com/RASSec/RASscan    //Py。基础端口服务扫描demo。
 - https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
-### 资产信息收集
+### 资产内网信息
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
 - https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
@@ -33,7 +33,7 @@
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
-- https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。testjob。
+- https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
 - https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 ### 资产风险测试
@@ -59,7 +59,7 @@
 - https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
-- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架，类sqlmap.testjob,2K。
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架。goodjob,2K。
 - https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架
@@ -131,7 +131,7 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
 - https://github.com/nabla-c0d3/sslyze    //Py3。SSL/TLS server扫描器
 ### 命令执行注入
-- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。testjob。
+- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。goodjob。
 - https://github.com/commixproject/commix    //Py。命令注入漏洞扫描
 - https://github.com/ewilded/shelling    //Java。burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/    //CMD Hijack，命令执行截断执行，配合powershell（带-enc执行）、mshta等方法。
@@ -191,7 +191,7 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://xz.aliyun.com/t/5535    //session写文件getshell，PHP保存session至文件，Java保存session至内存。
 ### 上传漏洞利用
-- https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。TESTJOB。
+- https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。
 - https://github.com/UltimateHackers/Arjun    //扫描网页，使用正则表达式爆破查找隐藏的GET/POST参数
 - https://github.com/3xp10it/xupload    //用于自动测试上传功能是否可上传webshell的工具
 - https://github.com/gunnerstahl/JQShell    //Py3。CVE-2018-9206 jQuery File Upload利用工具

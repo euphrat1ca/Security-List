@@ -33,8 +33,8 @@
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
-- https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;
-- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;
+- https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;--
+- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;--
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://github.com/bingohuang/docker-labs    //制作在线docker平台
 ### 离线靶场学习
@@ -141,7 +141,6 @@
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
 ### 安全设备漏洞
-- https://github.com/projectzeroindia/CVE-2019-19781    //云服务Citrix智能网关vpn命令执行RCE
 - https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //Intro。如何攻击飞塔Fortigate SSL VPN
 - https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
@@ -173,9 +172,11 @@
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    //CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
 - https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
-## 云平台漏洞
+### 云平台漏洞
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622漏洞利用工具。
+- https://github.com/projectzeroindia/CVE-2019-19781    //Citrix云服务智能网关vpn命令执行RCE
+- https://github.com/jas502n/CVE-2020-8193    //Citrix云服务平台任意文件读取漏洞。
 ## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP

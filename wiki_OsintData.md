@@ -182,7 +182,7 @@
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:/bit4woo/teemo;--
-- https://github.com/shmilylty/OneForAll    //py3。子域收集工具，多接口/爆破/验证/接管。testjob。
+- https://github.com/shmilylty/OneForAll    //py3。子域收集工具，多接口/爆破/验证/接管。welljob。
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。可用于子域名接管漏洞探测
 - https://github.com/guelfoweb/knock    //Py。通过爆破进行子域名获取，可用于查找子域名接管漏洞
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具。

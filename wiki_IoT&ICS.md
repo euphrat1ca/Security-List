@@ -27,7 +27,7 @@
 - https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy、Firmwalker组件。
-- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。testjob。
+- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。
 - https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal。firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
@@ -69,12 +69,12 @@
 ## ICS工业安全
 - https://dale-peterson.com/    //Digital Bond工业安全公司，s4xevents.com旗下S4 Events工业安全培训教程。
 - https://www.freebuf.com/ics-articles    //freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
-- http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;W:icsmaster.org //工匠安全实验室;--
+- http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测 系列    //1分钟 专辑|工业控制系统网络安全
 ### ICS漏洞利用
-- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster;--
+- http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster //工匠安全实验室;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
 - https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs。工控漏洞POC
@@ -97,8 +97,8 @@
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
-- https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本。
-- https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器
+- https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本。G:/hi-KK/ICS-Protocol-identify;--
+- https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器。
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
 ### ICS入侵检测
 - https://github.com/digitalbond/Quickdraw-Snort    //基于Suricata的类Snort工业入侵检测规则。W:oisf.net;--
