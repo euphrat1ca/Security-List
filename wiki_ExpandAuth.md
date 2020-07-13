@@ -3,7 +3,7 @@
 - https://github.com/samratashok/nishang    //PS。测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等。G:/0xdea/tactical-exploitation;
-- https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:/llamasoft/polyshell;
+- https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:/llamasoft/polyshell;--
 - https://github.com/TheSecondSun/Bashark    //Bash。LINUX大鲨鱼后渗透框架。G:/DarkSpiritz/DarkSpiritz;G:/JusticeRage/FFM;
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
 - https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问

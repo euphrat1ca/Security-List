@@ -85,15 +85,16 @@
 - https://book.yunzhan365.com/ybab/exnz/mobile/index.html    //FP50 优秀网络安全解决方案 白皮书
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
 - https://space.bilibili.com/37422870    //入门安全视频
-- https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
 - https://github.com/tiancode/learn-hacking    //网络安全入门文章集
 - https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
 - https://www.freebuf.com/articles/neopoints/190895.html    //入门介绍。fuzz/漏挖/脚本
-- https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验
+- https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验。
+- https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
+- https://book.hacktricks.xyz/
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
@@ -481,9 +482,9 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
 - https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
-- https://www.52pojie.cn/    //吾爱破解。W:bbs.125.la/ //精易求精;--
+- https://www.52pojie.cn/    //吾爱破解，逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;--
 - https://www.lshack.cn    //工控安全入门
-- http://scz.617.cn:8/network/    //青衣十三楼(飞花堂)，逆向。W:cnblogs.com/ssooking;W:3gstudent.github.io;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;--
+
 <br>
 TheEnd
