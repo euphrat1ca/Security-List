@@ -151,10 +151,10 @@
 ### 安全服务checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
+- https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://github.com/arunmagesh/hw_hacking_cheatsheet    硬件hardware测试条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //区块链，以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-- https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
 - https://github.com/theLSA/CS-checklist    //CS客户端检查条目checklist
