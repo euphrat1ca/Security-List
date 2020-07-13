@@ -165,14 +165,13 @@
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
-- https://github.com/clinicallyinane/shellcode_launcher/    //C++。加载shellcode方式的payload到内存
 - https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
-- https://github.com/brimstone/go-shellcode    //Go。加载载荷到内存。
+- https://github.com/brimstone/go-shellcode    //Go。以shellcode方式加载payload到内存。G:clinicallyinane/shellcode_launcher/;--
 - https://github.com/TheWover/donut    //C。将.Net程序集生成shellcode并以内存的形式加载运行
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，shellcode混淆，将shellcode存储在多语言图像中。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。将shellcode用rsa加密并动态编译exe，自带反沙箱（检测父进程是否为Debugger），GUI生成器。G:/ReddyyZ/GhostShell/;--
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，GUI生成器。G:/ReddyyZ/GhostShell/;--
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
