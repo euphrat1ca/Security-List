@@ -4,7 +4,6 @@
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 # 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
-- https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
 - https://lovelive.tools/    //说话的艺术，渣男语录
@@ -15,6 +14,8 @@
 - https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://www.bjinternetcourt.gov.cn/    //北京互联网法院
+- https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
+- https://github.com/veracrypt/VeraCrypt    //C。2K。官网‘veracrypt.fr’,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
@@ -63,7 +64,7 @@
 - https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    //电脑控制手机打电话、发短信、接收通知、传输文件等
 - https://www.airdroid.com/    //移动端手机设备控制
 ### 分身登录
-- http://www.vuln.cn/tools/ftp    //在线FTP登录
+- http://www.vuln.cn/tools/ftp    //匿名FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
 ### 社区管理
 - https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:/go-gitea/gitea;--

@@ -1,4 +1,4 @@
-# 后渗透拓展利用
+# 后渗透拓展
 - https://github.com/EmpireProject/Empire    //PS。后渗透命令执行框架。支持自定义域名host头绕过安全设备。testjob,4.5k。noupdate。
 - https://github.com/samratashok/nishang    //PS。测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
 - https://github.com/jmortega/python-pentesting    //python-pentesting-tool，python安全工具相关
@@ -11,7 +11,7 @@
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //红蓝对抗之Windows内网渗透
-- http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
+- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
 - https://github.com/klsecservices/bat-armor    //Py。bat文件混淆版mimikatz
@@ -21,10 +21,9 @@
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob,3K。
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
-- https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
 ### 横向移动协议利用
-- https://github.com/poweradminllc/PAExec    //C++。类PSEXEC远程$IPC控制。
+- http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(免杀，无需445端口)。
@@ -33,6 +32,12 @@
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:/gentilkiwi/kekeo PTK(Pass the ticket);--
+### 横向远程加载利用
+- https://zhuanlan.zhihu.com/p/132644184    //Windows远程文件下载执行的15种姿势。PowerShell;Bitsadmin;certutil/InstallUtil;ipc$文件共享;mshta;rundll32;regsvr32/SCT文件;msiexec;‘pubprn.vbs’;IEExec;‘MSXSL.EXE’;FTP;TFTP;wget;WinScp;--
+- https://www.freebuf.com/articles/system/155147.html    //Windows下载远程Payload并执行代码的各种技巧。WebDAV/Cmd;Cscript/Wscript;Regasm/Regsvc;Odbcconf;G:Arno0x/PowerShellScripts;--
+- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。
+- https://github.com/poweradminllc/PAExec    //C++。类PSEXEC远程$IPC控制。
+- https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 ### 横向移动凭证利用
 - https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
@@ -76,7 +81,7 @@
 - https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，WebGui界面。
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
-- https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版。
+- https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版，配合rundll32远程加载。
 - https://github.com/shelld3v/JSshell/    //Py。js远控。
 ### Windows远控
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
@@ -97,7 +102,6 @@
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://github.com/inquisb/icmpsh    //C。Simple reverse ICMP shell。Github:PiX-C2;--
 - https://github.com/iagox86/dnscat2    //RUBY/C。cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell;--
-- https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 - https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
 - https://github.com/Coalfire-Research/Slackor    //GO,Py3。基于slack框架命令控制，利用dns隐匿信道传输，集成spookflare/impacket/pypykatz。goodjob。
 - https://github.com/DamonMohammadbagher/NativePayload_ARP    //C#。利用arp协议传输后门
@@ -135,14 +139,16 @@
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-## 后门免杀混淆
+## 文件免杀加密
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
-- https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
-- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
-### 捆绑打包
+- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，可利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
+- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
+- https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
+- https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
+### 文件捆绑打包
 - https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
 - http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
 - https://github.com/r00t-3xp10it/trojanizer    //将两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件
@@ -152,10 +158,6 @@
 - https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 - https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
-### 混淆加密
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网veracrypt.fr,类似于BitLocker全盘加密，支持磁盘隐藏分区。G:/FreeApophis/TrueCrypt;--
-- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
-- https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
 ### shellcode利用
 - https://github.com/wetw0rk/Sickle    //Py。多格式shellcode测试、加载、打包器。testjob。
 - https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
@@ -178,7 +180,6 @@
 - https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
-- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等。
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具，GUI界面。
