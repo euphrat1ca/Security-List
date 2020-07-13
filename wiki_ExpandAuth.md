@@ -6,7 +6,7 @@
 - https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:/llamasoft/polyshell;--
 - https://github.com/TheSecondSun/Bashark    //Bash。LINUX大鲨鱼后渗透框架。G:/DarkSpiritz/DarkSpiritz;G:/JusticeRage/FFM;
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入
-- https://github.com/JoelGMSec/AutoRDPwn    //PS4.远程桌面利用访问
+- https://github.com/JoelGMSec/AutoRDPwn    //Ps4。远程桌面利用访问
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
@@ -38,6 +38,8 @@
 - https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload。可用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。
 - https://github.com/poweradminllc/PAExec    //C++。类PSEXEC远程$IPC控制。
 - https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
+- https://www.freebuf.com/articles/web/176796.html    //九种姿势运行Mimikatz
+- https://www.freebuf.com/articles/system/234365.html    //Mimikatz的18种免杀姿势及防御策略。
 ### 横向移动凭证利用
 - https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等
@@ -139,12 +141,16 @@
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-## 文件免杀加密
+## 文件免杀
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，可利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
+### 文件套壳加密
+- https://github.com/veracrypt/VeraCrypt    //C。2K。官网‘veracrypt.fr’,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
+- https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 加壳。
+- https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）加壳压缩
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
 - https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
@@ -256,14 +262,18 @@
 - https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
-## 提权相关
+## 提权技巧相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
+- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite    //hacktricks提权技巧总结。
+- https://github.com/AlessandroZ/BeRoot    //Py。通过检查常见的错误配置来查找提权方法，支持Windows/Linux/Mac
 ### Windows提权手段
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
-- https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
+- https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
+- https://github.com/rasta-mouse/Watson    //C#。查找Windows 10 & Server 2016 & 2019未打补丁。G:rasta-mouse/Sherlock;--
 ### Linux提权手段
+- https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
 ## 痕迹清理

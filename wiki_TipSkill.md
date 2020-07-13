@@ -36,6 +36,9 @@
 - https://www.anaconda.com/    //python版本管理控制
 - https://github.com/jackfrued/Python-100-Days 100天精通python
 - https://github.com/TheAlgorithms/Python    //Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
+### Windows开发
+- https://github.com/dotnet/roslyn    //C#。微软开源的C# 编译器。
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe    //利用系统CSC进行Windows程序编译
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。

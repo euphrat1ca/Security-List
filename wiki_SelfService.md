@@ -15,7 +15,6 @@
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网‘veracrypt.fr’,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
 ## 公开资源工具
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
