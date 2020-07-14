@@ -386,19 +386,18 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/tenable/router_badusb    //利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
 ## CTF相关(Capture The Flag)
 - https://ctftime.org    //CTF排名比赛介绍
-- https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS
+- https://github.com/apsdehal/awesome-ctf    //frameworks, libraries, resources, softwares and tutorials。
+- https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS。
 - https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
-- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:/imsebao/Code-Audit 代码审计;--
-- https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
+- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:/imsebao/Code-Audit //代码审计;--
 - https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频.10K
-- https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
+### CTF解题思路
+- 公众号：VulnHub通关日记-DC_    //vulnhub write up系列
 - https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:hongriSec/CTF-Training;Github:balsn/ctf_writeup;--
-- https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
-- https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
-- 公众号：VulnHub通关日记-DC_    //vulnhub write up
+- https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
 ### CTF靶场平台
 - https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
-- https://github.com/CTFd/CTFd    //py2.基于flask的动态Capture The Flag framework
+- https://github.com/CTFd/CTFd    //py2。基于flask的动态Capture The Flag framework
 - https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台。
 - https://github.com/wuhan005/Asteroid/    //C#。CTF AWD 实时 3D 攻击大屏
 - https://github.com/vidar-team/Cardinal/    //Go。CTF⛳️ AWD (Attack with Defense) 线下赛平台
@@ -406,14 +405,19 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
 - https://github.com/m0xiaoxi/AWD_CTF_Platform    //CTF-AWD 训练平台
-### CTF工具集
+### CTF命令脚本
+- https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
+- https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
+- https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
+### CTF杂项
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
 - https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
+### CTF密码学
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能。
 - https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 - https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
 - https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
 - https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具

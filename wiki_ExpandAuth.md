@@ -93,7 +93,7 @@
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
 - https://github.com/cobbr/Covenant    //C#。.Net服务端C2控制器，配合powershell进行权限控制。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
-- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell;--
+- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell //已编译;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
 ### *nix远控
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
@@ -142,6 +142,7 @@
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
 ## 文件免杀
+- https://bbs.pediy.com/thread-260539.htm    //杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
@@ -234,6 +235,11 @@
 - https://github.com/ufrisk/MemProcFS    //C。以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    //C#。绕过系统应用白名单执行DotNet and PowerShell tools
 - https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
+### 权限维持签名伪造
+- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
+- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
+- https://github.com/secretsquirrel/SigThief    //Py。用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
+- https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 ### 权限维持劫持注入
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
@@ -245,7 +251,8 @@
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:/3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
-### 自我隐匿rootkit
+- https://github.com/uknowsec/ReflectiveDLLInjection-Notes    //反射DLL技术ReflectiveDLL
+### 权限维持隐匿rootkit
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
 - https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
@@ -255,11 +262,6 @@
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
-### 签名提取伪造修改
-- https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
-- https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
-- https://github.com/secretsquirrel/SigThief    //Py。用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
-- https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 ## 提权技巧相关

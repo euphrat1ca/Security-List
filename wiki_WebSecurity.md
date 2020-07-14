@@ -37,6 +37,7 @@
 - https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 ### 资产风险测试
+- https://github.com/trimstray/otseca    //linux系统审计工具，可以导出系统配置，生成报表
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
 - https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
 - https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
