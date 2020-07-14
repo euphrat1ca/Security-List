@@ -21,9 +21,8 @@
 - https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
 - https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
 - https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构
-- https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。
+- https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
-- https://github.com/RASSec/RASscan    //Py。基础端口服务扫描demo。
 - https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
 ### 资产内网信息
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
@@ -62,7 +61,7 @@
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架。goodjob,2K。
 - https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
-- https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:POC-T;Github:btScan;Github:osprey;Github:pocscan;Github:TangScan;Github:Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
+- https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描检测
@@ -76,7 +75,7 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
 ### 代理抓包
-- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la 精易助手;G:/jakubroztocil/httpie;--
+- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la 精易助手;G:/jakubroztocil/httpie;--
 - https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
 ### 指纹识别主机端口服务
@@ -239,16 +238,17 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 #### 云端数据库利用
 - https://github.com/Turr0n/firebase    //firebase云端实时数据库，错误配置利用
 ## 网站管理WebShell
-- https://github.com/AntSwordProject/antSword    //js.基于Electron中国蚁剑，插件式开发。1.5k。greatjob。
+- https://github.com/AntSwordProject/antSword    //js。中国蚁剑基于Electron插件式开发。greatjob。
 - https://github.com/AntSwordProject/AntSword-Labs    //antSword测试环境
-- https://github.com/Chora10/Cknife/pulls    //Java。中国菜刀,greatjob,2K。Github:SecQuanCknife;gitee.com/9199771/cknife;--
+- https://github.com/Chora10/Cknife/pulls    //Java。中国菜刀,greatjob,2K。Github:/SecQuanCknife;gitee.com/9199771/cknife;--
 - https://github.com/euphrat1ca/hatchet    //C++。中国大砍刀。
 - https://github.com/keepwn/Altman    //.Net,mono。跨平台菜刀。
 - https://github.com/euphrat1ca/Behinder    //JAVA6.rebeyond“冰蝎”动态二进制加密网站管理客户端
 - https://xz.aliyun.com/t/2744    //Intro。“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
 - https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序，目前支持php、jsp，CS端通信加密
-- https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。Github:tennc/webshell;--
+- https://github.com/xl7dev/WebShell    //webshell收集项目。Github:/tennc/webshell;--
 ### php webshells
+- https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。
 - https://github.com/k4mpr3t/b4tm4n    //PHP。大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
 - https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，post pass=DAws
 - https://github.com/b374k/b374k    //php。网站管理，默认密码b374k

@@ -21,7 +21,7 @@
 - https://github.com/nccgroup/argumentinjectionhammer    //Burp插件。识别参数注入漏洞
 - https://github.com/modzero/interestingFileScanner    //增强敏感文件扫描
 - https://github.com/p1g3/Fastjson-Scanner    //fastjson后端组件探测
-- https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测，支持web界面配置。Github:portswigger/authz;--
+- https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测，支持web界面配置。Github:/portswigger/authz;--
 - https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
 ## Nmap/Masscan拓展插件相关工具

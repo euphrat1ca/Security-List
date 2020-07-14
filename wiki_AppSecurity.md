@@ -18,7 +18,7 @@
 - https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
 ### Android安全
-- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
+- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:/dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
 - https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。
 - https://github.com/hanbinglengyue/FART/    //py。基于frida的ART环境下自动化脱壳方案。
 - https://github.com/hluwa/ZenTracer    //Py。frida插件，Android app 运行时实时追踪，调用的类名方法名。

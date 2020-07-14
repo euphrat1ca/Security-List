@@ -24,7 +24,7 @@
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
 ### 横向移动协议利用
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
-- https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:FortyNorthSecurity/WMIOps;Github:secabstraction/WmiSploit;--
+- https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(免杀，无需445端口)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
@@ -102,18 +102,18 @@
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
 - https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/inquisb/icmpsh    //C。Simple reverse ICMP shell。Github:PiX-C2;--
-- https://github.com/iagox86/dnscat2    //RUBY/C。cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:yarrick/iodine;Github:lukebaggett/dnscat2-powershell;Github:ahhh/Reverse_DNS_Shell;--
+- https://github.com/inquisb/icmpsh    //C。Simple reverse ICMP shell。Github:/PiX-C2;--
+- https://github.com/iagox86/dnscat2    //RUBY/C。cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:/yarrick/iodine;Github:/lukebaggett/dnscat2-powershell;Github:/ahhh/Reverse_DNS_Shell;--
 - https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
 - https://github.com/Coalfire-Research/Slackor    //GO,Py3。基于slack框架命令控制，利用dns隐匿信道传输，集成spookflare/impacket/pypykatz。goodjob。
 - https://github.com/DamonMohammadbagher/NativePayload_ARP    //C#。利用arp协议传输后门
-- https://github.com/byt3bl33d3r/gcat    //Py3。使用 gmail 作为 C&C 服务器。Github:gdog;Github:Powershell-RAT;--
-- https://github.com/mvrozanti/RAT-via-Telegram    //Py3。Windows下利用telegram的远程控制工具。Github:Parat;Github:twittor;Github:补bt2(Blaze Telegram Backdoor Toolkit);--
+- https://github.com/byt3bl33d3r/gcat    //Py3。使用 gmail 作为 C&C 服务器。Github:/gdog;Github:/Powershell-RAT;--
+- https://github.com/mvrozanti/RAT-via-Telegram    //Py3。Windows下利用telegram的远程控制工具。Github:/Parat;Github:/twittor;Github:/补bt2(Blaze Telegram Backdoor Toolkit);--
 - https://github.com/0x09AL/Browser-C2    //Go。利用chrome以浏览器的形式连接C2服务器
-- https://github.com/peewpw/Invoke-PSImage    //PS。将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。Github:et0x/C2;--
+- https://github.com/peewpw/Invoke-PSImage    //PS。将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。Github:/et0x/C2;--
 - https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
 - https://github.com/deepzec/Grok-backdoor    //Py。利用ngrok的后门
-- https://github.com/trustedsec/trevorc2    //Py。搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:WebDAVC2;--
+- https://github.com/trustedsec/trevorc2    //Py。搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:/WebDAVC2;--
 - https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
 - https://github.com/k8gege/WinrmCmd    //Go。Winrm远程命令/端口复用后门/WinrmCmd/密码爆破。WinRM是WindowsRemoteManagementd（win远程管理）的简称。基于Web服务管理(WS-Management)标准，使用80端口或者443端口。
@@ -223,7 +223,7 @@
 - https://www.freebuf.com/vuls/195906.html/    //Windows常见后门持久化方式。P:/articles/system/229209.html;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能。G:/公众号:Linux常见的持久化后门汇总;--
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
-- https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:PowerView;Github:PowerUp;Github:PowerTools;Github:Shell-Suite;Github:Misc-Powershell-Scripts;--
+- https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:/t57root/pwnginx;G:/0x09AL/IIS-Raid;G:/WBGlIl/IIS_backdoor;--
 ### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
@@ -275,7 +275,7 @@
 - https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Watson    //C#。查找Windows 10 & Server 2016 & 2019未打补丁。G:rasta-mouse/Sherlock;--
 ### Linux提权手段
-- https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
+- https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:/linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:/belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
 ## 痕迹清理

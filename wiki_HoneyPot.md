@@ -44,7 +44,7 @@
 ### 数据库蜜罐
 - https://gitlab.com/bontchev/elasticpot    //py。Elasticsearch数据库蜜罐
 - https://github.com/hacklcs/HFish    //Go。redis\MYSQL\SSH etc 低交护蜜罐。goodjob。
-- https://blog.csdn.net/ls1120704214/article/details/88174003    //Go。反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:Rogue-MySql-Server;--
+- https://blog.csdn.net/ls1120704214/article/details/88174003    //Go。反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:/MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:/Rogue-MySql-Server;--
 ### 供应链蜜罐
 - http://www.imooc.com/article/26398    //NodeJS 应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### PC服务蜜罐

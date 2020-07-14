@@ -127,7 +127,8 @@
 - https://github.com/LeadroyaL/ss-redirect-vuln-exp/    //Py。shadowsocks重定向漏洞、密文流破解。G:/edwardz246003/shadowsocks;--
 - https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
-- https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3
+- https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3。
+- https://github.com/jiansiting/ripple20-poc    //CVE-2020-11896 Treck TCP/IP协议漏洞库ICMP包探测。
 ### 攻击反制漏洞
 - https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
@@ -196,7 +197,7 @@
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit。
 - https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:/jas502n/fastjson-RCE;G:/iSafeBlue/fastjson-autotype-bypass-demo;--
-- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:fastjson-1.2.47-RCE;--
+- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:/fastjson-1.2.47-RCE;--
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 ### thinkphp漏洞
@@ -336,7 +337,7 @@
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
 - https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:/gbonacini/CVE-2016-5195;--
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令

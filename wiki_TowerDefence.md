@@ -40,7 +40,7 @@
 - https://github.com/processhacker/processhacker    //C。监控系统资源、内存以及模块信息、软件调试，管理进程
 - https://github.com/DominicBreuker/pspy    //Go。Linux非root权限，系统进程命令运行监控.GOODJOB.
 - https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
-- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:falcosecurity/falco;--
+- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
 ### 系统文件监控
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
@@ -83,7 +83,7 @@
 - https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等。
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
-- https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:starjun/openstar;Github:xsec-lab/x-waf;Github:loveshell/ngx_lua_waf;Github:starjun/openstar;--
+- https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:/starjun/openstar;Github:/xsec-lab/x-waf;Github:/loveshell/ngx_lua_waf;Github:/starjun/openstar;--
 - https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机，Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块，。G:/C4o/LogFarmer;G:/C4o/IUS;--
 - https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙

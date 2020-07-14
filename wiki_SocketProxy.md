@@ -4,7 +4,7 @@
 - https://github.com/L-codes/Neo-reGeorg    //Py。‘reDuh’‘reGeorg’的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。
 - https://github.com/cnlh/nps    //Go。内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。WebGUI,多用户。
 - https://github.com/vzex/dog-tunnel    //Go。Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。2k。G:/SECFORCE/Tunna;G:/securesocketfunneling/ssf;G:/sysdream/ligolo;--
-- https://github.com/Dliv3/Venom    //Go。类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;G:/ls0f/gortcp;Github:rtcp;Github:NATBypass;--
+- https://github.com/Dliv3/Venom    //Go。类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;G:/ls0f/gortcp;Github:/rtcp;Github:/NATBypass;--
 - https://github.com/decoder-it/psportfwd    //PowerShell。无需admin权限进行端口转发。
 - https://github.com/davrodpin/mole    //Go。基于ssh的端口转发。
 - https://github.com/fbkcs/thunderdns    //Py。将tcp流量通过DNS协议转发，不需要客户端和socket5支持。

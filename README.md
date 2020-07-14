@@ -5,7 +5,7 @@
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
 分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;<br>
 导航标签：一个人的安全部;Awesome系列;类似于*架构;<br>
-类型标签：模拟测试;* Kali系统类;* ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect;常见缩写;<br>
+类型标签：模拟测试;* Kali系统类;* ATT&CK矩阵类;作者拼音;Github:/\Web:\Page:\Connect;常见缩写;<br>
 状态标签：simple;noupdate;商业版;社区版;<br>
 测评标签：testjob;welljob;goodjob;greatjob;<br>
 # 安全相关资源列表
@@ -129,16 +129,6 @@
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
-### 安全测试速查表
-- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
-- https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
-- https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
-- https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
-- https://www.octority.com/pepenote/    //10w行渗透测试技巧
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
-- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
-- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 ### 合规安全
@@ -167,7 +157,25 @@
 - 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
-### 区块链安全
+### 安全测试辅助
+- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
+- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
+- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
+- https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
+- https://github.com/foryujian/ipintervalmerge    //IP合并区间
+### 安全测试速查表
+- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
+- https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
+- https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
+- https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
+- https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
+- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
+- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
+## 区块链安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
 ## 云安全相关
@@ -241,11 +249,7 @@
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集。
-- https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件
-- https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
-- https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
-- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
-- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
+- https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
@@ -393,7 +397,7 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频.10K
 ### CTF解题思路
 - 公众号：VulnHub通关日记-DC_    //vulnhub write up系列
-- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:hongriSec/CTF-Training;Github:balsn/ctf_writeup;--
+- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:/hongriSec/CTF-Training;Github:/balsn/ctf_writeup;--
 - https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
 ### CTF靶场平台
 - https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。

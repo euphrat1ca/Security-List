@@ -146,7 +146,6 @@
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
 - https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
@@ -167,11 +166,10 @@
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
 - http://ceye.io    //知道创宇dns查询，可以配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
-- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
-- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:CloudFail;Github:Cloudmare.1K。
+- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:/CloudFail;Github:/Cloudmare。1K。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
 - https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    //py.子域名，IP，CDN信息爆破
