@@ -27,6 +27,7 @@
 - https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
 ## 系统管理
 - https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套，autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序CPU异常动向, 异常时生成crash dump文件）、Process Monitor。
+- http://www.nirsoft.net/    //Windows工具集，密码恢复、网络监控、密码抓取、office全家桶。
 - https://bitsum.com/    //系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可用来监视进程动作。
 - https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:/CCleaner;--
 - http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用，在解除占用时不会强制关闭占用文件进程。

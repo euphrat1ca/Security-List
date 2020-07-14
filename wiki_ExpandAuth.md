@@ -53,18 +53,19 @@
 - https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取。
 - https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
 - https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
-### 横向移动密钥抓取
+### 横向移动Linux密钥
 - https://github.com/huntergregal/mimipenguin    //C。linux密码抓取。
-- https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin
-- https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码
-- https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
-- https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取、hash dump，不用注入任何进程，含已编译版。
-- https://github.com/QAX-A-Team/BrowserGhost    //C#。抓取浏览器密码。
-- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等
-- https://github.com/twelvesec/passcat    //C。Windows 下密码抓取工具。
+- https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
+- https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码。
+### 横向移动Windows密钥
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,4.7k。
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码破解升级版，利用DPAPI，目前缺陷是需要windows user密码。
 - https://github.com/putterpanda/mimikittenz    //PS。类似于lazagne可以获取用户级密码。利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--
+- https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
+- https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取、hash dump，不用注入任何进程，含已编译版。
+- https://github.com/QAX-A-Team/BrowserGhost    //C#。抓取浏览器密码。
+- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
+- https://github.com/twelvesec/passcat    //C。Windows 下密码抓取工具。
 - https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。G:/z1Ro0/get_TeamViewer_ID_Password;--
 ## 远程管理控制
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
@@ -264,6 +265,9 @@
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
+- https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
+- https://github.com/Rizer0/Log-killer    //日志清除，Windows/Linux 服务器中的所有
+- https://github.com/360-A-Team/EventCleaner    //日志擦除工具
 ## 提权技巧相关
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite    //hacktricks提权技巧总结。

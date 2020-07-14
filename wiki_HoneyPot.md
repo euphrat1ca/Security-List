@@ -4,6 +4,16 @@
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
 - https://github.com/BinaryDefense/artillery    //Py。端点蜜罐防护。
+## 攻击反制利用
+- https://tom0li.github.io/反制攻击队和防守人员/    //
+- https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
+- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
+- https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。
+- https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
+- https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
+- https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
+- https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
+- https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
 ## 虚拟化
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
 - https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
@@ -45,6 +55,7 @@
 - https://gitlab.com/bontchev/elasticpot    //py。Elasticsearch数据库蜜罐
 - https://github.com/hacklcs/HFish    //Go。redis\MYSQL\SSH etc 低交护蜜罐。goodjob。
 - https://blog.csdn.net/ls1120704214/article/details/88174003    //Go。反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:/MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:/Rogue-MySql-Server;--
+- https://github.com/codeplutos/MySQL-JDBC-Deserialization-Payload    //MySQL JDBC Deserialization Payload / MySQL客户端jdbc反序列化漏洞
 ### 供应链蜜罐
 - http://www.imooc.com/article/26398    //NodeJS 应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### PC服务蜜罐

@@ -254,9 +254,6 @@
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    //DWS用来关闭windows监控服务
-- https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
-- https://github.com/Rizer0/Log-killer    //日志清除，Windows/Linux 服务器中的所有
-- https://github.com/360-A-Team/EventCleaner    //日志擦除工具
 ### 隐匿流量洋葱路由
 - https://www.torproject.org/    //洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务
