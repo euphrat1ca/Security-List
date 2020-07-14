@@ -82,19 +82,16 @@
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple
 ## 安全基础科普培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
-- https://book.yunzhan365.com/ybab/exnz/mobile/index.html    //FP50 优秀网络安全解决方案 白皮书
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
-- https://space.bilibili.com/37422870    //入门安全视频
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
-- https://github.com/tiancode/learn-hacking    //网络安全入门文章集
 - https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
-- https://www.freebuf.com/articles/neopoints/190895.html    //入门介绍。fuzz/漏挖/脚本
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验。
+- https://space.bilibili.com/37422870    //安全入门视频
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
+- https://github.com/tiancode/learn-hacking    //入门网络安全
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
@@ -149,7 +146,12 @@
 - https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
-### 安全服务checklist
+### 安全测试速查表
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
+- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
+- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
+### 安全测试checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目

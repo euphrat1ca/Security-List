@@ -274,8 +274,6 @@
 ### Nginx相关漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
 ### 数据库漏洞
-- https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell；
-- https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net命令执行。
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
 - https://github.com/r35tart/RedisWriteFile    //Py。通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。

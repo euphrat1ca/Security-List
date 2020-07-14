@@ -26,7 +26,6 @@
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //Go。多api图床
 ### 下载器
