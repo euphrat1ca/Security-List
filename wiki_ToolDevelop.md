@@ -103,7 +103,7 @@
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
 - https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
 - https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
-- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //Intro。使用Aggressor脚本雕饰Cobalt Strike
+- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./wiki_CobaltstrikeImage/bluscreenofjeffAggressorScripts.png)
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
 - https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的xor64.bin

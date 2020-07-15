@@ -10,7 +10,7 @@
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 ## 横向移动
-- https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //红蓝对抗之Windows内网渗透
+- https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
@@ -198,7 +198,7 @@
 - https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
 - https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
-- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
+- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 - https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结。沙箱绕过。
 - https://www.4hou.com/posts/oAAj    //WinRM与HTTP Server API的端口复用，利用IIS的端口共享功能绕过防火墙。基于http.sys实现权限维持。P:/"WinrmAttack.py";--
@@ -219,13 +219,13 @@
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
 ## 权限维持
-- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //ATT&CK 之后门持久化
+- https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //公众号：ATT&CK 之后门持久化
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结。P:/archives/103301.html/;--
 - https://www.freebuf.com/vuls/195906.html/    //Windows常见后门持久化方式。P:/articles/system/229209.html;--
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能。G:/公众号:Linux常见的持久化后门汇总;--
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
-- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:/t57root/pwnginx;G:/0x09AL/IIS-Raid;G:/WBGlIl/IIS_backdoor;--
+- https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //公众号：常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:/t57root/pwnginx;G:/0x09AL/IIS-Raid;G:/WBGlIl/IIS_backdoor;--
 ### 权限维持白利用
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。

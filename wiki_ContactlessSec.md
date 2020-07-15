@@ -19,7 +19,8 @@
 - https://www.gnuradio.org/    //软件无线电信号处理方案。W:PlutoSDR;G:/Nuand/bladeRF;G:/jopohl/urh;
 - https://github.com/osqzss/gps-sdr-sim    //使用ADALM-Pluto/bladeRF/HackRF/USRP等软件平台进行GPS信号模拟
 - https://github.com/EttusResearch/uhd    //C++。USRP（Universal Software Radio Peripheral，通用软件无线电外设），伪基站。
-- https://github.com/mossmann/hackrf    //C。低成本软件无线电平台,greatscottgadgets.com (官网)。G:/sharebrained/portapack-hackrf;
+- https://github.com/mossmann/hackrf    //C。低成本软件无线电平台,greatscottgadgets.com (官网)。G:/sharebrained/portapack-hackrf;--
+- https://mp.weixin.qq.com/s/FxvKPDcpca4ER54HM0Q_cQ    //公众号：利用HackRF替代车钥匙解锁电动车
 ### WIFI网络审计测试
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类

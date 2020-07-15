@@ -38,7 +38,7 @@
 - https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。osquery.io。14k。
 - https://github.com/kkamagui/shadow-box-for-arm    //C,Py。ARM架构Linux系统监控，*shadow-box-for-x86*架构系统监控。
 - https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://github.com/processhacker/processhacker    //C。监控系统资源、内存以及模块信息、软件调试，管理进程
+- https://github.com/processhacker/processhacker    //C。Process hacker 监控系统资源、内存以及模块信息、软件调试，管理进程
 - https://github.com/DominicBreuker/pspy    //Go。Linux非root权限，系统进程命令运行监控.GOODJOB.
 - https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
 - https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
@@ -124,7 +124,7 @@
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
 ## 网络流量分析
-- https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //Intro。攻守道—流量分析的刀光剑影，wireshark操作指令。
+- https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //公众号：攻守道—流量分析的刀光剑影，wireshark操作指令。
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。

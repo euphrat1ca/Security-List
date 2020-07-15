@@ -109,8 +109,8 @@
 - https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询
 ### 社交媒体情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
-- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //【工具】Facebook相关的一些情报分析工具
-- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //【工具】一些与Twitter相关的情报分析工具
+- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //公众号：【工具】Facebook相关的一些情报分析工具
+- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //公众号：【工具】一些与Twitter相关的情报分析工具
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
 - https://github.com/xHak9x/fbi    //Py3。facebook脸书信息收集工具

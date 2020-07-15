@@ -62,7 +62,7 @@
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
 - https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
 - https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;
-- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //秦波：大型互联网应用安全SDL体系建设实践
+- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
 ### 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html    //FireEye公司“网络威胁地图”
 - https://cybermap.kaspersky.com/    //卡巴斯基(Kaspersky)的“网络实时地图”
@@ -147,7 +147,7 @@
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://github.com/arunmagesh/hw_hacking_cheatsheet    硬件hardware测试条目
-- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //区块链，以太坊智能合约审计 CheckList
+- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。

@@ -18,7 +18,7 @@
 ## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
-- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
+- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
 - http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //‘绿盟：智能设备安全分析手册.pdf’。
@@ -50,8 +50,8 @@
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
 - https://github.com/RUB-NDS/PRET    //Py3。打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。2k。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;--
 - https://github.com/rapid7/IoTSeeker    //物联网设备默认密码扫描检测工具
-- https://mp.weixin.qq.com/s/VCZOR9Bw-8ecIqRysUYxKQ/    //自助终端设备安全剖析
-- https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //T00ls精华文：自助终端机的常见入侵方式
+- https://mp.weixin.qq.com/s/VCZOR9Bw-8ecIqRysUYxKQ/    //公众号：自助终端设备安全剖析
+- https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //公众号：自助终端机的常见入侵方式
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //Py。调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/Ullaakut/cameradar    //Go。针对摄像头RTSP协议渗透测试，附弱口令字典。
