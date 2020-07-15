@@ -273,6 +273,7 @@
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:/CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ## 微软MS相关漏洞
+- https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
 - https://github.com/smgorelik/Windows-RCE-exploits    //windows命令执行RCE漏洞POC样本，分为web与文件两种形式

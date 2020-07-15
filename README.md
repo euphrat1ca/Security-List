@@ -239,7 +239,7 @@
 # 技术手段利用方式工具集合
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
-- https://github.com/fireeye/commando-vm    //FireEye开源CommandoVM，专为红队（pen-testing）定制的Windows。W:blackwin.ir,WINDOWS kali系统类;--
+- https://github.com/fireeye/commando-vm    //FireEye开源Commando VM，专为红队（pen-testing）定制的Windows。W:blackwin.ir //win-kali系统类;--
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队攻击生命周期，开源和商业工具。goodjob。
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    //红队工具、攻击手段
