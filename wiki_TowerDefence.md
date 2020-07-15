@@ -54,7 +54,7 @@
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //Intro。如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
 ### 主机终端监控
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //灰盒漏洞挖掘扫描工具;--
+- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //IAST交互式漏洞挖掘扫描;--
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果。
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。

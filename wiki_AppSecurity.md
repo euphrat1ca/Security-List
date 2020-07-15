@@ -51,7 +51,7 @@
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
 - https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。
 - https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。
-- https://github.com/wufeifei/cobra    //Py。源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。GUI界面。
+- https://github.com/wufeifei/cobra    //Py。基于AST抽象语法树源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。GUI界面。
 - https://github.com/codespaces-io/codespaces    //VSCode代码审计插件
 - https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
 ### Ruby代码审计
@@ -68,11 +68,12 @@
 - https://github.com/doyensec/electronegativity    //Electron应用代码审计，App的错误配置和安全问题
 - https://github.com/callforpapers-source/jshole/    //Js。js漏洞扫描。
 ### PHP代码审计应用安全
-- https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本.noupdate.
+- http://zeroyu.xyz/2019/03/11/NAVEX-Precise-and-Scalable-Exploit-Generation-for-Dynamic-Web-Applications/    //基于图数据库Web应用程序的漏洞利用生成框架。G:/aalhuz/navex;--
+- https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本。noupdate。
 - https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计.noupdate.
 - https://github.com/ripsscanner/rips    //php。php代码审计工具.noupdate.
-- https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:/Qihoo360/phptrace;
-- https://github.com/elcodigok/wphardening    //py.WordPress插件代码审计
+- https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:/Qihoo360/phptrace;--
+- https://github.com/elcodigok/wphardening    //py。WordPress插件代码审计
 ### Python代码审计应用安全
 - https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向。
 - https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞

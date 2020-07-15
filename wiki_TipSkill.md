@@ -66,15 +66,18 @@
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装
-### 深度学习
-- https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
-- https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
 ### 神经网络GanS
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
 - https://github.com/deepfakes/faceswap    //Py。GUI,依赖较多换脸虚拟音频视频
 - https://github.com/ecjtuseclab/AILoginBlasting    //Py。服务端为机器学习模块，该模块主要在TensorFlow深度学习框架基础上构建CNN卷积神经网络算法，对目标验证码进行训练与识别。客户端为验证码爆破管理模块。
 - https://github.com/poloclub/cnn-explainer    //Js。CNN解释器细节可视化。
+### 深度学习
+- https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
+- https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
+### 图数据库
+- https://neo4j.com/    //Nosql数据库，数据关联性。
+- https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
 ### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
