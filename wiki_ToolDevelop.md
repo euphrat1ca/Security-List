@@ -114,6 +114,7 @@
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 ### cobaltstrike加密通讯
+- https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
 - https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
 - https://www.cobaltstrike.com/help-malleable-c2    //配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库

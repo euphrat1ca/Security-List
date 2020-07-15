@@ -26,7 +26,7 @@
 - http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
-- https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(免杀，无需445端口)。
+- https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(只需135无需445端口，免杀)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://github.com/Kevin-Robertson/Inveigh    //PS。LLMNR/mDNS/NBNS欺骗器。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。

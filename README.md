@@ -254,6 +254,8 @@
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
 - https://github.com/Nummer/Destroy-Windows-10-Spying    //DWS用来关闭windows监控服务
+- https://www.anquanke.com/post/id/195011    //暗度陈仓：基于国内某云的 Domain Fronting 技术实践。CDN域前置
+- https://www.freebuf.com/sectool/232555.html    //利用Cloudflare Worker来隐藏C2基础设施。CDN域前置。G:/Berkeley-Reject/workers-proxy;--
 ### 隐匿流量洋葱路由
 - https://www.torproject.org/    //洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务
