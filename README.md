@@ -493,7 +493,7 @@ W:ns4gov.000webhostapp.com;--
 - https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
 - https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
 - https://www.52pojie.cn/    //吾爱破解，逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;    
 - https://www.lshack.cn    //工控安全入门
 
 <br>

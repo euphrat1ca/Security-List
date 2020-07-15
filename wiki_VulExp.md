@@ -116,6 +116,7 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
+- https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;
 ## 软硬固应用漏洞
 - https://github.com/mudongliang/LinuxFlaw    //Linux下软件漏洞列表
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
@@ -167,8 +168,9 @@
 ### 云平台漏洞
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622漏洞利用工具。
-- https://github.com/projectzeroindia/CVE-2019-19781    //Citrix云服务智能网关vpn命令执行RCE
+- https://github.com/projectzeroindia/CVE-2019-19781    //Citrix产品云服务智能网关vpn命令执行RCE
 - https://github.com/jas502n/CVE-2020-8193    //Citrix云服务平台任意文件读取漏洞。
+- https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    //CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;
 ## Web漏洞利用CMS工具
 - https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
 - https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
