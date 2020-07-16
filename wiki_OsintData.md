@@ -149,19 +149,19 @@
 - https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
-- https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dns/hash/domain多接口
+- https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
 - https://github.com/gh0stkey/ahrid    //py.利用jsonp等漏洞通过分析模块对黑客画像溯源
 ### 在线信息搜集网站
-- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;
-- https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;
+- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;--
+- https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;-
-- https://www.dnsdb.io    //全球DNS搜索引擎。DNS查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。
-- https://www.whatweb.net/    //在线web指纹识别
-- http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具.W:phpinfo.me/domain/;
+- https://www.dnsdb.io    //全球DNS搜索引擎。DNS记录查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。W:securitytrails.com/;--
+- http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具。W:phpinfo.me/domain/;--
 - http://ip.chaxun.la/    //ip反查域名---查询啦
 - http://www.link114.cn/title/    //批量查询网站标题
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
+- https://www.whatweb.net/    //在线web指纹识别
 ### 真实IP信息获取
 - http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py.四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
