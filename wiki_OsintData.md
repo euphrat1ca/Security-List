@@ -145,12 +145,12 @@
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
-- https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息
+- https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
 - https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
 - https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
-- https://github.com/gh0stkey/ahrid    //py.利用jsonp等漏洞通过分析模块对黑客画像溯源
+- https://github.com/r35tart/GetIPinfo    //Py。扫描指定IP/C段的网卡信息。
 ### 在线信息搜集网站
 - https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;--
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
