@@ -5,41 +5,45 @@
 # 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
-- https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
 - https://lovelive.tools/    //说话的艺术，渣男语录
 - https://github.com/jxlwqq/id-validator.py    //Py3。居住证号码验证工具（Python 版）
 - https://github.com/sylnsfar/qrcode    //Py3。动态二维码
 - https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
 - https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印
-- https://github.com/EdgeTranslate/EdgeTranslate    //js.跨平台侧边翻译，多接口
+- https://github.com/EdgeTranslate/EdgeTranslate    //js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 ## 公开资源工具
-- https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
-- http://web.archive.org    //网站时光机
-- https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
-- http://www.bingdian001.com/    //百度文库冰点下载
-- https://2tool.top/    //域名前面加上his.sh，网页快照
-- https://www.freenom.com    //注册免费域名，dns解析
-- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
+### 网页快照
+- https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
+- https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+- http://web.archive.org    //网站时光机
+- https://2tool.top/    //域名前面加上his.sh，网页快照
+### 图床操作
 - https://thyrsi.com/    //图片上传分享工具
-- https://github.com/aimerforreimu/auxpi    //Go。多api图床
-### 下载器
-- https://pandownload.com/    //百度下载
+- https://github.com/aimerforreimu/auxpi    //Go。图床API汇总。
+### 域名操作
+- https://www.freenom.com    //注册免费域名，dns解析
+- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
+### 下载操作
+- https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
+- http://www.bingdian001.com/    //百度文库冰点下载。
+- https://xdown.org/    //bit下载器，类IDM架构。
 - https://www.baiduwp.com/    //网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:/peterq/pan-light;--
-- http://www.speedpan.com/    //百度下载
+- http://www.speedpan.com/    //百度下载。W:pandownload.com;--
 - https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
-- https://xdown.org/    //bit下载器，类IDM架构。
 ### 数据可视化
-- https://flourish.studio/    //图表在线展示。W:finereport.com;
+- https://flourish.studio/    //图表在线展示。W:finereport.com;--
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
+### 自媒体
+- https://xmt.cn/index    //新媒体管家。135编辑器;壹伴。
 # 办公套件
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
 ## 敏捷办公
