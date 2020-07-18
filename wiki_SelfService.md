@@ -69,7 +69,8 @@
 - http://www.vuln.cn/tools/ftp    //匿名FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
 ### 社区管理
-- https://gitea.io/zh-cn/    //GO。私有git服务，一键git安装。G:/go-gitea/gitea;--
+- https://github.com/gogs/gogs   //Go。Git 服务器一键启动。
+- https://gitea.io/zh-cn/    //GO。私有git服务一键启动。G:/go-gitea/gitea;--
 - http://ohshitgit.com/    //Intro。git操作手册
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown。

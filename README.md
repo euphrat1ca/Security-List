@@ -12,11 +12,10 @@
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
 - http://www.owasp.org.cn/owasp-project/owasp-things    //OWASP项目
-- https://github.com/SecWiki/sec-chart    //安全思维导图集合
-- https://github.com/Mayter/sec-charts    //在sec-wiki的思维导图 plus
+- https://github.com/SecWiki/sec-chart    //安全思维导图集合。G：Mayter/sec-charts;--
 - https://github.com/Ascotbe/Osmographic-brain-mapping    //安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/tom0li/collection-document    //安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
-- https://github.com/secure-data-analysis-data-sharing/data-analysis 资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
+- https://github.com/secure-data-analysis-data-sharing/data-analysis    //资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 - https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
 - http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计
@@ -312,11 +311,11 @@
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器
 - https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台
 ### 邮件伪造
-- https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;
-W:ns4gov.000webhostapp.com;--
+- https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--
+W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:/lunarca/SimpleEmailSpoofer;G:/Dionach/PhEmail;--
 - https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具。
-- https://www.ehpus.com/post/smtp-injection-in-gsuite/    //基于smtp注入的邮件欺骗
+- https://www.ehpus.com/post/smtp-injection-in-gsuite/    //基于smtp注入的邮件欺骗。
 ### 口令扫描爆破证书校验
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
@@ -481,19 +480,20 @@ W:ns4gov.000webhostapp.com;--
 # 拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件.mywiki
 ---
-# 博客论坛信息流
-- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:sec.thief.one;W:osint-labs.org;--
-- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
-- https://github.com/topics/security    //GitHub安全类目。G:/We5ter/Scanners-Box;--
+# 导航站
+## 信息流
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
-- https://github.com/k4m4/movies-for-hackers    //安全相关电影
-- https://www.youtube.com/c/SamyKamkar/videos    //Samy Kamkar
-- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单
+- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
+## 收藏夹
+- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
+- https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
 - https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
-- https://www.malwareanalysis.cn/    //安全分析与研究 专注于全球恶意样本的分析与研究
-- https://www.52pojie.cn/    //吾爱破解，逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;    
+- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
+- https://github.com/k4m4/movies-for-hackers    //安全相关电影
+- https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
+- https://www.52pojie.cn/    //吾爱破解逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;W:malwareanalysis.cn;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;--
 - https://www.lshack.cn    //工控安全入门
 
 <br>
