@@ -478,8 +478,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 # 应用安全利用
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_AppSecurity/    //移动端APP，应用代码审计。myWiki。
 # 拓展插件相关工具
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件.mywiki
----
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件。mywiki
 # 导航站
 ## 信息流
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
@@ -488,7 +487,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
 - https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐
-- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;W:vipread.com;--
 - https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
 - https://github.com/k4m4/movies-for-hackers    //安全相关电影
 - https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
