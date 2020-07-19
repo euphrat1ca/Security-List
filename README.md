@@ -235,20 +235,23 @@
 - https://adsecurity.org    //Active Directory安全攻防。goodjob。
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:/klionsec.github.io;--
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇
-# 技术手段利用方式工具集合
-- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
-- https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
-- https://github.com/fireeye/commando-vm    //FireEye开源Commando VM，专为红队（pen-testing）定制的Windows。W:blackwin.ir //win-kali系统类;--
+# 技术利用套件集合
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    //红队攻击生命周期，开源和商业工具。goodjob。
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。
 - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE    //红队工具、攻击手段
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
+## 安全测试系统集合
+- https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
+- https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
+- https://github.com/fireeye/commando-vm    //FireEye开源Commando VM，专为红队（pen-testing）定制的Windows。W:blackwin.ir //win-kali系统类;--
+## Windows利用工具集合
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
-- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
-- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生工具脚本集。
+- https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
+- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
+- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
