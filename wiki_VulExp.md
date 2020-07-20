@@ -282,8 +282,7 @@
 - https://github.com/3gstudent/CVE-2017-8464-EXP    //CVE-2017-8464，win快捷方式远程执行漏洞
 - https://github.com/Lz1y/CVE-2018-8420    //Windows的msxml解析器漏洞可以通过ie或vbs执行后门
 - https://github.com/Lz1y/CVE-2017-8759    //.NET Framework换行符漏洞，CVE-2017-8759完美复现（另附加hta+powershell弹框闪烁解决方案）。P:/freebuf.com/vuls/147793.html;--
-- https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门
-- https://github.com/Ridter/RTF_11882_0802    //Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
+- https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门。
 - https://github.com/gentilkiwi/kekeo    //C。Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:/mubix/pykek;G:/goldenPac.py;--
 - https://github.com/padovah4ck/CVE-2020-0683    //C++。利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
 ### 微软直接RCE/LPE
@@ -305,23 +304,24 @@
 - https://github.com/dirkjanm/PrivExchange    //Py。基于impacket，利用exchange提升system权限。CVE-2019-1040 Abusing Exchange: One API call away from Domain。
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO。CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    //Py。基于低权限账号进行ysoserial-远程代码执行。G:/Jumbo-WJB/CVE-2020-0688;G:/random-robbie/cve-2020-0688;--
-### Office漏洞收集
-- https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合
-- https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
+### Office漏洞利用
+- https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合。
+- https://github.com/Ridter/RTF_11882_0802    //Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
+- https://github.com/Ridter/CVE-2017-11882    //利用word文档RTF获取shell，evi1cg.me/archives/CVE_2017_11882_exp.html。
 - https://github.com/thom-s/docx-embeddedhtml-injection    //word2016，滥用Word联机视频特征执行恶意代码poc
 - https://blog.cymulate.com/abusing-microsoft-office-online-video    //word2016，滥用Word联机视频特征执行恶意代码介绍
-- http://www.freebuf.com/articles/terminal/150285.html    //无需开启宏即可在word文档中利用DDE（动态数据交换机制Dynamic Data Exchange）执行命令。G:/0xdeadbeefJERKY/Office-DDE-Payloads;
-- https://github.com/Ridter/CVE-2017-11882    //利用word文档RTF获取shell，https://evi1cg.me/archives/CVE_2017_11882_exp.html
+- http://www.freebuf.com/articles/terminal/150285.html    //无需开启宏即可在word文档中利用DDE（动态数据交换机制Dynamic Data Exchange）执行命令。G:/0xdeadbeefJERKY/Office-DDE-Payloads;--
 - https://fuping.site/2017/04/18/CVE-2017-0199漏洞复现过程    //WORD RTF 文档，配合msf利用
-- https://github.com/tezukanice/Office8570    //利用ppsx幻灯片远程命令执行，https://github.com/rxwx/CVE-2017-8570
-- https://github.com/0x09AL/CVE-2018-8174-msf    //目前支持的版本是 32 位 IE 浏览器和 32 位 office。网页访问上线，浏览器关闭，shell 依然存活，http://www.freebuf.com/vuls/173727.html
+- https://github.com/0x09AL/CVE-2018-8174-msf    //目前支持的版本是 32 位 IE 浏览器和 32 位 office。网页访问上线，浏览器关闭，shell 依然存活。W:freebuf.com/vuls/173727.html;--
 - http://www.4hou.com/technology/9405.html    //在 Office 文档的属性中隐藏攻击载荷
+- https://github.com/tezukanice/Office8570    //利用ppsx幻灯片远程命令执行。G:/rxwx/CVE-2017-8570;--
 - https://evi1cg.me/archives/Create_PPSX.html    //构造PPSX钓鱼文件
-- https://github.com/enigma0x3/Generate-Macro    //PowerShell.生成含有恶意宏的Microsoft Office文档
+- https://github.com/enigma0x3/Generate-Macro    //PowerShell。生成含有恶意宏的Microsoft Office文档
 - https://github.com/mwrlabs/wePWNise    //生成独立于体系结构的VBA代码，用于Office文档或模板，并自动绕过应用程序控制
 - https://github.com/curi0usJack/luckystrike    //PS。用于创建恶意的Office宏文档
 - https://github.com/sevagas/macro_pack    //MS Office文档、VBS格式、快捷方式payload捆绑
 - https://github.com/khr0x40sh/MacroShop    //一组通过Office宏传递有效载荷的脚本
+- https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py    //Py。配合responder利用word文档窃取ntlm哈希
 - https://github.com/deepzec/Bad-Pdf    //Py。配合responder利用恶意pdf窃取ntlm哈希
 ## 提权漏洞利用
