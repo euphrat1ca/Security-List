@@ -33,9 +33,8 @@
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
 - http://www.bingdian001.com/    //百度文库冰点下载。
 - https://xdown.org/    //bit下载器，类IDM架构。
-- https://www.baiduwp.com/    //网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:/peterq/pan-light;--
-- http://www.speedpan.com/    //百度下载。W:pandownload.com;--
+- http://www.speedpan.com/    //百度下载。W:pandownload.com;W:baiduwp.com/;--
 - https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
 ### 数据可视化
 - https://flourish.studio/    //图表在线展示。W:finereport.com;--

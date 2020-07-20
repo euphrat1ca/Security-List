@@ -319,13 +319,13 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:/lunarca/SimpleEmailSpoofer;G:/Dionach/PhEmail;--
 - https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具。
 - https://www.ehpus.com/post/smtp-injection-in-gsuite/    //基于smtp注入的邮件欺骗。
-### 口令扫描爆破证书校验
+### 凭证扫描爆破
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
 - https://github.com/shack2/SNETCracker    //C#。密码爆破工具，支持SSH、RDP、MySQL等常见协议,超级弱口令爆破工具.
 - https://github.com/jmk-foofus/medusa    //C。快速并发模块化的登陆爆破工具。
 - https://github.com/lanjelot/patator    //Py3。集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
-- https://github.com/nmap/ncrack    //C。Nmap协议破解爆破组件.
+- https://github.com/nmap/ncrack    //C。Nmap协议弱口令爆破组件.
 - https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解.G:/shengqi158/weak_password_detect;--
 - https://github.com/ShawnDEvans/smbmap    //py。利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:/m4ll0k/SMBrute;--
 - https://github.com/InfosecMatter/Minimalistic-offensive-security-tools    //ps。smb、ad域密码爆破。
