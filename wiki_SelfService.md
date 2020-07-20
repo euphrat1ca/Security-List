@@ -160,6 +160,8 @@
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
+### 字幕素材
+- https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
 ### 图片素材
 - https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:/bigjpg.com;--
 - https://www.remove.bg/    //图片背景消除
