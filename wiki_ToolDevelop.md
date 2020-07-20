@@ -15,7 +15,7 @@
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问
 - https://github.com/c0ny1/jsEncrypter    //一个用于加密传输爆破的Burp Suite插件
 - https://github.com/nccgroup/BurpSuiteHTTPSmuggler    //使用几种技巧绕过WAF
-- https://github.com/c0ny1/chunked-coding-converter    //本插件主要用于分块传输绕WAF
+- https://github.com/c0ny1/chunked-coding-converter    //用于http传送过程的分块技术，可绕WAF等防护设备。
 ### burp利用探测
 - https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描 api key/tokens
 - https://github.com/nccgroup/argumentinjectionhammer    //Burp插件。识别参数注入漏洞
