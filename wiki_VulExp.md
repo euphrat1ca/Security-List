@@ -18,7 +18,7 @@
 - https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
 - https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情
 - https://sec.ly.com/bugs    //同程安全公开漏洞详情
-- https://zeroday.hitcon.org/vulnerability/    //台湾公开漏洞库
+- https://zeroday.hitcon.org/vulnerability/    //台湾漏洞库，公开。
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像.4k。goodjob。
