@@ -15,6 +15,22 @@
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
+## 信息导航站
+### 信息流
+- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
+- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
+### 收藏夹
+- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
+- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;W:vipread.com //文档电子书;--
+- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
+- https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
+- https://github.com/k4m4/movies-for-hackers    //安全相关电影
+- https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
+### Blog社区
+- https://www.52pojie.cn/    //吾爱破解逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;W:malwareanalysis.cn;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;--
+- https://www.lshack.cn    //工控安全入门
 ## 数据情报分析
 - http://pandas.pydata.org    //数据分析
 - https://github.com/r0f1/datascience    //大数据分析功能库推荐
@@ -67,7 +83,7 @@
 - https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
-#### APT威胁情报
+### APT威胁情报
 - https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;
 - https://github.com/blackorbird/APT_REPORT    //黑鸟apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
@@ -77,13 +93,7 @@
 - https://pan-unit42.github.io/playbook_viewer/    //针对apt组织的威胁情报汇总
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
-## 各国情报人员使用的部分开源情报（OSINT）工具
-### 账号密码泄露
-- https://haveibeenpwned.com/    //电子邮件账号泄露，检测。
-- https://intelx.io/    //账号密码泄露，检测。
-- https://ddosecrets.com/data/international/    //blueleaks，并包含各个国家的泄露数据。
-- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
-- http://demo.zeeroq.com/email/    //邮箱密码泄露
+## 情报人员开源工具
 ### 事实检测
 - https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
@@ -107,6 +117,17 @@
 - https://www.marinetraffic.com/en/ais/home/centerx:5.4/centery:50.8/zoom:2    //全球船舶跟踪情报
 - https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    //美国联邦航空管理局（FAA）注册的所有飞机的登记册
 - https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询
+# OSINT信息搜集利用
+- http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
+- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
+- https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
+- https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
+- https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
+- https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
+- https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
+- https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
+- https://github.com/r35tart/GetIPinfo    //Py。扫描指定IP/C段的网卡信息。
+## 人员信息搜集
 ### 社交媒体情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //公众号：【工具】Facebook相关的一些情报分析工具
@@ -141,17 +162,14 @@
 - https://github.com/ChrisJohnRiley/Scythe    //验证账号是否为常用账号
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
-## OSINT信息搜集
-- http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
-- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
-- https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
-- https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
-- https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
-- https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
-- https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
-- https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
-- https://github.com/r35tart/GetIPinfo    //Py。扫描指定IP/C段的网卡信息。
-### 在线信息搜集网站
+### 账号密码泄露
+- https://haveibeenpwned.com/    //电子邮件账号泄露，检测。
+- https://intelx.io/    //账号密码泄露，检测。
+- https://ddosecrets.com/data/international/    //blueleaks，并包含各个国家的泄露数据。
+- https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
+- http://demo.zeeroq.com/email/    //邮箱密码泄露
+## Web信息搜集
+### Web信息搜集网站
 - https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;--
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
@@ -205,7 +223,7 @@
 - https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
 - https://github.com/chrismaddalena/ODIN    //Py3。simple，信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
-## 敏感信息泄露发现
+## 敏感信息挖掘
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
 - https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响

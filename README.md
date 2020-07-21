@@ -131,7 +131,7 @@
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 ### 合规安全
-### 系统检查基线配置
+### 系统检查基线
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
@@ -195,7 +195,7 @@
 - https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
 - https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
 - https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
-## 攻防技术资源学习
+## 攻防资源学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io //MITRE | ATT&CK-CN 中文站;G:/lengjibo/ATT-CK-CN //attck实操实验记录;W:vulhub.org.cn/attack //清华林妙倩 att ck汉化;G:/NomadCN112/Chinese-translation-ATT-CK-framework;--
 - https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程
@@ -482,21 +482,5 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_AppSecurity/    //移动端APP，应用代码审计。myWiki。
 # 拓展插件相关工具
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_ToolDevelop.md/    //kali/nmap/burpsuite/Nessus/awvs/sqlmap/metasploit/cobaltstrike/empire/菜刀/ 插件。mywiki
-# 导航站
-## 信息流
-- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
-- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
-## 收藏夹
-- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
-- https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
-- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
-- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;W:vipread.com //文档电子书;--
-- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
-- https://github.com/k4m4/movies-for-hackers    //安全相关电影
-- https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
-- https://www.52pojie.cn/    //吾爱破解逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;W:malwareanalysis.cn;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;--
-- https://www.lshack.cn    //工控安全入门
-
 <br>
 TheEnd
