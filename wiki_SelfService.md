@@ -71,7 +71,7 @@
 - https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
 - http://mrdoc.zmister.com/    //Py。基于Django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
-- https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown。
+- https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭开源Wiki系统，支持markdown。
 ### Blog管理
 - https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
 - https://github.com/b3log/pipe    //Go。多用户博客平台。
@@ -182,7 +182,6 @@
 - http://wenku.baiduvvv.com/doc/    //文库下载
 - http://www.pptbz.com    //ppt下载
 - http://www.1ppt.com/    //无登录免费ppt下载
-- http://vipread.com/    //信息安全知识库
 ### 软件资源下载
 - http://www.carrotchou.blog/    //胡萝卜周
 - https://www.ghpym.com/    //果核剥壳
@@ -197,7 +196,6 @@
 - http://down.chinaz.com    //除了源码还有各种工具
 - http://down.admin5.com/    //A5网站源码下载
 - https://www.xd0.com    //xiaodao.la
-- http://vipread.com    //资料站
 - https://bbs.125.la/forum-98-1.html    //易语言源码。外包
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
