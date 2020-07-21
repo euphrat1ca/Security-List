@@ -7,17 +7,6 @@
 - https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
 - https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
 - https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
-## 漏洞信息预警
-- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
-- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库
-- https://www.us-cert.gov/ics/advisories    //美国工控漏洞库
-- http://ivd.winicssec.com/    //威努特工控漏洞库
-- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
-- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
-- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
-- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
-- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
-- http://www.exphub.org/    //chamd5工控漏洞预警
 ### 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场

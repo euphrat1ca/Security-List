@@ -33,28 +33,25 @@
 - https://www.fakenamegenerator.com/    //多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    //Py。随机身份生成脚本
 - https://xbeginagain.github.io/generator/    //编号生成器，身份证、营业执照、组织机构代码、统一社会信用代码、手机号、银行卡账号
-### FreeConnect
+### FreeConnect邮箱
 - http://bccto.me    //一次性邮箱
-- https://www.guerrillamail.com    //一次性邮箱shark
+- https://www.guerrillamail.com    //临时邮箱，shark
 - http://24mail.chacuo.net/    //一次性邮箱
 - http://www.yopmail.com    //一次性邮箱
 - https://yandex.com/    //免费邮箱
 - https://mail.ru/    //免费邮箱
-- https://mail.tutanota.com    //免费邮箱
-- https://github.com/tutao/tutanota    //JS。tutanota邮件服务的客户端，支持加密验证
+- https://mail.tutanota.com    //免费邮箱。G:/tutao/tutanota;--
 - https://mail.protonmail.com    //免费邮箱
-- https://www.zoho.com/  美国公司免费企业邮箱
-- https://sms.cngrok.com/receiving-sms    //收码接码
-- https://www.pdflibr.com/    //收码接码
+- https://www.zoho.com/    //美国公司免费企业邮箱
 - https://github.com/anonaddy/anonaddy    //php。邮件匿名转发，白名单过滤
-### 国内手机号短信验证码平台
+### 国内手机接码平台
 - https://sms.cngrok.com/receiving-sms/    //短信码上到-掠影网络，国内临时接码的
 - https://www.becmd.com/    //免费接码 - 免费短信验证码接收平台
 - https://www.pdflibr.com/    //云短信 - 在线短信接收 中国,美国,菲律宾
 - https://yunduanxin.net/    //免费接短信,在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
 - http://www.shejiinn.com/    //免费接码|短信验证码|在线接收短信|接码平台 - 中国,缅甸,美国
 - http://z-sms.com/    //Z-SMS - 中国,美国,缅甸,爱沙尼亚
-### 国外手机号短信验证码平台
+### 国外手机接码平台
 - http://hs3x.com/    //Receive SMS Online For Free - Free Virtual Numbers，-美国,英国,奥地利,瑞典,比利时
 - http://receivefreesms.com/    //Receive FREE SMS online，美国,英国,挪威,瑞典,荷兰,澳大利亚,匈牙利,立陶宛,香港等
 - http://receivefreesms.net/    //Receive-SMS-Now - 美国,加拿大,西班牙
@@ -80,5 +77,5 @@
 - https://www.receive-sms-online.info/    //Receive SMS Online for FREE    //英国,罗马尼亚,美国,西班牙,法国,德国,俄罗斯
 - https://www.receivesmsonline.net/    //RECEIVE SMS ONLINE - 美国,加拿大,英国
 - https://www.textnow.com/    //TextNow - 美国
-- https://www.twilio.com/    //Twilio - 用于SMS，语音，视频和身份验证的通信API。支持API调用，看上去很不错。
+- https://www.twilio.com/    //Twilio - 用于SMS，语音，视频和身份验证的通信API,支持API调用。
 - https://zh.mytrashmobile.com/    //MyTrashmobile - 美国,英国,加拿大

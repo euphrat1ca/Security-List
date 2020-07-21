@@ -15,6 +15,34 @@
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
+## 事件信息源
+- https://www.wired.com/    //安全新闻。ICS/Industrial Control Systems。
+- https://feeds.feedburner.com/securityweek    //安全新闻
+- https://feeds.feedburner.com/TheHackersNews    //安全新闻
+- https://www.zdnet.com/rssfeeds/    //安全新闻
+- https://us-cert.cisa.gov/ncas/alerts    //网络攻击事件预警。RSS:/ncas/alerts.xml;--
+### 工业安全事件
+- https://www.securityweek.com/scada-ics    //工业安全新闻
+- https://securityaffairs.co/wordpress/category/ics-scada    //工业安全新闻。W:twitter.com/securityaffairs;--
+- https://cyberx-labs.com/blog/apts-malware-vulns/    //工业安全事件
+- https://www.dragos.com/resources/?_block_resources_resource_type_filter=podcast    //德拉戈斯安全公司ICS资源。P:whitepaper;--
+### 物联网安全事件源
+- https://www.securityweek.com/iot-security    //物联网安全
+### 信息文件库
+- https://www.techrepublic.com/    //网络安全白皮书
+- http://www.vipread.com/    //信息安全知识库
+### 漏洞信息预警
+- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
+- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库。
+- https://us-cert.cisa.gov/ics/alerts    //美国工业漏洞预警。RSS:/ics/alerts/alerts.xml;P:/ics/advisories;--
+- https://us-cert.cisa.gov/ncas/bulletins    //美国漏洞总结报告
+- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
+- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
+- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
+- http://ivd.winicssec.com/    //威努特工控漏洞库
+- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
+- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
+- http://www.exphub.org/    //chamd5工控漏洞预警
 ## 信息导航站
 ### 信息流
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
@@ -22,7 +50,7 @@
 ### 收藏夹
 - https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
-- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;W:vipread.com //文档电子书;--
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;--
 - https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
 - https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
 - https://github.com/k4m4/movies-for-hackers    //安全相关电影
