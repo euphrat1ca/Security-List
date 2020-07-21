@@ -67,33 +67,36 @@
 ### 分身登录
 - http://www.vuln.cn/tools/ftp    //匿名FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
-### 社区管理
-- https://github.com/gogs/gogs   //Go。Git 服务器一键启动。
-- https://gitea.io/zh-cn/    //GO。私有git服务一键启动。G:/go-gitea/gitea;--
-- http://ohshitgit.com/    //Intro。git操作手册
+## WIKI平台
+- https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
+- http://mrdoc.zmister.com/    //Py。基于Django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭二次开发开源的Wiki系统，支持markdown。
-- https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
+### Blog管理
 - https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
 - https://github.com/b3log/pipe    //Go。多用户博客平台。
 - https://github.com/b3log/solo    //Java。个人博客。
-- http://mrdoc.zmister.com/    //Py。给予django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
-### 项目管理
-- https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:/lxerxa/actionview;Gitee:actionview;--
-- https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
-- https://www.notion.so/    //项目管理。mybase;--
+### 工单管理
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
 - https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理。
 - https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统。
+### API管理
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
+### 项目管理
+- https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:/lxerxa/actionview;Gitee:actionview;--
+- https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
+- https://github.com/gogs/gogs   //Go。Git 服务器一键启动。
+- https://gitea.io/zh-cn/    //GO。私有git服务一键启动。G:/go-gitea/gitea;--
+- http://ohshitgit.com/    //Intro。git操作手册。
+- https://www.notion.so/    //项目管理。mybase;--
 ### 项目同步
-- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee //商业;P:/goodsync //商业版;--
-- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
-- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 - https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
 - https://github.com/amefs/FreeNAS-Doc-Chs    //FreeNAS（网络附加存储）
+- https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
+- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee //商业;P:/goodsync //商业版;--
+- https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
 ### 云盘存储
 - https://send.firefox.com/    //火狐网盘传输。G:/mozilla/send;--
 - https://cowtransfer.com/    //奶牛快传。W:wenshushu.cn/;W:anonfile.com/;W:upload.ee/;W:ssavr.com;--
