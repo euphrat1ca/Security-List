@@ -123,14 +123,15 @@
 - https://github.com/73696e65/windows-exploits    //
 ## 安全运维
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
-- https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
-- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
-- https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
-- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 ### 合规安全
+### 运维手册
+- https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
+- https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
+- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 ### 系统检查基线
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
@@ -141,6 +142,16 @@
 - https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
+### 安全测试速查表
+- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
+- https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
+- https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
+- https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
+- https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
+- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
+- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
 ### 安全测试checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
@@ -164,16 +175,6 @@
 - https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
 - https://github.com/foryujian/ipintervalmerge    //IP合并区间
-### 安全测试速查表
-- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
-- https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
-- https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
-- https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
-- https://www.octority.com/pepenote/    //10w行渗透测试技巧
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
-- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
-- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
 ## 区块链安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
