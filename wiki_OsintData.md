@@ -21,12 +21,13 @@
 - https://feeds.feedburner.com/TheHackersNews    //安全新闻
 - https://www.zdnet.com/rssfeeds/    //安全新闻
 - https://us-cert.cisa.gov/ncas/alerts    //网络攻击事件预警。RSS:/ncas/alerts.xml;--
-### 工业安全事件
+### 工业事件源
+- https://roboticsandautomationnews.com/    //工业媒体Robotics&Automation
 - https://www.securityweek.com/scada-ics    //工业安全新闻
 - https://securityaffairs.co/wordpress/category/ics-scada    //工业安全新闻。W:twitter.com/securityaffairs;--
 - https://cyberx-labs.com/blog/apts-malware-vulns/    //工业安全事件
 - https://www.dragos.com/resources/?_block_resources_resource_type_filter=podcast    //德拉戈斯安全公司ICS资源。P:whitepaper;--
-### 物联网安全事件源
+### 物联网事件源
 - https://www.securityweek.com/iot-security    //物联网安全
 ### 信息文件库
 - https://www.techrepublic.com/    //网络安全白皮书
@@ -198,7 +199,8 @@
 - http://demo.zeeroq.com/email/    //邮箱密码泄露
 ## Web信息搜集
 ### Web信息搜集网站
-- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。W:shodan.io;W:zoomeye.org;W:fofa.so/;W:censys.io/;W:oshadan.com;--
+- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。
+- https://www.shodan.io/    //空间测绘。W:zoomeye.org;W:fofa.so/;G:/tangxiaofeng7/Fofa-collect;W:censys.io/;W:oshadan.com;--
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;-

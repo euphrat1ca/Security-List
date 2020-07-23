@@ -128,20 +128,20 @@
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 ### 合规安全
 ### 运维手册
+- https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 ### 系统检查基线
 - https://www.open-scap.org/    //安全基线评估工具集
-- https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
+- https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
 - https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
-- https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 ### 安全测试速查表
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
 - https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
