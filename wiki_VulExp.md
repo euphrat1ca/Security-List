@@ -119,6 +119,7 @@
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3。
 - https://github.com/jiansiting/ripple20-poc    //CVE-2020-11896 Treck TCP/IP协议漏洞库ICMP包探测。
+- https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit    //qnap Nas平台  Pre-Auth Root RCE
 ### 文本编辑器漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行
@@ -336,7 +337,7 @@
 - https://github.com/uknowsec/SweetPotato    //C#。烂土豆SweetPotato修改版，用于webshell下执行命令。
 - https://github.com/itm4n/PrintSpoofer    //C#。pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。
 - https://github.com/alpha1ab/CVE-2018-8120    //win32k.sys组件的NtUserSetImeInfoEx()系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
-- https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato;G:/foxglovesec/RottenPotato;--
+- https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
 - https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
 - https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
