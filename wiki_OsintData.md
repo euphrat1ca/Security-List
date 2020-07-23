@@ -17,8 +17,7 @@
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ## 事件信息源
 - https://www.wired.com/    //安全新闻。ICS/Industrial Control Systems。
-- https://feeds.feedburner.com/securityweek    //安全新闻
-- https://feeds.feedburner.com/TheHackersNews    //安全新闻
+- https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
 - https://www.zdnet.com/rssfeeds/    //安全新闻
 - https://us-cert.cisa.gov/ncas/alerts    //网络攻击事件预警。RSS:/ncas/alerts.xml;--
 ### 工业事件源
