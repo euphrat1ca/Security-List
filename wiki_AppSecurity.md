@@ -3,6 +3,8 @@
 - https://github.com/crifan/android_app_security_crack    //电子书：安卓应用的安全和破解。goodjob。
 - https://github.com/Brucetg/App_Security    //App安全学习资源
 - https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet    //移动安全测试条例
+### 移动端虚拟定位
+- https://github.com/Lerist/FakeLocation    //安卓虚拟定位
 ### 移动测试框架
 - https://github.com/OWASP/owasp-mstg    OWASP Mobile Security Testing Guide移动安全测试资源
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    //软件自动化审计框架，支持docker运行。android、ios、win

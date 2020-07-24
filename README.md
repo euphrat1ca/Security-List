@@ -41,6 +41,7 @@
 ### 红队基础设施自动化部署建设
 - https://github.com/QAX-A-Team/LuWu    //Bash。红队基础设施自动化部署工具
 - 公众号：红队攻防全流程解析    //
+- https://github.com/chryzsh/DarthSidious    //从0开始你的域渗透之旅。渗透测试域环境搭建。G:/crazywa1ker/DarthSidious-Chinese;--
 ### 安全实验室中心建设
 - https://www.freebuf.com/articles/es/211571.html    //安全实验室的发展及展望
 - 公众号：开篇|猪八戒安全建设漫谈 安全体系建设分享01期|目标、团队、考核    //
@@ -77,8 +78,7 @@
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行架构.主机、扫描器、端口、日志、防护设备等安全建设。goodjob。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
-- https://github.com/chryzsh/DarthSidious    //从0开始你的域渗透之旅，包括搭建到渗透测试域环境。G:/crazywa1ker/DarthSidious-Chinese;
-- https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple
+- https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
 ## 安全基础科普培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
@@ -175,6 +175,11 @@
 - https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
 - https://github.com/foryujian/ipintervalmerge    //IP合并区间
+## IPv6安全相关
+- https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
+- https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
+- https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
+- https://github.com/christophetd/IPv6teal    //Py。利用ipv6隐蔽隧道传输数据
 ## 区块链安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具

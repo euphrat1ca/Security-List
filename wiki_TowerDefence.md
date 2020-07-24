@@ -124,15 +124,12 @@
 - http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
-## 网络流量分析
+## 流量协议操作
 - https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //公众号：攻守道—流量分析的刀光剑影。wireshark操作指令。
-- http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
-- https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
 - https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
 - https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量。
-- https://github.com/aol/moloch    //大规模流量包捕获分析系统，capture/viewer/elasticsearch。
 ### 流量嗅探镜像
 - http://www.tcpdump.org    //网络数据包截获分析
 - https://www.elifulkerson.com/projects/rawsniff.php    //Windows下流量镜像工具。W:netresec.com/?page=RawCap;--
@@ -141,10 +138,13 @@
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer,pcap捕获和重放工具
-### 网络流量协议解析
+### 流量协议解析
+- http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
+- https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原。可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动流量，指纹识别TCP/http
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。
-- https://github.com/brimsec/brim    //JS。结构化日志查询引擎zq，用于多平台用户界面的Electron和React，以及从数据包捕获文件生成网络分析数据的Zeek，结合ws进行流量审计。
+- https://github.com/aol/moloch    //大规模流量包捕获分析系统，capture/viewer/elasticsearch。
+- https://github.com/brimsec/brim    //JS。大型pcap流量包分析工具，可转换为zeek专有格式，结合wireshark对流量进行分析。
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
 - https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
