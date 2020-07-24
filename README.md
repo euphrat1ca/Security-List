@@ -249,7 +249,7 @@
 - https://github.com/fireeye/commando-vm    //FireEye开源Commando VM，专为红队（pen-testing）定制的Windows。W:blackwin.ir //win-kali系统类;--
 ## Windows利用工具集合
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
-- https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题。
+- https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
