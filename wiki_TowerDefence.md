@@ -31,36 +31,36 @@
 - https://bitsum.com/    //系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可用来监视进程动作。
 - https://www.crystalidea.com/uninstall-tool    //Windows卸载，软件安装跟踪。P:/CCleaner;--
 - http://emptyloop.com/unlocker/    //右键扩充工具，通过删除文件和程序关联的方式解除文件的占用，在解除占用时不会强制关闭占用文件进程。
-### 系统进程监控
-- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。P:/火绒剑系统管理;--
-- https://github.com/mohuihui/antispy    //C,C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态钩子.
-- https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能，sysdig.com。goodjob,6k。
-- https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。‘osquery.io’。14k。
-- https://github.com/kkamagui/shadow-box-for-arm    //C,Py。ARM架构Linux系统监控，*shadow-box-for-x86*架构系统监控。
-- https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
-- https://github.com/processhacker/processhacker    //C。Process hacker 监控系统资源、内存以及模块信息、软件调试，管理进程
-- https://github.com/DominicBreuker/pspy    //Go。Linux非root权限，系统进程命令运行监控.GOODJOB.
-- https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
-- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
 ### 系统文件监控
 - https://www.zynamics.com/software.html    //BinDiff发现反汇编代码中的差异和相似之处。支持x86、MIPS、ARM/AArch64、PowerPC等架构进行二进制文件对比
 - http://www.beyondcompare.cc/xiazai.html    //Beyond Compare是Scooter Software推出的文件比较工具。主要用于比较两个文件夹或者文件并将差异以颜色标记，比较的范围包括目录，文档内容等
 - https://github.com/target/strelka    //Py3。文件变化实时监控。
 ### 系统注册表管理
 - https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处。
+### 系统进程监控
+- http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。P:/火绒剑系统管理;--
+- https://github.com/mohuihui/antispy    //C,C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态钩子.
+- https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能。goodjob,6k。W:sysdig.com;--
+- https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。‘osquery.io’。14k。
+- https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
+- https://github.com/processhacker/processhacker    //C。Process hacker 监控系统资源、内存以及模块信息、软件调试，管理进程
+- https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
+- https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
+- https://github.com/kkamagui/shadow-box-for-arm    //C,Py。ARM架构Linux系统监控，*shadow-box-for-x86*架构系统监控。
+- https://github.com/DominicBreuker/pspy    //Go。Linux下可使用非root权限，对系统进程命令运行监控。GoodJob。
 ## 入侵感知防护
 - http://m.imooc.com/article/21236    //快速自检电脑是否被黑客入侵过(Windows版)
 - http://www.freebuf.com/articles/system/157597.html    //快速自检电脑是否被黑客入侵过（Linux版）
 - http://www.freebuf.com/rookie/179638.html    //服务器入侵溯源小技巧整理
 - https://bithack.io/forum/161    //Intro。如何通过一封恶意邮件追踪幕后黑客组织。邮件掉鱼、溯源、攻击者落地
-### 主机EDR监控
+### EDR主机监控
 - https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //IAST交互式漏洞挖掘扫描;--
 - http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息，在进行恶意域名检测时有事半功倍的效果。
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
-- https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。YSRC开源。
+- https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 - https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。douyu开源。
-### 主机EDR监测
+### EDR主机监测
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 - https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
 - https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。

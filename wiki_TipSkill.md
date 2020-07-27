@@ -7,6 +7,7 @@
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
 ### 量化交易
+- https://www.fmz.com/    //发明者量化交易平台
 - http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
 ## 编程相关
 ### 编程调试

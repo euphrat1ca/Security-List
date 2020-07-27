@@ -108,7 +108,7 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
 - https://github.com/0xsauby/yasuo    //Ruby。扫描主机第三方web应用服务漏洞。G:/yangbh/Hammer;G:/viraintel/OWASP-Nettacker;G:/flipkart-incubator/watchdog;G:/m4ll0k/Galileo;G:/samhaxr/hackbox;G:/m4ll0k/WAScan;G:/jiangsir404/S7scan;G:/hatRiot/clusterd;G:/tulpar/tulpar;G:/UltimateHackers/Striker //绕过Cloudflare
 - https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用。
 ## 前端利用
-- https://github.com/ticarpi/jwt_tool    //Py。json web token的检测
+- https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 - https://github.com/chenjj/CORScanner    //Py。CORS域配置错误，跨域解析漏洞扫描器。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
