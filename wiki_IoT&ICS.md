@@ -99,7 +99,7 @@
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
 - https://github.com/digitalbond/Redpoint    //perl。ICS识别nse脚本。G:/jpalanco/nmap-scada;--
-- https://github.com/hi-KK/ICS-Protocol-identify    //工控协议pcap流量。
+- https://github.com/hi-KK/ICS-Protocol-identify    //工控协议pcap流量。G:/automayt/ICS-pcap;G:/jsiwek/capsan;G:/gymgit/s7-pcaps;--
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器。
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
 ### ICS入侵检测
