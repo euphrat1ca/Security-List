@@ -17,20 +17,21 @@
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ## 事件信息源
 - 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
+- 物联网关键词：IOT/Car Can/Drone
 - https://thehackernews.com/    //安全新闻源
 - https://www.wired.com/    //网络新闻源。
 - https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
 - https://www.zdnet.com/rssfeeds/    //安全新闻
 ### 工业事件源
-- https://us-cert.cisa.gov/ics/alerts    //工业漏洞预警
 - https://roboticsandautomationnews.com/    //工业新闻媒体 Robotics&Automation
+- https://us-cert.cisa.gov/ics/alerts    //工业漏洞预警
 - https://www.securityweek.com/scada-ics    //工业安全新闻
 - https://securityaffairs.co/wordpress/category/ics-scada    //工业安全新闻。W:twitter.com/securityaffairs;--
 #### 安全公司新闻源
 - https://www.fireeye.com/blog.html    //火眼
 - https://news.sophos.com/en-us/    //防火墙、EDR厂家
 - https://cyberx-labs.com/blog/apts-malware-vulns/    //工业安全事件
-- https://www.dragos.com/resources/?_block_resources_resource_type_filter=podcast    //德拉戈斯安全公司ICS资源。P:whitepaper;--
+- https://www.dragos.com/events/    //德拉戈斯安全公司ICS资源。P:whitepaper;--
 ### 物联网事件源
 - https://www.securityweek.com/iot-security    //物联网安全
 ### 信息文件库

@@ -94,11 +94,12 @@
 - https://www.freebuf.com/articles/ics-articles/231701.html    //西门子S7系列中间人攻击：流量劫持和转发（一）
 - https://www.freebuf.com/articles/ics-articles/233160.html    //西门子S7系列中间人攻击：PLC探测和流量分析（二）
 - https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340
-### ICS资产探测
+### ICS资产识别
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
-- https://github.com/digitalbond/Redpoint    //perl。ICS识别所用nse脚本。G:/hi-KK/ICS-Protocol-identify;--
+- https://github.com/digitalbond/Redpoint    //perl。ICS识别nse脚本。G:/jpalanco/nmap-scada;--
+- https://github.com/hi-KK/ICS-Protocol-identify    //工控协议pcap流量。
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器。
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
 ### ICS入侵检测
