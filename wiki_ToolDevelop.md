@@ -10,6 +10,8 @@
 - https://github.com/bit4woo/knife    //burp增强右键菜单
 ### burp协议分析
 - https://github.com/lyxhh/lxhToolHTTPDecrypt/    //Js。Android/iOS协议分析利用
+- https://github.com/mr-m0nst3r/Burpy    //Web端JS加密算法调试解密
+- https://github.com/c0ny1/jsEncrypter    //Web前端加密Fuzz插件
 ### burp绕过
 - https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问

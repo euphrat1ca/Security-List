@@ -162,27 +162,23 @@
 - https://github.com/jas502n/CVE-2020-8193    //Citrix云服务平台任意文件读取漏洞。
 - https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    //CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;
 ## Web漏洞利用CMS工具
-- https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合
-- https://github.com/Mr5m1th/0day    //各种开源CMS 各种版本的漏洞以及EXP
-- https://github.com/w1109790800/penetration    //CMS新老版本exp与系统漏洞搜集表
-- https://github.com/anx1ang/Poc_Pentest    //web_cms_exp
-- https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架
-- https://github.com/chuhades/CMS-Exploit-Framework    //CMS攻击框架
-- https://github.com/Moham3dRiahi/XAttacker    //Web CMS Exploit 工具，包含针对主流 CMS 的 66 个不同的 Exploits。welljob。
-- https://github.com/Tuhinshubhra/CMSeeK    //Py。WordPress,JOOMLA,DRUPAL等170余种CMS扫描识别检测。welljob。
-- https://github.com/Dionach/CMSmap    //支持WordPress，Joomla和Drupal扫描.NoUpdate。welljob。
-- https://github.com/ajinabraham/NodeJsScan    //Py。NodeJS应用安全测试审计，查询可利用接口，WebUI。
-- https://github.com/blackye/Jenkins    //Jenkins漏洞探测、用户抓取爆破
+- https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
+- https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架。G:/chuhades/CMS-Exploit-Framework;--
+- https://github.com/Tuhinshubhra/CMSeeK    //Py。WordPress,Joomla,Drupal等170余种CMS扫描识别检测。welljob。G:/Dionach/CMSmap;--
+- https://github.com/blackye/Jenkins    //Jenkins系统监控框架漏洞探测、用户抓取爆破。
+- https://github.com/orangetw/awesome-jenkins-rce-2019    //jenkins漏洞库，CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029。
+- https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行。
 - https://github.com/irsdl/IIS-ShortName-Scanner    //Java。IIS短文件名暴力枚举漏洞利用工具
 - https://github.com/lijiejie/IIS_shortname_Scanner    //Py3。IIS短文件名漏洞扫描
+- https://github.com/ajinabraham/NodeJsScan    //Py。NodeJS应用Web安全测试，查询可利用接口，WebUI。
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
-- https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit。
-- https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:/jas502n/fastjson-RCE;G:/iSafeBlue/fastjson-autotype-bypass-demo;--
-- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:/fastjson-1.2.47-RCE;--
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
+### Web组件漏洞
+- https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:/jas502n/fastjson-RCE;G:/iSafeBlue/fastjson-autotype-bypass-demo;--
+- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:/fastjson-1.2.47-RCE;--
 ### thinkphp漏洞
 - https://github.com/theLSA/tp5-getshell    //Py2。thinkphp5 rce漏洞检测工具。
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合。
@@ -253,7 +249,7 @@
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
 - https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。G:/wyzxxz/shiro_rce;--
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
-- https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）一键化检测，配合dnslog记录。G:/nsightglacier/Shiro_exploit;--
+- https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 ### Nginx相关漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
@@ -334,7 +330,7 @@
 - https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
 - https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
 - https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
-- https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;
+- https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;--
 - https://github.com/alpha1ab/CVE-2018-8120    //‘win32k.sys’组件的‘NtUserSetImeInfoEx()’系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
 - https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。

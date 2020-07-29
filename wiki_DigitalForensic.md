@@ -14,6 +14,7 @@
 - http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
 - http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
 - https://github.com/GuidoBartoli/sherloq    //C++。数字图片取证
+- https://github.com/ElevenPaths/FOCA    //文档中查找元数据和隐藏信息
 ## 计算机设备取证
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
 - https://github.com/decalage2/oletools    //Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档

@@ -86,10 +86,10 @@
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
 - https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:/starjun/openstar;Github:/xsec-lab/x-waf;Github:/loveshell/ngx_lua_waf;Github:/starjun/openstar;--
-- https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机，Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块，。G:/C4o/LogFarmer;G:/C4o/IUS;--
+- https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机的Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块。G:/C4o/LogFarmer;G:/C4o/IUS;--
+- https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
 - https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //WAF负载均衡;--
 - https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
-- https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
 - https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 - https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
 ### 无线网络入侵检测

@@ -20,6 +20,7 @@
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 ### 网页快照
 - https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
+- https://github.com/kingbase/wechat_history_export    //Js。微信公众历史文章保存为PDF、Mhtml。
 - https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 - http://web.archive.org    //网站时光机
 - https://2tool.top/    //域名前面加上his.sh，网页快照

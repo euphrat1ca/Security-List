@@ -12,7 +12,7 @@
 ## 横向移动
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
-- https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
+- https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。G:/wanglaizi/ByPass_MIMIkatz;--
 - https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
 - https://github.com/klsecservices/bat-armor    //Py。bat文件混淆版mimikatz
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp多方法利用，远程启动shell，清除痕迹。
@@ -100,9 +100,9 @@
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
 - https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:/creaktive/tsh //Tiny SHell;--
 ### 移动端远程协助
-- https://spynote.us    //商业版。
+- https://spynote.us    //商业版。G:/hamzaharoon1314/SpyNote;--
 - http://droidjack.net/    //商业版。
-- https://github.com/AhMyth/AhMyth-Android-RAT    //Smali.Android平台一对多带界面。goodjob。
+- https://github.com/AhMyth/AhMyth-Android-RAT    //Smali。Android平台一对多带界面。goodjob。
 - https://github.com/The404Hacking/AndroRAT    //Java。Android平台一对多带界面。
 - https://github.com/home-assistant/home-assistant    //Py。物联网管理集群控制平台
 ### 僵木蠕远程协助
@@ -241,6 +241,7 @@
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
 - https://github.com/secretsquirrel/SigThief    //Py。用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
 - https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
+- https://github.com/netbiosX/Digital-Signature-Hijack    //通过劫持注册表，利用SIP DLL文件对执行文件进行数字签名。G:/mattifestation/PoCSubjectInterfacePackage //'MySIP.dll';--
 ### 权限维持劫持注入
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--

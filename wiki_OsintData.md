@@ -156,11 +156,9 @@
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
-- https://github.com/yassineaboukir/Asnlookup    //simple。利用ASN搜索特定组织拥有ip，联动nmap、masscan进行进一步信息扫描。
-- https://github.com/super-l/superl-url    //Py。根据关键词，对搜索引擎内容检索结果的网址内容进行采集
-- https://github.com/woj-ciech/Danger-zone    //关联域名、IP 和电子邮件地址之间的数据并将其可视化输出
+- https://github.com/yassineaboukir/Asnlookup    //利用ASN搜索特定组织ip，联动nmap、masscan进行进一步信息扫描。
+- https://github.com/super-l/superl-url    //Py。利用搜索引擎对关键词进行内容采集。
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
-- https://github.com/r35tart/GetIPinfo    //Py。扫描指定IP/C段的网卡信息。
 ## 人员信息搜集
 ### 社交媒体情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
