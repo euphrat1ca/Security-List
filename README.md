@@ -95,7 +95,7 @@
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    //KCon大会文章PPT。P:/blackhat黑帽大会;--
-### 使用手册工具介绍
+### 使用手册指南
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
 - https://github.com/aleenzz/Cobalt_Strike_wiki    //Cobalt Strike系列 教程使用
 - http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/    //hydra使用手册
@@ -105,7 +105,7 @@
 - https://wizardforcel.gitbooks.io/asani/content    //浅入浅出Android安全 中文版
 - https://wizardforcel.gitbooks.io/lpad/content    //Android 渗透测试学习手册 中文版
 - https://github.com/hookmaster/frida-all-in-one/    //《FRIDA操作手册》
-### Offensive Security全家桶
+### Offensive Security指南
 - https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/    //Kali Linux Web渗透测试秘籍 中文版
 - https://www.offensive-security.com/metasploit-unleashed/    //kali出的metasploit指导笔记
 #### OSCP渗透测试
@@ -126,7 +126,6 @@
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
-### 合规安全
 ### 运维手册
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
@@ -144,7 +143,7 @@
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 ### 安全测试速查表
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
-- https://github.com/louchaooo/kali-tools-zh    //kali下工具使用手册
+- https://github.com/louchaooo/kali-tools-zh    //kali工具使用手册
 - https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
 - https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
 - https://www.octority.com/pepenote/    //10w行渗透测试技巧
@@ -248,6 +247,7 @@
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
+- https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
 ## 安全测试系统集合
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。

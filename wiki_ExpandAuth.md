@@ -167,19 +167,19 @@
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 - https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
 ### shellcode利用
-- https://github.com/wetw0rk/Sickle    //Py。多格式shellcode测试、加载、打包器。testjob。
+- https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
 - https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
-- https://www.shellterproject.com/    //shellter是一款的动态Shellcode注入工具。商业版。
+- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，GUI生成器。G:/ReddyyZ/GhostShell/;--
+- https://www.shellterproject.com/    //动态Shellcode注入工具。商业版。
+- https://github.com/wetw0rk/Sickle    //Py。shellcode调试、测试、加载、打包器。testjob。
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
+- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
+- https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
-- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
-- https://github.com/brimstone/go-shellcode    //Go。以shellcode方式加载payload到内存。G:clinicallyinane/shellcode_launcher/;--
-- https://github.com/TheWover/donut    //C。将.Net程序集生成shellcode并以内存的形式加载运行
+- https://github.com/brimstone/go-shellcode    //Go。加载shellcode到内存执行。G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，shellcode混淆，将shellcode存储在多语言图像中。
-- https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
-- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，GUI生成器。G:/ReddyyZ/GhostShell/;--
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
