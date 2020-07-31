@@ -260,6 +260,15 @@
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:/Ridter/redis-rce;G:/RicterZ/RedisModules-ExecuteCommand;--
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:/CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
+### Linux提权利用
+- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;--
+- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
+- https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
+- https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:/gbonacini/CVE-2016-5195;--
+- https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
+- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
 ## 微软MS相关漏洞
 - https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
@@ -271,11 +280,31 @@
 - https://github.com/0x7556/txtdoor    //Windows漏洞，隐藏20年的txt后门。
 - https://github.com/gentilkiwi/kekeo    //C。Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:/mubix/pykek;G:/goldenPac.py;--
 - https://github.com/padovah4ck/CVE-2020-0683    //C++。利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
-### 微软直接RCE/LPE
+### Windows命令执行RCE
 - https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:/ollypwn/SMBGhost;G:/jiansiting/CVE-2020-0796;G:/chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:/coolboy4me/cve-2019-0708_bluekeep_rce //增加xp/03;G:/MS08-067;--
 - https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17-010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
 - https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
+### Windows提权利用LPE
+- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
+- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
+- https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
+- https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
+- https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
+- https://windows-internals.com/printdemon-cve-2020-1048/    //利用打印机服务进行本地欺骗提权。G:/ionescu007/PrintDemon;--
+- https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
+- https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
+- https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
+- https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;--
+- https://github.com/alpha1ab/CVE-2018-8120    //‘win32k.sys’组件的‘NtUserSetImeInfoEx()’系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
+- https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
+- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
+- https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
+- https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
+- https://github.com/euphrat1ca/ms15-051    //C++。Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
+- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058。
+- https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
+- https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
 ### Exchange漏洞利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
 - https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
@@ -290,7 +319,7 @@
 - https://github.com/dirkjanm/PrivExchange    //Py。基于impacket，利用exchange提升system权限。CVE-2019-1040 Abusing Exchange: One API call away from Domain。
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    //INTRO。CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    //Py。基于低权限账号进行ysoserial-远程代码执行。G:/Jumbo-WJB/CVE-2020-0688;G:/random-robbie/cve-2020-0688;--
-### Office漏洞利用
+### Office文档漏洞
 - https://github.com/SecWiki/office-exploits    //office-exploits Office漏洞集合。
 - https://github.com/Ridter/RTF_11882_0802    //Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
 - https://github.com/Ridter/CVE-2017-11882    //利用word文档RTF获取shell，evi1cg.me/archives/CVE_2017_11882_exp.html。
@@ -310,33 +339,3 @@
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py    //Py。配合responder利用word文档窃取ntlm哈希
 - https://github.com/deepzec/Bad-Pdf    //Py。配合responder利用恶意pdf窃取ntlm哈希
-## 提权漏洞利用
-- https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
-### Linux提权利用
-- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;--
-- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
-- https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
-- https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:/gbonacini/CVE-2016-5195;--
-- https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
-- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
-### Windows提权利用
-- https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
-- https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
-- https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
-- https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
-- https://windows-internals.com/printdemon-cve-2020-1048/    //利用打印机服务进行本地欺骗提权。G:/ionescu007/PrintDemon;--
-- https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
-- https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
-- https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
-- https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;--
-- https://github.com/alpha1ab/CVE-2018-8120    //‘win32k.sys’组件的‘NtUserSetImeInfoEx()’系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
-- https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
-- https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
-- https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
-- https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
-- https://github.com/euphrat1ca/ms15-051    //C++。Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
-- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058。
-- https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
-- https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
