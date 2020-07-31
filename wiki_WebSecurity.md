@@ -71,7 +71,7 @@
 - https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
 - https://github.com/chaitin/xray    //Go。洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版。
 - https://github.com/ox01024/Xray_and_crwlergo_in_server    //Py。利用“xray”被动扫描与“0Kee-Team/crawlergo”爬虫，微信server酱联动,相同还可以使用awvs爬虫功能等。
-G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;--
+G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;G:/piaolin/fofa2Xray;--
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器,存储数据为mongodb。
 - https://github.com/cloudtracer/paskto    //js.基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
