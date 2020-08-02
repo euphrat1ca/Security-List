@@ -89,7 +89,7 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;G:/piaolin/fofa2Xray;--
 - https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ## web模糊测试
-- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。
+- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。G:/ffuf/ffuf;--
 - https://github.com/1N3/BlackWidow    //Py。利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试。
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 ## web应用扫描器框架

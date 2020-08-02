@@ -280,7 +280,7 @@
 - https://github.com/FlameOfIgnis/Pwdb-Public/    //多语言恶意软件常用密码分析。goodjob。
 - https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
 - https://github.com/tarraschk/richelieu    //.fr邮箱密码表
-- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:/xmendez/wfuzz/tree/master/wordlist;G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;--
+- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;--
 - https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:/7dog7/bottleneckOsmosis;G:/Ridter/Pentest;G:/alpha1e0/pentestdb;--
 - https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
