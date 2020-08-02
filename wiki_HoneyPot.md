@@ -39,7 +39,7 @@
 ### 虚拟化沙盒
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统，恶意样本分析沙盒检测。
 - https://github.com/euphrat1ca/Panda-Sandbox    //Py。钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件检测
-- https://www.sandboxie.com/DownloadSandboxie    //基于转换存储的沙盒。代码社区开源。
+- https://github.com/sandboxie/sandboxie    //采用转换存储的隔离空间。Wilders社区，代码开源。goodjob。
 - https://github.com/felicitychou/MalAnalyzer    //Py3。基于docker虚拟化的恶意代码沙箱
 ## 蜜罐服务
 - https://github.com/phage-nz/malware-hunting    //Py。利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
