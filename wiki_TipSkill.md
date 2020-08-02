@@ -22,7 +22,7 @@
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
 ### 编辑器IDE
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
-- https://github.com/ricklamers/gridstudio    //PY/JS。类 Jupyter Notebooks，结合excel与python，进行表格数据可视化展示。1k。goodjob。
+- https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。1k。goodjob。
 - https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器
 - https://github.com/s4n7h0/Halcyon/    //Java。 IDE for Nmap Script NSE编辑器
 ### golang开发
@@ -76,9 +76,10 @@
 ### 深度学习
 - https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
-### 图数据库
-- https://neo4j.com/    //Nosql数据库，数据关联性。
+### 数据图像可视化
+- https://neo4j.com/    //Nosql图数据库，数据关联性。
 - https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
+- https://github.com/pyqtgraph/pyqtgraph    //Python数据曲线可视化功能库
 ### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎

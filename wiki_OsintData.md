@@ -129,7 +129,7 @@
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
 ## 情报人员开源工具
 ### 事实检测
-- https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
+- https://hoaxy.iuni.iu.edu/faq.html    //在线数据可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
 - https://www.politifact.com/    //新闻事实检查，使用评级量表对记者，政治人物和其他人的言论进行可信度评级
 - https://www.factcheck.org/scicheck/    //评估对公共政策有影响的虚假和误导性科学主张的可信度
@@ -261,7 +261,7 @@
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
 - https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
-- https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
+- https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 - https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等

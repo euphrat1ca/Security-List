@@ -312,7 +312,7 @@
 - https://github.com/MSG-maniac/mail_fishing    //PHP。基于thinkphp的甲方邮件钓鱼系统
 - https://github.com/samyoyo/weeman    //钓鱼的http服务器
 - https://github.com/Raikia/FiercePhish    //可以管理所有钓鱼攻击的完整钓鱼框架，允许你跟踪单独的网络钓鱼活动，定时发送电子邮件等
-- https://github.com/securestate/king-phisher    //可视化钓鱼活动工具包
+- https://github.com/securestate/king-phisher    //可视化钓鱼活动
 - https://github.com/fireeye/ReelPhish    //实时双因素网络钓鱼工具
 - https://github.com/kgretzky/evilginx2/    //登录页面钓鱼，绕过双因素认证等
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
