@@ -76,10 +76,12 @@
 ### 深度学习
 - https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
-### 数据图像可视化
+### 图数据可视化
 - https://neo4j.com/    //Nosql图数据库，数据关联性。
 - https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
 - https://github.com/pyqtgraph/pyqtgraph    //Python数据曲线可视化功能库
+- https://cloud.tencent.com/developer/article/1051994    //62款前端数据可视化插件大盘点，图表、图谱、地图、关系图、立体图。
+- https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 ### 大数据分析框架
 - https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop数据处理引擎
 - https://github.com/baidu/bfe    //go.百度百亿流量转发引擎
