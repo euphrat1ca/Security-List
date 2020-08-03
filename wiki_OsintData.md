@@ -16,6 +16,7 @@
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ## 事件信息源
+- https://www.wilderssecurity.com/    //类t00ls国际安全论坛
 - 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
 - 物联网关键词：IOT/Car Can/Drone
 - https://thehackernews.com/    //安全新闻源
@@ -264,7 +265,8 @@
 ### 敏感文件信息
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
-- https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
+- https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中。
+- https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
 - https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具

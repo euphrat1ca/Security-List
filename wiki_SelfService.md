@@ -39,6 +39,7 @@
 - https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
 ### 数据可视化
 - https://flourish.studio/    //图表在线展示。W:finereport.com;--
+- https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
@@ -141,7 +142,7 @@
 - https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
-- DWS(Destroy-Windows-10-Spying) WPD WindowsSpyBlocker
+- DWS(Destroy-Windows-10-Spying)    //消除Windows隐私监控。W:wpd.app;G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/
@@ -168,6 +169,7 @@
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
 ### 图片素材
+- https://www.canva.cn/    //平面图设计制作
 - https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:/bigjpg.com;--
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
@@ -192,13 +194,15 @@
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器
-### 网站源码程序外包
+### 框架源码
 - http://down.chinaz.com    //除了源码还有各种工具
 - http://www.mycodes.net    //源码之家，大部分免费
 - http://down.chinaz.com    //除了源码还有各种工具
 - http://down.admin5.com/    //A5网站源码下载
 - https://www.xd0.com    //xiaodao.la
 - https://bbs.125.la/forum-98-1.html    //易语言源码。外包
+- https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
+### 开发外包
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
 - https://www.proginn.com    //程序员客栈
