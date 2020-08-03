@@ -129,7 +129,7 @@
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
 ## 情报人员开源工具
 ### 事实检测
-- https://hoaxy.iuni.iu.edu/faq.html    //在线可视化展示，文章传播途径、热度
+- https://hoaxy.iuni.iu.edu/faq.html    //在线数据可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
 - https://www.politifact.com/    //新闻事实检查，使用评级量表对记者，政治人物和其他人的言论进行可信度评级
 - https://www.factcheck.org/scicheck/    //评估对公共政策有影响的虚假和误导性科学主张的可信度
@@ -258,22 +258,26 @@
 - https://github.com/chrismaddalena/ODIN    //Py3。simple，信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
 ## 敏感信息挖掘
-- https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
-- https://github.com/boy-hack/wooyun-payload     //burpsuite插件.基于乌云漏洞信息的敏感信息发现。
-- https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
-- https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件， 查找敏感信息， 例如证书
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
+### 敏感漏洞信息
+- https://github.com/boy-hack/wooyun-payload     //burpsuite插件。基于乌云漏洞信息的敏感信息发现。
+### 敏感文件信息
+- https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
+- https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
+- https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中，可以在保证安全性的同时不会给开发者的生产力带来任何影响
 - https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 - https://github.com/lijiejie/idea_exploit    //Py。利用 IDE config folder (.idea) 进行文件下载
 - https://github.com/Graph-X/davscan    //PY,Bash。用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹
-- https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
-- https://github.com/eldraco/domain_analyzer    //Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
-- https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址
 - https://github.com/gehaxelt/ds_store    //Go。苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
 - https://github.com/admintony/svnExploit/    //Py。SVN源代码泄露全版本Dump源码
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:/shengqi158/svnhack;--
+### 敏感链接信息
+- https://github.com/lc/gau    //Go。敏感URL链接、子域挖掘。goodjob。
+- https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
+- https://github.com/eldraco/domain_analyzer    //Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
+- https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址
 ### Git安全相关
 - https://github.com/0xbug/Hawkeye    //JS,Py。GitHub 泄露监控系统。G:/Hell0W0rld0/Github-Hunter;--
 - https://github.com/neal1991/gshark    //JS/Go。github信息泄露检测。G:/FeeiCN/GSIL;G:/repoog/GitPrey;--

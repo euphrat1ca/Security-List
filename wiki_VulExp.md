@@ -221,18 +221,19 @@
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
 #### Weblogic中间件相关漏洞
-- https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具，V1.3,支持2019
+- https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
+- https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
+- https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。
+- https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020。
+- https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具，支持2019
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
 - https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;
+- https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，‘wls9_async_response’与‘wls-wsat’组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
-- https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，wls9_async_response与wls-wsat组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
-- https://github.com/hktalent/CVE-2020-2551    //py.Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
-- https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
-- https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行
 #### Struts2框架相关漏洞
 - https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
-- https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。界面。
+- https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
 #### SpringBoot框架相关漏洞
 - https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x。
@@ -269,7 +270,7 @@
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:/gbonacini/CVE-2016-5195;--
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
-## 微软MS相关漏洞
+## MS微软相关漏洞
 - https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
@@ -302,7 +303,7 @@
 - https://github.com/taviso/ctftool/    //C。利用Windows文本服务框架（TSF）下CTF文本服务协议实现权限提升、沙箱逃逸、读写输入内容等。
 - https://github.com/hausec/ADAPE-Script    //Active Directory权限提升脚本
 - https://github.com/euphrat1ca/ms15-051    //C++。Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
-- https://github.com/sam-b/CVE-2014-4113    //利用Win32k.sys内核漏洞进行提取，ms14-058。
+- https://github.com/sam-b/CVE-2014-4113    //利用‘Win32k.sys’内核漏洞进行提取，ms14-058。
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
 ### Exchange漏洞利用手段

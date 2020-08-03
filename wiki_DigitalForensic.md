@@ -10,7 +10,7 @@
 - http://www.magicexif.com/    //将照片图像中的exif信息数据化
 - http://mediaarea.net/MediaInfo    //类似于exiftool来查看内容区域和元数据信息
 - https://www.sno.phy.queensu.ca/~phil/exiftool/    //检查图像文件的exif元数据
-- https://www.gimp.org/    //Gimp提供了转换各类图像文件可视化数据的功能，还可以用于确认文件是否是一个图像文件
+- https://www.gimp.org/    //Gimp可将各类图像文件转换为可视化数据，用于确认文件是否是一个图像文件。
 - http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
 - http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
 - https://github.com/GuidoBartoli/sherloq    //C++。数字图片取证

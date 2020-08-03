@@ -259,10 +259,9 @@
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
 ## 信息隐匿保护
-- https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
+- https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
-- https://github.com/Nummer/Destroy-Windows-10-Spying    //DWS用来关闭windows监控服务
-- https://www.anquanke.com/post/id/195011    //暗度陈仓：基于国内某云的 Domain Fronting 技术实践。CDN域前置
+- https://www.anquanke.com/post/id/195011    //暗度陈仓：基于国内某云的 Domain Fronting 技术实践。CDN域前置。
 - https://www.freebuf.com/sectool/232555.html    //利用Cloudflare Worker来隐藏C2基础设施。CDN域前置。G:/Berkeley-Reject/workers-proxy;--
 ### 隐匿流量洋葱路由
 - https://www.torproject.org/    //洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
@@ -313,7 +312,7 @@
 - https://github.com/MSG-maniac/mail_fishing    //PHP。基于thinkphp的甲方邮件钓鱼系统
 - https://github.com/samyoyo/weeman    //钓鱼的http服务器
 - https://github.com/Raikia/FiercePhish    //可以管理所有钓鱼攻击的完整钓鱼框架，允许你跟踪单独的网络钓鱼活动，定时发送电子邮件等
-- https://github.com/securestate/king-phisher    //可视化钓鱼活动工具包
+- https://github.com/securestate/king-phisher    //可视化钓鱼活动
 - https://github.com/fireeye/ReelPhish    //实时双因素网络钓鱼工具
 - https://github.com/kgretzky/evilginx2/    //登录页面钓鱼，绕过双因素认证等
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
