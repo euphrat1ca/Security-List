@@ -430,10 +430,12 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路。
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
-- https://0xrick.github.io/lists/stego/    //隐写术工具集，Steganography - A list of useful tools and resources。包括隐写工具，解析工具
-- https://github.com/DominicBreuker/stego-toolkit    //隐写工具包。Stegosuite
+- https://0xrick.github.io/lists/stego/    //隐写术工具和资源列表 Steganography - A list of useful tools and resources。
+- https://github.com/DominicBreuker/stego-toolkit    //图片、音频隐写工具Stegosuite
 - https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
 - http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
+- https://embeddedsw.net/OpenPuff_Steganography_Home.html    //图片音视频隐写工具
+- https://www.audacityteam.org/    //音频编辑工具，波形图显示。
 ## 压力测试
 - https://github.com/ywjt/Dshield    //Py。DDOS防护
 - https://rocketstresser.com/login.php    //多协议，支持cdn测试
