@@ -112,16 +112,16 @@
 - https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/alexandreborges/malwoverview    //simple。将恶意文件进行快速分类
 ### 后门检测查杀
-- https://www.shellpub.com/    //跨平台webshell查杀。社区版。
-- http://www.clamav.net/downloads    //病毒查杀软件
+- http://www.clamav.net/downloads    //病毒查杀
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
-- https://github.com/m4rco-/dorothy2    //一款木马、僵尸网络分析框架。
-- https://github.com/chaitin/cloudwalker    //Go。CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
-- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
+- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
+- https://github.com/m4rco-/dorothy2    //木马、僵尸网络分析框架。
 - https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
 - http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
-- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
 - http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
+- https://github.com/chaitin/cloudwalker    //Go。CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
+- https://www.shellpub.com/    //河马webshell查杀。社区版跨平台。
+- https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
 ## 流量协议操作
