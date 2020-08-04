@@ -79,19 +79,19 @@
 ### 防火墙/Waf
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗Web服务器网站防护。商业版 社区版。
-- http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:/xoslab.com 内核级检测文件生成写入;--
-- https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
+- http://d99net.net/    //D盾IIS服务器防火墙，webshel查杀。社区版。
+- https://www.pfsense.org    //PHP。Web防火墙，可配置snort规则。开源版。
 - https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
-- https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx等。
+- https://github.com/SpiderLabs/ModSecurity    //C。跨平台 WAF engine for Apache/IIS/Nginx etc…。
 - https://github.com/klaubert/waf-fle    //ModSecurity Web控制台
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
+- https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //负载均衡;--
 - https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:/starjun/openstar;Github:/xsec-lab/x-waf;Github:/loveshell/ngx_lua_waf;Github:/starjun/openstar;--
 - https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机的Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块。G:/C4o/LogFarmer;G:/C4o/IUS;--
 - https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
-- https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //WAF负载均衡;--
-- https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 - https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎使用到的代码生成工具，规则自动生成判断器械
 - https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量
+- https://github.com/qq4108863/himqtt/    //C。物联网epoll高并发防火墙
 ### 无线网络入侵检测
 - https://github.com/anwi-wips/anwi    //无线IDS，基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
