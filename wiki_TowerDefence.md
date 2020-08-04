@@ -78,7 +78,7 @@
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
 ### 防火墙/Waf
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
-- http://www.safedog.cn/    //安全狗web防火墙。商业版。
+- http://www.safedog.cn/    //安全狗Web服务器网站防护。商业版 社区版。
 - http://d99net.net/    //D盾防火墙，包含waf与webshel检测功能。商业版。P:/xoslab.com 内核级检测文件生成写入;--
 - https://www.pfsense.org    //PHP。可配置snort规则的防火墙。社区版。
 - https://github.com/evilsocket/opensnitch    //PY/Go。基于QT界面Linux下的应用防火墙
