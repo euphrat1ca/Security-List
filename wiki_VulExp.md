@@ -27,7 +27,6 @@
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://github.com/bingohuang/docker-labs    //制作在线docker平台
 ### 离线靶场学习
-- https://www.soteria-int.com/    //西班牙游戏竞技模拟平台CYWARIA安全靶场，商业。
 - https://github.com/WebGoat/WebGoat    //Java。一键jar包web安全实验靶场
 - https://github.com/Audi-1/sqli-labs    //PHP。基于SQLite的sql注入学习靶场
 - https://github.com/lcamry/sqli-labs    //Intro。通过sqli-labs演示mysql相关的注入手法
@@ -37,11 +36,6 @@
 - https://github.com/c0ny1/xxe-lab    //一个包含php，Java。python，C#等各种语言版本的XXE漏洞Demo
 - https://github.com/Go0s/LFIboomCTF    //本地文件包含漏洞&&PHP利用协议&&实践源码
 - https://github.com/incredibleindishell/CORS-vulnerable-Lab    //PHP。与COSR配置错误相关的漏洞代码靶场
-- https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
-- https://github.com/secvulture/dvta    //CS客户端靶场
-- https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
-- https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
-- https://github.com/abhi-r3v0/EVABS    //C++。Android靶场
 - https://github.com/ethicalhack3r/DVWA    //web安全实验靶场。新手指南：DVWA-1.9全级别教程
 - http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场
@@ -50,21 +44,27 @@
 - https://github.com/stamparm/DSVW    //Py3。常见漏洞靶场
 - https://github.com/amolnaik4/bodhi    //Py。常见漏洞靶场
 - https://github.com/Safflower/Solve-Me    //php。韩国一个偏代码审计的ctf靶场源码
+- https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
+- https://kernel.ubuntu.com/~kernel-ppa/mainline/    //Ubuntu历史kernel
+- http://old-releases.ubuntu.com/releases/    //Ubuntu历史镜像
+- https://github.com/secvulture/dvta    //CS客户端靶场
+- https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
+- https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
+- https://github.com/abhi-r3v0/EVABS    //C++。Android靶场
 - https://github.com/rapid7/metasploitable3    //metasploit练习系统
-- https://github.com/rapid7/metasploit-vulnerability-emulator    //perl.metasploit模拟环境，练习操作
+- https://github.com/rapid7/metasploit-vulnerability-emulator    //perl。metasploit模拟环境，练习操作
 - https://github.com/madhuakula/kubernetes-goat/    //容器编排引擎Kubernetes靶场。P:/Bust-a-kube;--
 ### 在线靶场学习
-- https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境
-- https://www.root-me.org    //俄罗斯root me靶场。在线。社区版
-- https://lab.pentestit.ru    //俄罗斯靶场，真实环境。在线。商业版。
+- https://www.hackthebox.eu    //欧洲HTB靶场，在线真实环境。商业部。
+- https://www.root-me.org    //俄罗斯root me在线靶场。社区版。
 - https://www.offensive-security.com/information-security-certifications/    //kali攻防技术认证。商业版。
 - https://www.pentesteracademy.com    //教程+视频+实验室+认证培训一套。商业版。
 - https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
 - https://www.wechall.net    //世界知名ctf汇总交流网站
+- https://www.xssgame.com    //谷歌XSS挑战
 - https://www.ichunqiu.com/experiment/direction    //i春秋实验室。Web/主机/应用/pwn教程
 - https://www.mozhe.cn/bug    //墨者学院在线靶场。Web/主机/数据库/取证
-- https://www.xssgame.com    //谷歌XSS挑战
-- http://xss.tv    //在线靶场。;ctf.bugku.com;adworld.xctf.org.cn
+- http://xss.tv    //国内在线靶场。W:ctf.bugku.com;W:adworld.xctf.org.cn;--
 ## 模糊测试
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md/    //Fuzzer模糊测试.mywiki
 ## 二进制pwn利用
@@ -264,12 +264,14 @@
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:/CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ### Linux提权利用
-- https://github.com/SecWiki/linux-kernel-exploits    //linux-kernel-exploits Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;--
-- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞 CVE-2018-17182
-- https://github.com/jas502n/CVE-2018-14665    //CVE-2018-14665，linux下Xorg X服务器提权利用
+- https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits，Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;G:/bcoles/kernel-exploits;--
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛条件竞争写入只读(r)文件。Linux/Android 平台，release编译exp。goodjob。
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;G:/gbonacini/CVE-2016-5195;--
+- https://github.com/RealBearcat/CVE-2017-16995    //内核注入代码提权Ubuntu 16.04.01 ~ 16.04.04 kernel 4.4 ~ 4.14。goodjob。
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;--
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛提权漏洞exp，Linux/Android 平台，release编译版。goodjob。G:/gbonacini/CVE-2016-5195;--
+- https://github.com/jas502n/CVE-2018-14665    //linux下Xorg X服务器提权利用
+- https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞
+- https://github.com/0x00-0x00/CVE-2018-1000001    //冲区溢出 suid提权Ubuntu 16.04.3 LTS glibc <= 2.26。goodjob。
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
 ## MS微软相关漏洞

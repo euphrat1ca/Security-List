@@ -114,12 +114,12 @@
 ### 后门检测查杀
 - http://www.clamav.net/downloads    //病毒查杀
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
-- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测
-- https://github.com/m4rco-/dorothy2    //木马、僵尸网络分析框架。
-- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，linux系统病毒分析及安全测试
-- http://www.chkrootkit.org/    //多方位后门/僵木蠕/rootkit检测工具
+- http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测。
 - http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具
-- https://github.com/chaitin/cloudwalker    //Go。CloudWalker（牧云）服务器安全管理平台，主要针对webshell查杀。
+- https://github.com/m4rco-/dorothy2    //木马、僵尸网络分析框架。
+- https://github.com/Tencent/HaboMalHunter    //哈勃分析系统，Linux系统病毒分析及安全测试
+- http://www.chkrootkit.org/    //后门/僵木蠕/rootkit检测工具
+- https://github.com/chaitin/cloudwalker    //Go。长亭牧云服务器安全管理平台，webshell查杀。NoUpdate。
 - https://www.shellpub.com/    //河马webshell查杀。社区版跨平台。
 - https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
 ### 混淆命令检测
