@@ -179,8 +179,8 @@
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 ### Web组件漏洞
-- https://github.com/wyzxxz/fastjson_rce_tool    //java。fastjson-v1.2.47-RCE命令执行利用工具。G:/jas502n/fastjson-RCE;G:/iSafeBlue/fastjson-autotype-bypass-demo;--
-- https://github.com/MagicZer0/fastjson-rce-exploit    //Java。阿里fastjson RCE, 绕过autotype机制，1.2.47以下版本。jndi利用方式。Github:/fastjson-1.2.47-RCE;--
+- https://github.com/uknowsec/BurpSuite-Extender-fastjson    //Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
+- https://github.com/CaijiOrz/fastjson-1.2.47-RCE    //Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit //利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
 ### thinkphp漏洞
 - https://github.com/theLSA/tp5-getshell    //Py2。thinkphp5 rce漏洞检测工具。
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合。

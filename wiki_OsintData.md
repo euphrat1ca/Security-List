@@ -215,17 +215,14 @@
 - http://www.link114.cn/title/    //批量查询网站标题
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
 - https://www.whatweb.net/    //在线web指纹识别
-### 真实IP信息获取
-- http://requestbin.net/    //Inspect HTTP Requests.获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    //py.四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
-- http://ceye.io    //知道创宇dns查询，可以配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
+### 真实信息获取
 - https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
-- https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客
-- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:/CloudFail;Github:/Cloudmare。1K。
+- https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
 - https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    //py.子域名，IP，CDN信息爆破
+- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:/CloudFail;Github:/Cloudmare。1K。
 - https://github.com/m0rtem/CloudFail    //Py。利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
 ### PDNS(Passive DNS)收集系统
 - https://github.com/JustinAzoff/bro-pdns    //Go。基于bro的pdns收集工具

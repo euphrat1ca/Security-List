@@ -1,5 +1,5 @@
-# 工具拓展
-## burpsuit相关工具拓展插件
+# 工具拓展插件工具
+## burpsuit拓展插件相关工具
 - https://github.com/PortSwigger    //burpsuite官方插件库。商业版。
 - https://github.com/lilifengcode/Burpsuite-Plugins-Usage    //burp插件使用介绍
 - https://github.com/snoopysecurity/awesome-burp-extensions    //awesome系列之burp拓展
@@ -15,17 +15,17 @@
 ### burp绕过
 - https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问
-- https://github.com/c0ny1/jsEncrypter    //一个用于加密传输爆破的Burp Suite插件
+- https://github.com/c0ny1/jsEncrypter    //用于加密传输爆破的Burp Suite插件
 - https://github.com/nccgroup/BurpSuiteHTTPSmuggler    //使用几种技巧绕过WAF
 - https://github.com/c0ny1/chunked-coding-converter    //用于http传送过程的分块技术，可绕WAF等防护设备。
 ### burp利用探测
 - https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描 api key/tokens
-- https://github.com/nccgroup/argumentinjectionhammer    //Burp插件。识别参数注入漏洞
+- https://github.com/nccgroup/argumentinjectionhammer    //识别参数注入漏洞
 - https://github.com/modzero/interestingFileScanner    //增强敏感文件扫描
-- https://github.com/p1g3/Fastjson-Scanner    //fastjson后端组件探测
 - https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测，支持web界面配置。Github:/portswigger/authz;--
 - https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
+- https://github.com/yandex/burp-molly-pack    //XXE、SSRF漏洞利用探测。
 ## Nmap/Masscan拓展插件相关工具
 - https://github.com/Ullaakut/nmap    //Go。Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //Py。nmap调用库python
@@ -49,7 +49,7 @@
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui
-## kali环境拓展插件
+## kali环境拓展插件相关工具
 - https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
 - https://github.com/Manisso/fsociety    //类似于于kali架构Linux下工具包一键安装工具。G:/taielab/Taie-RedTeam-OS;--
 - https://github.com/LionSec/katoolin    //使用linux服务器自动安装kali工具包
@@ -100,7 +100,7 @@
 - https://github.com/byt3bl33d3r/DeathStar    //Py3。调用Empire RESTful API 自动化获取域管权限的
 - https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
-## cobaltstrike插件
+## cobaltstrike拓展插件相关工具
 - https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    //RedCore红队学院CSTips
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
 - https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
@@ -136,7 +136,7 @@
 - https://github.com/rsmudge/ElevateKit/    //PS。cna插件，CS利用第三方模块提权
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit
 - https://github.com/rxwx/spoolsystem    //利用漏洞欺骗打印机进行提权
-## 菜刀相关工具
+## 菜刀拓展插件相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js。免杀webshell无限生成工具蚁剑版
 - https://github.com/Ch1ngg/CaidaoMitmProxy    //Py3。基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。

@@ -166,14 +166,6 @@
 - 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
-### 安全测试辅助
-- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
-- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
-- https://github.com/medbenali/CyberScan    //Py。渗透测试辅助工具。支持分析数据包、解码、端口扫描、IP地址分析等。
-- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities.
-- https://github.com/ultrasecurity/webkiller    //Py。渗透辅助。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //渗透辅助，php，exp搜寻、payload与shell生成、信息收集
-- https://github.com/foryujian/ipintervalmerge    //IP合并区间
 ## IPv6安全相关
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
@@ -248,6 +240,17 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
+### 安全测试辅助
+- http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
+- https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
+- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
+- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
+- https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
+- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
+- https://github.com/foryujian/ipintervalmerge    //IP合并区间
+- https://github.com/medbenali/CyberScan    //Py。分析数据包、解码、端口扫描、IP地址分析等。
 ## 安全测试系统集合
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
