@@ -102,11 +102,10 @@
 - https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
 ### 威胁情报源
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_intelligenceThreat.md/    //公开收集威胁情报库.mywiki
-- https://www.threatcrowd.org/    //微步威胁情报分析平台。Web:ti.qianxin.com;Web:feed.watcherlab.com;Web:x.threatbook.cn。
+- https://www.virustotal.com/    //在线威胁情报平台。W:ti.qianxin.com;Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
-- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com。
+- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
 - https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址，集成bro
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
