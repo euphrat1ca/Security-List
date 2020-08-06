@@ -84,7 +84,7 @@
 - https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 ### 大数据分析框架
 - https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk大数据分析。
-- https://github.com/taosdata/TDengine    //C。对标kafka、Hadoop、splunk数据处理引擎
+- https://github.com/taosdata/TDengine    //C。物联网大数据平台。对标kafka、Hadoop、splunk数据处理引擎。
 - https://github.com/baidu/bfe    //go。百度百亿流量转发引擎
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎，对标ELK。
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
