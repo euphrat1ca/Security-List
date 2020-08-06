@@ -172,7 +172,7 @@
 - https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
 - https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
 - https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，GUI生成器。G:/ReddyyZ/GhostShell/;--
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
 - https://www.shellterproject.com/    //动态Shellcode注入工具。商业版。
 - https://github.com/wetw0rk/Sickle    //Py。shellcode调试、测试、加载、打包器。testjob。
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
@@ -191,35 +191,35 @@
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等。
-- https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具，GUI界面。
+- https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具，界面GUI。
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
-## Bypass安全防护
-- https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
-- https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
-- https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
-- https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
-- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
-- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
-- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
-- https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
-- https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结。沙箱绕过。
-- https://www.4hou.com/posts/oAAj    //WinRM与HTTP Server API的端口复用，利用IIS的端口共享功能绕过防火墙。基于http.sys实现权限维持。P:/"WinrmAttack.py";--
-- https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
-- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
-### Bypass权限绕过
+## Bypass监控设备
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
 - https://github.com/CCob/SharpBlock/    //C#。利用dll注入的方式进行EDR绕过。
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
-- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载.Net程序的工具。
-- https://github.com/Ben0xA/nps    //C#。实现不调用‘powershell.exe’执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
+- https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载'.Net'程序的工具。
+- https://github.com/Ben0xA/nps    //C#。实现不调用‘powershell.exe’执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
 - https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法。
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac。
 - https://github.com/St0rn/Windows-10-Exploit    //PY,msf插件。win10 uacbypass。
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#。Changing values to bypass windows defender。
-- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
+- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
+- https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
+- https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
+- https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结。沙箱绕过。
+## Bypass防护设备
+- https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
+- https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
+- https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
+- https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
+- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
+- https://www.4hou.com/posts/oAAj    //WinRM与HTTP Server API的端口复用，利用IIS的端口共享功能绕过防火墙。基于http.sys实现权限维持。P:/"WinrmAttack.py";--
+- https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
+- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
+- https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //公众号：ATT&CK 之后门持久化
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结。P:/archives/103301.html/;--
@@ -248,6 +248,7 @@
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:/rootm0s/WinPwnage;G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;Gitee:killvxk/infected_dll;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
+- https://github.com/fatihsnsy/DLInjector-GUI    //C++。基于进程名注入，可等待进程启动后再注入，界面GUI。
 - https://www.4hou.com/posts/wRPR    //深入分析 DLL 调用过程实现“自适应” DLL 劫持。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中。
 - https://github.com/mdsecactivebreach/RDPInception/    //Bat,CS插件。基于tsclient服务进行rdp劫持，利用ps反弹shell。G:/bohops/SharpRDPHijack;--

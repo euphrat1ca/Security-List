@@ -1,3 +1,12 @@
+# 漏洞发掘分析
+- https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
+- https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
+- https://github.com/1hack0/bug-bounty-101    //挖洞技术手册
+- https://github.com/writeups/ios    //ios漏洞writeup笔记
+- https://github.com/userlandkernel/plataoplomo    //Sem Voigtländer 公开其发现的 iOS 中各种漏洞，包括（Writeup/POC/Exploit）
+- https://github.com/Ivan1ee/NET-Deserialize    //.Net反序列化漏洞
+- https://github.com/SCUBSRGroup/Automatic-Exploit-Generation    //自动化软件漏洞发掘
+- https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
 # Fuzzing模糊测试
 - https://google.github.io/fuzzbench/    //谷歌模糊测试测评工具，竞品比对
 - 工控模糊测试Wurldtech Achilles阿基里斯国际认证
@@ -9,7 +18,8 @@
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
-- https://github.com/mozillasecurity/fuzzdata    //模糊测试输入样本资源
+- https://github.com/mozillasecurity/fuzzdata    //模糊测试输入样本资源。
+- https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。*egghunter
 ## 模糊测试框架工具
 - https://google.github.io/clusterfuzz/    //谷歌集群模糊测试平台
 - https://github.com/google/oss-fuzz    //C。谷歌对开源项目的进行免费的模糊测试服务

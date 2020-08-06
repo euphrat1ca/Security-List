@@ -36,7 +36,8 @@
 - https://github.com/horsicq/Detect-It-Easy    //C。官网‘ntinfo.biz’，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl;--
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
 ### 汇编反编译
-- https://github.com/endgameinc/xori    //RUST.自定义反汇编框架，PE32, 32+ and shellcode。
+- https://github.com/blackberry/pe_tree    //Py,QT。PE逆向，树形结构图查看PE结构、复制内存中的PE文件并执行导入重构，可作为IDAPython插件加载。
+- https://github.com/endgameinc/xori    //RUST。自定义反汇编框架，PE32, 32+ and shellcode。
 - https://github.com/blacknbunny/peanalyzer32    //Py3。PE 文件分析和反汇编工具
 - https://github.com/aquynh/capstone    //C。Capstone是一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM，ARM64，MIPS和x86/x64平台。4k。
 - https://github.com/joxeankoret/pyew    //Py。基于Capstone的深度代码分析和文件修改工具。支持PE、ELF、OLE2、PDF等格式，并且支持自定义插件
@@ -69,3 +70,5 @@
 - https://github.com/TheKingOfDuck/ApkAnalyser    //py。提取安卓应用敏感信息。
 ### Javascript逆向
 - https://www.zyxiao.com/p/39429/    //记录一次前端JS加密绕过 ｜ 绕过前端解密的两种方法
+### OSX/IOS逆向
+- https://github.com/0x36/ghidra_kernelcache    //iOS内核逆向框架
