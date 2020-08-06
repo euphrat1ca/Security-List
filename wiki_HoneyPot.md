@@ -33,6 +33,7 @@
 - https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
 - https://www.cnblogs.com/ryanyangcs/p/12558727.html/    //两个奇技淫巧，将 Docker 镜像体积减小 99%。多阶段构建，系统精简。
 ### 主动反制面包屑
+- https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Jsonp检测Chrome插件。
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
 - https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。主动防御
