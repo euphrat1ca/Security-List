@@ -87,7 +87,7 @@
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验。
 - https://space.bilibili.com/37422870    //安全入门视频
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
-- https://github.com/tiancode/learn-hacking    //入门网络安全
+- https://github.com/tiancode/learn-hacking    //入门网络安全。G:/Bypass007/Learn-security-from-0;--
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
@@ -319,9 +319,9 @@
 - https://github.com/fireeye/ReelPhish    //实时双因素网络钓鱼工具
 - https://github.com/kgretzky/evilginx2/    //登录页面钓鱼，绕过双因素认证等
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
-- https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器
 - https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台
 ### 邮件伪造
+- https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--
 W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:/lunarca/SimpleEmailSpoofer;G:/Dionach/PhEmail;--

@@ -253,6 +253,7 @@
 - https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。G:/wyzxxz/shiro_rce;--
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
 - https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
+- https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动式shiro检测。
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 ### Nginx相关漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据

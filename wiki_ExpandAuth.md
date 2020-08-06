@@ -112,36 +112,38 @@
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-### 多姿态远控shell
+### 多协议远程协助
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
-- https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
-- https://github.com/inquisb/icmpsh    //C。Simple reverse ICMP shell。Github:/PiX-C2;--
-- https://github.com/iagox86/dnscat2    //RUBY/C。cs结构，利用DNS协议进行端对端传输。2k。goodjob。Github:/yarrick/iodine;Github:/lukebaggett/dnscat2-powershell;Github:/ahhh/Reverse_DNS_Shell;--
-- https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
-- https://github.com/Coalfire-Research/Slackor    //GO,Py3。基于slack框架命令控制，利用dns隐匿信道传输，集成spookflare/impacket/pypykatz。goodjob。
-- https://github.com/DamonMohammadbagher/NativePayload_ARP    //C#。利用arp协议传输后门
-- https://github.com/byt3bl33d3r/gcat    //Py3。使用 gmail 作为 C&C 服务器。Github:/gdog;Github:/Powershell-RAT;--
-- https://github.com/mvrozanti/RAT-via-Telegram    //Py3。Windows下利用telegram的远程控制工具。Github:/Parat;Github:/twittor;Github:/补bt2(Blaze Telegram Backdoor Toolkit);--
-- https://github.com/0x09AL/Browser-C2    //Go。利用chrome以浏览器的形式连接C2服务器
-- https://github.com/peewpw/Invoke-PSImage    //PS。将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。Github:/et0x/C2;--
-- https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
-- https://github.com/deepzec/Grok-backdoor    //Py。利用ngrok的后门
-- https://github.com/trustedsec/trevorc2    //Py。搭建一个可浏览网站用于隐藏命令执行的客户端/服务器通信。Github:/WebDAVC2;--
-- https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
+- https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
 - https://github.com/k8gege/WinrmCmd    //Go。Winrm远程命令/端口复用后门/WinrmCmd/密码爆破。WinRM是WindowsRemoteManagementd（win远程管理）的简称。基于Web服务管理(WS-Management)标准，使用80端口或者443端口。
-### 多姿态交互shell
+- https://github.com/inquisb/icmpsh    //C。Simple reverse ICMP shell。Github:/PiX-C2;--
+- https://github.com/DamonMohammadbagher/NativePayload_ARP    //C#。利用arp协议传输后门。
+- https://github.com/iagox86/dnscat2    //RUBY,C。利用DNS协议进行端对端通信。2k。goodjob。Github:/yarrick/iodine;Github:/lukebaggett/dnscat2-powershell;Github:/ahhh/Reverse_DNS_Shell;--
 - https://github.com/sysdream/chashell    //Golang。利用dns反弹shell。
-- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
-- https://github.com/FlyfishSec/rsGen    //BAT.Windows下远程shell反弹命令行工具。
 - https://github.com/sensepost/DNS-Shell    //Py。本地利用53端口nslookup传输加密的ps命令，回弹shell。
-- https://github.com/tokyoneon/Armor    //Bash。生成加密 Payload 在 macOS 上反弹 Shell。
-- https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
-- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
+- https://github.com/peewpw/Invoke-PSImage    //PS。将PS脚本隐藏进PNG像素中后上传到web服务器，通过命令加载隐藏在图片里的载荷。1k。NoUpdate。Github:/et0x/C2;--
+- https://github.com/h0mbre/Dali    //Py。利用图片像素进行C2服务器通讯，Image_Based_C2_PoC。
+- https://github.com/deepzec/Grok-backdoor    //Py。利用ngrok的后门通信。
+- https://github.com/trustedsec/trevorc2    //Py。通过搭建可浏览网站，隐藏命令执行的客户端/服务器通信。Github:/WebDAVC2;--
+- https://github.com/Coalfire-Research/Slackor    //GO,Py3。基于slack框架命令控制，利用dns隐匿信道传输，集成spookflare/impacket/pypykatz。goodjob。
+- https://github.com/byt3bl33d3r/gcat    //Py3。使用 gmail 作为 C&C 服务器。Github:/gdog;Github:/Powershell-RAT;--
+- https://github.com/mvrozanti/RAT-via-Telegram    //Py3。Windows下利用telegram的远程控制工具。Github:/Parat;Github:/twittor;Github:/补bt2(Blaze Telegram Backdoor Toolkit);--
+- https://github.com/0x09AL/Browser-C2    //Go。利用chrome以浏览器的形式连接C2服务器。
+### 反向shell回弹
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;--
+- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
+- https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
+- https://github.com/FlyfishSec/rsGen    //BAT。Windows下远程shell反弹命令行工具。
+- https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
+- https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
+- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
-- https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
+### 数据传输泄露
+- https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
+- https://github.com/Arno0x/DNSExfiltrator    //通过DoH利用dns加密请求进行数据泄露传输。
+- https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
 ## 文件免杀
 - https://bbs.pediy.com/thread-260539.htm    //杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。

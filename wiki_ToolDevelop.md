@@ -119,10 +119,10 @@
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
 - https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
 - https://www.cobaltstrike.com/help-malleable-c2    //配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
+- https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
-- https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 ### cobaltstrike攻击拓展
 - https://github.com/gloxec/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。
 - https://github.com/darkr4y/geacon    //Go。macos系统beacon上线
