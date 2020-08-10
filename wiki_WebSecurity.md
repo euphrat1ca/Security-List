@@ -121,13 +121,6 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;G:/piaolin/fofa2Xray;--
 - https://github.com/coffeehb/SSTIF    //SSTI (服务器模板注入) 漏洞的半自动化工具
 - https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
-### 前端攻击画像
-- https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
-- https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。指纹追踪技术—跨浏览器指纹识别。P:/crossbrowsertracking_NDSS17.pdf;--
-- https://github.com/WMJonssen/Centcount-Analytics    //PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹。
-- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
-- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。W:whoer.net //web应用指纹获取集合;--
-- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
 ### SSL/TLS安全
 - https://github.com/drwetter/testssl.sh    //Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等

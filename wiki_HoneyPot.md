@@ -4,19 +4,32 @@
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
 - https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
 - https://github.com/BinaryDefense/artillery    //Py。端点蜜罐防护。
-## 攻击反制
+## 主动防御
 - https://tom0li.github.io/反制攻击队和防守人员/    //
 - https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
-- https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。
-- https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
 - https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
 - https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
 - https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
 - https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
+- https://nosec.org/home/detail/4526.html    //通过Web iframe标签利用TeamViewer，CVE-2020-13699。
+### 前端攻击画像
+- https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
+- https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。P:指纹追踪技术—跨浏览器指纹识别;P:/crossbrowsertracking_NDSS17.pdf;--
+- https://github.com/WMJonssen/Centcount-Analytics    //PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹。
+- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
+- https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。W:whoer.net //web应用指纹获取集合;--
+- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
 ### 攻击反制利用
+- https://www.freebuf.com/articles/terminal/175862.html    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。
+- https://www.exploit-db.com/exploits/38847    //CVE-2015-4027。Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。如何优雅的反击扫描你网站的黑客。
 - https://blog.csdn.net/ls1120704214/article/details/88174003    //Go。反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:/MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:/Rogue-MySql-Server;--
-- https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源
+- https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源。
+- https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。
+- https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
+### 主动反制识别
+- https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。Jsonp漏洞防御。
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
 ## 虚拟化
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
 - https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
@@ -32,11 +45,6 @@
 - https://github.com/containers/libpod    //Go。podman.io虚拟容器。3k。
 - https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
 - https://www.cnblogs.com/ryanyangcs/p/12558727.html/    //两个奇技淫巧，将 Docker 镜像体积减小 99%。多阶段构建，系统精简。
-### 主动反制面包屑
-- https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Jsonp检测Chrome插件。
-- https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者
-- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
-- https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。主动防御
 ### 虚拟化沙盒
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统，恶意样本分析沙盒检测。
 - https://github.com/euphrat1ca/Panda-Sandbox    //Py。钟馗沙箱是基于cuckoo的适配国内软件环境的恶意软件检测

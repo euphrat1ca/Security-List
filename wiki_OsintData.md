@@ -206,14 +206,15 @@
 - https://www.shodan.io/    //空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;--
 - https://www.fofa.so    //白帽汇空间测绘。G:/tangxiaofeng7/Fofa-collect;--
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
-- http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
-- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;-
+- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
 - https://www.dnsdb.io    //全球DNS搜索引擎。DNS记录查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。W:securitytrails.com/;--
 - http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具。W:phpinfo.me/domain/;--
+- http://ce.baidu.com/index/getRelatedSites?site_address=baidu.com    //在线子域名
 - http://ip.chaxun.la/    //ip反查域名---查询啦
-- http://www.link114.cn/title/    //批量查询网站标题
+- http://www.link114.cn/title/    //在线查询网站标题
 - https://bgp.he.net    //bgp/asn/isp在线搜集工具
-- https://www.whatweb.net/    //在线web指纹识别
+- https://www.whatweb.net/    //在线指纹识别
+- https://www.godeye.vip/    //指纹在线识别
 ### 真实信息获取
 - https://github.com/al0ne/Vxscan    //Py3。目录扫描/js泄露接口，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站。0.5k。
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。

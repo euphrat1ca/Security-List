@@ -134,10 +134,7 @@
 - https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
-### 数据传输泄露
-- https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
-- https://github.com/Arno0x/DNSExfiltrator    //通过DoH利用dns加密请求进行数据泄露传输。
-- https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
+
 ## 文件免杀
 - https://bbs.pediy.com/thread-260539.htm    //杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。

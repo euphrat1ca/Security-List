@@ -127,11 +127,12 @@
 #### Weblogic中间件相关漏洞
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
+- - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
 - https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。
 - https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020。
-- https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具，支持2019
+- https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具,包含CVE-2019前。
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
-- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;
+- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;--
 - https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，‘wls9_async_response’与‘wls-wsat’组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
@@ -139,7 +140,7 @@
 - https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
 #### SpringBoot框架相关漏洞
-- https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist
+- https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist。
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x。
 #### Tomcat框架相关漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
@@ -155,7 +156,7 @@
 - https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。G:/wyzxxz/shiro_rce;--
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
 - https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
-- https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动式shiro检测。
+- https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动检测shiro指纹。
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 ### Nginx相关漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据

@@ -45,10 +45,10 @@
 - https://github.com/icsharpcode/ILSpy    //C#。针对exe反编译软件。8k。goodjob。
 - https://github.com/0xd4d/dnSpy    //C#。dnSpy is a debugger and .NET assembly editor，支持断点调试、Unity调试。goodjob。
 - https://www.vb-decompiler.org/products/cn.htm    //VB Decompiler是针对Visual Basic 5.0/6.0开发的程序反编译器
-- https://github.com/0xd4d/de4dot/    //C#。.Net代码反混淆逆向解压。
+- https://github.com/0xd4d/de4dot/    //C#。.Net代码反混淆，代码逆向解压。
 ### Python逆向
-- https://sourceforge.net/projects/pyinstallerextractor    //Py。pyinstaller .exe反编译为 .pyc
-- https://github.com/countercept/python-exe-unpacker    //Py。Linux下py2exe or pyinstaller打包解压缩
+- https://sourceforge.net/projects/pyinstallerextractor    //Py。pyinstaller‘.exe’反编译为‘.pyc’
+- https://github.com/countercept/python-exe-unpacker    //Py。Linux下py2exe or pyinstaller打包文件解压缩、逆向代码。
 - http://tools.bugscaner.com/decompyle    //.pyc或 .pyo文件在线反编译
 - https://github.com/rocky/python-uncompyle6    //Py3。支持Python version 1.3 to version 3.7源码反编译，*.pyc。
 - https://github.com/wibiti/uncompyle2    //Py3。针对python2.7源码反编译

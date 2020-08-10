@@ -53,11 +53,13 @@
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
 - https://github.com/davidmcgrew/joy    //用来捕获和分析内外网流量数据的包，主要用于进行网络调查、安全监控和取证
 - https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，解析http 2与TLS加密。产品包括网络取证与监控caploader 流量捕获、polarproxy tls加密流量代理等
-### 数据取回隐秘传输
+### 数据隐秘传输
+- https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
+- https://github.com/Arno0x/DNSExfiltrator    //通过DoH利用dns加密请求进行数据泄露传输。
+- https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据泄露
+- https://github.com/no0be/DNSlivery    //Py3。基于scapy利用dns协议传输文件，条件简单。
 - https://github.com/TryCatchHCF/Cloakify    //躲避DLP/MLS数据泄露防护系统，突破数据白名单控制，躲避AV检测进行数据盗取
 - https://github.com/sensepost/DET    //使用单个或多个通道同时执行数据取回
-- https://github.com/Arno0x/DNSExfiltrator    //利用DNS解析进行数据隐秘传输的工具
-- https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据泄露
 - https://github.com/ytisf/PyExfil    //用于数据取回的Python软件包
 ### 邮箱取证
 - https://github.com/RedLectroid/SearchOutlook/    //Outlook运行实例中关键字搜索
