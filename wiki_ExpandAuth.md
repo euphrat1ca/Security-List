@@ -62,8 +62,8 @@
 - https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;--
 # 远程协助
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
-- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。G:/mwrlabs/C3;G:/cobbr/Covenant;--
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike;--
+- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。G:/mwrlabs/C3;G:/cobbr/Covenant;--
 - https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。
 ### 远控通讯加密
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密
@@ -90,6 +90,7 @@
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
 - https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell //已编译;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
+- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。
 ### *nix远程协助
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
 - https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:/creaktive/tsh //Tiny SHell;--
@@ -171,8 +172,8 @@
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
-- https://github.com/brimstone/go-shellcode    //Go。加载shellcode到内存执行。G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，shellcode混淆，将shellcode存储在多语言图像中。
+- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，将shellcode混淆存储图像中。
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
@@ -186,7 +187,8 @@
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
 ## Bypass监控设备
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
-- https://github.com/CCob/SharpBlock/    //C#。利用dll注入的方式进行EDR绕过。
+- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR
+- https://github.com/bats3c/DefensiveInjector    //C。shellcode加密EDR绕过
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
 - https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法。
