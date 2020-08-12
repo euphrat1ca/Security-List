@@ -96,7 +96,7 @@
 - https://github.com/Jamalc0m/wphunter    //php。wordpress扫描器
 - https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
 ### Drupal漏洞
-- https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600/SA-CORE-2018-002 Drupal7.x 版本代码执行
+- https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600/SA-CORE-2018-002 Drupal 7.x版本代码执行
 - https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE/SA-CORE-2019-003/CVE-2019-6340
 - https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
 ### Discuz漏洞
@@ -201,6 +201,7 @@
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
 - https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
 - https://windows-internals.com/printdemon-cve-2020-1048/    //利用打印机服务进行本地欺骗提权。G:/ionescu007/PrintDemon;--
+- https://github.com/math1as/CVE-2020-1337-exploit    //Powershell。打印机重启调用系统功能，利用‘mklink’绑定提权。
 - https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
 - https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
 - https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
