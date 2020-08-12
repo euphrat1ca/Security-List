@@ -229,7 +229,7 @@
 - https://github.com/g3rzi/Manifesto    //C#。寻找系统中存在可执行权限的组件
 - https://github.com/ufrisk/MemProcFS    //C。以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    //C#。绕过系统应用白名单执行DotNet and PowerShell tools。
-- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //可以查看 exe 的 manifest，在 manifest 中可以看到程序的权限，有 asInvoker highestAvailable requireAdministrator。
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //通过查看‘exe’的‘manifest’查看程序执行权限，具有asInvoker highestAvailable requireAdministrator。
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
 - https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载'.Net'程序的工具。
 - https://github.com/Ben0xA/nps    //C#。实现不调用‘powershell.exe’执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
