@@ -31,8 +31,6 @@
 - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
-- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
 - https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
