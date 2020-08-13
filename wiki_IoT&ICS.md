@@ -66,7 +66,8 @@
 - https://github.com/jh00nbr/Routerhunter-2.0    //路由器漏洞扫描利用。NoUpdate
 - https://github.com/googleinurl/RouterHunterBR    //PHP。路由器设备漏洞扫描利用
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
-- https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码
+- https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码。
+- https://tools.kali.org/information-gathering/snmp-check    //通过snmp协议采集设备oid信息，网管设备信息。P:snmpwalk;--
 ## ICS工业安全
 - https://dale-peterson.com/    //Digital Bond工业安全公司，s4xevents.com旗下S4 Events工业安全培训教程。
 - https://www.freebuf.com/ics-articles    //freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--

@@ -92,13 +92,14 @@
 - https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
-### 安全测试速查表
-- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）
-- https://github.com/louchaooo/kali-tools-zh    //kali工具使用手册
-- https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/    //常见工具命令
-- https://github.com/EvilAnne/Violation_Pnetest    渗透红线Checklist
+### 安全知识库
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
+- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试技巧
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。
+- https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
+- https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
+### 安全测试速查表
+- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
 - https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
 - http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
 - https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
@@ -132,7 +133,8 @@
 ### Kubernetes集群安全
 - https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
-- https://github.com/kabachook/k8s-security/    //bash/Py。Kubernetes安全集合
+- https://github.com/kabachook/k8s-security/    //bash,Py。Kubernetes安全集合。
+- https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具，符合‘cisecurity.org/benchmark/kubernetes/’基准测试。
 ### 亚马逊AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
@@ -334,7 +336,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 # wiki_TowerDefence
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TowerDefence.md/    //安全体系防御，病毒后门查杀，系统监控，昏晓命令检测。mywiki
 # wiki_MalwareSec
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSec.md/    //病毒分析，应急响应合集。mywiki
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_MalwareSec.md/    //病毒分析、应急响应、恶意样本数据源收集库合集。mywiki
 # wiki_FreeConnect
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_FreeConnect.md/    //通讯工具技术相关.myWiki
 # wiki_SelfServicerce

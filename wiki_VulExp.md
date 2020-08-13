@@ -1,13 +1,21 @@
 # 漏洞收集
 - https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
 - https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。
-- https://wiki.0-sec.org/#/md    //零组公开漏洞库
-- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K。goodjob。
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
-- https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;
+- https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
+## 漏洞共享平台
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
+- https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章，漏洞公开详情。
+- https://0day.life    //漏洞研究文章
+- https://bugreader.com    //国外知名厂商公开漏洞详情。
+- https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
+- https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
+- https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情，区块链应用。
+- https://sec.ly.com/bugs    //同程安全公开漏洞详情，旅途应用。
+- https://zeroday.hitcon.org/vulnerability/    //台湾公开漏洞库。
+- https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章，电商应用。
 ## 软硬固应用漏洞
 - https://github.com/mudongliang/LinuxFlaw    //Linux下软件漏洞列表
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
@@ -253,12 +261,3 @@
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
 - https://0day.today    //漏洞市场
-- https://shuimugan.com    //2016/06/24 13:25之前，乌云Drops文章，公开漏洞详情
-- https://0day.life    //漏洞研究文章
-- https://bugreader.com    //国外知名厂商公开漏洞详情
-- https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
-- https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
-- https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情
-- https://sec.ly.com/bugs    //同程安全公开漏洞详情
-- https://zeroday.hitcon.org/vulnerability/    //台湾漏洞库，公开。
-- https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章
