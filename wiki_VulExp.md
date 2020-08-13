@@ -201,6 +201,7 @@
 - https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:/ollypwn/SMBGhost;G:/jiansiting/CVE-2020-0796;G:/chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:/coolboy4me/cve-2019-0708_bluekeep_rce //增加xp/03;G:/MS08-067;--
 - https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17-010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
+- https://github.com/hanshaze/MS17-010-EternalBlue-WinXP-Win10    //ms17010 winxp-win10全版本利用
 - https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
 ### Windows提权利用LPE
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
