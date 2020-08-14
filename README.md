@@ -203,6 +203,7 @@
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ## 社工相关
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
+- https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
 - https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
