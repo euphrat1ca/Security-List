@@ -18,6 +18,7 @@
 ## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
+- https://github.com/arunmagesh/hw_hacking_cheatsheet    //硬件hardware测试条目
 - https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
@@ -39,6 +40,7 @@
 - https://github.com/PX4/Firmware    //px4无人机飞控。
 - https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机。
 ## 车联网安全
+- 汽车安全测试Checklist    //水滴安全实验室
 - https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
 - https://www.freebuf.com/articles/terminal/241930.html    //车机的渗透思路与实例分析
 - https://github.com/pasta-auto    //智能汽车测试

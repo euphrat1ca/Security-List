@@ -107,14 +107,11 @@
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
-- https://github.com/arunmagesh/hw_hacking_cheatsheet    硬件hardware测试条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
-- https://github.com/theLSA/hack-cs-tools    //C/S客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
-- 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
 ## IPv6安全相关

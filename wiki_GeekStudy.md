@@ -189,7 +189,7 @@
 - https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //一个虚拟机文件用于linux提权练习
 - https://kernel.ubuntu.com/~kernel-ppa/mainline/    //Ubuntu历史kernel
 - http://old-releases.ubuntu.com/releases/    //Ubuntu历史镜像
-- https://github.com/secvulture/dvta    //CS客户端靶场
+- https://github.com/secvulture/dvta    //客户端C/S架构靶场
 - https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/abhi-r3v0/EVABS    //C++。Android靶场
