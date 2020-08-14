@@ -41,8 +41,8 @@
 - https://github.com/trimstray/sandmap    //Bash。linux下Nmap可配置形式的命令行操作台
 - https://github.com/scipag/vulscan    //基于nmap的高级漏洞扫描器，命令行环境使用
 - https://github.com/Rev3rseSecurity/WebMap    //将nmap的xml web展示器
-- https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联
-- https://github.com/materaj/nmap-parser-xml-to-csv    //Py。Nnmap结果xml转换到csv
+- https://github.com/m0nad/HellRaiser    //基于nmap的扫描器，与cve漏洞关联。
+- https://github.com/ernw/nmap-parse-output    //nmap报告解析器。G:/materaj/nmap-parser-xml-to-csv;--
 - https://github.com/DanMcInerney/msf-autopwn    //执行NMap扫描或读取扫描结果， 然后自动使用msf攻击包含常见漏洞的主机
 - https://github.com/rootlabs/nWatch    //联动nmap，并对组织内网进行扫描
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器

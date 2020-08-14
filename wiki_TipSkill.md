@@ -24,7 +24,6 @@
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
 - https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。1k。goodjob。
 - https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器
-- https://github.com/s4n7h0/Halcyon/    //Java。 IDE for Nmap Script NSE编辑器
 ### golang开发
 - https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/。
 - https://goproxy.io/zh/    //goroxy，加载国内库源快速。W:goproxy.cn/;--

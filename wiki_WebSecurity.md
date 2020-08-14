@@ -32,7 +32,7 @@
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
-- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能，这个比较轻。
+- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;--。
 ### 资产风险测试
