@@ -79,14 +79,14 @@
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
-### 系统检查基线
+### 系统安全基线检查
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
-- https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
+- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 ### 系统ACL策略安全
 - https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。

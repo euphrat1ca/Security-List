@@ -63,6 +63,7 @@
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
 ## awvs拓展插件相关工具
+- awvs下载    //fahai.org;--
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:/fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包

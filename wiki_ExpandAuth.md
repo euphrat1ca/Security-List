@@ -274,13 +274,13 @@
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite    //hacktricks提权技巧总结。
 - https://github.com/AlessandroZ/BeRoot    //Py。通过检查常见的错误配置来查找提权方法，支持Windows/Linux/Mac
-### Windows提权手段
+### Windows利用手段
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Watson    //C#。查找Windows 10 & Server 2016 & 2019未打补丁。G:rasta-mouse/Sherlock;--
-### Linux提权手段
+### Linux利用手段
 - https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:/linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:/belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
