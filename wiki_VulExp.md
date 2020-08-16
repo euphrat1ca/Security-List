@@ -139,7 +139,7 @@
 #### Weblogic中间件漏洞
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
-- - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
+- https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
 - https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。
 - https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020，GUI界面。
 - https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具,包含CVE-2019前。
