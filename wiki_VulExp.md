@@ -5,6 +5,10 @@
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
 - https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
+## 漏洞市场/SRC/BugBounty
+- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
+- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
+- https://0day.today    //漏洞市场
 ## 漏洞共享平台
 - https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
 - https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章，漏洞公开详情。
@@ -56,12 +60,12 @@
 - https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能
 - https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie
-### 沙盒虚拟机容器逃逸
+### 沙盒虚拟机容器漏洞
 - https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸
 - https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905
 - https://github.com/MorteNoir1/virtualbox_e1000_0day    //VirtualBox E1000 Guest-to-Host Escape逃逸。教程
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2    //Ghostscript：基于漏洞CVE-2018-17961的-dSAFER沙盒逃逸技术
-- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker虚拟机逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。G:/twistlock/RunC-CVE-2019-5736;W:Docker逃逸初探;公众号:Docker逃逸小结第一版;--
+- https://github.com/Frichetten/CVE-2019-5736-PoC    //Go。Docker容器逃逸通过利用容器内覆盖和执行主机系统runc二进制文件。docker与runc有版本要求。G:/twistlock/RunC-CVE-2019-5736;W:Docker逃逸初探;公众号:Docker逃逸小结第一版;--
 - https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/    //Docker代码编译命令执行 （CVE-2019-13139）
 - https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/    //Docker cp命令漏洞 (CVE-2019-14271)
 - https://github.com/shogunlab/awesome-hyper-v-exploitation    //Hyper-V漏洞汇总
@@ -73,8 +77,8 @@
 - https://github.com/projectzeroindia/CVE-2019-19781    //Citrix产品云服务智能网关vpn命令执行RCE
 - https://github.com/jas502n/CVE-2020-8193    //Citrix云服务平台任意文件读取漏洞。
 - https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    //CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;
-## Web漏洞利用CMS工具
-- https://github.com/SecWiki/CMS-Hunter    //CMS漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
+## Web漏洞利用漏洞
+- https://github.com/SecWiki/CMS-Hunter    //CMS工具漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架。G:/chuhades/CMS-Exploit-Framework;--
 - https://github.com/Tuhinshubhra/CMSeeK    //Py。WordPress,Joomla,Drupal等170余种CMS扫描识别检测。welljob。G:/Dionach/CMSmap;--
 - https://github.com/blackye/Jenkins    //Jenkins系统监控框架漏洞探测、用户抓取爆破。
@@ -118,7 +122,7 @@
 - https://github.com/pwntester/ysoserial.net    //C#。配合PowerShell生成有效负载利用.Net反序列化漏洞
 ### Python服务漏洞
 - https://github.com/ryu22e/django_cve_2019_19844_poc/    //py。Django任意密码重置
-### Java服务漏洞
+### Java框架漏洞
 - https://github.com/threedr3am/learnjavabug    //java。Java安全相关的漏洞和技术demo
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
 - https://github.com/NickstaDB/BaRMIe    //Java。枚举测试Java RMI（远程调用服务）安全
@@ -132,10 +136,10 @@
 - https://www.freebuf.com/column/240174.html/    //Jboss漏洞利用。主要是未授权访问带来的文件上传（CVE-2007-1036、CVE-2010-0738、CVE-2006-5750、JBoss jmx-consoleHtmlAdaptor addURL() File Upload Vulnerability），与反序列化造成的命令执行（CVE-2015-7501、CVE-2017-7504、CVE-2017-12149、CVE-2013-4810）。
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
-#### Weblogic中间件相关漏洞
+#### Weblogic中间件漏洞
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
-- - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
+- https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
 - https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。
 - https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020，GUI界面。
 - https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具,包含CVE-2019前。
@@ -144,29 +148,30 @@
 - https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，‘wls9_async_response’与‘wls-wsat’组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
-#### Struts2框架相关漏洞
+#### Struts2框架漏洞
 - https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
-#### SpringBoot框架相关漏洞
+#### SpringBoot框架漏洞
 - https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist。
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x。
-#### Tomcat框架相关漏洞
+#### Tomcat框架漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py.tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行。
 - https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞。
 - https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵
-### Apache框架相关漏洞
-- https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
-- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
-- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
-- https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
+#### Shiro安全框架漏洞
 - https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。G:/wyzxxz/shiro_rce;--
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
 - https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
 - https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动检测shiro指纹。
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
-### Nginx相关漏洞
+### Web服务器Apache漏洞
+- https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
+- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
+- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
+- https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
+### Web服务器Nginx漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
 ### 数据库漏洞
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net命令执行。
@@ -175,6 +180,7 @@
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:/Ridter/redis-rce;G:/RicterZ/RedisModules-ExecuteCommand;--
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:/CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
+## Linux利用漏洞
 ### Linux提权利用
 - https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits，Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;G:/bcoles/kernel-exploits;--
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛条件竞争写入只读(r)文件。Linux/Android 平台，release编译exp。goodjob。
@@ -186,7 +192,7 @@
 - https://github.com/0x00-0x00/CVE-2018-1000001    //冲区溢出 suid提权Ubuntu 16.04.3 LTS glibc <= 2.26。goodjob。
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
-## MS微软相关漏洞
+## MS微软漏洞
 - https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
@@ -258,7 +264,3 @@
 - https://www.anquanke.com/post/id/163000    //利用Excel 4.0宏躲避杀软检测的攻击技术分析
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py    //Py。配合responder利用word文档窃取ntlm哈希
 - https://github.com/deepzec/Bad-Pdf    //Py。配合responder利用恶意pdf窃取ntlm哈希
-## 漏洞市场/SRC/BugBounty
-- https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
-- http://www.zerodium.com/    //灰色漏洞交易平台0day市场
-- https://0day.today    //漏洞市场

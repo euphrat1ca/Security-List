@@ -40,3 +40,5 @@
 - https://github.com/bunzen/pySSDeep    //Py。一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:/glaslos/ssdeep;G:/ssdeep-project/ssdeep;--
 - http://blog.topsec.com.cn/alphafuzzer/    //启明星辰阿尔法实验室以文件格式为主的漏洞挖掘工具
 - https://github.com/Cisco-Talos/mutiny-fuzzer    //Py。MikroTik基于pcap包解析的网络协议模糊测试。
+### 客户端模糊测试
+- https://github.com/dzzie/COMRaider    //客户端溢出风险测试

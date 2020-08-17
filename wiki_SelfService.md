@@ -97,13 +97,14 @@
 - https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
 - https://github.com/amefs/FreeNAS-Doc-Chs    //FreeNAS（网络附加存储）
 - https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
-- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee //商业;P:/goodsync //商业版;--
+- https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee;P:/goodsync;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
 ### 云盘存储
-- https://send.firefox.com/    //火狐网盘传输。G:/mozilla/send;--
-- https://cowtransfer.com/    //奶牛快传。W:wenshushu.cn/;W:anonfile.com/;W:upload.ee/;W:ssavr.com;--
+- https://send.firefox.com/    //火狐Free网盘传输。G:/mozilla/send;--
+- https://cowtransfer.com/    //奶牛快传免费网盘。W:wetransfer.com;W:wenshushu.cn/;W:filecad.com;W:anonfile.com/;W:upload.ee/;--
+- http://www.pastebin.com/    //在线文档分析。W:ssavr.com;--
 - https://deershare.com/send    //P2P文件点对点传输。G:/RobinLinus/snapdrop;W:send-anywhere.com;--
-- https://www.rejetto.com/hfs/    //DELPHI。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
+- https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。

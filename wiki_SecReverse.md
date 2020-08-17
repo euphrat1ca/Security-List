@@ -1,4 +1,4 @@
-## 逆向破解分析
+# 逆向破解分析
 - https://www.pelock.com/articles/reverse-engineering-tools-review    //Reverse engineering tools review 逆向工具测评
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
@@ -11,6 +11,9 @@
 - https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构（PeDollc/PeDolls）。
 - https://bbs.ichunqiu.com/thread-16846-1-1.html    //intro。PeDoll 调戏木马病毒的正确姿势-正式篇
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
+## 客户端安全
+- http://www.rohitab.com/apimonitor    //客户端C/S架构API监控工具
+- https://github.com/theLSA/hack-cs-tools    //客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
 ### PC端逆向分析
 - https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;
 - https://github.com/xrkk/awesome-ida    //IDA Pro有关的资源收集

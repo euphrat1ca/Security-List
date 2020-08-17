@@ -79,14 +79,14 @@
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
-### 系统检查基线
+### 系统安全基线检查
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 - https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
-- https://github.com/wstart/DB_BaseLine    //数据库基线检查工具
+- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 ### 系统ACL策略安全
 - https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
@@ -107,15 +107,11 @@
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
-- https://github.com/arunmagesh/hw_hacking_cheatsheet    硬件hardware测试条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
-- https://github.com/theLSA/CS-checklist    //CS客户端检查条目checklist
-- https://github.com/theLSA/hack-cs-tools    //CS客户端测试工具，配合客户端checklist
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
-- 汽车安全测试Checklist    //水滴安全实验室
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
 ## IPv6安全相关
@@ -204,6 +200,7 @@
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ## 社工相关
 - https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
+- https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
 - https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
@@ -254,7 +251,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M，stascorp.com解压密码Stas'M Corp.
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
 - https://github.com/Moham3dRiahi/XBruteForcer    //perl。WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破。
-- https://github.com/ryanohoro/csbruter/    //cobaltstrike服务密码爆破，3.10版本
+- https://github.com/ryanohoro/csbruter/    //cobaltstrike服务密码爆破，3.10版本。
+- https://github.com/theLSA/awBruter    //木马一句话爆破
 ### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
 - https://securityxploded.com/download.php/    //各种密码方向安全小工具
