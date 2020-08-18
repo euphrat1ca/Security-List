@@ -5,6 +5,7 @@
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
 - https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
+- https://github.com/Mr-xn/Penetration_Testing_POC    //渗透测试有关的POC、EXP、脚本、提权、小工具。goodjob。
 ## 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
@@ -42,7 +43,7 @@
 ### 安全设备漏洞
 - https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //Intro。如何攻击飞塔Fortigate SSL VPN
-- https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码，冰蝎软件配置漏洞，免密码连接，增添agent头校验。
+- https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码。冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 ### 网络设备漏洞
 - https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露

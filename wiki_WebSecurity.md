@@ -236,8 +236,9 @@ G:/timwhitez/crawlergo_x_XRAY;W:xz.aliyun.com/t/7047;G:/piaolin/fofa2Xray;--
 - https://github.com/Chora10/Cknife/pulls    //Java。中国菜刀,greatjob,2K。Github:/SecQuanCknife;gitee.com/9199771/cknife;--
 - https://github.com/euphrat1ca/hatchet    //C++。中国大砍刀。
 - https://github.com/keepwn/Altman    //.Net,mono。跨平台菜刀。
-- https://github.com/euphrat1ca/Behinder    //JAVA6.rebeyond“冰蝎”动态二进制加密网站管理客户端
+- https://github.com/euphrat1ca/Behinder    //Java6。rebeyond“冰蝎”动态二进制加密网站管理客户端
 - https://xz.aliyun.com/t/2744    //Intro。“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
+- https://github.com/BeichenDream/Godzilla    //Java。哥斯拉shell管理工具
 - https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序，目前支持php、jsp，CS端通信加密
 - https://github.com/xl7dev/WebShell    //webshell收集项目。Github:/tennc/webshell;--
 ### php webshells

@@ -3,7 +3,8 @@
 - https://github.com/alphaSeclab/awesome-forensics    //取证相关工具和文章。收集的所有开源工具: sec-tool-list;逆向资源: awesome-reverse-engineering;网络相关的安全资源: awesome-network-stuff;攻击性网络安全资源: awesome-cyber-security;开源远控和恶意远控分析报告: awesome-rat;Webshell工具和分析/使用文章: awesome-webshell;--
 - https://github.com/laramies/metagoofil    //Py。从文件获取相关网站的用户名与邮箱等数据。documents (pdf,doc,xls,ppt,etc).
 - https://github.com/mozilla/mig    //go。火狐mozilla基金会针对海量文件的内容定位工具，支持节点分级部署。Deprecation。
-- https://polytechnic.purdue.edu/facilities/cybersecurity-forensics-lab/tools    //FileTSAR大规模的数据调查取证.
+- https://polytechnic.purdue.edu/facilities/cybersecurity-forensics-lab/tools    //FileTSAR大规模的数据调查取证。
+- https://techtalk.gfi.com/top-20-free-digital-forensic-investigation-tools-for-sysadmins/    //翻译|系统管理员免费数字取证调查工具TOP20
 ### 文件取证
 - https://www.audacityteam.org/    //音频文件和波形图处理工具
 - https://github.com/redaelli/imago-forensics    //Py3。将照片中Exif、MIME等信息提取存入CSV/sqlite中
