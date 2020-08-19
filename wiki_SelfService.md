@@ -4,6 +4,7 @@
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 # 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
+- https://awesome-hub.com/    //Awesome 列表
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://lovelive.tools/    //说话的艺术，渣男语录
 - https://github.com/jxlwqq/id-validator.py    //Py3。居住证号码验证工具（Python 版）
