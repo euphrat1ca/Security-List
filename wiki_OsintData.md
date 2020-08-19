@@ -291,15 +291,12 @@
 - https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）
 - https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破
 - https://github.com/TheM4hd1/PenCrawLer    //C#。界面，web爬虫与目录路径爆破工具，除了常规扫描增加了递归爆破模式
-- https://github.com/maurosoria/dirsearch    //经典目录路径扫描
-- https://github.com/Xyntax/DirBrute    //目录路径爆破工具
-- https://github.com/abaykan/crawlbox    //目录路径路径扫描器
-- https://github.com/deibit/cansina    //目录路径路径扫描器
-- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞
+- https://github.com/maurosoria/dirsearch    //经典目录路径扫描。G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
+- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，可发现Execution After Redirect漏洞
 - https://github.com/fnk0c/cangibrina    //通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器
-- https://github.com/Go0s/SitePathScan    //基于协程的目录路径爆破工具，配合aiohttp扫描路径比之前快了三倍有余
-- https://github.com/0daysec/webscan_dir    //Py。轻量级web目录扫描器，支持选择字典和过滤状态码
-- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GOODJOB。
+- https://github.com/Go0s/SitePathScan    //基于协程的目录路径爆破工具，配合aiohttp扫描路径比之前快了三倍有余。
+- https://github.com/0daysec/webscan_dir    //Py。轻量级web目录扫描器，支持选择字典和过滤状态码。
+- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
 - https://github.com/jerrychan807/WSPIH    //Py3。敏感文件路径扫描下载
 - https://github.com/aipengjie/sensitivefilescan    //Py3。网站敏感文件扫描工具
 - https://github.com/Mosuan/FileScan    //Py。网站敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
