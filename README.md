@@ -20,7 +20,6 @@
 - http://www.freebuf.com/articles/ics-articles/178822.html    //浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
-- 公众号：终端安全运营年度笔记    //
 ### 安全建设防御方案
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
@@ -42,6 +41,7 @@
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
+- 公众号：终端安全运营年度笔记    //
 ### 安全风控建设
 - https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
