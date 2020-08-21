@@ -116,7 +116,8 @@
 - https://isc.sans.edu/api/threatlist/shodan/    //shodan撒旦扫描器节点
 - http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP\域名
 - reputation.alienvault.com/reputation.data/    //恶意IP\域名
-- https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名
+- https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名。
+- https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
 ### APT威胁情报
 - https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;
 - https://github.com/blackorbird/APT_REPORT    //黑鸟apt组织报告与公开文件
