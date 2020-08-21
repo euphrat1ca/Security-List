@@ -217,7 +217,7 @@
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
 - https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
 - https://windows-internals.com/printdemon-cve-2020-1048/    //利用打印机服务进行本地欺骗提权。G:/ionescu007/PrintDemon;--
-- https://github.com/math1as/CVE-2020-1337-exploit    //Powershell。打印机重启调用系统功能，利用‘mklink’绑定提权。
+- https://github.com/math1as/CVE-2020-1337-exploit    //Powershell。打印机重启调用系统功能，利用‘mklink’绑定提权。G:/sailay1996/cve-2020-1337-poc;--
 - https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
 - https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
 - https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
