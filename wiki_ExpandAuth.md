@@ -135,7 +135,6 @@
 - https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
-
 ## 文件免杀
 - https://bbs.pediy.com/thread-260539.htm    //杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
 - https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
@@ -218,6 +217,7 @@
 - https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。测试脚本集与开发框架。AntivirusBypass寻找反病毒特征码，CodeExecution注入DLL脚本，Exfiltration隐私记录，Mayhem破坏，Persistence权限维持，Privesc提权，Recon信息收集，ScriptModification编码加密。5.4k,goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //公众号：常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:/t57root/pwnginx;G:/0x09AL/IIS-Raid;G:/WBGlIl/IIS_backdoor;--
+- https://github.com/jfmaes/Backdoorplz    //C++。Windows用户名后门demo。
 ### 权限维持白利用
 - https://zhuanlan.zhihu.com/p/132644184    //Windows远程文件下载执行的15种姿势。PowerShell;Bitsadmin;certutil/InstallUtil;ipc$文件共享;mshta;rundll32;regsvr32/SCT文件;msiexec;‘pubprn.vbs’;IEExec;‘MSXSL.EXE’;FTP;TFTP;wget;WinScp;--
 - https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload，利用用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。

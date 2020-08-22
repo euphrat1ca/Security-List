@@ -170,8 +170,8 @@
 - https://github.com/bingohuang/docker-labs    //制作在线docker平台
 ### 离线靶场学习
 - https://github.com/WebGoat/WebGoat    //Java。一键jar包web安全实验靶场
-- https://github.com/Audi-1/sqli-labs    //PHP。基于SQLite的sql注入学习靶场
-- https://github.com/lcamry/sqli-labs    //Intro。通过sqli-labs演示mysql相关的注入手法
+- https://github.com/Audi-1/sqli-labs    //PHP。基于SQLite的sql注入学习靶场。/lcamry/sqli-labs;--
+- https://github.com/Charlie-belmer/vulnerable-node-app    //Node.js。Mongodb Nosql注入靶场。P:NoSql数据库之漏洞利用方法总结;--
 - https://github.com/virusdefender/ssrf-app    //Py。服务端请求伪造ssrf靶场实例
 - https://github.com/c0ny1/upload-labs    //PHP。一个帮你总结所有类型的上传漏洞的靶场
 - https://github.com/LandGrey/upload-labs-writeup    //Intro。upload-labs指导手册
