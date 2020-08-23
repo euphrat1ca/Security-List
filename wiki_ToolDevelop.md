@@ -114,7 +114,8 @@
 - https://github.com/dcsync/pycobalt    //Py3。Python API for Cobalt Strike
 - https://github.com/Ridter/CS_Chinese_support/    //cs3.0传输信息的汉化插件
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
-- https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒
+- https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
+### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 ### cobaltstrike加密通讯
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
@@ -137,6 +138,7 @@
 - https://github.com/rsmudge/ElevateKit/    //PS。cna插件，CS利用第三方模块提权
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit
 - https://github.com/rxwx/spoolsystem    //利用漏洞欺骗打印机进行提权
+- https://github.com/dtmsecurity/bof_helper    //Py3。BOF编写辅助器。
 ## 菜刀拓展插件相关工具
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js。免杀webshell无限生成工具蚁剑版
