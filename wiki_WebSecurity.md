@@ -217,6 +217,9 @@
 - https://github.com/Hadesy2k/sqliv    //Py3。基于搜索引擎的批量SQL注入漏洞扫描器。G:bambish/ScanQLi;--
 #### Oracle数据库利用
 - https://mp.weixin.qq.com/s/kxgD0yhPIYoYOSihX9mFcw    //公众号：Oracle命令执行小结
+- https://redn3ck.github.io/2018/04/25/Oracle注入-命令执行-Shell反弹/    //Oracle注入 - 命令执行&Shell反弹
+- https://www.iswin.org/2015/06/13/hack-oracle/    //Oracle Sql注入利用方法
+- https://github.com/jas502n/oracleShell    //rebeyond-oracleShell，数据库命令执行
 - https://github.com/quentinhardy/odat    //针对Oracle注入渗透工具
 #### 关系型数据库利用
 - https://github.com/codingo/NoSQLMap    //Py3。针对nosql数据库的注入工具。1k。
