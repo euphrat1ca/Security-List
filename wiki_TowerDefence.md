@@ -1,4 +1,5 @@
 # 安全体系防御
+- https://shield.mitre.org/attack_mapping/    //ATT&CK主动防御图谱。引导-收集-遏制-检测-扰乱-促进-合法化-实验测试
 - https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
 - https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
 - https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
