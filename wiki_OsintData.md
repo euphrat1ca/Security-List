@@ -206,7 +206,7 @@
 ### Web信息搜集网站
 - https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。
 - https://www.shodan.io/    //空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;--
-- https://www.fofa.so    //白帽汇空间测绘。G:/tangxiaofeng7/Fofa-collect;--
+- https://www.fofa.so    //白帽汇空间测绘。G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;--
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - https://www.dnsdb.io    //全球DNS搜索引擎。DNS记录查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。W:securitytrails.com/;--
 - http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具。W:phpinfo.me/domain/;W:ce.baidu.com;--
