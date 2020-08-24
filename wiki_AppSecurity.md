@@ -17,6 +17,7 @@
 - https://github.com/cSploit/android    //Java。cSploit: Android network pentesting suite手机渗透工具框架，可兼容msf
 - https://github.com/euphrat1ca/Smartphone-Pentest-Framework    //PY/C/C++。SPF移动端渗透测试框架，支持电话通讯协议SS7漏洞利用，进行远程SS7指令操作。Web:shevirah.com/dagah/;--
 - https://github.com/metachar/PhoneSploit    //Py。通过shodan搜索开启调试模式的安卓设备，利用Adb控制安卓设备。
+- https://github.com/mesquidar/adbsploit    //Py3。利用Adb控制安卓设备。
 - https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
 ### Android安全

@@ -41,6 +41,7 @@
 - https://github.com/0v3rl0w/e013    //VB。窃取Wifi密码. 
 - https://github.com/cls1991/ng    //Py。获取你当前连接wifi的密码与ip
 - https://github.com/wi-fi-analyzer/fluxion    //窃取用户wifi密码的进行密码重放攻击
+- https://github.com/blunderbuss-wctf/wacker    //C,C++。WPA3无线AP点攻击
 ### WIFI网络防御
 - https://github.com/SkypLabs/probequest    //嗅探和显示无线网卡附近的Wifi Probe请求
 - https://github.com/wangshub/hmpa-pi    //在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒
