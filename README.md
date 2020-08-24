@@ -265,7 +265,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具
 - https://github.com/s0md3v/Hash-Buster    //能调用多个API进行hash破解查询的智能工具
 - https://github.com/magnumripper/JohnTheRipper    //C。开膛手john，已知密文的情况下尝试破解出明文的破解密码软件
-- https://github.com/shinnok/johnny    //C++。John The Ripper Windows GUI界面。
+- https://github.com/shinnok/johnny    //C++。John The Ripper Windows 界面GUI。
 - https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
 - https://github.com/thehappydinoa/iOSRestrictionBruteForce    //Py。实现的 ios 访问限制密码破解工具
 - https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具

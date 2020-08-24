@@ -92,8 +92,8 @@
 - https://github.com/darkoperator/Metasploit-Plugins    //msf扩展资产搜集与帮助插件
 - https://github.com/D4Vinci/One-Lin3r    //metasploit、payload辅助查询工具
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
-- https://github.com/scriptjunkie/msfgui    //Java。metasploit的GUI界面，强化Windows下支持。Noupdate。Goodjob。
-- https://github.com/Zerx0r/Kage    //VueJS。图形化MSF的GUI界面，Session Handler控制。goodjob。
+- https://github.com/scriptjunkie/msfgui    //Java。metasploit的界面GUI，强化Windows下支持。Noupdate。Goodjob。
+- https://github.com/Zerx0r/Kage    //VueJS。图形化MSF的界面GUI，Session Handler控制。goodjob。
 ## Empire拓展插件相关工具
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面

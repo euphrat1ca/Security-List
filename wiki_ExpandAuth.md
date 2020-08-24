@@ -75,13 +75,13 @@
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
 ### JavaScript远程协助
-- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，WebGui界面。
+- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，Web界面GUI。
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
 - https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版，配合rundll32远程加载。
 - https://github.com/shelld3v/JSshell/    //Py。js远控。
 ### Windows远程协助
-- https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与gui界面。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
+- https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。基于大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
 - https://github.com/quasar/QuasarRAT/    C#。界面化远程管理工具。G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
@@ -244,7 +244,7 @@
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
 - https://gitee.com/killvxk/infected_dll    //恶意DLL文件样例
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:/rootm0s/WinPwnage;G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
-- https://github.com/fatihsnsy/DLInjector-GUI    //C++。基于进程名注入，可等待进程启动后再注入，GUI界面。
+- https://github.com/fatihsnsy/DLInjector-GUI    //C++。基于进程名注入，可等待进程启动后再注入，界面GUI。
 - https://www.4hou.com/posts/wRPR    //深入分析 DLL 调用过程实现“自适应” DLL 劫持。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中。
 - https://github.com/mdsecactivebreach/RDPInception/    //Bat,CS插件。基于tsclient服务进行rdp劫持，利用ps反弹shell。G:/bohops/SharpRDPHijack;--

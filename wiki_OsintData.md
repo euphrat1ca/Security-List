@@ -155,7 +155,7 @@
 # OSINT信息搜集利用
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
-- https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，gui界面，插件化，在线SpiderFoot HX服务。2K。greatjob。
+- https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，界面GUI，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
 - https://github.com/yassineaboukir/Asnlookup    //利用ASN搜索特定组织ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。利用搜索引擎对关键词进行内容采集。
