@@ -1,26 +1,25 @@
 # 开源情报数据源分析
 - https://github.com/BuzzFeedNews    //网络数据集集合
 - https://www.start.umd.edu/gtd/    //全球恐怖主义动向数据库官网
-- http://dingba.top/qqzk    //全球智库
 - https://data.mendeley.com/    //门德利数据集
 - http://snap.stanford.edu    //斯坦福公开数据集。人口/社交/等
 - https://www.tianyancha.com/    //中国境内公司情报。企查查
 - https://opencorporates.com/    //国际天眼查
-- http://dingba.top/    //丁爸情报分析师。文章/资源汇总
-- https://osintcurio.us    //荷兰开源情报分析师博客
 - http://yss.mof.gov.cn/    //预算司
+- http://dingba.top/    //丁爸情报分析师。P:/qqzk/ //全球智库;--
+- https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
+- https://osintcurio.us    //荷兰开源情报分析师博客
 - https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf/    //情报收集组织。开源情报资源与工具手册2018版
 - https://fas.org/irp/doddir/army/fmi2-22-9.pdf/    //开源情报的特征、开源情报组织、开源情报注意事项、开源情报的运作的计划和准备、开源情报类别、开源情报收集和处理等内容。
 - https://fas.org/irp/doddir/army/atp2-22-9.pdf/    //美国陆军开源情报2012版
 - https://osintframework.com/    //开源情报搜索框架超链接集合
-- https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ## 事件信息源
 - https://www.wilderssecurity.com/    //类t00ls国际安全论坛
 - 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
 - 物联网关键词：IOT/Car Can/Drone
 - https://thehackernews.com/    //安全新闻源
-- https://www.wired.com/    //网络新闻源。
+- https://www.wired.com/    //网络新闻源
 - https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
 - https://www.zdnet.com/rssfeeds/    //安全新闻
 ### 工业事件源
