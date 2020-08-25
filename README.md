@@ -12,7 +12,8 @@
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库
 - https://www.alibabacloud.com/blog    //阿里安全建设
-- https://security.tencent.com/index.php/blog/msg/139    //腾讯安全建设。网络空间安全时代的红蓝对抗建设
+- https://security.tencent.com/index.php/blog/msg/139    //腾讯安全建设。网络空间安全时代的红蓝对抗建设。
+- https://security.tencent.com/opensource/detail/19    //腾讯开源的xSRC应急响应中心cms框架。
 - https://github.com/baidu-security    //百度安全建设
 - https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention    //谷歌安全建设
 - https://aws.amazon.com/cn/blogs/security/    //亚马逊安全建设
@@ -42,6 +43,7 @@
 - https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
 - 公众号：终端安全运营年度笔记    //
+- https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
 ### 安全风控建设
 - https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
