@@ -186,7 +186,8 @@
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
 ## Bypass监控设备
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
-- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR
+- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
+- https://github.com/itm4n/UsoDllLoader    //C++。Windows10 version 1903 USO服务每次创建Update Session时都会尝试加载不存在的DLL（windowscoredeviceinfo.dll）特权文件写入
 - https://github.com/bats3c/DefensiveInjector    //C。shellcode加密EDR绕过
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
