@@ -137,6 +137,7 @@
 - https://www.gobaidugle.com    //聚合搜索
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
+- https://github.com/meilisearch/MeiliSearch    //Rust。搜索引擎服务。
 ## 系统运维
 - https://www.itsk.com/index.php    //IT天空，系统操作运维。
 - https://www.itsk.com/thread-401292-1-1.html    //it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
