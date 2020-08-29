@@ -19,6 +19,7 @@
 - https://github.com/BeetleChunks/redsails    //PY,C++。利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
 - https://github.com/Pandentia/protoplex    //Go。OpenVPN、SSH、SOCKS、http/s协议多路复用器。
 ### 代理池
+- https://github.com/sergeyfrolov/httpt    //响应TLS来降低代理被识别的几率。
 - https://github.com/SpiderClub/haipproxy    //Py3。Scrapy and Redis，高可用ip代理池
 - https://github.com/chenjiandongx/async-proxy-pool    //py3。异步爬虫ip代理池
 - https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发。
