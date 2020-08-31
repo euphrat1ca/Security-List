@@ -46,6 +46,7 @@
 - https://github.com/osquery/osquery    //C++。Facebook创建的SQL驱动操作系统检测和分析工具，支持像SQL语句一样查询系统的各项指标，如运行进程/加载内核模块/网络连接/浏览器插件/硬件事件/文件哈希等。‘osquery.io’。14k。
 - https://www.portablesoft.org/    //可以Unlock占用文件的进程，查看文件或文件夹被占用的情况，内核模块和驱动的查看管理，进程模块的内存dump等工具
 - https://github.com/processhacker/processhacker    //C。Process hacker 监控系统资源、内存以及模块信息、软件调试，管理进程
+- https://github.com/zodiacon/ProcMonXv2    //C++。Process Monitor Windows内核监控。
 - https://github.com/rabbitstack/fibratus    //Py。对Windows内核活动-进程/线程创建和终止，上下文转换，文件系统I/O，寄存器，网络活动以及DLL加载/卸载等进行捕捉。
 - https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
 - https://github.com/kkamagui/shadow-box-for-arm    //C,Py。ARM架构Linux系统监控，*shadow-box-for-x86*架构系统监控。
