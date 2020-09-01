@@ -249,6 +249,7 @@
 - https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
 - https://github.com/chrismaddalena/ODIN    //Py3。simple。信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
+- https://github.com/knownsec/ksubdomain    //Go。无状态子域名爆破工具
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 ### 敏感漏洞信息

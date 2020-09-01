@@ -4,7 +4,7 @@
 - https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
-- https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测等
+- https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用
 ## 资产信息搜集
