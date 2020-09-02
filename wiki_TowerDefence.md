@@ -128,6 +128,7 @@
 - https://github.com/chaitin/cloudwalker    //Go。长亭牧云服务器安全管理平台，webshell查杀。NoUpdate。
 - https://www.shellpub.com/    //河马webshell查杀。社区版跨平台。
 - https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
+- https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
 ## 流量协议操作
@@ -149,7 +150,7 @@
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。goodjob。
 - https://github.com/brimsec/brim    //JS。大型pcap流量包分析工具，可转换为zeek专有格式，结合wireshark对流量进行分析。goodjob。WebGUI。
-- https://github.com/aol/moloch    //大规模全流量流量包捕获分析系统，capture/viewer/elasticsearch。
+- https://github.com/aol/moloch    //大规模全流量流量包捕获分析系统，capture/viewer/elasticsearch。GreatJob。
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动流量指纹识别TCP/http
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。

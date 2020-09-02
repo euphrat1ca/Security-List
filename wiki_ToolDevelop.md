@@ -119,8 +119,9 @@
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 ### cobaltstrike加密通讯
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
+- https://github.com/search?l=Batchfile&o=desc&q=signtool+sign+pfx&s=indexed&type=Code    //使用第三方证书签名
 - https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
-- https://www.cobaltstrike.com/help-malleable-c2    //配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
+- https://www.cobaltstrike.com/help-malleable-c2    //Malleable C2 Profiles，配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
 - https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
