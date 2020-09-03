@@ -15,6 +15,7 @@
 - https://github.com/jiansiting/ripple20-poc    //Py。基于ICMP_MS_SYNC的ripple20 poc。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //Py。瑞士军刀类型IOT设备安全测试
+- https://www.anquanke.com/post/id/212335    //物联网安全之MQTT协议安全。P:/post/id/216074 //物联网安全之MQTT渗透实战;--
 ## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
