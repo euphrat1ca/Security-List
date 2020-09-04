@@ -47,7 +47,7 @@
 - https://github.com/RustyShackleford221/OSCP-Prep    //OSCP-EXAM
 - https://github.com/lsh4ck/oscp    //oscp历程。lshack.cn备战
 - https://0xdarkvortex.dev/index.php/2018/04/17/31-days-of-oscp-experience/    //31 days of OSCP Experience
-#### OSCE漏洞挖掘
+#### OSCE二进制漏洞
 - https://www.freebuf.com/news/206041.html    //中文首发丨OSCE（Offensive Security Certified Expert）考证全攻略
 - https://github.com/ihack4falafel/OSCE    //
 - https://github.com/dhn/OSCE    //

@@ -152,6 +152,7 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
 ### 安全测试辅助
+- https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
 - https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
