@@ -16,6 +16,7 @@
 ### 前端攻击画像
 - https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。P:指纹追踪技术—跨浏览器指纹识别;P:/crossbrowsertracking_NDSS17.pdf;--
+- https://www.anquanke.com/post/id/216259    //设备指纹指南。P:/post/id/216262;--
 - https://github.com/WMJonssen/Centcount-Analytics    //PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹。
 - https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。W:whoer.net //web应用指纹获取集合;--
