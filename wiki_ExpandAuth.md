@@ -30,6 +30,7 @@
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版，凭证传递。
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob,3K。
+- https://github.com/G0ldenGunSec/SharpSecDump    //C#。远程SAM + LSA转储
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
 ### 横向移动协议利用
