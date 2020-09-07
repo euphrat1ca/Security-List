@@ -103,7 +103,8 @@
 ### 威胁情报源
 - https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
-- https://www.virustotal.com/    //在线威胁情报平台。W:ti.qianxin.com;Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
+- https://www.virustotal.com/    //在线威胁情报平台。
+- https://ti.qianxin.com/    //奇安信威胁情报平台。Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
