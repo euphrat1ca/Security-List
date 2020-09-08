@@ -163,18 +163,19 @@
 ## 人员信息搜集
 ### 社交媒体情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
-- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //公众号：【工具】Facebook相关的一些情报分析工具
-- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //公众号：【工具】一些与Twitter相关的情报分析工具
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
-- https://github.com/xHak9x/fbi    //Py3。facebook脸书信息收集工具
 - https://github.com/initstring/linkedin2username    //通过Linkedin 领英获取相关公司员工列表
+- https://github.com/xHak9x/fbi    //Py3。facebook脸书信息收集工具
+- https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //公众号：【工具】Facebook相关的一些情报分析工具
+- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //公众号：【工具】一些与Twitter相关的情报分析工具
 - https://github.com/0x09AL/raven    //linux下领英Linkedin information gathering tool
 - https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    //Py。获取Twitter用户发推的地址
-- https://github.com/vaguileradiaz/tinfoleak    //WebGui，对twitter账户进行全面的分析
-- http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio，兴趣搜索;
+- https://github.com/vaguileradiaz/tinfoleak    //对twitter账户进行全面的分析。WebGui。
+- https://github.com/sowdust/tafferugli    //Py。twitter分析框架，对tweets进行收集、过滤、分析。WebGui。
+- http://picdeer.org/    //Instagram内容\用户在线搜索。Web:pictame.com;Web:searchmy.bio //兴趣搜索;--
 - https://github.com/martinvigo/ransombile    //Ruby。根据社交媒体密码找回信息
 - https://www.reg007.com/    //注册过哪家网站app
 - https://github.com/rtcatc/check-your-weibo    //微博互关检测脚本
