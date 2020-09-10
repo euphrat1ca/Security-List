@@ -150,6 +150,7 @@
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
 - https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
+- https://github.com/phra/PEzor    //基于Mingw-w64的PE 文件加壳工具，绕过杀软检测
 ### 文件捆绑打包
 - https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
 - http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
@@ -173,6 +174,7 @@
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
 - https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，将shellcode混淆存储图像中。
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
