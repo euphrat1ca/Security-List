@@ -79,6 +79,7 @@
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ### 地理定位ip库分布
+- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
 - https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;
@@ -238,9 +239,6 @@
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k,goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
 - https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机。
 - https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
-- https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎来搜集子域名，支持西班牙语搜集。
-- https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名 和 一些文件路径 (包含多个数据集)
-- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://github.com/vysec/DomLink    //Py3。调用whoxy.com，对邮箱和域名进行进一步的搜集
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
 - https://github.com/Xyntax/BingC    //Py。基于Bing搜索引擎的C段/旁站查询，多线程
@@ -252,6 +250,10 @@
 - https://github.com/chrismaddalena/ODIN    //Py3。simple。信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
 - https://github.com/knownsec/ksubdomain    //Go。无状态子域名爆破工具
+### 网址采集
+- https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
+- https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎url采集，支持西班牙语搜集。
+- https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名采集 和 一些文件路径 (包含多个数据集)
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 ### 敏感漏洞信息

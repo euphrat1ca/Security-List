@@ -47,6 +47,7 @@
 - https://github.com/viaforensics/android-forensics    //安卓取证App和框架，可以对安卓设备内各种信息进行提取
 - https://www.freebuf.com/articles/rookie/195107.html    //记一次微信数据库解密过程。微信的加密数据库的解密密码是由“设备的IMEI(MEID)+用户的uin，进行MD5，然后取其前7位小写字母”构成的
 - https://www.freebuf.com/news/193684.html    //iOS取证技巧：在无损的情况下完整导出SQLite数据库
+- https://github.com/jfarley248/MEAT    //Py3。基于越狱与Cydia框架的IOS取证
 ## 网络取证
 - https://github.com/Srinivas11789/PcapXray    //py.网络取证工具，可以捕获网络数据包，并可视化为包括设备标识的网络图，并突出显示重要的通信和文件操作。
 - http://f00l.de/pcapfix/    //pcap文件修复
