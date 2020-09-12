@@ -25,6 +25,7 @@
 - https://volafile.org/    //在线匿名聊天室，可传输文件、视频、图像。
 - https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展
 - https://github.com/hack-chat    //js。在线聊天，问号后面跟你的房间名。hack.chat/?your-channel。
+- http://www.vua.sh/    //加密信息通讯
 - https://github.com/akaxincom/openzaly    //Java。聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。rocket.chat/install。
 - https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
