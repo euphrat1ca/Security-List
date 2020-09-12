@@ -161,8 +161,9 @@
 - https://github.com/yassineaboukir/Asnlookup    //利用ASN搜索特定组织ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。利用搜索引擎对关键词进行内容采集。
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
-## 人员信息搜集
-### 社交媒体情报源
+## 社交媒体搜集
+- https://intelx.io/tools    //Open Source Intelligence & Forensic Tools
+### 人员信息情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
@@ -199,8 +200,8 @@
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
 ### 账号密码泄露
 - https://haveibeenpwned.com/    //电子邮件账号泄露，检测。
-- https://intelx.io/    //账号密码泄露，检测。
-- https://ddosecrets.com/data/international/    //blueleaks，并包含各个国家的泄露数据。
+- https://intelx.io/    //账号检测密码泄露。
+- https://ddosecrets.com/data/international/    //blueleaks各个国家的泄露数据。
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
 - http://demo.zeeroq.com/email/    //邮箱密码泄露
 ## Web信息搜集
