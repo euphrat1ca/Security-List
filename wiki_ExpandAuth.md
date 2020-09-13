@@ -91,7 +91,7 @@
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
 - https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell //已编译;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
-- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。
+- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。welljob。
 ### *nix远程协助
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
 - https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:/creaktive/tsh //Tiny SHell;--
@@ -172,10 +172,10 @@
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
-- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode，绕过杀软。
-- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
-- https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，将shellcode混淆存储图像中。
+- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
+- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
@@ -191,7 +191,7 @@
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
 - https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
 - https://github.com/itm4n/UsoDllLoader    //C++。Windows10 version 1903 USO服务每次创建Update Session时都会尝试加载不存在的DLL（windowscoredeviceinfo.dll）特权文件写入
-- https://github.com/bats3c/DefensiveInjector    //C。shellcode加密EDR绕过
+- https://github.com/bats3c/DefensiveInjector    //C。shellcode加密绕过EDR监控。
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
 - https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法。
@@ -203,6 +203,7 @@
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 - https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结。沙箱绕过。
+- https://github.com/tokyoneon/Chimera    //Powershll混淆绕过AMSI。welljob。
 ## Bypass防护设备
 - https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本

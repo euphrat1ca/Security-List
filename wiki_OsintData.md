@@ -234,27 +234,28 @@
 - https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts。G:/bit4woo/teemo;G:/bhavsec/reconspider;--
 - https://github.com/shmilylty/OneForAll    //py3.8。子域收集工具，多接口/爆破/验证/子域名接管。welljob。
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。支持子域名接管漏洞。G:/guelfoweb/knock;--
-- https://github.com/blechschmidt/massdns    //C。通过DNS高效子域发现工具。
-- https://github.com/LangziFun/LangSrcCurise/    Py。SRC子域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/bit4woo/Teemo;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
-- https://github.com/SpiderLabs/HostHunter    //Py3。通过多接口，ssl证书进行hostname子域名查询。G:/We5ter/GSDF;--
+- https://github.com/TophantTechnology/ARL    //Python。斗象资产侦察灯塔系统。WebGUI。goodjob。
+- https://github.com/LangziFun/LangSrcCurise/    Py。SRC域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/bit4woo/Teemo;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k,goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
-- https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机。
-- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
-- https://github.com/vysec/DomLink    //Py3。调用whoxy.com，对邮箱和域名进行进一步的搜集
+- https://github.com/SpiderLabs/HostHunter    //Py3。通过接口、ssl证书进行hostname子域名查询。G:/We5ter/GSDF;--
+- https://github.com/vysec/DomLink    //Py3。调用‘whoxy.com’接口，对邮箱和域名进行进一步的搜集
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
 - https://github.com/Xyntax/BingC    //Py。基于Bing搜索引擎的C段/旁站查询，多线程
-- https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;G:/TheRook/subbrute;--
-- https://github.com/Ice3man543/subfinder    //Golang。go实现的Sublist3r
 - https://github.com/nahamsec/lazyrecon    //Bash。侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等。
-- https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具。G:/ring04h/wydomain;G:/jonluca/Anubis;--
-- https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
 - https://github.com/chrismaddalena/ODIN    //Py3。simple。信息收集与后期漏洞利用
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker    //多方式收集目标子域名信息.G:/x0day/bannerscan;G:/zer0h/httpscan;G:/s0md3v/ReconDog;--
+- https://github.com/euphrat1ca/LayerDomainFinder    //C#。cnseay法师Layer子域名挖掘机。
+- https://github.com/lijiejie/subDomainsBrute    //Py3。子域名爆破枚举工具。G:/ring04h/wydomain;G:/jonluca/Anubis;--
+- https://github.com/Ice3man543/subfinder    //Golang。go实现的Sublist3r。
+- https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;G:/TheRook/subbrute;--
+- https://github.com/blechschmidt/massdns    //C。通过DNS高效子域收集工具。
+- https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
 - https://github.com/knownsec/ksubdomain    //Go。无状态子域名爆破工具
 ### 网址采集
 - https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎url采集，支持西班牙语搜集。
 - https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名采集 和 一些文件路径 (包含多个数据集)
+- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 ### 敏感漏洞信息

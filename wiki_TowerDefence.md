@@ -151,6 +151,7 @@
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。goodjob。
 - https://github.com/brimsec/brim    //JS。大型pcap流量包分析工具，可转换为zeek专有格式，结合wireshark对流量进行分析。goodjob。WebGUI。
 - https://github.com/aol/moloch    //大规模全流量捕获分析系统，capture/viewer/elasticsearch。GreatJob。
+- https://github.com/cisco/mercury    //C++。基于AF_PACKET和TPACKETv3网络元数据捕获和分析，pmercury指纹识别。
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动流量指纹识别TCP/http
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。

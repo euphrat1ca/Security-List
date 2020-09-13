@@ -8,7 +8,8 @@
 - https://github.com/esrrhs/pingtunnel/    //go。构建icmp隧道转发tcp/udp/sock5流量，端口转发、绕过验证，界面GUI。G:/jamesbarlow/icmptunnel;--
 - https://github.com/blackarrowsec/mssqlproxy    //PY。利用sql server进行内网流量代理。
 ### 端口转发
-- https://github.com/Dliv3/Venom    //Go。类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。W:rootkiter.com/Termite/;G:/ls0f/gortcp;Github:/rtcp;Github:/NATBypass;--
+- https://github.com/Dliv3/Venom    //Go。类似于Termite/EarthWorm架构的多节点连接跳板构建多级代理工具。goodjob。W:rootkiter.com/Termite/;G:/ls0f/gortcp;Github:/rtcp;Github:/NATBypass;--
+- https://github.com/ph4ntonn/Stowaway    //Go。树状节点代理。welljob。
 - https://github.com/vzex/dog-tunnel    //Go。Linux下基于kcp的p2p端口映射工具，同时支持socks5代理。2k。
 - https://github.com/decoder-it/psportfwd    //PowerShell。无需admin权限进行端口转发。
 - https://github.com/davrodpin/mole    //Go。基于ssh的端口转发。
