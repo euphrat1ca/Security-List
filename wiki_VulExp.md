@@ -11,10 +11,10 @@
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
 - https://0day.today    //漏洞市场
 ## 漏洞共享平台
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、集成kali系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
 - https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章，漏洞公开详情。
 - https://0day.life    //漏洞研究文章
-- https://bugreader.com    //国外知名厂商公开漏洞详情。
+- https://bugreader.com    //国外厂商公开漏洞详情。
 - https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
 - https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
 - https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情，区块链应用。

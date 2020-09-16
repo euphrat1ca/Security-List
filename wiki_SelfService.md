@@ -19,6 +19,7 @@
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
+- https://mirrors.huaweicloud.com/    //华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
 ### 网页快照
 - https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
 - https://github.com/kingbase/wechat_history_export    //Js。微信公众历史文章保存为PDF、Mhtml。

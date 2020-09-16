@@ -167,6 +167,11 @@
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
 - https://github.com/fireeye/commando-vm    //FireEye开源Commando VM，专为红队（pen-testing）定制的Windows。W:blackwin.ir //win-kali系统类;--
+- https://github.com/undefinedsec/VpsEnvInstall/    //测试环境一键配置脚本
+- https://github.com/moki-ics/moki    //工控渗透测试环境一键配置脚本
+- https://github.com/Manisso/fsociety    //Linux下渗透工具包一键安装。G:/taielab/Taie-RedTeam-OS;--
+- https://github.com/LionSec/katoolin    //Linux服务器自动安装kali工具包
+- https://github.com/TrustedSec/ptf/    //Py。基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
 ## Windows利用工具集合
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。

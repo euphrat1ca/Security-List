@@ -20,7 +20,7 @@
 - https://github.com/onethawt/idaplugins-list    //IDA Plugins插件集合
 - https://github.com/dark-lbp/vxhunter    //Py。利用IDA Pro 7.x与Ghidra 9.0.1和VxWorks对硬件设备进行调试
 - https://github.com/NationalSecurityAgency/ghidra    //Java。NSA出品的软件逆向动态调试框架Ghidra，类比IDA。
-- https://github.com/ghidraninja/ghidra_scripts    //YARA,Py。Ghidra的Binwal\Yara联动插件。
+- https://github.com/ghidraninja/ghidra_scripts    //Py。Ghidra的Binwalk\Yara联动插件。
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra    //Intro。Ghidra教程。
 - https://www.kanxue.com/book-brief-64.htm    //Ghidra操作手册。商业版。
 - https://github.com/angr/angr    //Py。二进制分析工具,支持动态符号执行和静态分析。3k。
@@ -30,7 +30,7 @@
 - https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:/32位汇编分析调试器Ollydbg;G:/horsicq/x64dbg-Plugin-Manager;--
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳操作
-- https://github.com/rednaga/APKiD   //YARA。查找Android应用程序标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
+- https://github.com/rednaga/APKiD   //Py。查找Android应用程序Yara标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:/TUnpacker;G:/BUnpacker;G:/halfkiss/ZjDroid;--
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理

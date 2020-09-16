@@ -82,8 +82,7 @@
 ### ICS漏洞利用
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster //工匠安全实验室;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
-- https://github.com/moki-ics/moki    //一键配置类似于kali的工控渗透测试系统的脚本
-- https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs。工控漏洞POC
+- https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs，工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
 - https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
 - https://github.com/w3h/isf    //py2。基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。

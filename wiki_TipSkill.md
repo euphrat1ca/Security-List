@@ -111,6 +111,7 @@
 - https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
 - https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
 - https://github.com/zorlan/skycaiji/    //php。蓝天采集器，全自动无需干预。
+- https://github.com/kangvcar/InfoSpider    //Py3。针对使用者所拥有的众多数据源爬虫工具箱
 ### Web应用框架
 - https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
