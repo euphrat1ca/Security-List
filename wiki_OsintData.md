@@ -205,6 +205,7 @@
 - https://ddosecrets.com/data/international/    //blueleaks各个国家的泄露数据。
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
 - http://demo.zeeroq.com/email/    //邮箱密码泄露
+- https://www.exploit-db.com/google-hacking-database    //Google Dork数据泄露
 ## Web信息搜集
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
 ### Web信息搜集网站

@@ -109,7 +109,7 @@
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
 ### 多协议远程协助
-- https://blog.csdn.net/Fly_hps/    //隐匿攻击，FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
+- https://blog.csdn.net/Fly_hps/    //隐匿攻击方式。FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
 - https://github.com/fox-it/LDAPFragger    //C#。利用ldap协议进行c2通讯
