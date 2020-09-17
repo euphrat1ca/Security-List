@@ -99,10 +99,11 @@
 - https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
 - https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:/imsebao/Code-Audit //代码审计;--
 - https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频。10K
-### CTF解题思路
+### WriteUps解题思路
 - 公众号：VulnHub通关日记-DC_    //vulnhub write up系列
 - https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:/hongriSec/CTF-Training;Github:/balsn/ctf_writeup;--
 - https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
+- https://github.com/manoelt/50M_CTF_Writeup    //$50 million CTF Writeup
 ### CTF靶场平台
 - https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
 - https://github.com/CTFd/CTFd    //py2。基于flask的动态Capture The Flag framework

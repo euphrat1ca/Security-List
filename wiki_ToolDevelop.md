@@ -126,7 +126,7 @@
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 ### cobaltstrike攻击拓展
 - https://github.com/gloxec/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。
-- https://github.com/darkr4y/geacon    //Go。macos系统beacon上线。goodjob。
+- https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
 - https://github.com/pandasec888/taowu-cobalt-strike    //国产梼杌。testjob。
 - https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名前置上线。公众号:DNS上线CS(反溯源);--
