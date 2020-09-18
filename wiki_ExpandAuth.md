@@ -160,7 +160,7 @@
 - https://github.com/DamonMohammadbagher/FakeFileMaker    //更换图标和名称
 - https://github.com/deepzec/Bad-Pdf    //生成一个pdf文件，内含payload来窃取win上的Net-NTLM哈希
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
-- https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，重制作安装包
+- https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，Nullsoft 脚本安装重制作安装包
 ### Windows混淆免杀
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。

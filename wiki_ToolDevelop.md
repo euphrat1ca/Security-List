@@ -27,6 +27,7 @@
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
 - https://github.com/yandex/burp-molly-pack    //XXE、SSRF漏洞利用探测。
 ## Nmap/Masscan拓展插件相关工具
+- https://xz.aliyun.com/t/6002    //如何修改nmap， 重新编译，绕过IDS流量检测。G:/al0ne/Nmap_Bypass_IDS;--
 - https://github.com/Ullaakut/nmap    //Go。Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //Py。nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
