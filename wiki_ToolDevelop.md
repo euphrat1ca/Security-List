@@ -27,6 +27,7 @@
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
 - https://github.com/yandex/burp-molly-pack    //XXE、SSRF漏洞利用探测。
 ## Nmap/Masscan拓展插件相关工具
+- https://xz.aliyun.com/t/6002    //如何修改nmap， 重新编译，绕过IDS流量检测。G:/al0ne/Nmap_Bypass_IDS;--
 - https://github.com/Ullaakut/nmap    //Go。Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //Py。nmap调用库python
 - https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
@@ -126,10 +127,10 @@
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 ### cobaltstrike攻击拓展
 - https://github.com/gloxec/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。
-- https://github.com/darkr4y/geacon    //Go。macos系统beacon上线
+- https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
-- https://github.com/pandasec888/taowu-cobalt-strike    //梼杌国产化。testjob。
-- https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名上线。公众号:DNS上线CS(反溯源);--
+- https://github.com/pandasec888/taowu-cobalt-strike    //国产梼杌。testjob。
+- https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名前置上线。公众号:DNS上线CS(反溯源);--
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec    //C++。利用Windows远程访问工具（WMIEXEC,PSEXEC,SMBEXEC, ATEXEC）其一的任务计划进行横向，需要与135端口、445端口进行通信。
 - https://github.com/m0ngo0se/Peinject_dll    //使用shellexecute函数感染正常文件PE。testjob。
 ### cobaltstrike漏洞利用

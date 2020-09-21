@@ -3,11 +3,11 @@
 &emsp;&emsp;https://github.com/euphrat1ca/security_w1k1 //Have to say,the index is in my mind<br>
 &emsp;&emsp;一个 Red Team 攻击的生命周期，整个生命周期包括：信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场（扫尾）。<br>
 &emsp;&emsp;几千行的项目有点过于庞大，于是在第两百次更新的时候，选择把一些较为频繁的持续更新内容分到其它文件内。<br>
-分类标签：mywiki;intro;工具手册;通讯技术工具;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;<br>
-导航标签：一个人的安全部;Awesome系列;类似于*架构;<br>
-类型标签：模拟测试;* Kali系统类;* ATT&CK矩阵类;作者拼音;Github:/\Web:\Page:\Connect;常见缩写;<br>
-状态标签：simple;noupdate;商业版;社区版;<br>
-测评标签：testjob;welljob;goodjob;greatjob;<br>
+分类标签：mywiki;教程TechTeach;介绍intro;使用手册;通讯技术;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;移动安全;数字取证;权限拓展;模糊测试;极客学习;万物互联;情报研判;工具插件;安全防护;etc…<br>
+导航标签：一个人的安全部;Awesome系列;类似于xx架构;etc…<br>
+类型标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect 等常见缩写;etc…<br>
+状态标签：Simple;NoUpdate;商业版;社区版;<br>
+测评标签：testjob（待测试）;welljob（还可以）;goodjob（很不错）;greatjob（行业标杆）;<br>
 ## 安全建设方案
 - https://www.nist.gov/topics/cybersecurity    //美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    //mitre安全机构。CVE漏洞库

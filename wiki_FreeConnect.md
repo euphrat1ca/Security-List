@@ -1,5 +1,6 @@
 # 通讯工具技术相关
 ## 通讯服务
+- https://github.com/aqiongbei/buy_pig_plan    //JS。利用客服系统电话轰炸机。G:/xxcosmos/buy_pig_plan_python;--
 ### 办公通讯
 - http://sc.ftqq.com/3.version    //ServerChan信息通知server酱方糖信息提醒。P:/slack 通讯框架;P:/企业微信;P:/钉钉;P:/TG BOT telegram机器人;--
 - https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--

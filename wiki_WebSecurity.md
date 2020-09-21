@@ -8,6 +8,7 @@
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用
 ## 资产信息搜集
+- https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
 - https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:/chichou/grab.js;--
 - https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
