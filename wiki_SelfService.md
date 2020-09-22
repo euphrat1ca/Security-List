@@ -192,10 +192,9 @@
 - http://www.pptbz.com    //ppt下载
 - http://www.1ppt.com/    //无登录免费ppt下载
 ### 软件资源下载
-- http://www.carrotchou.blog/    //胡萝卜周
+- http://www.carrotchou.blog/    //胡萝卜周。W:dayanzai.me;W:zdfans.com/;W:appinn.com;--
 - https://www.ghpym.com/    //果核剥壳
 - http://flyonzone.ys168.com/    //飞扬时空
-- http://www.zdfans.com/    //zd423。W:appinn.com;--
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器

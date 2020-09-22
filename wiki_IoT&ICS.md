@@ -16,6 +16,8 @@
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备
 - https://github.com/ElevenPaths/HomePWN    //Py。瑞士军刀类型IOT设备安全测试
 - https://www.anquanke.com/post/id/212335    //物联网安全之MQTT协议安全。P:/post/id/216074 //物联网安全之MQTT渗透实战;--
+- https://github.com/emqx/emqx    //Erlang。分布式 MQTT 消息服务器。W:tools.emqx.io //mqtt在线测试工具;W:mqttfx.jensd.de;--
+- https://github.com/akamai-threat-research/mqtt-pwn    //Py。mqtt协议测试工具。G:/zombiesam/joffrey //MQTT爆破脚本;--
 ## 硬件设备固件分析
 - https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
 - https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册

@@ -263,7 +263,7 @@
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
 ### 权限维持隐匿rootkit
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
-- https://github.com/eLoopWoo/zwhawk    //Windows具备远程命令控制界面的内核rootkit。
+- https://github.com/eLoopWoo/zwhawk    //Windows下具备远程命令控制界面的内核rootkit。
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。

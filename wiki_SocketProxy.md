@@ -28,9 +28,9 @@
 ## Cross超越边界
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本。G:/Nyr/openvpn-install;G:/quericy/one-key-ikev2-vpn;G:/teddysun/shadowsocks_install;G:/teddysun/across;--
-- https://github.com/netchx/Netch    //C#。类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理SSTAP，类proxifier架构，需要‘.NetFramework4.8’。welljob。
-- https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn
-- https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful
+- https://github.com/netchx/Netch    //C#。类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理，需要‘.NetFramework4.8’。welljob。W:ccproxy;W:SSTAP;W:proxifier;--
+- https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn。
+- https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful。
 - https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本
 - https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:/gwuhaolin/lightsocks;--
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网，UDP 53 免流上网。

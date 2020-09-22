@@ -114,6 +114,7 @@
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
 - https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取beacon.bin文件的shellcode
+- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集
 ### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 ### cobaltstrike加密通讯
