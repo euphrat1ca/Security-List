@@ -116,14 +116,16 @@
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
-## IPv6安全相关
+## IPv6安全
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
 - https://github.com/christophetd/IPv6teal    //Py。利用ipv6隐蔽隧道传输数据
-## 区块链安全
+## 合规审计
+- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+## 区块安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/ConsenSys/mythril-classic    //用于以太坊智能协议的安全分析工具
+- https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具
 ## 云安全相关
 - https://cloud.tencent.com/developer/article/1621185    //【云原生攻防研究】针对容器的渗透测试方法
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
@@ -151,6 +153,7 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
+- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器；
 ### 安全测试辅助
 - https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。

@@ -252,7 +252,6 @@
 - https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;G:/TheRook/subbrute;--
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域收集工具。
 - https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
-- https://github.com/knownsec/ksubdomain    //Go。无状态子域名爆破工具
 ### 网址采集
 - https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎url采集，支持西班牙语搜集。

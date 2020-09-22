@@ -175,7 +175,7 @@
 ### Web服务器Nginx漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
 ### 数据库漏洞
-- https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services(CVE-2020-0618)利用ysoserial.net远程代码执行。
+- https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services利用‘ysoserial.net’远程代码执行。
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
 - https://github.com/r35tart/RedisWriteFile    //Py。通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:/Ridter/redis-rce;G:/RicterZ/RedisModules-ExecuteCommand;--

@@ -4,7 +4,7 @@
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
-- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章
+- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章。
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。

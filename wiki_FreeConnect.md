@@ -22,14 +22,15 @@
 - https://github.com/PHPMailer/PHPMailer    //PHP。PHP发送邮件的组件
 - https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器。
-### 加密通讯
+### 聊天通讯
+- https://github.com/matyhtf/webim    //PHP+Swoole实现的网页即时通讯工具
 - https://volafile.org/    //在线匿名聊天室，可传输文件、视频、图像。
 - https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展
 - https://github.com/hack-chat    //js。在线聊天，问号后面跟你的房间名。hack.chat/?your-channel。
 - http://www.vua.sh/    //加密信息通讯
-- https://github.com/akaxincom/openzaly    //Java。聊天室，Akaxin为客户端闭源
-- https://github.com/RocketChat/Rocket.Chat    //js.在线团队聊天服务器。rocket.chat/install。
-- https://www.signal.org/    //通讯加密聊天工具.W:github.com/signalapp;
+- https://github.com/akaxincom/openzaly    //Java。即时聊天室，Akaxin为客户端闭源
+- https://github.com/RocketChat/Rocket.Chat    //js。在线团队聊天服务器。rocket.chat/install。
+- https://www.signal.org/    //通讯加密聊天工具。W:github.com/signalapp;
 - https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
 ### 虚拟身份
 - https://www.fakenamegenerator.com/    //多国身份信息模拟器
