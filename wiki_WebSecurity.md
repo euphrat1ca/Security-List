@@ -61,10 +61,10 @@
 - https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
 ### 漏洞测试框架
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
-- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架。goodjob,2K。
 - https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
+- https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
-- https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
