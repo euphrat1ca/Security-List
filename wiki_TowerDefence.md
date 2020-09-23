@@ -64,6 +64,7 @@
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 - https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。douyu开源。
+- https://github.com/crowdsecurity/crowdsec    //Go。Linux主机入侵检测，lua模块，nginx反代，一键部署，webGUI。goodjob。
 ### EDR主机监测
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 - https://github.com/Neo23x0/Loki    //一款APT入侵痕迹扫描器
@@ -160,4 +161,5 @@
 - http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动流量指纹识别TCP/http
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
-- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析
+- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析。
+- https://github.com/adulau/ssldump    //C。SSLv3/TLS网络协议分析器
