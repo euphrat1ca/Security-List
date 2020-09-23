@@ -100,21 +100,23 @@
 - https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
 ## cobaltstrike拓展插件相关工具
-- https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    //RedCore红队学院CSTips
-- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
-- https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
-- https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
-- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
-- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./wiki_CobaltstrikeImage/bluscreenofjeffAggressorScripts.png)
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
-- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的xor64.bin
+- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的‘xor64.bin’
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
-- https://github.com/dcsync/pycobalt    //Py3。Python API for Cobalt Strike
 - https://github.com/Ridter/CS_Chinese_support/    //cs3.0传输信息的汉化插件
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
 - https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取beacon.bin文件的shellcode
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集
+### cobalt strike插件集合
+- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
+- https://github.com/dcsync/pycobalt    //Py3。Python API for Cobalt Strike
+- https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    //RedCore红队学院CSTips
+- https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
+- https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
+- https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
+- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./wiki_CobaltstrikeImage/bluscreenofjeffAggressorScripts.png)
+- https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件
 ### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 ### cobaltstrike加密通讯

@@ -225,8 +225,8 @@
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
 - https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
-- https://github.com/yanxiu0614/subdomain3    //py.子域名，IP，CDN信息爆破
-- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。Github:/CloudFail;Github:/Cloudmare。1K。
+- https://github.com/yanxiu0614/subdomain3    //py。子域名/IP/CDN信息
+- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。1K。Github:/CloudFail;Github:/Cloudmare;--
 - https://github.com/m0rtem/CloudFail    //Py。利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
 ### PDNS(Passive DNS)收集系统
 - https://github.com/JustinAzoff/bro-pdns    //Go。基于bro的pdns收集工具
@@ -252,6 +252,7 @@
 - https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;G:/TheRook/subbrute;--
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域收集工具。
 - https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
+- https://github.com/gwen001/github-subdomains    //Go。通过github搜集子域名。
 ### 网址采集
 - https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎url采集，支持西班牙语搜集。
@@ -291,18 +292,11 @@
 - https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取 .git。1.4k。
 - https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，.git源代码泄漏利用工具。G:/HightechSec/git-scanner;--
 ### 目录路径发现
-- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破
+- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破。
 - https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）
-- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破
-- https://github.com/TheM4hd1/PenCrawLer    //C#。界面，web爬虫与目录路径爆破工具，除了常规扫描增加了递归爆破模式
-- https://github.com/maurosoria/dirsearch    //经典目录路径扫描。G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
-- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，可发现Execution After Redirect漏洞
-- https://github.com/fnk0c/cangibrina    //通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器
-- https://github.com/Go0s/SitePathScan    //基于协程的目录路径爆破工具，配合aiohttp扫描路径比之前快了三倍有余。
-- https://github.com/0daysec/webscan_dir    //Py。轻量级web目录扫描器，支持选择字典和过滤状态码。
-- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
-- https://github.com/jerrychan807/WSPIH    //Py3。敏感文件路径扫描下载
-- https://github.com/aipengjie/sensitivefilescan    //Py3。网站敏感文件扫描工具
-- https://github.com/Mosuan/FileScan    //Py。网站敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
-- https://github.com/Xyntax/FileSensor    //Py3。动态敏感文件探测工具
-- https://github.com/ring04h/weakfilescan    //Py。多线程网站泄露信息检测工具
+- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破。界面GUI。G:/fnk0c/cangibrina;G:/0daysec/webscan_dir;--
+- https://github.com/TheM4hd1/PenCrawLer    //C#。界面，web爬虫与目录路径递归爆破。
+- https://github.com/maurosoria/dirsearch    //目录路径扫描。G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
+- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，支持Execution After Redirect漏洞探测。
+- https://github.com/Go0s/SitePathScan    //Py。基于协程的目录路径爆破工具，配合aiohttp扫描路径增速三倍。
+- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。G:/jerrychan807/WSPIH;G:/aipengjie/sensitivefilescan;G:/Mosuan/FileScan;G:/Xyntax/FileSensor    //Py3。动态敏感文件探测工具;G:/ring04h/weakfilescan    //Py。多线程网站泄露信息检测工具

@@ -141,6 +141,7 @@
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
 - https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
 - https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量。
+- https://github.com/tomer8007/chromium-ipc-sniffer    //嗅探chromium进程之间通讯。
 ### 流量嗅探镜像
 - http://www.tcpdump.org    //网络数据包截获分析
 - https://www.elifulkerson.com/projects/rawsniff.php    //Windows下流量镜像工具。W:netresec.com/?page=RawCap;--

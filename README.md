@@ -153,7 +153,8 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
-- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器；
+- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器；--
+- https://github.com/Al1ex/Pentest-tools    //内网渗透工具
 ### 安全测试辅助
 - https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
@@ -226,7 +227,7 @@
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
 - https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架,SET框架支持网站克隆、邮件伪造、反弹shell等
-- https://github.com/thelinuxchoice/blackeye    //Py。拥有facebook、instagram等三十余个钓鱼模板的一键启用工具
+- https://github.com/thelinuxchoice/blackeye    //Py。拥有facebook、instagram等三十余个钓鱼模板的一键启用工具。
 - https://github.com/M4cs/BlackEye-Python    //Py。以blackeye为基础，增加子域名模拟伪造功能
 - https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
 - https://github.com/L4bF0x/PhishingPretexts    //钓鱼模板
@@ -240,7 +241,8 @@
 - https://github.com/fireeye/ReelPhish    //实时双因素网络钓鱼工具
 - https://github.com/kgretzky/evilginx2/    //登录页面钓鱼，绕过双因素认证等
 - https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
-- https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台
+- https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台。
+- https://github.com/AlteredSecurity/365-Stealer    //钓鱼office365、OneDrive窃取access_token。
 ### 邮件伪造
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--
@@ -252,7 +254,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
 - https://github.com/shack2/SNETCracker    //C#。密码爆破工具，支持SSH、RDP、MySQL等常见协议,超级弱口令爆破工具.
-- https://github.com/jmk-foofus/medusa    //C。快速并发模块化的登陆爆破工具。
+- https://github.com/jmk-foofus/medusa    //C。快速并发模块化的端口爆破爆破工具。G:/awake1t/PortBrute;
 - https://github.com/lanjelot/patator    //Py3。集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
 - https://github.com/nmap/ncrack    //C。Nmap协议弱口令爆破组件.
 - https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解.G:/shengqi158/weak_password_detect;--
