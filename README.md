@@ -154,19 +154,6 @@
 - https://github.com/n00py/ReadingList/blob/master/gunsafe.txt    //安全工具集
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类似于pentestbox架构
 - https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器；--
-- https://github.com/Al1ex/Pentest-tools    //内网渗透工具
-### 安全测试辅助
-- https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
-- http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
-- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
-- http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
-- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
-- https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
-- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
-- https://github.com/foryujian/ipintervalmerge    //IP合并区间
-- https://github.com/medbenali/CyberScan    //Py。分析数据包、解码、端口扫描、IP地址分析等。
 ## 安全测试系统集合
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
@@ -180,8 +167,21 @@
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
-- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege，常见解压密码Kk8team\Kk8gege。
+- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
+- https://github.com/Al1ex/Pentest-tools    //内网渗透工具
+### 安全测试辅助
+- https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
+- http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
+- https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
+- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
+- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
+- https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
+- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
+- https://github.com/foryujian/ipintervalmerge    //IP合并区间
+- https://github.com/medbenali/CyberScan    //Py。分析数据包、解码、端口扫描、IP地址分析等。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
@@ -276,7 +276,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash
 - https://github.com/clr2of8/DPAT    //Py。利用hashcat等工具域密码进行破解测试
 - https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具
-- https://github.com/s0md3v/Hash-Buster    //能调用多个API进行hash破解查询的智能工具
+- https://github.com/s0md3v/Hash-Buster    //调用多个API进行hash破解查询。
 - https://github.com/magnumripper/JohnTheRipper    //C。开膛手john，已知密文的情况下尝试破解出明文的破解密码软件
 - https://github.com/shinnok/johnny    //C++。John The Ripper Windows 界面GUI。
 - https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件

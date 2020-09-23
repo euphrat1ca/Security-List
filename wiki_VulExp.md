@@ -1,17 +1,17 @@
 # 漏洞收集
 - https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
-- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
-- https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
-- https://github.com/Mr-xn/Penetration_Testing_POC    //渗透测试有关的POC、EXP、脚本、提权、小工具。goodjob。
 ## 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
 - https://0day.today    //漏洞市场
 ## 漏洞共享平台
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/zhzyker/exphub;--
+- https://github.com/Mr-xn/Penetration_Testing_POC    //渗透测试有关的POC、EXP、脚本、提权、小工具。goodjob。
+- https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
+- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。
 - https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章，漏洞公开详情。
 - https://0day.life    //漏洞研究文章
 - https://bugreader.com    //国外厂商公开漏洞详情。
@@ -192,7 +192,8 @@
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞
 - https://github.com/0x00-0x00/CVE-2018-1000001    //冲区溢出 suid提权Ubuntu 16.04.3 LTS glibc <= 2.26。goodjob。
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
-- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令
+- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令。
+- https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
 ## MS微软漏洞
 - https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
