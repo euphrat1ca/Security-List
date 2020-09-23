@@ -211,38 +211,30 @@
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ## 社工相关
-- https://github.com/mehulj94/Radium-Keylogger    //py.键盘记录工具。
+- https://github.com/mehulj94/Radium-Keylogger    //py。键盘记录工具。
 - https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
-- https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
-- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和Archive.org历史记录，以确定最为适合于钓鱼和C2的域名。
+- https://github.com/azizaltuntas/Camelishing    //Py3。社会工程学攻击辅助工具。WEBGUI。
+- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和‘Archive.org’历史记录，以确定最为适合于钓鱼和C2的域名。
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
-- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标
-- https://github.com/Viralmaniar/I-See-You    //Bash。利用公网网站代理获取用户的真实地理信息。simple
+- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
+- https://github.com/Viralmaniar/I-See-You    //Bash。利用网站代理获取用户的真实地理信息。simple
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
 ### 网站克隆
 - http://www.httrack.com    //网站克隆镜像
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
-- https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架,SET框架支持网站克隆、邮件伪造、反弹shell等
+- https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架，SET框架支持网站克隆、邮件伪造、反弹shell等。G:/Raikia/FiercePhish;/securestate/king-phisher;G:/kgretzky/evilginx2/;G:/tatanus/SPF;G:/fireeye/ReelPhish;G:/samyoyo/weeman;G:/MSG-maniac/mail_fishing;G:/drk1wi/Modlishka;--
 - https://github.com/thelinuxchoice/blackeye    //Py。拥有facebook、instagram等三十余个钓鱼模板的一键启用工具。
-- https://github.com/M4cs/BlackEye-Python    //Py。以blackeye为基础，增加子域名模拟伪造功能
-- https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统
-- https://github.com/L4bF0x/PhishingPretexts    //钓鱼模板
-- https://github.com/drk1wi/Modlishka    //Go。网络钓鱼工具
-- https://github.com/azizaltuntas/Camelishing    //Py3。界面化社会工程学攻击辅助工具
-- https://github.com/tatanus/SPF    //Py3。deefcon上的钓鱼系统
-- https://github.com/MSG-maniac/mail_fishing    //PHP。基于thinkphp的甲方邮件钓鱼系统
-- https://github.com/samyoyo/weeman    //钓鱼的http服务器
-- https://github.com/Raikia/FiercePhish    //可以管理所有钓鱼攻击的完整钓鱼框架，允许你跟踪单独的网络钓鱼活动，定时发送电子邮件等
-- https://github.com/securestate/king-phisher    //可视化钓鱼活动
-- https://github.com/fireeye/ReelPhish    //实时双因素网络钓鱼工具
-- https://github.com/kgretzky/evilginx2/    //登录页面钓鱼，绕过双因素认证等
-- https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌
+- https://github.com/M4cs/BlackEye-Python    //Py。基于blackeye增加子域名模拟伪造功能。
+- https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统。G:/L4bF0x/PhishingPretexts;--
+- https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌。
 - https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台。
 - https://github.com/AlteredSecurity/365-Stealer    //钓鱼office365、OneDrive窃取access_token。
+- https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
+- https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。
 ### 邮件伪造
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--

@@ -257,7 +257,8 @@
 - https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
 - https://github.com/n4xh4ck5/N4xD0rk    //Py。利用搜索引擎url采集，支持西班牙语搜集。
 - https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名采集 和 一些文件路径 (包含多个数据集)
-- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索
+- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索。
+- https://github.com/r00tSe7en/GoogleHackingTool    //GoogleDorks漏洞语法查询。
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 ### 敏感漏洞信息
