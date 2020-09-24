@@ -200,7 +200,7 @@
 - https://github.com/fireeye/GeoLogonalyzer    //远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 - http://mid.weixingmap.com/    //身份证号码查询校验。W:cha.qhdjcbj.com/ 实名验证
 ### 账号密码泄露
-- https://haveibeenpwned.com/    //电子邮件账号泄露，检测。
+- https://haveibeenpwned.com/    //电子邮件账号泄露检测。
 - https://intelx.io/    //账号检测密码泄露。
 - https://ddosecrets.com/data/international/    //blueleaks各个国家的泄露数据。
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
