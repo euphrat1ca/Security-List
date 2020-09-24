@@ -1,14 +1,10 @@
 # 万物互联
-- https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科
+- https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科。
+- https://dassecurity-labs.github.io/HatLab_IOT_Wiki    //海特实验室物联网安全知识库。G:/DasSecurity-Labs/HatLab_IOT_Wiki;--
 - https://github.com/V33RU/IoTSecurity101    //IoT工业物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
-- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章。
-- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
-- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
-- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
-- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能。
 ## 物联网利用分析
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
@@ -32,7 +28,13 @@
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal。firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
 - https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片
-### 固件仿真分析
+### 串口调试
+- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
+- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
+- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
+- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能
+### 固件分析调试
+- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章。techteach。
 - https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit、MITMproxy、Firmwalker组件。

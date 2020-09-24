@@ -6,6 +6,7 @@
 - https://cn0xroot.com/2019/10/17/build_2g_3g_4g_5g_with_sdr/    //汇总：通过软件无线电构建自己的2-5G基站 | Build your own 2G 3G 4G 5G BTS with SDR。雪碧无线电。
 - https://github.com/srsLTE/srsLTE    //C++。开源通讯基站系统。G:/RangeNetworks/openbts;--
 - https://github.com/peplin/pygatt    //Py。蓝牙安全，BLE/Bluetooth/zigbee传感器控制。G:/nian-hua/Litchi;--
+- https://github.com/fO-000/bluescan    //Py。杭州安恒信息海特实验室蓝牙扫描器
 - https://www.anquanke.com/post/id/204316    //GPS欺骗实验
 - https://github.com/asweigart/pyautogui    //py。操作电脑桌面库。
 ### 通讯安全SDR/RFID/NFC
