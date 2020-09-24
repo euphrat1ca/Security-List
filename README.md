@@ -130,6 +130,11 @@
 - https://cloud.tencent.com/developer/article/1621185    //【云原生攻防研究】针对容器的渗透测试方法
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单
 - https://github.com/brompwnie/botb    //Go。BOtB容器安全分析和脆弱点利用工具。利用CVE-2019-5736、DockerSocket或特权模式进行容器逃逸。
+### 容器安全
+- https://vulnerablecontainers.org    //对公开docker容器镜像漏洞扫描，并标出CVE号
+- https://github.com/P3GLEG/WhaleTail    //根据docker镜像生成成dockerfile
+- https://github.com/cr0hn/dockerscan    //docker扫描工具
+- https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器。2K。
 ### Kubernetes集群安全
 - https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
@@ -170,7 +175,7 @@
 - https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具
-### 安全测试辅助
+## 安全测试辅助
 - https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
@@ -195,22 +200,7 @@
 - https://github.com/Edu4rdSHL/tor-router    //Bash。使用tor代理全部流量。dnsleaktest.com dns检测。
 - https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
-### 容器安全
-- https://vulnerablecontainers.org    //对公开docker容器镜像漏洞扫描，并标出CVE号
-- https://github.com/P3GLEG/WhaleTail    //根据docker镜像生成成dockerfile
-- https://github.com/cr0hn/dockerscan    //docker扫描工具
-- https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器.2K。
-### 测试字典集
-- https://github.com/FlameOfIgnis/Pwdb-Public/    //多语言恶意软件常用密码分析。goodjob。
-- https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
-- https://github.com/tarraschk/richelieu    //.fr邮箱密码表
-- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;--
-- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:/7dog7/bottleneckOsmosis;G:/Ridter/Pentest;G:/alpha1e0/pentestdb;--
-- https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
-- https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
-- https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
-## 社工相关
+## 社会工程
 - https://github.com/mehulj94/Radium-Keylogger    //py。键盘记录工具。
 - https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
 - https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
@@ -226,13 +216,13 @@
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
-- https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架，SET框架支持网站克隆、邮件伪造、反弹shell等。G:/Raikia/FiercePhish;/securestate/king-phisher;G:/kgretzky/evilginx2/;G:/tatanus/SPF;G:/fireeye/ReelPhish;G:/samyoyo/weeman;G:/MSG-maniac/mail_fishing;G:/drk1wi/Modlishka;--
+- https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架，SET框架支持网站克隆、邮件伪造、反弹shell等。G:/Raikia/FiercePhish;/securestate/king-phisher;G:/tatanus/SPF;G:/fireeye/ReelPhish;G:/samyoyo/weeman;G:/MSG-maniac/mail_fishing;--
+- https://github.com/fireeye/PwnAuth    //OAuth欺骗、凭证钓鱼、绵阳墙。G:/AlteredSecurity/365-Stealer;--
+- https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌。G:/kgretzky/evilginx2/;G:/drk1wi/Modlishka;--
 - https://github.com/thelinuxchoice/blackeye    //Py。拥有facebook、instagram等三十余个钓鱼模板的一键启用工具。
 - https://github.com/M4cs/BlackEye-Python    //Py。基于blackeye增加子域名模拟伪造功能。
 - https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统。G:/L4bF0x/PhishingPretexts;--
-- https://github.com/ustayready/CredSniper    //使用Flask和Jinja2模板编写的网络钓鱼框架，支持捕获2FA令牌。
-- https://github.com/fireeye/PwnAuth    //OAuth滥用测试检测平台。
-- https://github.com/AlteredSecurity/365-Stealer    //钓鱼office365、OneDrive窃取access_token。
+- https://github.com/euphrat1ca/SpoofWeb    //PHP。通过nginx反代一键部署office365、outlook、coremail、深信服等https钓鱼网站模板。
 - https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
 - https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。
 ### 邮件伪造
@@ -242,6 +232,16 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮件伪造。G:/lunarca/SimpleEmailSpoofer;G:/Dionach/PhEmail;--
 - https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具。
 - https://www.ehpus.com/post/smtp-injection-in-gsuite/    //基于smtp注入的邮件欺骗。
+### 测试字典集
+- https://github.com/FlameOfIgnis/Pwdb-Public/    //多语言恶意软件常用密码分析。goodjob。
+- https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
+- https://github.com/tarraschk/richelieu    //.fr邮箱密码表
+- https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;--
+- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:/7dog7/bottleneckOsmosis;G:/Ridter/Pentest;G:/alpha1e0/pentestdb;--
+- https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
+- https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
+- https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
+- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ### 凭证扫描爆破
 - https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
 - https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
