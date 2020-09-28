@@ -110,19 +110,18 @@
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
 - https://github.com/wavestone-cdt/hadoop-attack-library    //hadoop测试方式和工具集
 ## 检测查杀
-- https://www.freebuf.com/articles/network/139697.html    //Intro。使用深度学习检测DGA（域名生成算法）
-- https://github.com/mwleeds/android-malware-analysis    //Py。利用机器学习进行恶意Android安卓应用检测
-- https://github.com/KasperskyLab/klara    //卡巴斯基基于Yara的分布式开源恶意软件扫描系统
-- https://github.com/botherder/kraken    //Go。Yara恶意软件扫描器
-- https://github.com/G4rb3n/Script-Ganker    //深信服基于Yara的Linux恶意脚本分析系统
-- https://github.com/nao-sec/tknk_scanner    //基于Yara的恶意软件识别框架。
-- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等）与yara扫描进行安全检测
+- https://www.freebuf.com/articles/network/139697.html    //Intro。使用深度学习检测DGA（域名生成算法）。
+- https://github.com/mwleeds/android-malware-analysis    //Py。利用机器学习进行恶意Android安卓应用检测。
+- https://github.com/EFForg/yaya    //Golang。yara库自动更新。
+- https://github.com/KasperskyLab/klara    //卡巴斯基基于Yara的分布式开源恶意软件扫描系统。G:/botherder/kraken;--
+- https://github.com/G4rb3n/Script-Ganker    //深信服基于Yara的Linux恶意脚本分析系统。G:/nao-sec/tknk_scanner;--
+- https://github.com/netxfly/sec_check    //通过信息采集（账户、连接、端口等），并匹配yara规则进行扫描检测
 - https://github.com/viper-framework    //Py3。二进制分析和管理框架
 - https://github.com/joxeankoret/pigaios    //基于源代码、二进制文件比对的检测工具
-- https://github.com/sfaci/masc    //扫描网站中的恶意软件， 以及其他一些网站维护功能
-- https://github.com/Neo23x0/munin    //依据文件 Hash 从各种在线恶意软件扫描服务提取信息的工具
+- https://github.com/sfaci/masc    //网站维护与恶意软件检测
 - https://github.com/1lastBr3ath/drmine    //自动化检测网页是否包含挖矿脚本的工具
 - https://github.com/alexandreborges/malwoverview    //simple。将恶意文件进行快速分类
+- https://github.com/Neo23x0/munin    //依据文件 Hash 从在线恶意软件扫描服务提取信息的工具
 ### 后门检测查杀
 - http://www.clamav.net/downloads    //病毒查杀
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
