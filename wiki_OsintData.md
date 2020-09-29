@@ -82,7 +82,7 @@
 - https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
-- https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;
+- https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;--
 - https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
 - https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:/ics-radar.shodan.io;--
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
@@ -96,7 +96,7 @@
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
 - https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
-- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin
+- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin。
 - https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
 - https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
 - https://rapiddns.io/    //网站域名IP情报源
@@ -110,7 +110,7 @@
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
 - https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
-- https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址，集成bro
+- https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址。可集成bro
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
 - https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv/    //CobaltStrike服务端IP地址
@@ -156,14 +156,14 @@
 - https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询
 # OSINT信息搜集利用
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
-- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct OSINT插件
+- https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct //OSINT插件;--
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，界面GUI，插件化，在线SpiderFoot HX服务。2K。greatjob。
 - https://github.com/Nhoya/gOSINT    //Go。利用OSINT自动化搜集信息。
 - https://github.com/yassineaboukir/Asnlookup    //利用ASN搜索特定组织ip，联动nmap、masscan进行进一步信息扫描。
 - https://github.com/super-l/superl-url    //Py。利用搜索引擎对关键词进行内容采集。
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
 ## 社交媒体搜集
-- https://intelx.io/tools    //Open Source Intelligence & Forensic Tools
+- https://intelx.io/tools    //Open Source Intelligence & Forensic Tools。W:lyzem.com //Telegram搜索引擎;--
 ### 人员信息情报源
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
