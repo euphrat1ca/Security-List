@@ -172,7 +172,7 @@
 - https://github.com/xHak9x/fbi    //Py3。facebook脸书信息收集工具
 - https://mp.weixin.qq.com/s/5OFPK0g8qP05FMkXFU9TWQ    //公众号：【工具】Facebook相关的一些情报分析工具
 - https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //公众号：【工具】一些与Twitter相关的情报分析工具
-- https://github.com/0x09AL/raven    //linux下领英Linkedin information gathering tool
+- https://github.com/0x09AL/raven    //Linux下领英Linkedin information gathering tool
 - https://github.com/Ridter/Mailget    //通过脉脉用户猜测企业邮箱
 - https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    //Py。获取Twitter用户发推的地址
