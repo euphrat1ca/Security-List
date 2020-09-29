@@ -134,6 +134,7 @@
 - https://www.shellpub.com/    //河马webshell查杀。社区版跨平台。
 - https://github.com/emposha/Shell-Detector    //Webshell扫描工具，支持php/perl/asp/aspx webshell扫描。G:/he1m4n6a/findWebshell;G:/ym2011/ScanBackdoor;Gerevus-cn/scan_webshell;G:/yassineaddi/BackdoorMan;G:/nbs-system/php-malware-finder;G:/emposha/PHP-Shell-Detector;G:/nsacyber/Mitigating-Web-Shells //NSA开源webshell检测;--
 - https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）
+- https://github.com/Apr4h/CobaltStrikeScan    //C#。针对Windows进程内存进行扫描，查找cobaltstrike DLL注入痕迹
 ### 混淆命令检测
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案
 ## 流量协议操作
