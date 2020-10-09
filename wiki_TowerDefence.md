@@ -124,6 +124,7 @@
 - https://github.com/Neo23x0/munin    //依据文件 Hash 从在线恶意软件扫描服务提取信息的工具
 ### 后门检测查杀
 - http://www.clamav.net/downloads    //病毒查杀
+- https://www.winitor.com/features    //pestudio：恶意软件初始评估工具
 - https://github.com/PlagueScanner/PlagueScanner    //python。集成ClamAV、ESET、Bitdefender的反病毒引擎。
 - http://rkhunter.sourceforge.net/    //后门排查。系统命令（Binary）检测/包括Md5 校验/Rootkit检测/本机敏感目录、系统配置、服务及套间异常检测/三方应用版本检测。
 - http://rootkit.nl/projects/rootkit_hunter.html    //rootkit检测工具

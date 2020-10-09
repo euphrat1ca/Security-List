@@ -108,6 +108,7 @@
 - http://www.pastebin.com/    //在线文档分析。W:ssavr.com;--
 - https://deershare.com/send    //P2P文件点对点传输。G:/RobinLinus/snapdrop;W:send-anywhere.com;--
 - https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
+- https://github.com/uknowsec/SharpOSS    //利用aliyun-oss-csharp-sdk实现内网文件传输。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
@@ -153,6 +154,7 @@
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
+- https://github.com/zu1k/xray-crack    //Go。xray社区高级版证书生成
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
