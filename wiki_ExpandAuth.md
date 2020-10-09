@@ -106,7 +106,8 @@
 - https://github.com/malwaredllc/byob    //僵尸网络生成框架
 - https://github.com/deadPix3l/CryptSky/    //勒索病毒源码
 - https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
-- https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码.6K。
+- https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。6K。
+- https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    //Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
 ### 多协议远程协助
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击方式。FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
@@ -137,12 +138,14 @@
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
 ## 文件免杀
-- https://bbs.pediy.com/thread-260539.htm    //杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
-- https://github.com/TideSec/BypassAntiVirus    //公众号：70.远控免杀专题(70)-终结篇。goodjob。
+- https://bbs.pediy.com/thread-260539.htm    //TechTeach。杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
+- https://github.com/TideSec/BypassAntiVirus    //TechTeach。公众号：70.远控免杀专题(70)-终结篇。goodjob。
+- https://www.freebuf.com/articles/system/250485.html    //TechTeach。手把手教你构建自定义的Mimikatz二进制文件。
+- https://www.freebuf.com/articles/system/249449.html    //TechTeach。Cobalt Strike Powershell过360+Defender上线
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
-- https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入进行权限维持。
+- https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
-- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，可利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
+- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
 ### 文件套壳加密
 - https://github.com/veracrypt/VeraCrypt    //C。2K。官网‘veracrypt.fr’,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
 - https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 加壳。
@@ -168,7 +171,8 @@
 - https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
-- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器.AutoIt编写。
+- https://github.com/BinaryScary/NET-Obfuscate/    //C#。.Net Framework程序混淆。G:/0xd4d/dnlib;--
+- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等。
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具，界面GUI。
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
@@ -184,7 +188,7 @@
 - https://github.com/St0rn/Windows-10-Exploit    //PY,msf插件。win10 uacbypass。
 - https://github.com/NYAN-x-CAT/Disable-Windows-Defender    //C#。Changing values to bypass windows defender。
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
-- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控
+- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控。
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，ipv6进行ids/ips绕过
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测
 - https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结。沙箱绕过。
@@ -194,7 +198,8 @@
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
 - https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本
-- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令， 无需登录防火墙后再做修改
+- https://github.com/sirpsycho/firecall    //直接向CiscoASA防火墙发送命令，无需登录防火墙后再做修改。
+- https://github.com/pureqh/bypasswaf    //关于安全狗和云锁的自动化绕过脚本
 - https://www.4hou.com/posts/oAAj    //WinRM与HTTP Server API的端口复用，利用IIS的端口共享功能绕过防火墙。基于http.sys实现权限维持。P:/"WinrmAttack.py";--
 - https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
