@@ -109,7 +109,7 @@
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。6K。
 - https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    //Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-### 多协议远程协助
+### 多姿态远程协助
 - https://blog.csdn.net/Fly_hps/    //隐匿攻击方式。FLy_鹏程万里【基础篇】 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy etc…
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
@@ -128,6 +128,7 @@
 - https://github.com/byt3bl33d3r/gcat    //Py3。使用 gmail 作为 C&C 服务器。Github:/gdog;Github:/Powershell-RAT;--
 - https://github.com/mvrozanti/RAT-via-Telegram    //Py3。Windows下利用telegram的远程控制工具。Github:/Parat;Github:/twittor;Github:/补bt2(Blaze Telegram Backdoor Toolkit);--
 - https://github.com/0x09AL/Browser-C2    //Go。利用chrome以浏览器的形式连接C2服务器。
+- https://github.com/Ramos-dev/OSSTunnel    //Java。利用云存储oss通信隧道的远程管理工具
 ### 反向shell回弹
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;--
 - https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
