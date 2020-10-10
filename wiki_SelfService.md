@@ -128,7 +128,7 @@
 - https://www.draw.io    //在线思维导图/流程图
 - https://www.remove.bg/api    //在线抠图。api
 - https://www.photopea.com/    //在线ps
-- https://www.pdfpai.com/    //在线pdf转换.W:edit.foxitcloud.cn;W:ilovepdf.com/zh-cn;W:smallpdf.com;W:pdftoword.55.la;W:pdf.wondershare.com;
+- https://www.ilovepdf.com/zh-cn    //在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
 - http://www.alltoall.net/    //在线格式转换
 - https://etherpad.net/    //在线可编辑记事本
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
