@@ -48,7 +48,7 @@
 - http://ivd.winicssec.com/    //威努特工控漏洞库
 - http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
 - https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
-- http://www.exphub.org/    //chamd5工控漏洞预警
+- http://www.exphub.org/    //chamd5 ICS安全情报平台
 ## 信息导航站
 ### 信息流
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
