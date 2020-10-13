@@ -75,6 +75,10 @@
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
+### 系统ACL策略安全
+- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
+- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
+- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
 ### 运维手册
 - https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
@@ -90,21 +94,6 @@
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
 - https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
-### 系统ACL策略安全
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
-- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
-- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
-### 安全知识库
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
-- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
-- https://www.octority.com/pepenote/    //10w行渗透测试技巧
-- https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
-- https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
-### 安全测试速查表
-- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
-- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
-- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
 ### 安全测试checklist
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
@@ -117,6 +106,17 @@
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
+### 安全知识库
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
+- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
+- https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
+- https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
+### 安全测试速查表
+- https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
+- https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
+- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
+- https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
 ## IPv6安全
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集

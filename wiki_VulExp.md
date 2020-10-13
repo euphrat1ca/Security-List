@@ -20,7 +20,6 @@
 - https://zeroday.hitcon.org/vulnerability/    //台湾公开漏洞库。
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章，电商应用。
 ## 软硬固应用漏洞
-- https://github.com/mudongliang/LinuxFlaw    //Linux下软件漏洞列表
 - https://github.com/k8gege/PhpStudyDoor    //PhpStudy 2016 & 2018 BackDoor Exploit 官网被植入后门
 - https://github.com/jas502n/CVE-2019-16759    // (RCE) vBulletin 5.0.0 - 5.5.4 CVE-2019-16759
 - https://github.com/LeadroyaL/ss-redirect-vuln-exp/    //Py。shadowsocks重定向漏洞、密文流破解。G:/edwardz246003/shadowsocks;--
@@ -180,6 +179,7 @@
 - https://github.com/t0kx/exploit-CVE-2015-1427    //Bash。Elasticsearch 1.4.0 < 1.4.2 Remote Code Execution exploit and vulnerable container远程命令执行。P:/CVE-2014-3120 //v1.1.1支持传入动态脚本（MVEL）命令执行;--
 - https://www.freebuf.com/vuls/212799.html/    //MongoDB未授权访问漏洞分析及整改建议
 ## Linux利用漏洞
+- https://github.com/mudongliang/LinuxFlaw    //Linux软件漏洞列表
 ### Linux提权利用
 - https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits，Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;G:/bcoles/kernel-exploits;--
 - https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛条件竞争写入只读(r)文件。Linux/Android 平台，release编译exp。goodjob。
@@ -192,9 +192,9 @@
 - https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令。
 - https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
-## MS微软漏洞
-- https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
+## MS微软利用洞
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
+- https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    //C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
 - https://github.com/smgorelik/Windows-RCE-exploits    //windows命令执行RCE漏洞POC样本，分为web与文件两种形式
 - https://github.com/3gstudent/CVE-2017-8464-EXP    //CVE-2017-8464，win快捷方式远程执行漏洞
