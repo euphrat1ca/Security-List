@@ -314,14 +314,15 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/DanMcInerney/LANs.py    //Py。无线网络劫持ARP欺骗
 ### 硬件中间人攻击
 - https://github.com/tenable/router_badusb    //利用路由器USE上网口和DHCP协议，使用树莓派连接VPN模拟流量转发进行中间人攻击
-## 压力测试
+## 压测泛洪
 - https://github.com/ywjt/Dshield    //Py。DDOS防护。
-- http://www.yykkll.com    //压测站评测。W:defconpro.net;W:vip-boot.xyz;--
+- http://www.yykkll.com    //压力测试站评测。W:defconpro.net;W:vip-boot.xyz;--
 - https://rocketstresser.com/login.php    //多协议在线压测，支持cdn测试。
-- https://klionsec.github.io/2017/11/15/hping3/    //HPing3网络工具组包
 ### 压力流量测试
+- https://klionsec.github.io/2017/11/15/hping3/    //HPing3网络工具组包。P:LOIC;P:核武器CC-穿盾版;P:天降激光炮315;P:hyenae;--
 - https://github.com/wg/wrk    //C。http流量测试。
-- https://github.com/mschwager/dhcpwn    //Py。DHCP/IP压力测试
+- https://github.com/mschwager/dhcpwn    //Py。DHCP/IP压力测试。
+- https://github.com/wenfengshi/ddos-dos-tools    //压力测试工具集
 - https://github.com/Microsoft/Ethr    //Go。跨平台，TCP， UDP， HTTP， HTTPS压力测试工具
 - https://github.com/Markus-Go/bonesi    //C。模拟僵尸网络进行ICMP/UDP/TCP/HTTP压测
 - https://github.com/NewEraCracker/LOIC/    //C#,Mono。基于Praetox's LOIC project的压测工具。
@@ -329,11 +330,11 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/IKende/Beetle.DT    //C#。分布式压力测试工具
 - https://github.com/649/Memcrashed-DDoS-Exploit    //Py。利用shodan搜索Memcached服务器进行压力测试
 ### 压力拒绝服务
-- https://github.com/ajmwagar/lor-axe    //Rust。多线程、低带宽消耗的HTTP DoS工具。
+- https://github.com/ajmwagar/lor-axe    //Rust。多线程、低带宽消耗的HTTP DoS工具。G:/JuxhinDB/synner;--
 - https://github.com/jseidl/GoldenEye    //Py。DOS攻击测试
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
-- https://xz.aliyun.com/t/7895/    //利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
+- https://xz.aliyun.com/t/7895/    //techteach。利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
 ---
 # 模糊测试漏洞挖掘
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md/    //Fuzzer模糊测试。mywiki

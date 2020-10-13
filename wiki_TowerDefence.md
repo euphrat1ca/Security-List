@@ -152,7 +152,7 @@
 ### 流量镜像重放
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
-- https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer,pcap捕获和重放工具
+- https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer Linux网络分析器。pcap捕获和重放工具，trafgen数据包生成压测。
 ### 流量协议解析
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
