@@ -52,7 +52,7 @@
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop-Protocol/    //使用hash登录RDP。借助mimikatz对mstsc，或使用xFreeRDP通过rdp服务、135端口服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等。
 - https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
-- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出NTDS.DIT文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、NTDS.dit密码提取。
+- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出‘NTDS.DIT’文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、‘NTDS.dit’密码提取。
 - https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
 - https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
 - https://github.com/lgandx/Responder    //Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
