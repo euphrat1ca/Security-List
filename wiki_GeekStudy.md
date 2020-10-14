@@ -121,7 +121,6 @@
 - https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
 ### CTF杂项
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
-- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
 ### CTF密码学
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能。
 - https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
@@ -169,7 +168,8 @@
 - https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;--
 - http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;--
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
-- https://github.com/bingohuang/docker-labs    //制作在线docker平台
+- https://github.com/clong/DetectionLab    //利用容器搭建安全实验环境。welljob。
+- https://github.com/bingohuang/docker-labs    //docker镜像在线制作平台
 ### 离线靶场学习
 - https://github.com/WebGoat/WebGoat    //Java。一键jar包web安全实验靶场
 - https://github.com/Audi-1/sqli-labs    //PHP。基于SQLite的sql注入学习靶场。/lcamry/sqli-labs;--

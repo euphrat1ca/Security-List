@@ -1,7 +1,6 @@
 # web安全测试利用
 - https://portswigger.net/research/web-cache-entanglement    //Web缓存投毒的新途径
 - https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
-- https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
 - https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
@@ -239,10 +238,11 @@
 - https://github.com/Chora10/Cknife/pulls    //Java。中国菜刀,greatjob,2K。Github:/SecQuanCknife;gitee.com/9199771/cknife;--
 - https://github.com/euphrat1ca/hatchet    //C++。中国大砍刀。
 - https://github.com/keepwn/Altman    //.Net,mono。跨平台菜刀。
-- https://github.com/euphrat1ca/Behinder    //Java6。rebeyond“冰蝎”动态二进制加密网站管理客户端
+- https://github.com/euphrat1ca/Behinder    //Java6。“冰蝎”动态二进制加密网站管理客户端。rebeyond，会因为服务器端Java版本产生连接报错。
 - https://xz.aliyun.com/t/2744    //Intro。“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
-- https://github.com/BeichenDream/Godzilla    //Java。哥斯拉shell管理工具
-- https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序，目前支持php、jsp，CS端通信加密
+- https://github.com/BeichenDream/Godzilla    //Java。哥斯拉shell管理工具。可插件拓展。
+- https://github.com/shack2/skyscorpion    //OracleJava。天蝎网站管理。可团队协作。
+- https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序。目前支持php、jsp，CS端通信加密
 - https://github.com/xl7dev/WebShell    //webshell收集项目。Github:/tennc/webshell;--
 ### php webshells
 - https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。

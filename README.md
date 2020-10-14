@@ -184,10 +184,14 @@
 - http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
 - https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
-- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。
-- https://github.com/foryujian/ipintervalmerge    //IP合并区间
 - https://github.com/medbenali/CyberScan    //Py。分析数据包、解码、端口扫描、IP地址分析等。
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
+- https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。P:TMAC v6;--
+- https://github.com/foryujian/ipintervalmerge    //IP合并区间。
+### 测试报告
+- https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
+- https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。
+- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
