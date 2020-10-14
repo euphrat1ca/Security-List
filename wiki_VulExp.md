@@ -239,7 +239,7 @@
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。
 - https://github.com/euphrat1ca/APT34-Jason    //C#。APT34针对exchange密码爆破。P:/对APT34泄露工具的分析——Jason;--
-- https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange ews接口（exchange web services）对Outlook Web App进行枚举爆破
+- https://github.com/johnnyDEP/OWA-Toolkit    //PS。利用Exchange爆破 ews接口（exchange web services）对Outlook Web App进行枚举爆破
 - https://github.com/QuickBreach/ExchangeRelayX    //Py。基于flask\impacket，允许用户完成基于http的ntlm接口认证，并利用ews接口获取数据，IE浏览器可行。
 - https://github.com/mullender/python-ntlm    //Py。利用Pass-the-Hash (PtH)直接到目标机器，exchange的ews接口支持ntlm认证，所以直接使用ntlm认证，使用ntlm hash去生成挑战值认证。
 #### Exchange提权利用
