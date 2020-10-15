@@ -100,11 +100,11 @@
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
-- https://www.cnblogs.com/jurendage/p/12653865.html    //Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）
+- https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）
+- https://blog.csdn.net/qq_39541626/article/details/104891590    //TecTeach。小程序、公众号安全测试list
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
+- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
-- https://blog.csdn.net/qq_39541626/article/details/104891590    //小程序、公众号安全测试list
 - https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
 ### 安全知识库
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--

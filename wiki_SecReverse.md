@@ -3,14 +3,16 @@
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集.
-- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
-- https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
 ### 程序调试管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用游戏魔改更佳。
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
 - https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构（PeDollc/PeDolls）。
 - https://bbs.ichunqiu.com/thread-16846-1-1.html    //intro。PeDoll 调戏木马病毒的正确姿势-正式篇
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
+## 小程序安全
+- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
+- https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
+- https://github.com/Cherrison/CrackMinApp    //C#,Node.js。(反编译微信小程序)一键获取微信小程序源码(傻瓜式操作)。goodjob。
 ## 客户端安全
 - http://www.rohitab.com/apimonitor    //客户端C/S架构API监控工具
 - https://github.com/theLSA/hack-cs-tools    //客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
