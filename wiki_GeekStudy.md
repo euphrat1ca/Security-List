@@ -85,7 +85,8 @@
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:/Ridter/Intranet_Penetration_Tips;-
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
-- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;P:/Kerberos的白银票据详解/Kerberos的黄金票据详解;
+- https://klionsec.github.io/2016/08/10/ntlm-kerberos/    //深刻理解windows安全认证机制 [ntlm & Kerberos]。W:彻底理解Windows认证 - 议题解读;公众号：域渗透 | Kerberos攻击速查表;P:/Kerberos的白银票据详解/Kerberos的黄金票据详解;--
+- https://github.com/daikerSec/windows_protocol    //TechTeach。针对内网渗透的常见协议(如kerberos,ntlm,smb,ldap,netbios等)进行分析，介绍相关漏洞分析以及漏洞工具分析利用。P:kerberosGui;--
 - https://daiker.gitbook.io/windows-protocol    //内网域基础协议分析系列文章。本系列文章将针对内网渗透的常见协议Windows凭证利用(如kerbeos,ntlm,smb,ldap等)进行协议分析，相关漏洞分析以及漏洞工具分析利用。
 - https://github.com/infosecn1nja/AD-Attack-Defense    //AD活动目录攻击链与防御
 - https://github.com/nccgroup    //国外安全咨询团队，burp插件的编写、内网利用工具、app安全工具

@@ -229,7 +229,7 @@
 - https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统。G:/L4bF0x/PhishingPretexts;--
 - https://github.com/euphrat1ca/SpoofWeb    //PHP。通过nginx反代一键部署office365、outlook、coremail、深信服等https钓鱼网站模板。
 - https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
-- https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。
+- https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。goodjob。
 ### 邮件伪造
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--

@@ -226,7 +226,7 @@
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
 - https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    //py。子域名/IP/CDN信息
-- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过，获取真实ip，集成censys。1K。Github:/CloudFail;Github:/Cloudmare;--
+- https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过（注册账户添加网站前一步会把所有目前解析扫描出来），获取真实ip。集成censys。1K。Github:/CloudFail;Github:/Cloudmare;--
 - https://github.com/m0rtem/CloudFail    //Py。利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP
 ### PDNS(Passive DNS)收集系统
 - https://github.com/JustinAzoff/bro-pdns    //Go。基于bro的pdns收集工具
