@@ -278,7 +278,8 @@
 - https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下进程隐藏。goodjob。
 - https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:/mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
-- https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成
+- https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成。
+- https://www.sans.org/blog/defense-spotlight-finding-hidden-windows-services/    //红队策略：隐藏Windows服务。查找。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 - https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell

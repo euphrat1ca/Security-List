@@ -15,7 +15,8 @@
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
 ## 事件信息源
-- https://www.wilderssecurity.com/    //类t00ls国际安全论坛
+- https://www.wilderssecurity.com/    //类t00ls国际安全论坛。goodjob。
+- https://www.sans.org/blog/    //红蓝紫、取证、工业网络、审计、开发 博客。goodjob。
 - 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
 - 物联网关键词：IOT/Car Can/Drone
 - https://thehackernews.com/    //安全新闻源
@@ -278,13 +279,12 @@
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:/shengqi158/svnhack;--
 ### Git安全相关
 - https://github.com/VKSRC/Github-Monitor    //JS。GitHub代码信息泄露分钟级监控，邮件预警。G:/0xbug/Hawkeye;G:/neal1991/gshark;G:/FeeiCN/GSIL;G:/repoog/GitPrey;G:/Hell0W0rld0/Github-Hunter;----
-- https://github.com/Furduhlutur/yar    //Go。监控Github存储库、用户和组织。Yar会克隆给定的用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
-- https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。
-- https://github.com/UnkL4b/GitMiner    //Py2。Github敏感文件、信息搜集。
-- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;--
-- https://github.com/awslabs/git-secrets    //防止将敏感数据提交到 git 仓库的工具
-- https://github.com/internetwache/GitTools    //SHELL\Py3。查找、下载、提取‘.git’文件。2k。
-- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，.git源代码泄漏利用工具。G:/HightechSec/git-scanner;--
+- https://github.com/Furduhlutur/yar    //Go。监控Github存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
+- https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
+- https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorks.txt    //GitHub搜索Dorks
+- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
+- https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取‘.git’文件。2k。
+- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，'.git'源代码泄漏利用工具。G:/HightechSec/git-scanner;--
 ### 敏感链接信息
 - https://github.com/lc/gau    //Go。敏感URL链接、子域挖掘。goodjob。
 - https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
