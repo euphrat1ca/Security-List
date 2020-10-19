@@ -26,10 +26,11 @@
 - https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3。
-- https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议漏洞库。
+- https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议漏洞库。拒绝服务。
+- https://github.com/jiansiting/cve-2020-16898    //CVE-2020-16898 (badneighbor)拒绝服务poc
 - https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit    //qnap Nas平台  Pre-Auth Root RCE
 ### 文本编辑器漏洞
-- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行source ~/.vimrc让它生效。
+- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行‘source ~/.vimrc’让它生效。
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行。
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
@@ -190,7 +191,7 @@
 - https://github.com/jas502n/CVE-2018-14665    //linux下Xorg X服务器提权利用
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞
 - https://github.com/0x00-0x00/CVE-2018-1000001    //冲区溢出 suid提权Ubuntu 16.04.3 LTS glibc <= 2.26。goodjob。
-- https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建
+- https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建。P:capabilities;--
 - https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令。
 - https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
 ## MS微软利用洞
