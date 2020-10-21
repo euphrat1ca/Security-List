@@ -23,6 +23,8 @@
 - https://github.com/EttusResearch/uhd    //C++。USRP（Universal Software Radio Peripheral，通用软件无线电外设），伪基站。
 - https://github.com/mossmann/hackrf    //C。低成本软件无线电平台,greatscottgadgets.com (官网)。G:/sharebrained/portapack-hackrf;--
 - https://mp.weixin.qq.com/s/FxvKPDcpca4ER54HM0Q_cQ    //公众号：利用HackRF替代车钥匙解锁电动车
+## 无线安全
+- https://github.com/seemoo-lab/frankenstein    //JS,C。无线固件的虚拟仿真环境。G:/nekromant/esp8266-frankenstein;--
 ### WIFI网络审计测试
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示
 - https://www.wifislax.com    //西班牙wifi审计系统，国内汉化版为无线革新5.1.1 Wifislax-WRC。wifi kali系统类
