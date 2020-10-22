@@ -154,7 +154,7 @@
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
-- https://github.com/zu1k/xray-crack    //Go。xray社区高级版证书生成
+- https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
 ## 素材资源
 - https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
@@ -163,7 +163,8 @@
 - https://www.wondercv.com/    //简历模板生成
 ### 素材采样
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
-- https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的视频、图像录制处理，OCR识别。
+- https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR识别。
+- http://live.weibo333.com/     //B站录播机
 ### 图书素材
 - https://www.jiumodiary.com/    //电子书搜索引擎
 ### 音频素材

@@ -6,7 +6,7 @@
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 ## 物联网利用分析
-- https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。
+- https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。goodjob。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
 - https://github.com/jiansiting/ripple20-poc    //Py。基于ICMP_MS_SYNC的ripple20 poc。
 - https://github.com/shodan-labs/iotdb    //nmap配合shodan API扫描IoT设备

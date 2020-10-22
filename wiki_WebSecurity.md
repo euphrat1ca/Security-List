@@ -62,14 +62,14 @@
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
-- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
 ### 被动扫描检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/TrojanAZhen/BurpSuitePro-2.1    //和谐burpsuite 1.7.27/2.1Pro。G:/euphrat1ca/PRUBUnlimitedre;--
 - https://github.com/c0ny1/passive-scan-client    //burp插件.被动扫描流量转发插件
-- https://github.com/chaitin/xray    //Go。洞鉴扫描引擎社区版。主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版。W:xz.aliyun.com/t/7047;G:/ox01024/Xray_and_crwlergo_in_server;G:/timwhitez/crawlergo_x_XRAY;G:/piaolin/fofa2Xray;--
+- https://github.com/chaitin/xray    //Go。洞鉴主动扫描、被动代理，sql、命令注入、重定向、路径遍历，插件化配置。社区版。goodjob。W:xz.aliyun.com/t/7047;G:/ox01024/Xray_and_crwlergo_in_server;G:/timwhitez/crawlergo_x_XRAY;G:/piaolin/fofa2Xray;--
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--

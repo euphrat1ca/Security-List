@@ -112,7 +112,7 @@
 - https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
 - https://github.com/zorlan/skycaiji/    //php。全自动蓝天采集器
 - https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
-- https://github.com/chaitin/rad    //xray配套爬虫。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
+- https://github.com/chaitin/rad    //xray配套安全扫描浏览器爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
 ### Web应用框架
 - https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
 - https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
