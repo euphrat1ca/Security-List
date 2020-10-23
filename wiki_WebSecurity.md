@@ -65,6 +65,7 @@
 - https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
+- https://github.com/projectdiscovery/nuclei    //Go。漏洞模板检测自动化检测框架。goodjob。
 ### 被动扫描检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob。6k。
 - https://github.com/TrojanAZhen/BurpSuitePro-2.1    //和谐burpsuite 1.7.27/2.1Pro。G:/euphrat1ca/PRUBUnlimitedre;--

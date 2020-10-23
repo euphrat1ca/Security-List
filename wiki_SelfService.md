@@ -55,8 +55,10 @@
 - https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
 - https://github.com/tmux/tmux    //命令行功能加强工具
 - https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
+### 文件检索
+- https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //Everything文件和文件夹快速定位。W:anytxt.net;--
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 ### 思维导图
 - https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;
 ### 网络服务
