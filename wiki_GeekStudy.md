@@ -123,10 +123,10 @@
 ### CTF杂项
 - https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
 ### CTF密码学
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。后期以编写python插件增强功能。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。
 - https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 - https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
-- https://github.com/3summer/CTF-RSA-tool    //Py3。ctf rsa套路。
+- https://github.com/3summer/CTF-RSA-tool    //Py3。RSA基本题型ctf套路。
 - https://github.com/mufeedvh/basecrack    //Py。全base编码检测。
 ### CTF隐写术
 - https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
