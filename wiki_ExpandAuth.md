@@ -44,23 +44,24 @@
 - https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
 - https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:/gentilkiwi/kekeo PTK(Pass the ticket);--
 ### 横向Windows凭证利用
-- https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。G:/wanglaizi/ByPass_MIMIkatz;--
-- https://github.com/skelsec/pypykatz    //Py3。使用python实现的mimikatz
-- https://github.com/klsecservices/bat-armor    //Py。bat文件混淆版mimikatz
-- https://www.freebuf.com/articles/web/176796.html    //九种姿势运行Mimikatz
-- https://www.freebuf.com/articles/system/234365.html    //Mimikatz的18种免杀姿势及防御策略。
+- https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
+- https://www.freebuf.com/articles/web/176796.html    //TechTeach。九种姿势运行Mimikatz
+- https://www.freebuf.com/articles/system/250485.html    //TechTeach。手把手教你构建自定义的Mimikatz二进制文件。
+- https://www.freebuf.com/articles/system/234365.html    //TechTeach。Mimikatz的18种免杀姿势及防御策略。G:/wanglaizi/ByPass_MIMIkatz;--
+- https://github.com/skelsec/pypykatz    //Py3。Python实现的mimikatz
+- https://github.com/klsecservices/bat-armor    //Py。生成mimikatz混淆版bat文件
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop-Protocol/    //使用hash登录RDP。借助mimikatz对mstsc，或使用xFreeRDP通过rdp服务、135端口服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等。
 - https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
+- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载‘system.hiv’文件，获取密码。
 - https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出‘NTDS.DIT’文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、‘NTDS.dit’密码提取。
+- https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html    //导出域内hash。
+- https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;--
 - https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
-- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载system.hiv文件，获取密码。
 - https://github.com/lgandx/Responder    //Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //Py。构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //Intro。Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - 渗透技巧——Pass the Hash with Exchange Web Service/    //利用exchange web服务进行哈希传递
-- https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html/    //导出域内hash。
-- https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;--
 # 远程协助
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike;--
@@ -141,7 +142,6 @@
 ## 文件免杀
 - https://bbs.pediy.com/thread-260539.htm    //TechTeach。杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
 - https://github.com/TideSec/BypassAntiVirus    //TechTeach。公众号：70.远控免杀专题(70)-终结篇。goodjob。
-- https://www.freebuf.com/articles/system/250485.html    //TechTeach。手把手教你构建自定义的Mimikatz二进制文件。
 - https://www.freebuf.com/articles/system/249449.html    //TechTeach。Cobalt Strike Powershell过360+Defender上线
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入。
