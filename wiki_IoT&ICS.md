@@ -26,7 +26,7 @@
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
-- https://github.com/nodemcu/nodemcu-flasher    //Pascal。firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。
+- https://github.com/nodemcu/nodemcu-flasher    //Pascal。固件烧写firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。界面GUI。
 - https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片
 ### 串口调试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
