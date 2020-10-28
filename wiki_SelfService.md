@@ -152,9 +152,9 @@
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 - DWS(Destroy-Windows-10-Spying)    //消除Windows隐私监控。W:wpd.app;G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/;--
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/;--
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
 - https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
 ## 素材资源
