@@ -6,13 +6,6 @@
 - https://github.com/BinaryDefense/artillery    //Py。端点蜜罐防护。
 ## 主动防御
 - https://tom0li.github.io/反制攻击队和防守人员/    //
-- https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
-- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
-- https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
-- https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
-- https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
-- https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
-- https://nosec.org/home/detail/4526.html    //通过Web iframe标签利用TeamViewer，CVE-2020-13699。
 ### 前端攻击画像
 - https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。P:指纹追踪技术—跨浏览器指纹识别;P:/crossbrowsertracking_NDSS17.pdf;--

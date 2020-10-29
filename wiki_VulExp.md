@@ -54,6 +54,15 @@
 - https://github.com/jas502n/CVE-2020-8193    //Citrix云服务平台任意文件读取漏洞。
 - https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    //CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;--
 - https://github.com/projectzeroindia/CVE-2019-11510    //Pulse Secure SSL VPN上的任意文件读取（CVE-2019-11510）。GoodJob。
+- https://github.com/mu0gua/VulnPOC    //OpenSSL心脏滴血heartbleed漏洞批量利用;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;--
+### 安全工具漏洞
+- https://github.com/WyAtu/CVE-2018-20250    //Py。WinRAR压缩包代码执行复现与利用
+- https://www.bamsoftware.com/hacks/zipbomb/    //ZIPBOMB压缩包炸弹
+- https://www.exploit-db.com/exploits/39755    //Acunetix WVS 10 - Remote Command Execution远程命令执行
+- https://www.secpulse.com/archives/18940.html    //Intro。Web Vulnerability Scanner 8 远程命令执行漏洞。本地使用wscript.shell组件执行命令。
+- https://bbs.pediy.com/thread-195431.htm    //Intro。Pwn the n00bs - Acunetix 0day。awvs溢出攻击
+- https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
+- https://nosec.org/home/detail/4526.html    //通过Web iframe标签利用TeamViewer，CVE-2020-13699。
 - https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码。冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 ### 网络设备漏洞
 - https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
@@ -63,6 +72,7 @@
 - https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
 - https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
 - https://github.com/dunderhay/CVE-2020-5902    //F5 Big-IP负载均衡RCE/LFI，常用于政企。G:/aqhmal/CVE-2020-5902-Scanner;G:/jas502n/CVE-2020-5902;--
+- https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
 ### 沙盒虚拟机容器漏洞
 - https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸。P:2020 VMware vCenter未授权任意文件读取 //ESXI;--
 - https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905。
@@ -137,14 +147,14 @@
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
 #### Weblogic中间件漏洞
+- https://github.com/s1kr10s/CVE-2020-14882    //WEBLOGIC CONSOLE HTTP 协议远程代码执行漏洞
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
 - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用
-- https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。
+- https://github.com/jas502n/CVE-2018-2628/    //Weblogic 反序列化漏洞，通过T3协议命令执行。G:/5up3rc/weblogic_cmd;--
 - https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020，界面GUI。
 - https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具,包含CVE-2019前。
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
-- https://github.com/mu0gua/VulnPOC    //heartbleed心脏滴血改;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;--
 - https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，‘wls9_async_response’与‘wls-wsat’组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行

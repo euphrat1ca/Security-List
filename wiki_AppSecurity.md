@@ -57,6 +57,7 @@
 - https://github.com/wufeifei/cobra    //Py。基于AST抽象语法树源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。界面GUI。
 - https://github.com/codespaces-io/codespaces    //VSCode代码审计插件
 - https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
+- https://github.com/jeremylong/DependencyCheck    //Java。对源代码进行扫描识别依赖项版本信息进行漏洞比赛。
 ### Ruby代码审计
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
 ### Clang+代码审计

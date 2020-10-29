@@ -52,6 +52,7 @@
 - https://github.com/pasta-auto    //智能汽车测试
 - https://github.com/schutzwerk/CANalyzat0r    //Py。专有汽车协议的安全分析工具包
 - https://github.com/jgamblin/CarHackingTools    //Bash。汽车黑客工具箱，汽车信息调查。
+- https://www.zlg.cn/can/can/product/id/22.html    //周立功USBCAN系列zcanpro/zcantest诊断器。
 ### 车联网仿真
 - https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
 ## 智能设备安全

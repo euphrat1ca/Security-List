@@ -154,7 +154,7 @@
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
 - https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。goodjob。
-- https://github.com/phra/PEzor    //基于Mingw-w64的PE 文件加壳工具，绕过杀软检测
+- https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE 文件加壳工具，绕过杀软检测
 ### 文件捆绑打包
 - https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
 - http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
@@ -272,6 +272,7 @@
 - https://github.com/eLoopWoo/zwhawk    //Windows下具备远程命令控制界面的内核rootkit。
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
+- https://github.com/jxy-s/herpaderping    //C++。通过修改镜像后映射的磁盘内容来掩盖进程执行。goodjob。
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
 - https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
 - https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
@@ -279,7 +280,7 @@
 - https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:/mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
 - https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成。
-- https://www.sans.org/blog/defense-spotlight-finding-hidden-windows-services/    //红队策略：隐藏Windows服务。查找。
+- https://www.sans.org/blog/defense-spotlight-finding-hidden-windows-services/    //红队策略：隐藏Windows服务。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 - https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
