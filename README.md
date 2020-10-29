@@ -110,8 +110,6 @@
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试技巧
-- https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
-- https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
 ### 安全测试速查表
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
 - https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录

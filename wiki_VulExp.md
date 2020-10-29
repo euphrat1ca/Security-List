@@ -3,12 +3,15 @@
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;--
+- https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
+- https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
+- https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
 ## 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
 - https://0day.today    //漏洞市场
 ## 漏洞共享平台
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;--
 - https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。G:/zhzyker/vulmap;G:/zhzyker/exphub;--
 - https://github.com/Mr-xn/Penetration_Testing_POC    //渗透测试相关POC、EXP、脚本、提权、工具。goodjob。
 - https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
