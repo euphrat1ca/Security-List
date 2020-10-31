@@ -227,7 +227,7 @@
 ### Windows提权利用LPE
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
 - https://github.com/Ascotbe/Kernelhub    //Windows 提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件
-- https://github.com/dirkjanm/CVE-2020-1472    //NetLogon特权提升漏洞，一键域控。清空密码-Dump哈希secretsdump-利用域管hash导出sam数据库原先哈希密码restorepassword。G:/risksense/zerologon;
+- https://github.com/dirkjanm/CVE-2020-1472    //NetLogon特权提升漏洞，一键域控提权。配合多个py文件set_empty_pw清空域控密码-secretsdump下载域控哈希secretsdump-restorepassword利用域管hash导出sam数据库原先哈希密码。G:/risksense/zerologon;G:/SecuraBV/CVE-2020-1472;--
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
 - https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
