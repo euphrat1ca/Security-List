@@ -65,8 +65,6 @@
 # 远程协助
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike;--
-- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。G:/mwrlabs/C3;G:/cobbr/Covenant;--
-- https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。
 ### 远控通讯加密
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测
@@ -88,7 +86,9 @@
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
 - https://github.com/quasar/QuasarRAT/    C#。界面化远程管理工具。G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
-- https://github.com/cobbr/Covenant    //C#。.Net服务端C2控制器，配合powershell进行权限控制。
+- https://github.com/cobbr/Covenant    //C#。dotnet核心C2控制器，配合powershell进行权限控制。
+- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。
+- https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
 - https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell //已编译;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
