@@ -64,7 +64,7 @@
 - 渗透技巧——Pass the Hash with Exchange Web Service/    //利用exchange web服务进行哈希传递
 # 远程协助
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob,17k。
-- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike;--
+- https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike //3.14 Malleable-C2-Profiles;G:/Freakboy/CobaltStrike //源码;--
 ### 远控通讯加密
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测

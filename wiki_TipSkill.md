@@ -60,12 +60,13 @@
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
-### 面部图像分析
+### 图像分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
 - https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
-- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装
+- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装。
+- https://github.com/PaddlePaddle/PaddleOCR    //百度开源OCR图像识别文本
 ### 神经网络GanS
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
@@ -92,10 +93,11 @@
 - https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;
 ### 移动端开发
 - https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
-### web框架
+## Web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
-- https://github.com/fex-team/webuploader    //JS。文件上传框架
+- https://github.com/fex-team/webuploader    //JS。文件上传框架。
+- https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端/设计解决方案
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    //Py。WebGui展示。11k。
 ## 网络通讯请求

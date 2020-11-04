@@ -1,4 +1,5 @@
 # 万物互联
+- https://www.bilibili.com/video/BV1VT4y1c7Gm    //TechTeach。【中文字幕】IOT Hardware -Red Team || 工控 物联网安全（红队课程）
 - https://iot-security.wiki/    //伏宸安全实验室 物联网安全百科。
 - https://dassecurity-labs.github.io/HatLab_IOT_Wiki    //海特实验室物联网安全知识库。G:/DasSecurity-Labs/HatLab_IOT_Wiki;--
 - https://github.com/V33RU/IoTSecurity101    //IoT工业物联网安全学习的一些文章和资源。文章、搜索引擎工具、博客、视频、ctf靶场、协议包、数据库、固件样本
@@ -47,7 +48,7 @@
 - https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机。
 ## 车联网安全
 - https://github.com/autoguard/awesome-vehicle-security-and-safety    //汽车安全paper。
-- https://github.com/jaredthecoder/awesome-vehicle-security    //一个用于了解车辆安全和汽车黑客的资源清单
+- https://github.com/jaredthecoder/awesome-vehicle-security    //车辆安全和汽车黑客的资源清单
 - https://www.freebuf.com/articles/terminal/241930.html    //车机的渗透思路与实例分析
 - https://github.com/pasta-auto    //智能汽车测试
 - https://github.com/schutzwerk/CANalyzat0r    //Py。专有汽车协议的安全分析工具包

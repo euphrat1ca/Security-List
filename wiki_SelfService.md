@@ -165,7 +165,7 @@
 - https://www.wondercv.com/    //简历模板生成
 ### 素材采样
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
-- https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR识别。
+- https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
 - http://live.weibo333.com/     //B站录播机
 ### 图书素材
 - https://www.jiumodiary.com/    //电子书搜索引擎

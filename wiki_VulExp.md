@@ -1,9 +1,9 @@
 # 漏洞收集
-- https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
+- https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
+- https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;--
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
-- https://github.com/vulnersCom/getsploit    //Py3。仿照searchsploit通过各种数据库的官方接口进行payload的查找。
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;--
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
 - https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
@@ -150,7 +150,7 @@
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
 #### Weblogic中间件漏洞
-- https://github.com/s1kr10s/CVE-2020-14882    //WEBLOGIC CONSOLE HTTP 协议远程代码执行漏洞
+- https://github.com/s1kr10s/CVE-2020-14882    //WEBLOGIC CONSOLE HTTP 协议远程代码执行漏洞。
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
 - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用

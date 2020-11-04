@@ -138,8 +138,9 @@
 - https://www.factcheck.org/scicheck/    //评估对公共政策有影响的虚假和误导性科学主张的可信度
 - https://www.snopes.com/    //事实检查网站，包括城市传说，谣言，神话，可疑的照片和视频，文章和公众人物提出的主张。
 - https://verificationjunkie.com/    //帮助验证和事实检查，以及评估目击者报告信息的有效性
-### 威胁情报网
+### 威胁情报分析
 - https://norsecorp.com/    //可视化展示攻击者是谁以及他们所追求的数据内容。
+- https://github.com/fireeye/ThreatPursuit-VM    //火眼用于威胁情报分析的Windows虚拟机
 ### 图像搜索
 - https://www.imageidentify.com/    //图像识别，百度、谷歌识图
 - http://www.opentopia.com/    //汇总全球公共实时流网络摄像头和监视摄像机
