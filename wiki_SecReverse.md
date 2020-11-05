@@ -55,12 +55,12 @@
 - https://github.com/0xd4d/de4dot/    //C#。反混淆.Net代码逆向解压。
 - https://www.jetbrains.com/decompiler/    C#反编译，NiceDotPeek可显示代码注释。
 ### Python逆向
-- https://sourceforge.net/projects/pyinstallerextractor    //Py。pyinstaller‘.exe’反编译为‘.pyc’
+- https://sourceforge.net/projects/pyinstallerextractor    //Py。pyinstaller'*.exe'反编译为'.pyc'
 - https://github.com/countercept/python-exe-unpacker    //Py。Linux下py2exe or pyinstaller打包文件解压缩、逆向代码。
-- http://tools.bugscaner.com/decompyle    //.pyc或 .pyo文件在线反编译
-- https://github.com/rocky/python-uncompyle6    //Py3。支持Python version 1.3 to version 3.7源码反编译，*.pyc。
+- http://tools.bugscaner.com/decompyle    //'.pyc .pyo'文件在线反编译
+- https://github.com/rocky/python-uncompyle6    //Py3。支持Python version 1.3 to version 3.7源码反编译'*.pyc'。
 - https://github.com/wibiti/uncompyle2    //Py3。针对python2.7源码反编译
-- https://sourceforge.net/projects/easypythondecompiler    //Easy Python Decompiler利用 "Uncompyle2" & "Decompyle++"，支持.pyc 1.0 - 3.4源码反编译，界面GUI。
+- https://sourceforge.net/projects/easypythondecompiler    //Easy Python Decompiler利用 "Uncompyle2" & "Decompyle++"，支持'.pyc 1.0 - 3.4'源码反编译，界面GUI。
 - https://github.com/zrax/pycdc    //C++。Linux全版本*.pyc反编译。
 ### Java逆向
 - https://github.com/skylot/jadx    //Java。jd-gui反编译工具升级版，反编译出来的代码未格式化。20k。G:/java-decompiler/jd-gui;--

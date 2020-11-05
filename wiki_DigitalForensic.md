@@ -4,18 +4,27 @@
 - https://github.com/laramies/metagoofil    //Py。从文件获取相关网站的用户名与邮箱等数据。documents (pdf,doc,xls,ppt,etc).
 - https://github.com/mozilla/mig    //go。火狐mozilla基金会针对海量文件的内容定位工具，支持节点分级部署。Deprecation。
 - https://polytechnic.purdue.edu/facilities/cybersecurity-forensics-lab/tools    //FileTSAR大规模的数据调查取证。
-- https://techtalk.gfi.com/top-20-free-digital-forensic-investigation-tools-for-sysadmins/    //翻译|系统管理员免费数字取证调查工具TOP20
-### 文件取证
-- https://www.audacityteam.org/    //音频文件和波形图处理工具
+- https://techtalk.gfi.com/top-20-free-digital-forensic-investigation-tools-for-sysadmins/    //翻译|系统管理员免费数字取证调查工具TOP20。
+- https://0xrick.github.io/lists/stego/    //隐写术工具和资源列表 Steganography - A list of useful tools and resources。
+## 文件取证
+- http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
+- http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
+- https://github.com/ElevenPaths/FOCA    //文档中查找元数据和隐藏信息
+### 图片取证
+- https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式。
+- https://github.com/DominicBreuker/stego-toolkit    //图片、音频隐写工具集。P:Stegosuite;--
 - https://github.com/redaelli/imago-forensics    //Py3。将照片中Exif、MIME等信息提取存入CSV/sqlite中
 - http://www.magicexif.com/    //将照片图像中的exif信息数据化
 - http://mediaarea.net/MediaInfo    //类似于exiftool来查看内容区域和元数据信息
 - https://www.sno.phy.queensu.ca/~phil/exiftool/    //检查图像文件的exif元数据
 - https://www.gimp.org/    //Gimp可将各类图像文件转换为可视化数据，用于确认文件是否是一个图像文件。
-- http://qpdf.sourceforge.net/    //查看pdf文件并整理提取信息
-- http://zipinfo.com/    //在无需提取的情况下列出了zip文件的内容信息
-- https://github.com/GuidoBartoli/sherloq    //C++。数字图片取证
-- https://github.com/ElevenPaths/FOCA    //文档中查找元数据和隐藏信息
+- https://github.com/GuidoBartoli/sherloq    //C++。数字图片取证。
+- https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
+- http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
+- http://www.libpng.org/pub/png/apps/pngcheck.html    //图片检测。goodjob。
+### 音频取证
+- https://embeddedsw.net/OpenPuff_Steganography_Home.html    //图片音视频隐写，加密工具。
+- https://www.audacityteam.org/    //音频文件和波形图处理工具，adobe AU。
 ## 计算机设备取证
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
 - https://github.com/decalage2/oletools    //Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档

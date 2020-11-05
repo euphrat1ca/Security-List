@@ -115,33 +115,24 @@
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
 - https://github.com/m0xiaoxi/AWD_CTF_Platform    //CTF-AWD 训练平台
-### CTF命令脚本
+### CTF杂项
 - https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
+### CTF攻防AWD
 - https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
 - https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
 - https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
-### CTF杂项
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
 ### CTF密码学
 - https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。
-- https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+- https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。goodjob。
 - https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
 - https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
-- https://github.com/mufeedvh/basecrack    //Py3。全base编码检测。
-### CTF隐写术
-- https://www.freebuf.com/sectool/208781.html    //将任意文本隐藏在音频视频图片和文本中的多种方式
-- https://0xrick.github.io/lists/stego/    //隐写术工具和资源列表 Steganography - A list of useful tools and resources。
-- https://github.com/DominicBreuker/stego-toolkit    //图片、音频隐写工具Stegosuite
-- https://github.com/livz/cloacked-pixel    //Py3。LSB图片数据隐藏
-- http://www.caesum.com/handbook/Stegsolve.jar    //Java。图片隐写查看器，多图层查看器。
-- https://embeddedsw.net/OpenPuff_Steganography_Home.html    //图片音视频隐写工具
-- https://www.audacityteam.org/    //音频编辑工具，波形图显示。
-- http://www.libpng.org/pub/png/apps/pngcheck.html    //图片检测。goodjob。
-### CTF二进制pwn利用
+- https://github.com/mufeedvh/basecrack    //Py3。全base编码检测。GOODJOB。
+### CTF利用Pwn
 - https://github.com/Gallopsled/pwntools    //Py。pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn，自动攻击脚本
-## 二进制pwn利用
+- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn利用，自动攻击脚本
+## 二进制利用
 - https://github.com/FULLSHADE/WindowsExploitationResources/    //Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法。
 - https://www.youtube.com/playlist?list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z    //IDA逆向工程入门
