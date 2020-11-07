@@ -104,20 +104,21 @@
 - https://github.com/nextcloud/server    //php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
 - https://github.com/canton7/SyncTrayzor    //C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee;P:/goodsync;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
+- https://github.com/haiwen/seafile    //C。私有云网盘同步，速度快，功能少。
+- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联VPS版本，vps使用OneDrive存储。
 ### 云盘存储
-- https://send.firefox.com/    //火狐Free网盘传输。G:/mozilla/send;--
-- https://cowtransfer.com/    //奶牛快传免费网盘。W:wetransfer.com;W:wenshushu.cn/;W:filecad.com;W:anonfile.com/;W:upload.ee/;--
-- http://www.pastebin.com/    //在线文档分析。W:ssavr.com;--
+- https://send.firefox.com/    //火狐Free网盘传输。G:/mozilla/send;W:wetransfer.com;W:anonfile.com/;W:filecad.com;W:upload.ee/;--
+- https://cowtransfer.com/    //奶牛快传免费网盘。W:wenshushu.cn/;--
+- http://www.pastebin.com/    //在线文档分享。W:ssavr.com;--
 - https://deershare.com/send    //P2P文件点对点传输。G:/RobinLinus/snapdrop;W:send-anywhere.com;--
-- https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/uknowsec/SharpOSS    //利用aliyun-oss-csharp-sdk实现内网文件传输。
+### 云盘搭建
+- https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文档、文件、payload共享。
 - https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。
 - https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
-- https://github.com/haiwen/seafile    //C。私有云网盘同步，速度快，功能少。
-- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联VPS版本，vps使用OneDrive存储。
 ### 文档编辑
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。
