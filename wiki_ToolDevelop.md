@@ -115,7 +115,7 @@
 - https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
 - https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
-- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型![Alt text](./wiki_CobaltstrikeImage/bluscreenofjeffAggressorScripts.png)
+- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型介绍，![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件
 ### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
