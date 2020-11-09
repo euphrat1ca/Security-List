@@ -35,9 +35,9 @@
 - https://github.com/dzzie/COMRaider    //客户端溢出风险测试
 - http://blog.topsec.com.cn/alphafuzzer/    //阿尔法实验室文件模糊测试工具。
 ### 协议模糊测试
-- https://www.peach.tech/    //C#。Peach3模板流（通过提前定义好的xml等文件模板对目标单位进行测试）模糊测试，网络协议、API、文件格式模糊测试。G:/TideSec/Peach_Fuzzing;--
+- https://www.peach.tech/    //C#。Peach3模板流（通过提前定义好的xml等文件模板对目标单位进行测试）模糊测试，网络协议、API、文件格式模糊测试。
 - https://github.com/MozillaSecurity/peach    //Py3。MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。
-- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //公众号：使用Peach进行模糊测试从入门到放弃。P:/【工控安全】基于Peach的Modbus协议模糊测试;--
+- https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //公众号：使用Peach进行模糊测试从入门到放弃。G:/TideSec/Peach_Fuzzing;P:/【工控安全】基于Peach的Modbus协议模糊测试;--
 - https://github.com/cisco-sas/kitty    //Py。针对TCP/IP的模糊测试框架。goodjob。
 - https://kitty.readthedocs.io/en/latest/    //Intro。kitty使用手册
 - https://github.com/cisco-sas/katnip    //Py。kitty框架拓展库
