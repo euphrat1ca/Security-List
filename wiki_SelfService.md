@@ -108,7 +108,7 @@
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index 默认世纪互联VPS版本，vps使用OneDrive存储。
 ### 云盘存储
 - https://send.firefox.com/    //火狐Free网盘传输。G:/mozilla/send;W:wetransfer.com;W:anonfile.com/;W:filecad.com;W:upload.ee/;--
-- https://cowtransfer.com/    //奶牛快传免费网盘。W:wenshushu.cn/;--
+- https://cowtransfer.com/    //奶牛快传免费网盘分享。W:wenshushu.cn/;--
 - http://www.pastebin.com/    //在线文档分享。W:ssavr.com;--
 - https://deershare.com/send    //P2P文件点对点传输。G:/RobinLinus/snapdrop;W:send-anywhere.com;--
 - https://github.com/uknowsec/SharpOSS    //利用aliyun-oss-csharp-sdk实现内网文件传输。
@@ -177,6 +177,7 @@
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
+- https://33-app.agilestudio.cn/    //根据台词查找电影
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
 ### 图片素材
