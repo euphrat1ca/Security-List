@@ -228,7 +228,6 @@
 - https://github.com/boy-hack/w8fuckcdn    //Py。基于masscan通过扫描全网绕过CDN获取网站IP地址。CDN识别绕过。
 - https://github.com/3xp10it/xcdn    //尝试找出cdn背后的真实ip，3xp10it.github.io 博客。
 - https://github.com/Nitr4x/whichCDN    //CDN识别、检测
-- https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。
 - https://github.com/yanxiu0614/subdomain3    //py。子域名/IP/CDN信息
 - https://github.com/christophetd/CloudFlair    //Py。利用dns与api进行cloudflare绕过（注册账户添加网站前一步会把所有目前解析扫描出来），获取真实ip。集成censys。1K。Github:/CloudFail;Github:/Cloudmare;--
 - https://github.com/m0rtem/CloudFail    //Py。利用错误配置的dns请求与历史dns解析记录查找CloudFlare后的真实IP

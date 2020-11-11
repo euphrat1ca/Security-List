@@ -20,11 +20,11 @@
 ### 资产端口扫描
 - https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
 - https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
-- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
-- https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构
+- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍。
+- https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构。
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
-- https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
+- https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。simple。G:/tengzhangchao/PortScan;--
 ### 资产内网信息
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
 - https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
