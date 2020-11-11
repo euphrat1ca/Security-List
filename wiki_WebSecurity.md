@@ -21,7 +21,10 @@
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:/chichou/grab.js;--
 - https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
 - https://github.com/zmap/ztag    //Py。对zmap\zgrab产生的数据分析打标签。censys三件套。
+- https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
 ## 资产信息搜集
+- https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
+- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
 - https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
 - https://github.com/m8r0wn/nullinux    //Py。Linux的内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
@@ -60,14 +63,11 @@
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
 - https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版，Nessus无IP限制版虚拟机。
-- https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
-- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
-- https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
-- https://github.com/TideSec/Mars    //Py。基于docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
+- https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
 - https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
 - https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
 - https://github.com/andresriancho/w3af    //Py。包含 200+ Web漏洞。G;Fireflyi/lcyscan;--
-- https://github.com/sullo/nikto    //Perl。linux下网站扫描器
+- https://github.com/sullo/nikto    //Perl。Linux下网站扫描器
 - https://github.com/TideSec/WDScanner    //PHP。TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 - https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG]。
 - https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。
