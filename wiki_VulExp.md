@@ -41,7 +41,6 @@
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
 - https://github.com/exodusintel/CVE-2019-0808    //JS/C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
 - https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
-- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能
 - https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
 - https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie。
 ### 远程调试漏洞

@@ -207,10 +207,11 @@
 - https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
 ## 社会工程
-- https://github.com/mehulj94/Radium-Keylogger    //py。键盘记录工具。
+- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能。
+- https://github.com/uknowsec/keylogger    //Go。键盘记录，OSS定期回传。G:/mehulj94/Radium-Keylogger;
 - https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
-- https://github.com/ggerganov/kbd-audio    //C++。linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
+- https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/azizaltuntas/Camelishing    //Py3。社会工程学攻击辅助工具。WEBGUI。
 - https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和‘Archive.org’历史记录，以确定最为适合于钓鱼和C2的域名。
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。

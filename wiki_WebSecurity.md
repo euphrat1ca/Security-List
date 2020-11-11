@@ -17,7 +17,7 @@
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。G:/nanshihui/Scan-T;G:/LangziFun/LangNetworkTopology3;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
-### 资产端口扫描
+### 资产服务探测
 - https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
 - https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
 - https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍
@@ -25,6 +25,15 @@
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 - https://github.com/tengzhangchao/PortScan    //Py,Go。基础端口扫描器demo，simple。
+### 指纹识别
+- https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
+- https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API。
+- https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k,goodjob。G:/Rvn0xsy/FastWhatWebSearch;--
+- https://github.com/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
+- https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描
+- https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。G:/rbsec/sslscan;--
+- https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
+- https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ### 资产内网信息
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
 - https://github.com/m8r0wn/nullinux    //Py。用于Linux的内部渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
@@ -74,19 +83,10 @@
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
-### 代理请求测试
+### 代理请求调试
 - https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la 精易助手;G:/jakubroztocil/httpie;--
 - https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
-### 指纹识别主机端口服务
-- https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
-- https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API。
-- https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k,goodjob。G:/Rvn0xsy/FastWhatWebSearch;--
-- https://github.com/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
-- https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描
-- https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。G:/rbsec/sslscan;--
-- https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
-- https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ## web模糊测试
 - https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。G:/projectdiscovery/nuclei;G:/ffuf/ffuf;--
 - https://github.com/1N3/BlackWidow    //Py。利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试。
