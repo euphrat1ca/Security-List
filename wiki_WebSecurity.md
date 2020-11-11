@@ -6,23 +6,23 @@
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
-## 资产漏洞生命周期
+### 资产漏洞生命周期
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:/ATpiu/asset-scan;--
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
 - https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
 - https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
-## 资产信息搜集
-- https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
+## 空间测绘
+- https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
+- https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
+- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍。
+- https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。G:/nanshihui/Scan-T;G:/LangziFun/LangNetworkTopology3;--
 - https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:/chichou/grab.js;--
 - https://github.com/zmap/zdns    //Go。Fast CLI DNS Lookup Tool。censys三件套。
 - https://github.com/zmap/ztag    //Py。对zmap\zgrab产生的数据分析打标签。censys三件套。
-- https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
-- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:/flipkart-incubator/RTA;--
-- https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
-- https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。G:/nanshihui/Scan-T;G:/LangziFun/LangNetworkTopology3;--
-- https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
+## 资产信息搜集
+- https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
 - https://github.com/m8r0wn/nullinux    //Py。Linux的内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    //Linux系统审计工具，可以导出系统配置，生成报表
@@ -33,13 +33,13 @@
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
-- https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括信息搜集\权限提升\密钥窃取等。
 - https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证。
 - https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;--
-### 资产服务扫描
-- https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
-- https://github.com/robertdavidgraham/masscan    //C。无状态扫描器。10k。On Windows, or from VMs, it can do 300,000 packets/second. On Linux (no virtualization) it'll do 1.6 million packets-per-second。
-- https://paper.seebug.org/1052/    //Intro。从 Masscan, Zmap 源码分析到开发实践。扫描方式socket/libpcap/PF_RING DNA设备/ 三种介绍。
+- https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
+- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:/flipkart-incubator/RTA;--
+- https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
+- https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
+### 资产端口扫描
 - https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构。
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
@@ -57,9 +57,9 @@
 - https://github.com/guardicore/monkey    //Py。C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
 - https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 ## 资产扫描漏洞检测
+- https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
 - https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版，Nessus无IP限制版虚拟机。
-- https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
 - https://github.com/w-digital-scanner/w12scan    //py3。django + elasticsearch + redis(去重+web与w12scan-client通信中间件)网络资产发现引擎，通过WEB API下发任务。boy-hack开发。
