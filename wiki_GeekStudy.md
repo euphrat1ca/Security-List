@@ -110,7 +110,7 @@
 - https://github.com/CTFd/CTFd    //py2。基于flask的动态Capture The Flag framework
 - https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台。
 - https://github.com/wuhan005/Asteroid/    //C#。CTF AWD 实时 3D 攻击大屏
-- https://github.com/vidar-team/Cardinal/    //Go。CTF⛳️ AWD (Attack with Defense) 线下赛平台
+- https://github.com/vidar-team/Cardinal/    //Go。CTF ⛳️ AWD (Attack with Defense) 线下赛平台
 - https://github.com/gabemarshall/microctfs    //SHELL,JS。小型ctf镜像docker
 - https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
 - https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
@@ -123,7 +123,7 @@
 - https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
 - https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
 ### CTF密码学
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。G:/Acmesec/CTFCrackTools-V2;--
 - https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。goodjob。
 - https://github.com/gchq/CyberChef    //JS。反混淆，密码解密工具。
 - https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
