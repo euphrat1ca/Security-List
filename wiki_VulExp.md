@@ -149,7 +149,7 @@
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
 #### Weblogic中间件漏洞
-- https://github.com/s1kr10s/CVE-2020-14882    //WEBLOGIC CONSOLE HTTP 协议远程代码执行漏洞。
+- https://github.com/jas502n/CVE-2020-14882    //CVE-2020–14882 Weblogic Unauthorized bypass RCE。G:/s1kr10s/CVE-2020-14882;--
 - https://github.com/hktalent/CVE-2020-2551    //py。Weblogic IIOP反序列化命令执行漏洞（CVE-2020-2551）漏洞
 - https://github.com/Maskhe/cve-2020-2555    //基于t3协议的Oracle Coherence&WebLogic反序列化远程代码执行。
 - https://github.com/potats0/cve_2020_14644    //Java。CVE-2020-14644 Weblogic下Oracle反序列化回显利用

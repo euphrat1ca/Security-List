@@ -15,6 +15,7 @@
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 # 空间测绘
 - https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
+- https://raw.githubusercontent.com/nmap/nmap/master/nmap-service-probes    //资产识别指针、配置文件。greatjob。
 - https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。G:/nanshihui/Scan-T;G:/LangziFun/LangNetworkTopology3;--
 - https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:/chichou/grab.js;--
@@ -27,7 +28,6 @@
 - https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构。
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
-- https://github.com/se55i0n/PortScanner    //Py3。目标tcp端口快速扫描、banner识别、cdn检测。simple。G:/tengzhangchao/PortScan;--
 ## 资产信息搜集
 - https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
@@ -48,6 +48,8 @@
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
+### 资产扫描搜集
+- https://github.com/Adminisme/ServerScan    //Go。高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
 ### 资产指纹识别
 - https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
 - https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API。
@@ -89,7 +91,7 @@
 - https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
-- https://github.com/projectdiscovery/nuclei    //Go。漏洞模板检测自动化检测框架。goodjob。
+- https://github.com/projectdiscovery/nuclei    //Go。基于模板的可配置扫描工具，HTTP请求特征。goodjob。
 ### 资产被动检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob,6k。
 - https://github.com/TrojanAZhen/BurpSuitePro-2.1    //BurpSuite 1.7.27/2.1 Pro 和谐版本。G:/euphrat1ca/PRUBUnlimitedre;--
