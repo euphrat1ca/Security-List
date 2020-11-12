@@ -180,6 +180,7 @@
 - https://github.com/bkimminich/juice-shop    //常见web安全实验靶场市场。G:/78778443/permeate;G:/gh0stkey/DoraBox;G:/stamparm/DSVW;G:/amolnaik4/bodhi;--
 - https://github.com/Safflower/Solve-Me    //php。韩国代码审计ctf靶场源码
 - https://github.com/0c34/govwa    //Go。Go Vulnerable Web Application，代码审计。
+- https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp    //TypeScript。弱加密程序，密码解密练习。
 - https://github.com/secvulture/dvta    //客户端C/S架构靶场
 - https://github.com/OWASP/igoat    //适用于ios应用程序测试和安全性的学习工具
 - https://github.com/prateek147/DVIA-v2    //适用于ios应用程序测试和安全性的学习工具

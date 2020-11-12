@@ -6,7 +6,7 @@
 - https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
-- https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。
+- https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。G:/kuiguansec/rcetool;--
 ### 资产漏洞生命周期
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:/ATpiu/asset-scan;--
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台

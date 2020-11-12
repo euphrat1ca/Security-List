@@ -30,7 +30,6 @@
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3。
 - https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议漏洞库。拒绝服务。
-- https://github.com/jiansiting/cve-2020-16898    //CVE-2020-16898 (badneighbor)拒绝服务poc
 - https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit    //qnap Nas平台  Pre-Auth Root RCE
 ### 文本编辑器漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行‘source ~/.vimrc’让它生效。
@@ -218,6 +217,7 @@
 - https://github.com/gentilkiwi/kekeo    //C。Kerberos漏洞利用工具箱，包括如MS14-068 (CVE-2014-6324) Kerberos 域控利用漏洞（“ systeminfo |find "KB3011780" 查看是否安装补丁”）。G:/mubix/pykek;G:/goldenPac.py;--
 - https://github.com/padovah4ck/CVE-2020-0683    //C++。利用伪造MSI重写DACL访问控制列表、任意文件覆盖重写。
 ### Windows命令执行RCE
+- https://github.com/jiansiting/cve-2020-16898    //CVE-2020-16898 (bad neighbor) ICMPv6 Windows TCP/IP远程代码执行。
 - https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:/ollypwn/SMBGhost;G:/jiansiting/CVE-2020-0796;G:/chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:/coolboy4me/cve-2019-0708_bluekeep_rce //增加xp/03;G:/MS08-067;--
 - https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17-010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。

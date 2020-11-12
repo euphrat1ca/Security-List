@@ -39,7 +39,7 @@
 - https://github.com/MozillaSecurity/peach    //Py3。MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。
 - https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //公众号：使用Peach进行模糊测试从入门到放弃。G:/TideSec/Peach_Fuzzing;P:/【工控安全】基于Peach的Modbus协议模糊测试;--
 - https://github.com/cisco-sas/kitty    //Py。针对TCP/IP的模糊测试框架。goodjob。
-- https://kitty.readthedocs.io/en/latest/    //Intro。kitty使用手册
+- https://kitty.readthedocs.io/en/latest/    //Intro。Python类库kittyfuzzer使用手册
 - https://github.com/cisco-sas/katnip    //Py。kitty框架拓展库
 - https://paper.seebug.org/772/    //Intro。如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz。
 - https://github.com/jtpereyda/boofuzz    //Py。基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。G:/OpenRCE/sulley;--
