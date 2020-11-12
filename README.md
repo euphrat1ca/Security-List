@@ -342,6 +342,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
 - https://xz.aliyun.com/t/7895/    //techteach。利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
+- https://www.freebuf.com/column/201766.html    //techteach。正则表达式所引发的DoS攻击（Redos）。G:/superhuman/rxxr2;--
+
 ---
 # 模糊测试漏洞挖掘
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md/    //Fuzzer模糊测试。mywiki
