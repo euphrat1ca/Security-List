@@ -11,11 +11,10 @@
 ### burp协议分析
 - https://github.com/lyxhh/lxhToolHTTPDecrypt/    //Js。Android/iOS协议分析利用
 - https://github.com/mr-m0nst3r/Burpy    //Web端JS加密算法调试解密
-- https://github.com/c0ny1/jsEncrypter    //Web前端加密Fuzz插件
+- https://github.com/c0ny1/jsEncrypter    //Web前端加密协议Fuzz爆破
 ### burp绕过
-- https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造
+- https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造。
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问
-- https://github.com/c0ny1/jsEncrypter    //用于加密传输爆破的Burp Suite插件
 - https://github.com/nccgroup/BurpSuiteHTTPSmuggler    //使用几种技巧绕过WAF
 - https://github.com/c0ny1/chunked-coding-converter    //用于http传送过程的分块技术，可绕WAF等防护设备。
 ### burp利用探测
@@ -50,7 +49,7 @@
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui
-## kali环境拓展插件相关工具
+## Kali环境拓展插件相关工具
 - https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
 - https://github.com/secforce/sparta    //Py。界面化，联动Nmap、Nikto、Hydra等工具
 - https://github.com/skavngr/rapidscan    //Py3。simple，联动kali下工具，漏洞扫描工具
@@ -60,14 +59,14 @@
 - https://github.com/se55i0n/Awvs_Nessus_Scanner_API    //扫描器Awvs 11和Nessus 7 Api利用脚本
 - https://github.com/DanMcInerney/msf-autoshell    //配合nessus扫描结果进行msf攻击
 - https://github.com/MooseDojo/apt2    //联动nmap、nessus等工具进行安全测试
-## awvs拓展插件相关工具
+## AWVS拓展插件相关工具
 - awvs下载    //fahai.org;--
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:/fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包
 - https://github.com/l3m0n/awvs_190703137    //Py。Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
-## sqlmap拓展插件相关工具
+## Sqlmap拓展插件相关工具
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //Py3。WebSocket 中转注入工具
 - https://github.com/Hood3dRob1n/SQLMAP-Web-GUI    //PHP。sqlmap的web gui
@@ -79,7 +78,7 @@
 - https://github.com/zt2/sqli-hunter    //基于sqlmapapi，ruby编写的漏洞代理型检测工具
 - https://github.com/jesuiscamille/AutoSQLi    //利用DorkNet，Googler， Ddgr， WhatWaf 和 sqlmap自动注入
 - 公众号：记一次渗透棋牌APP实录    //利用sqlmap --technique S --os-shell栈查询(stack queries)进行命令执行
-## metasploit拓展插件相关工具
+## Metasploit拓展插件相关工具
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit    //结合机器学习与msf的全自动测试工具
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL    //一个可以创建SSL/TLS shell连接的脚本
 - https://github.com/DanMcInerney/msf-netpwn    //等待msf的session，并自动提为域管理
@@ -99,7 +98,7 @@
 - https://github.com/byt3bl33d3r/DeathStar    //Py3。调用Empire RESTful API 自动化获取域管权限的
 - https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
-## cobaltstrike拓展插件相关工具
+## Cobaltstrike拓展插件相关工具
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
 - https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的‘xor64.bin’
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
@@ -138,7 +137,7 @@
 - https://github.com/m0ngo0se/Peinject_dll    //使用shellexecute函数感染正常文件PE。testjob。
 ### cobaltstrike漏洞利用
 - https://github.com/phink-team/Cobaltstrike-MS17-010    //cobaltstrike ms17-010（win7 x64 and win2008 r2）等插件
-- https://github.com/rsmudge/ElevateKit/    //PS。cna插件，CS利用第三方模块提权
+- https://github.com/rsmudge/ElevateKit/    //PS。CS利用第三方模块提权。cna插件。
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit
 - https://github.com/rxwx/spoolsystem    //利用漏洞欺骗打印机进行提权
 - https://github.com/dtmsecurity/bof_helper    //Py3。BOF编写辅助器。
@@ -146,4 +145,4 @@
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
 - https://github.com/yzddmr6/as_webshell_venom    //js。免杀webshell无限生成工具蚁剑版
 - https://github.com/Ch1ngg/CaidaoMitmProxy    //Py3。基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。
-- https://github.com/ekgg/Caidao-AES-Version    //Burp插件.用AES算法透明加密菜刀的http数据流
+- https://github.com/ekgg/Caidao-AES-Version    //Burp插件。用AES算法透明加密菜刀的http数据流

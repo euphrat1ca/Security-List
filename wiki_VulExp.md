@@ -225,7 +225,7 @@
 - https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
 ### Windows提权利用LPE
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
-- https://github.com/Ascotbe/Kernelhub    //Windows 提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件
+- https://github.com/Ascotbe/Kernelhub    //Windows 提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件。goodjob。
 - https://github.com/dirkjanm/CVE-2020-1472    //NetLogon特权提升漏洞，一键域控提权。配合多个py文件set_empty_pw清空域控密码-secretsdump下载域控哈希secretsdump-restorepassword利用域管hash导出sam数据库原先哈希密码。G:/risksense/zerologon;G:/SecuraBV/CVE-2020-1472;--
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
 - https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
@@ -237,6 +237,7 @@
 - https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
 - https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
 - https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;--
+- https://gitee.com/cbwang505/CVE-2019-0803/    //Win7未正确处理GDI对象导致的UAF类型本地权限提升漏洞。
 - https://github.com/alpha1ab/CVE-2018-8120    //‘win32k.sys’组件的‘NtUserSetImeInfoEx()’系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
 - https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
 - https://github.com/WindowsExploits/Exploits    //微软CVE-2012-0217、CVE-2016-3309、CVE-2016-3371、CVE-2016-7255、CVE-2017-0213利用Windows COM提权。
