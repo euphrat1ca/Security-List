@@ -62,10 +62,11 @@
 - https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 ### EDR终端防护
-- http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。
-- http://edr.sangfor.com.cn/    //深信服。SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息进行恶意域名检测
+- http://edr.sangfor.com.cn/    //深信服SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息进行恶意域名检测
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
+- https://github.com/ComodoSecurity/openedr    //C++。开放式EDR组件。
+- http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。
 - https://github.com/crowdsecurity/crowdsec    //Go。Linux下主机入侵检测，lua模块，nginx反代，一键部署，webGUI。goodjob。
 - https://github.com/DasSecurity-Labs/AoiAWD    //PHP。Linux下CTF AWD轻量级EDR系统，支持flag替换。webgui。goodjob。
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。

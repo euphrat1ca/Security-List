@@ -29,9 +29,6 @@
 ### 图床操作
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //Go。图床API汇总。
-### 域名操作
-- https://www.freenom.com    //注册免费域名，dns解析
-- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
 ### 下载操作
 - https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
 - http://www.bingdian001.com/    //百度文库冰点下载。
@@ -61,8 +58,14 @@
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 ### 思维导图
 - https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;
-### 网络服务
-- https://www.dnspod.cn/    //动态域名解析、DDNS服务。花生壳;向日葵;蒲公英域名内网穿透。
+### 网络解析服务
+- https://dynv6.com/    //免费DDNS域名服务。P:小米球Ngrok;G:duckdns.org;G:dynu.com;--
+- https://hsk.oray.com/    //动态域名解析，DDNS服务，域名内网穿透，蒲公英SD-WAN异地组网。W:zerotier.com;--
+### 域名服务
+- https://letsencrypt.org/    //免费证书注册分发机构。
+- https://www.dnspod.cn/    //域名解析注册
+- https://www.freenom.com    //注册免费域名，dns解析。
+- https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
 ## 协同办公
 - https://sadd.io/    //在线操作系统
 - https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
@@ -71,6 +74,7 @@
 - https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    //电脑控制手机打电话、发短信、接收通知、传输文件等
 - https://www.airdroid.com/    //移动端手机设备控制
 ### 分身登录
+- https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 - http://www.vuln.cn/tools/ftp    //匿名FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
 ## wiki平台
@@ -150,7 +154,6 @@
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
 - https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
-- https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 - DWS(Destroy-Windows-10-Spying)    //消除Windows隐私监控。W:wpd.app;G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--

@@ -1,8 +1,8 @@
 ## 代理转发映射穿透
 - https://www.freebuf.com/sectool/249572.html    //正确的上网方式：软路由入门指南。techteach。
 - https://github.com/fatedier/frp    //Golang。用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。G:;todzhang/lcx/;G:/uknowsec/frpModify //公众号:FRP改造计划;--
+- https://github.com/cnlh/nps    //Go。内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。WebGUI,多用户。GOODJOB。
 - https://github.com/inconshreveable/ngrok    //Go。端口转发，正反向代理，内网穿透。17K。
-- https://github.com/cnlh/nps    //Go。内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。WebGUI,多用户。
 ### 流量转发代理
 - https://github.com/L-codes/Neo-reGeorg    //Py。‘reDuh’‘reGeorg’的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。G:/SECFORCE/Tunna;G:/securesocketfunneling/ssf;G:/sysdream/ligolo;G:/FunnyWolf/pystinger;--
 - https://github.com/fbkcs/thunderdns    //Py。将tcp流量通过DNS协议转发，不需要客户端和socket5支持。

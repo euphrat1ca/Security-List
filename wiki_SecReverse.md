@@ -11,6 +11,7 @@
 - https://github.com/euphrat1ca/PeDoll    //C++。基于inlineHook技术的软件分析工具，C/S架构（PeDollc/PeDolls）。
 - https://bbs.ichunqiu.com/thread-16846-1-1.html    //intro。PeDoll 调戏木马病毒的正确姿势-正式篇
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
+- https://github.com/fireeye/capa    //Py。Windows下程序执行时所产生的操作。goodjob。
 ## 小程序安全
 - https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
 - https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
