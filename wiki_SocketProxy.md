@@ -53,9 +53,9 @@ G:/Ehco1996/django-sspanel;G:/leitbogioro/SSR.Go;--
 - https://github.com/proxycannon/proxycannon-ng    //Shell。从云端获取IP节点流量，构建Tor洋葱私人网络，形成僵尸网络组建。
 - http://www.vpngate.net    //日本国立筑波大学云局域网。SoftEther开源、跨平台、多重协议的虚拟专用网方案
 - https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:/红蓝对抗之组一个安全的网;--
-- https://github.com/zerotier    //C++。网络虚拟化平台云自组网
-- https://www.wireguard.com/install/    //新一代跨平台npv协议。G:/angristan/wireguard-install;--
-- https://www.radmin-vpn.cn/    远程组网服务。
+- https://github.com/zerotier    //C++。网络虚拟化平台云自组网。
+- https://www.wireguard.com/install/    //跨平台VPN协议，一键组网切换。G:/angristan/wireguard-install;--
+- https://www.radmin-vpn.cn/    //远程组网服务。
 - https://github.com/microsoft/SDN    //PS。此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
 - https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
 ### 单点登录
