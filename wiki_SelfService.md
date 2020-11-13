@@ -50,8 +50,10 @@
 - https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
 - https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
 - https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
-- https://github.com/tmux/tmux    //命令行功能加强工具
-- https://github.com/nvbn/thefuck    //Py。命令行自动补全改错工具
+- https://github.com/tmux/tmux    //Linux命令行终端多路复用器。
+- https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
+- https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。
+- https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
 ### 文件检索
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构

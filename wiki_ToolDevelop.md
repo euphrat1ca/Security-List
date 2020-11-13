@@ -93,10 +93,9 @@
 - https://github.com/Zerx0r/Kage    //VueJS。图形化MSF的界面GUI，Session Handler控制。goodjob。
 ## Empire拓展插件相关工具
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
-- https://github.com/EmpireProject/Empire-GUI    //empire的nodejs界面
-- https://github.com/interference-security/empire-web    //empire的web界面
+- https://github.com    //empire的web界面
 - https://github.com/byt3bl33d3r/DeathStar    //Py3。调用Empire RESTful API 自动化获取域管权限的
-- https://byt3bl33d3r.github.io/    //automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
+- https://byt3bl33d3r.github.io/automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html    //DeathStar教程
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
 ## Cobaltstrike拓展插件相关工具
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
