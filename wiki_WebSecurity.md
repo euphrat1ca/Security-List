@@ -42,8 +42,9 @@
 - https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能。
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
-- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;--
-- https://github.com/ywolf/F-NAScan    //Py3。网络资产、端口服务搜集整理，生成报表显示。G:/flipkart-incubator/RTA;--
+- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
+- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
+- https://github.com/broken5/WebAliveScan    //Py。对目标域名进行快速的存活扫描、标题抓取、目录扫描。welljob。
 - https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--

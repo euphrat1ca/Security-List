@@ -293,11 +293,8 @@
 - https://github.com/eldraco/domain_analyzer    //Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
 - https://github.com/mhelwig/privdns    //Py3。利用nameserver的错误配置，dns解析暴露其内网地址
 ### 目录路径发现
-- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径枚举Fuzz爆破。
-- https://github.com/ffuf/ffuf    //Go。web网站路径、参数、子域名、数据模糊测试（fuzzing）
-- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破。界面GUI。G:/fnk0c/cangibrina;G:/0daysec/webscan_dir;G:/maurosoria/dirsearch;G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
-- https://github.com/TheM4hd1/PenCrawLer    //C#。界面，web爬虫与目录路径递归爆破。
-- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，支持Execution After Redirect漏洞探测。
+- https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    //Java。目录路径递归枚举爆破。G:/TheM4hd1/PenCrawLer;--
+- https://github.com/ffuf/ffuf    //Go。Web网站路径、参数、子域名、数据模糊测试（fuzzing）
+- https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破。界面GUI。P:御剑目录;P:Pker多线程后台极速扫描工具;P:Test404轻量后台扫描器;G:/fnk0c/cangibrina;G:/0daysec/webscan_dir;G:/maurosoria/dirsearch;G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
+- https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，支持Execution After Redirect漏洞探测。G:/jerrychan807/WSPIH;G:/aipengjie/sensitivefilescan;G:/Mosuan/FileScan;G:/Xyntax/FileSensor;G:/ring04h/weakfilescan;--
 - https://github.com/Go0s/SitePathScan    //Py。基于协程的目录路径爆破工具，配合aiohttp扫描路径增速三倍。
-- https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。G:/jerrychan807/WSPIH;G:/aipengjie/sensitivefilescan;G:/Mosuan/FileScan;G:/Xyntax/FileSensor;G:/ring04h/weakfilescan;--
-- https://github.com/broken5/WebAliveScan    //Py。对目标域名进行快速的存活扫描、标题抓取、目录扫描。welljob。

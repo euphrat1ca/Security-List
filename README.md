@@ -251,20 +251,20 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ### 凭证扫描爆破
-- https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
-- https://github.com/maaaaz/thc-hydra-windows    //C。hydra的windows编译版本.
-- https://github.com/shack2/SNETCracker    //C#。密码爆破工具，支持SSH、RDP、MySQL等常见协议,超级弱口令爆破工具.
-- https://github.com/jmk-foofus/medusa    //C。快速并发模块化的端口爆破爆破工具。G:/awake1t/PortBrute;
-- https://github.com/lanjelot/patator    //Py3。集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
-- https://github.com/nmap/ncrack    //C。Nmap协议弱口令爆破组件.
-- https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解.G:/shengqi158/weak_password_detect;--
+- https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M（解压密码Stas'M Corp）。W:stascorp.com;P:nlbrute 1.2;P:DUBrute;P:御剑RDP爆破工具v2.0;G:/7kbstorm/7kbscan-RDP-Sniper;P:Paessler SNMP Tester;--
+- https://github.com/shack2/SNETCracker    //C#。超级弱口令检查工具，支持SSH、RDP、MySQL等常见协议。
+- https://github.com/3gstudent/SharpRDPCheck    //C#。RDP爆破验证，支持ntlm登录验证。G:/najachai/RDPUploader;--
 - https://github.com/ShawnDEvans/smbmap    //py。利用smb服务传递哈希、增删改查、命令执行、ip段共享枚举等。G:/m4ll0k/SMBrute;--
 - https://github.com/InfosecMatter/Minimalistic-offensive-security-tools    //ps。smb、ad域密码爆破。
-- https://github.com/3gstudent/SharpRDPCheck    //C#。RDP爆破验证，支持ntlm登录验证。G:/najachai/RDPUploader;--
-- https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M，stascorp.com解压密码Stas'M Corp.
+- https://github.com/nmap/ncrack    //C。Nmap协议弱口令爆破组件。
+- https://github.com/vanhauser-thc/thc-hydra    //C。支持多种协议方式的破解与爆破.G:/scu-igroup/ssh-scanner;G:/lijiejie/htpwdScan;G:/ztgrace/changeme;G:/netxfly/crack_ssh;G:/euphrat1ca/F-Scrack;--
+- https://github.com/maaaaz/thc-hydra-windows    //C。hydra Windows版本。
+- https://github.com/jmk-foofus/medusa    //C。模块化端口爆破工具。G:/awake1t/PortBrute;--
+- https://github.com/lanjelot/patator    //Py3。集成Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE验证爆破工具。
+- https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解。G:/shengqi158/weak_password_detect;--
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
 - https://github.com/Moham3dRiahi/XBruteForcer    //perl。WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破。
-- https://github.com/ryanohoro/csbruter/    //cobaltstrike服务密码爆破，3.10版本。
+- https://github.com/ryanohoro/csbruter/    //3.10版本cobaltstrike服务密码爆破，。
 - https://github.com/theLSA/awBruter    //木马一句话爆破
 ### 密码破解哈希还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
