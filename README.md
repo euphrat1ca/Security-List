@@ -264,32 +264,33 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解。G:/shengqi158/weak_password_detect;--
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
 - https://github.com/Moham3dRiahi/XBruteForcer    //perl。WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破。
-- https://github.com/ryanohoro/csbruter/    //3.10版本cobaltstrike服务密码爆破，。
+- https://github.com/ryanohoro/csbruter/    //3.10版本cobaltstrike服务密码爆破。
 - https://github.com/theLSA/awBruter    //木马一句话爆破
 ### 密码破解哈希还原
-- https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统下的LAN Manager散列（LM hash）的计算机程序。xp、vista
-- https://securityxploded.com/download.php/    //各种密码方向安全小工具
-- https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具
-- https://github.com/hashcat/hashcat    //C。哈希破解
+- https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
+- https://securityxploded.com/download.php/    //各种密码解密方向工具。
+- https://github.com/hashcat/hashcat    //C。哈希破解。
 - https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
-- https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端
-- https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash
-- https://github.com/clr2of8/DPAT    //Py。利用hashcat等工具域密码进行破解测试
-- https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具
+- https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端。
+- https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash。
+- https://github.com/clr2of8/DPAT    //Py。利用hashcat等工具域密码进行破解测试。
+- https://github.com/psypanda/hashID    //Py。使用'hash'，对超过220种hash识别。
+- https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //Py3。对超过160种hash识别。
 - https://github.com/s0md3v/Hash-Buster    //调用多个API进行hash破解查询。
-- https://github.com/magnumripper/JohnTheRipper    //C。开膛手john，已知密文的情况下尝试破解出明文的破解密码软件
+- https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具。
+- https://github.com/magnumripper/JohnTheRipper    //C。开膛手john利用已知密文破解明文密码。
 - https://github.com/shinnok/johnny    //C++。John The Ripper Windows 界面GUI。
-- https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。压缩包密码破解，利用“已知明文攻击”破解加密的压缩文件
+- https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。利用“已知明文攻击”破解加密压缩包。
 - https://github.com/thehappydinoa/iOSRestrictionBruteForce    //Py。实现的 ios 访问限制密码破解工具
 - https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具
 - https://www.ru.nl/publish/pages/909282/draft-paper.pdf    //Intro。破解SSD下使用BitLocker加密
-- https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具
+- https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具。
 - https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密
-- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
-- https://github.com/psypanda/hashID    //Py。对超过220种hash识别。使用'hash'
-- https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //Py3。对超过160种hash识别。
-- https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解
+- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文
+- https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解。
+- https://www.passfab.com/    //excel密码破解
+- https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具。
 ### 在线密码破解
 - https://www.cmd5.com/    //HASH密码在线破解。限制位数
 - https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
