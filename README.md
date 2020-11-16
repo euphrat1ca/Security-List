@@ -44,6 +44,7 @@
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
 - 公众号：终端安全运营年度笔记    //
 - https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
+- https://github.com/zbnio/zbn    //Py。安全编排与自动化响应平台。
 ### 安全风控建设
 - https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
@@ -174,7 +175,7 @@
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
-- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
+- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。W:k8gege.org/;P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具
 ## 安全测试辅助

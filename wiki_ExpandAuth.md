@@ -9,7 +9,6 @@
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入。
 - https://github.com/JoelGMSec/AutoRDPwn    //Ps4。远程桌面利用访问
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统
-- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括Windows内网信息搜集\权限提升\密钥窃取等。
 ### 本地密钥抓取
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,5k。

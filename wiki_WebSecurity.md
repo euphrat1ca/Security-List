@@ -50,7 +50,10 @@
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
 ### 资产扫描搜集
-- https://github.com/Adminisme/ServerScan    //Go。高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
+- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
+- https://github.com/k8gege/LadonGo    //Go。渗透扫描器框架。goodjob。
+- https://github.com/shadow1ng/fscan    //Go。内网扫描工具。goodjob。
+- https://github.com/Adminisme/ServerScan    //Go。内网横向信息收集的高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
 ### 资产指纹识别
 - https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
 - https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API。

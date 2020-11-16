@@ -129,7 +129,9 @@
 - https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
 - https://github.com/mufeedvh/basecrack    //Py3。全base编码检测。GOODJOB。
 ### CTF利用Pwn
-- https://github.com/Gallopsled/pwntools    //Py。pwn类型，二进制利用框架
+- http://www.gnu.org/software/gdb/download/    //GDB: The GNU Project Debugger。greatjob。G:/hellogcc/100-gdb-tips;G:/cyrus-and/gdb-dashboard;G:/cs01/gdbgui;--
+- https://github.com/pwndbg/pwndbg    //Py。GDB插件。
+- https://github.com/Gallopsled/pwntools    //Py。pwn-tools二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn利用，自动攻击脚本
 ## 二进制利用
