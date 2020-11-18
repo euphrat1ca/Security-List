@@ -9,7 +9,7 @@
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    //资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 - https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
-- http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计。
+- http://paper.tidesec.com/    //远控免杀 Wiki、红蓝对抗 Wiki、工控安全Wiki、IoT物联网安全wiki、移动安全Wiki、应急响应Wiki、代码审计Wiki
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 ## 安全知识库
 ### 安全大会资料
