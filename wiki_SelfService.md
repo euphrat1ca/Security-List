@@ -119,12 +119,11 @@
 - https://github.com/uknowsec/SharpOSS    //利用aliyun-oss-csharp-sdk实现内网文件传输。
 ### 云盘搭建
 - https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
-- https://github.com/kgretzky/pwndrop    //基于HTTP and WebDAV的文件共享。
-- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
-- https://github.com/ganlvtech/down_52pojie_cn    //PHP。52pojie网盘源码。
+- https://github.com/svenstaro/miniserve    //多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop    //基于。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
-- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。
-- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
+- https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
+- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 ### 文档编辑
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--

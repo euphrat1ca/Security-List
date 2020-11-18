@@ -57,14 +57,14 @@
 ### 资产指纹识别
 - https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
 - https://github.com/HA71/WhatCMS    //Bash。CMS检测和漏洞利用脚本，基于Whatcms.org API。
-- https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k,goodjob。G:/Rvn0xsy/FastWhatWebSearch;--
+- https://github.com/urbanadventurer/whatweb    //Ruby。web指纹识别。2k,goodjob。G:/Rvn0xsy/FastWhatWebSearch;G:/ggusoft/inforfinder;--
 - https://github.com/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
-- https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描
-- https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。G:/rbsec/sslscan;--
-- https://github.com/ggusoft/inforfinder    //域名资产收集及指纹识别工具
+- https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描。
+- https://github.com/salesforce/jarm    //Python。传输层安全性（TLS）服务器指纹识别工具。G:/rbsec/sslscan;--
+- https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
 ### 资产风险测试
-- https://github.com/guardicore/monkey    //Py。C2架构，利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行攻击检测，恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
+- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、攻击检测、恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
 - https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 ## 资产扫描检测
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
