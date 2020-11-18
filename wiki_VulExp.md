@@ -32,7 +32,7 @@
 - https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议漏洞库。拒绝服务。
 - https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit    //qnap Nas平台  Pre-Auth Root RCE
 ### 文本编辑器漏洞
-- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行‘source ~/.vimrc’让它生效。
+- https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行```source ~/.vimrc```让它生效。
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行。
 ### 浏览器漏洞工具
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
@@ -156,7 +156,7 @@
 - https://github.com/21superman/weblogic_exploit    //Java。CVE_2015-CVE_2020，界面GUI。
 - https://github.com/rabbitmask/WeblogicScan    //py3。Weblogic一键漏洞检测工具,包含CVE-2019前。
 - https://github.com/dr0op/WeblogicScan    //Py3。weblogic系列漏洞扫描。最新支持CVE-2019-2618（DeploymentService接口任意文件上传）;CVE-2019-2729（XML反序列化rce命令执行）检测
-- https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，‘wls9_async_response’与‘wls-wsat’组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
+- https://github.com/shack2/javaserializetools    //Java。Weblogic反序列化命令执行，```wls9_async_response```与```wls-wsat```组件无身份认证授权远程RCE漏洞。cve-2017-10271/CNVD-C-2019-48814/CNNVD-201904-961/CVE-2019-2725;
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 #### Struts2框架漏洞
@@ -185,7 +185,7 @@
 ### Web服务器Nginx漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
 ### 数据库漏洞
-- https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services利用‘ysoserial.net’远程代码执行。
+- https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services利用```ysoserial.net```远程代码执行。
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
 - https://github.com/r35tart/RedisWriteFile    //Py。通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。
 - https://github.com/Dliv3/redis-rogue-server    //Redis 4.x/Redis 5.x RCE利用脚本，附带可利用so文件。G:/Ridter/redis-rce;G:/RicterZ/RedisModules-ExecuteCommand;--
@@ -231,12 +231,12 @@
 - https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
 - https://github.com/cbwang505/CVE-2020-1066-EXP    //Windows CardSpace服务未正确处理符号链接对象导致的任意文件替换的本地权限提升漏洞，支持Windows 7和Windows Server 2008 R2操作系统。
-- https://github.com/math1as/CVE-2020-1337-exploit    //Powershell。打印机重启调用系统功能，利用‘mklink’绑定提权。G:/sailay1996/cve-2020-1337-poc;--
+- https://github.com/math1as/CVE-2020-1337-exploit    //Powershell。打印机重启调用系统功能，利用```mklink```绑定提权。G:/sailay1996/cve-2020-1337-poc;--
 - https://windows-internals.com/printdemon-cve-2020-1048/    //利用打印机服务进行本地欺骗提权。G:/ionescu007/PrintDemon;--
 - https://github.com/itm4n/PrintSpoofer    //C#。CVE-2020-1048，pipePotato基于LOCAL/NETWORK权限利用SeImpersonatePrivilege对win10/Server 2016/server 2019提权。G:/BeichenDream/BadPotato;--
 - https://github.com/apt69/COMahawk    //C#。CVE-2019-1405 & CVE-2019-1322组合COM本地服务提权漏洞。win7-win10&win2k8-Windows Server 2019。
 - https://gitee.com/cbwang505/CVE-2019-0803/    //Win7未正确处理GDI对象导致的UAF类型本地权限提升漏洞。
-- https://github.com/alpha1ab/CVE-2018-8120    //‘win32k.sys’组件的‘NtUserSetImeInfoEx()’系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
+- https://github.com/alpha1ab/CVE-2018-8120    //```win32k.sys```组件的```NtUserSetImeInfoEx()```系统服务函数内部未验证内核对象中的空指针对象,普通应用程序可利用该空指针漏洞以内核权限执行任意代码。在win7与win2k8的基础上增加了winXP与win2k3。G:/unamer/CVE-2018-8120;--
 - https://github.com/euphrat1ca/polarbearrepo    //C++。Win 10计划任务本地权限提升，win server 2016-2019提权，DACL权限覆写权限提升漏洞CVE-2019-0841。G:SandboxEscaper/polarbearrepo;G:3ndG4me/Win10-LPE;--
 - https://github.com/uknowsec/SweetPotato    //C#。RottenPotatoNG变种烂土豆，利用com对象、用户token进行提权进行Windows 7 to Windows 10 / Server 2019提权，可用于webshell下执行命令。G:/CCob/SweetPotato;--
 - https://github.com/breenmachine/RottenPotatoNG    //C++。CVE-2016-3225、烂土豆ms16-075，利用NBNS本地域名欺骗和WPAD代理欺骗提权。G:/decoder-it/lonelypotato;G:/foxglovesec/Potato;G:/ohpe/juicy-potato //testjob;G:/foxglovesec/RottenPotato;--
@@ -249,7 +249,7 @@
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
 ### Exchange漏洞利用手段
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
-- https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用‘PrivExchange’与‘ntlmrelayx’产生http->ldap中转实现的提权。
+- https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用```PrivExchange```与```ntlmrelayx```产生http->ldap中转实现的提权。
 - https://www.freebuf.com/articles/network/238365.html/    //Exchange后渗透利用上篇。P:/articles/network/239026.html //Exchange后渗透分析下篇;--
 #### Exchange接口利用
 - https://github.com/sensepost/ruler    //Go。基于通过MAPI / HTTP或RPC / HTTP协议远程与Exchange服务器进行交互，只要拥有合法的用户凭证，就可以利用Ruler执行一系列的信息侦察、定向攻击、密码枚举。

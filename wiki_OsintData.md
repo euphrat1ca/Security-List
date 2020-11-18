@@ -243,7 +243,7 @@
 - https://github.com/LangziFun/LangSrcCurise/    Py。SRC域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/bit4woo/Teemo;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k,goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
 - https://github.com/SpiderLabs/HostHunter    //Py3。通过接口、ssl证书进行hostname子域名查询。G:/We5ter/GSDF;--
-- https://github.com/vysec/DomLink    //Py3。调用‘whoxy.com’接口，对邮箱和域名进行进一步的搜集
+- https://github.com/vysec/DomLink    //Py3。调用```whoxy.com```接口，对邮箱和域名进行进一步的搜集
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
 - https://github.com/Xyntax/BingC    //Py。基于Bing搜索引擎的C段/旁站查询，多线程
 - https://github.com/nahamsec/lazyrecon    //Bash。侦查reconnaissance过程自动化脚本，可自动使用Sublist3r/certspotter获取子域名，调用nmap/dirsearch等。
@@ -285,7 +285,7 @@
 - https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
 - https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorks.txt    //GitHub搜索Dorks
 - https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
-- https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取‘.git’文件。2k。
+- https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取```.git```文件。2k。
 - https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，'.git'源代码泄漏利用工具。G:/HightechSec/git-scanner;--
 ### 敏感链接信息
 - https://github.com/lc/gau    //Go。敏感URL链接、子域挖掘。goodjob。

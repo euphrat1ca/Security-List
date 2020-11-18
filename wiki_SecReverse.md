@@ -42,7 +42,7 @@
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
 - https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex。
 ### PE分析操作
-- https://github.com/horsicq/Detect-It-Easy    //C。官网‘ntinfo.biz’，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl;--
+- https://github.com/horsicq/Detect-It-Easy    //C。官网```ntinfo.biz```，PE侦壳工具可以查看EXE/DLL文件编译器信息、是否加壳、入口点地址、输出表/输入表等信息。W:exeinfo.xn.pl;--
 - https://ntcore.com/?page_id=388    //PE32 & PE64编辑工具，支持.NET文件格式。
 ### 汇编反编译
 - https://github.com/blackberry/pe_tree    //Py,QT。PE逆向，树形结构图查看PE结构、复制内存中的PE文件并执行导入重构，可作为IDAPython插件加载。

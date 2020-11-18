@@ -54,8 +54,8 @@
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop-Protocol/    //使用hash登录RDP。借助mimikatz对mstsc，或使用xFreeRDP通过rdp服务、135端口服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等。
 - https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
-- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载‘system.hiv’文件，获取密码。
-- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出‘NTDS.DIT’文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、‘NTDS.dit’密码提取。
+- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载```system.hiv```文件，获取密码。
+- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出```NTDS.DIT```文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、```NTDS.dit```密码提取。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html    //导出域内hash。
 - https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;P:kerberosGui;--
 - https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
@@ -140,7 +140,7 @@
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
 ## 文件免杀
-- https://bbs.pediy.com/thread-260539.htm    //TechTeach。杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接‘mklink /d b <targetdir>’。
+- https://bbs.pediy.com/thread-260539.htm    //TechTeach。杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接```mklink /d b <targetdir>```。
 - https://github.com/TideSec/BypassAntiVirus    //TechTeach。公众号：70.远控免杀专题(70)-终结篇。goodjob。
 - https://www.freebuf.com/articles/system/249449.html    //TechTeach。Cobalt Strike Powershell过360+Defender上线
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
@@ -148,7 +148,7 @@
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
 ### 文件套壳加密
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网‘veracrypt.fr’,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
+- https://github.com/veracrypt/VeraCrypt    //C。2K。官网```veracrypt.fr```,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
 - https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 加壳。
 - https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）加壳压缩
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
@@ -176,7 +176,7 @@
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
 - https://github.com/4w4k3/Insanity-Framework    //Py。生成免杀payload，识别虚拟机，钓鱼，内存注入等。
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具。界面GUI。
-- https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于‘go build’生成免杀可执行文件。
+- https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于```go build```生成免杀可执行文件。
 ## Bypass监控设备
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
 - https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
@@ -215,8 +215,8 @@
 - https://mp.weixin.qq.com/s/-cmM1k3--H6p1ditfQHPEw    //公众号：常见的web容器后门笔记。iis后门/java框架后门/tomcat后门/apache后门/nginx后门/。G:/t57root/pwnginx;G:/0x09AL/IIS-Raid;G:/WBGlIl/IIS_backdoor;--
 - https://github.com/jfmaes/Backdoorplz    //C++。Windows用户名后门demo。
 ### 权限维持白利用
-- https://zhuanlan.zhihu.com/p/132644184    //Windows远程文件下载执行的15种姿势。PowerShell;Bitsadmin;certutil/InstallUtil;ipc$文件共享;mshta;rundll32;regsvr32/SCT文件;msiexec;‘pubprn.vbs’;IEExec;‘MSXSL.EXE’;FTP;TFTP;wget;WinScp;--
-- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload，利用用XMLDOM去加载远程的‘.xsl文件’。TESTJOB。
+- https://zhuanlan.zhihu.com/p/132644184    //Windows远程文件下载执行的15种姿势。PowerShell;Bitsadmin;certutil/InstallUtil;ipc$文件共享;mshta;rundll32;regsvr32/SCT文件;msiexec;```pubprn.vbs```;IEExec;```MSXSL.EXE```;FTP;TFTP;wget;WinScp;--
+- https://github.com/mdsecactivebreach/SharpShooter    //PY;VB;JS。基于DotNetToJScript生成检索和执行任意CSharp源码的payload，利用用XMLDOM去加载远程的```.xsl文件```。TESTJOB。
 - https://www.freebuf.com/articles/system/155147.html    //Windows下载远程Payload并执行代码的各种技巧。WebDAV/Cmd;Cscript/Wscript;Regasm/Regsvc;Odbcconf;G:Arno0x/PowerShellScripts;--
 - https://github.com/securemode/DefenderKeys    //枚举出被 Windows Defender 排除扫描的配置
 - https://github.com/lucasg/Dependencies    //C#。基于"depends.exe"发现Windows exe dll文件依赖查询。goodjob。
@@ -225,7 +225,7 @@
 - https://github.com/g3rzi/Manifesto    //C#。寻找系统中存在可执行权限的组件
 - https://github.com/ufrisk/MemProcFS    //C。以访问文件系统的方式访问物理内存，可读写，有易于使用的接口. 当前支持Windows
 - https://github.com/mdsecactivebreach/SharpPack    //C#。绕过系统应用白名单执行DotNet and PowerShell tools。
-- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //通过查看‘exe’的‘manifest’查看程序执行权限，具有asInvoker highestAvailable requireAdministrator。
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //通过查看```exe```的```manifest```查看程序执行权限，具有asInvoker highestAvailable requireAdministrator。
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
 - https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载'.Net'程序的工具。
 - https://github.com/Ben0xA/nps    //C#。实现不调用'powershell.exe'执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
@@ -247,7 +247,7 @@
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don’t kill my cat，将shellcode混淆存储图像中。
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don't kill my cat，将shellcode混淆存储图像中。
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
 - https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
 - https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。

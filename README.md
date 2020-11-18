@@ -75,14 +75,15 @@
 - https://github.com/BlackDiverX/cqtools    //Windows利用工具集
 - https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
-- https://github.com/k8gege/    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。W:k8gege.org/;P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
-- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章工具、脚本。
+- https://github.com/k8gege/K8tools    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。W:k8gege.org/;P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
+- https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章、工具、脚本。
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具
 ## 安全测试辅助
-- https://github.com/LasCC/Hack-Tools    //渗透测试辅助套
+- https://github.com/LasCC/Hack-Tools    //渗透辅助
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
-- https://github.com/opensec-cn/vtest    //Py。用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/uknowsec/SharpNetCheck    //C#。配合如wmiexec、psexec等横向工具进行批量检测内网是否出网。
+- https://github.com/opensec-cn/vtest    //Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
 - https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
@@ -90,7 +91,7 @@
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework    //exp搜寻、payload与shell生成、信息收集
 - https://github.com/feross/SpoofMAC    //Py。跨平台mac修改。P:TMAC v6;--
 - https://github.com/foryujian/ipintervalmerge    //IP合并区间。
-### 测试报告
+### 测试总结报告
 - https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
 - https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。
 - https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
@@ -115,7 +116,7 @@
 - https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
 - https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/azizaltuntas/Camelishing    //Py3。社会工程学攻击辅助工具。WEBGUI。
-- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和‘Archive.org’历史记录，以确定最为适合于钓鱼和C2的域名。
+- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和```Archive.org```历史记录，以确定最为适合于钓鱼和C2的域名。
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
 - https://github.com/Viralmaniar/I-See-You    //Bash。利用网站代理获取用户的真实地理信息。simple

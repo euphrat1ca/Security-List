@@ -58,7 +58,7 @@
 - EMP干扰器 usbkiller 特斯拉线圈高频共振变压器 高压发生器;纳米指纹膜;Keylogger PRO 微型键盘记录;Packet Squirrel(松鼠) 微型数据包窃听;SCREEN CRAB HDMI中间人劫持;--
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台,构建于开放原始码simple I/O介面版,并且具有使用类似于Java,C语言的Processing/Wiring开发环境。一般是开发版本要相对应IDE版本。
 - https://lr3800.com/2017/01/15/使用电蚊拍diy-usbkill/    //Intro。USBKiller电子杀手
-- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对‘.key’文件进行绕过
+- https://www.jianshu.com/p/a6927ffe0a20    //adb破解安卓锁屏密码,利用recovery对```.key```文件进行绕过
 - https://github.com/knownsec/gsm    //Go。使用树莓派配合硬件来进行短信转发
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络。
 - https://www.bilibili.com/video/av69504054/    //Cantenna管子天线放大器。

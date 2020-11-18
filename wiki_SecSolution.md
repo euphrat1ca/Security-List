@@ -129,7 +129,7 @@
 - https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
 - https://github.com/kabachook/k8s-security/    //bash,Py。Kubernetes安全集合。
-- https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具，符合‘cisecurity.org/benchmark/kubernetes/’基准测试。
+- https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具，符合```cisecurity.org/benchmark/kubernetes/```基准测试。
 ### 亚马逊AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架

@@ -49,7 +49,7 @@
 ## 敏捷办公
 - https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
 - https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
-- https://cmder.net    //Windows命令行加强版。通过‘/REGISTER ALL’‘user_aliases’配置文件配置快捷键。
+- https://cmder.net    //Windows命令行加强版。通过```/REGISTER ALL``````user_aliases```配置文件配置快捷键。
 - https://github.com/tmux/tmux    //Linux命令行终端多路复用器。
 - https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。

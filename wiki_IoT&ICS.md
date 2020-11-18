@@ -22,7 +22,7 @@
 - https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //‘绿盟：智能设备安全分析手册.pdf’。
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //```绿盟：智能设备安全分析手册.pdf```。
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
@@ -79,8 +79,8 @@
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码。
 - https://tools.kali.org/information-gathering/snmp-check    //通过snmp协议采集设备oid信息，网管设备信息。P:snmpwalk;--
 ## ICS工业安全
-- https://dale-peterson.com/    //Digital Bond工业安全公司，s4xevents.com旗下S4 Events工业安全培训教程。
-- https://www.freebuf.com/ics-articles    //freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
+- https://dale-peterson.com/    //Digital Bond工业安全公司，```s4xevents.com```旗下S4 Events工业安全培训教程。
+- https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
 - http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--

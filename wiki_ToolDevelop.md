@@ -99,7 +99,7 @@
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
 ## Cobaltstrike拓展插件相关工具
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
-- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的‘xor64.bin’
+- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的```xor64.bin```
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
 - https://github.com/Ridter/CS_Chinese_support/    //cs3.0传输信息的汉化插件
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
