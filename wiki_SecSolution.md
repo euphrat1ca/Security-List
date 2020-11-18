@@ -94,21 +94,18 @@
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-- https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）
-- https://blog.csdn.net/qq_39541626/article/details/104891590    //TecTeach。小程序、公众号安全测试list
+- https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
+- https://blog.csdn.net/qq_39541626/article/details/104891590    //TecTeach。小程序、公众号安全测试list。
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
-- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist
-- https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist
-- https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普
+- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
+- https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist。
 ### 安全测试速查表
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
 - https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
-- http://tool.oschina.net/commons/    //常用对照表，HTTP Content-type、TCP/UDP常见端口参考、字体、颜色等。
 - https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
-### 安全知识库
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
-- https://www.octority.com/pepenote/    //10w行渗透测试技巧
+- https://www.octority.com/pepenote/    //10w行渗透测试命令
 ## IPv6安全
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集

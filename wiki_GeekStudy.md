@@ -2,29 +2,31 @@
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
 - http://www.owasp.org.cn/owasp-project/owasp-things    //OWASP项目
+- https://github.com/irsdl/top10webseclist/    //十大网络黑客技术列表。
 - https://github.com/SecWiki/sec-chart    //安全思维导图集合。G：Mayter/sec-charts;--
 - https://github.com/Ascotbe/Osmographic-brain-mapping    //安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/tom0li/collection-document    //安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    //资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
 - https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
-- http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计
-## 安全基础科普培训
+- http://paper.tidesec.com/    //免杀bypass、红蓝ctf、ics、iot、移动、应急响应、代码审计、工具设计。
+- https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
+## 安全知识库
+### 安全大会资料
+- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
+- http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
+- https://github.com/knownsec/KCon    //KCon大会文章PPT。P:/blackhat黑帽大会;--
+## 安全基础培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
 - https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
 - https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
 - https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验。
 - https://space.bilibili.com/37422870    //安全入门视频
-- https://space.bilibili.com/406898187/channel/detail?cid=85655    //安全帮内网高级加固课程
 - https://github.com/tiancode/learn-hacking    //入门网络安全。G:/Bypass007/Learn-security-from-0;--
-- https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 - https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
 - https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
-### 安全大会资料
-- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
-- http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
-- https://github.com/knownsec/KCon    //KCon大会文章PPT。P:/blackhat黑帽大会;--
+- https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普培训。
 ### 使用手册指南
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
 - https://github.com/aleenzz/Cobalt_Strike_wiki    //Cobalt Strike系列 教程使用
@@ -52,13 +54,13 @@
 - https://github.com/ihack4falafel/OSCE    //
 - https://github.com/dhn/OSCE    //
 - https://github.com/73696e65/windows-exploits    //
-## 攻防资源学习
+## 攻防学习资源
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io //MITRE | ATT&CK-CN 中文站;G:/lengjibo/ATT-CK-CN //attck实操实验记录;W:vulhub.org.cn/attack //清华林妙倩 att ck汉化;G:/NomadCN112/Chinese-translation-ATT-CK-framework;--
-- https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程
+- https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程。
 - https://github.com/meitar/awesome-cybersecurity-blueteam    // A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - https://bitvijays.github.io    //infosec知识总结。goodjob。
-- https://github.com/Mel0day/RedTeam-BCS    //BCS（北京网络安全大会）2019 红队行动会议重点内容，详细步骤。goodjob。
+- https://github.com/Mel0day/RedTeam-BCS    //BCS（北京网络安全大会）2019 红队行动会议重点内容、详细步骤。goodjob。
 - https://github.com/Snowming04/The-Hacker-Playbook-3-Translation    //[译] 渗透测试实战第三版(红队版)The Hacker Playbook 3
 - https://github.com/OWASP/OWASP-Testing-Guide-v5    //OWASP 发布的渗透测试指南文档
 - https://github.com/jeansgit/RedTeam    //RedTeam资料收集整理。红蓝对抗资料分享，红蓝对抗相关图片，内网安全渗透总结
@@ -67,21 +69,22 @@
 - https://github.com/jshaw87/Cheatsheets    //渗透测试/安全秘籍/笔记
 - http://www.pentest-standard.org/index.php/Pre-engagement    //渗透测试标准-渗透项目实施前的互动。项目实施前
 - https://github.com/r35tart/Penetration_Testing_Case    //攻防测试案例
-### 学习社工综合利用
+### 学习社工利用
 - https://www.freebuf.com/articles/102500.html    //黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
-- https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan
+- https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan。
 - https://github.com/shegongbook/shegonganli    //社工案例
-### 学习Web漏洞攻防
+### 学习Web安全攻防
+- https://kennel209.gitbooks.io/owasp-testing-guide-v4    //OWASP 安全测试指南 v4.0/Owasp Testing Guide v4
 - https://portswigger.net/web-security    //burpsuite官方web安全材料与实验室。testjob。
-- https://github.com/irsdl/top10webseclist/    //十大网络黑客技术列表
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
 - https://websec.readthedocs.io/zh/latest/    //Web安全学习笔记
 - https://techvomit.net/web-application-penetration-testing-notes/    //web渗透测试笔记
 - https://github.com/qazbnm456/awesome-web-security    //Web安全资料和资源列表
 - https://www.lynda.com/JavaScript-tutorials/What-server-side-JavaScript-injection-SSJI/797717/5025838-4.html    //SSJI服务的JavaScript注入
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //Imperva WAF墙公司关于，SSJI服务的JavaScript注入
-### 学习内网安全后渗透
+### 学习内网后渗透
+- https://space.bilibili.com/406898187/channel/detail?cid=85655    //哔哩哔哩 安全帮 内网高级加固课程
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:/Ridter/Intranet_Penetration_Tips;-
 - https://github.com/uknowsec/Active-Directory-Pentest-Notes    //个人域渗透学习笔记，配合域环境搭建。goodjob。
