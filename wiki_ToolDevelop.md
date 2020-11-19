@@ -107,13 +107,13 @@
 - https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取beacon.bin文件的shellcode
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集
 ### cobalt strike插件集合
+- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型介绍，![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
 - https://github.com/dcsync/pycobalt    //Py3。Python API for Cobalt Strike
 - https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    //RedCore红队学院CSTips
 - https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
 - https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
-- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型介绍，![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件
 ### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
