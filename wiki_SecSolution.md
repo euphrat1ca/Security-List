@@ -103,8 +103,8 @@
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
 - https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
 - https://tool.oschina.net/commons/    //常用对照表。http文件类型、转码、转义、端口、状态码、字体。
-- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;G:/EvilAnne/Violation_Pnetest;--
-- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透测试/CTF/XXE/常用脚本命令payloadsw。8K,goodjob。
+- https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;
+- https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
 ## IPv6安全
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器

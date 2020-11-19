@@ -67,8 +67,9 @@
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming    //优秀红队资源列表
 - https://github.com/Kinimiwar/Penetration-Testing    //渗透测试方向优秀资源收集
 - https://github.com/jshaw87/Cheatsheets    //渗透测试/安全秘籍/笔记
-- http://www.pentest-standard.org/index.php/Pre-engagement    //渗透测试标准-渗透项目实施前的互动。项目实施前
+- http://www.pentest-standard.org/index.php/Pre-engagement    //渗透测试标准-渗透项目实施前的互动。
 - https://github.com/r35tart/Penetration_Testing_Case    //攻防测试案例
+- https://github.com/EvilAnne/Violation_Pnetest    //渗透红线Checklist，渗透常见工具与环境配置安全意识注意项。
 ### 学习社工利用
 - https://www.freebuf.com/articles/102500.html    //黑客讲述渗透Hacking Team全过程（详细解说）
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
