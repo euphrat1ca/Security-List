@@ -6,6 +6,13 @@
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
+### 环境模拟仿真
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
+- https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统
+- https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;--
+- https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
+- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
+- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试
 ## 物联网利用分析
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。goodjob。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
@@ -22,13 +29,18 @@
 - https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
 - https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
 - https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //```绿盟：智能设备安全分析手册.pdf```。
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //```绿盟：智能设备安全分析手册.pdf```
 - http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
 - https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
 - https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
 - https://github.com/nodemcu/nodemcu-flasher    //Pascal。固件烧写firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。界面GUI。
 - https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片
+### 工控设备固件
+- https://www.se.com/ww/en/download/    //施耐德
+- https://compatibility.rockwellautomation.com/Pages/MultiProductDownload.aspx?keyword=Firmware    //罗克韦尔
+- https://www.vipa.com/service-support/downloads/firmware/control-systems/    //安川yaskawa 德国惠朋（VIPA GmbH）
+- https://support.automationdirect.com/firmware/binaries.html    //AutomationDirect
 ### 串口调试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--

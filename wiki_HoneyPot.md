@@ -42,7 +42,7 @@
 - https://github.com/hacklcs/HFish    //Go。redis\MYSQL\SSH etc 低交护蜜罐。goodjob。
 - https://github.com/codeplutos/MySQL-JDBC-Deserialization-Payload    //MySQL JDBC Deserialization Payload / MySQL客户端jdbc反序列化漏洞
 ### 供应链蜜罐
-- http://www.imooc.com/article/26398    //NodeJS 应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
+- http://www.imooc.com/article/26398    //NodeJS应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### PC服务蜜罐
 - https://github.com/micheloosterhof/cowrie    //Py3。使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议蜜罐。
 - https://github.com/desaster/kippo    //Py。蜜罐系统HoneyDrive下的图形化SSH蜜罐。1k。
@@ -51,15 +51,8 @@
 - https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/    //Intro。基于PYRDP,打造可记录图像和按键的RDP蜜罐
 - https://github.com/leeberg/BlueHive    //PS。利用Active Directory生成用户账户蜜罐
 ### 摄像头蜜罐
-- https://github.com/alexbredo/honeypot-camera    //Py。摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮
+- https://github.com/alexbredo/honeypot-camera    //Py。摄像头蜜罐。tornado模拟WEB服务，图片代替视频，可以考虑后期多加点图片和按钮。
 - https://github.com/EasyDarwin/EasyIPCamera    //C。RTSP服务器组件用以构建摄像头蜜罐
-### 工控蜜罐
-- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践
-- https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统
-- https://github.com/djformby/GRFICS    //IoT工业仿真系统模拟框架，采用MODBUS协议对PLC虚拟机监视和控制
-- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试
-- https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm
-- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
 ## 虚拟化
 - http://www.linux-kvm.org    //Linux内核虚拟化工具，支持unix/win等多种系统。
 - https://www.qemu.org    //纯软件实现的虚拟化环境仿真，硬件设备的环境模拟仿真。qemu-kvm为虚拟机管理工具
