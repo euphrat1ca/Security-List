@@ -33,7 +33,7 @@
 # 端口转发流量代理
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SocketProxy.md    //端口映射，代理穿透，流量代理转发。mywiki。
 # 欺骗防御
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md.md/    //欺骗防御、蜜罐、主动反制。myWiki。
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md/    //欺骗防御、蜜罐、主动反制。myWiki。
 # 逆向安全分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecReverse.md/    //逆向分析、反编译、破解。myWiki。
 # 漏洞收集
