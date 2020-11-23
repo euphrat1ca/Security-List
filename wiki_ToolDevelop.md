@@ -26,6 +26,7 @@
 - https://github.com/portswigger/http-request-smuggler    //http请求走私
 - https://github.com/yandex/burp-molly-pack    //XXE、SSRF漏洞利用探测。
 ## Nmap/Masscan拓展插件相关工具
+- https://raw.githubusercontent.com/nmap/nmap/master/nmap-service-probes    //Nmap指纹库，资产识别指针、配置文件。greatjob。
 - https://xz.aliyun.com/t/6002    //如何修改nmap， 重新编译，绕过IDS流量检测。G:/al0ne/Nmap_Bypass_IDS;--
 - https://github.com/Ullaakut/nmap    //Go。Nmap调用库go
 - https://github.com/savon-noir/python-libnmap    //Py。nmap调用库python
@@ -48,7 +49,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest    //集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
-- https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui
+- https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui。
 ## Kali环境拓展插件相关工具
 - https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
 - https://github.com/secforce/sparta    //Py。界面化，联动Nmap、Nikto、Hydra等工具

@@ -15,7 +15,6 @@
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 # 空间测绘
 - https://github.com/nmap/nmap    //Lua。Nmap扫描器具有有强大的脚本引擎框架。greatjob。
-- https://raw.githubusercontent.com/nmap/nmap/master/nmap-service-probes    //资产识别指针、配置文件。greatjob。
 - https://github.com/cea-sec/ivre    //Py。网络资产指纹发现，bro/argus/nfdump/p0f/nmap/zmap/masscan/数据库mongoDB。G:/nanshihui/Scan-T;G:/LangziFun/LangNetworkTopology3;--
 - https://github.com/zmap/zmap    //C。无状态扫描，可使用C编写扩展模块。censys三件套。
 - https://github.com/zmap/zgrab2    //Go。配合zmap/ztag的指纹抓取工具。censys三件套。G:/chichou/grab.js;--
