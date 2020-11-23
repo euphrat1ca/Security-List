@@ -83,9 +83,9 @@
 - https://github.com/shelld3v/JSshell/    //Py。js远控。
 ### Windows远程协助
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
-- https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。基于大灰狼gh0st的远程控制器。
+- https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
-- https://github.com/quasar/QuasarRAT/    C#。界面化远程管理工具。G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
+- https://github.com/quasar/QuasarRAT/    C#。界面GUI。远程管理工具。G:/NYAN-x-CAT/AsyncRAT-C-Sharp;G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
 - https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
 - https://github.com/cobbr/Covenant    //C#。dotnet核心C2控制器，配合powershell进行权限控制。
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。
