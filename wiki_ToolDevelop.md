@@ -127,7 +127,7 @@
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 ### cobaltstrike攻击拓展
-- https://gitee.com/mirrors_trending/CrossC2    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。G:/gloxec/CrossC2;--
+- https://github.com/gloxec/CrossC2/tree/master/src    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。G:/mirrors_trending/CrossC;--
 - https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
 - https://github.com/pandasec888/taowu-cobalt-strike    //国产梼杌。testjob。

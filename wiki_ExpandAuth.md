@@ -74,6 +74,7 @@
 - https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。welljob,5k。
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
+- https://github.com/its-a-feature/Mythic    //Py。Linux下跨平台远控。goodjob。
 ### JavaScript远程协助
 - https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，Web界面GUI。
 - https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
@@ -166,7 +167,7 @@
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 - https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，Nullsoft 脚本安装重制作安装包
 ### Windows混淆免杀
-- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件进行混淆，加密操作以及重新编码。G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
+- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件混淆，加密操作以及重新编码。G:/tokyoneon/chimera;G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
 - https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
 - https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
@@ -205,6 +206,22 @@
 - https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
+### shellcode利用
+- https://www.ascotbe.com/2020/04/18/ShellCode/    //恶意程序研究之定义ShellCode。TechTeach。
+- https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
+- https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
+- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
+- https://www.shellterproject.com/    //动态Shellcode注入工具。商业版。
+- https://github.com/wetw0rk/Sickle    //Py。shellcode调试、测试、加载、打包器。testjob。
+- https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
+- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
+- https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don't kill my cat，将shellcode混淆存储图像中。
+- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
+- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
 ## 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //公众号：ATT&CK 之后门持久化
 - https://www.secpulse.com/archives/100484.html    //Linux、Windows权限维持常用后门学习总结。P:/archives/103301.html/;--
@@ -235,22 +252,6 @@
 - https://github.com/secretsquirrel/SigThief    //Py。用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具
 - https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 - https://github.com/netbiosX/Digital-Signature-Hijack    //通过劫持注册表，利用SIP DLL文件对执行文件进行数字签名。G:/mattifestation/PoCSubjectInterfacePackage //'MySIP.dll';--
-### shellcode利用
-- https://www.ascotbe.com/2020/04/18/ShellCode/    //恶意程序研究之定义ShellCode。TechTeach。
-- https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
-- https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
-- https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
-- https://www.shellterproject.com/    //动态Shellcode注入工具。商业版。
-- https://github.com/wetw0rk/Sickle    //Py。shellcode调试、测试、加载、打包器。testjob。
-- https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
-- https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
-- https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
-- https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don't kill my cat，将shellcode混淆存储图像中。
-- https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
-- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
-- https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
 ### 权限维持劫持注入
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan,techteach。
@@ -265,8 +266,9 @@
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中。
 - https://github.com/mdsecactivebreach/RDPInception/    //Bat,CS插件。基于tsclient服务进行rdp劫持，利用ps反弹shell。G:/bohops/SharpRDPHijack;--
 - https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4。
-- https://github.com/uknowsec/ReflectiveDLLInjection-Notes    //反射DLL技术ReflectiveDLL
-- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具
+- https://github.com/uknowsec/ReflectiveDLLInjection-Notes    //反射DLL技术ReflectiveDLL。
+- https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具。
+- https://github.com/djhohnstein/CSharpSetThreadContext    //C#。可通过浏览器快捷方式中路径、当前路径进行恶意程序加载。goodjob。
 ### 权限维持隐匿rootkit
 - https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
 - https://github.com/eLoopWoo/zwhawk    //Windows下具备远程命令控制界面的内核rootkit。

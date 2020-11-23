@@ -52,7 +52,7 @@
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit（基于Linux的固件打包、解包）、MITMproxy、Firmwalker（扫描固件敏感文件）组件。G:/rampageX/firmware-mod-kit;--
 - https://github.com/ChrisTheCoolHut/Firmware_Slap    //Linux下通过混合分析和功能类聚相结合来发现目标固件中的安全漏洞
-- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。
+- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。goodjob。
 ## 无人机安全
 - https://github.com/mavlink/qgroundcontrol    //无人机地面站软件。Mission Planner ARDUPILOT;--
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。

@@ -53,6 +53,7 @@
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行架构.主机、扫描器、端口、日志、防护设备等安全建设。goodjob。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
+- https://github.com/lenve/javadoc    //Java 企业级项目需求文档
 ## 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单

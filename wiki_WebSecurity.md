@@ -31,17 +31,14 @@
 ## 资产信息搜集
 - https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/ody5sey/Voyager;G:/CTF-MissFeng/bayonet;--
-- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集
+- https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集。
 - https://github.com/m8r0wn/nullinux    //Py。Linux的内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    //Linux系统审计工具，可以导出系统配置，生成报表
 - https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
 - https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试。
+- https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证。
-- https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
-- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能。
-- https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
-- https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
 - https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
 - https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
 - https://github.com/broken5/WebAliveScan    //Py。对目标域名进行快速的存活扫描、标题抓取、目录扫描。welljob。
@@ -49,6 +46,10 @@
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
+- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能。
+- https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
+- https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
+- https://github.com/projectdiscovery/mapcidr    //Go。子网CIDR扫扫描器
 ### 资产扫描搜集
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 - https://github.com/k8gege/LadonGo    //Go。渗透扫描器框架。goodjob。
@@ -108,10 +109,6 @@
 - https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la 精易助手;G:/jakubroztocil/httpie;--
 - https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob,1k.
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
-## Web应用模糊测试
-- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。G:/projectdiscovery/nuclei;G:/ffuf/ffuf;--
-- https://github.com/1N3/BlackWidow    //Py。利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试。
-- https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 ## 前端利用
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。

@@ -209,7 +209,8 @@
 - http://flyonzone.ys168.com/    //飞扬时空
 - https://www.parsevideo.com/    //视频解析
 - https://github.com/soimort/you-get    //Py。视频下载
-- https://github.com//aria2/aria2    //C++。下载器
+- https://github.com//aria2/aria2    //C++。下载器。
+- https://www.pconlife.com/    //Windows组件下载
 ### 框架源码
 - http://down.chinaz.com    //除了源码还有各种工具
 - http://www.mycodes.net    //源码之家，大部分免费
