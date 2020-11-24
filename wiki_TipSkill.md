@@ -10,6 +10,10 @@
 - https://www.fmz.com/    //发明者量化交易平台
 - http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
 ## 编程相关
+### 语言栈
+- https://github.com/rust-lang/rust    //静态语言。
+- https://nim-lang.org/    //静态语言。G:/nim-lang/Nim;---
+- https://github.com/byt3bl33d3r/OffensiveNim    //Shellcode利用，可直接编译为C/C++/Objective-C和Javascript。
 ### 编程调试
 - https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
 ### 程序功能模块库
