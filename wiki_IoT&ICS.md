@@ -60,8 +60,6 @@
 - https://github.com/schutzwerk/CANalyzat0r    //Py。专有汽车协议的安全分析工具包
 - https://github.com/jgamblin/CarHackingTools    //Bash。汽车黑客工具箱，汽车信息调查。
 - https://www.zlg.cn/can/can/product/id/22.html    //周立功USBCAN系列zcanpro/zcantest诊断器。
-### 车联网仿真
-- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
 ## 智能设备安全
 - https://github.com/yaseng/iot-security-wiki/    //物联网安全百科。伏宸安全实验
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
@@ -114,7 +112,6 @@
 ### ICS资产识别
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
-- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
 - https://github.com/digitalbond/Redpoint    //perl。ICS识别nse脚本。G:/jpalanco/nmap-scada;--
 - https://github.com/hi-KK/ICS-Protocol-identify    //工控协议pcap流量。G:/automayt/ICS-pcap;G:/jsiwek/capsan;G:/gymgit/s7-pcaps;--
 - https://github.com/XHermitOne/icscanner    //py。界面化ics扫描器。
@@ -140,19 +137,28 @@
 - https://github.com/0x0mar/smod/    //py2。Modbus渗透测试框架。
 - https://www.freebuf.com/articles/ics-articles/235047.html    //Modbus PLC攻击分析：Smod渗透框架研究
 - https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
-## 工控模拟仿真
-- https://www.modbustools.com/index.html    //modbus模拟软件。
-- https://github.com/thiagoralves/OpenPLC_v3    //C++。自定义Modbus多用途PLC软。
-- https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件。
-- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的监控和数据采集（SCADA）系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
-- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
-- https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
-- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC的网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
+## 万物互联仿真模拟
 - https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
+- https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。P:霍尼韦尔MatrikonOPC;W:openopc.sourceforge.net;--
+### 车联网仿真
+- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
+### 物联网仿真
+- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
+### Scada模拟仿真
+- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
+- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc监控和数据采集（SCADA）系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
+- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
+### Modbus模拟仿真
+- https://www.modbustools.com/index.html    //modbus模拟软件。
+- https://github.com/thiagoralves/OpenPLC_v3    //C++。自定义Modbus多用途PLC软环境。
+- https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件。
 - https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;P:```ase18-paper_formby.pdf```;--
+### 西门子模拟仿真
+- https://www.cr173.com/soft/43758.html    //step7 plcsim西门子设备模拟
+- https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
+- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
 ### 场景模拟蜜罐
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //工控蜜罐。myWiki。
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
 - https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统。
 - https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm。
-- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。

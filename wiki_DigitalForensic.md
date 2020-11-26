@@ -63,7 +63,6 @@
 - https://github.com/USArmyResearchLab/Dshell    //可扩展的网络取证分析框架，支持快速开发插件与解析网络数据包捕获
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
 - https://github.com/davidmcgrew/joy    //用来捕获和分析内外网流量数据的包，主要用于进行网络调查、安全监控和取证
-- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，解析http 2与TLS加密。产品包括网络取证与监控caploader 流量捕获、polarproxy tls加密流量代理等
 ### 数据隐秘传输
 - https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据传输
 - https://github.com/Arno0x/DNSExfiltrator    //通过DoH利用dns加密请求进行数据泄露传输。

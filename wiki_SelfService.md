@@ -30,7 +30,7 @@
 - https://thyrsi.com/    //图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    //Go。图床API汇总。
 ### 下载操作
-- https://wn.run    //万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
+- https://wn.run    //万能命令。自动加载网站脚本，视频解析/文档下载/翻译/快照等。
 - http://www.bingdian001.com/    //百度文库冰点下载。
 - https://xdown.org/    //bit下载器，类IDM架构。
 - https://github.com/peterq/pan-light    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:/b3log/baidu-netdisk-downloaderx;--
