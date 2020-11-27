@@ -154,9 +154,9 @@
 - https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件。
 - https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;P:```ase18-paper_formby.pdf```;--
 ### 西门子模拟仿真
+- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
 - https://www.cr173.com/soft/43758.html    //step7 plcsim西门子设备模拟
 - https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
-- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
 ### 场景模拟蜜罐
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //工控蜜罐。myWiki。
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
