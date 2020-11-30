@@ -1,8 +1,9 @@
 # 漏洞收集
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
 - https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
-- https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
+- https://www.cvebase.com/poc    //漏洞poc统计站。
 - https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;--
+- https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
 - https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--

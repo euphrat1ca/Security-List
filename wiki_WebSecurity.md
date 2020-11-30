@@ -114,7 +114,7 @@
 - https://github.com/chenjj/CORScanner    //Py。CORS域配置错误，跨域解析漏洞扫描器。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
 - https://github.com/MichaelStott/CRLF-Injection-Scanner    //Py3。CRLF injection列表。
-- https://github.com/rudSarkar/crlf-injector    //CRLF注入漏洞批量扫描
+- https://github.com/dwisiswant0/crlfuzz    //CRLF注入漏洞扫描G:/rudSarkar/crlf-injector;--
 - https://github.com/m3liot/shcheck    //用于检查web服务的http header的安全性
 - https://github.com/m101/hsploit    //Rust。HEVD 漏洞利用程序
 - https://github.com/coffeehb/SSTIF    //SSTI (服务器模板注入) 漏洞的半自动化工具
@@ -156,20 +156,19 @@
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
 ### XSS检测辅助
-- https://github.com/s0md3v/XSStrike    //Py3。可识别并绕过WAF的XSS扫描工具
-- https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem
-- https://github.com/raz-varren/xsshell    //Go。利用xss返回js交互shell
-- https://github.com/UltimateHackers/JShell    //利用xss返回js交互shell
-- https://github.com/shawarkhanethicalhacker/BruteXSS    //一款XSS扫描器，可暴力注入参数
-- https://github.com/1N3/XSSTracer    //小型XSS扫描器，也可检测CRLF、XSS、点击劫持的
+- https://github.com/s0md3v/XSStrike    //Py3。可识别并绕过WAF的XSS扫描器。
+- https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem。
+- https://github.com/raz-varren/xsshell    //Go。利用xss返回js交互shell。G:/UltimateHackers/JShell;--
+- https://github.com/shawarkhanethicalhacker/BruteXSS    //XSS暴力注入参数扫描器
+- https://github.com/1N3/XSSTracer    //CRLF、XSS、点击劫持扫描器
 - https://github.com/0x584A/fuzzXssPHP    //PHP版本的反射型xss扫描
+- https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 - https://github.com/chuhades/xss_scan    //批量扫描XSS的python脚本
 - https://github.com/BlackHole1/autoFindXssAndCsrf    //自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
 - https://github.com/shogunlab/shuriken    //使用命令行进行XSS批量检测
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
 - https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下无法使用的话，请下载正确的PhantomJS到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描
-- https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
 ### XSS漏洞利用平台框架
 - https://xss.fbisb.com/    //在线XSS平台,靶场xss练习。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.

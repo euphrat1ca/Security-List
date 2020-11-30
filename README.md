@@ -69,7 +69,7 @@
 ## Linux利用工具集合
 - https://github.com/Z4nzu/hackingtool    //Linux安全工具集合，类pentestbox架构。
 - https://github.com/Manisso/fsociety    //Linux下渗透工具包一键安装。G:/taielab/Taie-RedTeam-OS;--
-- https://github.com/LionSec/katoolin    //Linux服务器自动安装kali工具包
+- https://github.com/LionSec/katoolin    //Linux一键kali工具包。G:/thirdbyte/ssj;--
 - https://github.com/TrustedSec/ptf/    //Py。基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
 - https://github.com/undefinedsec/VpsEnvInstall/    //测试环境一键配置脚本
 ## Windows利用工具集合
