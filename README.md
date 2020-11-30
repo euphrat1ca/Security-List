@@ -121,7 +121,9 @@
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
 - https://github.com/Viralmaniar/I-See-You    //Bash。利用网站代理获取用户的真实地理信息。simple
-- https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP
+- https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP。
+### 社工库查询
+- https://github.com/kallydev/privacy    //数据结构化查询。
 ### 网站克隆
 - http://www.httrack.com    //网站克隆镜像
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
