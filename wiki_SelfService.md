@@ -153,7 +153,6 @@
 - https://www.itsk.com/thread-401292-1-1.html    //it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
-- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
 - DWS(Destroy-Windows-10-Spying)    //消除Windows隐私监控。W:wpd.app;G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen

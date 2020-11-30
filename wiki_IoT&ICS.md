@@ -139,20 +139,29 @@
 - https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
 ## 万物互联仿真模拟
 - https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
-- https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。P:霍尼韦尔MatrikonOPC;W:openopc.sourceforge.net;--
+### 软硬固烧录
+- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 ### 车联网仿真
 - https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
 ### 物联网仿真
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
-### Scada模拟仿真
+### Scada系统组态
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
-- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc监控和数据采集（SCADA）系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
+- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc SCADA系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
 - https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
+### 工控编程器
+- https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
+### OPC模拟仿真
+- https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。
+- https://www.matrikonopc.cn/sitemap.aspx    //霍尼韦尔MatrikonOPC Simulation。W:openopc.sourceforge.net;--
 ### Modbus模拟仿真
-- https://www.modbustools.com/index.html    //modbus模拟软件。
-- https://github.com/thiagoralves/OpenPLC_v3    //C++。自定义Modbus多用途PLC软环境。
-- https://www.openplcproject.com/plcopen-editor    //OpenPLC Editor是plc编程软件。
 - https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;P:```ase18-paper_formby.pdf```;--
+- https://www.modbustools.com/index.html    //ModbusPoll ModbusSlave。商业版。
+- https://github.com/ClassicDIY/ModbusTool    //C#。具有导入导出功能的Modbus TCP和RTU主从工具。
+- https://www.openplcproject.com/runtime/    //C++。自定义Modbus多用途PLC软环境。G:/thiagoralves/OpenPLC_v3;--
+- https://github.com/emdem/ModbusSim     //ModbusScan+ModbusSim调试工具。
+- https://github.com/riptideio/pymodbus    //用python编写的完整Modbus协议。G:/ronpetit/Mtrigen-modbus;--
+- https://github.com/bigcat/ModbusDroid    //Modbus安卓客户端。
 ### 西门子模拟仿真
 - https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
 - https://www.cr173.com/soft/43758.html    //step7 plcsim西门子设备模拟
