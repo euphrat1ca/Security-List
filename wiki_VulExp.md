@@ -163,28 +163,29 @@
 #### Struts2框架漏洞
 - https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
+- https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 #### SpringBoot框架漏洞
 - https://github.com/LandGrey/SpringBootVulExploit/    //SpringBoot漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist。
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x。
 #### Tomcat框架漏洞
-- https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN
+- https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN。
 - https://github.com/magicming200/tomcat-weak-password-scanner    //py。tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行。
 - https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞。
-- https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵
+- https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵。
 #### Shiro安全框架漏洞
-- https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本；。G:/wyzxxz/shiro_rce;--
 - https://paper.seebug.org/shiro-rememberme-1-2-4/    //Intro。Apache Shiro Java安全框架 RememberMe 1.2.4 反序列化导致的命令执行漏洞。
-- https://github.com/feihong-cs/ShiroExploit/    //java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
+- https://github.com/brianwrf/hackUtils    //Py。Apache Shiro RememberMe  1.2.4 Remote Code Execution；Jenkins CVE-2016-0792；S2-032；Joomla 1.5 - 3.4.5版本。G:/wyzxxz/shiro_rce;--
+- https://github.com/feihong-cs/ShiroExploit/    //Java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
+- https://github.com/j1anFen/shiro_attack    //Shiro反序列化漏洞综合利用。界面GUI。
 - https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动检测shiro指纹。
-- https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
-### Web服务器Apache漏洞
-- https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究
-- https://github.com/mpgn/CVE-2019-0192/    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
-- https://github.com/jas502n/CVE-2019-12409/    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
+### Web服务器Apache Solr漏洞
+- https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究。
+- https://github.com/mpgn/CVE-2019-0192    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
+- https://github.com/jas502n/CVE-2019-12409    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
 ### Web服务器Nginx漏洞
-- https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据
+- https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据。
 ### 数据库漏洞
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services利用```ysoserial.net```远程代码执行。
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
