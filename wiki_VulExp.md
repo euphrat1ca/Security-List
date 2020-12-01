@@ -129,7 +129,7 @@
 ### 公共网关接口CGI漏洞
 - 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
 - https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi；
-- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271
+- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271。
 ### C#/.Net服务漏洞
 - https://github.com/pwntester/ysoserial.net    //C#。配合PowerShell生成有效负载利用.Net反序列化漏洞
 ### Python服务漏洞
@@ -169,7 +169,7 @@
 - https://github.com/r00tuser111/ActuatorExploitTools/    //攻击spring boot actuator的集成环境，三种方式，仅支持攻击spring boot 1.x。
 #### Tomcat框架漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN。
-- https://github.com/magicming200/tomcat-weak-password-scanner    //py。tomcat后台弱口令扫描器，命令行版+图形界面版。
+- https://github.com/magicming200/tomcat-weak-password-scanner    //Py。tomcat后台弱口令扫描器，命令行版+图形界面版。
 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行。
 - https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞。
 - https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵。
