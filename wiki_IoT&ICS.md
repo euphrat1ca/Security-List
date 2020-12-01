@@ -147,7 +147,7 @@
 ### 物联网仿真
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
 ### Scada系统组态
-- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 数据捕获、态势感知、被动嗅探。
+- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 态势感知、被动嗅探、数据捕获、逻辑视图、物理视图、协议签名。
 - https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc SCADA系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
 - https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
 ### 工控编程器

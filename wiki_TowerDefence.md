@@ -153,7 +153,7 @@
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer Linux网络分析器。pcap捕获和重放工具，trafgen数据包生成压测。
 ### 流量协议解析
-- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，解析http 2与TLS加密。产品包括网络取证与监控caploader 流量捕获、polarproxy tls加密流量代理等。
+- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，可解析http 2与TLS加密。P:网络取证与监控caploader 流量捕获;P:polarproxy tls加密流量代理;--
 - http://www.colasoft.com.cn/download.php    //科来科来网络分析系统/ping工具/mac地址扫描工具/数据包重放工具/数据包生成工具
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。goodjob。
