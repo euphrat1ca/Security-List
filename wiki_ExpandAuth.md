@@ -193,10 +193,11 @@
 - https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
 - https://github.com/knownsec/shellcodeloader    //C++。Windows平台的shellcode免杀加载器。G:/wetw0rk/Sickle;--
 #### Shellcode免杀生成
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
 - https://github.com/r00t-3xp10it/venom/    //Bash,PS。Linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间劫持DLL程序，生成shellcode。NoUpdate。
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
+- https://github.com/k-fire/shellcode-To-DLL    //C++。shellcode异或加密生成dll，类拿破轮胎DLL注入架构。界面GUI,welljob。G:/qH0sT/Ransomware-Builder-v3.0;G:/aaaddress1/RunPE-In-Memory;--
 - https://github.com/byt3bl33d3r/OffensiveNim    //OffensiveNim之偏僻语言shellcode加载器。该语言可直接编译为C/C++/Objective-C和Javascript。goodjob。
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don't kill my cat，将shellcode混淆存储图像中。
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
@@ -288,10 +289,9 @@ goodjob。
 - https://github.com/djhohnstein/CSharpSetThreadContext    //C#。可通过浏览器快捷方式中路径、当前路径进行恶意程序加载。goodjob。
 #### 权限维持DLL劫持
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
-- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
+- https://github.com/CCob/SharpBlock/    //C#。DLL注入绕过EDR。
 - https://github.com/itm4n/UsoDllLoader    //C++。Windows10 version 1903 USO服务每次创建Update Session时都会尝试加载不存在的DLL（windowscoredeviceinfo.dll）特权文件写入。
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
-- https://github.com/k-fire/shellcode-To-DLL    //C++。shellcode 异或加密并生成dll，类拿破轮胎DLL注入架构。界面GUI,welljob。G:/qH0sT/Ransomware-Builder-v3.0;G:/aaaddress1/RunPE-In-Memory;--
 - https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:/rootm0s/WinPwnage;G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
 ### 权限维持Windows隐匿
 - https://github.com/islamTaha12/Python-Rootkit    //Py。Windows下rootkit远控，反弹meterpreter。
