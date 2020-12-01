@@ -64,9 +64,10 @@
 ## AWVS拓展插件相关工具
 - awvs下载    //fahai.org;--
 - https://www.52pojie.cn/thread-214819-1-1.html    //awvs10.5开发框架破解版。商业版。
+- https://github.com/l3m0n/awvs_190703137    //Py。Linux版awvs
+- https://github.com/x364e3ab6/AWVS-13-SCAN-PLUS    //基于Acunetix Web Vulnerability Scanner 13 （AWVS13）扫描引擎的辅助软件。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:/fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包
-- https://github.com/l3m0n/awvs_190703137    //Py。Linux版awvs
 - https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
 ## Sqlmap拓展插件相关工具
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
