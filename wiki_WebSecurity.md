@@ -45,10 +45,10 @@
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
-- https://github.com/scallywag/nbtscan    //C。NetBIOS协议主机设备发现。NetBScanner、nmap、msf都有此功能。
+- https://github.com/lifenjoiner/nbtscan    //C。NetBIOS协议主机设备发现v1.5.2版本，可显示地址，计算机名称，工作组或域，地址，和公司生产的网络适配器（根据确定的地址）。W:nirsoft.net/utils/netbios_scanner.html;G:/scallywag/nbtscan;--
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
-- https://github.com/projectdiscovery/mapcidr    //Go。子网CIDR扫扫描器
+- https://github.com/projectdiscovery/mapcidr    //Go。子网CIDR扫扫描器。
 ### 资产扫描搜集
 - https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
 - https://github.com/k8gege/LadonGo    //Go。渗透扫描器框架。goodjob。

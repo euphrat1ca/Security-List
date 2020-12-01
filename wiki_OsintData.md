@@ -78,7 +78,7 @@
 - http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
-### 地理定位ip库分布
+### 地理定位库分布
 - https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
@@ -90,8 +90,9 @@
 - cellidfinder.com    //Cell ID Finder
 - cellphonetrackers.org    //手机追踪器
 - https://www.suncalc.org    //根据日光影子判断时间与地理位置
-- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址BSSID、gps。W:cellocation.com;--
-- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位
+- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
+- https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
+- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
 ## 多维度情报源
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示

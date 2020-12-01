@@ -120,8 +120,11 @@
 - https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件
 ### cobaltstrike痕迹清理
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
+### cobaltstrike信息搜集
+- https://github.com/outflanknl/Ps-Tools    //cobaltstrike插件。高级进程监控组件。goodjob。
 ### cobaltstrike加密通讯
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
+- https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名前置上线。公众号:DNS上线CS(反溯源);--
 - https://github.com/search?l=Batchfile&o=desc&q=signtool+sign+pfx&s=indexed&type=Code    //使用第三方证书签名
 - https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
 - https://www.cobaltstrike.com/help-malleable-c2    //Malleable C2 Profiles，配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
@@ -132,9 +135,7 @@
 ### cobaltstrike攻击拓展
 - https://github.com/gloxec/CrossC2/tree/master/src    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。G:/mirrors_trending/CrossC;--
 - https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
-- https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理
-- https://github.com/pandasec888/taowu-cobalt-strike    //国产梼杌。testjob。
-- https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名前置上线。公众号:DNS上线CS(反溯源);--
+- https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理。G:/pandasec888/taowu-cobalt-strike //梼杌;--
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec    //C++。利用Windows远程访问工具（WMIEXEC,PSEXEC,SMBEXEC, ATEXEC）其一的任务计划进行横向，需要与135端口、445端口进行通信。
 - https://github.com/m0ngo0se/Peinject_dll    //使用shellexecute函数感染正常文件PE。testjob。
 ### cobaltstrike漏洞利用

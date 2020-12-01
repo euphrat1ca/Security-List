@@ -30,7 +30,7 @@
 - https://github.com/decalage2/oletools    //Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档
 - https://github.com/google/bochspwn-reloaded    //Bochspwn Reloaded（内核信息泄漏检测）工具
 - https://github.com/comaeio/LiveCloudKd    //C。针对Hyper-V的内存取证
-- https://www.nirsoft.net/utils/usb_log_view.html    //USBLogView一款USB设备监控软件，后台运行，可以记录插入或拔出系统的任何USB的详情信息
+- https://www.nirsoft.net/utils/usb_log_view.html    //USB设备监控软件，支持后台运行，USBLogView可以记录插入或拔出系统的任何USB的详情信息
 - https://github.com/CrowdStrike/automactc    //Py3。macOS环境自动化取证分类采集器
 ### Windows取证
 - https://www.microsoft.com/zh-cn/p/app/9n26s50ln705/    //Windows File Recovery微软文件恢复，windows 10 restore lost files恢复格式化或者损坏的硬盘。
