@@ -12,9 +12,6 @@
 - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括Windows内网信息搜集\权限提升\密钥窃取等。
 ## Bypass监控设备
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
-- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
-- https://github.com/itm4n/UsoDllLoader    //C++。Windows10 version 1903 USO服务每次创建Update Session时都会尝试加载不存在的DLL（windowscoredeviceinfo.dll）特权文件写入
-- https://github.com/bats3c/DefensiveInjector    //C。shellcode加密绕过EDR监控。
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
 - https://github.com/hfiref0x/UACME    //C。天融信基于Failure-Free Method(FFM)的包含许多用于多个版本操作系统上绕过Windows用户帐户控制的方法。
@@ -183,23 +180,28 @@
 - https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
-### 加载shellcode
-- https://www.ascotbe.com/2020/04/18/ShellCode/    //恶意程序研究之定义ShellCode。TechTeach。
-- https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
-- https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
+### Shellcode定义
+- https://www.ascotbe.com/2020/04/18/ShellCode/    //TechTeach。恶意程序研究之定义ShellCode。
+- https://paper.seebug.org/1413/    //techteach。如何实现一款 shellcodeLoader。
+#### Shellcode远程加载
+- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
 - https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
-- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
+- https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
+- https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
+#### Shellcode注入加载
 - https://www.shellterproject.com/    //动态Shellcode注入工具。商业版。
-- https://github.com/wetw0rk/Sickle    //Py。shellcode调试、测试、加载、打包器。testjob。
-- https://github.com/r00t-3xp10it/venom/    //Bash,PS。linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
+- https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
+- https://github.com/knownsec/shellcodeloader    //C++。Windows平台的shellcode免杀加载器。G:/wetw0rk/Sickle;--
+#### Shellcode免杀生成
+- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/r00t-3xp10it/venom/    //Bash,PS。Linux下metasploit Shellcode generator/compiller，Unix/Win/Web/Apk/IOS/MSoffice多种类型利用程序生成。
 - https://github.com/Rvn0xsy/Cooolis-ms    //Py。Cooolis-ms支持Metasploit Framework RPC的服务端，用于Shellcode和PE加载器工作，绕过反病毒软件的静态查杀，可让Cooolis-ms服务端与Metasploit服务器进行分离。
 - https://github.com/TaroballzChen/Shecodject/    //Py3。将msf生成raw载荷封装注入，支持pem证书生成。
-- https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间，后门程序shellcode生成，dll程序劫持。NoUpdate
+- https://github.com/byt3bl33d3r/OffensiveNim    //OffensiveNim之偏僻语言shellcode加载器。该语言可直接编译为C/C++/Objective-C和Javascript。goodjob。
 - https://github.com/Mr-Un1k0d3r/DKMC/    //Py。Don't kill my cat，将shellcode混淆存储图像中。
 - https://github.com/DimopoulosElias/SimpleShellcodeInjector    //C。以十六进制的方式执行shellcode绕过杀软。
-- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/bats3c/DefensiveInjector    //C。shellcode加密绕过EDR监控。
 - https://github.com/EddieIvan01/gld    //GO。将Shellcode通过AES-GCM加密，运行时加载解密。
-- https://github.com/byt3bl33d3r/OffensiveNim    //OffensiveNim之偏僻语言shellcode加载器。该语言可直接编译为C/C++/Objective-C和Javascript。goodjob。
 ## 文件免杀
 - https://bbs.pediy.com/thread-260539.htm    //TechTeach。杀软清除病毒对文件名过滤的不严格实现任意目录写任文件，符号链接```mklink /d b <targetdir>```。
 - https://github.com/TideSec/BypassAntiVirus    //TechTeach。公众号：70.远控免杀专题(70)-终结篇。goodjob。
@@ -270,36 +272,41 @@ goodjob。
 - https://github.com/secretsquirrel/SigThi    //Py3。伪造程序签名。
 - https://github.com/netbiosX/Digital-Signature-Hijack    //通过劫持注册表，利用SIP DLL文件对执行文件进行数字签名。G:/mattifestation/PoCSubjectInterfacePackage //'MySIP.dll';--
 ### 权限维持劫持注入
-- https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan,techteach。
 - https://xz.aliyun.com/t/2092    //Password Filter DLL在渗透测试中的应用。G:/3gstudent/PasswordFilter;--
 - https://malicious.link/post/2013/2013-09-11-stealing-passwords-every-time-they-change/    //利用Password Filter DLL，需要重启。
 - https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载Dll
 - https://www.4hou.com/posts/wRPR    //深入分析 DLL 调用过程实现“自适应” DLL 劫持。techteach。
-- https://github.com/k-fire/shellcode-To-DLL    //C++。shellcode 异或加密并生成dll，类似拿破轮胎DLL注入。界面GUI,welljob。G:/qH0sT/Ransomware-Builder-v3.0;G:/aaaddress1/RunPE-In-Memory;--
-- https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:/rootm0s/WinPwnage;G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
-- https://github.com/fatihsnsy/DLInjector-GUI    //C++。基于进程名注入，可等待进程启动后再注入。界面GUI。
 - https://gitee.com/killvxk/infected_dll    //恶意DLL文件样例。TechTeach。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。一种库注入技术，让DLL自身不使用LoadLibraryA函数，将自身映射到目标进程内存中。
-- https://github.com/mdsecactivebreach/RDPInception/    //Bat,CS插件。基于tsclient服务进行rdp劫持，利用ps反弹shell。G:/bohops/SharpRDPHijack;--
-- https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4。
 - https://github.com/uknowsec/ReflectiveDLLInjection-Notes    //反射DLL技术ReflectiveDLL。
+#### 权限维持程序注入
+- https://github.com/lmacken/pyrasite    //Py3。对运行中dpython进程注入，支持≥py2.4。
+- https://github.com/mdsecactivebreach/RDPInception/    //Bat,CS插件。基于tsclient服务进行rdp劫持，利用ps反弹shell。G:/bohops/SharpRDPHijack;--
 - https://github.com/D4Vinci/PasteJacker    //剪贴板劫持利用工具。
+- https://github.com/fatihsnsy/DLInjector-GUI    //C++。基于进程名注入，可等待进程启动后再注入。界面GUI。
 - https://github.com/djhohnstein/CSharpSetThreadContext    //C#。可通过浏览器快捷方式中路径、当前路径进行恶意程序加载。goodjob。
-### 权限维持隐匿rootkit
-- https://github.com/islamTaha12/Python-Rootkit    //Py。windows下rootkit远控，反弹meterpreter。
-- https://github.com/eLoopWoo/zwhawk    //Windows下具备远程命令控制界面的内核rootkit。
+#### 权限维持DLL劫持
 - https://github.com/M00nRise/ProcessHider    //C++。Windows下dll注入隐藏进程id。
+- https://github.com/CCob/SharpBlock/    //C#。Dll注入绕过EDR。
+- https://github.com/itm4n/UsoDllLoader    //C++。Windows10 version 1903 USO服务每次创建Update Session时都会尝试加载不存在的DLL（windowscoredeviceinfo.dll）特权文件写入。
+- https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入，检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
+- https://github.com/k-fire/shellcode-To-DLL    //C++。shellcode 异或加密并生成dll，类拿破轮胎DLL注入架构。界面GUI,welljob。G:/qH0sT/Ransomware-Builder-v3.0;G:/aaaddress1/RunPE-In-Memory;--
+- https://github.com/sensepost/rattler    //C++。自动化dll劫持注入。G:/rootm0s/WinPwnage;G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
+### 权限维持Windows隐匿
+- https://github.com/islamTaha12/Python-Rootkit    //Py。Windows下rootkit远控，反弹meterpreter。
+- https://github.com/eLoopWoo/zwhawk    //Windows下具备远程命令控制界面的内核rootkit。
 - https://github.com/malcomvetter/UnstoppableService    //C#。将自身安装为Windows服务，且管理员无法停止/暂停svchost服务的程序。
+- https://www.sans.org/blog/defense-spotlight-finding-hidden-windows-services/    //红队策略：隐藏Windows服务。
 - https://github.com/jxy-s/herpaderping    //C++。通过修改镜像后映射的磁盘内容来掩盖进程执行。goodjob。
-- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit，隐藏植入。1k,Testjob。
-- https://github.com/mhaskar/Linux-Root-Kit    //Py。linux简单rootkit。simple。
-- https://github.com/PinkP4nther/Sutekh    //C。rootkit使普通用户获取root shell
+### 权限维持Linux隐匿
+- https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit隐藏植入。1k,Testjob。
+- https://github.com/mhaskar/Linux-Root-Kit    //Py。Linux隐匿rootkit。simple。
 - https://github.com/gianlucaborello/libprocesshider    //C。利用'LD_PRELOAD'实现系统函数劫持，在linux下进程隐藏。goodjob。
 - https://github.com/naworkcaj/bdvl/    //C.基于LDPRELOAD方式隐藏进程、命令、后门、反调试取证。testjob。G:/mempodippy/vlany/wiki //作者原知识库;--
 - https://www.cnblogs.com/mysgk/p/9602977.html    //Intro。利用libprocesshider在 linux 下隐藏进程的一种方法。
+- https://github.com/PinkP4nther/Sutekh    //C。rootkit隐匿普通用户权限获取root shell。
 - https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成。
-- https://www.sans.org/blog/defense-spotlight-finding-hidden-windows-services/    //红队策略：隐藏Windows服务。
 ## 痕迹清理隐藏
 - https://github.com/QAX-A-Team/ptrace/    //C。 Linux低权限模糊化执行的程序名和参数，避开基于execve系统调用监控的命令日志
 - https://github.com/JusticeRage/freedomfighting    //日志清理、文件共享、反向shell
