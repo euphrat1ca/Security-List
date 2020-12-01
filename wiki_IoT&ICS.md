@@ -101,15 +101,16 @@
 ### 工业场景演练
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全 ATT&CK矩阵类。
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结
+- https://www.freebuf.com/articles/ics-articles/210687.html    //CTF工业信息安全大赛实践与分析。
 - http://plcscan.org/blog/2014/08/ics-security-attack-demo-rail-transit/    //工控安全攻防演练场景实现分享（轨道交通）。W:乌云工控漏洞;--
 - https://www.freebuf.com/articles/network/178251.html    //工控安全现场实施经验谈之工控系统如何加强主机防护。
 - https://www.freebuf.com/vuls/230453.html/    //当PLC偶遇老旧但不乏经典的高级组包工具Hping。DOS攻击。
-- https://www.anquanke.com/post/id/206579    //S7CommPlus协议研究，系列文章。techteach。
-- https://www.freebuf.com/articles/ics-articles/212283.html    //西门子S7通信过程及重放攻击分析，利用snap7与isf对s7300进行重放测试。P:/ics-articles/228770.html;--
-- https://www.freebuf.com/articles/ics-articles/220239.html    //西门子S7comm-plus通信过程及重放攻击分析.P:/ics-articles/230676.html;--
-- https://www.freebuf.com/articles/ics-articles/231701.html    //西门子S7系列中间人攻击：流量劫持和转发（一）
-- https://www.freebuf.com/articles/ics-articles/233160.html    //西门子S7系列中间人攻击：PLC探测和流量分析（二）
-- https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340
+- https://www.anquanke.com/post/id/206579    //techteach。S7CommPlus协议研究。p:S7CommPlus协议研究之动态调试 1 2;--
+- https://www.freebuf.com/articles/ics-articles/220239.html    //西门子S7comm-plus通信过程及重放攻击分析。P:/articles/ics-articles/212283.html //西门子S7通信过程及重放攻击分析;
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。P:工控资产嗅探与分析实践;P:防追踪溯源识别联网工控设备的方法;--
+- https://www.freebuf.com/articles/ics-articles/213018.html    //一款可自定义多用途PLC设备的可用性分析。openplc使用。
+- https://www.freebuf.com/articles/ics-articles/230676.html    //西门子S7系列PLC安全防护研究。P:门子S7系列中间人攻击：流量劫持和转发（一）、PLC探测和流量分析（二）、防御和流量异常检测（三）;P:工控安全 | 西门子S7-300攻击分析;--
+- https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340。P:Suricata工控规则研究;P:Modbus安全：M340停启和流量分析;P:Modbus PLC攻击分析：Python和Mbtget读写PLC;P:Modbus PLC攻击分析：Smod渗透框架研究;P:OPC安全研究分析;
 ### ICS资产识别
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
