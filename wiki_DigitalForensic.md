@@ -25,13 +25,14 @@
 ### 音频取证
 - https://embeddedsw.net/OpenPuff_Steganography_Home.html    //图片音视频隐写，加密工具。
 - https://www.audacityteam.org/    //音频文件和波形图处理工具，adobe AU。
-## 计算机设备取证
-- https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复
-- https://github.com/decalage2/oletools    //Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档
+## 资产设备取证
+- https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复。
+- https://github.com/decalage2/oletools    //Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档。
 - https://github.com/google/bochspwn-reloaded    //Bochspwn Reloaded（内核信息泄漏检测）工具
-- https://github.com/comaeio/LiveCloudKd    //C。针对Hyper-V的内存取证
+- https://github.com/comaeio/LiveCloudKd    //C。针对Hyper-V的内存取证。
 - https://www.nirsoft.net/utils/usb_log_view.html    //USB设备监控软件，支持后台运行，USBLogView可以记录插入或拔出系统的任何USB的详情信息
-- https://github.com/CrowdStrike/automactc    //Py3。macOS环境自动化取证分类采集器
+- https://github.com/CrowdStrike/automactc    //Py3。macOS环境自动化取证分类采集器。
+- https://www.freebuf.com/articles/ics-articles/253382.html    //ICS领域数字取证技术。工控取证。
 ### Windows取证
 - https://www.microsoft.com/zh-cn/p/app/9n26s50ln705/    //Windows File Recovery微软文件恢复，windows 10 restore lost files恢复格式化或者损坏的硬盘。
 - http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。

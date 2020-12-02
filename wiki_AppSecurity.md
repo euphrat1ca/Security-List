@@ -49,7 +49,7 @@
 - https://github.com/LinusHenze/Keysteal    //C++。窃取MacOS下KeyChain。CVE-2019-8526
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    //CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
 - https://github.com/sickcodes/Docker-OSX    //OSX-KVM in Docker! X11 Forwarding!，基于qemu和kvm封装的苹果镜像docker。
-## 应用代码审计
+## 应用安全审计
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
@@ -66,25 +66,27 @@
 ### 二进制代码审计
 - https://github.com/xfhg/intercept/    //Go。基于yaml与ripgrep的代码静态分析审计。
 - https://www.kanxue.com/book-38-438.htm/    //第三课：Delphi代码审计--项目实战1
-### JS代码审计应用安全
+### JS代码审计
 - https://github.com/RetireJS/grunt-retire    //js.js扩展库漏洞扫描
 - https://github.com/Aurore54F/JaSt    //使用语法检测恶意/混淆的JS文件，https://www.blackhoodie.re/assets/archive/JaSt_blackhoodie.pdf
 - https://github.com/ctxis/beemka    //针对Electron App的漏洞利用工具包
 - https://github.com/doyensec/electronegativity    //Electron应用代码审计，App的错误配置和安全问题
 - https://github.com/callforpapers-source/jshole/    //Js。js漏洞扫描。
-### PHP代码审计应用安全
+### PHP代码审计
 - http://zeroyu.xyz/2019/03/11/NAVEX-Precise-and-Scalable-Exploit-Generation-for-Dynamic-Web-Applications/    //基于图数据库Web应用程序的漏洞利用生成框架。G:/aalhuz/navex;--
 - https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本。noupdate。
 - https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计.noupdate.
 - https://github.com/ripsscanner/rips    //php。php代码审计工具.noupdate.
 - https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:/Qihoo360/phptrace;--
 - https://github.com/elcodigok/wphardening    //py。WordPress插件代码审计
-### Python代码审计应用安全
-- https://github.com/ga0/pyprotect    //C++。给python代码加密，防止逆向。
-- https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞
+### Python代码审计
+- https://github.com/ga0/pyprotect    //C++。python代码加密防逆向。
+- https://github.com/pyupio/safety    //Py。检查所有已安装 Python包，查找已知的安全漏洞。
 - https://github.com/facebook/pyre-check/    //Py3。facebook推出的Zoncolan基本版python代码静态审计工具。号称30分钟扫描一亿行代码库，bug漏洞都能找。
 - https://github.com/shengqi158/pyvulhunter    //Py。基于pysonar2的Python应用审计。NOUPDATE。G:/yinwang0/pysonar2;--
-- https://github.com/PyCQA/bandit    //Py。python代码安全漏洞审计
-- https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具
+- https://github.com/PyCQA/bandit    //Py。Python代码安全漏洞审计。
+- https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具。
 ### Golang代码审计
-- https://github.com/securego/gosec    //go。Go语言源码安全分析工具
+- https://github.com/securego/gosec    //go。Go语言源码安全分析工具。
+## 固件代码审计
+- https://github.com/seemoo-lab/polypyus    //Py3。固件源码分析工具。

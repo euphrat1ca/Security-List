@@ -40,7 +40,7 @@
 - https://sdkman.io/    //Java jdk版本控制。
 ### Python开发
 - https://www.anaconda.com/    //python版本控制。
-- https://github.com/jackfrued/Python-100-Days 100天精通python
+- https://github.com/jackfrued/Python-100-Days    //100天精通python。
 - https://github.com/TheAlgorithms/Python    //Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
 ### Windows开发
 - https://github.com/dotnet/roslyn    //C#。微软开源的C# 编译器。
@@ -48,7 +48,8 @@
 ### 自动化测试
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
-- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具
+- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
+- https://github.com/microsoft/playwright-python    //Python 自动化依赖库，操作浏览器模拟脚本会自动生成。
 ### 无头浏览器
 - https://github.com/SeleniumHQ/selenium    //Web headless浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。

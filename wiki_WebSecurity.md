@@ -104,22 +104,22 @@
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
-### 资产代理调试
+### 抓包代理调试
 - https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la 精易助手;G:/jakubroztocil/httpie;--
-- https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob,1k.
+- https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob。
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer，可以注入进程进行SSL解密。
 ## 前端利用
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
-- https://github.com/chenjj/CORScanner    //Py。CORS域配置错误，跨域解析漏洞扫描器。
-- https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORScanner
+- https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORS域配置错误，CORScanner跨域解析漏洞扫描器。G:/chenjj/CORScanner;--
 - https://github.com/MichaelStott/CRLF-Injection-Scanner    //Py3。CRLF injection列表。
-- https://github.com/dwisiswant0/crlfuzz    //CRLF注入漏洞扫描G:/rudSarkar/crlf-injector;--
-- https://github.com/m3liot/shcheck    //用于检查web服务的http header的安全性
-- https://github.com/m101/hsploit    //Rust。HEVD 漏洞利用程序
-- https://github.com/coffeehb/SSTIF    //SSTI (服务器模板注入) 漏洞的半自动化工具
-- https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具
+- https://github.com/dwisiswant0/crlfuzz    //CRLF注入漏洞扫描。G:/rudSarkar/crlf-injector;--
+- https://github.com/m3liot/shcheck    //用于检查web服务的http header的安全性。
+- https://github.com/m101/hsploit    //Rust。HEVD 漏洞利用程序。
+- https://github.com/coffeehb/SSTIF    //SSTI (服务器模板注入) 漏洞的半自动化工具。
+- https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具。
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
+- https://github.com/deneme056/CJExploiter    //支持拖放功能的点击劫持漏洞利用工具。
 ### SSL/TLS安全
 - https://github.com/drwetter/testssl.sh    //Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
@@ -144,32 +144,28 @@
 - https://github.com/swisskyrepo/SSRFmap    //Py。检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //Py。利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
 - https://www.anquanke.com/post/id/145519/    //intro。浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
-## XSS跨站脚本检测利用
-- https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
-- https://xsspt.com/index.php?do=blist    //乌云xss学习
-- https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列
-- http://www.xss-payloads.com    //xss工具包、资料、payload导航站
+## XSS跨站脚本利用
+- https://xsspt.com/index.php?do=blist    //乌云xss学习。
+- https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列。
+- http://www.xss-payloads.com    //xss工具包、资料、payload导航站。
 - https://www.slideshare.net/GarethHeyes/xss-magic-tricks    //burpsuite团队总结xss知识点。
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet    //跨站脚本（XSS）备忘录，收集了大量的XSS攻击向量，包含了各种事件处理、通讯协议、特殊属性、限制字符、编码方式、沙箱逃逸等技巧。
 - https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition    //XSS Payload，使用场景。goodjob。G:/ismailtasdelen/xss-payload-list;--
-- https://somdev.me/21-things-xss/    //XSS的21个扩展用途
-- https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload
-- https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦
+- https://somdev.me/21-things-xss/    //XSS的21个扩展用途。
+- https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload。
+- https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦。
 ### XSS检测辅助
-- https://github.com/s0md3v/XSStrike    //Py3。可识别并绕过WAF的XSS扫描器。
-- https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem。
-- https://github.com/raz-varren/xsshell    //Go。利用xss返回js交互shell。G:/UltimateHackers/JShell;--
-- https://github.com/shawarkhanethicalhacker/BruteXSS    //XSS暴力注入参数扫描器
-- https://github.com/1N3/XSSTracer    //CRLF、XSS、点击劫持扫描器
-- https://github.com/0x584A/fuzzXssPHP    //PHP版本的反射型xss扫描
-- https://github.com/Damian89/xssfinder    //针对检测网站中的反射XSS
-- https://github.com/chuhades/xss_scan    //批量扫描XSS的python脚本
-- https://github.com/BlackHole1/autoFindXssAndCsrf    //自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件
-- https://github.com/shogunlab/shuriken    //使用命令行进行XSS批量检测
+- https://github.com/s0md3v/XSStrike    //Py3。识别、绕过WAF的XSS扫描器。
+- https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem。G:/0x584A/fuzzXssPHP;G:/Damian89/xssfinder;G:/chuhades/xss_scan;G:/shogunlab/shuriken;--
+- https://github.com/raz-varren/xsshell    //Go。利用xss返回JS交互shell。G:/UltimateHackers/JShell;--
+- https://github.com/shawarkhanethicalhacker/BruteXSS    //XSS暴力注入参数扫描器。
+- https://github.com/1N3/XSSTracer    //CRLF、XSS、点击劫持扫描器。
+- https://github.com/BlackHole1/autoFindXssAndCsrf    //自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件。
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
-- https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下无法使用的话，请下载正确的PhantomJS到目录"thirdparty/phantomjs/Linux"。
-- https://github.com/riusksk/FlashScanner    //flash xss扫描
+- https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下载PhantomJS驱动到目录"thirdparty/phantomjs/Linux"。
+- https://github.com/riusksk/FlashScanner    //flash xss扫描。
 ### XSS漏洞利用平台框架
+- https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
 - https://xss.fbisb.com/    //在线XSS平台,靶场xss练习。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
 - https://github.com/euphrat1ca/XssPowerByTools    //PHP。XSS平台课程设计。simple。

@@ -13,14 +13,14 @@
 - LLVM工具链，基于编译器插桩的coverage-feedback driven fuzzer
 - https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //公众号：Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全
 - https://github.com/HexHive/FuzzGen/    //C++。根据库的接口I/O自动生成fuzzer
-## 模糊测试学习资源
+## 模糊测试资源
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总
 - https://github.com/secfigo/Awesome-Fuzzing    //Fuzzing模糊测试相关学习资料
 - https://github.com/fuzzdb-project/fuzzdb    //fuzz资料数据库
 - https://github.com/raminfp/linux_exploit_development    //linux漏洞利用开发手册
 - https://github.com/mozillasecurity/fuzzdata    //模糊测试输入样本资源。
 - https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。"*egghunter"。
-## 模糊测试框架工具
+## 模糊测试利用
 - https://google.github.io/clusterfuzz/    //谷歌集群模糊测试平台
 - https://github.com/google/AFL    //American Fuzzy Lop符合测试和其无数衍生工具。
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //Intro。AFL使用指南。
@@ -46,6 +46,7 @@
 - https://www.peach.tech/    //C#。Peach3模板流（通过提前定义好的xml等文件模板对目标单位进行测试）模糊测试，网络协议、API、文件格式模糊测试。
 - https://github.com/MozillaSecurity/peach    //Py3。MozPeach是Peach v2.7的一个分支，由Mozilla Security维护。
 - https://mp.weixin.qq.com/s/yYkbysywQXD5l-SS0jQ3_A    //公众号：使用Peach进行模糊测试从入门到放弃。G:/TideSec/Peach_Fuzzing;P:/【工控安全】基于Peach的Modbus协议模糊测试;--
+- https://github.com/bl4ckic3/Modbus-Fuzzer    //Py2。Modbus协议模糊测试工具。
 - https://github.com/cisco-sas/kitty    //Py。针对TCP/IP的模糊测试框架。goodjob。
 - https://kitty.readthedocs.io/en/latest/    //Intro。Python类库kittyfuzzer使用手册
 - https://github.com/cisco-sas/katnip    //Py。kitty框架拓展库。

@@ -67,14 +67,17 @@
 - https://nosec.org/home/detail/4526.html    //通过Web iframe标签利用TeamViewer，CVE-2020-13699。
 - https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码。冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 ### 网络设备漏洞
-- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息
+- https://github.com/dunderhay/CVE-2020-5902    //F5 Big-IP负载均衡RCE/LFI，常用于政企。G:/aqhmal/CVE-2020-5902-Scanner;G:/jas502n/CVE-2020-5902;--
+- https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息。
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
+- https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
+### 无线协议漏洞
+- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
+### 万物互联漏洞
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
 - https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
-- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
-- https://github.com/dunderhay/CVE-2020-5902    //F5 Big-IP负载均衡RCE/LFI，常用于政企。G:/aqhmal/CVE-2020-5902-Scanner;G:/jas502n/CVE-2020-5902;--
-- https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
+- https://github.com/RUB-SysSec/SiemensS7-Bootloader    //西门子CVE-2019-13945工业设备漏洞。诊断模式任意代码执行。
 ### 沙盒虚拟机容器漏洞
 - https://github.com/mtalbi/vm_escape    //C。cve-2015-5165/cve-2015-7504 VMware虚拟机逃逸。P:2020 VMware vCenter未授权任意文件读取 //ESXI;--
 - https://github.com/unamer/vmware_escape    //C/C++。VMware WorkStation 12.5.5虚拟机逃逸。CVE-2017-4901/CVE-2017-4905。
