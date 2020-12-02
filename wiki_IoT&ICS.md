@@ -86,7 +86,7 @@
 - https://github.com/ITI/ICS-Security-Tools    //ICS工业安全探索工具
 - https://dale-peterson.com/    //Digital Bond工业安全公司，```s4xevents.com```旗下S4 Events工业安全培训教程。
 - https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
-- http://paper.tidesec.com/Tide-ics-paper/    //Tide安全团队-工控安全专题。W:plcscan.org/blog/ //烽台科技灯塔实验室;--
+- https://www.yuque.com/tidesec/ics    //Tide安全团队-工控安全Wiki专题。W:plcscan.org //灯塔实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟 专辑|工业控制系统网络安全。工业安全系列视频
@@ -141,18 +141,19 @@
 - https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
 ## 万物互联仿真模拟
 - https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
-### 软硬固烧录
+### 设备固件烧录
 - https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
+### 设备编程器
+- https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
 ### 车联网仿真
 - https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
 ### 物联网仿真
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
 ### Scada系统组态
+- http://www.mcgs.com.cn/src/down.html    //昆仑通态MCGS组态软件、设备驱动。免费版。
 - https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 态势感知、被动嗅探、数据捕获、逻辑视图、物理视图、协议签名。
 - https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc SCADA系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
 - https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
-### 工控编程器
-- https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
 ### OPC模拟仿真
 - https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。
 - https://www.matrikonopc.cn/sitemap.aspx    //霍尼韦尔MatrikonOPC Simulation。W:openopc.sourceforge.net;--

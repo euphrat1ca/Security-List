@@ -50,7 +50,6 @@
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui。
-- https://github.com/whickey-r7/grab_beacon_config    //NSE。nmap扫描后门beacon
 ## Kali环境拓展插件相关工具
 - https://github.com/Jack-Liang/kalitools/    //Kali Linux工具文档翻译，汉化kali
 - https://github.com/secforce/sparta    //Py。界面化，联动Nmap、Nikto、Hydra等工具
@@ -104,11 +103,11 @@
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展
 - https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的```xor64.bin```
 - https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
-- https://github.com/Ridter/CS_Chinese_support/    //cs3.0传输信息的汉化插件
+- https://github.com/Ridter/CS_Chinese_support/    //Cobalt Strike3.0传输信息的汉化插件
 - https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
 - https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
-- https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取beacon.bin文件的shellcode
-- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集
+- https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取`beacon.bin`文件的shellcode。
+- https://github.com/whickey-r7/grab_beacon_config    //NSE。nmap扫描CS后门beacon
 ### cobalt strike插件集合
 - https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型介绍，![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
@@ -133,6 +132,7 @@
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
 - https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 ### cobaltstrike攻击拓展
+- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集。
 - https://github.com/gloxec/CrossC2/tree/master/src    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。G:/mirrors_trending/CrossC;--
 - https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
 - https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理。G:/pandasec888/taowu-cobalt-strike //梼杌;--

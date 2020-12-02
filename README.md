@@ -4,14 +4,12 @@
 &emsp;&emsp;一个 Red Team 攻击的生命周期，整个生命周期包括：信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场（扫尾）。
 &emsp;&emsp;https://github.com/euphrat1ca/security_w1k1 //Have to say,the index is in my mind
 
-&emsp;&emsp;几千行的项目在查阅、索引时有点过于庞大，于是在第两百次更新的时候，选择把一些更新换代较为频繁的内容划分成单独分类。
+&emsp;&emsp;几千行的项目在查阅、索引时有点过于庞大，于是在第两百次更新的时候，选择把一些更新换代较为频繁的内容划分成单独分类。情况如下：
 
-情况如下：
-
-分类标签：mywiki;教程TechTeach;介绍intro;使用手册;通讯技术;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;移动安全;数字取证;权限拓展;模糊测试;极客学习;万物互联;情报研判;工具插件;安全防护;etc…<br>
-导航标签：一个人的安全部;Awesome系列;类似于xx架构;etc…<br>
-类型标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect 等常见缩写;etc…<br>
-状态标签：Simple;NoUpdate;商业版;社区版;<br>
+分类标签：mywiki;教程TechTeach;介绍intro;使用手册;通讯技术;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;移动安全;数字取证;权限拓展;模糊测试;极客学习;万物互联;情报研判;工具插件;安全防护;<br>
+类型标签：一个人的安全部;Awesome系列;类似于xx架构;对比于;<br>
+导航标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect 等常见缩写;<br>
+状态标签：Simple;NoUpdate;商业版;免费版;社区版;<br>
 测评标签：testjob（待测试）;welljob（还可以）;goodjob（很不错）;greatjob（行业标杆）;<br>
 
 # 解决方案
@@ -192,7 +190,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具。
 - https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
-- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文
+- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文。
 - https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解。
 - https://www.passfab.com/    //excel密码破解
 - https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具。
