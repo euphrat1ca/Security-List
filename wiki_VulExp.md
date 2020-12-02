@@ -196,17 +196,17 @@
 ## Linux利用漏洞
 - https://github.com/mudongliang/LinuxFlaw    //Linux软件漏洞列表
 ### Linux提权利用
-- https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits，Linux平台提权漏洞集合，CVE与年份对照排列。3k。G:/xairy/kernel-exploits;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack/;G:/bcoles/kernel-exploits;--
-- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛条件竞争写入只读(r)文件。Linux/Android 平台，release编译exp。goodjob。
-- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;G:/gbonacini/CVE-2016-5195;--
-- https://github.com/RealBearcat/CVE-2017-16995    //内核注入代码提权Ubuntu 16.04.01 ~ 16.04.04 kernel 4.4 ~ 4.14。goodjob。
+- https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits。CVE-2004-2018年Linux平台提权漏洞集合。3k。G:/xairy/kernel-exploits //2017;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack //2014;G:/bcoles/kernel-exploits //2019;--
+- https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
 - https://github.com/jas502n/CVE-2018-14665    //linux下Xorg X服务器提权利用
 - https://github.com/jas502n/CVE-2018-17182/    //Linux 内核VMA-UAF 提权漏洞
 - https://github.com/0x00-0x00/CVE-2018-1000001    //冲区溢出 suid提权Ubuntu 16.04.3 LTS glibc <= 2.26。goodjob。
-- https://github.com/mschwager/0wned    //Py。利用python包进行高权限用户创建。P:capabilities;--
-- https://github.com/stanleyb0y/sushell    //利用su小偷实现低权限用户窃取root用户口令。
-- https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
+- https://github.com/RealBearcat/CVE-2017-16995    //内核注入代码提权Ubuntu 16.04.01 ~ 16.04.04 kernel 4.4 ~ 4.14。goodjob。
+- https://github.com/euphrat1ca/CVE-2016-5195    //C++,Go。脏牛条件竞争写入只读(r)文件。Linux/Android 平台，release编译exp。goodjob。
+- https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs    //C。脏牛提权漏洞exp集合wiki。Github:/FireFart/dirtycow //Linux Kernel 2.6.22 < 3.9（2007-2016年10月18日）;G:/gbonacini/CVE-2016-5195;--
+- https://github.com/mschwager/0wned    //Py。利用Python包进行高权限用户创建。P:capabilities;--
+- https://github.com/stanleyb0y/sushell    //利用su实现低权限用户窃取root用户口令。
 ## MS微软利用洞
 - https://github.com/nu11secur1ty/Windows10Exploits    //win10漏洞集合
 - https://github.com/ZephrFish/CVE-2020-1350    //DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
