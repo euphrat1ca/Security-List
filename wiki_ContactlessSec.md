@@ -82,7 +82,7 @@
 - https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT硬件设备的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
 ### WIFI网络防御
 - https://github.com/SkypLabs/probequest    //嗅探和显示无线网卡附近的Wifi Probe请求。
-- https://github.com/wangshub/hmpa-pi    //在树莓派或路由，利用 Wireshark 扫描附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒/。
+- https://github.com/wangshub/hmpa-pi    //在树莓派或路由，利用 Wireshark 分析附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒。
 - https://github.com/besimaltnok/PiFinger    //检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点。
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测。
 - https://github.com/SYWorks/waidps    //Py。Linux下WiFi网络安全预警工具。
