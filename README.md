@@ -209,7 +209,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - http://www.yykkll.com    //压力测试站评测。W:defconpro.net;W:vip-boot.xyz;--
 - https://rocketstresser.com/login.php    //多协议在线压测，支持cdn测试。
 ### 压力流量测试
-- https://klionsec.github.io/2017/11/15/hping3/    //HPing3网络工具组包。P:LOIC;P:核武器CC-穿盾版;P:天降激光炮315;P:hyenae;--
+- https://tools.kali.org/information-gathering/hping3    //HPing3网络工具组包。P:LOIC;P:核武器CC-穿盾版;P:天降激光炮315;P:hyenae;--
 - https://github.com/wg/wrk    //C。http流量测试。
 - https://github.com/mschwager/dhcpwn    //Py。DHCP/IP压力测试。
 - https://github.com/wenfengshi/ddos-dos-tools    //压力测试工具集

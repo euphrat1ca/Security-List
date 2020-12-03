@@ -27,13 +27,15 @@
 ## 客户端安全
 - http://www.rohitab.com/apimonitor    //客户端C/S架构API监控工具
 - https://github.com/theLSA/hack-cs-tools    //客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
+### RTOS逆向分析
+- https://github.com/PAGalaxyLab/vxhunter    //Py。一个用于VxWorks嵌入式设备分析的工具集，包含固件分析，串口调试，通过IDA Pro 7.x 、Ghidra 9.x 、Radare2 插件脚本对VxWorks设备调试。
+- https://www.rubydoc.info/github/rapid7/metasploit-framework/Msf/Exploit/Remote/WDBRPC    //wdbrpc内存dump
 ### PC端逆向分析
 - https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;
 - https://github.com/xrkk/awesome-ida    //IDA Pro有关的资源收集
 - https://github.com/onethawt/idaplugins-list    //IDA Plugins插件集合
-- https://github.com/PAGalaxyLab/vxhunter    //Py。一个用于VxWorks嵌入式设备分析的工具集，包含固件分析，串口调试，通过IDA Pro 7.x 、Ghidra 9.x 、Radare2 插件脚本对VxWorks设备调试。
 - https://github.com/NationalSecurityAgency/ghidra    //Java。NSA出品的软件逆向动态调试框架Ghidra。类IDA架构。
-- https://github.com/ghidraninja/ghidra_scripts    //Py。Ghidra的Binwalk\Yara联动插件。
+- https://github.com/ghidraninja/ghidra_scripts    //Py。Ghidra的Binwalk、Yara联动插件。
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra    //Intro。Ghidra教程。
 - https://www.kanxue.com/book-brief-64.htm    //Ghidra操作手册。商业版。
 - https://github.com/radare/radare2    //C。radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。

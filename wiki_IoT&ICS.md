@@ -34,6 +34,7 @@
 - https://compatibility.rockwellautomation.com/Pages/MultiProductDownload.aspx?keyword=Firmware    //罗克韦尔
 - https://www.vipa.com/service-support/downloads/firmware/control-systems/    //安川yaskawa 德国惠朋（VIPA GmbH）
 - https://support.automationdirect.com/firmware/binaries.html    //AutomationDirect
+- https://github.com/euphrat1ca/NOE77101_Firmware    //The Schneider Electric Quantum Ethernet Module 140NOE77101 Firmware。
 ### 串口调试
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
