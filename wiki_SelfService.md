@@ -154,7 +154,7 @@
 - https://www.chuyu.me/zh-Hans/index.html    //DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
 - https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
-- DWS(Destroy-Windows-10-Spying)    //消除Windows隐私监控。W:wpd.app;G:/crazy-max/WindowsSpyBlocker;--
+- https://wpd.app/    //消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--
 - https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具navicat注册机。G:/github.com/HyperSine/;--
