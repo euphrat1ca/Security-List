@@ -74,7 +74,7 @@
 - https://bbs.pediy.com/thread-246627.htm    //打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。类似于大菠萝。G:/spacehuhn/esp8266_deauther/--
 - https://github.com/MisterBianco/BoopSuite    //无线网络审计工具，支持2-5GHZ频段。
 - https://github.com/derv82/wifite2    //wifite无线审计工具升级版，联动aircrack-ng与reaver。G:/savio-code/fern-wifi-cracker;--
-- https://github.com/P0cL4bs/WiFi-Pumpkin    //无线安全渗透测试套件。G:/entropy1337/infernal-twin;G:/m4n3dw0lf/PytheM;G:/InfamousSYN/rogue    //无线网络攻击工具包
+- https://github.com/P0cL4bs/WiFi-Pumpkin    //无线安全渗透测试套件。G:/entropy1337/infernal-twin;G:/m4n3dw0lf/PytheM;G:/InfamousSYN/rogue;--
 - https//www.zimperium.com/zanti-mobile-penetration-testing    //移动端wifi渗透工具。G:/chrisk44/Hijacker;--
 - https://github.com/wi-fi-analyzer/fluxion    //窃取用户wifi密码的进行密码重放攻击。G:/0v3rl0w/e013;--
 - https://github.com/t6x/reaver-wps-fork-t6x    //wps跑pin码攻击，常见wifi攻击。
