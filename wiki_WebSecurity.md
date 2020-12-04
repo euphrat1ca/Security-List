@@ -238,21 +238,18 @@
 - https://github.com/euphrat1ca/Behinder    //Java6。“冰蝎”动态二进制加密网站管理客户端。rebeyond，会因为服务器端Java版本产生连接报错。
 - https://xz.aliyun.com/t/2744    //Intro。“冰蝎”利用动态二进制加密实现新型一句话木马之Java篇，木马之.NET篇，木马之PHP篇,木马之客户端篇。
 - https://github.com/BeichenDream/Godzilla    //Java。哥斯拉shell管理工具。可插件拓展。
-- https://github.com/shack2/skyscorpion    //OracleJava。天蝎网站管理。可团队协作。
+- https://github.com/shack2/skyscorpion    //OracleJava。天蝎网站管理。团队协作。
 - https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序。目前支持php、jsp，CS端通信加密
 - https://github.com/xl7dev/WebShell    //webshell收集项目。Github:/tennc/webshell;--
 ### PHP Webshells
 - https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。
 - https://github.com/k4mpr3t/b4tm4n    //PHP。大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
-- https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，post pass=DAws
-- https://github.com/b374k/b374k    //php。网站管理，默认密码b374k
-- https://github.com/wso-shell/WSO    //PHP。webshell的文件管理，可以伪装为404界面
-- https://github.com/DXkite/freebuf-stream-shell    //PHP。使用流包装器实现WebShell。freebuf介绍。
-- https://github.com/UltimateHackers/nano    //php。一句话，附带py编写的生成器
-- https://github.com/epinna/weevely3    //Py。利用特定的一句话脚本对网站进行管理
-- https://github.com/nil0x42/phpsploit    //Py3。利用特定的一句话脚本对网站进行管理
-- https://github.com/wonderqs/Blade    //Py。利用特定的一句话脚本对网站进行管理
-- https://github.com/anestisb/WeBaCoo    //perl。利用特定的一句话脚本对网站进行管理
+- https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，`post pass=DAws`
+- https://github.com/b374k/b374k    //php。网站管理`默认密码b374k`
+- https://github.com/wso-shell/WSO    //PHP。伪装为404界面webshell的文件管理
+- https://github.com/DXkite/freebuf-stream-shell    //PHP。使用流包装器实现WebShell。
+- https://github.com/UltimateHackers/nano    //php。一句话py生成器
+- https://github.com/epinna/weevely3    //Py。利用特定的一句话脚本对网站进行管理G:/nil0x42/phpsploit;G:/wonderqs/Blade;G:/anestisb/WeBaCoo;--
 ### Java Webshells
 - https://github.com/rebeyond/memShell    //Java。可写入java web server内存中的无文件webshell。goodjob。G:/ydnzol/memshell;--
 - https://github.com/threedr3am/JSP-Webshells    //jsp webshell 项目收集
