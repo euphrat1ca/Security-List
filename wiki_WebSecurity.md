@@ -256,5 +256,6 @@
 ### Java Webshells
 - https://github.com/rebeyond/memShell    //Java。可写入java web server内存中的无文件webshell。goodjob。G:/ydnzol/memshell;--
 - https://github.com/threedr3am/JSP-Webshells    //jsp webshell 项目收集
+- https://github.com/htchina/openfire-webshell    //openfire上传webshell插件
 ### ASP/X Webshells
 - https://github.com/antonioCoco/SharPyShell    //ASP.NET。webshell for C# web application
