@@ -109,17 +109,19 @@
 - https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
 ## 社会工程
-- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS的键盘记录功能。
-- https://github.com/uknowsec/keylogger    //Go。键盘记录，OSS定期回传。G:/mehulj94/Radium-Keylogger;
-- https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
-- https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
-- https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风监控键盘输入测试输入值。
 - https://github.com/azizaltuntas/Camelishing    //Py3。社会工程学攻击辅助工具。WEBGUI。
-- https://github.com/threatexpress/domainhunter    //检查过期域名，bluecoat分类和```Archive.org```历史记录，以确定最为适合于钓鱼和C2的域名。
+- https://github.com/threatexpress/domainhunter    //通过bluecoat分类和`Archive.org`历史记录检查过期域名，选择钓鱼和C2域名。
 - https://github.com/Mr-Un1k0d3r/CatMyPhish    //收集目标类似于的尚未注册的域名。
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
-- https://github.com/Viralmaniar/I-See-You    //Bash。利用网站代理获取用户的真实地理信息。simple
+- https://github.com/Viralmaniar/I-See-You    //Bash。利用网站代理获取用户的真实地理信息。simple。
 - https://www.jianshu.com/p/147cf5414851    //聊聊那些常见的探侦类APP。
+### 输入监控
+- https://github.com/Pickfordmatt/SharpLocker/    //c#。Windows锁屏密码记录。G:/bitsadmin/fakelogonscreen;PS:Invoke-LoginPrompt.ps1;PS:Invoke-CredentialsPhish.ps1;Koadic:password_box;Empire:collection/toasted;Empire:collection/prompt;MSF:phishwindowscredentials;--
+- https://github.com/uknowsec/keylogger    //Go。OSS回传键盘记录。G:/mehulj94/Radium-Keylogger;--
+- https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
+- https://github.com/clymb3r/Misc-Windows-Hacking    //VS2019MFC编译工程。基于LSA调用PasswordFileter检查密码复杂性、调用PasswordChangeNotify同步密码，通过管理员权限DLL注入内存记录密码内容，通过修改`HookPasswordChange.cpp代码132行`修改输出路径。
+- https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风监控键盘输入测试输入值。
+- https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS进行键盘记录。
 ### 社工库查询
 - https://github.com/kallydev/privacy    //数据结构化查询。
 ### 网站克隆
