@@ -10,7 +10,7 @@
 类型标签：一个人的安全部;Awesome系列;类似于xx架构;对比于;<br>
 导航标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect 等常见缩写;<br>
 状态标签：Simple;NoUpdate;商业版;免费版;社区版;<br>
-测评标签：testjob（待测试）;welljob（还可以）;goodjob（很不错）;greatjob（行业标杆）;<br>
+测评标签：testjob（即将测试）;welljob（表现良好）;goodjob（性能稳定）;greatjob（行业标杆）;<br>
 
 # 解决方案
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecSolution.md    //安全建设、安全运营等解决方案。mywiki。
@@ -31,7 +31,7 @@
 # 端口转发流量代理
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SocketProxy.md    //端口映射，代理穿透，流量代理转发。mywiki。
 # 欺骗防御
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //欺骗防御、蜜罐、主动反制。myWiki。
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //欺骗防御、蜜罐。myWiki。
 # 逆向安全分析
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecReverse.md    //逆向分析、反编译、破解。myWiki。
 # 社会工程

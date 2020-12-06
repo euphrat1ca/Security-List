@@ -108,34 +108,37 @@
 - https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密。
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测。
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式。
+- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。
 ## 跨平台远程协助
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
 - https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。welljob,5k。
 - https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
 - https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
 - https://github.com/its-a-feature/Mythic    //Py。Linux下跨平台远控。goodjob。
-### JavaScript远程协助
-- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的利用js后门，Web界面GUI。
-- https://github.com/zerosum0x0/koadic    //Py3。大宝剑基于JScript/VBScript 进行控制，多版本系统支持在内存中运行shell。GOODJOB,1k。
-- https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;--
-- https://github.com/Hood3dRob1n/JSRat-Py    //Py。jsrat改进版，配合rundll32远程加载。
-- https://github.com/shelld3v/JSshell/    //Py。js远控。
+- https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;G:/sameera-madushan/Print-My-Shell;--
+- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
+- https://github.com/zerosum0x0/koadic    //Py3。基于JScript/VBScript的大宝剑远控，多版本系统支持内存加载shell。GOODJOB。G:/shelld3v/JSshell/;--
 ### Windows远程协助
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
 - https://github.com/quasar/QuasarRAT/    C#。界面GUI。远程管理工具。G:/NYAN-x-CAT/AsyncRAT-C-Sharp;G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
-- https://github.com/nettitude/PoshC2    //PowerShell,C#。远控工具，有win提权组件
-- https://github.com/cobbr/Covenant    //C#。dotnet核心C2控制器，配合powershell进行权限控制。
-- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。
+- https://github.com/nettitude/PoshC2    //PowerShell,C#。远控提权工具。
 - https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。
-- https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
-- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，自带https证书校验。G:/whitehatnote/BlueShell //已编译;--
 - https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
-- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。welljob。
-### *nix远程协助
+- https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
+- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，https加密。G:/whitehatnote/BlueShell //已编译;G:/FlyfishSec/rsGen;--
+- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。welljob。G:/cobbr/Covenant;--
+- https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
+- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
+- https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;G:/Hood3dRob1n/JSRat-Py //rundll 32加载;--
+- https://github.com/lcatro/network_backdoor_scanner    //C++。反向连接内网穿透、通信加密、弱口令破解。
+- https://github.com/3v4Si0N/HTTP-revshell    //Py。通讯加密、office组件payload模板生成。
+### MacOS远程协助
 - https://github.com/neoneggplant/EggShell    //Py。macos/osx远控，可生成HID代码，多session。testjob。noupdate。
 - https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:/creaktive/tsh //Tiny SHell;--
+- https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
+- https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的js后门利用。Web界面GUI。
 ### 移动端远程协助
 - https://spynote.us    //商业版。G:/hamzaharoon1314/SpyNote;--
 - http://droidjack.net/    //商业版。
@@ -171,15 +174,6 @@
 - https://github.com/0x09AL/Browser-C2    //Go。利用chrome以浏览器的形式连接C2服务器。
 - https://github.com/Ramos-dev/OSSTunnel    //Java。利用云存储oss通信隧道的远程管理工具。
 - https://github.com/reidmefirst/Modshaft    //Py2。利用modbus协议封装命令绕过防火墙。
-### 反向shell回弹
-- https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;--
-- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
-- https://github.com/sameera-madushan/Print-My-Shell    //Py。多种反向shell生成。
-- https://github.com/FlyfishSec/rsGen    //BAT。Windows下远程shell反弹命令行工具。
-- https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
-- https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
-- https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
-- https://github.com/lcatro/network_backdoor_scanner    //C++。反向链接、内外网穿透、通信数据加密，http弱口令破解。
 ### Shellcode定义
 - https://www.ascotbe.com/2020/04/18/ShellCode/    //TechTeach。恶意程序研究之定义ShellCode。
 - https://paper.seebug.org/1413/    //techteach。如何实现一款 shellcodeLoader。

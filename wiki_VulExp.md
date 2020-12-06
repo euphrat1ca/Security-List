@@ -35,16 +35,16 @@
 ### 文本编辑器漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行```source ~/.vimrc```让它生效。
 - http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行。
-### 浏览器漏洞工具
-- https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用
-- https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息
+### 浏览器漏洞
+- https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用。
+- https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息。
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
-- https://github.com/exodusintel/CVE-2019-0808    //JS/C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
+- https://github.com/exodusintel/CVE-2019-0808    //JS,C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
 - https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
 - https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie
-- https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入，编辑，添加和删除cookie。
-### 远程调试漏洞
-- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933，libssh服务端身份验证绕过。G:/leapsecurity/libssh-scanner;--
+- https://github.com/lfzark/cookie-injecting-tools    //Chrome扩展。cookie注入工具包括注入、编辑、添加、删除cookie。
+### 远程应用服务漏洞
+- https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933 libssh服务端身份验证绕过。G:/leapsecurity/libssh-scanner;--
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    //Py。MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690。
 - https://github.com/cpandya2909/CVE-2020-15778    //Linux SCP复制命令加载恶意文件引起命令执行
@@ -66,13 +66,13 @@
 - https://www.anquanke.com/post/id/176379    //Intro。蚁剑菜刀RCE。蚁剑客户端RCE挖掘过程及源码分析。Electron APP漏洞。
 - https://nosec.org/home/detail/4526.html    //通过Web iframe标签利用TeamViewer，CVE-2020-13699。
 - https://www.t00ls.net/articles-56337.html    //intro。冰蝎马 那可有可无的密码。冰蝎软件配置漏洞，免密码连接，增添agent头校验。
-### 网络设备漏洞
+### 通讯设备漏洞
 - https://github.com/dunderhay/CVE-2020-5902    //F5 Big-IP负载均衡RCE/LFI，常用于政企。G:/aqhmal/CVE-2020-5902-Scanner;G:/jas502n/CVE-2020-5902;--
 - https://github.com/yassineaboukir/CVE-2018-0296    //测试思科ASA路径穿越漏洞，可获取系统详细信息。
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
 - https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
-### 无线协议漏洞
+### 通讯协议漏洞
 - https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
 ### 万物互联漏洞
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
@@ -91,8 +91,9 @@
 - https://github.com/hacksysteam/WpadEscape    //利用wpad进行浏览器 sandbox沙箱逃逸
 ### 云平台漏洞
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
-- https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台模块是一种防篡改设备)CVE-2018-6622漏洞利用工具。
+- https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台防篡改设备模块)CVE-2018-6622漏洞利用工具。
 ## Web漏洞利用漏洞
+- https://github.com/r0eXpeR/redteam_vul    //红队中易被攻击的一些重点系统漏洞整理
 - https://github.com/SecWiki/CMS-Hunter    //CMS工具漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架。G:/chuhades/CMS-Exploit-Framework;--
 - https://github.com/Tuhinshubhra/CMSeeK    //Py。WordPress,Joomla,Drupal等170余种CMS扫描识别检测。welljob。G:/Dionach/CMSmap;--
