@@ -167,7 +167,7 @@
 - https://github.com/riusksk/FlashScanner    //flash xss扫描。
 ### XSS漏洞利用平台框架
 - https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
-- https://xss.fbisb.com/    //在线XSS平台,靶场xss练习。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;
+- https://xss.fbisb.com/    //在线XSS利用平台，xss练习靶场。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;--
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
 - https://github.com/euphrat1ca/XssPowerByTools    //PHP。XSS平台课程设计。simple。
 - https://github.com/AntSwordProject/ant    //Nodejs。蚁逅@1.0，实时上线的 XSS 盲打平台

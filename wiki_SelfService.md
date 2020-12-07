@@ -12,6 +12,7 @@
 - https://github.com/EdgeTranslate/EdgeTranslate    //js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
+- https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
@@ -52,12 +53,8 @@
 - https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。
 - https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
-### 文件检索
-- https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
-- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-- https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
-### 思维导图
-- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;
+- https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
+- https://codebeautify.org    //在线代码美化
 ### 网络解析服务
 - https://dynv6.com/    //免费DDNS域名服务。P:小米球Ngrok;G:duckdns.org;G:dynu.com;--
 - https://hsk.oray.com/    //动态域名解析，DDNS服务，域名内网穿透，蒲公英SD-WAN异地组网。W:zerotier.com;--
@@ -100,7 +97,6 @@
 - https://github.com/gogs/gogs   //Go。Git 服务器一键启动。
 - https://gitea.io/zh-cn/    //GO。私有git服务一键启动。G:/go-gitea/gitea;--
 - http://ohshitgit.com/    //Intro。git操作手册。
-- https://www.notion.so/    //项目管理。mybase;--
 ### 项目同步
 - https://github.com/sjqzhang/go-fastdfs    //go。分布式文件系统(私有云存储)。
 - https://www.u-nas.cn/    //万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
@@ -122,22 +118,24 @@
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
 - https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+### 文件检索
+- https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
+- https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
+- https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+### 思维导图
+- https://www.draw.io    //在线思维导图/流程图
+- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;--
 ### 文档编辑
+- https://www.notion.so/    //项目笔记管理。mybase;--
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--
 - https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
-- https://github.com/marktext/marktext/    //js。markdown编辑器
+- https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器
 - https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
-### 在线编辑
-- https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
-- https://codebeautify.org    //在线代码美化
-- https://www.draw.io    //在线思维导图/流程图
-- https://www.remove.bg/api    //在线抠图。api
-- https://www.photopea.com/    //在线ps
+- https://pandoc.org/    //文档格式转换。greatjob。
 - https://www.ilovepdf.com/zh-cn    //在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
-- http://www.alltoall.net/    //在线格式转换
+- http://www.alltoall.net/    //文本格式在线转换
 - https://etherpad.net/    //在线可编辑记事本
-- https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 ### 搜索引擎
 - http://www.duckduckgoog.com/    //不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
 - https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
@@ -195,6 +193,8 @@
 - https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
 - https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
 - https://github.com/beurtschipper/Depix    //图片修复、打码复原。
+- https://www.remove.bg/api    //在线抠图。api
+- https://www.photopea.com/    //在线ps
 ### 字体素材
 - https://www.hellofont.cn/    //
 ### 文档素材下载
