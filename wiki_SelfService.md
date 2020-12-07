@@ -3,17 +3,14 @@
 ## 常见软件技巧
 - https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
 # 自服务应用
+- https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://awesome-hub.com/    //Awesome 列表
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
 - https://lovelive.tools/    //说话的艺术，渣男语录
 - https://github.com/jxlwqq/id-validator.py    //Py3。居住证号码验证工具（Python 版）
-- https://github.com/sylnsfar/qrcode    //Py3。动态二维码
-- https://github.com/fire-keeper/BlindWatermark    //py.数字水印，使用盲水印保护图片。
-- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印
 - https://github.com/EdgeTranslate/EdgeTranslate    //js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
-- https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    //在线文档翻译
@@ -186,13 +183,17 @@
 ### 图片素材
 - https://uibundle.com/    //Discover free design assets from 229 independent authors
 - https://www.canva.cn/    //平面图设计制作
-- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网“waifu2x.udp.jp/”。P:/bigjpg.com;--
+- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网`waifu2x.udp.jp/`。P:/bigjpg.com;--
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图
 - https://www.flaticon.com    //免费图标网站
 - https://www.iconfont.cn/    //阿里巴巴矢量图标库
-- https://world-flags.org/worldflagstoha    //国旗动漫化
+- https://world-flags.org/worldflagstoha    //动漫化国旗
+- https://github.com/sylnsfar/qrcode    //Py3。动态二维码生成器。
+- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
+- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
+- https://github.com/beurtschipper/Depix    //图片修复、打码复原。
 ### 字体素材
 - https://www.hellofont.cn/    //
 ### 文档素材下载
