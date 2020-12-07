@@ -116,7 +116,7 @@
 - https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 ## 区块安全
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具
+- https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
 ## 云安全
 - https://cloud.tencent.com/developer/article/1621185    //【云原生攻防研究】针对容器的渗透测试方法
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云渗透备忘单，云服务检查清单

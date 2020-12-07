@@ -9,6 +9,8 @@
 ### 量化交易
 - https://www.fmz.com/    //发明者量化交易平台
 - http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
+### 区块矿机
+- https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工
 ## 编程相关
 ### 语言技术栈
 - https://github.com/rust-lang/rust    //静态语言。
