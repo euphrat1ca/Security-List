@@ -33,8 +33,6 @@
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集。
 - https://github.com/m8r0wn/nullinux    //Py。Linux的内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    //Linux系统审计工具，可以导出系统配置，生成报表
-- https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试。
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证。

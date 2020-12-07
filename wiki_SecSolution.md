@@ -50,9 +50,9 @@
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
-- https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行架构.主机、扫描器、端口、日志、防护设备等安全建设。goodjob。
-- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
+- https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行安全建设。主机、扫描器、端口、日志、防护设备。goodjob。
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
+- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/lenve/javadoc    //Java 企业级项目需求文档
 ## 安全运营中心(SOC)建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
@@ -69,7 +69,6 @@
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 ### ACL策略安全
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
 ### 运维手册
