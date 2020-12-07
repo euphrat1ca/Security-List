@@ -44,7 +44,8 @@
 # 办公套件
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
 ## 敏捷办公
-- https://u.tools/    //utools软件插件化万能工具箱，跨平台快捷操作平台。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
+- https://u.tools/    //utools插件化万能工具箱。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
+- https://github.com/microsoft/PowerToys    //快捷功能合集。
 - https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
 - https://cmder.net    //Windows命令行加强版。通过```/REGISTER ALL``````user_aliases```配置文件配置快捷键。
 - https://github.com/tmux/tmux    //Linux命令行终端多路复用器。
