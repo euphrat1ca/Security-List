@@ -9,9 +9,9 @@
 - https://blog.ripstech.com/filter/vulnerabilities/    //Bitbucket是Atlassian开发的版本控制软件与漏洞挖掘教程
 # Fuzzing模糊测试
 - https://google.github.io/fuzzbench/    //谷歌模糊测试测评工具，竞品比对
-- 工控模糊测试Wurldtech Achilles阿基里斯国际认证
+- https://www.isasecure.org/en-US/    //工控模糊测试。edsa认证。P:Wurldtech Achilles 阿基里斯认证;--
 - LLVM工具链，基于编译器插桩的coverage-feedback driven fuzzer
-- https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //公众号：Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全
+- https://mp.weixin.qq.com/s/nREiT1Uj25igCMWu1kta9g    //Fuzzing战争: 从刀剑弓斧到星球大战。 Flanker论安全
 - https://github.com/HexHive/FuzzGen/    //C++。根据库的接口I/O自动生成fuzzer
 ## 模糊测试资源
 - http://www.freebuf.com/articles/rookie/169413.html    //一系列用于Fuzzing学习的资源汇总

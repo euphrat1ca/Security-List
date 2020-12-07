@@ -14,8 +14,8 @@
 
 # 解决方案
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecSolution.md    //安全建设、安全运营等解决方案。mywiki。
-# 模糊测试漏洞挖掘
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md    //Fuzzer模糊测试。mywiki。
+# 模糊测试
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md    //Fuzzer模糊测试漏洞挖掘。mywiki。
 # 安全防御体系
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TowerDefence.md    //病毒后门查杀，系统监控，混淆命令检测等技术防御体系。mywiki。
 # 恶意样本文件分析
