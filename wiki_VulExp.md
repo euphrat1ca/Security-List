@@ -8,6 +8,7 @@
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
 - https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
+- https://srcincite.io/exploits/    //Steven Seeley漏洞利用，Exchange、Microsoft。G:/sourceincite/sourceincite.github.io/tree/master/pocs;--
 ## 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
@@ -30,11 +31,11 @@
 - https://github.com/anbai-inc/CVE-2018-4878    //Adobe Flash Exploit生成payload
 - https://github.com/numpy/numpy/issues/12759    //科学计算框架numpy命令执行RCE漏洞
 - https://github.com/KishanBagaria/AirDoS    //Py3。基于opendrop的IOS AirDrop Dos,要求系统版本低于13.3。
-- https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议漏洞库。拒绝服务。
+- https://github.com/jiansiting/ripple20-poc    //通过ICMP包探测 CVE-2020-11896 Treck TCP/IP协议拒绝服务漏洞。
 - https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit    //qnap Nas平台  Pre-Auth Root RCE
 ### 文本编辑器漏洞
 - https://github.com/numirias/security/tree/master/data/2019-06-04_ace-vim-neovim    //Intro。文本编辑器Vim/Neovim任意代码执行漏洞。修改vimrc在50行这里添加一个“set modeline” 然后esc保存退出，然后执行```source ~/.vimrc```让它生效。
-- http://blog.nsfocus.net/pdf-vul/    //PDF中的Javascript利用某些pdf编辑器的漏洞进行pdf脚本执行。
+- http://blog.nsfocus.net/pdf-vul/    //利用pdf编辑器执行文件中的Javascript脚本。
 ### 浏览器漏洞
 - https://github.com/ray-cp/browser_pwn    //浏览器二进制溢出漏洞利用。
 - https://github.com/SkyLined/LocalNetworkScanner    //JS。浏览器漏洞扫描网站浏览者内网信息。
@@ -73,7 +74,7 @@
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
 - https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
 ### 通讯协议漏洞
-- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781，安卓蓝牙远程代码执行。
+- https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781 安卓蓝牙远程代码执行。
 ### 万物互联漏洞
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials    //CVE-2018-9995摄像头路由，Get DVR Credentials
 - https://github.com/JrDw0/CVE-2017-7921-EXP    //海康身份验证绕过，信息泄露漏洞
@@ -98,16 +99,16 @@
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架。G:/chuhades/CMS-Exploit-Framework;--
 - https://github.com/Tuhinshubhra/CMSeeK    //Py。WordPress,Joomla,Drupal等170余种CMS扫描识别检测。welljob。G:/Dionach/CMSmap;--
 - https://github.com/blackye/Jenkins    //Jenkins系统监控框架漏洞探测、用户抓取爆破。
-- https://github.com/orangetw/awesome-jenkins-rce-2019    //jenkins漏洞库，CVE-2018-1000861, CVE-2019-1003005 and CVE-2019-1003029。
+- https://github.com/orangetw/awesome-jenkins-rce-2019    //jenkins漏洞库，CVE-2018-1000861 CVE-2019-1003005 CVE-2019-1003029。
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC    //jenkins远程命令执行。
-- https://github.com/irsdl/IIS-ShortName-Scanner    //Java。IIS短文件名暴力枚举漏洞利用工具
-- https://github.com/lijiejie/IIS_shortname_Scanner    //Py3。IIS短文件名漏洞扫描
-- https://github.com/ajinabraham/NodeJsScan    //Py。NodeJS应用Web安全测试，查询可利用接口，WebUI。
+- https://github.com/lijiejie/IIS_shortname_Scanner    //Py3。IIS短文件名漏洞扫描。G:/irsdl/IIS-ShortName-Scanner;--
+- https://github.com/ajinabraham/NodeJsScan    //Py。NodeJS应用Web安全测试，查询可利用接口。WebUI。
 - https://github.com/jas502n/CVE-2019-7238    //Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    //CVE-2019-15642 Webmin远程命令执行，需要登录权限。
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    //kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit。
-- https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd,CVE-2019-11580。
+- https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
+- https://github.com/RhinoSecurityLabs/CVEs    //CVE-2019-0227 Apache Axis RCE命令执行，AIX,EPSON,UNITRENDS,Memu,AudioCodes,Nvidia,CompleteFTP。
 ### Web组件漏洞
 - https://github.com/uknowsec/BurpSuite-Extender-fastjson    //Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
 - https://github.com/CaijiOrz/fastjson-1.2.47-RCE    //Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit //利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
@@ -132,7 +133,7 @@
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
 ### 公共网关接口CGI漏洞
 - 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
-- https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi；
+- https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi。
 - http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271。
 ### C#/.Net服务漏洞
 - https://github.com/pwntester/ysoserial.net    //C#。配合PowerShell生成有效负载利用.Net反序列化漏洞
@@ -148,7 +149,7 @@
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
 - https://github.com/gquere/CVE-2020-7931    //py。Maven框架插件Artifactory模板ssti利用执行漏洞
 #### WildFly/Jboss中间件漏洞
-- https://github.com/joaomatosf/jexboss    //Py。扫描和检测Jboss中可能存在多个安全漏洞。jexboss exp 工具集。
+- https://github.com/joaomatosf/jexboss    //Py。扫描和检测Jboss EXP安全漏洞。jexboss exp 工具集。
 - https://www.freebuf.com/column/240174.html/    //Jboss漏洞利用。主要是未授权访问带来的文件上传（CVE-2007-1036、CVE-2010-0738、CVE-2006-5750、JBoss jmx-consoleHtmlAdaptor addURL() File Upload Vulnerability），与反序列化造成的命令执行（CVE-2015-7501、CVE-2017-7504、CVE-2017-12149、CVE-2013-4810）。
 - https://github.com/joaomatosf/JavaDeserH2HC/    //Java。JBOSSMQ JMS 集群反序列化漏洞（CVE-2017-7504）
 - https://github.com/hlldz/wildPwn/    //Py,Lua。jboss8更名为WildFly，默认管理控制台弱口令爆破。
@@ -165,7 +166,7 @@
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 #### Struts2框架漏洞
-- https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行漏洞,005-057。CVE-2018-11776
+- https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行005-057漏洞 CVE-2018-11776。
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 #### SpringBoot框架漏洞
@@ -174,7 +175,6 @@
 #### Tomcat框架漏洞
 - https://github.com/euphrat1ca/CVE-2019-0232    //Apache Tomcat Remote Code Execution on Windows - 需要开启CGI-BIN。
 - https://github.com/magicming200/tomcat-weak-password-scanner    //Py。tomcat后台弱口令扫描器，命令行版+图形界面版。
-- https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-0227    //Apache Axis 1.4 Remote Code Execution;CVE-2019-0227: Apache Axis RCE命令执行。
 - https://github.com/00theway/Ghostcat-CNVD-2020-10487    //tomcat幽灵猫CVE-2020-1938高危文件读取、包含漏洞。
 - https://tomcat.com/examples/jsp/snp/snoop.html    //tomcat信息泄露、实例文档、session样例操纵。
 #### Shiro安全框架漏洞
@@ -183,8 +183,9 @@
 - https://github.com/feihong-cs/ShiroExploit/    //Java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
 - https://github.com/j1anFen/shiro_attack    //Shiro反序列化漏洞综合利用。界面GUI。
 - https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动检测shiro指纹。
-### Web服务器Apache Solr漏洞
+### Web服务器Apache应用漏洞
 - https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究。
+- https://xz.aliyun.com/t/4452    //文件提取检测服务Apache tika命令执行CVE-2018-1335。
 - https://github.com/mpgn/CVE-2019-0192    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
 - https://github.com/jas502n/CVE-2019-12409    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
@@ -200,7 +201,7 @@
 ## Linux利用漏洞
 - https://github.com/mudongliang/LinuxFlaw    //Linux软件漏洞列表
 ### Linux提权利用
-- https://github.com/SecWiki/linux-kernel-exploits    //linux kernel exploits。CVE-2004-2018年Linux平台提权漏洞集合。3k。G:/xairy/kernel-exploits //2017;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack //2014;G:/bcoles/kernel-exploits //2019;--
+- https://github.com/SecWiki/linux-kernel-exploits    //Linux kernel exploits。CVE-2004-2018年Linux平台提权漏洞集合。3k。G:/xairy/kernel-exploits //2017;G:/Kabot/Unix-Privilege-Escalation-Exploits-Pack //2014;G:/bcoles/kernel-exploits //2019;--
 - https://github.com/cgwalters/cve-2020-14386    //Linux 5.9-rc4内核利用内存损坏来从非特权进程获取root特权。
 - https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897    //Linux系统利用Syscall实现提权。G:/can1357/CVE-2018-8897;--
 - https://github.com/jas502n/CVE-2018-14665    //linux下Xorg X服务器提权利用
@@ -227,7 +228,7 @@
 - https://github.com/danigargu/CVE-2020-0796    //C。CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost RCE&LPE。goodjob。G:/ollypwn/SMBGhost;G:/jiansiting/CVE-2020-0796;G:/chompie1337/SMBGhost_RCE_PoC;--。
 - https://github.com/rapid7/metasploit-framework/pull/12283/    //CVE-2019-0708,四个文件进行BlueKeep漏洞利用，目前支持win7sp1/win2k8sr。msf插件。G:/coolboy4me/cve-2019-0708_bluekeep_rce //增加xp/03;G:/MS08-067;--
 - https://github.com/3gstudent/Smbtouch-Scanner    //Py。MS17-010方程式永恒之蓝ETERNAL 445 SMB漏洞检测。
-- https://github.com/hanshaze/MS17-010-EternalBlue-WinXP-Win10    //ms17010 winxp-win10全版本利用
+- https://github.com/hanshaze/MS17-010-EternalBlue-WinXP-Win10    //ms17010 winxp-win10全版本利用。
 - https://github.com/countercept/doublepulsar-detection-script    //Py。方程式双倍脉冲RDP漏洞。
 ### Windows提权利用LPE
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
@@ -253,7 +254,9 @@
 - https://github.com/euphrat1ca/ms15-051    //C++。Windows 内核模式驱动程序中的漏洞可能允许特权提升 (3057191)，WS03-08。release。
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
-### Exchange漏洞利用手段
+### Exchange漏洞利用
+- https://github.com/Jumbo-WJB/CVE-2020-0688    //CVE-2020-0688_微软EXCHANGE服务的邮件远程代码执行漏洞。
+- https://github.com/rapid7/metasploit-framework/pull/14126    //Microsoft Exchange Server DLP Policy RCE (CVE-2020-16875)
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--
 - https://github.com/WyAtu/CVE-2018-8581    //Py。利普通权限邮箱账号密码后，完成对其他用户(包括域管理员)邮箱收件箱的委托接管。利用```PrivExchange```与```ntlmrelayx```产生http->ldap中转实现的提权。
 - https://www.freebuf.com/articles/network/238365.html/    //Exchange后渗透利用上篇。P:/articles/network/239026.html //Exchange后渗透分析下篇;--
