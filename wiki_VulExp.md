@@ -166,8 +166,8 @@
 - https://github.com/pyn3rd/CVE-2018-3245    //weblogic cve-2018-2893与cve-2018-3245远程代码命令执行
 - https://github.com/jas502n/CVE-2018-3191    //Weblogic CVE-2018-3191远程代码命令执行
 #### Struts2框架漏洞
-- https://github.com/A2gel/CVE-2019-0230    //Apache Struts 2的远程代码执行漏洞（CVE-2019-0230）
-- https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行005-057漏洞 CVE-2018-11776。
+- https://github.com/PrinceFPF/CVE-2019-0230    //Apache Struts 2的远程代码执行漏洞（CVE-2019-0230）st2-059
+- https://github.com/Lucifer1993/struts-scan    //Py。批量检测Struts命令执行st2 005-057漏洞 CVE-2018-11776。
 - https://github.com/shack2/Struts2VulsTools    //C#。Struts2漏洞检查工具2018版。
 - https://github.com/s1kr10s/Apache-Struts-v3    //Apache-Struts漏洞利用工具
 #### SpringBoot框架漏洞
