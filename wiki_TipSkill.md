@@ -93,16 +93,16 @@
 - https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 - https://clickhouse.tech/    //列式数据库
 - https://github.com/HandyOrg/HandyControl    //WPF控件
-### 大数据分析框架
-- https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk大数据分析。
+### 大数据分析
+- https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk大数据分析框架。
 - https://github.com/taosdata/TDengine    //C。物联网大数据平台。对标kafka、Hadoop、splunk数据处理引擎。
-- https://github.com/AlgoSecure/iotmap    //Py。利用neo4j进行物联网设备数据分析
+- https://github.com/AlgoSecure/iotmap    //Py。利用neo4j进行物联网设备数据分析。
 - https://github.com/baidu/bfe    //go。百度百亿流量转发引擎
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎，对标ELK。
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
-- https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;
+- https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
 ### 移动端开发
-- https://github.com/sindresorhus/awesome-electron    //js.跨平台应用
+- https://github.com/sindresorhus/awesome-electron    //js。跨平台应用
 ## Web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
