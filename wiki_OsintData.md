@@ -78,7 +78,7 @@
 - http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
-### 地理定位库分布
+### 地理定位库
 - https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
 - https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
@@ -88,8 +88,8 @@
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
 - http://opencellid.org/    //gsm定位
 - cellidfinder.com    //Cell ID Finder
-- cellphonetrackers.org    //手机追踪器
-- https://www.suncalc.org    //根据日光影子判断时间与地理位置
+- cellphonetrackers.org    //手机定位追踪器
+- https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
 - https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
 - https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
 - https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
@@ -214,9 +214,9 @@
 ## Web信息搜集
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
 ### Web信息搜集网站
-- https://zhifeng.io/mobile/online.html    //灯塔移动端发现身边iot设备，互联网感知引擎。
-- https://www.shodan.io/    //空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;--
-- https://www.fofa.so    //白帽汇空间测绘。G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;G:/zsdevX/DarkEye;--
+- https://www.shodan.io/    //老牌空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;--
+- https://www.fofa.so    //白帽汇空间测绘。G:/zsdevX/DarkEye;G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;G:/x51/fofahelper;--
+- https://zhifeng.io/mobile/online.html    //灯塔移动端互联网感知引擎，附近iot设备发现。
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - https://dnsdumpster.com/    //子域名信息搜集。greatjob。
 - https://www.dnsdb.io    //全球DNS搜索引擎。DNS记录查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。W:securitytrails.com/;--
