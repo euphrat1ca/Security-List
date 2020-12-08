@@ -62,10 +62,10 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/ryanohoro/csbruter/    //3.10 cobaltstrike密码爆破。
 - https://github.com/WBGlIl/CS_Decrypt    //cobaltstrike通讯流量解密脚本。
 - https://github.com/theLSA/awBruter    //木马一句话爆破
-### 密码破解哈希还原
+### 密码破解还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
 - https://securityxploded.com/download.php/    //各种密码解密方向工具。
-- https://github.com/hashcat/hashcat    //C。哈希破解。
+- https://github.com/hashcat/hashcat    //C。哈希还原破解。
 - https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
 - https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端。
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash。
@@ -81,7 +81,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具
 - https://www.ru.nl/publish/pages/909282/draft-paper.pdf    //Intro。破解SSD下使用BitLocker加密
 - https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具。
-- https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密
+- https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密。
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
 - https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文。
 - https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解。
