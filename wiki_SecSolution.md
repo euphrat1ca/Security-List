@@ -72,7 +72,7 @@
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
 ### 运维手册
-- https://www.cisecurity.org/cis-benchmarks/    //CIS总结的140多种配置基准
+- https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 #### Nginx配置
@@ -129,7 +129,7 @@
 - https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
 - https://github.com/kabachook/k8s-security/    //bash,Py。Kubernetes安全集合。
-- https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具，符合```cisecurity.org/benchmark/kubernetes/```基准测试。
+- https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具，符合```cisecurity.org/benchmark/kubernetes/```基线测试。
 ### 亚马逊AWS安全相关
 - https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
