@@ -123,12 +123,10 @@
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。大灰狼gh0st的远程控制器。
 - https://github.com/xdnice/PCShare    //C++。远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
 - https://github.com/quasar/QuasarRAT/    C#。界面GUI。远程管理工具。G:/NYAN-x-CAT/AsyncRAT-C-Sharp;G:/TheSph1nx/RT-101;G:/DannyTheSloth/VanillaRat;G:/brunull/pace;--
-- https://github.com/nettitude/PoshC2    //PowerShell,C#。远控提权工具。
-- https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。
-- https://github.com/Ne0nd0g/merlin    //Go。c2通讯，多session。G:/Tiked/Client;--
 - https://github.com/Mr-Un1k0d3r/ThunderShell    //Py3。Windows下远控，CLI与web端，内存加载，RC4加密HTTP传输。
-- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，https加密。G:/whitehatnote/BlueShell //已编译;G:/FlyfishSec/rsGen;--
-- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。welljob。G:/cobbr/Covenant;--
+- https://github.com/poweradminllc/PAExec    //C++。类Psexec远程$IPC控制。G:/nettitude/PoshC2;--
+- https://github.com/lesnuages/hershell    //Go。反向TCP远程控制shell，https加密。G:/Ne0nd0g/merlin;G:/whitehatnote/BlueShell //已编译;G:/FlyfishSec/rsGen;G:/Tiked/Client;--
+- https://github.com/bats3c/shad0w    //Py,C。支持Bypass AV、网站镜像、进程注入、https加密的C2框架。welljob。G:/r3nhat/GRAT2;G:/cobbr/Covenant;--
 - https://github.com/ZHacker13/ReverseTCPShell    //PS。Windows下对tcp流量进行aes加密，增强版NC。G:/sweetsoftware/Ares;G:/5alt/ZeroRAT;--
 - https://github.com/GuestGuri/Rootkit    //Py。反弹一个tcp连接，将进程id绑定到一个空文件夹。
 - https://github.com/Ridter/MyJSRat    //Py3。利用js后门，配合chm、hta可实现很多后门方式。welljob。W:evi1cg.me/archives/chm_backdoor.html;G:/Hood3dRob1n/JSRat-Py //rundll 32加载;--
