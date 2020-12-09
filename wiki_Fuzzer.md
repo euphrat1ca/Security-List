@@ -50,6 +50,6 @@
 - https://github.com/cisco-sas/kitty    //Py。针对TCP/IP的模糊测试框架。goodjob。
 - https://kitty.readthedocs.io/en/latest/    //Intro。Python类库kittyfuzzer使用手册
 - https://github.com/cisco-sas/katnip    //Py。kitty框架拓展库。
-- https://paper.seebug.org/772/    //Intro。如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz。
+- https://paper.seebug.org/772/    //techteach。如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz。
 - https://github.com/jtpereyda/boofuzz    //Py。基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。G:/OpenRCE/sulley;G:/aflnet/aflnet;--
 - https://github.com/Cisco-Talos/mutiny-fuzzer    //Py。MikroTik基于pcap包解析的网络协议模糊测试。
