@@ -74,7 +74,7 @@
 - https://github.com/undefinedsec/VpsEnvInstall/    //测试环境一键配置脚本
 ## Windows利用工具集合
 - http://www.nirsoft.net/    //Windows工具集，密码恢复、系统管理、浏览器监控、系统调试、网络监控、Outlook调试。Goodjob。G:/BlackDiverX/cqtools;--
-- https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp - 工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
+- https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/k8gege/K8tools    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。W:k8gege.org/;P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章、工具、脚本。
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具

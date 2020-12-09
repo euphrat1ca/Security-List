@@ -45,7 +45,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
 - https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
-### 凭证扫描爆破
+### 服务密码爆破
 - https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M（解压密码Stas'M Corp）。W:stascorp.com;P:nlbrute 1.2;P:DUBrute;P:御剑RDP爆破工具v2.0;G:/7kbstorm/7kbscan-RDP-Sniper;P:Paessler SNMP Tester;--
 - https://github.com/shack2/SNETCracker    //C#。超级弱口令检查工具，支持SSH、RDP、MySQL等常见协议。
 - https://github.com/3gstudent/SharpRDPCheck    //C#。RDP爆破验证，支持ntlm登录验证。G:/najachai/RDPUploader;--
@@ -59,12 +59,13 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/galkan/crowbar    //Py。支持openvpn、rdp、ssh、vnc破解。G:/shengqi158/weak_password_detect;--
 - https://github.com/TunisianEagles/SocialBox    //针对fb、gmail、ins、twitter的用户名密码爆破的脚本.
 - https://github.com/Moham3dRiahi/XBruteForcer    //perl。WordPress、Joomla、DruPal、OpenCart、Magento等CMS爆破。
-- https://github.com/ryanohoro/csbruter/    //3.10版本cobaltstrike服务密码爆破。
+- https://github.com/ryanohoro/csbruter/    //3.10 cobaltstrike密码爆破。
+- https://github.com/WBGlIl/CS_Decrypt    //cobaltstrike通讯流量解密脚本。
 - https://github.com/theLSA/awBruter    //木马一句话爆破
-### 密码破解哈希还原
+### 密码破解还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
 - https://securityxploded.com/download.php/    //各种密码解密方向工具。
-- https://github.com/hashcat/hashcat    //C。哈希破解。
+- https://github.com/hashcat/hashcat    //C。哈希还原破解。
 - https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
 - https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端。
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash。
@@ -80,7 +81,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具
 - https://www.ru.nl/publish/pages/909282/draft-paper.pdf    //Intro。破解SSD下使用BitLocker加密
 - https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具。
-- https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密
+- https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密。
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
 - https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文。
 - https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解。
