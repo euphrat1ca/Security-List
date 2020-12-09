@@ -53,6 +53,7 @@
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
 - https://github.com/PX4/Firmware    //px4无人机飞控。
 - https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机。
+- https://www.freebuf.com/vuls/248162.html    //智能巡检无人机的一些安全思考
 ## 车联网安全
 - https://github.com/autoguard/awesome-vehicle-security-and-safety    //汽车安全paper。
 - https://github.com/jaredthecoder/awesome-vehicle-security    //车辆安全和汽车黑客的资源清单
@@ -91,6 +92,9 @@
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟 专辑|工业控制系统网络安全。工业安全系列视频。
+- https://www.freebuf.com/articles/others-articles/241236.html    //你对工控典型攻击方法了解多少？
+- https://www.freebuf.com/articles/ics-articles/251199.html    //andiSEC 工控实验箱之工控安全演示及防护建议
+- https://www.freebuf.com/articles/ics-articles/244581.html    //工控渗透框架ISF：Siemens S7-300PLC破解及防护思路
 ### ICS漏洞利用
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster //工匠安全实验室;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
