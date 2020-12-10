@@ -79,20 +79,20 @@
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 ### 地理定位库
-- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/lionsoul2014;--
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
+- https://icsmap.shodan.io/    //shodan关于工业协议分布示意图。P:/ics-radar.shodan.io;--
+- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
+- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
+- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
+- https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/Hackl0us/GeoIP-CN;G:/lionsoul2014/ip2region;--
 - https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;--
 - https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
-- https://icsmap.shodan.io/    //shodan关于ics协议分布示意图。P:/ics-radar.shodan.io;--
 - 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
 - http://opencellid.org/    //gsm定位
 - cellidfinder.com    //Cell ID Finder
 - cellphonetrackers.org    //手机定位追踪器
 - https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
-- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
-- https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
-- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
 ## 多维度情报源
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示

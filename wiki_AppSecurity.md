@@ -7,10 +7,11 @@
 - https://github.com/Lerist/FakeLocation    //安卓虚拟定位
 ### 移动测试框架
 - https://github.com/OWASP/owasp-mstg    OWASP Mobile Security Testing Guide移动安全测试资源
-- https://github.com/MobSF/Mobile-Security-Framework-MobSF    //软件自动化审计框架，支持docker运行。android、ios、win
+- https://github.com/MobSF/Mobile-Security-Framework-MobSF    //移动应用（Android / iOS / Windows）静态和动态分析测试框架。支持docker运行。
 - https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/    //Py。Runtime Mobile Security (RMS) 移动端动态测试
 - https://github.com/mwrlabs/drozer    //Py。MWR Labs开源Android 安全测试框架，支持编写自定义模块。
-- https://github.com/nccgroup/house    //JS,Py。运行时手机 App 分析工具包， 带Web GUI
+- https://github.com/nccgroup/house    //JS,Py。运行时手机 App 分析工具包。带Web GUI。
+- https://github.com/Meituan-Dianping/lyrebird    //移动端MOCK测试工作台
 ### 移动端利用框架
 - https://github.com/nettitude/scrounger    //Py。Linux下iOS和Android移动应用程序渗透测试框架
 - https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project    //移动端KaliHunter手机渗透测试系统
