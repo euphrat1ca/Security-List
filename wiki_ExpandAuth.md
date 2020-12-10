@@ -202,7 +202,7 @@
 - https://github.com/trustedsec/unicorn    //Py。一键生成多种后门。G:/n00py/Hwacha;G:/ShutdownRepo/shellerator;G:/Kkevsterrr/backdoorme;--
 - https://github.com/Screetsec/Vegile    //SHELL,C。msf免杀，程序注入。
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。2K。
-- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;G:/trustedsec/nps_payload;--
+- https://github.com/Screetsec/TheFatRat    //Java。msf免杀，利用searchsploit快速搜索。goodjob。G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;--
 ### 文件套壳加密
 - https://github.com/veracrypt/VeraCrypt    //C。2K。官网```veracrypt.fr```,类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
 - https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 加壳。
@@ -258,7 +258,7 @@ goodjob。
 - https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck    //通过查看```exe```的```manifest```查看程序执行权限，具有asInvoker highestAvailable requireAdministrator。
 - https://github.com/p3nt4/PowerShdll    //使用rundll32运行PowerShell，绕过软件限制。
 - https://github.com/tyranid/DotNetToJScript    //C#。能够利用JS/Vbs脚本加载'.Net'程序的工具。
-- https://github.com/Ben0xA/nps    //C#。实现不调用'powershell.exe'执行powershell命令。G:Mr-Un1k0d3r/PowerLessShell;--
+- https://github.com/Ben0xA/nps    //C#。实现不调用'powershell.exe'执行powershell命令。G:/trustedsec/nps_payload;G:Mr-Un1k0d3r/PowerLessShell;--
 ### 权限维持签名伪造
 - https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名

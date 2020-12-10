@@ -53,6 +53,7 @@
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
 - https://github.com/PX4/Firmware    //px4无人机飞控。
 - https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机。
+- https://www.freebuf.com/vuls/248162.html    //智能巡检无人机的一些安全思考
 ## 车联网安全
 - https://github.com/autoguard/awesome-vehicle-security-and-safety    //汽车安全paper。
 - https://github.com/jaredthecoder/awesome-vehicle-security    //车辆安全和汽车黑客的资源清单
@@ -84,14 +85,15 @@
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码。
 - https://tools.kali.org/information-gathering/snmp-check    //通过snmp协议采集设备oid信息，网管设备信息。P:snmpwalk;--
 ## ICS工业安全
-- https://github.com/ITI/ICS-Security-Tools    //ICS工业安全探索工具。
+- http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - https://dale-peterson.com/    //Digital Bond工业安全公司，```s4xevents.com```旗下S4 Events工业安全培训教程。
-- https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
+- https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;P:/author/andiSEC;--
 - https://www.yuque.com/tidesec/ics    //Tide安全团队-工控安全Wiki专题。W:plcscan.org //灯塔实验室;--
 - https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/euphrat1ca/ICSwiki;--
-- http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟 专辑|工业控制系统网络安全。工业安全系列视频。
 ### ICS漏洞利用
+- https://github.com/ITI/ICS-Security-Tools    //ICS工业安全探索工具。
+- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
 - http://www.freebuf.com/sectool/174567.html    //工业控制系统（ICS）安全专家必备的测试工具和安全资源。G:/w3h/icsmaster //工匠安全实验室;--
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs，工控漏洞POC
@@ -111,7 +113,10 @@
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。P:工控资产嗅探与分析实践;P:防追踪溯源识别联网工控设备的方法;--
 - https://www.freebuf.com/articles/ics-articles/213018.html    //一款可自定义多用途PLC设备的可用性分析。openplc使用。
 - https://www.freebuf.com/articles/ics-articles/230676.html    //西门子S7系列PLC安全防护研究。P:门子S7系列中间人攻击：流量劫持和转发（一）、PLC探测和流量分析（二）、防御和流量异常检测（三）;P:工控安全 | 西门子S7-300攻击分析;--
-- https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340。P:Suricata工控规则研究;P:Modbus安全：M340停启和流量分析;P:Modbus PLC攻击分析：Python和Mbtget读写PLC;P:Modbus PLC攻击分析：Smod渗透框架研究;P:OPC安全研究分析;
+- https://www.freebuf.com/articles/ics-articles/234845.html    //Modbus PLC攻击分析：从Modbus PollSlave到M340。P:Suricata工控规则研究;P:Modbus安全：M340停启和流量分析;P:Modbus PLC攻击分析：Python和Mbtget读写PLC;P:Modbus PLC攻击分析：Smod渗透框架研究;P:OPC安全研究分析;--
+- https://www.freebuf.com/articles/others-articles/241236.html    //你对工控典型攻击方法了解多少？
+- https://www.freebuf.com/articles/ics-articles/251199.html    //工控实验箱之工控安全演示及防护建议
+- https://www.freebuf.com/articles/ics-articles/244581.html    //工控渗透框架ISF：Siemens S7-300PLC破解及防护思路
 ### ICS资产识别
 - https://dragos.com/community-tools/    //工业网络安全公司 Dragos Inc.发布的Integrity（Sophia）被动ICS网络资产发现，Cyber​​Lens ICS数据包处理\捕获\可视化显示。
 - https://github.com/splone/splonebox-core    //C。工业控制系统的网络评估工具。G:/cisagov/cset/;--
