@@ -45,8 +45,8 @@
 - https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:/32位汇编分析调试器Ollydbg;G:/horsicq/x64dbg-Plugin-Manager;--
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳操作
+- http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。P:DetectItEasy;--
 - https://github.com/rednaga/APKiD   //Py。查找Android应用程序Yara标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
-- http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:/TUnpacker;G:/BUnpacker;G:/halfkiss/ZjDroid;--
 - https://www.jianshu.com/p/6a504c7928da    //Android常见App加固厂商脱壳方法的整理
 - https://github.com/hluwa/FRIDA-DEXDump    //py。暴力搜索 dex035，脱壳dump内存中的dex。
