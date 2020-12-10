@@ -151,7 +151,7 @@
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。6K。
 - https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    //Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
-### 多姿态远程协助
+### 多姿势远程协助
 - https://blog.csdn.net/fly_hps/category_8913900.html    //FLy_鹏程万里【基础篇】-隐匿攻击之 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy 等。
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
