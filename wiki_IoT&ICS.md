@@ -88,7 +88,7 @@
 - https://dale-peterson.com/    //Digital Bond工业安全公司，```s4xevents.com```旗下S4 Events工业安全培训教程。
 - https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;--
 - https://www.yuque.com/tidesec/ics    //Tide安全团队-工控安全Wiki专题。W:plcscan.org //灯塔实验室;--
-- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/ITI/ICS-Security-Tools;G:/euphrat1ca/ICSwiki;--
+- https://github.com/hslatman/awesome-industrial-control-system-security    //Industrial Control System (ICS) security安全集。G:/euphrat1ca/ICSwiki;--
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟 专辑|工业控制系统网络安全。工业安全系列视频。
 ### ICS漏洞利用
