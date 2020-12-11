@@ -103,12 +103,13 @@
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
 # 远程协助
+- https://www.thec2matrix.com/    //C2框架远控评测
 - https://git.coding.net/ssooking/cobaltstrike-cracked    //OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/Freakboy/CobaltStrike //源码;G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike //3.14 Malleable-C2-Profiles;--
-## C2通讯加密
-- https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections，https证书加密。
+## C2通讯框架
+- https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL/    //Bash。Meterpreter Paranoid Mode - SSL/TLS connections https证书加密。
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测。
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式。
-- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯框架。
+- https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯加密框架。
 ## 跨平台远程协助
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
 - https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。welljob,5k。
