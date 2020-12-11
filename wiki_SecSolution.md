@@ -110,7 +110,6 @@
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-- https://github.com/christophetd/IPv6teal    //Py。利用ipv6隐蔽隧道传输数据
 ## 合规审计
 - https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 ## 区块安全
