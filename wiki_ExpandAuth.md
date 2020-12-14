@@ -47,7 +47,7 @@
 - https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
 ### 横向移动协议利用
-- http://www.oxid.it/cain.html    //Cain & Abel。支持密码还原、arp攻击。NoUpdate。
+- http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(只需135无需445端口，免杀)。
