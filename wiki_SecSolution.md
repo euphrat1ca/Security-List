@@ -71,23 +71,22 @@
 ### ACL策略安全
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
-### 运维手册
-- https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
-- https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
-- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
 #### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
-### 安全基线检查
+### 基线核查运维
+- https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
-- https://github.com/Jsitech/JShielder    //linux下服务器一键加固脚本
+- https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
+- https://github.com/Jsitech/JShielder    //Linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
-- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
+- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 ### 安全测试CheckList
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目
