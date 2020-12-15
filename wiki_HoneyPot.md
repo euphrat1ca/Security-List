@@ -14,12 +14,12 @@
 - https://github.com/honeynet/beeswarm    //Py。使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web服务蜜罐
 - https://github.com/p1r06u3/opencanary_web    //Py。基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构
+- https://github.com/hacklcx/HFish    //Go。多协议低交护蜜罐。goodjob。
 - https://gitlab.com/SecurityBender/webhoneypot-framework    //Py3。基于docker和docker-compose，现支持wordpress/drupal
 - https://github.com/mushorg/snare    //Py3。web安全蜜罐，可克隆指定Web页面
 - https://github.com/netxfly/x-proxy    //Go。代理蜜罐的开发与应用实战。simple
 ### 数据库蜜罐
 - https://gitlab.com/bontchev/elasticpot    //py。Elasticsearch数据库蜜罐
-- https://github.com/hacklcs/HFish    //Go。redis\MYSQL\SSH etc 低交护蜜罐。goodjob。
 - https://github.com/codeplutos/MySQL-JDBC-Deserialization-Payload    //MySQL JDBC Deserialization Payload / MySQL客户端jdbc反序列化漏洞
 ### 供应链蜜罐
 - http://www.imooc.com/article/26398    //NodeJS应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。

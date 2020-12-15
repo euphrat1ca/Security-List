@@ -127,8 +127,9 @@
 - https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
 - https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
 ### Web应用框架
-- https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
+- https://github.com/gin-gonic/gin    //golang web 服务
 - https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
+- https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Go应用开发框架
 - https://www.djangoproject.com    //Py。完美主义者的 Deadline 终结web服务框架
 - https://www.palletsprojects.com/p/flask/    //Py。web服务微框架。
 ### 情报源获取
