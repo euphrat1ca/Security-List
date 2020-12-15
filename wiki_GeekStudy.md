@@ -147,7 +147,6 @@
 - https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    //exploit编写系列教程,10篇,后续在corelan网站上
 - http://www.securitysift.com/windows-exploit-development-part-1-basics    //Windows漏洞挖掘
 - https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu    //windbg教程
-- https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    //windbg
 - https://rootkits.xyz/blog/    //windows内核系列
 - https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation    //Windows漏洞挖掘
 - https://pwnrip.com/windows-kernel-exploitation-part-1-stack-buffer-overflows/    //windows kernel exploit

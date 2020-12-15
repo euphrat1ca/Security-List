@@ -104,7 +104,6 @@
 - https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
 ## Web框架
 - http://www.bt.cn    //宝塔网站管理系统
-- https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
 - https://github.com/fex-team/webuploader    //JS。文件上传框架。
 - https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端/设计解决方案
 ### 移动端开发

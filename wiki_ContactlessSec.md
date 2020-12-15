@@ -69,7 +69,7 @@
 - https://github.com/cls1991/ng    //Py。获取你当前连接wifi的密码与ip。
 - http://www.rt68.cn/    //小林无线在线握手跑包。
 - https://cn.elcomsoft.com/ewsa.html    //ewsa，wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3。
-- https://www.passcape.com    //wifipr，握手包密码还原，另外还有windows下密码还原工具。商业版。
+- https://www.passcape.com    //wifipr 握手包密码还原，另外还有windows下密码还原工具。商业版。
 ### WIFI网络审计
 - https://github.com/aircrack-ng/aircrack-ng    //C。由数据包嗅探器、检测器、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具组成。1k。
 - http://topspeedsnail.com    //常见的wifi破解、网站扫描技术演示。
@@ -82,10 +82,4 @@
 - https//www.zimperium.com/zanti-mobile-penetration-testing    //移动端wifi渗透工具。G:/chrisk44/Hijacker;--
 - https://github.com/wi-fi-analyzer/fluxion    //窃取用户wifi密码的进行密码重放攻击。G:/0v3rl0w/e013;--
 - https://github.com/t6x/reaver-wps-fork-t6x    //常见wifi攻击wps跑pin码攻击。
-- https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT硬件设备的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由。
-### WIFI网络防御
-- https://github.com/SkypLabs/probequest    //嗅探和显示无线网卡附近的Wifi Probe请求。
-- https://github.com/wangshub/hmpa-pi    //在树莓派或路由，利用 Wireshark 分析附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒。
-- https://github.com/besimaltnok/PiFinger    //检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点。
-- https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测。
-- https://github.com/SYWorks/waidps    //Py。Linux下WiFi网络安全预警工具。
+- https://github.com/tomacwrt/tomacwrt.github.io    //基于OpenWRT硬件设备的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由

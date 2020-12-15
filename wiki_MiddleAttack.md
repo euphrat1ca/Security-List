@@ -2,7 +2,7 @@
 - https://github.com/Ettercap/ettercap    //C。Linux下网络中间人攻击欺骗。
 - https://github.com/bettercap/bettercap    //Go。中间人欺骗，网络攻击以及监控的瑞士军刀。该工具支持多种模块，比如中间人钓鱼框架、ARP/DNS欺骗、TCP以及数据包代理等。GREATJOB。
 - https://github.com/Binject/backdoorfactory    //Go。bettercap的二次开发拓展，用于将shellcode插入到网络上所有类型的二进制文件中。G:/secretsquirrel/the-backdoor-factory;--
-- https://github.com/mitmproxy/mitmproxy    //Py。中间人攻击，支持SSL拦截，进行https流量代理。greatjob。15k。
+- https://github.com/mitmproxy/mitmproxy    //Py。中间人攻击SSL拦截https流量代理。greatjob。15k。
 - https://github.com/qiyeboy/BaseProxy    //Py3。异步http/https代理，楼上简化版。可以作为中间人工具，比如说替换网址图片等
 - https://github.com/LionSec/xerosploit    //中间人攻击测试工具包
 - https://github.com/infobyte/evilgrade    //一个模块化的脚本框架，使攻击者在不知情的情况下将恶意更新注入到用户更新中
