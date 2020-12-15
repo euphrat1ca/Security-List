@@ -12,12 +12,17 @@
 ### 区块矿机
 - https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工
 ## 编程相关
-### 语言技术栈
+### 编辑器IDE
+- https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
+- https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。goodjob。
+- https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器。
+- https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
+### 小众语言栈
 - https://github.com/rust-lang/rust    //静态语言。
 - https://nim-lang.org/    //静态语言。G:/nim-lang/Nim;---
 ### 编程调试
 - https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
-### 程序功能模块库
+### 功能模块库
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 - https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
 - https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
@@ -25,18 +30,14 @@
 ### 游戏框架
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
-### 编辑器IDE
-- https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
-- https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。1k。goodjob。
-- https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器
 ### Golang开发
 - https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/。
-- https://goproxy.io/zh/    //goroxy，加载国内库源快速。W:goproxy.cn/;--
+- https://goproxy.io/zh/    //go镜像源国内库加速。W:goproxy.cn/;--
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
 - https://github.com/qcrao/Go-Questions    //Go 语言学习入门和进阶知识（从问题切入）。
 - https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
-- https://github.com/halfrost/LeetCode-Go    //leetcode用go实现
+- https://github.com/halfrost/LeetCode-Go    //go leetcode
 - https://github.com/netxfly/x-crack    //go。端口扫描爆破工具开发。goodjob。
 ### Java开发
 - https://sdkman.io/    //Java jdk版本控制。
@@ -51,24 +52,24 @@
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
-- https://github.com/microsoft/playwright-python    //Python 自动化依赖库，操作浏览器模拟脚本会自动生成。
-### 无头浏览器
-- https://github.com/SeleniumHQ/selenium    //Web headless浏览器自动化测试。
+- https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。
+### 浏览器模拟
+- https://github.com/SeleniumHQ/selenium    //Web headless无头浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
 - https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
 - http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
-### 语言集
-- https://github.com/fxsjy/jieba    //Py。结巴中文分词
-- https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
-- https://github.com/lancopku/PKUSeg-python    //Py3。北大中文分词
-- https://github.com//chinese-poetry/chinese-poetry    //Py。中华最全诗词库数据
-## 机器学习
+## 深度学习
 - https://visualgo.net/    //算法库
 - https://github.com/google-research/bert    //Py。谷歌研究院最强NLP运算模型
 - https://paperswithcode.com/sota    //机器学习具体项目、演示、代码
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
+### 语言集练习
+- https://github.com/fxsjy/jieba    //Py。结巴中文分词
+- https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
+- https://github.com/lancopku/PKUSeg-python    //Py3。北大中文分词
+- https://github.com//chinese-poetry/chinese-poetry    //Py。中华最全诗词库数据
 ### 图像分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
 - https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
@@ -101,13 +102,13 @@
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎，对标ELK。
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
 - https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
-### 移动端开发
-- https://github.com/sindresorhus/awesome-electron    //js。跨平台应用
 ## Web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
 - https://github.com/fex-team/webuploader    //JS。文件上传框架。
 - https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端/设计解决方案
+### 移动端开发
+- https://github.com/sindresorhus/awesome-electron    //js。跨平台应用
 ### 数据图形化展示
 - https://github.com/bokeh/bokeh    //Py。WebGui展示。11k。
 ## 网络通讯请求

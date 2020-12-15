@@ -33,7 +33,6 @@
 - https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
 - https://github.com/cldrn/nmap-nse-scripts    //NSE收集列表
 - https://github.com/vulnersCom/nmap-vulners    //使用nmap扫描常见的服务漏洞
-- https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
 - https://github.com/m4ll0k/AutoNSE    //NSE自动化利用
 - https://github.com/vulnersCom/nmap-vulners    //Lua。NSE利用 Vulners.com API将相关漏洞信息评分返回
 - https://github.com/Rvn0xsy/nse_vuln    //Nmap扫描漏洞利用脚本。tomcat任意文件上传漏洞CVE-2017-12615、weblogic、http（CVE-2017-12615/CNVD-C-2019-4814/CVE-2018-2894）
@@ -67,7 +66,7 @@
 - https://github.com/x364e3ab6/AWVS-13-SCAN-PLUS    //AWVS桌面版。
 - https://github.com/gatlindada/awvs-decode/    //15行代码解码awvs插件解密。G:/fnmsd/awvs_script_decode;
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version    //JS。awvs11汉化包
-- https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描，发现web环境下常规的一些安全漏洞
+- https://github.com/grayddq/PublicSecScan    //Py。调用awvsAPI对WEB资产进行分布式WEB安全扫描
 ## Sqlmap拓展插件相关工具
 - https://github.com/codewatchorg/sqlipy    //burp与sqlmap联动插件
 - https://github.com/RicterZ/websocket-injection    //Py3。WebSocket 中转注入工具

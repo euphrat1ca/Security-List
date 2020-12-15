@@ -6,11 +6,11 @@
 - https://github.com/slimm609/checksec.sh    //bash脚本，用于检查可执行文件的属性。goodjob。
 ## 反调试检测
 - https://github.com/LloydLabs/wsb-detect    //C。检测是否为Windows沙盒。
-### 终端防护检测
-- https://github.com/gh0stkey/avList    //杀软进程对应杀软名称。G:/r00tSe7en/get_AV;--
-- https://github.com/PwnDexter/SharpEDRChecker    //检查当前程序进程种杀软等防护软件列表。G:/PwnDexter/Invoke-EDRChecker;--
-- https://github.com/uknowsec/SharpAVKB    //Windows杀软列表对比和补丁号对比。G:/Ch1ngg/GetWindowsKernelExploitsKB;--
-- https://github.com/3had0w/Antivirus-detection    //cobaltstrike插件。检测当前进程并对杀软进行标注。G:/ars3n11/Aggressor-Scripts;--
+### 防护软件列表
+- https://github.com/gh0stkey/avList    //杀软列表。G:/r00tSe7en/get_AV;--
+- https://github.com/3had0w/Antivirus-detection    //cobaltstrike插件。检测杀软进程对应杀软名称标注。G:/ars3n11/Aggressor-Scripts;--
+- https://github.com/uknowsec/SharpAVKB    //Windows杀软进程、补丁号列表。G:/Ch1ngg/GetWindowsKernelExploitsKB;--
+- https://github.com/PwnDexter/SharpEDRChecker    //杀毒软件AV、终端防护EDR、日志记录工具等防护软件列表。G:/PwnDexter/Invoke-EDRChecker;--
 ### 程序调试管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用游戏魔改更佳。
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。

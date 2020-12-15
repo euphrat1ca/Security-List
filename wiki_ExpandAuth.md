@@ -36,26 +36,40 @@
 - https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
 ## 横向移动
+- http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp利用，远程启动shell，清除痕迹。
+- https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob。
+- https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
+- https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
+- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
+### 横向协议利用
 - https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket用于处理网络协议、凭证移动利用。内网提权“wmiexec.py”，NMB、SMB1-3、MS-DCERPC等协议本身的低级别编程访问，凭证导出“secretsdump.py”。testjob,4K。
 - https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版，凭证传递。
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
-- https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob,3K。
-- https://github.com/G0ldenGunSec/SharpSecDump    //C#。远程SAM + LSA转储
-- https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
-- https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
-### 横向移动协议利用
-- http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
-- https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递，wmi移动。
+- https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递wmi移动。
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(只需135无需445端口，免杀)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://github.com/Kevin-Robertson/Inveigh    //PS。LLMNR/mDNS/NBNS欺骗器。
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
-- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
-- https://github.com/GhostPack/Rubeus    //C#。操作Kerberos的库， 实现了Kekeo的大部分功能。G:/gentilkiwi/kekeo PTK(Pass the ticket);--
+- https://github.com/Mr-Un1k0d3r/SCShell    //跨平台基于ChangeServiceConfigA远程调用无文件横向移动工具。goodjob。
+- https://github.com/GhostPack/Rubeus    //C#。Kerberos功能库。G:/gentilkiwi/kekeo //PTK(Pass the ticket);--
+### 横向Windows凭证窃取
+- https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。win下V2.4相较于V2.3抓取到的内容会少一些。greatjob。
+- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码利用DPAPI破解升级版 需要windows user密码。
+- https://github.com/putterpanda/mimikittenz    //PS。类Lazagne架构密钥抓取，利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--
+- https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取 hash dump，不用注入任何进程。已编译。G:/twelvesec/passcat;--
+- https://github.com/G0ldenGunSec/SharpSecDump    //C#。远程SAM + LSA转储。
+- https://github.com/moonD4rk/HackBrowserData    //Golang。跨平台浏览器密码、历史记录、书签、cookie抓取。goodjob。G:/QAX-A-Team/BrowserGhost;G:/hayasec/360SafeBrowsergetpass;--
+- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
+- https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
+- https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。GOODJOB。G:/z1Ro0/get_TeamViewer_ID_Password;--
+### 横向Linux凭证窃取
+- https://github.com/huntergregal/mimipenguin    //C。Linux密码抓取。
+- https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
+- https://github.com/mthbernardes/sshLooter    //ssh服务用户名密码窃取。
 ### 横向Windows凭证利用
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://www.freebuf.com/articles/web/176796.html    //TechTeach。九种姿势运行Mimikatz
@@ -75,30 +89,17 @@
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //Py。构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //Intro。Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - 渗透技巧——Pass the Hash with Exchange Web Service/    //利用exchange web服务进行哈希传递。
-### 横向密钥抓取
-- https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。在win下，V2.4相较于V2.3抓取到的内容会少一些。greatjob,5k。
-- https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码利用DPAPI破解升级版，需要windows user密码。
-- https://github.com/putterpanda/mimikittenz    //PS。类lazagne架构获取用户密码，利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--
-- https://github.com/moonD4rk/HackBrowserData    //Golang。跨平台浏览器密码、历史记录、书签、cookie抓取。goodjob。G:/QAX-A-Team/BrowserGhost;G:/hayasec/360SafeBrowsergetpass;--
-- https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
-- https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
-- https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取、hash dump，不用注入任何进程。已编译。
-- https://github.com/twelvesec/passcat    //C。Windows下密码抓取工具。
-- https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。GOODJOB。G:/z1Ro0/get_TeamViewer_ID_Password;--
-- https://github.com/huntergregal/mimipenguin    //C。linux密码抓取。
-- https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
-- https://github.com/mthbernardes/sshLooter    //从ssh服务中窃取用户名密码。
-## 提权技巧相关
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //提权相关漏洞。myWiki
+## 提权技巧利用
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //相关提权漏洞。myWiki
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite    //hacktricks提权技巧总结。
-- https://github.com/AlessandroZ/BeRoot    //Py。通过检查常见的错误配置来查找提权方法，支持Windows/Linux/Mac
-### Windows利用手段
+- https://github.com/AlessandroZ/BeRoot    //Py。错误配置提权 Windows/Linux/Mac跨平台。
+### Windows提权手段
 - http://www.fuzzysecurity.com/tutorials/16.html    //windows平台教程级提权参考文章
 - 公众号：微软不认的“0day”之域内本地提权-烂番茄（Rotten Tomato）
 - https://github.com/DanMcInerney/icebreaker    //处于内网环境但又在AD环境之外，icebreaker将会帮助你获取明文Active Directory凭据（活动目录存储在域控服务器可用于提权）
 - https://github.com/bitsadmin/wesng    //Py。WES-NG，全称为Windows ExploitSuggester - Next Generation，该工具的运行基于Windows systeminfo实用工具的输出，可以给用户提供目标操作系统可能存在的漏洞列表，并针对这些漏洞给出漏洞利用实施建议。该工具的适用系统范围从Windows XP到Windows 10，还包括Windows Server等服务器/工作站版本。1k。
 - https://github.com/rasta-mouse/Watson    //C#。查找Windows 10 & Server 2016 & 2019未打补丁。G:rasta-mouse/Sherlock;--
-### Linux利用手段
+### Linux提权手段
 - https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:/linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:/belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
@@ -133,13 +134,12 @@
 - https://github.com/reidmefirst/Modshaft    //Py2。利用modbus协议封装命令绕过防火墙。
 ## 跨平台远程协助
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
-- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台，多session。welljob,5k。
-- https://github.com/nathanlopez/Stitch    //Py。Windows、Mac OSX、Linux跨平台。welljob。1k。G:/vesche/basicRAT;--
-- https://github.com/ThatcherDev/BetterBackdoor     //Java。基于jre环境的跨平台后门，支持键盘注入功能。testjob。G:/BlackHacker511/BlackRAT;--
+- https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台多session。welljob。G:/nathanlopez/Stitch;G:/vesche/basicRAT;--
 - https://github.com/its-a-feature/Mythic    //Py。Linux下跨平台远控。goodjob。
+- https://github.com/cbrnrd/Kumo    //Java。基于jre环境的跨平台后门，一键编译界面GUI。G:/ThatcherDev/BetterBackdoor;G:/BlackHacker511/BlackRAT;--
+- https://github.com/zerosum0x0/koadic    //Py3。基于JScript/VBScript的大宝剑远控，多版本系统支持内存加载shell。GOODJOB。G:/shelld3v/JSshell/;--
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;G:/sameera-madushan/Print-My-Shell;--
 - https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
-- https://github.com/zerosum0x0/koadic    //Py3。基于JScript/VBScript的大宝剑远控，多版本系统支持内存加载shell。GOODJOB。G:/shelld3v/JSshell/;--
 ### Windows远程协助
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
 - https://github.com/yuanyuanxiang/SimpleRemoter    //C++,C。大灰狼gh0st的远程控制器。
