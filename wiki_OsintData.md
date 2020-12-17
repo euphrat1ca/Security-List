@@ -1,4 +1,61 @@
-# 开源情报数据源分析
+# 信息源
+- https://www.wilderssecurity.com/    //国际安全论坛。goodjob。
+- http://blog.nsfocus.net/    //绿盟博客。安全运营；技术方法论；译文分享。goodjob。
+- https://www.sans.org/blog/    //红蓝紫、取证、工业网络、审计、开发 博客。goodjob。
+- https://xz.aliyun.com/    //先知社区。P:freebuf.com;P:t00ls.net;--
+- https://googleprojectzero.blogspot.com    //谷歌博客 Google Project Zero。二进制。
+## 信息流导航站
+- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
+- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
+### 信息收藏夹
+- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
+- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
+- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;--
+- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
+- https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
+- https://github.com/k4m4/movies-for-hackers    //安全相关电影
+- https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
+### Blog社区
+- https://www.52pojie.cn/    //吾爱破解逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;W:malwareanalysis.cn;--
+- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;
+- www.lshack.cn    //工控安全入门基础
+
+## 安全新闻源
+- https://www.fireeye.com/blog.html    //火眼
+- https://news.sophos.com/en-us/    //防火墙、EDR厂家
+- https://cyberx-labs.com/blog/apts-malware-vulns/    //工业安全事件
+- https://www.dragos.com/events/    //德拉戈斯安全公司ICS资源。P:whitepaper;--
+- https://thehackernews.com/    //安全新闻源
+- https://www.wired.com/    //网络新闻源
+- https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
+- https://www.zdnet.com/rssfeeds/    //安全新闻
+
+### 漏洞信息预警
+- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
+- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库。
+- https://us-cert.cisa.gov/ncas/bulletins    //美国漏洞总结报告
+- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
+- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
+- https://us-cert.cisa.gov/ics/alerts    //美国工业漏洞预警。RSS:/ics/alerts/alerts.xml;P:/ics/advisories;--
+- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
+- http://ivd.winicssec.com/    //威努特工控漏洞库
+- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
+- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
+- http://www.exphub.org/    //chamd5 ICS安全情报平台
+
+### 工业事件源
+- 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
+- https://roboticsandautomationnews.com/    //工业新闻媒体 Robotics&Automation
+- https://www.securityweek.com/scada-ics    //工业安全新闻
+- https://securityaffairs.co/wordpress/category/ics-scada    //工业安全新闻。W:twitter.com/securityaffairs;--
+### 物联网事件源
+- 物联网关键词：IOT/Car Can/Drone
+- https://www.securityweek.com/iot-security    //物联网安全
+### 信息文件库
+- https://www.techrepublic.com/    //网络安全白皮书
+- http://www.vipread.com/    //信息安全知识库
+
+# 开源情报分析
 - https://github.com/BuzzFeedNews    //网络数据集集合
 - https://www.start.umd.edu/gtd/    //全球恐怖主义动向数据库官网
 - https://data.mendeley.com/    //门德利数据集
@@ -14,57 +71,6 @@
 - https://fas.org/irp/doddir/army/atp2-22-9.pdf/    //美国陆军开源情报2012版
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
-## 事件信息源
-- https://www.wilderssecurity.com/    //类t00ls国际安全论坛。goodjob。
-- https://www.sans.org/blog/    //红蓝紫、取证、工业网络、审计、开发 博客。goodjob。
-- https://thehackernews.com/    //安全新闻源
-- https://www.wired.com/    //网络新闻源
-- https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
-- https://www.zdnet.com/rssfeeds/    //安全新闻
-### 漏洞信息预警
-- https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
-- https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库。
-- https://us-cert.cisa.gov/ncas/bulletins    //美国漏洞总结报告
-- https://nvd.nist.gov/vuln/search    //美国信息安全漏洞库
-- https://exchange.xforce.ibmcloud.com    //IBM exchange漏洞库
-- https://us-cert.cisa.gov/ics/alerts    //美国工业漏洞预警。RSS:/ics/alerts/alerts.xml;P:/ics/advisories;--
-- http://cve.scap.org.cn/view/ics    //CVE中文工控漏洞库
-- http://ivd.winicssec.com/    //威努特工控漏洞库
-- http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
-- https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
-- http://www.exphub.org/    //chamd5 ICS安全情报平台
-### 工业事件源
-- 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
-- https://roboticsandautomationnews.com/    //工业新闻媒体 Robotics&Automation
-- https://www.securityweek.com/scada-ics    //工业安全新闻
-- https://securityaffairs.co/wordpress/category/ics-scada    //工业安全新闻。W:twitter.com/securityaffairs;--
-### 物联网事件源
-- 物联网关键词：IOT/Car Can/Drone
-- https://www.securityweek.com/iot-security    //物联网安全
-### 安全公司新闻源
-- https://www.fireeye.com/blog.html    //火眼
-- https://news.sophos.com/en-us/    //防火墙、EDR厂家
-- https://cyberx-labs.com/blog/apts-malware-vulns/    //工业安全事件
-- https://www.dragos.com/events/    //德拉戈斯安全公司ICS资源。P:whitepaper;--
-### 信息文件库
-- https://www.techrepublic.com/    //网络安全白皮书
-- http://www.vipread.com/    //信息安全知识库
-## 信息导航站
-### 信息流
-- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
-- https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
-### 收藏夹
-- https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
-- https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
-- https://github.com/zhengjim/Chinese-Security-RSS/    //国内安全资讯的RSS地址。W:secrss.com;--
-- https://start.me    //数据聚合平台。P:/p/X20Apn;P:/p/GE7JQb/osint;P:/p/rxRbpo/ti;--
-- https://www.shentoushi.top/    //安全导航。W:sec.thief.one;--
-- https://github.com/k4m4/movies-for-hackers    //安全相关电影
-- https://www.youtube.com/c/SamyKamkar/videos    //极客Samy Kamkar
-### Blog社区
-- https://www.52pojie.cn/    //吾爱破解逆向安全。W:bbs.125.la/ //精易求精;W:520monkey.com;W:scz.617.cn:8/network/;W:malwareanalysis.cn;--
-- http://blog.leanote.com/snowming    //红队博客。W:lcx.cc //NuclearAtk核总;W:blog.orange.tw //橘子出品必属精品;W:cnblogs.com/ssooking;W:3gstudent.github.io;W:wolvez.club/;--
-- https://www.lshack.cn    //工控安全入门
 ## 数据情报分析
 - http://pandas.pydata.org    //数据分析
 - https://github.com/r0f1/datascience    //大数据分析功能库推荐

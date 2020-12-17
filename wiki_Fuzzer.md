@@ -1,5 +1,4 @@
 # 漏洞发掘分析
-- https://googleprojectzero.blogspot.com    //谷歌Google Project Zero博客
 - https://github.com/ngalongc/bug-bounty-reference    //漏洞挖掘write-up
 - https://github.com/1hack0/bug-bounty-101    //挖洞技术手册
 - https://github.com/writeups/ios    //ios漏洞writeup笔记

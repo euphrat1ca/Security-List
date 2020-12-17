@@ -8,12 +8,12 @@
 
 分类标签：mywiki;教程TechTeach;介绍intro;使用手册;通讯技术;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;移动安全;数字取证;权限拓展;模糊测试;极客学习;万物互联;情报研判;工具插件;安全防护;<br>
 类型标签：一个人的安全部;Awesome系列;类似于xx架构;对比于;<br>
-导航标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:\Web:\Page:\Connect 等常见缩写;<br>
-状态标签：Simple;NoUpdate;商业版;免费版;社区版;<br>
-测评标签：testjob（即将测试）;welljob（表现良好）;goodjob（性能稳定）;greatjob（行业标杆）;<br>
+导航标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:;Web:;Page:;Connect:;等缩写;<br>
+状态标签：NoUpdate;商业版;免费版;社区版;<br>
+测评标签：testjob（即将测试）;Simple（基础模块）；welljob（表现良好）;goodjob（性能稳定）;greatjob（行业标杆）;<br>
 
 # 解决方案
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecSolution.md    //安全建设、安全运营等解决方案。mywiki。
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SecSolution.md    //安全建设 安全运营 解决方案。mywiki。
 # 模糊测试
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_Fuzzer.md    //Fuzzer模糊测试漏洞挖掘。mywiki。
 # 安全防御体系
