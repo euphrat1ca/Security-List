@@ -1,11 +1,11 @@
 ***项目简介***
-根据中华人民共和国《网络安全法》相关政策规定，本文章只做学习测试，不被允许通过本文章技术手段进行非法行为，使用技术的风险由您自行承担(The author does not assume any legal responsibility)
 
-&emsp;&emsp;一个 Red Team 攻击的生命周期，整个生命周期包括：信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、在所有攻击结束之后清理并退出战场（扫尾）。
-&emsp;&emsp;https://github.com/euphrat1ca/security_w1k1 //Have to say,the index is in my mind
+&emsp;&emsp;根据中华人民共和国《网络安全法》相关政策规定，本文章只做学习研究，不被允许通过本文章内容进行非法行为，使用技术的风险由使用者自行承担。(The author does not assume any legal responsibility)
 
-&emsp;&emsp;几千行的项目在查阅、索引时有点过于庞大，于是在第两百次更新的时候，选择把一些更新换代较为频繁的内容划分成单独分类。情况如下：
+&emsp;&emsp;整个 Red Team 攻击的生命周期包括但不限于：信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、持久化控制（在这个基础上做信息数据分析）、清理痕迹（攻击结束之后扫尾清理并退出战场）
 
+- https://github.com/euphrat1ca/security_w1k1 //Have to say The index is in my mind 几千行的项目在查阅、索引时，有点过于庞大，于是在第两百次更新的时候，选择把一些更新较为频繁的内容单独分类划分。
+- 具体情况如下---><br>
 分类标签：mywiki;教程TechTeach;介绍intro;使用手册;通讯技术;威胁情报;恶意样本;自服务应用;研究技术;漏洞利用;Web安全;移动安全;数字取证;权限拓展;模糊测试;极客学习;万物互联;情报研判;工具插件;安全防护;<br>
 类型标签：一个人的安全部;Awesome系列;类似于xx架构;对比于;<br>
 导航标签：模拟测试;Kali系统类;ATT&CK矩阵类;作者拼音;Github:;Web:;Page:;Connect:;等缩写;<br>
