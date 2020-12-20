@@ -25,6 +25,8 @@
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //Intro。AFL使用指南。
 - https://github.com/google/oss-fuzz    //C。谷歌对开源项目的进行免费的模糊测试服务
 - https://github.com/bunzen/pySSDeep    //Py。一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:/glaslos/ssdeep;G:/ssdeep-project/ssdeep;--
+### 文件模糊测试
+- https://github.com/googleprojectzero/Jackalope    //C++。基于覆盖率指导的Windows macOS的二进制模糊工具
 ### 系统模糊测试
 - https://github.com/mxmssh/drAFL    //C。Linux系统模糊测试。G:/atrosinenko/kbdysch;G:/google/oss-fuzz;--
 - https://github.com/googleprojectzero/winafl    //C。Google Project Zero 基于Windows AFL开发的模糊测试框架。P:阿尔法实验室-AFL漏洞挖掘技术漫谈;--
@@ -53,3 +55,9 @@
 - https://paper.seebug.org/772/    //techteach。如何使用 KittyFuzzer 结合 ISF 中的工控协议组件对工控协议进行 Fuzz。
 - https://github.com/jtpereyda/boofuzz    //Py。基于OpenRCE/sulley框架二次开发的网络协议fuzz测试。G:/OpenRCE/sulley;G:/aflnet/aflnet;--
 - https://github.com/Cisco-Talos/mutiny-fuzzer    //Py。MikroTik基于pcap包解析的网络协议模糊测试。
+
+## 自动化测试
+- https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
+- https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
+- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
+- https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。

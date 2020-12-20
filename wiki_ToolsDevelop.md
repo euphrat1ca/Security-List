@@ -12,11 +12,12 @@
 - https://github.com/lyxhh/lxhToolHTTPDecrypt/    //Js。Android/iOS协议分析利用
 - https://github.com/mr-m0nst3r/Burpy    //Web端JS加密算法调试解密
 - https://github.com/c0ny1/jsEncrypter    //Web前端加密协议Fuzz爆破
-### burp绕过
+### burp防护绕过
 - https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造。
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问
 - https://github.com/nccgroup/BurpSuiteHTTPSmuggler    //使用几种技巧绕过WAF
 - https://github.com/c0ny1/chunked-coding-converter    //用于http传送过程的分块技术，可绕WAF等防护设备。
+- https://github.com/0xC01DF00D/Collabfiltrator    //利用DNS传输远程代码执行结果。
 ### burp利用探测
 - https://github.com/m4ll0k/BurpSuite-Secret_Finder    //在http请求中扫描 api key/tokens
 - https://github.com/nccgroup/argumentinjectionhammer    //识别参数注入漏洞

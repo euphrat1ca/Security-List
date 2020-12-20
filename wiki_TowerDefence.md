@@ -1,31 +1,6 @@
-# 安全体系防御
-- https://shield.mitre.org/attack_mapping/    //ATT&CK主动防御图谱。引导-收集-遏制-检测-扰乱-促进-合法化-实验测试
-- https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
+# 系统防御体系
 - https://github.com/baidu/AdvBox    //Advbox是支持多种深度学习平台的AI模型安全工具箱，既支持白盒和黑盒算法生成对抗样本，衡量AI模型鲁棒性，也支持常见的防御算法
 - https://github.com/OWASP/SecureTea-Project    //当有人私自触碰电脑鼠标或触摸板，进行报警
-## 安全防护建设
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
-- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
-### 负载均衡建设
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
-### DNS防护建设
-- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
-- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap_DNSProxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
-### 邮件网关建设
-- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
-- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
-### DLP建设
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-### 安全防护管理
-- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
-- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
-### 接口管理
-- https://github.com/openitsystem/itops    //PY3,DJANGo。AD\Exchange管理系统。
-- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
-### 登录管理
-- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机
-- https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
 ## 系统管理
 - https://docs.microsoft.com/zh-cn/sysinternals/    //微软系统管理组件套，autorun（自启动）、Process Explorer（进程管理定位加强）、procmon、procdump、sqldumper（监控应用程序CPU异常动向, 异常时生成crash dump文件）、Process Monitor。G:/microsoft/ProcDump-for-Linux;--
 - https://bitsum.com/    //系统优化工具，主要功能是基于其特别的算法动态调整各个进程优先级以实现为系统减负的目的，可用来监视进程动作。
@@ -38,6 +13,7 @@
 ### 系统注册表管理
 - https://sourceforge.net/projects/regshot/    //Regshot是注册表比较工具，通过抓取两次注册表快速比较得出两次注册表的不同之处。
 ### 系统进程监控
+- https://github.com/unknownv2/CoreHook    //C#。基于.NET Core运行时实现的Windows HOOK库
 - http://www.xuetr.com/    //PC Hunter是一个驱动级的系统维护工具，能够查看各种Windows的各类底层系统信息，包括进程、驱动模块、内核、内核钩子、应用层钩子，网络、注册表、文件、启动项、系统杂项、电脑体检等。pchunter。P:/火绒剑系统管理;--
 - https://github.com/mohuihui/antispy    //C,C++。枚举32位系统中隐藏至深的进程、文件、网络连接、内核对象等，并且也可以检测用户态、内核态钩子.
 - https://github.com/draios/sysdig    //C++。系统活动监控，捕获和分析应用程序。它具有强大的过滤语言和可自定义的输出，以及可以使用称为chisels 的Lua脚本扩展的核心功能。goodjob,6k。W:sysdig.com;--
@@ -67,6 +43,7 @@
 - https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。公众号:打造MITRE ATT&CK矩阵检测规则edr系统;G:/ion-storm/sysmon-config;--
 - https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。
 - https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
+
 ## 流量协议分析
 - https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //公众号：攻守道—流量分析的刀光剑影。wireshark操作指令。
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
@@ -82,6 +59,7 @@
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer Linux网络分析器。pcap捕获和重放工具，trafgen数据包生成压测。
+
 ## 网络威胁防御
 ### 混淆加密检测
 - https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）

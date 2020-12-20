@@ -10,7 +10,7 @@
 - https://github.com/uknowsec/keylogger    //Go。OSS回传键盘记录。G:/mehulj94/Radium-Keylogger;--
 - https://www.snapfiles.com/get/antikeyloggertester.html    //Windows客户端键盘记录工具AKLT。
 - https://github.com/clymb3r/Misc-Windows-Hacking    //VS2019MFC编译工程。基于LSA调用PasswordFileter检查密码复杂性、调用PasswordChangeNotify同步密码，通过管理员权限DLL注入内存记录密码内容，通过修改`HookPasswordChange.cpp代码132行`修改输出路径。
-- https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风监控键盘输入测试输入值。
+- https://github.com/ggerganov/kbd-audio    //C++。Linux下利用麦克风捕获键盘输入，分析输入内容。goodjob。
 - https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS进行键盘记录。
 ### 社工库查询
 - https://github.com/kallydev/privacy    //数据结构化查询。

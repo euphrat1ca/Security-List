@@ -29,7 +29,6 @@
 - https://www.wired.com/    //网络新闻源
 - https://feeds.feedburner.com/TheHackersNews    //安全新闻。P:/securityweek/;--
 - https://www.zdnet.com/rssfeeds/    //安全新闻
-
 ### 漏洞信息预警
 - https://github.com/CVEProject/cvelist    //Json格式的漏洞信息库，cvedetails.com。
 - https://cve.mitre.org/cve/search_cve_list.html    //美国MITRE公司维护的CVE漏洞库。
@@ -42,7 +41,6 @@
 - http://www.nsfocus.net/index.php?act=sec_bug    //绿盟漏洞库，含工控
 - https://www.cnvd.org.cn/flaw/list.htm    //中国漏洞库，按行业划分'telecom电信,mi移动,ics工控'。
 - http://www.exphub.org/    //chamd5 ICS安全情报平台
-
 ### 工业事件源
 - 工业关键词：Industrial Control Systems/ICS/SCADA/PLC/DCS/HMI
 - https://roboticsandautomationnews.com/    //工业新闻媒体 Robotics&Automation
@@ -71,7 +69,7 @@
 - https://fas.org/irp/doddir/army/atp2-22-9.pdf/    //美国陆军开源情报2012版
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
-## 数据情报分析
+## 开源数据分析
 - http://pandas.pydata.org    //数据分析
 - https://github.com/r0f1/datascience    //大数据分析功能库推荐
 - https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
@@ -99,6 +97,7 @@
 - cellidfinder.com    //Cell ID Finder
 - cellphonetrackers.org    //手机定位追踪器
 - https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
+
 ## 多维度情报源
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
@@ -137,8 +136,14 @@
 - https://pan-unit42.github.io/playbook_viewer/    //针对apt组织的威胁情报汇总
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
+
 ## 情报人员开源工具
-### 事实真相
+### 情报手册
+- https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《Combat Intelligence》（战斗情报）
+- https://www.academia.edu/16427338/Field_Manual_30-5_Combat_Intelligence_1951?auto=download    //《Field Manual 30-5, Combat Intelligence 1951》（野战手册30-5，战斗情报1951）
+- https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《KUBARK反间谍审讯》手册
+- https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf/    //CIA官网《Simple Sabotage Field Manual》 手册
+### 事实真相验证
 - https://hoaxy.iuni.iu.edu/faq.html    //在线数据可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
 - https://www.politifact.com/    //新闻事实检查，使用评级量表对记者，政治人物和其他人的言论进行可信度评级
@@ -162,7 +167,8 @@
 - https://www.marinetraffic.com/en/ais/home/centerx:5.4/centery:50.8/zoom:2    //全球船舶跟踪情报
 - https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    //美国联邦航空管理局（FAA）注册的所有飞机的登记册
 - https://www.nicb.org/vincheck    //美国保险公司被盗车辆查询
-# OSINT信息搜集利用
+
+# OSINT信息搜集
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    //OSINT Cheat Sheet信息收集技巧
 - https://www.maltego.com/downloads/    //Java。多维度信息收集，支持扩展不同社交媒体插件。P:/mtg-bi.com/pageproduct //OSINT插件;--
 - https://github.com/smicallef/spiderfoot    //Py。利用OSINT自动化找出对方信息，界面GUI，插件化，在线SpiderFoot HX服务。2K。greatjob。
@@ -171,8 +177,8 @@
 - https://github.com/super-l/superl-url    //Py。利用搜索引擎对关键词进行内容采集。
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
 ## 社交媒体搜集
-- https://intelx.io/tools    //Open Source Intelligence & Forensic Tools。W:lyzem.com //Telegram搜索引擎;--
-### 人员信息情报源
+- https://intelx.io/tools    //Open Source Intelligence & Forensic Tools 人员信息。W:lyzem.com //Telegram搜索引擎;--
+- https://github.com/qeeqbox/social-analyzer    //用于在+300个社交媒体网站上分析和查找个人资料API。
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
@@ -185,7 +191,7 @@
 - https://github.com/martinvigo/ransombile    //Ruby。根据社交媒体密码找回信息
 - https://www.reg007.com/    //注册过哪家网站app
 - https://github.com/rtcatc/check-your-weibo    //微博互关检测脚本
-#### Twitter信息分析
+### Twitter信息分析
 - https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    //公众号：【工具】一些与Twitter相关的情报分析工具
 - http://accountanalysis.app/    //twitter账号分析工具
 - https://github.com/haccer/tweep    //使用twitter API进行信息爬取查询
@@ -217,6 +223,7 @@
 - https://raidforums.com/Announcement-Database-Index-CLICK-ME    //密码泄露，资源互换。W:cdn.databases.today;W:www.databases.today;W:hashes.org/leaks.php;W:weleakinfo.com;W:site3.sjk.space;--
 - http://demo.zeeroq.com/email/    //邮箱密码泄露
 - https://www.exploit-db.com/google-hacking-database    //Google Dork数据泄露
+
 ## Web信息搜集
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
 ### Web信息搜集网站
@@ -270,6 +277,7 @@
 - https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名采集 和 一些文件路径 (包含多个数据集)
 - https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索。
 - https://github.com/r00tSe7en/GoogleHackingTool    //GoogleDorks漏洞语法查询。
+
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
 ### 敏感漏洞信息

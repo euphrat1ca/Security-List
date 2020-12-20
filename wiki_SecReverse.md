@@ -83,6 +83,7 @@
 - https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
 - https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
 - https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:/apk改之理ApkIDE;--
+- https://github.com/Surendrajat/APKLab   //vs code apk逆向插件
 - http://www.gda.wiki:9090/    //Java。全交互式的现代反编译器。G:charles2gan/GDA-android-reversing-Tool;--
 - https://github.com/iBotPeaches/Apktool    //java。Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //Bash。基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具，apkurl。simple

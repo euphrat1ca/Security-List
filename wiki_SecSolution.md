@@ -11,13 +11,40 @@
 - http://www.freebuf.com/articles/ics-articles/178822.html    //浅析煤炭企业如何进行工控安全建设
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
-## 安全建设防御方案
+- https://shield.mitre.org/attack_mapping/    //ATT&CK主动防御图谱。引导-收集-遏制-检测-扰乱-促进-合法化-实验测试
+- https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
+## 安全防护建设
+- https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具
+- https://www.alienvault.com/products/ossim    //开源开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件
+- https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
+- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
+### 接口管理
+- https://github.com/openitsystem/itops    //PY3,DJANGo。AD\Exchange管理系统。
+- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
+### 登录管理
+- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机
+- https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
+### Web应用安全
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
-- https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
-- https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
+- https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
+### 负载均衡建设
+- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk
+### DNS防护建设
+- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
+- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap DNS Proxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
+### 邮件网关建设
+- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
+- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
+- https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
+
+### DLP建设
+- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+
 ## 红队基础设施自动化部署建设
 - https://github.com/QAX-A-Team/LuWu    //Bash。红队基础设施自动化部署工具
 - 公众号：红队攻防全流程解析    //
