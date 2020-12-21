@@ -7,7 +7,7 @@
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
 - https://awesome-hub.com/    //Awesome 列表
 - https://pdos.csail.mit.edu/archive/scigen/    //SCIgen 学术文档虚拟文件生成钓鱼
-- https://lovelive.tools/    //说话的艺术，渣男语录
+- https://lovelive.tools/    //说话的艺术 渣男语录
 - https://github.com/jxlwqq/id-validator.py    //Py3。居住证号码验证工具（Python 版）
 - https://github.com/EdgeTranslate/EdgeTranslate    //js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
@@ -192,7 +192,7 @@
 - https://github.com/sylnsfar/qrcode    //Py3。动态二维码生成器。
 - https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
 - https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
-- https://github.com/beurtschipper/Depix    //图片修复、打码复原。
+- https://github.com/beurtschipper/Depix    //马赛克图片修复 打码复原。
 - https://www.remove.bg/api    //在线抠图。api
 - https://www.photopea.com/    //在线ps
 ### 字体素材
