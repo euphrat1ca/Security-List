@@ -50,8 +50,9 @@
 ### Windows开发
 - https://github.com/dotnet/roslyn    //C#。微软开源的C# 编译器。
 - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe    //利用系统CSC进行Windows程序编译
-### 移动端开发
+### 客户端开发
 - https://github.com/sindresorhus/awesome-electron    //js。跨平台应用。
+- https://github.com/meteor/meteor    //Js。跨平台客户端开发。
 ### 可视化开发
 - https://neo4j.com/graphacademy/neo4j-certification/    //Nosql图数据库，neo4j desktop进行数据关联性图展示。P:Bloom;G:/orgs/neo4j;--
 - https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
