@@ -62,7 +62,7 @@
 - https://github.com/demonsec666/Security-Toolkit    //渗透攻击链中常用工具及使用场景。G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;G:/Penetrum-Security/Security-List;--
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。G:/blaCCkHatHacEEkr/PENTESTING-BIBLE;--
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集G:/n00py/ReadingList/blob/master/gunsafe.txt;--
-- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
+- https://github.com/RedTeamWing/RedTeaming2020    //RedTeaming知识星球2020年安全知识汇总
 ## 安全测试系统
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。
@@ -82,6 +82,7 @@
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
 ## 安全测试辅助
+- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    //渗透辅助
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。

@@ -6,11 +6,10 @@
 - https://github.com/slimm609/checksec.sh    //bash脚本，用于检查可执行文件的属性。goodjob。
 ## 反调试检测
 - https://github.com/LloydLabs/wsb-detect    //C。检测是否为Windows沙盒。
-### 防护软件列表
-- https://github.com/gh0stkey/avList    //杀软列表。G:/r00tSe7en/get_AV;--
-- https://github.com/3had0w/Antivirus-detection    //cobaltstrike插件。检测杀软进程对应杀软名称标注。G:/ars3n11/Aggressor-Scripts;--
-- https://github.com/uknowsec/SharpAVKB    //Windows杀软进程、补丁号列表。G:/Ch1ngg/GetWindowsKernelExploitsKB;--
-- https://github.com/PwnDexter/SharpEDRChecker    //杀毒软件AV、终端防护EDR、日志记录工具等防护软件列表。G:/PwnDexter/Invoke-EDRChecker;--
+### 应用服务诊断
+- https://github.com/alibaba/arthas    //阿里开源的Java诊断的工具。W:如何使用Arthas进行JVM取证;--
+- https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg    //Windows应用诊断调试。
+- https://www.freebuf.com/articles/network/103816.html    //使用Windbg和Python进行堆跟踪。PyKd
 ### 程序调试管理
 - https://www.cheatengine.org    //CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用游戏魔改更佳。
 - http://www.angusj.com/resourcehacker    //Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
@@ -18,12 +17,19 @@
 - https://bbs.ichunqiu.com/thread-16846-1-1.html    //intro。PeDoll 调戏木马病毒的正确姿势-正式篇
 - https://github.com/everdox/InfinityHook    //C++。挂钩系统调用，上下文切换，页面错误等。
 - https://github.com/fireeye/capa    //Py。Windows下程序执行时所产生的操作。goodjob。
+### 防护软件列表
+- https://github.com/gh0stkey/avList    //杀软列表。G:/r00tSe7en/get_AV;--
+- https://github.com/3had0w/Antivirus-detection    //cobaltstrike插件。检测杀软进程对应杀软名称标注。G:/ars3n11/Aggressor-Scripts;--
+- https://github.com/uknowsec/SharpAVKB    //Windows杀软进程、补丁号列表。G:/Ch1ngg/GetWindowsKernelExploitsKB;--
+- https://github.com/PwnDexter/SharpEDRChecker    //杀毒软件AV、终端防护EDR、日志记录工具等防护软件列表。G:/PwnDexter/Invoke-EDRChecker;--
+
 ## Web打包应用安全
 - https://github.com/rtcatc/Packer-Fuzzer    //针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。poc sir。
 ### 小程序安全
 - https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
 - https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
 - https://github.com/Cherrison/CrackMinApp    //C#,Node.js。(反编译微信小程序)一键获取微信小程序源码(傻瓜式操作)。goodjob。
+
 ## 客户端安全
 - http://www.rohitab.com/apimonitor    //客户端C/S架构API监控工具
 - https://github.com/theLSA/hack-cs-tools    //客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
