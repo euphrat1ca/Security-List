@@ -143,7 +143,7 @@
 - https://github.com/swisskyrepo/SSRFmap    //Py。检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //Py。利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
 - https://www.anquanke.com/post/id/145519/    //intro。浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
-## XSS跨站脚本利用
+### XSS跨站脚本利用
 - https://xsspt.com/index.php?do=blist    //乌云xss学习。
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列。
 - http://www.xss-payloads.com    //xss工具包、资料、payload导航站。
@@ -153,7 +153,7 @@
 - https://somdev.me/21-things-xss/    //XSS的21个扩展用途。
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload。
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦。
-### XSS检测辅助
+#### XSS检测辅助
 - https://github.com/s0md3v/XSStrike    //Py3。识别、绕过WAF的XSS扫描器。
 - https://github.com/hahwul/XSpear    //Ruby。Powerfull XSS Scanning and Parameter analysis tool&gem。G:/0x584A/fuzzXssPHP;G:/Damian89/xssfinder;G:/chuhades/xss_scan;G:/shogunlab/shuriken;--
 - https://github.com/raz-varren/xsshell    //Go。利用xss返回JS交互shell。G:/UltimateHackers/JShell;--
@@ -163,7 +163,7 @@
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
 - https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下载PhantomJS驱动到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描。
-### XSS漏洞利用平台框架
+#### XSS漏洞利用平台框架
 - https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
 - https://xss.fbisb.com/    //在线XSS利用平台，xss练习靶场。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;--
 - https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
@@ -171,21 +171,7 @@
 - https://github.com/AntSwordProject/ant    //Nodejs。蚁逅@1.0，实时上线的 XSS 盲打平台
 - https://github.com/BlackHole1/WebRtcXSS    //PHP。基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
 - https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击
-### 本地文件包含漏洞
-- https://github.com/hvqzao/liffy    //本地文件包含漏洞利用工具
-- https://github.com/D35m0nd142/Kadabra    //本地文件包含漏洞扫描和利用工具
-- https://github.com/P0cL4bs/Kadimus    //本地文件包含漏洞扫描和利用工具
-- https://github.com/D35m0nd142/LFISuite    //本地文件包含漏洞利用及扫描工具，支持反弹shell
-- https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
-- https://xz.aliyun.com/t/5535    //session写文件getshell，PHP保存session至文件，Java保存session至内存。
-### 上传漏洞利用
-- https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。
-- https://github.com/UltimateHackers/Arjun    //扫描网页，使用正则表达式爆破查找隐藏的GET/POST参数
-- https://github.com/3xp10it/xupload    //用于自动测试上传功能是否可上传webshell的工具
-- https://github.com/gunnerstahl/JQShell    //Py3。CVE-2018-9206 jQuery File Upload利用工具
-- https://github.com/destine21/ZIPFileRaider    //burp插件，测试zip文件上传漏洞
-- https://github.com/jpiechowka/zip-shotgun    //Py。测试zip文件上传漏洞
-- https://github.com/almandin/fuxploider    //Py3。自判定网站类型与可被允许上传的文件格式类型。
+
 ### 数据库利用
 - https://github.com/sqlmapproject/sqlmap    //Py。sql注入标杆。GREATJOB,15k。G:/m4ll0k/Atlas //tamper脚本测试;--
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表
@@ -227,7 +213,27 @@
 - https://studio3t.com/download    //MongoDB扫描与连接工具
 - https://github.com/stampery/mongoaudit    //MongoDB审计及渗透工具
 #### 云端数据库利用
-- https://github.com/Turr0n/firebase    //firebase云端实时数据库，错误配置利用
+- https://github.com/Turr0n/firebase    //firebase云端实时数据库，错误配置利用。
+
+### 上传漏洞利用
+- https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。
+- https://github.com/UltimateHackers/Arjun    //扫描网页，使用正则表达式爆破查找隐藏的GET/POST参数
+- https://github.com/3xp10it/xupload    //用于自动测试上传功能是否可上传webshell的工具
+- https://github.com/gunnerstahl/JQShell    //Py3。CVE-2018-9206 jQuery File Upload利用工具
+- https://github.com/destine21/ZIPFileRaider    //burp插件，测试zip文件上传漏洞
+- https://github.com/jpiechowka/zip-shotgun    //Py。测试zip文件上传漏洞
+- https://github.com/almandin/fuxploider    //Py3。自判定网站类型与可被允许上传的文件格式类型。
+### 本地文件包含漏洞
+- https://github.com/hvqzao/liffy    //本地文件包含漏洞利用工具
+- https://github.com/D35m0nd142/Kadabra    //本地文件包含漏洞扫描和利用工具
+- https://github.com/P0cL4bs/Kadimus    //本地文件包含漏洞扫描和利用工具
+- https://github.com/D35m0nd142/LFISuite    //本地文件包含漏洞利用及扫描工具，支持反弹shell
+- https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
+- https://xz.aliyun.com/t/5535    //session写文件getshell，PHP保存session至文件，Java保存session至内存。
+### 验证码爆破
+- https://github.com/ecjtuseclab/AILoginBlasting    //Py。基于机器学习的登录验证码爆破工具。
+- https://code.dsaaaaaaaaaaaaaaaaaaaadwqdqdw101fre.tk:8081/    //post验证码识别接口。
+
 ## 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js。中国蚁剑基于Electron插件式开发。greatjob。
 - https://github.com/AntSwordProject/AntSword-Labs    //antSword测试环境

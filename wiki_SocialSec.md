@@ -62,6 +62,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/ryanohoro/csbruter/    //3.10 cobaltstrike密码爆破。
 - https://github.com/WBGlIl/CS_Decrypt    //cobaltstrike通讯流量解密脚本。
 - https://github.com/theLSA/awBruter    //木马一句话爆破
+- https://github.com/Ullaakut/cameradar    //Go。RTSP协议摄像头爆破字典。
+- https://github.com/JrDw0/rtspBruter    //Py。rtsp密码爆破
 ### 密码破解还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
 - https://securityxploded.com/download.php/    //各种密码解密方向工具。

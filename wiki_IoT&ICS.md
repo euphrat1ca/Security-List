@@ -71,8 +71,6 @@
 - https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //公众号：自助终端机的常见入侵方式
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //Py。调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
-- https://github.com/Ullaakut/cameradar    //Go。针对摄像头RTSP协议渗透测试，附弱口令字典。
-- https://github.com/JrDw0/rtspBruter    //Py。rtsp密码爆破
 - https://github.com/IncludeSecurity/RTSPhuzz/    //Py。基于Boofuzz框架针对RTSP服务器的Fuzzer。
 - https://github.com/Ullaakut/camerattack    //Go。摄像头远程禁用
 - https://github.com/NIteshx2/UltimateSecurityCam    //Py3。摄像头监测外来人员软件，有防欺骗设置
