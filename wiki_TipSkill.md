@@ -13,7 +13,6 @@
 # 编程相关
 ## 编辑器IDE
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
-- https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。goodjob。
 - https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器。
 - https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
 ### 编程调试
@@ -53,7 +52,10 @@
 ### 客户端开发
 - https://github.com/sindresorhus/awesome-electron    //js。跨平台应用。
 - https://github.com/meteor/meteor    //Js。跨平台客户端开发。
-### 可视化开发
+### 可视化展示
+- https://flourish.studio/    // 数据可视化图表在线展示。W:finereport.com;--
+- https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
+- https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。goodjob。
 - https://neo4j.com/graphacademy/neo4j-certification/    //Nosql图数据库，neo4j desktop进行数据关联性图展示。P:Bloom;G:/orgs/neo4j;--
 - https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
 - https://github.com/pyqtgraph/pyqtgraph    //Python数据曲线可视化功能库

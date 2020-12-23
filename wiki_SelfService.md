@@ -34,9 +34,6 @@
 - https://github.com/peterq/pan-light    //GO,JS。BND是基于'BaiduPCS-Go 百度云命令行客户端'的图形界面下载器。G:/b3log/baidu-netdisk-downloaderx;--
 - http://www.speedpan.com/    //百度下载。W:pandownload.com;W:baiduwp.com/;--
 - https://github.com/wu-dada/baidupankey    //JS。基于云盘万能钥匙api查询百度网盘提取密码
-### 数据可视化
-- https://flourish.studio/    //图表在线展示。W:finereport.com;--
-- https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 ### SEO引流
 - https://www.seopojie.com    //推广链接SPAM，SEO
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
