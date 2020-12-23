@@ -40,7 +40,6 @@
 - https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本
 - https://github.com/p4gefau1t/trojan-go    //go。支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。G:/gwuhaolin/lightsocks;--
 - https://github.com/Umbrellazc/BypassCampusNet    //校园网防断网，UDP 53 免流上网。
-- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win无限流量蓝灯。W:psiphon3.com;W:mono.sh //飞机场mymonocloud;W:windscribe.com;W:hide.me;--
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    //钉钉内网穿透。G:/open-dingtalk/pierced;--
 ### Shadowsocks代理
 - https://github.com/guyingbo/shadowproxy    //ss socks5 http https 等多种网络代理
@@ -53,17 +52,20 @@
 - https://itunes.apple.com/us/app/kitsunebi-proxy-utility/    //美区V2ray IOS客户端，PP助手IPA文件。Shadowrocket;Pepi;i2Ray;Quantumult;--
 - https://github.com/sprov065/v2-ui    //Py。多协议多用户的 v2ray 面板。G:/Jrohy/multi-v2ray;--
 ### 飞机场
-- https://free.v2x-nav.ml/    //飞机场
+- https://free.v2x-nav.ml/    //飞机场。W:psiphon3.com;W:mono.sh //mymonocloud;W:windscribe.com;W:hide.me;--
 - https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    //免费飞机
+- https://github.com/ntkernel/lantern    //蓝灯unlimited-landeng-for-win无限流量蓝灯
+- https://xn--15qp3au64eprx.com/auth/login    //海外加速器
+- https://suying222.net/auth/register?code=9Hrs    //海外加速器
 
 ## Cross自组网
 - https://github.com/proxycannon/proxycannon-ng    //Shell。从云端获取IP节点流量，构建Tor洋葱私人网络，形成僵尸网络组建。
 - http://www.vpngate.net    //日本国立筑波大学开源云局域网SoftEther，跨平台、多重协议的虚拟专用网方案。
+- https://www.wireguard.com/install/    //跨平台VPN协议，一键组网切换。G:/angristan/wireguard-install;--
 - https://github.com/slackhq/nebula    //GO。slack采用p2p自组网。goodjob。P:/红蓝对抗之组一个安全的网;--
 - https://github.com/zerotier    //C++。网络虚拟化平台云自组网。
-- https://www.wireguard.com/install/    //跨平台VPN协议，一键组网切换。G:/angristan/wireguard-install;--
 - https://www.radmin-vpn.cn/    //远程组网服务。
 - https://github.com/microsoft/SDN    //PS。此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
 - https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
 ### 单点登录
-- https://github.com/pomerium/pomerium    //基于上下文身份动态访问策略的单点登录网关 VPN替代方案。
+- https://github.com/pomerium/pomerium    //基于上下文身份动态访问策略的单点登录网关，VPN替代方案。
