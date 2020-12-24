@@ -17,6 +17,10 @@
 - https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
 ### 编程调试
 - https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
+### 交互式终端
+- https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
+- https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。
+- https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
 ### 加密功能模块
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 ### 请求分析模块

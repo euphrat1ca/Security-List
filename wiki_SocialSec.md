@@ -113,8 +113,9 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Edu4rdSHL/tor-router    //Bash。使用tor代理全部流量。dnsleaktest.com dns检测。
 - https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
-## 主动反制
-- https://tom0li.github.io/反制攻击队和防守人员/    //
+## 主动防御
+- https://tom0li.github.io/反制攻击队和防守人员/    //防守反击
+- Bot扫描肉鸡->捕获IP->捕获payload->反向回打
 ### 主动反制识别
 - https://github.com/cnrstar/anti-honeypot    //Chrome插件。检测WEB蜜罐并阻断请求
 - https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。蜜罐检测，Jsonp漏洞防御。

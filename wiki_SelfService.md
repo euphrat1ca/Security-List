@@ -42,14 +42,11 @@
 # 办公套件
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
 ## 敏捷办公
-- https://u.tools/    //utools插件化万能工具箱。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
 - https://github.com/microsoft/PowerToys    //快捷功能合集。
-- https://getrolan.com/    //快捷启动。音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
-- https://cmder.net    //Windows命令行加强版。通过```/REGISTER ALL``````user_aliases```配置文件配置快捷键。
-- https://github.com/tmux/tmux    //Linux命令行终端多路复用器。
-- https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
-- https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。
-- https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
+- https://u.tools/    //utools插件化万能工具箱。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
+- https://getrolan.com/    //快捷启动。G:/25H/Maya;音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
+- https://cmder.net    //Windows命令行终端加强版，支持通过`/REGISTER ALL user_aliases`配置文件配置快捷键。
+- https://github.com/tmux/tmux    //Linux命令行终端加强版。
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
 ### 网络解析服务

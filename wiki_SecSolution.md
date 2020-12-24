@@ -89,7 +89,7 @@
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
 - 公众号：终端安全运营年度笔记    //
 - https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
-- https://github.com/zbnio/zbn    //Py。安全编排与自动化响应平台。
+- https://gitee.com/zbnio/zbn    //Py。布谷鸟安全编排与自动化响应平台。G:/w5teams/w5;--
 ## 安全运维
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。

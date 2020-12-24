@@ -36,7 +36,7 @@
 - https://github.com/CrowdStrike/automactc    //Py3。macOS环境自动化取证分类采集器。
 ### Windows取证
 - https://www.microsoft.com/zh-cn/p/app/9n26s50ln705/    //Windows File Recovery微软文件恢复，windows 10 restore lost files恢复格式化或者损坏的硬盘。
-- http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。
+- http://www.sweetscape.com/010editor/    //识别不同文件格式（模板）的16进制编辑器，具有文件修复功能。G:/WerWolv/ImHex;--
 - https://www.x-ways.net/winhex/    //Winhex是一款的十六进制编辑器，在计算机取证，数据恢复，低级数据处理。
 - https://github.com/SekoiaLab/Fastir_Collector    //Windows取证/信息收集，不限于内存，注册表，文件信息等
 - https://www.ontrack.com/products/data-recovery-software/    //EasyRecovery文件恢复软件。商业版。易我数据恢复;RECUVA;--
