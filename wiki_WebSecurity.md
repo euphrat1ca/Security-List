@@ -169,7 +169,7 @@
 - https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击
 
 ### 数据库利用
-- https://github.com/sqlmapproject/sqlmap    //Py。sql注入标杆。GREATJOB,15k。G:/m4ll0k/Atlas //tamper脚本测试;--
+- https://github.com/sqlmapproject/sqlmap    //Py。数据库注入。GREATJOB,15k。G:/m4ll0k/Atlas //tamper脚本测试;--
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表
 - https://sqlwiki.netspi.com/    //你要的sql注入知识点都能找到
 - https://github.com/kevins1022/SQLInjectionWiki    //一个专注于聚合和记录各种SQL注入方法的wiki
@@ -180,6 +180,7 @@
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam注入工具。NoUpdate。
 - https://github.com/Neohapsis/bbqsql    //SQL盲注利用框架
 - https://github.com/m8r0wn/enumdb    //MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
+- https://github.com/PaulSec/HQLmap    //Hibernate HQL注入
 #### MSSQL数据库利用
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
 - https://github.com/NetSPI/PowerUpSQL    //Powershell。的sqlserver测试框架
