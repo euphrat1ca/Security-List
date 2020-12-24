@@ -69,27 +69,23 @@
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，重剑无锋。商业版。
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。
 - https://www.tenable.com/downloads/nessus    //漏洞扫描器，系统漏洞检测功能突出。商业版，Nessus无IP限制版虚拟机。
-- https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
-- https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高
-- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
-- https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
-- https://github.com/andresriancho/w3af    //Py。包含 200+ Web漏洞。G;Fireflyi/lcyscan;--
-- https://github.com/sullo/nikto    //Perl。Linux下网站扫描器
-- https://github.com/TideSec/WDScanner    //PHP。TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+- https://github.com/andresriancho/w3af    //Py。老牌Web漏洞网站扫描器。G;Fireflyi/lcyscan;G:/sullo/nikto;--
 - https://www.52pojie.cn/thread-134667-1-1.html    //Safe3 Web漏洞扫描系统企业版v10.1 破解版 Crack By Lkou[LCG]。
-- https://github.com/euphrat1ca/polar-scan    //易语言.北极熊扫描器。
-- https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。
-- https://github.com/euphrat1ca/WebCruiserWVS    //C#。轻量扫描器，椰树前身
-- https://github.com/theInfectedDrake/TIDoS-Framework    //覆盖从侦察到漏洞分析的所有内容。G:/Tuhinshubhra/RED_HAWK;G:/blackye/lalascan;--
+- https://github.com/euphrat1ca/polar-scan    //易语言。北极熊扫描器。
+- https://github.com/euphrat1ca/yeezy-scan    //椰树1.9扫描器。G:/euphrat1ca/WebCruiserWVS;G:/theInfectedDrake/TIDoS-Framework;G:/Tuhinshubhra/RED_HAWK;G:/blackye/lalascan;--
+- https://github.com/google/tsunami-security-scanner/    //Java。谷歌海啸漏扫。
+- https://github.com/TideSec/WDScanner    //PHP。TideSec开源分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。G:/blackye/BkScanner;G:/Arachni/arachni;--
 - https://github.com/m4ll0k/Spaghetti    //Web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等漏洞扫描。G:/0xInfection/TIDoS-Framework;G:/secdec/adapt;G:/Ekultek/Zeus-Scanner;G:/v3n0m-Scanner/V3n0M-Scanner;G:/RASSec/pentestEr_Fully-automatic-scanner;--
 - https://github.com/az0ne/AZScanner    //WebGui。自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测。G:/Skycrab/leakScan;G:/MiniSafe/microweb;G:/dermotblair/webvulscan;G:/zhangzhenfeng/AnyScan;G:/Canbing007/wukong-agent;G:/jeffzh3ng/InsectsAwake;--
-- https://github.com/taipan-scanner/Taipan    //WebGui。基于F#与C#的扫描器。G:/iceyhexman/onlinetools;--
-- https://github.com/blackye/BkScanner    //多节点、分布式、插件化web漏洞扫描器。G:/Arachni/arachni;--
-- https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具
 - https://github.com/0xsauby/yasuo    //Ruby。扫描主机第三方web应用服务漏洞。G:/yangbh/Hammer;G:/viraintel/OWASP-Nettacker;G:/flipkart-incubator/watchdog;G:/m4ll0k/Galileo;G:/samhaxr/hackbox;G:/m4ll0k/WAScan;G:/jiangsir404/S7scan;G:/hatRiot/clusterd;G:/tulpar/tulpar;G:/UltimateHackers/Striker //绕过Cloudflare;--
 - https://github.com/0x4D31/salt-scanner    //Py。基于Salt Open以及Vulners Linux Audit API的linux下扫描器，支持与JIRA项目管理、slack通讯框架结合使用。
+- https://github.com/taipan-scanner/Taipan    //WebGui。基于F#与C#的扫描器。G:/iceyhexman/onlinetools;--
+- https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具。
+- https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高。
+- https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
+- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
 ### 资产漏洞测试
-- https://github.com/euphrat1ca/exploitpack    //OracleJava。exploitpack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
+- https://github.com/euphrat1ca/exploitpack    //OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
 - https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--

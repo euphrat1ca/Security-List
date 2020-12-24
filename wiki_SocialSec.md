@@ -116,7 +116,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 ## 主动反制
 - https://tom0li.github.io/反制攻击队和防守人员/    //
 ### 主动反制识别
-- https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。Jsonp漏洞防御。
+- https://github.com/cnrstar/anti-honeypot    //Chrome插件。检测WEB蜜罐并阻断请求
+- https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。蜜罐检测，Jsonp漏洞防御。
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
 ### 前端攻击画像
 - https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
