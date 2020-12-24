@@ -180,7 +180,7 @@
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=103057    //Havij v1.151 Pro CracKed By Hmily[LCG]。印度ITSecTeam注入工具。NoUpdate。
 - https://github.com/Neohapsis/bbqsql    //SQL盲注利用框架
 - https://github.com/m8r0wn/enumdb    //MySQL和MSSQL利用工具后期爆破、搜索数据库并提取敏感信息。
-- https://github.com/PaulSec/HQLmap    //Hibernate HQL注入
+- https://github.com/PaulSec/HQLmap    //Hibernate DAO设计(Data Access Object) HQL注入
 #### MSSQL数据库利用
 - https://www.anquanke.com/post/id/86011    //【技术分享】MSSQL 注入攻击与防御。sql server漏洞利用。
 - https://github.com/NetSPI/PowerUpSQL    //Powershell。的sqlserver测试框架
