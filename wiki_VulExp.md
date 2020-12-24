@@ -93,6 +93,7 @@
 ### 云平台漏洞
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台防篡改设备模块)CVE-2018-6622漏洞利用工具。
+
 ## Web漏洞利用漏洞
 - https://github.com/r0eXpeR/redteam_vul    //红队中易被攻击的一些重点系统漏洞整理
 - https://github.com/SecWiki/CMS-Hunter    //CMS工具漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
