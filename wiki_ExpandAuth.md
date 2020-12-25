@@ -1,8 +1,10 @@
 # 后渗透
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob。
 ## Bypass监控设备
-- https://github.com/tokyoneon/Chimera    //Powershll混淆绕过AMSI。welljob。
+- https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
+- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控。
 - https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结，沙箱绕过。
+- https://github.com/tokyoneon/Chimera    //Powershll混淆绕过AMSI。welljob。
 - https://github.com/leechristensen/UnmanagedPowerShell    //从非托管程序执行PowerShell，支持进程注入endpoint防护软件。
 - https://github.com/CCob/SharpBlock/    //C#。使用DLL注入绕过EDR。
 - https://x64sec.sh/understanding-and-bypassing-amsi/    //使用函数Hook和DLL注入绕过反恶意软件扫描接口(AMSI)组件。
@@ -10,8 +12,6 @@
 - https://github.com/hfiref0x/UACME    //C。基于Failure-Free Method(FFM)绕过Windows用户帐户控制方法，支持多版本操作系统。
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac。
 - https://github.com/St0rn/Windows-10-Exploit    //PY,msf插件。win10 UacByPass。
-- https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
-- https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控。
 ## Bypass防护设备
 - https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
 - https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
@@ -106,7 +106,7 @@
 - https://github.com/Hzllaga/ShellcodeLoader/    //C#。Shellcode免杀、rsa加密、动态编译exe、反沙箱（检测父进程是否为Debugger）调试、远程文件注入，界面GUI。G:/ReddyyZ/GhostShell/;--
 - https://github.com/knownsec/shellcodeloader    //C++。Windows平台的shellcode免杀加载器。G:/wetw0rk/Sickle;--
 - https://github.com/3xpl01tc0d3r/ProcessInjection    //C#。指定进程注入shellcode，支持免杀。
-- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;G:/TheWover/donut;--
+- https://github.com/brimstone/go-shellcode    //Go。Windows内存加载shellcode执行。G:/sh4hin/GoPurple;G:clinicallyinane/shellcode_launcher/;--
 - https://github.com/Zer0Mem0ry/RunPE    //C++。通过内存读取，网络传输内容，利用PE执行shellcode。
 - https://github.com/monoxgas/sRDI    //Powershell。将DLL转换为shellcode反射加载，PE加载器引导，支持加密传输。testjob。
 - https://github.com/anthemtotheego/C_Shot    //C。通过HTTP远程加载shellcode二进制文件（.bin），使用父进程欺骗将shellcode注入子进程执行。
@@ -137,58 +137,53 @@
 - https://github.com/3gstudent/Worse-PDF    //向PDF文件中插入恶意代码，来窃取win上的Net-NTLM哈希
 - https://www.cnblogs.com/modou/p/3573772.html/    //NSIS - Windows安装程序制作工具，Nullsoft 脚本安装重制作安装包。
 ### 文件加密保护
-- https://github.com/veracrypt/VeraCrypt    //C。2K。官网```veracrypt.fr```，类BitLocker全盘加密、磁盘隐藏分区、加密系统。G:/FreeApophis/TrueCrypt;--
+- https://github.com/veracrypt/VeraCrypt    //C。类似于BitLocker架构全盘加密、磁盘隐藏分区、加密系统。W:veracrypt.fr;G:/FreeApophis/TrueCrypt;--
 - https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 文件套壳。
-- https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）加壳压缩
-- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。
-goodjob。
-- https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE 文件加壳过杀软。，
+- https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）文件压缩
+- https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。goodjob。
+- https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE文件加壳过杀软。
 ### 文件混淆免杀
-- https://github.com/unixpickle/gobfuscate/    //Go。混淆加密二进制文件和软件包。
-- https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过，msf/empire/koadic生成加载混淆免杀。
-- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件混淆，加密操作以及重新编码。G:/tokyoneon/chimera;G:/cwolff411/powerob //powershell混淆;G:/OmerYa/Invisi-Shell;--
-- https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
-- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
-- https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
+- https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日免杀执行器二进制、shellcode，配合`tdm64-gcc`生成。界面GUI。G:/TheWover/donut;--
+- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
-- https://github.com/BinaryScary/NET-Obfuscate/    //C#。.Net Framework程序混淆。G:/0xd4d/dnlib;--
-- https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
-- https://github.com/4w4k3/Insanity-Framework    //Py。免杀payload、虚拟机识别、钓鱼、内存注入等。
-- https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日 2.0 免杀执行器生成工具。界面GUI。
-- https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于```go build```生成免杀可执行文件。
+- https://github.com/BinaryScary/NET-Obfuscate/    //C#。混淆.Net Framework程序。G:/0xd4d/dnlib;--
+- https://github.com/unixpickle/gobfuscate/    //Go。加密二进制文件混淆软件包。
+- https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过 msf/empire/koadic生成加载混淆免杀。
+- https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于`go build`生成免杀可执行文件。
+- https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
+- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
+- https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件混淆，加密操作以及重新编码。G:/tokyoneon/chimera;G:/cwolff411/powerob;G:/OmerYa/Invisi-Shell;--
+- https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
+- https://github.com/Bashfuscator/Bashfuscator    //Py3。bash命令混淆。
 
+## Linux渗透拓展
+- https://github.com/TheSecondSun/Bashark    //Bash。Linux大鲨鱼后渗透框架。G:/DarkSpiritz/DarkSpiritz;G:/JusticeRage/FFM;--
+- https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:/llamasoft/polyshell;--
 ## Windows渗透拓展
 - https://github.com/EmpireProject/Empire    //PS。后渗透命令执行框架。GOODJOB。noupdate。G:/EmpireProject/Empire-GUI;G:/interference-security/empire-web;--
 - https://github.com/samratashok/nishang    //PS。测试脚本集与开发框架。Check-VM检查虚拟机;Copy-VSS利用Volume Shadow Copy 服务来复制出SAM文件（密码）;Invoke-CredentialsPhish欺骗用户输入账号密码信息;FireBuster FireListener对内网进行扫描;Get-Information信息收集。testjob,3k。
-- https://github.com/jmortega/python-pentesting    //python-pentesting-tool安全工具
 - https://github.com/0xwindows/VulScritp    //内网渗透脚本，包括banner扫描、端口扫描;phpmyadmin、jenkins等通用漏洞利用等。G:/0xdea/tactical-exploitation;--
 - https://github.com/xorrior/RemoteRecon    //基于DotNetToJScript进行截图、key记录、token窃取、dll与恶意代码注入。
-- https://github.com/JoelGMSec/AutoRDPwn    //Ps4。远程桌面利用访问。
-- https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统。
 - https://github.com/GhostPack    //C#。SpecterOps公司关于PowerShell 功能的各种 C# 实现的集合，包括Windows内网信息搜集\权限提升\密钥窃取等。
-## Linux权限拓展
-- https://github.com/TheSecondSun/Bashark    //Bash。Linux大鲨鱼后渗透框架。G:/DarkSpiritz/DarkSpiritz;G:/JusticeRage/FFM;--
-- https://github.com/zMarch/Orc    //Bash。Linux下后渗透命令集合。G:/llamasoft/polyshell;--
-## Windows横向移动
+- https://github.com/4w4k3/Insanity-Framework    //Py2。Linux下的Windows沙箱绕过、杀软绕过、UAC绕过。NoUpdate。
+- https://github.com/PowerShellMafia/PowerSploit    //PS。内网利用框架。反病毒特征码查询、DLL注入脚本、编码加密、记录窃取、权限维持、Windows提权、端口扫描。goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
+- https://github.com/rootm0s/WinPwnage    //UAC绕过、权限提升、权限维持。goodjob。
+### Windows横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp利用，远程启动shell，清除痕迹。
 - https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob。
-- https://github.com/SpiderLabs/scavenger    //CrackMapExec二次包装开发,内网敏感信息扫描。
+- https://github.com/SpiderLabs/scavenger    //CrackMapExec二次开发，内网敏感信息扫描。
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
-- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
-### Windows协议利用
-- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket用于处理网络协议、凭证移动利用。内网提权“wmiexec.py”，NMB、SMB1-3、MS-DCERPC等协议本身的低级别编程访问，凭证导出“secretsdump.py”。testjob,4K。
-- https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版，凭证传递。
+- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket用于处理网络协议、凭证移动利用。内网提权“wmiexec.py”，NMB、SMB1-3、MS-DCERPC等协议本身的低级别编程访问，凭证导出“secretsdump.py”。testjob。
+- https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版协议利用。
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递wmi移动。
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(只需135无需445端口，免杀)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
-- https://github.com/Kevin-Robertson/Inveigh    //PS。LLMNR/mDNS/NBNS欺骗器。
-- https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
 - https://github.com/Mr-Un1k0d3r/SCShell    //跨平台基于ChangeServiceConfigA远程调用无文件横向移动工具。goodjob。
 - https://github.com/GhostPack/Rubeus    //C#。Kerberos功能库。G:/gentilkiwi/kekeo //PTK(Pass the ticket);--
 ### Windows凭证利用
@@ -200,29 +195,34 @@ goodjob。
 - https://github.com/klsecservices/bat-armor    //Py。生成mimikatz混淆版bat文件
 - https://3gstudent.github.io/3gstudent.github.io/渗透技巧-Pass-the-Hash-with-Remote-Desktop-Protocol/    //使用hash登录RDP。借助mimikatz对mstsc，或使用xFreeRDP通过rdp服务、135端口服务进行hash传递（TCP/IP协议基础上的445、NBT协议基础上的137/8/9、RPC/wmi(只支持执行命令)
 - https://github.com/eladshamir/Internal-Monologue    //C#。无需Mimikatz从LSASS进程内存中提取内容，直接从内存中提取明文密码、NTLM哈希、Kerberos ticket，以及执行pass-the-hash/pass-the-ticket攻击等。
-- https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行“procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取”，并远程解析转储。G:/outflanknl/Dumpert;--
-- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载```system.hiv```文件，获取密码。
-- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出```NTDS.DIT```文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、```NTDS.dit```密码提取。
+- https://github.com/aas-n/spraykatz    //py3。Windows计算机和大型Active Directory环境中检索凭据的工具，对计算机进行`procdump（微软官方lsass内存dump工具）/sqldumper 官方mssql读取`，并远程解析转储。G:/outflanknl/Dumpert;--
+- https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    //基于quarkspwdump加载`system.hiv`文件 获取密码。
+- https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    //导出`NTDS.DIT`文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、`NTDS.dit`密码提取。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html    //导出域内hash。
 - https://github.com/skelsec/kerberoast/    //Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;P:kerberosGui;--
-- https://github.com/Viralmaniar/HiveJack/    //C#。基于“c:\temp\”对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
-- https://github.com/lgandx/Responder    //Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。testjob,4k。
+- https://github.com/Viralmaniar/HiveJack/    //C#。基于`c:\temp\`对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
+- https://github.com/lgandx/Responder    //Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。4k。
+- https://github.com/Kevin-Robertson/Inveigh    //PS。LLMNR/mDNS/NBNS欺骗器。
 - https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector    //Py。构造恶意office文件，配合responder窃取凭证哈希。Security-Research作者的工具库。noupdate。
 - https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/    //Intro。Microsoft Word – UNC Path Injection with Image Linking，word利用图片和responder窃取ntlm哈希
 - 渗透技巧——Pass the Hash with Exchange Web Service/    //利用exchange web服务进行哈希传递。
+- https://github.com/chroblert/domainWeakPasswdCheck    //ps。域账号弱口令审计。
+- https://github.com/JoelGMSec/AutoRDPwn    //Ps4。远程桌面RDP协议利用。
+- https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
+- https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统。
 
-## 凭证搜集
+## 密钥搜集
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。Win下V2.4相较于V2.3抓取到的内容会少一些。greatjob。
 - https://github.com/moonD4rk/HackBrowserData    //Golang。跨平台浏览器密码、历史记录、书签、cookie抓取。goodjob。G:/QAX-A-Team/BrowserGhost;G:/hayasec/360SafeBrowsergetpass;--
 - https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。GOODJOB。G:/z1Ro0/get_TeamViewer_ID_Password;--
-### Windows密钥搜集
+### Windows密钥收集
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码利用DPAPI破解升级版 需要Windows user密码。
 - https://github.com/putterpanda/mimikittenz    //PS。类Lazagne架构密钥抓取，利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--
 - https://github.com/tuthimi/quarkspwdump/    //C。quarkslab出品的密码抓取 hash dump，不用注入任何进程。已编译。G:/twelvesec/passcat;--
 - https://github.com/G0ldenGunSec/SharpSecDump    //C#。远程SAM + LSA转储。
 - https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
-### Linux密钥搜集
+### Linux密钥收集
 - https://github.com/huntergregal/mimipenguin    //C。Linux密码抓取。
 - https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
 - https://github.com/mthbernardes/sshLooter    //ssh服务用户名密码窃取。
@@ -260,9 +260,7 @@ goodjob。
 ## Windows权限维持
 - https://www.freebuf.com/vuls/195906.html/    //Windows常见后门持久化方式。P:/articles/system/229209.html;--
 - https://github.com/jfmaes/Backdoorplz    //C++。Windows用户后门demo。
-- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用“ GlobalFlag ”进行应用程序调试。
-- https://github.com/PowerShellMafia/PowerSploit    //PS。内网利用框架。反病毒特征码查询、DLL注入脚本、编码加密、记录窃取、权限维持、Windows提权、端口扫描。goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
-- https://github.com/rootm0s/WinPwnage    //UAC绕过、权限提升、权限维持。goodjob。
+- https://pentestlab.blog/2020/01/13/persistence-image-file-execution-options-injection/    //att&ck Image File Execution Options Injection 通过注册表图像文件执行选项将调试器附加到应用程序并启用`GlobalFlag`进行应用程序调试。
 ### Windows签名伪造
 - https://github.com/threatexpress/metatwin    //从一个文件中提取元数据，包括数字签名，并注入到另一个文件中
 - https://github.com/Mr-Un1k0d3r/Windows-SignedBinary    //可以修改二进制文件的HASH，同时保留微软windows的签名
