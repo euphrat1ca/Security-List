@@ -152,7 +152,7 @@
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过 msf/empire/koadic生成加载混淆免杀。
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于`go build`生成免杀可执行文件。
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
-- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆，其中还包括AV/Sandboxes逃避机制。
+- https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator    //VBA。宏混淆AV/Sandboxes绕过。
 - https://github.com/danielbohannon/Invoke-DOSfuscation    //对powershell文件混淆，加密操作以及重新编码。G:/tokyoneon/chimera;G:/cwolff411/powerob;G:/OmerYa/Invisi-Shell;--
 - https://github.com/the-xentropy/xencrypt    //ps。PowerShell 2.0以上 script anti-virus evasion tool，配合http协议格式绕过。
 - https://github.com/Bashfuscator/Bashfuscator    //Py3。bash命令混淆。
