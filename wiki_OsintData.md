@@ -1,9 +1,9 @@
 # 信息源
-- https://www.wilderssecurity.com/    //国际安全论坛。goodjob。
+- https://www.wilderssecurity.com/    //国际安全论坛。goodjob。W:raidforums.com;--
 - http://blog.nsfocus.net/    //绿盟博客。安全运营；技术方法论；译文分享。goodjob。
-- https://www.sans.org/blog/    //红蓝紫、取证、工业网络、审计、开发 博客。goodjob。
+- https://www.sans.org/blog/    //红蓝紫、取证、工业网络、审计、安全开发。goodjob。
 - https://xz.aliyun.com/    //先知社区。P:freebuf.com;P:t00ls.net;--
-- https://googleprojectzero.blogspot.com    //谷歌博客 Google Project Zero。二进制。
+- https://googleprojectzero.blogspot.com    //谷歌博客 Google Project Zero。二进制安全。
 ## 信息流导航站
 - https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
 - https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--

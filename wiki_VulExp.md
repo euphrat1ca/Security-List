@@ -113,26 +113,24 @@
 ### Web组件漏洞
 - https://github.com/uknowsec/BurpSuite-Extender-fastjson    //Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
 - https://github.com/CaijiOrz/fastjson-1.2.47-RCE    //Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit //利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
-### thinkphp漏洞
+### Thinkphp漏洞
 - https://github.com/theLSA/tp5-getshell    //Py2。thinkphp5 rce漏洞检测工具。
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合。
 - https://github.com/Lucifer1993/TPscan    /Py3。thinkphp漏洞检测，已支持2019。
-### joomla漏洞
-- https://github.com/momika233/Joomla-3.4.6-RCE    //Py。joomla rce
+### Joomla漏洞
+- https://github.com/momika233/Joomla-3.4.6-RCE    //Py。joomla 3 命令执行rce
 - https://github.com/rezasp/joomscan    //Perl。基于OWASP的Joomla检测利用
-### wordpress漏洞
-- https://github.com/wpscanteam/wpscan    //Ruby。wordpress漏洞扫描工具。G:/shadowlabscc/ProjectOpal;G:/swisskyrepo/Wordpresscan;G:/m4ll0k/WPSeku;
-- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架
-- https://github.com/Jamalc0m/wphunter    //php。wordpress扫描器
-- https://github.com/UltimateLabs/Zoom    //wordpress漏洞扫描器
+### Wordpress漏洞
+- https://github.com/wpscanteam/wpscan    //Ruby。wordpress漏洞扫描工具。G:/shadowlabscc/ProjectOpal;G:/swisskyrepo/Wordpresscan;G:/m4ll0k/WPSeku;--
+- https://github.com/rastating/wordpress-exploit-framework    //wordpress漏洞框架。W:/Jamalc0m/wphunter;G:/UltimateLabs/Zoom;--
 ### Drupal漏洞
-- https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600/SA-CORE-2018-002 Drupal 7.x版本代码执行
-- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE/SA-CORE-2019-003/CVE-2019-6340
+- https://github.com/a2u/CVE-2018-7600    //CVE-2018-7600 SA-CORE-2018-002 Drupal 7 命令执行
+- https://github.com/jas502n/CVE-2019-6340    //Drupal8's REST RCE SA-CORE-2019-003 CVE-2019-6340
 - https://github.com/immunIT/drupwn    //Drupal 信息收集与漏洞利用工具
 ### Discuz漏洞
 - https://paper.seebug.org/1144/    //Discuz X3以后漏洞总结
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
-### 公共网关接口CGI漏洞
+### 网关接口CGI漏洞
 - 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
 - https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi。
 - http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271。
