@@ -26,8 +26,9 @@
 ## Web打包应用安全
 - https://github.com/rtcatc/Packer-Fuzzer    //针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。poc sir。
 ### 小程序安全
-- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;
 - https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html    /微信小程序开发工具
+- https://github.com/xuedingmiaojun/mp-unpack    //electron-vue。微信小程序自助解包客户端。
+- https://github.com/sjatsh/unwxapkg    //Go。微信小程序反编译。G:/oujunke/UnWechatApp;G:/xuedingmiaojun/wxappUnpacker;G:/leo9960/wechat-app-unpack;--
 - https://github.com/Cherrison/CrackMinApp    //C#,Node.js。(反编译微信小程序)一键获取微信小程序源码(傻瓜式操作)。goodjob。
 
 ## 客户端安全

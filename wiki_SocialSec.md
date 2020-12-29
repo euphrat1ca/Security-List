@@ -67,7 +67,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 ### 密码破解还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
 - https://securityxploded.com/download.php/    //各种密码解密方向工具。
-- https://github.com/hashcat/hashcat    //C。哈希还原破解。
+- https://github.com/hashcat/hashcat    //C。哈希还原破解。greatjob。P:hashcat.net/cap2hccapx/ //cap包转hccapx包;--
 - https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
 - https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端。
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash。

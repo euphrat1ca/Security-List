@@ -5,13 +5,14 @@
 - https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet    //移动安全测试条例
 ### 移动端虚拟定位
 - https://github.com/Lerist/FakeLocation    //安卓虚拟定位
-### 移动测试框架
+### 移动端测试框架
 - https://github.com/OWASP/owasp-mstg    OWASP Mobile Security Testing Guide移动安全测试资源
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF    //移动应用（Android / iOS / Windows）静态和动态分析测试框架。支持docker运行。
 - https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/    //Py。Runtime Mobile Security (RMS) 移动端动态测试
 - https://github.com/mwrlabs/drozer    //Py。MWR Labs开源Android 安全测试框架，支持编写自定义模块。
 - https://github.com/nccgroup/house    //JS,Py。运行时手机 App 分析工具包。带Web GUI。
-- https://github.com/Meituan-Dianping/lyrebird    //移动端MOCK测试工作台
+- https://github.com/Meituan-Dianping/lyrebird    //移动端MOCK测试工作台。
+- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js。基于frida/Burp/flask的app协议分析工具，利用HTTP协议识别app加密算法、解密数据包。goodjob。
 ### 移动端利用框架
 - https://github.com/nettitude/scrounger    //Py。Linux下iOS和Android移动应用程序渗透测试框架
 - https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project    //移动端KaliHunter手机渗透测试系统
@@ -19,26 +20,26 @@
 - https://github.com/euphrat1ca/Smartphone-Pentest-Framework    //PY/C/C++。SPF移动端渗透测试框架，支持电话通讯协议SS7漏洞利用，进行远程SS7指令操作。Web:shevirah.com/dagah/;--
 - https://github.com/metachar/PhoneSploit    //Py。通过shodan搜索开启调试模式的安卓设备，利用Adb控制安卓设备。
 - https://github.com/mesquidar/adbsploit    //Py3。利用Adb控制安卓设备。
-- https://termux.com/    //Termux是一个Android下一个高级的终端模拟器,开源且不需要root,支持apt管理软件包。
+- https://termux.com/    //Termux是一个Android下一个高级的终端模拟器，开源且不需要root，支持apt管理软件包。
 - https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
-### Android安全
-- https://github.com/frida/frida/    //PY\Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:/dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
+### Android应用安全
+- https://github.com/frida/frida/    //PY,Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:/dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
 - https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。
 - https://github.com/hanbinglengyue/FART/    //py。基于frida的ART环境下自动化脱壳方案。
 - https://github.com/hluwa/ZenTracer    //Py。frida插件，Android app 运行时实时追踪，调用的类名方法名。
-- https://github.com/lyxhh/lxhToolHTTPDecrypt    //js。基于frida/Burp/flask的app渗透测试，利用HTTP协议识别app加密算法、解密数据包。
 - https://github.com/zsdlove/ApkVulCheck    //Py3。对安卓apk进行特征值匹配。welljob。
-- https://github.com/jboss-javassist/javassist    //Java。能够操作字节码框架，轻易的修改class代码文件。2.2K
+- https://github.com/jboss-javassist/javassist    //Java。能够操作字节码框架，轻易的修改class代码文件。
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具
 - https://github.com/Genymobile/scrcpy    //C。基于adb连接使pc控制Android设备
-#### 安卓Xposed利用
+#### 安卓HOOK利用
 - https://github.com/rovo89/Xposed    //C++。Android动态修改hook，隐藏root执行权限。
-- https://taichi.cool/    //Android魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
+- https://taichi.cool/    //安卓Xposed魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
 - https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:/asLody/VirtualApp;--
 - https://github.com/Fuzion24/JustTrustMe    //Java。App证书SSL注入抓包。xposed插件。
 - https://github.com/monkeylord/XServer    //xposed插件。注入拦截方法调用，进行通信协议加密、混淆的分析。
-### IOS/macOS安全
+
+### macOS/IOS应用安全
 - https://github.com/pwn20wndstuff/Undecimus/    //iOS 11.0 - 12.4全版本越狱。
 - https://github.com/axi0mX/ipwndfu    //Py。checkm8利用ios底层全版本越狱
 - https://github.com/dmayer/idb    //Ruby。开源的iOS App安全评估工具，作者是Danl A.Mayer。
@@ -50,6 +51,7 @@
 - https://github.com/LinusHenze/Keysteal    //C++。窃取MacOS下KeyChain。CVE-2019-8526
 - https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py    //CVE-2018-4407，macos/ios缓冲区溢出可导致系统崩溃
 - https://github.com/sickcodes/Docker-OSX    //OSX-KVM in Docker! X11 Forwarding!，基于qemu和kvm封装的苹果镜像docker。
+
 ## 应用安全审计
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。
@@ -89,5 +91,6 @@
 - https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具。
 ### Golang代码审计
 - https://github.com/securego/gosec    //go。Go语言源码安全分析工具。
+
 ## 固件代码审计
 - https://github.com/seemoo-lab/polypyus    //Py3。固件源码分析工具。
