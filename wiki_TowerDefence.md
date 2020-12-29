@@ -25,73 +25,75 @@
 - https://github.com/open-falcon    //GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具。它既能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
 - https://github.com/kkamagui/shadow-box-for-arm    //C,Py。ARM架构Linux系统监控，*shadow-box-for-x86*架构系统监控。
 - https://github.com/DominicBreuker/pspy    //Go。Linux下可使用非root权限，对系统进程命令运行监控。GoodJob。
-### EDR进程监控
-- https://github.com/baidu/openrasp    //基于RASP。Runtime Application Self-Protection，实时应用自我保护，智能针对每个语言定制。testjob,1k。G:/baidu-security/openrasp-iast //IAST交互式漏洞挖掘扫描;--
-- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下基于Hook system_call的内核级HIDS，特点从内核态获取尽可能全的数据。welljob。斗鱼开源。
-- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
+
+## 主机威胁防御
+- https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
+- https://documentation.wazuh.com    //C。开源C/S架构主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
+### EDR信息监控
+- https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST交互式漏洞挖掘扫描;--
+- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下Hook system_call进程监控的内核级HIDS，支持从内核态获取数据。welljob。斗鱼开源。
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
+- https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。P:天眼;P:天擎;--
+- https://github.com/bytedance/AgentSmith-HIDS    //字节跳动安全团队开源自研HIDS
+- https://github.com/crowdsecurity/crowdsec    //Go。Linux下主机入侵检测，lua模块，nginx反代，一键部署。webGUI。goodjob。
+- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
+- https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
 ### EDR终端防护
 - http://edr.sangfor.com.cn/    //深信服SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息进行恶意域名检测
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
 - https://github.com/ComodoSecurity/openedr    //C++。开放式EDR组件。
 - http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。
-- https://github.com/crowdsecurity/crowdsec    //Go。Linux下主机入侵检测，lua模块，nginx反代，一键部署，webGUI。goodjob。
 - https://github.com/DasSecurity-Labs/AoiAWD    //PHP。Linux下CTF AWD轻量级EDR系统，支持flag替换。webgui。goodjob。
-- https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。
 - https://github.com/Neo23x0/Loki    //IOC和APT应急响应入侵痕迹扫描器
-- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。公众号:打造MITRE ATT&CK矩阵检测规则edr系统;G:/ion-storm/sysmon-config;--
+- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。G:/ion-storm/sysmon-config;公众号:打造MITRE ATT&CK矩阵检测规则edr系统;--
 - https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。
-- https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
 
-## 流量协议分析
+## 网络威胁防御
+- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
+- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
+### 隐蔽隧道检测
+- https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）
+- https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案。
+- https://www.freebuf.com/articles/network/244094.html    //NIDS（suricata）中的DNS混淆加密检测。techteach。
+### 网络入侵检测
+- https://github.com/ptresearch/AttackDetection    //suricata、snort规则更新。G:/Canon88/suricata-scripts;--
+- https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件。
+- https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata的旁路部署全流量引擎，集成DDOS检测和IDPS模块。
+- https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships    //TechTeach。基于父子进程关系来检测异常模式，使用机器学习中的异常模型来检测攻击者。
+### 网络威胁NTA
+- https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。goodjob。
+- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
+- https://github.com/odedshimon/BruteShark    //网络取证分析工具（NFAT），构建网络地图、提取密码数据。
+- https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试。
+- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，对比GrassMarlin。通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，可解析http 2与TLS加密。P:网络取证与监控caploader 流量捕获;P:polarproxy tls加密流量代理;--
+- https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。goodjob。
+### 流量协议分析
 - https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //公众号：攻守道—流量分析的刀光剑影。wireshark操作指令。
+- https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
 - https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
+- http://www.colasoft.com.cn/download.php    //科来网络分析系统，ping/mac地址扫/数据包重放/数据包生成。
+- https://github.com/brimsec/brim    //JS。全流量pcap包分析。支持zeek格式转换，结合wireshark对流量进行分析。goodjob。WebGUI。
+- https://github.com/aol/moloch    //全流量捕获分析系统，capture/viewer/elasticsearch。GreatJob。
+- https://github.com/cisco/mercury    //C++。基于AF_PACKET和TPACKETv3网络元数据捕获和分析，pmercury指纹识别。
+- https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
+- https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
+- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析。
+- https://github.com/adulau/ssldump    //C。SSLv3/TLS网络协议分析器。
+- http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版被动流量抓取，TCP/http指纹识别
+### 流量抓取嗅探
+- http://www.tcpdump.org    //网络数据包截获分析
+- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码。
 - http://tcpick.sourceforge.net    //TCP流嗅探和连接跟踪工具
 - https://github.com/zerbea/hcxdumptool    //从Wlan设备上捕获数据包
+- https://www.elifulkerson.com/projects/rawsniff.php    //Windows下流量镜像工具。W:netresec.com/?page=RawCap;--
 - https://github.com/nospaceships/raw-socket-sniffer    //C。PS。无需驱动抓取Windows流量。
 - https://github.com/tomer8007/chromium-ipc-sniffer    //嗅探chromium进程之间通讯。
-### 流量嗅探镜像
-- http://www.tcpdump.org    //网络数据包截获分析
-- https://www.elifulkerson.com/projects/rawsniff.php    //Windows下流量镜像工具。W:netresec.com/?page=RawCap;--
-- https://github.com/NytroRST/NetRipper    //支持截获像putty，winscp，mssql，chrome，firefox，outlook，https中的明文密码。
 ### 流量镜像重放
 - https://github.com/didi/sharingan    //Go。流量录制，流量重放。
 - https://github.com/shramos/polymorph    //支持几乎所有现有协议的实时网络数据包操作框架
 - https://github.com/netsniff-ng/netsniff-ng    //C。a fast zero-copy analyzer Linux网络分析器。pcap捕获和重放工具，trafgen数据包生成压测。
 
-## 网络威胁防御
-### 混淆加密检测
-- https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）
-- https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案。
-### 网络入侵IDS
-- https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
-- https://documentation.wazuh.com    //C。wazuh是C/S架构开源主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
-- https://github.com/snort3/snort3    //C++。snort知名NIDS网络入侵检测
-- https://github.com/ptresearch/AttackDetection    //suricata、snort规则rules更新。G:/Canon88/suricata-scripts;--
-- https://github.com/OISF/suricata    //C。IDS\IPS\NSM安全工具，兼容Snort插件
-- https://github.com/iqiyi/qnsm    //C/C++。爱奇艺基于dpdk与Suricata，旁路部署的全流量引擎，集成了DDOS检测和IDPS模块。
-- https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
-- https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
-- https://www.elastic.co/cn/blog/discovering-anomalous-patterns-based-on-parent-child-process-relationships    //基于父子进程关系来检测异常模式，使用机器学习中的异常模型来检测攻击者。TechTeach。
-- https://www.freebuf.com/articles/network/244094.html    //NIDS（suricata）中的DNS隐蔽隧道检测。techteach。
-### 网络威胁NTA
-- https://www.netresec.com/?page=Networkminer    ////网络取证分析工具，对比GrassMarlin。通过嗅探或者分析PCAP文件可以侦测到操作系统，主机名和开放的网络端口主机，可解析http 2与TLS加密。P:网络取证与监控caploader 流量捕获;P:polarproxy tls加密流量代理;--
-- http://www.colasoft.com.cn/download.php    //科来网络分析系统，ping/mac地址扫/数据包重放/数据包生成。
-- https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
-- https://github.com/zeek/zeek    //C++。bro的升级版，主要用于对链路上所有深层次的可疑行为流量进行安全监控，为网络流量分析提供了一个综合平台，特别侧重于语义安全监控。goodjob。
-- https://github.com/brimsec/brim    //JS。大型pcap流量包分析工具，可转换为zeek专有格式，结合wireshark对流量进行分析。goodjob。WebGUI。
-- https://github.com/aol/moloch    //大规模全流量捕获分析系统，capture/viewer/elasticsearch。GreatJob。
-- https://github.com/cisco/mercury    //C++。基于AF_PACKET和TPACKETv3网络元数据捕获和分析，pmercury指纹识别。
-- http://lcamtuf.coredump.cx/p0f3    //C。p0f升级版，被动流量指纹识别TCP/http
-- https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
-- https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
-- https://gitee.com/qielige/openQPA    //协议分析软件QPA的开源代码，特点是进程抓包、特征自动分析。
-- https://github.com/adulau/ssldump    //C。SSLv3/TLS网络协议分析器。
-- https://github.com/BloodHoundAD/BloodHound    //PS。使用图论进行内网信息域内关系与细节整理，作为DEFCON 24的免费开源工具发布。通过脚本导出域内的session、computer、group、user等信息，入库后进行可视化分析域成员和用用户关系。testjob,3k。
-- https://www.4hou.com/penetration/5752.html    //Intro。域渗透提权分析工具 BloodHound 1.3 中的ACL攻击路线。
-- https://github.com/odedshimon/BruteShark    //网络取证分析工具（NFAT），构建网络地图、提取密码数据。
-- https://github.com/vletoux/pingcastle   //Py。AD域信息威胁等级测试。
 ## 应用日志分析
 - https://github.com/grafana/grafana    //TypeScript,Go。用于可视化大型测量数据的开源程序，提供创建、共享、浏览数据方法与众多功能插件。greatjob。29.5k。
 - https://github.com/Cyb3rWard0g/HELK    //Jupyter Notebooks。基于ELK(Elasticsearch, Logstash, Kibana)的日志威胁分析。1K。G:/OTRF/OSSEM;--
@@ -114,7 +116,8 @@
 - http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径。
 - https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
 - https://github.com/olafhartong/sysmon-modular/    //Sysmon配置文件，file/dns/att&ck/系统进程/图片 等分类为归置。G:/SwiftOnSecurity/sysmon-config;--
-## 防火墙网关
+
+## 网关火墙
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf
 - http://www.safedog.cn/    //安全狗Web服务器网站防护。商业版 社区版。
 - http://d99net.net/    //D盾IIS服务器防火墙，webshel查杀。社区版。
@@ -131,13 +134,14 @@
 - https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
 - https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎语义规则模块。
 - https://github.com/chaitin/sqlchop-http-proxy    //利用HTTP 反向代理，内置 SQLChop 作为 SQL 注入攻击检测模块，可以拦截 SQL 注入流量而放行正常流量。
-## 无线网络防御检测
+
+## 无线网络防御
 - https://github.com/SkypLabs/probequest    //嗅探和显示无线网卡附近的Wifi Probe请求。
 - https://github.com/wangshub/hmpa-pi    //在树莓派或路由，利用 Wireshark 分析附近网络 WiFi 设备，当有手机或其它 Wi-Fi 设备在附近时，通过邮件或者微信提醒。
+- https://github.com/anwi-wips/anwi    //无线IDS，基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/besimaltnok/PiFinger    //检查wifi是否为"Wifi-Pineapple大菠萝"所开放的恶意热点。
 - https://github.com/WiPi-Hunter/PiSavar    //利用PineAP，对于FAKE AP虚假接入点，如"Wifi-Pineapple大菠萝"进行监测。
 - https://github.com/SYWorks/waidps    //Py。Linux下WiFi网络防御预警工具。
-- https://github.com/anwi-wips/anwi    //无线IDS，基于低成本的Wi-Fi模块(ESP8266)
 - https://github.com/SYWorks/waidps    //Py。Linux下无线网络入侵检测工具
 ## 大数据平台防御
 - https://github.com/shouc/BDA    //针对hadoop/spark/mysql等大数据平台的审计与检测
