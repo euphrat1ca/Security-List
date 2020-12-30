@@ -13,6 +13,7 @@
 - https://www.kslabs.ru/    //ksweb安卓手机端建站
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
+- https://oktools.net/json2go    //JSON转Golang Struct
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
