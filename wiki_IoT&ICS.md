@@ -6,7 +6,79 @@
 - https://github.com/fkie-cad/awesome-embedded-and-iot-security    //嵌入式与iot安全
 - https://www.freebuf.com/articles/terminal/203311.html    //智能摄像头安全分析及案例参考
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
-## 物联网利用分析
+## 万物互联仿真模拟
+- https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
+### 设备固件烧录
+- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
+### 设备编程器
+- https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
+### 车联网仿真
+- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
+### 物联网仿真
+- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
+### Scada系统组态
+- http://www.mcgs.com.cn/src/down.html    //昆仑通态MCGS组态软件、设备驱动。免费版。
+- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 态势感知、被动嗅探、数据捕获、逻辑视图、物理视图、协议签名。
+- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc SCADA系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
+- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
+### OPC模拟仿真
+- https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。
+- https://www.matrikonopc.cn/sitemap.aspx    //霍尼韦尔MatrikonOPC Simulation。W:openopc.sourceforge.net;--
+### Modbus模拟仿真
+- https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;P:```ase18-paper_formby.pdf```;--
+- https://www.modbustools.com/index.html    //ModbusPoll ModbusSlave。商业版。
+- https://github.com/ClassicDIY/ModbusTool    //C#。具有导入导出功能的Modbus TCP和RTU主从工具。
+- https://www.openplcproject.com/runtime/    //C++。自定义Modbus多用途PLC软环境。G:/thiagoralves/OpenPLC_v3;--
+- https://github.com/emdem/ModbusSim     //ModbusScan+ModbusSim调试工具。
+- https://github.com/riptideio/pymodbus    //用python编写的完整Modbus协议。G:/ronpetit/Mtrigen-modbus;--
+- https://github.com/bigcat/ModbusDroid    //Modbus安卓客户端。
+### 西门子模拟仿真
+- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
+- https://www.cr173.com/soft/43758.html    //step7 plcsim西门子设备模拟
+- https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
+### 场景模拟蜜罐
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //工控蜜罐。myWiki。
+- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
+- https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统。
+- https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm。
+
+## 硬件调试固件分析
+- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
+- https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
+- https://github.com/arunmagesh/hw_hacking_cheatsheet    //硬件hardware测试条例
+- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
+- https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
+- https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
+- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //```绿盟：智能设备安全分析手册.pdf```
+- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
+- https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
+- https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
+- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章。techteach。
+### 固件分析调试
+- https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
+- https://github.com/nodemcu/nodemcu-flasher    //Pascal。固件烧写firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。界面GUI。
+- https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片。
+- https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
+- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
+- https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit（基于Linux的固件打包、解包）、MITMproxy、Firmwalker（扫描固件敏感文件）组件。G:/rampageX/firmware-mod-kit;--
+- https://github.com/ChrisTheCoolHut/Firmware_Slap    //Linux下通过混合分析和功能类聚相结合来发现目标固件中的安全漏洞
+- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。goodjob。
+- https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
+
+- https://github.com/e-m-b-a/emba    //Linux下嵌入式固件安全审计工具。
+### 串口调试
+- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
+- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
+- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
+- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能
+### 工控设备固件源
+- https://www.se.com/ww/en/download/    //施耐德
+- https://compatibility.rockwellautomation.com/Pages/MultiProductDownload.aspx?keyword=Firmware    //罗克韦尔
+- https://www.vipa.com/service-support/downloads/firmware/control-systems/    //安川yaskawa 德国惠朋（VIPA GmbH）
+- https://support.automationdirect.com/firmware/binaries.html    //AutomationDirect
+- https://github.com/euphrat1ca/NOE77101_Firmware    //The Schneider Electric Quantum Ethernet Module 140NOE77101 Firmware。
+
+## 物联网协议分析
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。goodjob。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
 - https://github.com/jiansiting/ripple20-poc    //Py。基于ICMP_MS_SYNC的ripple20 poc。
@@ -15,38 +87,6 @@
 - https://www.anquanke.com/post/id/212335    //物联网安全之MQTT协议安全。P:/post/id/216074 //物联网安全之MQTT渗透实战;--
 - https://github.com/emqx/emqx    //Erlang。分布式 MQTT 消息服务器。W:tools.emqx.io //mqtt在线测试工具;W:mqttfx.jensd.de;G:/thomasnordquist/MQTT-Explorer;--
 - https://github.com/akamai-threat-research/mqtt-pwn    //Py。mqtt协议测试工具。G:/zombiesam/joffrey //MQTT爆破脚本;--
-## 硬件设备固件分析
-- https://github.com/scriptingxss/owasp-fstm/    //OWASP固件安全测试条例
-- https://github.com/unprovable/PentestHardware    //硬件渗透测试实用手册
-- https://github.com/arunmagesh/hw_hacking_cheatsheet    //硬件hardware测试条目
-- https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg    //Chamd5公众号： 硬件分析的常用工具与基础方法。GZUT，RT809F，ProMan等仪器设备。
-- https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/    //固件硬件逆向分析方法技巧
-- https://www.jianshu.com/p/3b3df82500b6    //绿盟马良：智能设备漏洞挖掘中几个突破点
-- http://blog.nsfocus.net/handbook-safety-analysis-intelligent-equipment/    //```绿盟：智能设备安全分析手册.pdf```
-- http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/index.html    //IoT固件逆向入门。常用工具介绍
-- https://paper.seebug.org/613/    //工控漏洞挖掘方法之固件逆向分析
-- https://github.com/chipsec/chipsec    //C。PC平台硬件、固件(BIOS/UEFI)安全评估框架
-- https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包
-- https://github.com/nodemcu/nodemcu-flasher    //Pascal。固件烧写firmware Flash tool for nodemcu，包括“ESP8266Flasher.exe”。界面GUI。
-- https://github.com/flashrom/flashrom    /C。识别、读取、写入、验证和擦除flash芯片
-### 工控设备固件
-- https://www.se.com/ww/en/download/    //施耐德
-- https://compatibility.rockwellautomation.com/Pages/MultiProductDownload.aspx?keyword=Firmware    //罗克韦尔
-- https://www.vipa.com/service-support/downloads/firmware/control-systems/    //安川yaskawa 德国惠朋（VIPA GmbH）
-- https://support.automationdirect.com/firmware/binaries.html    //AutomationDirect
-- https://github.com/euphrat1ca/NOE77101_Firmware    //The Schneider Electric Quantum Ethernet Module 140NOE77101 Firmware。
-### 串口调试
-- http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
-- https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
-- https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
-- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能
-### 固件分析调试
-- https://blog.attify.com    //Attify关于firmware固件安全，IoT安全相关文章。techteach。
-- https://github.com/adi0x90/attifyos    //Attify OS物联网设备渗透测试系统、固件仿真。iot kali系统类。
-- https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
-- https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit（基于Linux的固件打包、解包）、MITMproxy、Firmwalker（扫描固件敏感文件）组件。G:/rampageX/firmware-mod-kit;--
-- https://github.com/ChrisTheCoolHut/Firmware_Slap    //Linux下通过混合分析和功能类聚相结合来发现目标固件中的安全漏洞
-- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。goodjob。
 ## 无人机安全
 - https://github.com/mavlink/qgroundcontrol    //无人机地面站软件。Mission Planner ARDUPILOT;--
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
@@ -82,6 +122,7 @@
 - https://github.com/scu-igroup/telnet-scanner    //Telnet服务密码撞库
 - https://github.com/Viralmaniar/Passhunt    //Py。simple。用于搜索网络设备Web应用程序等的默认凭证。包含523个厂家的2084组默认密码。
 - https://tools.kali.org/information-gathering/snmp-check    //通过snmp协议采集设备oid信息，网管设备信息。P:snmpwalk;--
+
 ## ICS工业安全
 - http://jzgkchina.com    //剑指工控 工控基础知识。W:linuxscada.info;--
 - https://dale-peterson.com/    //Digital Bond工业安全公司，```s4xevents.com```旗下S4 Events工业安全培训教程。
@@ -127,6 +168,7 @@
 ### ICS代理转发远程访问
 - https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控。
 - http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能。
+
 ## 工控协议
 - https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
 - https://www.freebuf.com/articles/ics-articles/218674.html/    //工控安全EthernetIP协议分析。Ethernet/IP协议中间人攻击。
@@ -143,38 +185,3 @@
 - https://github.com/0x0mar/smod/    //py2。Modbus渗透测试框架。
 - https://www.freebuf.com/articles/ics-articles/235047.html    //Modbus PLC攻击分析：Smod渗透框架研究
 - https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
-## 万物互联仿真模拟
-- https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
-### 设备固件烧录
-- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
-### 设备编程器
-- https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
-### 车联网仿真
-- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
-### 物联网仿真
-- https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
-### Scada系统组态
-- http://www.mcgs.com.cn/src/down.html    //昆仑通态MCGS组态软件、设备驱动。免费版。
-- https://github.com/nsacyber/GRASSMARLIN    //Java。NSA 的工控 ICS/SCADA 态势感知、被动嗅探、数据捕获、逻辑视图、物理视图、协议签名。
-- https://www.openplcproject.com/reference-installing-scadabr    //Linux下开源的openplc SCADA系统，WebGui。G:/thiagoralves/ScadaBR_Installer;--
-- https://github.com/trombastic/PyScada/    //Py3。基于Django的SCADA操作管理系统。
-### OPC模拟仿真
-- https://www.kepware.com/zh-cn/products/kepserverex/    //KepServerEx工业数据采集工具，支持OPC协议模拟。商业版。
-- https://www.matrikonopc.cn/sitemap.aspx    //霍尼韦尔MatrikonOPC Simulation。W:openopc.sourceforge.net;--
-### Modbus模拟仿真
-- https://github.com/djformby/GRFICS    //基于Unity 3D游戏图形引擎实现的工业仿真系统模拟框架。采用MODBUS协议对3个VirtualBox VM（3D模拟，软PLC和HMI）仅在主机的虚拟网络上相互通信的PLC进行监视和控制。Goodjob。W:anquanke.com/post/id/222674;P:```ase18-paper_formby.pdf```;--
-- https://www.modbustools.com/index.html    //ModbusPoll ModbusSlave。商业版。
-- https://github.com/ClassicDIY/ModbusTool    //C#。具有导入导出功能的Modbus TCP和RTU主从工具。
-- https://www.openplcproject.com/runtime/    //C++。自定义Modbus多用途PLC软环境。G:/thiagoralves/OpenPLC_v3;--
-- https://github.com/emdem/ModbusSim     //ModbusScan+ModbusSim调试工具。
-- https://github.com/riptideio/pymodbus    //用python编写的完整Modbus协议。G:/ronpetit/Mtrigen-modbus;--
-- https://github.com/bigcat/ModbusDroid    //Modbus安卓客户端。
-### 西门子模拟仿真
-- https://www.freebuf.com/articles/ics-articles/236250.html/    //西门子PLC S7common协议网络仿真搭建方法探讨。以太网32/64位多平台S7 PLC通信套件，Snap7 Client Demo客户端，SIMATIC Manager编程软件，S7-PLCSIM模拟器。
-- https://www.cr173.com/soft/43758.html    //step7 plcsim西门子设备模拟
-- https://download.csdn.net/download/weixin_43977912/12201820    //S7工控模拟器S7serverdemo与S7clientdemo。
-### 场景模拟蜜罐
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_HoneyPot.md    //工控蜜罐。myWiki。
-- https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
-- https://github.com/sjhilt/GasPot    //模拟油电燃气工控系统。
-- https://github.com/mushorg/conpot    //针对ICS/SCADA的低交互工控蜜罐，模拟Modbus和S7comm。

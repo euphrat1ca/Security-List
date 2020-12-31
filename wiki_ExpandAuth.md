@@ -249,6 +249,7 @@
 ## Linux权限维持
 - https://www.cnblogs.com/17bdw/p/10564902.html    //Linux后门权限维持手法，Linux后门总结-各类隐藏技能。G:/公众号:Linux常见的持久化后门汇总;--
 - https://github.com/jivoi/openssh-backdoor-kit    //Bash。openssh后门编译生成。
+- https://damit5.com/2020/02/22/cat的一个缺陷/    //利用`\r`回车符隐藏命令
 ### Linux文件隐匿
 - https://github.com/f0rb1dd3n/Reptile    //C。LKM Linux rootkit隐藏植入。Testjob。
 - https://github.com/mhaskar/Linux-Root-Kit    //Py。Linux隐匿rootkit。simple。
