@@ -16,18 +16,19 @@
 - https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器。
 - https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
 ### 编程调试
-- https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
+- https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
+- https://github.com/onelivesleft/PrettyErrors    //Python异常提示库
 ### 交互式终端
 - https://github.com/c-bata/go-prompt    //Golang命令行增强库，创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python命令行增强库，创建交互式提示命令行。
-- https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
 ### 加密功能模块
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 ### 请求分析模块
+- https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
+- https://github.com/secdev/scapy    //Python功能库。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。GOODJOB。
 - https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 - https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
-- https://github.com/secdev/scapy    //Py。网络请求通用库
 - https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫。
 ### 小众语言栈
 - https://github.com/rust-lang/rust    //静态语言。
@@ -35,8 +36,9 @@
 ### 游戏框架
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
+- https://github.com/OpenDiablo2/OpenDiablo2    //暗黑破坏神2
 ### Golang开发
-- https://github.com/voidint/g    //gvm Golang版本管理控制。需要设置国内镜像源环境变量“G_MIRROR” -> https://golang.google.cn/dl/。
+- https://github.com/voidint/g    //gvm Golang版本管理控制。设置国内镜像源环境变量`"G_MIRROR" -> https://golang.google.cn/dl/`。
 - https://goproxy.io/zh/    //go镜像源国内库加速。W:goproxy.cn/;--
 - https://github.com/euphrat1ca/blackhat-go    //go灰帽编程。
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
@@ -80,10 +82,10 @@
 ### Web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/fex-team/webuploader    //JS。文件上传框架。
-- https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端/设计解决方案 
+- https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端 ant-design-pro设计解决方案。goodjob。
 - https://github.com/gin-gonic/gin    //golang web 服务
-- https://beego.me    //Go。一个使用 来帮助您Go 的思维构建并开发的 Go 应用程序的开源框架
-- https://goframe.org/index    //Go。一款模块化、松耦合、生产级的Web应用框架
+- https://beego.me    //Go。应用程序开源框架
+- https://goframe.org/index    //Go。模块化、松耦合、生产级的Web应用框架
 - https://www.djangoproject.com    //Py。完美主义者的 Deadline 终结Web服务框架
 - https://www.palletsprojects.com/p/flask/    //Py。Web服务微框架。
 ### 爬虫采集框架

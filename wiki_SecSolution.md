@@ -41,7 +41,6 @@
 - https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
 - https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
 - https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
-
 ### DLP建设
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
 
@@ -80,16 +79,20 @@
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行安全建设。主机、扫描器、端口、日志、防护设备。goodjob。
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
-- https://github.com/lenve/javadoc    //Java 企业级项目需求文档
-## 安全运营中心(SOC)建设
+- https://github.com/lenve/javadoc    //Java企业级项目需求文档
+
+## 安全运营
+- 公众号：终端安全运营年度笔记    //
+- http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
+- 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
+- https://github.com/safernandez666/TelegramBot    //IOC威胁情报机器人，对接多api
+### SOC建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
-- http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
-- 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
-- 公众号：终端安全运营年度笔记    //
 - https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
 - https://gitee.com/zbnio/zbn    //Py。布谷鸟安全编排与自动化响应平台。G:/w5teams/w5;--
+
 ## 安全运维
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
@@ -98,20 +101,22 @@
 ### ACL策略安全
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
-#### Nginx配置
+### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
-### 基线核查运维
+
+## 基线核查
 - https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。
 - https://github.com/aqzt/sso    //服务器安全运维规范（Server security operation）
-- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。9k
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server    //Linux服务器保护。
 - https://github.com/Jsitech/JShielder    //Linux下服务器一键加固脚本
 - https://github.com/trimstray/linux-hardening-checklist    //Linux服务器加固基线
 - https://github.com/a13xp0p0v/kconfig-hardened-check    //用于检查 Linux 内核配置中的安全加固选项的脚本
-- https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令
+- https://madaidans-insecurities.github.io/guides/linux-hardening.html    //Linux安全加固条例。
+- https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令。
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
 - https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
 ### 安全测试CheckList
@@ -132,6 +137,7 @@
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
+
 ## IPv6安全
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集

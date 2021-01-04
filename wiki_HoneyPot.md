@@ -56,3 +56,4 @@
 - https://github.com/sandboxie/sandboxie    //采用转换存储的隔离空间。Wilders社区，代码开源。goodjob。
 - https://github.com/felicitychou/MalAnalyzer    //Py3。基于docker虚拟化的恶意代码沙箱。
 - https://github.com/saferwall/saferwall    //Go。恶意软件沙盒协作平台，包含多家杀毒引擎。
+- https://github.com/LloydLabs/wsb-detect    //Windows沙盒检测。

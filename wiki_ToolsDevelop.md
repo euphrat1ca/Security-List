@@ -143,7 +143,8 @@
 - https://github.com/D4Vinci/One-Lin3r    //metasploit、payload辅助查询工具
 - https://github.com/shizzz477/msploitego    //将msf数据库与maltego进行图形化展示
 - https://github.com/scriptjunkie/msfgui    //Java。metasploit的界面GUI，强化Windows下支持。Noupdate。Goodjob。
-- https://github.com/Zerx0r/Kage    //VueJS。图形化MSF的界面GUI，Session Handler控制。goodjob。
+- https://www.yuque.com/funnywolfdoc/viperdoc    //MSF图形界面、执行模块、汉化分类。社区版。G:/FunnyWolf/Viper;--
+- https://github.com/Zerx0r/Kage    //VueJS。图形化MSF、Session Handler控制。界面GUI。goodjob。
 ## Empire拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com    //empire的web界面

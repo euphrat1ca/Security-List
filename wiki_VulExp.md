@@ -9,6 +9,7 @@
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
 - https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
 - https://srcincite.io/exploits/    //Steven Seeley漏洞利用，Exchange、Microsoft。G:/sourceincite/sourceincite.github.io/tree/master/pocs;--
+- https://github.com/scannells/exploits    //CVE-2020-27194 Linux提权；CVE-2019-8943 wordpress命令执行；CVE-2019-6977 PHP沙盒绕过。
 ## 漏洞市场/SRC/BugBounty
 - https://www.zerodayinitiative.com/    //设备（firmware）漏洞市场
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场

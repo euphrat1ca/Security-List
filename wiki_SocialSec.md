@@ -40,11 +40,12 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/klionsec/SuperWordlist/    //实战沉淀下的各种弱口令字典
 - https://github.com/tarraschk/richelieu    //`.fr`邮箱密码表
 - https://github.com/TheKingOfDuck/fuzzDicts/    //Web Pentesting Fuzz 字典。
-- https://github.com/danielmiessler/SecLists    //用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell。G:/7dog7/bottleneckOsmosis;G:/Ridter/Pentest;G:/alpha1e0/pentestdb;--
+- https://github.com/ihebski/DefaultCreds-cheat-sheet    //中间件、网络设备默认密码字典。
+- https://github.com/danielmiessler/SecLists    //用户名密码 URL敏感数据模式 模糊测试payload WebShell密码。G:/7dog7/bottleneckOsmosis;G:/Ridter/Pentest;G:/alpha1e0/pentestdb;--
+- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 - https://github.com/brannondorsey/PassGAN    //Py。深度学习，密码字典样本生成
 - https://github.com/Saferman/cupper    //Py。根据用户习惯密码生成弱口令探测。G:/Mebus/cupp;G:/LandGrey/pydictor;--
 - https://github.com/HongLuDianXue/BaiLu-SED-Tool    //pascal。白鹿社工字典生成器
-- https://github.com/digininja/CeWL/    //Ruby。爬取目标网站关键词生成字典。
 ### 服务密码爆破
 - https://github.com/euphrat1ca/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/    //RDP密码爆破、扫描，Fast RDP Brute GUI by Stas M（解压密码Stas'M Corp）。W:stascorp.com;P:nlbrute 1.2;P:DUBrute;P:御剑RDP爆破工具v2.0;G:/7kbstorm/7kbscan-RDP-Sniper;P:Paessler SNMP Tester;--
 - https://github.com/shack2/SNETCracker    //C#。超级弱口令检查工具，支持SSH、RDP、MySQL等常见协议。

@@ -71,7 +71,6 @@
 ### 流量协议分析
 - https://mp.weixin.qq.com/s/w6nvyYFsTaZqE2AcoTvEIA    //公众号：攻守道—流量分析的刀光剑影。wireshark操作指令。
 - https://github.com/wireshark/wireshark    //Lua。议解析流量分析还原，可通过Windows变量名“SSLKEYLOGFILE”的变量导出目标网站证书，进行密钥导入到Wireshark流量解析。
-- https://github.com/secdev/scapy    //Py。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。
 - http://www.colasoft.com.cn/download.php    //科来网络分析系统，ping/mac地址扫/数据包重放/数据包生成。
 - https://github.com/brimsec/brim    //JS。全流量pcap包分析。支持zeek格式转换，结合wireshark对流量进行分析。goodjob。WebGUI。
 - https://github.com/aol/moloch    //全流量捕获分析系统，capture/viewer/elasticsearch。GreatJob。

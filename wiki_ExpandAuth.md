@@ -92,10 +92,10 @@
 - https://github.com/panda-re/lava    //批量恶意程序注入
 - https://github.com/malwaredllc/byob    //僵尸网络生成框架
 - https://github.com/deadPix3l/CryptSky/    //勒索病毒源码
-- https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，虚拟机容器沙盒检测、反调试、反病毒
-- https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。6K。
+- https://github.com/ReddyyZ/DeathRansom/       //Py3。基于PySide2界面的勒索软件，支持沙盒检测、反调试、反病毒
+- https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。
 - https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    //Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。
-- https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，有很多变种，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
+- https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
 
 ## Shellcode利用
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。
@@ -169,16 +169,15 @@
 - https://github.com/4w4k3/Insanity-Framework    //Py2。Linux下的Windows沙箱绕过、杀软绕过、UAC绕过。NoUpdate。
 - https://github.com/PowerShellMafia/PowerSploit    //PS。内网利用框架。反病毒特征码查询、DLL注入脚本、编码加密、记录窃取、权限维持、Windows提权、端口扫描。goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
 - https://github.com/rootm0s/WinPwnage    //UAC绕过、权限提升、权限维持。goodjob。
+- https://github.com/quentinhardy/pytmipe    //Python功能库。令牌操作与权限提升。
 ### Windows横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
 - https://github.com/Cooolis/Cooolis.github.io    //Cooolis是一个操作系统命令技巧备忘录包含工具。qingxuan。W:cooolis.payloads.online;--
 - https://github.com/nccgroup/redsnarf    //PS,Py。调用猕猴桃等程序窃取哈希，密码解密，rdp利用，远程启动shell，清除痕迹。
-- https://github.com/byt3bl33d3r/CrackMapExec    //PY/PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob。
-- https://github.com/SpiderLabs/scavenger    //CrackMapExec二次开发，内网敏感信息扫描。
+- https://github.com/byt3bl33d3r/CrackMapExec    //PY,PS。CME利用AD内置功能/协议规避大多数终端防护/IDS/IPS。包含impacket、PowerSploit等多种模块。testjob。G:SpiderLabs/scavenger;--
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/    //C#。将Seatbelt、Rubeus、SharpHound3、FakeLogonScreen、Safetykatz等工具，以base64编码的方式，集成到powershell脚本中调用。testjob。
-- https://github.com/SecureAuthCorp/impacket    //Python工具包。Impacket用于处理网络协议、凭证移动利用。内网提权“wmiexec.py”，NMB、SMB1-3、MS-DCERPC等协议本身的低级别编程访问，凭证导出“secretsdump.py”。testjob。
-- https://github.com/maaaaz/impacket-examples-windows    //Impacket打包exe版协议利用。
+- https://github.com/SecureAuthCorp/impacket    //Python功能库。Impacket用于处理网络协议、凭证移动利用。内网提权“wmiexec.py”，NMB、SMB1-3、MS-DCERPC等协议本身的低级别编程访问，凭证导出“secretsdump.py”。testjob。G:/maaaaz/impacket-examples-windows;--
 - https://github.com/dirkjanm/krbrelayx    //Py。基于impacket和LDAP3的不受约束的授权滥用工具，配合exchange漏洞CVE-2019-1040。
 - https://github.com/FortyNorthSecurity/WMImplant    //PS。利用WMI横向移动。Github:/FortyNorthSecurity/WMIOps;Github:/secabstraction/WmiSploit;--
 - https://github.com/byt3bl33d3r/pth-toolkit    //Py。PTH(Pass The Hash)传递wmi移动。
