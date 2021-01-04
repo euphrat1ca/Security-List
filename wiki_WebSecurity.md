@@ -245,9 +245,10 @@
 - https://github.com/tengzhangchao/PyCmd    //Py。一句话木马客户端程序。目前支持php、jsp，CS端通信加密
 - https://github.com/xl7dev/WebShell    //webshell收集项目。Github:/tennc/webshell;--
 ### PHP Webshells
-- https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。1k。
-- https://github.com/k4mpr3t/b4tm4n    //PHP。大马webshell，可以伪造邮件、ddos，bat.php的webshell，初始k4mpr3t
-- https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，`post pass=DAws`
+- https://github.com/weepsafe/phpshell    //php大马|php一句话|webshell|免杀过狗|
+- https://github.com/yzddmr6/webshell-venom    //Py。免杀webshell无限生成工具。
+- https://github.com/k4mpr3t/b4tm4n    //PHP。bat.php的webshell初始密码k4mpr3t，可以伪造邮件、ddos，
+- https://github.com/dotcppfile/DAws    //PHP。过防火墙webshell，密码`post pass=DAws`
 - https://github.com/b374k/b374k    //php。网站管理`默认密码b374k`
 - https://github.com/wso-shell/WSO    //PHP。伪装为404界面webshell的文件管理
 - https://github.com/DXkite/freebuf-stream-shell    //PHP。使用流包装器实现WebShell。

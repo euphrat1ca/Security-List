@@ -33,7 +33,7 @@
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测。
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式。
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯加密框架。
-### 多姿势远程协助
+### 多姿态远程协助
 - https://blog.csdn.net/fly_hps/category_8913900.html    //FLy_鹏程万里【基础篇】-隐匿攻击之 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy 等。
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。
 - https://www.cnblogs.com/backlion/p/12272799.html    //MSSQL无落地文件执行Rootkit-WarSQLKit，获取具有"xp_cmdshell”，“ sp_OACreate”，“ sp_OAMethod”的sysadmin权限的帐户。G:/EPICROUTERSS/MSSQL-Fileless-Rootkit-WarSQLKit;--
@@ -127,6 +127,7 @@
 - https://github.com/Screetsec/TheFatRat    //Java。msf免杀，支持searchsploit搜索。goodjob。G:/Screetsec/Vegile;G:/abedalqaderswedan1/aswcrypter;G:/MohamedNourTN/Terminator;G:/pasahitz/zirikatu;G:/govolution/avet;G:/GreatSCT/GreatSCT;G:/EgeBalci/HERCULES;--
 - https://github.com/Veil-Framework/Veil    //Py。Msf免杀。goodjob。
 ### 文件打包捆绑
+- wiki_TipSkill.md    //小众语言栈
 - https://github.com/xZero707/Bamcompile    //C。将php文件打包为可执行文件绕过杀软，同理于其它服务文件类型。
 - http://www.f2ko.de/downloads/Bat_To_Exe_Converter.zip    //将bat文件转换为exe二进制文件，可以隐藏窗口。G:/islamadel/bat2exe;G:/tywali/Bat2ExeConverter;G:/Juntalis/win32-bat2exe;--
 - https://github.com/r00t-3xp10it/trojanizer    //将两个可执行文件打包为自解压文件，自解压文件在执行时会执行可执行文件
@@ -144,6 +145,7 @@
 - https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE文件加壳过杀软。
 ### 文件混淆免杀
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日免杀执行器二进制、shellcode，配合`tdm64-gcc`生成。界面GUI。G:/TheWover/donut;--
+- https://github.com/lengjibo/FourEye    //FourEye 重明免杀工具
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--

@@ -60,13 +60,16 @@
 - https://www.freebuf.com/articles/rookie/195107.html    //记一次微信数据库解密过程。微信的加密数据库的解密密码是由“设备的IMEI(MEID)+用户的uin，进行MD5，然后取其前7位小写字母”构成的
 - https://www.freebuf.com/news/193684.html    //iOS取证技巧：在无损的情况下完整导出SQLite数据库
 - https://github.com/jfarley248/MEAT    //Py3。基于越狱与Cydia框架的IOS取证
+
 ## 网络取证
+- wiki_TowerDefence.md    //网络威胁防御 流量协议分析
 - https://github.com/Srinivas11789/PcapXray    //py。网络取证工具，可以捕获网络数据包，并可视化为包括设备标识的网络图，并突出显示重要的通信和文件操作。
-- http://f00l.de/pcapfix/    //pcap文件修复
-- https://github.com/USArmyResearchLab/Dshell    //可扩展的网络取证分析框架，支持快速开发插件与解析网络数据包捕获
-- https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
 - https://github.com/davidmcgrew/joy    //用来捕获和分析内外网流量数据的包，主要用于进行网络调查、安全监控和取证
+- https://github.com/USArmyResearchLab/Dshell    //可扩展的网络取证分析框架，支持快速开发插件与解析网络数据包捕获
+- http://f00l.de/pcapfix/    //pcap文件修复
 ### 数据隐秘传输
+- wiki_ExpandAuth.md    //多姿态远程协助
+- wiki_TowerDefence.md    //隐蔽隧道检测
 - https://github.com/Arno0x/WSC2    //Py。利用web套接字WebSockets进行数据隐蔽传输
 - https://github.com/Arno0x/DNSExfiltrator    //通过DoH利用dns加密请求进行数据泄露传输。
 - https://github.com/Arno0x/ReflectiveDnsExfiltrator    //反射DNS解析隐蔽通道进行数据隐蔽通道
@@ -82,3 +85,4 @@
 - https://github.com/dafthack/MailSniper    //PS。用于在Microsoft Exchange环境搜索电子邮件查找特定邮件（密码、网络架构信息等），提供分别针对OWA接口(Outlook Web App)、EWS接口和ActiveSync接口的password spray（多用户轮番爆破防检测）。
 ### 数据库取证
 - https://github.com/vrana/adminer/    //php。php单文件数据库下载。phpstudy。
+- https://github.com/abrignoni/DFIR-SQL-Query-Repo    //收集用于数据取证的SQL查询模板
