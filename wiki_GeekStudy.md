@@ -16,6 +16,7 @@
 - https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    //KCon大会文章PPT。P:/blackhat黑帽大会;--
+
 ## 安全基础培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
@@ -54,6 +55,7 @@
 - https://github.com/ihack4falafel/OSCE    //
 - https://github.com/dhn/OSCE    //
 - https://github.com/73696e65/windows-exploits    //
+
 ## 攻防学习资源
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io //MITRE | ATT&CK-CN 中文站;G:/lengjibo/ATT-CK-CN //attck实操实验记录;W:vulhub.org.cn/attack //清华林妙倩 att ck汉化;G:/NomadCN112/Chinese-translation-ATT-CK-framework;--
@@ -84,6 +86,8 @@
 - https://github.com/qazbnm456/awesome-web-security    //Web安全资料和资源列表
 - https://www.lynda.com/JavaScript-tutorials/What-server-side-JavaScript-injection-SSJI/797717/5025838-4.html    //SSJI服务的JavaScript注入
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //Imperva WAF墙公司关于，SSJI服务的JavaScript注入
+- https://github.com/hongriSec/Web-Security-Attack    //红日Web安全攻防实战系列
+- https://github.com/TimelineSec/2020-Vulnerabilities    //Timeline Sec团队2020年复现的所有漏洞。
 ### 学习内网后渗透
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //哔哩哔哩 安全帮 内网高级加固课程
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
@@ -97,6 +101,7 @@
 - https://adsecurity.org    //Active Directory安全攻防。goodjob。
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:/klionsec.github.io;--
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇。
+
 ## CTF相关(Capture The Flag)
 - https://ctftime.org    //CTF排名比赛介绍
 - https://github.com/apsdehal/awesome-ctf    //frameworks, libraries, resources, softwares and tutorials。
@@ -139,6 +144,7 @@
 - https://github.com/Gallopsled/pwntools    //Py。pwn-tools二进制利用框架
 - https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
 - https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn利用，自动攻击脚本
+
 ## 二进制利用
 - https://github.com/FULLSHADE/WindowsExploitationResources/    //Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法。
@@ -163,11 +169,10 @@
 - https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    //家用路由器0day
 ## 漏洞复现
-- https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像。4k。goodjob。
-- https://github.com/fofapro/vulfocus    //漏洞集成平台，将漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;--
-- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;--
+- https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像。goodjob。
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
-- https://github.com/TimelineSec/2020-Vulnerabilities    //Timeline Sec团队2020年复现的所有漏洞。
+- https://github.com/fofapro/vulfocus    //漏洞集成平台、漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;--
+- http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;G:/hongriSec/PHP-Audit-Labs;--
 - https://github.com/clong/DetectionLab    //利用容器搭建安全实验环境。welljob。
 - https://github.com/bingohuang/docker-labs    //Docker镜像在线制作平台
 - https://kernel.ubuntu.com/~kernel-ppa/mainline/    //Ubuntu历史kernel
