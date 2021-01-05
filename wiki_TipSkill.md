@@ -28,7 +28,8 @@
 - https://github.com/secdev/scapy    //Python功能库。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。GOODJOB。
 - https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 - https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
-- https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放
+- https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放。
+- https://github.com/awkman/pywifi    //python操作WiFi模块
 - https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫。
 ### 小众语言栈
 - https://github.com/rust-lang/rust    //静态语言。
