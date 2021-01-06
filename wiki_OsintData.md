@@ -50,9 +50,6 @@
 ### 物联网事件源
 - 物联网关键词：IOT/Car Can/Drone
 - https://www.securityweek.com/iot-security    //物联网安全
-### 信息文件库
-- https://www.techrepublic.com/    //网络安全白皮书
-- http://www.vipread.com/    //信息安全知识库
 
 # 开源情报分析
 - https://github.com/BuzzFeedNews    //网络数据集集合

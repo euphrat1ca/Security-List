@@ -13,9 +13,12 @@
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
 ## 安全知识库
 ### 安全大会资料
-- https://www.hackinn.com/search/?keyword=    //资料站。W:srxh1314.com/;W:infocon.org/;W:vipread.com/;--
+- https://www.hackinn.com/search/?keyword=    //安全资料。W:srxh1314.com/;W:infocon.org/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
 - https://github.com/knownsec/KCon    //KCon大会文章PPT。P:/blackhat黑帽大会;--
+### 信息文件库
+- https://www.techrepublic.com/    //网络安全白皮书
+- http://www.vipread.com/    //信息安全知识库
 
 ## 安全基础培训
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
