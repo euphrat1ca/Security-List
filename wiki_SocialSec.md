@@ -68,29 +68,26 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 ### 密码破解还原
 - https://ophcrack.sourceforge.io/    //C。使用彩虹表Rainbow table来破解视窗操作系统（xp、vista）下的LAN Manager散列（LM hash）的计算机程序。
 - https://securityxploded.com/download.php/    //各种密码解密方向工具。
-- https://github.com/hashcat/hashcat    //C。哈希还原破解。greatjob。P:hashcat.net/cap2hccapx/ //cap包转hccapx包;--
-- https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具
-- https://github.com/s3inlc/hashtopolis    //php。hashcat的分布式破解工具，支持C#与python客户端。
+- https://github.com/hashcat/hashcat    //C。哈希还原破解。greatjob。P:hashcat.net/cap2hccapx/ //cap转hccapx;--
+- https://github.com/fireeye/gocrack    //Go。基于hashcat 3.6.0+的分布式密码破解工具。G:/f0cker/crackq;/s3inlc/hashtopolis;--
 - https://github.com/chris408/known_hosts-hashcat    //Py。利用hashcat破解ssh密码hash。
 - https://github.com/clr2of8/DPAT    //Py。利用hashcat等工具域密码进行破解测试。
-- https://github.com/psypanda/hashID    //Py。使用'hash'，对超过220种hash识别。
-- https://github.com/AnimeshShaw/Hash-Algorithm-Identifier    //Py3。对超过160种hash识别。
-- https://github.com/s0md3v/Hash-Buster    //调用多个API进行hash破解查询。
-- https://github.com/testsecer/Md5Decrypt    //C#。md5多接口查询基于网上web API的MD5搜索工具。
+- https://github.com/psypanda/hashID    //Py。超过220种hash识别。G:/AnimeshShaw/Hash-Algorithm-Identifier;--
 - https://github.com/magnumripper/JohnTheRipper    //C。开膛手john利用已知密文破解明文密码。
-- https://github.com/shinnok/johnny    //C++。John The Ripper Windows 界面GUI。
-- https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版。利用“已知明文攻击”破解加密压缩包。
-- https://github.com/thehappydinoa/iOSRestrictionBruteForce    //Py。实现的 ios 访问限制密码破解工具
-- https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具
-- https://www.ru.nl/publish/pages/909282/draft-paper.pdf    //Intro。破解SSD下使用BitLocker加密
+- https://github.com/shinnok/johnny    //C++。John The Ripper Windows。界面GUI。
+- https://www.52pojie.cn/thread-275945-1-1.html    //ARCHPR Pro4.54绿色中文破解版，利用已知明文破解加密压缩包。
 - https://github.com/fox-it/adconnectdump    //Py。Azure AD凭证导出工具。
 - https://github.com/DoubleLabyrinth/how-does-navicat-encrypt-password    //Navicate数据库密码解密。
 - https://github.com/MrSqar-Ye/wpCrack    //wordpress hash破解
-- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。解密weblogic密文。
-- https://github.com/NetSPI/WebLogicPasswordDecryptor    //java,PS。WebLogic密码破解。
+- https://github.com/TideSec/Decrypt_Weblogic_Password    //Java。WebLogic密码破解。G:/NetSPI/WebLogicPasswordDecryptor;--
 - https://www.passfab.com/    //excel密码破解
 - https://github.com/bdutro/ibm_pw_clear    //IBM x3550/x3560 M3 bios密码清除重置工具。
+- https://github.com/thehappydinoa/iOSRestrictionBruteForce    //Py。实现的 ios 访问限制密码破解工具。
+- https://github.com/e-ago/bitcracker    //C。首款开源的BitLocker密码破解工具
+- https://www.ru.nl/publish/pages/909282/draft-paper.pdf    //Intro。破解SSD下使用BitLocker加密。
 ### 在线密码破解
+- https://github.com/s0md3v/Hash-Buster    //调用多个API查询hash破解。
+- https://github.com/testsecer/Md5Decrypt    //C#。基于web API的md5多接口查询搜索。
 - https://www.cmd5.com/    //HASH密码在线破解。限制位数
 - https://hashkiller.co.uk/Cracker    //密码破解。Google reCAPTCHA v3。
 - http://hashtoolkit.com    //HASH密码在线破解。社区版
@@ -100,6 +97,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - http://www.xmd5.org    //md5密码破解。需要登录
 - http://pmd5.com    //md5密码破解。需要验证码
 - https://www.onlinehashcrack.com    //md5密码破解。需要验证码
+
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
@@ -114,6 +112,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Edu4rdSHL/tor-router    //Bash。使用tor代理全部流量。dnsleaktest.com dns检测。
 - https://github.com/trimstray/multitor    //Bash。启用多个TorBrowser通道转发流量，并设置负载均衡
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
+
 ## 主动防御
 - https://tom0li.github.io/反制攻击队和防守人员/    //防守反击
 - Bot扫描肉鸡->捕获IP->捕获payload->反向回打

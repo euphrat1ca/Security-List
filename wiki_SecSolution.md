@@ -85,7 +85,6 @@
 - 公众号：终端安全运营年度笔记    //
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
-- https://github.com/safernandez666/TelegramBot    //IOC威胁情报机器人，对接多api
 ### SOC建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单

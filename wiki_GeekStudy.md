@@ -140,7 +140,7 @@
 - https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。goodjob。
 - https://gchq.github.io/CyberChef/    //JS。命令反混淆，密码解密。testjob。G:/gchq/CyberChef;--
 - https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
-- https://github.com/mufeedvh/basecrack    //Py3。全base编码检测。GOODJOB。
+- https://github.com/mufeedvh/basecrack    //Py3。全版本base编码检测。GOODJOB。
 ### CTF利用Pwn
 - http://www.gnu.org/software/gdb/download/    //GDB: The GNU Project Debugger。greatjob。G:/hellogcc/100-gdb-tips;G:/cyrus-and/gdb-dashboard;G:/cs01/gdbgui;--
 - https://github.com/pwndbg/pwndbg    //Py。GDB插件。

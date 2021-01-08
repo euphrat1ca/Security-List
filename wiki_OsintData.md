@@ -73,13 +73,24 @@
 - https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
 - https://github.com/mannirulz/BotDAD    //Py3。使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
 - https://github.com/lion-gu/ioc-explorer    //Py。从多数据源进行关联指标（IOC）自动探索
-### 常用报文库开源协议库
+### 报文协议库
 - https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
 - https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
 - https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
 - http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
 - http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
 - https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
+
+## 多维度情报源
+- https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
+- http://www.payer.org/test/    //恶意邮件地址电话公示
+- https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
+- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin。
+- https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
+- https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
+- https://rapiddns.io/    //网站域名IP情报源
+- http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
+- https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
 ### 地理定位库
 - https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
 - https://icsmap.shodan.io/    //shodan关于工业协议分布示意图。P:/ics-radar.shodan.io;--
@@ -96,24 +107,14 @@
 - cellphonetrackers.org    //手机定位追踪器
 - https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
 
-## 多维度情报源
-- https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
-- http://www.payer.org/test/    //恶意邮件地址电话公示
-- https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
-- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin。
-- https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
-- https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
-- https://rapiddns.io/    //网站域名IP情报源
-- http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
-- https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
-### 威胁情报源
-- https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
+## 威胁情报狩猎
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
 - https://www.virustotal.com/    //在线威胁情报平台。
 - https://ti.qianxin.com/    //奇安信威胁情报平台。Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
-- https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
-- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报多源收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
+- https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
+### 威胁情报源
+- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
 - https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址。可集成bro
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
@@ -123,7 +124,13 @@
 - http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP\域名
 - reputation.alienvault.com/reputation.data/    //恶意IP\域名
 - https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名。
-- https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
+### 威胁情报分析
+- https://github.com/safernandez666/TelegramBot    //IOC威胁情报机器人，对接api
+- https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
+- https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
+- https://norsecorp.com/    //可视化展示攻击者是谁以及他们所追求的数据内容。
+- https://github.com/fireeye/ThreatPursuit-VM    //火眼用于威胁情报分析的Windows虚拟机
+- https://github.com/felix83000/Watcher    //基于Django的多API分析工具。webgui。
 ### APT威胁情报
 - https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;
 - https://github.com/blackorbird/APT_REPORT    //黑鸟apt组织报告与公开文件
@@ -135,22 +142,19 @@
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
 
-## 情报人员开源工具
+## 情报人员开源利用
 ### 情报手册
 - https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《Combat Intelligence》（战斗情报）
 - https://www.academia.edu/16427338/Field_Manual_30-5_Combat_Intelligence_1951?auto=download    //《Field Manual 30-5, Combat Intelligence 1951》（野战手册30-5，战斗情报1951）
 - https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《KUBARK反间谍审讯》手册
 - https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf/    //CIA官网《Simple Sabotage Field Manual》 手册
-### 事实真相验证
+### 真相验证
 - https://hoaxy.iuni.iu.edu/faq.html    //在线数据可视化展示，文章传播途径、热度
 - http://mediabugs.org/    //媒体（例如报纸，杂志，广播等）中错误且可以纠正的信息
 - https://www.politifact.com/    //新闻事实检查，使用评级量表对记者，政治人物和其他人的言论进行可信度评级
 - https://www.factcheck.org/scicheck/    //评估对公共政策有影响的虚假和误导性科学主张的可信度
 - https://www.snopes.com/    //事实检查网站，包括城市传说，谣言，神话，可疑的照片和视频，文章和公众人物提出的主张。
 - https://verificationjunkie.com/    //帮助验证和事实检查，以及评估目击者报告信息的有效性
-### 威胁情报分析
-- https://norsecorp.com/    //可视化展示攻击者是谁以及他们所追求的数据内容。
-- https://github.com/fireeye/ThreatPursuit-VM    //火眼用于威胁情报分析的Windows虚拟机
 ### 图像搜索
 - https://www.imageidentify.com/    //图像识别，百度、谷歌识图
 - http://www.opentopia.com/    //汇总全球公共实时流网络摄像头和监视摄像机
