@@ -114,35 +114,35 @@
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
 ### 威胁情报源
-- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报收集，包含urlscan.io;urlquery.net;phishtank.com;openphish.com;--
-- https://intel.criticalstack.com/    //Intel威胁情报库，恶意IP地址。可集成bro
+- https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报收集。W:urlscan.io;urlquery.net;phishtank.com;openphish.com;--
+- https://intel.criticalstack.com/    //Intel威胁情报库可集成bro，恶意IP地址。
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
 - https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv/    //CobaltStrike服务端IP地址
 - https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1/    //洋葱路由出口节点
 - https://isc.sans.edu/api/threatlist/shodan/    //shodan撒旦扫描器节点
-- http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP\域名
-- reputation.alienvault.com/reputation.data/    //恶意IP\域名
-- https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP\域名。
+- http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP域名
+- reputation.alienvault.com/reputation.data/    //恶意IP域名
+- https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP域名
 ### 威胁情报分析
-- https://github.com/safernandez666/TelegramBot    //IOC威胁情报机器人，对接api
+- https://github.com/safernandez666/TelegramBot    //IOC威胁情报机器人对接api
 - https://github.com/Te-k/harpoon    //Py。基于osint的威胁情报命令行工具
 - https://github.com/OpenCTI-Platform/opencti    //JS。网络威胁情报平台
-- https://norsecorp.com/    //可视化展示攻击者是谁以及他们所追求的数据内容。
+- https://norsecorp.com/    //可视化展示攻击者是谁，以及他们所追求的数据内容。
 - https://github.com/fireeye/ThreatPursuit-VM    //火眼用于威胁情报分析的Windows虚拟机
 - https://github.com/felix83000/Watcher    //基于Django的多API分析工具。webgui。
 ### APT威胁情报
-- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;
+- https://unit42.paloaltonetworks.com/    //平底锅情报IOC (Indicators of compromise)。G:/pan-unit42/iocs;--
 - https://github.com/blackorbird/APT_REPORT    //黑鸟apt组织报告与公开文件
 - https://github.com/Yeti-791/APT-Guide    //apt组织分析文档
 - https://github.com/kbandla/APTnotes    //各种公开的文件和相关的APT笔记，还有软件样本
-- https://git.laucyun.com/security/APT34    //APT34/OILRIG 资源文档文件泄露
+- https://git.laucyun.com/security/APT34    //APT34 OILRIG 资源文档文件泄露
 - https://ht.transparencytoolkit.org    //Hacking Team 400G泄露
 - https://pan-unit42.github.io/playbook_viewer/    //针对apt组织的威胁情报汇总
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
 
-## 情报人员开源利用
+## 情报人员利用
 ### 情报手册
 - https://nsarchive2.gwu.edu/NSAEBB/NSAEBB27/docs/doc01.pdf/    //《Combat Intelligence》（战斗情报）
 - https://www.academia.edu/16427338/Field_Manual_30-5_Combat_Intelligence_1951?auto=download    //《Field Manual 30-5, Combat Intelligence 1951》（野战手册30-5，战斗情报1951）
