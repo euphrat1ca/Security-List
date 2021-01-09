@@ -90,7 +90,7 @@
 - https://mqttx.app/cn/    //跨平台 MQTT 5.0 客户端工具
 - https://www.anquanke.com/post/id/212335    //物联网安全之MQTT协议安全。P:/post/id/216074 //物联网安全之MQTT渗透实战;--
 - https://github.com/emqx/emqx    //Erlang。分布式 MQTT 消息服务器。W:tools.emqx.io //mqtt在线测试工具;W:mqttfx.jensd.de;G:/thomasnordquist/MQTT-Explorer;--
-- https://github.com/akamai-threat-research/mqtt-pwn    //Py。mqtt协议测试工具。G:/zombiesam/joffrey //MQTT爆破脚本;--
+- https://github.com/akamai-threat-research/mqtt-pwn    //Py。mqtt渗透测试框架。G:/zombiesam/joffrey //MQTT爆破脚本;--
 
 ## 智能设备安全
 - https://github.com/vletoux/SpoolerScanner    //检测 Windows 远程打印机服务是否开启的工具
