@@ -41,12 +41,12 @@
 ### Golang开发
 - https://github.com/voidint/g    //gvm Golang版本管理控制。设置国内镜像源环境变量`"G_MIRROR" -> https://golang.google.cn/dl/`。
 - https://goproxy.io/zh/    //go镜像源国内库加速。W:goproxy.cn/;--
-- https://github.com/euphrat1ca/blackhat-go    //go灰帽编程。
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
-- https://github.com/qcrao/Go-Questions    //Go 语言学习入门和进阶知识（从问题切入）。
 - https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
+- https://github.com/qcrao/Go-Questions    //Go 语言学习入门和进阶知识（从问题切入）。
 - https://github.com/halfrost/LeetCode-Go    //go leetcode
+- https://github.com/euphrat1ca/blackhat-go    //go灰帽编程样例代码。
 - https://github.com/netxfly/x-crack    //go。端口扫描爆破工具开发。goodjob。
 ### Java开发
 - https://sdkman.io/    //Java jdk版本控制。
@@ -124,6 +124,7 @@
 - https://github.com//chinese-poetry/chinese-poetry    //Py。中华最全诗词库数据
 ### 图像分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
+- https://github.com/PeterL1n/BackgroundMattingV2    //华盛顿大学研究员开源的实时视频抠图工具
 - https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。

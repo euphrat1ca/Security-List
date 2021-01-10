@@ -1,4 +1,4 @@
-# 安全相关资源列表
+# 安全知识库
 - https://arxiv.org    //康奈尔大学（Cornell University）开放文档
 - https://github.com/sindresorhus/awesome    //awesome系列
 - http://www.owasp.org.cn/owasp-project/owasp-things    //OWASP项目
@@ -8,10 +8,20 @@
 - https://github.com/tom0li/collection-document    //安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    //资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    //机器学习算法、AI模型、渗透测试工具
-- https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。welljob。
-- http://paper.tidesec.com/    //远控免杀 Wiki、红蓝对抗 Wiki、工控安全Wiki、IoT物联网安全wiki、移动安全Wiki、应急响应Wiki、代码审计Wiki。
+- https://github.com/bt3gl/Pentesting-Toolkit    //CTF、逆向、移动端、网络安全、web安全、工具使用。
+- http://paper.tidesec.com/    //远控免杀、红蓝对抗、工控安全、IoT物联网安全、移动安全、应急响应、代码审计
 - https://null-byte.wonderhowto.com    //msf/fb/wifi/pass/取证/social/信息收集
-## 安全知识库
+## 安全培训资源
+- https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
+- http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
+- https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
+- https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
+- https://github.com/ym2011/SecurityManagement    //安全管理体系、ISO27001、等级保护、安全评审
+- https://space.bilibili.com/37422870    //安全入门视频
+- https://github.com/tiancode/learn-hacking    //网络安全入门。G:/Bypass007/Learn-security-from-0;--
+- https://github.com/knownsec/RD_Checklist    //知道创宇技能表
+- https://github.com/ChrisLinn/greyhame-2017    //灰袍技能2017版本
+- https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普培训。
 ### 安全大会资料
 - https://www.hackinn.com/search/?keyword=    //安全资料。W:srxh1314.com/;W:infocon.org/;--
 - http://www.irongeek.com/i.php?page=security/hackingillustrated    //国内外安全大会相关视频与文档
@@ -19,18 +29,6 @@
 ### 信息文件库
 - https://www.techrepublic.com/    //网络安全白皮书
 - http://www.vipread.com/    //信息安全知识库
-
-## 安全基础培训
-- https://book.yunzhan365.com/umta/rtnp/mobile/index.html    //网络安全科普小册子
-- http://sec.cuc.edu.cn/huangwei/textbook/ns/    //网络安全电子版教材。中传信安课程网站
-- https://ilearningx.huawei.com/portal/#/portal/EBG/26    //华为e学云。安全科普
-- https://keenlab.tencent.com/zh/index.html    //腾讯科恩实验室
-- https://github.com/ym2011/SecurityManagement    //分享安全管理体系、ISO27001、等级保护、安全评审的经验。
-- https://space.bilibili.com/37422870    //安全入门视频
-- https://github.com/tiancode/learn-hacking    //入门网络安全。G:/Bypass007/Learn-security-from-0;--
-- https://github.com/knownsec/RD_Checklist    //知道创宇技能列表
-- https://github.com/ChrisLinn/greyhame-2017    //灰袍技能书2017版本
-- https://www.butian.net/School/content?id=307/    //移动通信网络渗透测试科普培训。
 ### 使用手册指南
 - https://www.cnblogs.com/backlion/p/10616308.html    //Coablt strike官方教程中文译版本
 - https://github.com/aleenzz/Cobalt_Strike_wiki    //Cobalt Strike系列 教程使用
@@ -53,13 +51,13 @@
 - https://github.com/RustyShackleford221/OSCP-Prep    //OSCP-EXAM
 - https://github.com/lsh4ck/oscp    //oscp历程。lshack.cn备战
 - https://0xdarkvortex.dev/index.php/2018/04/17/31-days-of-oscp-experience/    //31 days of OSCP Experience
-#### OSCE二进制漏洞
+#### OSCE二进制利用
 - https://www.freebuf.com/news/206041.html    //中文首发丨OSCE（Offensive Security Certified Expert）考证全攻略
 - https://github.com/ihack4falafel/OSCE    //
 - https://github.com/dhn/OSCE    //
 - https://github.com/73696e65/windows-exploits    //
 
-## 攻防学习资源
+## 攻防学习
 - https://attack.mitre.org    //mitre科技机构对攻击技术的总结wiki，攻击矩阵模型。
 - https://github.com/infosecn1nja/awesome-mitre-attack    //Mitre ATT&CK™框架资源收集。Web:huntingday.github.io //MITRE | ATT&CK-CN 中文站;G:/lengjibo/ATT-CK-CN //attck实操实验记录;W:vulhub.org.cn/attack //清华林妙倩 att ck汉化;G:/NomadCN112/Chinese-translation-ATT-CK-framework;--
 - https://github.com/Micropoor/Micro8    //Microporor高级攻防100课。goodjob。PHP安全新闻早8点课程。
@@ -80,7 +78,7 @@
 - https://github.com/myselfexplorer/hackingLibrary    //社工大佬的笔记手册
 - https://payloads.online/archivers/2019-05-21/1    //鱼叉攻击-尝试。qingxuan。
 - https://github.com/shegongbook/shegonganli    //社工案例
-### 学习Web安全攻防
+### 学习Web安全
 - https://kennel209.gitbooks.io/owasp-testing-guide-v4    //OWASP 安全测试指南 v4.0/Owasp Testing Guide v4
 - https://portswigger.net/web-security    //burpsuite官方web安全材料与实验室。testjob。
 - https://wizardforcel.gitbooks.io/web-hacking-101/content    //Web Hacking 101 中文版
@@ -91,7 +89,7 @@
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //Imperva WAF墙公司关于，SSJI服务的JavaScript注入
 - https://github.com/hongriSec/Web-Security-Attack    //红日Web安全攻防实战系列
 - https://github.com/TimelineSec/2020-Vulnerabilities    //Timeline Sec团队2020年复现的所有漏洞。
-### 学习内网后渗透
+### 学习后渗透
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //哔哩哔哩 安全帮 内网高级加固课程
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:/Ridter/Intranet_Penetration_Tips;-
@@ -104,54 +102,15 @@
 - https://adsecurity.org    //Active Directory安全攻防。goodjob。
 - https://3gstudent.github.io    //AD域渗透/DNS/可信目录/横向移动。G:/klionsec.github.io;--
 - https://www.anquanke.com/post/id/87976    //Powershell攻击指南黑客后渗透之道系列——基础篇\进阶利用\实战篇。
+### 学习逆向分析
+- https://www.youtube.com/playlist?list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z    //IDA逆向工程入门
+- https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
+- https://www.bilibili.com/video/BV1J5411x7qz    //钱林松老师受华中科技大学的邀请，直播讲座：逆向分析技术引导
+- https://bbs.pediy.com/thread-263979.htm    //[原创]《逆向分析-使用关键字进行功能破解》 
 
-## CTF相关(Capture The Flag)
-- https://ctftime.org    //CTF排名比赛介绍
-- https://github.com/apsdehal/awesome-ctf    //frameworks, libraries, resources, softwares and tutorials。
-- https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS。
-- https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
-- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:/imsebao/Code-Audit //代码审计;--
-- https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频。10K
-### WriteUps解题思路
-- Chamd5公众号 #CTF-WriteUp
-- 公众号 VulnHub通关日记-DC_    //vulnhub write up
-- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:/hongriSec/CTF-Training;Github:/balsn/ctf_writeup;--
-- https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
-- https://github.com/manoelt/50M_CTF_Writeup    //$50 million CTF Writeup
-### CTF靶场平台
-- https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
-- https://github.com/CTFd/CTFd    //py2。基于flask的动态Capture The Flag framework
-- https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台。
-- https://github.com/wuhan005/Asteroid/    //C#。CTF AWD 实时 3D 攻击大屏
-- https://github.com/vidar-team/Cardinal/    //Go。CTF ⛳️ AWD (Attack with Defense) 线下赛平台
-- https://github.com/gabemarshall/microctfs    //SHELL,JS。小型ctf镜像docker
-- https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
-- https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
-- https://github.com/m0xiaoxi/AWD_CTF_Platform    //CTF-AWD 训练平台
-### CTF杂项
-- https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
-- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
-### CTF攻防AWD
-- https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
-- https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
-- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
-### CTF密码学
-- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。G:/Acmesec/CTFCrackTools-V2;--
-- https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。goodjob。
-- https://gchq.github.io/CyberChef/    //JS。命令反混淆，密码解密。testjob。G:/gchq/CyberChef;--
-- https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
-- https://github.com/mufeedvh/basecrack    //Py3。全版本base编码检测。GOODJOB。
-### CTF利用Pwn
-- http://www.gnu.org/software/gdb/download/    //GDB: The GNU Project Debugger。greatjob。G:/hellogcc/100-gdb-tips;G:/cyrus-and/gdb-dashboard;G:/cs01/gdbgui;--
-- https://github.com/pwndbg/pwndbg    //Py。GDB插件。
-- https://github.com/Gallopsled/pwntools    //Py。pwn-tools二进制利用框架
-- https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
-- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn利用，自动攻击脚本
-
-## 二进制利用
+## 学习漏洞挖掘
 - https://github.com/FULLSHADE/WindowsExploitationResources/    //Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    //160个CrackMe，附破解方法。
-- https://www.youtube.com/playlist?list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z    //IDA逆向工程入门
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    //0day安全：软件漏洞分析技术（第2版）。漏洞战争：软件漏洞分析精要、加密与解密（第4版）、modern windows exploit、cnit的二进制教程、awesome windows exploit;--
 - https://www.youtube.com/channel/UC_PU5Tk6AkDnhQgl5gARObA    //pwn学习三部曲学习
 - https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/    //exploit编写系列教程,10篇,后续在corelan网站上
@@ -169,8 +128,8 @@
 - https://github.com/hanc00l/rop_linux_kernel_pwn    //Linux漏洞挖掘
 - https://github.com/xairy/linux-kernel-exploitation    //Linux漏洞挖掘
 - https://azeria-labs.com/    //arm 溢出
-- https://github.com/Ma3k4H3d/Papers    //AI/二进制逆向
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    //家用路由器0day
+
 ## 漏洞复现
 - https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像。goodjob。
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
@@ -218,3 +177,46 @@
 - https://www.mozhe.cn/bug    //墨者学院在线靶场。Web/主机/数据库/取证
 - http://xss.tv    //国内在线靶场。W:ctf.bugku.com;W:adworld.xctf.org.cn;--
 - https://cyberdefenders.org/    //Splunk网络入侵检测靶场，pcap包。goodjob。
+
+## CTF相关(Capture The Flag)
+- https://ctftime.org    //CTF排名比赛介绍
+- https://github.com/apsdehal/awesome-ctf    //frameworks, libraries, resources, softwares and tutorials。
+- https://ctf-wiki.github.io/ctf-wiki/    //CTFwiki，Misc/Crypto/Web/Assembly/Executable/Reverse/Pwn/Android/ICS。
+- https://firmianay.gitbooks.io/ctf-all-in-one    //CTF-All-In-One 《CTF 竞赛入门指南》。西电信安协会
+- https://www.butian.net/School    //补天培训。CTF/攻防/硬件/社工/开发/代码审计。goodjob。G:/imsebao/Code-Audit //代码审计;--
+- https://github.com/Hacker0x01/hacker101    //Ruby。hacker one联名的Web攻防教学，有ctf靶场和视频。10K
+### WriteUps解题思路
+- Chamd5公众号 #CTF-WriteUp
+- 公众号 VulnHub通关日记-DC_    //vulnhub write up
+- https://github.com/susers/Writeups  //国内玩各大CTF赛题及writeup整理。Github:/hongriSec/CTF-Training;Github:/balsn/ctf_writeup;--
+- https://github.com/balsn/ctf_writeup    //CTF writeups from Balsn
+- https://github.com/manoelt/50M_CTF_Writeup    //$50 million CTF Writeup
+### CTF靶场平台
+- https://github.com/facebook/fbctf    //HACK,PHP。CTF比赛平台搭建。
+- https://github.com/CTFd/CTFd    //py2。基于flask的动态Capture The Flag framework
+- https://github.com/zhl2008/awd-platform    //AWD攻防比赛平台。
+- https://github.com/wuhan005/Asteroid/    //C#。CTF AWD 实时 3D 攻击大屏
+- https://github.com/vidar-team/Cardinal/    //Go。CTF ⛳️ AWD (Attack with Defense) 线下赛平台
+- https://github.com/gabemarshall/microctfs    //SHELL,JS。小型ctf镜像docker
+- https://github.com/giantbranch/pwn_deploy_chroot    //Py。部署多个pwn题到一个docker容器中
+- https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial    //C++。为CTF比赛编写CrackMe软件。
+- https://github.com/m0xiaoxi/AWD_CTF_Platform    //CTF-AWD 训练平台
+### CTF杂项
+- https://github.com/adon90/pentest_compilation    //ctf比赛与OSCP考试中常见的知识点和命令
+- https://www.wishingstarmoye.com/ctf/autokey    //CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
+### CTF攻防AWD
+- https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    //CTF攻防AWD经验总结
+- https://github.com/NEALWE/AWD_FrameWork    //Py3。awd框架，比赛常用脚本。
+- https://github.com/Wfzsec/awd_attack_framework    //PHP。AWD(Attack With Defense,攻防兼备)常用脚本+不死马+crontab+防御方法。
+### CTF密码学
+- https://github.com/0Chencc/CTFCrackTools    //kotlin与java。CTF工具框架，支持Crypto，Mis等。支持python插件。G:/Acmesec/CTFCrackTools-V2;--
+- https://github.com/guyoung/CaptfEncoder    //Nodejs。基于Electron。跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。goodjob。
+- https://gchq.github.io/CyberChef/    //JS。命令反混淆，密码解密。testjob。G:/gchq/CyberChef;--
+- https://github.com/3summer/CTF-RSA-tool    //Py2。RSA基本题型ctf套路。
+- https://github.com/mufeedvh/basecrack    //Py3。全版本base编码检测。GOODJOB。
+### CTF利用Pwn
+- http://www.gnu.org/software/gdb/download/    //GDB: The GNU Project Debugger。greatjob。G:/hellogcc/100-gdb-tips;G:/cyrus-and/gdb-dashboard;G:/cs01/gdbgui;--
+- https://github.com/pwndbg/pwndbg    //Py。GDB插件。
+- https://github.com/Gallopsled/pwntools    //Py。pwn-tools二进制利用框架
+- https://github.com/ChrisTheCoolHut/Zeratool    //Py。pwn类型，二进制利用框架
+- https://github.com/ChrisTheCoolHut/Rocket-Shot    //Py。pwn利用，自动攻击脚本

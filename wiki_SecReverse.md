@@ -85,12 +85,12 @@
 - https://github.com/deathmarine/Luyten    //Java。java反编译、代码格式化，解决jd的INTERNAL ERROR问题。3k。
 - https://github.com/pxb1988/dex2jar    //Java。android/.dex/.class文件逆向反编译为java代码，dex-tools SNAPSHOT。
 - https://github.com/Col-E/Recaf    //java。java字节码编辑器。
-### 安卓逆向APK分析
+### 安卓逆向
 - https://www.jianshu.com/p/a12d04fc748f    //Android逆向分析大全
-- https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //
-- https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //
+- https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-2-tools/    //安卓逆向工具
+- https://www.andreafortuna.org/2019/07/18/reverse-engineering-and-penetration-testing-on-android-apps-my-own-list-of-tools/    //安卓应用分析工具
 - https://www.pd521.com    //逆向未来，android逆向菜鸟速参手册完蛋版，AndroidKiller安卓逆向工具。P:/apk改之理ApkIDE;--
-- https://github.com/Surendrajat/APKLab   //vs code apk逆向插件
+- https://github.com/Surendrajat/APKLab   //vs code APK分析插件
 - http://www.gda.wiki:9090/    //Java。全交互式的现代反编译器。G:charles2gan/GDA-android-reversing-Tool;--
 - https://github.com/iBotPeaches/Apktool    //java。Android逆向apk反编译工具.8K.
 - https://github.com/UltimateHackers/Diggy    //Bash。基于apktool反编译后正则匹配从 Apk 文件中提取 URLs 的工具，apkurl。simple
