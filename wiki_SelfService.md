@@ -177,7 +177,7 @@
 ### 图片素材
 - https://uibundle.com/    //Discover free design assets from 229 independent authors
 - https://www.canva.cn/    //平面图设计制作
-- https://github.com/nagadomi/waifu2x    //Lua。无损放大图片。官网`waifu2x.udp.jp/`。P:/bigjpg.com;--
+- https://github.com/nagadomi/waifu2x    //Lua。利用AI技术智能放大图片和视频。W:waifu2x.udp.jp;P:/bigjpg.com;G:/AaronFeng753/Waifu2x-Extension-GUI;--
 - https://www.remove.bg/    //图片背景消除
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图

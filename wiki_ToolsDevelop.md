@@ -27,43 +27,46 @@
 - https://github.com/yandex/burp-molly-pack    //XXE SSRF漏洞利用探测。
 
 ## Cobaltstrike拓展插件
+- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    //[思路/技术] Cobaltstrike系列教程(十)安装扩展。
 - https://wbglil.gitbook.io/cobalt-strike    //基础，进阶，原理。
-- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的`xor64.bin`
-- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
-- https://github.com/Ridter/CS_Chinese_support/    //Cobalt Strike3.0传输信息的汉化插件
-- https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
-- https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
-- https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取`beacon.bin`文件的shellcode。
-- https://github.com/whickey-r7/grab_beacon_config    //NSE。nmap扫描CS后门beacon
-### cobalt strike插件集合
-- https://github.com/harleyQu1nn/AggressorScripts/    //脚本类型介绍，![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
-- https://www.cobaltstrike.com/aggressor-script/index.html    //脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
+### cobaltstrike插件开发
 - https://github.com/dcsync/pycobalt    //Py3。Python API for Cobalt Strike
 - https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    //RedCore红队学院CSTips
+- https://github.com/verctor/CS_xor64    //Java。生成cobaltstrike破解版所需的`xor64.bin`
+### cobalt strike插件集合
+- https://github.com/harleyQu1nn/AggressorScripts/    //收集脚本介绍 ![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://github.com/rsmudge/cortana-scripts    //Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
-- https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x自动化攻击脚本集合
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    //公众号：使用Aggressor脚本雕饰Cobalt Strike
-- https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件
-### cobaltstrike痕迹清理
-- https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
-### cobaltstrike信息搜集
-- https://github.com/outflanknl/Ps-Tools    //cobaltstrike插件。高级进程监控组件。goodjob。
-### cobaltstrike加密通讯
+- https://github.com/FortyNorthSecurity/AggressorAssessor    //cs3.x脚本收集
+- https://github.com/Al1ex/CSPlugins    //Cobaltstrike第三方插件收集
+- https://github.com/Ridter/CS_Chinese_support/    //Cobalt Strike3.0传输信息的汉化插件
+### cobaltstrike检测防御
+- https://github.com/whickey-r7/grab_beacon_config    //NSE。nmap扫描CS后门beacon
+### cobaltstrike综合利用
+- https://github.com/z1un/Z1-AggressorScripts    //工具集汇总
+- https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理。G:/pandasec888/taowu-cobalt-strike //梼杌;--
+- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集。
+### cobaltstrike免杀
+- https://github.com/Mr-Un1k0d3r/SCT-obfuscator    //Cobalt Strike SCT有效载荷混淆器
+- https://github.com/rvrsh3ll/CPLResourceRunner    //Py。提取`beacon.bin`文件的shellcode。
+- https://github.com/search?l=Batchfile&o=desc&q=signtool+sign+pfx&s=indexed&type=Code    //使用第三方证书签名
+### cobaltstrike通讯
+- https://blog.csdn.net/qq_27446553/article/details/79380021    //邮件上线提醒。
 - https://github.com/mdsecactivebreach/CACTUSTORCH    //CDN域前置隐匿技术
 - https://xz.aliyun.com/t/5728/    //反溯源-cs和msf域名前置上线。公众号:DNS上线CS(反溯源);--
-- https://github.com/search?l=Batchfile&o=desc&q=signtool+sign+pfx&s=indexed&type=Code    //使用第三方证书签名
-- https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
-- https://www.cobaltstrike.com/help-malleable-c2    //Malleable C2 Profiles，配置C2-profile文件生成个人cobaltstrike.store文件绕过流量检测
+- https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
 - https://github.com/threatexpress/malleable-c2    //利用jquery文件进行C2通讯，在文件内做了JS混淆绕过防火墙
+- https://github.com/Und3rf10w/external_c2_framework    //Py。Cobalt Strike's External C2构造CS的通讯通道。
+- https://www.cobaltstrike.com/help-malleable-c2    //Malleable C2 Profiles，配置C2-profile文件生成个人`cobaltstrike.store`文件绕过流量检测
 - https://github.com/ryhanson/ExternalC2    //一个用于将通信渠道与Cobalt Strike External C2服务器集成的库
 - https://github.com/threatexpress/cs2modrewrite    //用于将Cobalt Strike配置文件转换为mod_rewrite脚本的工具
-- https://github.com/Mr-Un1k0d3r/CatMyFish    //搜索分类域，为Cobalt Strike beacon C&C设置白名单域
+### cobaltstrike信息搜集
+- https://github.com/pxss/navicatpwd    //Cobalt Strike Navicate解密脚本
+- https://github.com/outflanknl/Ps-Tools    //cobaltstrike插件。高级进程监控组件。goodjob
 ### cobaltstrike攻击拓展
-- https://github.com/killswitch-GUI/CobaltStrike-ToolKit    //AD域控利用脚本集。
 - https://github.com/gloxec/CrossC2/tree/master/src    //cobaltstrike插件。生成CobaltStrike的跨平台beacon。goodjob。G:/mirrors_trending/CrossC;--
 - https://github.com/darkr4y/geacon    //Go。OSX、Linux系统beacon上线。goodjob。
-- https://github.com/DeEpinGh0st/Erebus    //权限维持、横向拓展、本地提权、痕迹清理。G:/pandasec888/taowu-cobalt-strike //梼杌;--
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec    //C++。利用Windows远程访问工具（WMIEXEC,PSEXEC,SMBEXEC, ATEXEC）其一的任务计划进行横向，需要与135端口、445端口进行通信。
 - https://github.com/m0ngo0se/Peinject_dll    //使用shellexecute函数感染正常文件PE。testjob。
 ### cobaltstrike漏洞利用
@@ -72,10 +75,11 @@
 - https://github.com/Rvn0xsy/CVE_2020_0796_CNA    //SMBv3 LPE Exploit
 - https://github.com/rxwx/spoolsystem    //利用漏洞欺骗打印机进行提权
 - https://github.com/dtmsecurity/bof_helper    //Py3。BOF编写辅助器。
+### cobaltstrike痕迹清理
+- https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 
 ## 端口扫描拓展插件
 - https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
-
 ### Nmap相关工具
 - https://raw.githubusercontent.com/nmap/nmap/master/nmap-service-probes    //Nmap指纹库，资产识别指针、配置文件。greatjob。
 - https://xz.aliyun.com/t/6002    //如何修改nmap，重新编译，绕过IDS流量检测。G:/al0ne/Nmap_Bypass_IDS;--
