@@ -14,6 +14,39 @@
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://oktools.net/json2go    //JSON转Golang Struct
+### 软件资源
+- http://www.carrotchou.blog/    //胡萝卜周。W:dayanzai.me;W:zdfans.com/;W:appinn.com;--
+- https://www.ghpym.com/    //果核剥壳
+- http://flyonzone.ys168.com/    //飞扬时空
+- https://www.parsevideo.com/    //视频解析
+- https://github.com/soimort/you-get    //Py。视频下载
+- https://github.com//aria2/aria2    //C++。下载器。
+- https://www.pconlife.com/    //Windows组件，微软依赖、DLL下载
+### 框架源码
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://www.mycodes.net    //源码之家，大部分免费
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://down.admin5.com/    //A5网站源码下载
+- https://www.xd0.com    //xiaodao.la
+- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
+- https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
+### 开发外包
+- https://www.fiverr.com    //美金，短期
+- https://www.upwork.com    // 美金，中长期
+- https://www.proginn.com    //程序员客栈
+- https://zb.oschina.net    //开源众包
+- https://codemart.com    //码市
+- http://www.epwk.com    //威客
+- https://zbj.com    //猪八戒，重庆外包，压价
+- http://task.a5.cn/tasklist.html    //外包
+### 短网址
+- http://xip.io/    //302 bypass，访问这个服务的任意子域名的时候，都会重定向到这个子域名。
+- https://4m.cn/    //短域名302 bypass。
+- https://www.ft12.com    //支持访问数据查询
+- http://sina.lt    //新浪短链接，匿名访问
+- https://dwz.cn    //百度短连接
+- http://suo.im    //访问数据查询，访问
+
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    //在线文档翻译
 - https://zh.wikihow.com    //生活百科
@@ -40,6 +73,7 @@
 - http://www.mkgzs.com    //猫客剑眉大侠SEO引流
 ### 自媒体
 - https://xmt.cn/index    //新媒体管家。135编辑器;壹伴。
+
 # 办公套件
 - https://otp.landian.vip    //Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
 ## 敏捷办公
@@ -58,6 +92,7 @@
 - https://www.dnspod.cn/    //域名解析注册
 - https://www.freenom.com    //注册免费域名，dns解析。
 - https://github.com/luolongfei/freenom    //php。freenom域名自动续期。
+
 ## 协同办公
 - https://sadd.io/    //在线操作系统
 - https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
@@ -69,6 +104,7 @@
 - https://github.com/electerm/electerm    //JS。远程管理工具，类 putty/xshell/mobaxterm 架构。
 - http://www.vuln.cn/tools/ftp    //匿名FTP登录
 - https://github.com/stascorp/rdpwrap    //Pascal。开启异步并发rdp请求服务，3389分身多开。
+
 ## wiki平台
 - https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
 - http://mrdoc.zmister.com/    //Py。基于Django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
@@ -139,6 +175,7 @@
 - https://www.wolframalpha.com    //问题答案搜索
 - https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
 - https://github.com/meilisearch/MeiliSearch    //Rust。搜索引擎服务。
+
 ## 系统运维
 - https://www.itsk.com/index.php    //IT天空，系统操作运维。
 - https://www.itsk.com/thread-401292-1-1.html    //it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
@@ -152,28 +189,30 @@
 - https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/;--
 - https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
 - https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
+
 ## 素材资源
-- https://pixabay.com/    //图像、视频免费使用，商用受保护
 - http://www.aigei.com/    //全资源部分免费商用
 - https://msdn.itellyou.cn    //原生镜像
 - http://patorjk.com    //Text to ASCII Art Generator
 - https://www.wondercv.com/    //简历模板生成
-### 素材采样
+### 素材剪辑
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
-- http://live.weibo333.com/     //B站录播机
-### 图书素材
-- https://www.jiumodiary.com/    //电子书搜索引擎
+- http://live.weibo333.com/     //B站直播录制
+- http://www.shotcut.org/    //视频剪辑。P:Filmora;--
+- https://www.audacityteam.org/    //音频文件和波形图处理工具。P:adobe AU;--
+- https://www.gimp.org/    //图像编辑器
+### 字幕素材
+- https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
 ### 音频素材
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费音频
 ### 视频素材
+- https://pixabay.com/    //图像、视频免费使用，商用受保护
 - https://www.videezy.com/    //免费使用，商用受保护
 - https://www.pexels.com/    //图像、视频免费使用
 - https://mixkit.co/    //在线视频资源素材
 - https://33-app.agilestudio.cn/    //根据台词查找电影
-### 字幕素材
-- https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
 ### 图片素材
 - https://uibundle.com/    //Discover free design assets from 229 independent authors
 - https://www.canva.cn/    //平面图设计制作
@@ -192,7 +231,8 @@
 - https://www.photopea.com/    //在线ps
 ### 字体素材
 - https://www.hellofont.cn/    //
-### 文档素材下载
+### 文档素材
+- https://www.jiumodiary.com/    //电子书搜索引擎
 - https://github.com/ixinzhi/pua-books    //PUA预防套装
 - https://www.cn-ki.net/    //知网/论文期刊检索下载
 - http://sci-hub.tw/    //文献、专利、书籍下载
@@ -200,33 +240,3 @@
 - http://wenku.baiduvvv.com/doc/    //文库下载
 - http://www.pptbz.com    //ppt下载
 - http://www.1ppt.com/    //无登录免费ppt下载
-### 软件资源下载
-- http://www.carrotchou.blog/    //胡萝卜周。W:dayanzai.me;W:zdfans.com/;W:appinn.com;--
-- https://www.ghpym.com/    //果核剥壳
-- http://flyonzone.ys168.com/    //飞扬时空
-- https://www.parsevideo.com/    //视频解析
-- https://github.com/soimort/you-get    //Py。视频下载
-- https://github.com//aria2/aria2    //C++。下载器。
-- https://www.pconlife.com/    //Windows组件，微软依赖、DLL下载
-### 框架源码
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://www.mycodes.net    //源码之家，大部分免费
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://down.admin5.com/    //A5网站源码下载
-- https://www.xd0.com    //xiaodao.la
-- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
-- https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
-### 开发外包
-- https://www.fiverr.com    //美金，短期
-- https://www.upwork.com    // 美金，中长期
-- https://www.proginn.com    //程序员客栈
-- https://zb.oschina.net    //开源众包
-- https://codemart.com    //码市
-- http://www.epwk.com    //威客
-- https://zbj.com    //猪八戒，重庆外包，压价
-- http://task.a5.cn/tasklist.html    //外包
-### 短网址
-- https://www.ft12.com    //支持访问数据查询
-- http://sina.lt    //新浪短链接，匿名访问
-- https://dwz.cn    //百度短连接
-- http://suo.im    //访问数据查询，访问

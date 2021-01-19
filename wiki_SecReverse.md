@@ -3,7 +3,7 @@
 - https://down.52pojie.cn/    //吾爱破解爱盘工具包。W:tool.pediy.com/;--
 - https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide    //恶意软件逆向指南和工具的集合
 - https://github.com/alphaSeclab/awesome-reverse-engineering    //Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT)3000+逆向资源合集。
-- https://github.com/slimm609/checksec.sh    //bash脚本，用于检查可执行文件的属性。goodjob。
+- https://www.chinapyg.com/forum.php?mod=viewthread&tid=83083    //Baymax Patch Tools（简称 Baymax）Parch补丁生成，。P:keymaker2;--
 ## 反调试检测
 - https://github.com/LloydLabs/wsb-detect    //C。检测是否为Windows沙盒。
 ### 应用服务诊断
@@ -52,6 +52,7 @@
 - https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:/32位汇编分析调试器Ollydbg;G:/horsicq/x64dbg-Plugin-Manager;--
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳操作
+- https://github.com/slimm609/checksec.sh    //bash。用于检查可执行文件的属性。goodjob。
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。P:DetectItEasy;--
 - https://github.com/rednaga/APKiD   //Py。查找Android应用程序Yara标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:/TUnpacker;G:/BUnpacker;G:/halfkiss/ZjDroid;--

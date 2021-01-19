@@ -173,6 +173,7 @@
 - https://www.pentesteracademy.com    //教程+视频+实验室+认证培训一套。商业版。
 - https://www.cybrary.it    //网络安全工程师认证。CTF/Labs
 - https://www.xssgame.com    //谷歌XSS挑战
+- https://www.ctfhub.com/    //在线技能树靶场
 - https://www.ichunqiu.com/experiment/direction    //i春秋实验室。Web/主机/应用/pwn教程
 - https://www.mozhe.cn/bug    //墨者学院在线靶场。Web/主机/数据库/取证
 - http://xss.tv    //国内在线靶场。W:ctf.bugku.com;W:adworld.xctf.org.cn;--

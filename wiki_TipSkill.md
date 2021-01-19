@@ -9,6 +9,7 @@
 - http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
 ### 区块矿机
 - https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工
+- https://awesomeopensource.com/projects/miner    //开源挖矿项目
 
 # 编程相关
 ### Web框架
@@ -99,7 +100,11 @@
 - https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 - https://github.com/bokeh/bokeh    //Py。数据图形化展示。WEBGUI。
 - https://clickhouse.tech/    //列式数据库
+### GUI开发
+- https://gitee.com/ying32/govcl    //基于Lazarus的go语言GUI开发。G:/ying32/res2go-ide-plugin;--
+- https://www.lazarus-ide.org/    //类似于QT 5/4的界面开发IDE
 - https://github.com/HandyOrg/HandyControl    //WPF控件
+
 ## 大数据分析
 - https://www.splunk.com/zh-hans_cn/download/splunk-enterprise.html/    //splunk大数据分析框架。
 - https://github.com/taosdata/TDengine    //C。物联网大数据平台。对标kafka、Hadoop、splunk数据处理引擎。

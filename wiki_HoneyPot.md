@@ -40,7 +40,7 @@
 - https://www.busybox.net/    //集成了三百多个最常用Linux命令和工具的软件，良好支持嵌入式。
 - https://www.virtualbox.org    //跨平台多系统支持，社区版。
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
-- https://www.proxmox.com/    //ProxmoxVE类virtualbox架构，开源虚拟化平台，自带防火墙、邮件网关。
+- https://www.proxmox.com/    //Proxmox VE自带防火墙、邮件网关开源虚拟化平台，PVE类virtualbox架构。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
 - https://github.com/utmapp/UTM    //ios 虚拟机
 ## 虚拟化云平台

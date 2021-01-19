@@ -24,7 +24,7 @@
 - http://www.libpng.org/pub/png/apps/pngcheck.html    //图片检测。goodjob。
 ### 音频取证
 - https://embeddedsw.net/OpenPuff_Steganography_Home.html    //图片音视频隐写，加密工具。
-- https://www.audacityteam.org/    //音频文件和波形图处理工具，adobe AU。
+
 ## 资产设备取证
 - https://www.cgsecurity.org/wiki/TestDisk    //磁盘分区修复。
 - https://github.com/google/bochspwn-reloaded    //Bochspwn Reloaded（内核信息泄漏检测）工具
