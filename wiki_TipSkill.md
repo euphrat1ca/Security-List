@@ -53,10 +53,13 @@
 ### 交互式终端
 - https://github.com/c-bata/go-prompt    //Golang创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python创建交互式提示命令行。
-### 加密功能模块
+### 加密功能
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
-### 请求分析模块
-- https://www.postman.com/    //http调试，一键生成demo代码。W:hookbin.com/;--
+
+## 分析调试
+- https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;--
+- https://github.com/zxlie/FeHelper    //前端调试助手，代码格式化、转换等。
+### 请求分析
 - https://github.com/secdev/scapy    //Python功能库。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。GOODJOB。
 - https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
 - https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
