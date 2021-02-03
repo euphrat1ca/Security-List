@@ -112,7 +112,8 @@
 - https://tools.kali.org/information-gathering/snmp-check    //通过snmp协议采集设备oid信息，网管设备信息。P:snmpwalk;--
 
 ## 无人机安全
-- https://github.com/mavlink/qgroundcontrol    //无人机地面站软件。Mission Planner ARDUPILOT;--
+- https://github.com/mavlink/qgroundcontrol    //无人机地面站软件。MissionPlanner ARDUPILOT;--
+- https://www.flightgear.org/    //开源无人机仿真平台SITL为支撑，通过FlightGear渲染真实环境模型。
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
 - https://github.com/PX4/Firmware    //px4无人机飞控。
