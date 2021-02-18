@@ -137,13 +137,30 @@
 - https://www.freebuf.com/ics-articles    //Freebuf工控分类。P:/author/黄一113530;P:/author/yy0308;P:/author/andiSEC;--
 - https://www.yuque.com/tidesec/ics    //Tide安全团队-工控安全Wiki专题。W:plcscan.org //灯塔实验室;--
 - 公众号：【视频-公开课】SCADA系统安全技术—入侵检测    //1分钟 专辑|工业控制系统网络安全。工业安全系列视频。
-### ICS漏洞利用
+### 工控协议利用
+- https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
+- https://www.freebuf.com/articles/ics-articles/218674.html/    //工控安全EthernetIP协议分析。Ethernet/IP协议中间人攻击。
+### ICS 西门子S7利用
+- https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
+- https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
+### ICS Scada利用
+- https://github.com/nezza/scada-stuff    //对SCADA/ICS设备进行逆向与攻击
+- https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
+### ICS Modbus利用
+- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
+- https://github.com/ezelf/modbusKiller    //py。Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。
+- https://github.com/sourceperl/mbtget/    //Perl。Modbus/TCP客户端。
+- https://github.com/0x0mar/smod/    //py2。Modbus渗透测试框架。
+- https://www.freebuf.com/articles/ics-articles/235047.html    //Modbus PLC攻击分析：Smod渗透框架研究
+- https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
+### 工控安全利用
 - https://www.controlthings.io/    //SamuraiSTFU ics kali
 - https://github.com/SadFud/Exploits    //PY/Bash。PWN利用框架 CTFs exploit POCs，工控漏洞POC
 - https://gitlab.com/expliot_framework/expliot    //Py3。工控安全漏洞测试框架
 - https://github.com/dark-lbp/isf    //Py3。基于routersploit框架开发的ISF(Industrial Control System Exploitation Framework)。
 - https://github.com/w3h/isf    //py2。基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
 - https://github.com/digitalbond/Basecamp    //针对工业项目Project Basecamp开发的Metasploit模块利用。功能码（0x5a）问题。
+- https://github.com/otoriocyber/CIMPLICITY-Hardening-Tool    //通用电气(General Electric) CIMPLICITY 工控机利用工具。
 ### 工业场景攻防演练
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    //ICS工业安全。ATT&CK for ICS。
 - https://zhuanlan.zhihu.com/p/93070821    //工控CTF技能点学习总结。
@@ -169,23 +186,6 @@
 - https://github.com/HatBoy/Pcap-Analyzer    //py3。可视化的离线pcap数据包分析器。testjob。
 ### ICS入侵检测
 - https://github.com/digitalbond/Quickdraw-Snort    //基于Suricata的类Snort工业入侵检测规则。W:oisf.net;--
-### ICS代理转发远程访问
+### ICS代理转发
 - https://github.com/knownsec/KCon/blob/master/2018/25日/25日No.4-PLC远控-剑.pdf/    //写入西门子FC块端口复用，用于反向代理接管操作设备，工控木马plc远控。
-- http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理功能。
-
-## 工控协议
-- https://www.freebuf.com/articles/ics-articles/167079.html    //深度解析工控网络流量特点
-- https://www.freebuf.com/articles/ics-articles/218674.html/    //工控安全EthernetIP协议分析。Ethernet/IP协议中间人攻击。
-### ics 西门子S7安全
-- https://www.freebuf.com/articles/ics-articles/188159.html    //工控安全 | 西门子通信协议S7COMM（Part 1）
-- https://github.com/hslatman/awesome-industrial-control-system-security/blob/master/source/s7-cracker.py    //s7密码爆破
-### ics scada安全
-- https://github.com/nezza/scada-stuff    //对SCADA/ICS设备进行逆向与攻击
-- https://github.com/0xICF/SCADAShutdownTool//    //工业控制系统自动化和测试工具，允许安全研究人员和专家测试SCADA安全系统，枚举从属控制器，读取控制器的寄存器值并重写寄存器数据。
-### ics modbus安全
-- https://github.com/yanlinlin82/plcscan    //通过TCP/102和TCP/502识别互联网上PLC设备和其他Modbus设备
-- https://github.com/ezelf/modbusKiller    //py。Schneider Dos PLC Modicon via Modbus Injection。CVE-2017-6017。
-- https://github.com/sourceperl/mbtget/    //Perl。Modbus/TCP客户端。
-- https://github.com/0x0mar/smod/    //py2。Modbus渗透测试框架。
-- https://www.freebuf.com/articles/ics-articles/235047.html    //Modbus PLC攻击分析：Smod渗透框架研究
-- https://www.freebuf.com/articles/ics-articles/235586.html/    //Modbus PLC攻击分析：Python和Mbtget读写PLC
+- http://www.icsmaster.org/archives/ics/690/    //通过Siemens1200 Tsend和Trev模块实现socket代理，plc远程访问。

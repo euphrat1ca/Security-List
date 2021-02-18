@@ -73,6 +73,7 @@
 - https://github.com/seclab-ucr/tcp_exploit    //利用tcp漏洞使无线路由器产生隐私泄露
 - https://www.heibai.org/post/1395.html    //奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问
 - https://github.com/imjdl/CVE-2020-8515-PoC    //DrayTek路由器VigorSwitch命令执行RCE。
+- https://github.com/yumusb/EgGateWayGetShell_py    //锐捷网络-EWEB网管系统 getshell。
 ### 通讯协议漏洞
 - https://github.com/marcinguy/android712-blueborne    //CVE-2017-0781 安卓蓝牙远程代码执行。
 ### 万物互联漏洞

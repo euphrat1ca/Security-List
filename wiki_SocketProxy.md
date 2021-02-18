@@ -26,6 +26,7 @@
 ### 端口复用
 - https://github.com/YDHCUI/TcpTunnel    //Py。通过识别不同协议头路由转发到对应的端口服务。goodjob。
 - https://nets.ec/Shellcode/Socket-reuse    //C。套接字重用。
+- https://mp.weixin.qq.com/s/dSPL4YfvSN8Awo6bKbHPCA     //ShadowMove套接字劫持技术分析，巧妙隐藏与C2的连接
 - https://github.com/earthquake/UniversalDVC    //C++。利用动态虚拟通道注册dll文件，进行rdp服务端口复用
 - https://github.com/cloudflare/mmproxy    //C。在负载均衡HAProxy代理的基础上支持proxy-protocol协议，可以传递客户端TCP协议的真实IP。配合Netsh、Iptables实现端口复用。
 - https://github.com/BeetleChunks/redsails    //PY,C++。利用WinDivert驱动程序与windows内核交互，不更改端口开放状态进行端口复用TCP流量到另一个主机，在目标主机上执行命令且无需创建任何事件日志以及网络连接，可使用powershell。testjob。
