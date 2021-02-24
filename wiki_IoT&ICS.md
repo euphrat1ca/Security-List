@@ -97,6 +97,7 @@
 - https://github.com/RUB-NDS/PRET    //Py3。打印机攻击框架，利用PostScript，PJL和PCL，捕获或操作打印作业，访问打印机的文件系统和内存，甚至对设备造成物理损坏。2k。W:打印机漏洞研究入门;SmartDeviceMonitor打印机设备监控;--
 - https://mp.weixin.qq.com/s/VCZOR9Bw-8ecIqRysUYxKQ/    //公众号：自助终端设备安全剖析
 - https://mp.weixin.qq.com/s/hKuhz6SZ7tXEHUqla1PsIQ/    //公众号：自助终端机的常见入侵方式
+- https://github.com/SySS-Research/WireBug    //Voice over IP渗透工具
 ### 摄像头安全
 - https://github.com/woj-ciech/kamerka    //Py。调用shodan API将扫描到的摄像头地理位置，与twitter地理显示在地图上
 - https://github.com/IncludeSecurity/RTSPhuzz/    //Py。基于Boofuzz框架针对RTSP服务器的Fuzzer。
@@ -114,11 +115,12 @@
 ## 无人机安全
 - https://github.com/mavlink/qgroundcontrol    //无人机地面站软件。MissionPlanner ARDUPILOT;--
 - https://www.flightgear.org/    //开源无人机仿真平台SITL为支撑，通过FlightGear渲染真实环境模型。
+- https://github.com/robin-shaun/XTDrone    //无人机仿真平台
 - https://github.com/dhondta/dronesploit    //Py3。基于sploitkit无人机测试框架。
 - https://github.com/samyk/skyjack    //Perl。基于aircrack破解无人机无线网络，进行飞机劫持
 - https://github.com/PX4/Firmware    //px4无人机飞控。
 - https://www.freebuf.com/geek/96399.html    //极客DIY：使用树莓派制作一架四轴无人机。
-- https://www.freebuf.com/vuls/248162.html    //智能巡检无人机的一些安全思考
+- https://www.freebuf.com/vuls/248162.html    //智能巡检无人机的一些安全思考。
 ## 车联网安全
 - https://github.com/autoguard/awesome-vehicle-security-and-safety    //汽车安全paper。
 - https://github.com/jaredthecoder/awesome-vehicle-security    //车辆安全和汽车黑客的资源清单

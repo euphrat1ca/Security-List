@@ -32,13 +32,13 @@
 - https://github.com/Cherrison/CrackMinApp    //C#,Node.js。(反编译微信小程序)一键获取微信小程序源码(傻瓜式操作)。goodjob。
 
 ## 客户端安全
-- http://www.rohitab.com/apimonitor    //客户端C/S架构API监控工具
+- http://www.rohitab.com/apimonitor    //客户端C/S架构API接口监控工具
 - https://github.com/theLSA/hack-cs-tools    //客户端测试工具检查条目checklist。G:/theLSA/CS-checklist;--
 ### RTOS逆向分析
 - https://github.com/PAGalaxyLab/vxhunter    //Py。一个用于VxWorks嵌入式设备分析的工具集，包含固件分析，串口调试，通过IDA Pro 7.x 、Ghidra 9.x 、Radare2 插件脚本对VxWorks设备调试。
 - https://www.rubydoc.info/github/rapid7/metasploit-framework/Msf/Exploit/Remote/WDBRPC    //wdbrpc内存dump
 ### PC端逆向分析
-- https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;
+- https://www.hex-rays.com    //IDA pro反汇编工具。商业版。W:youtu.be/qCQRKLaz2nQ;--
 - https://github.com/xrkk/awesome-ida    //IDA Pro有关的资源收集
 - https://github.com/onethawt/idaplugins-list    //IDA Plugins插件集合
 - https://github.com/NationalSecurityAgency/ghidra    //Java。NSA出品的软件逆向动态调试框架Ghidra。类IDA架构。

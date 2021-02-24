@@ -63,6 +63,7 @@
 - https://github.com/redcanaryco/atomic-red-team    //Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。G:/blaCCkHatHacEEkr/PENTESTING-BIBLE;--
 - https://github.com/toolswatch/blackhat-arsenal-tools    //blackhat工具集G:/n00py/ReadingList/blob/master/gunsafe.txt;--
 - https://github.com/RedTeamWing/RedTeaming2020    //RedTeaming知识星球2020年安全知识汇总
+- https://pan.shadowsec.org/    //连接世界的暗影工具包
 ## 安全测试系统
 - https://www.parrotsec.org    //鹦鹉安全操作系统。pentest kali系统类。
 - https://tails.boum.org/index.en.html    //tails匿名操作系统。pentest kali系统类。

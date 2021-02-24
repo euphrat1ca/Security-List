@@ -17,6 +17,7 @@
 ### 网站克隆
 - http://www.httrack.com    //网站克隆镜像
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
+- https://github.com/Rvn0xsy/Pricking    //网站反代钓鱼，敏捷启动，js功能插件。
 ### 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads
 - https://github.com/trustedsec/social-engineer-toolkit    //Py。TrustedSec开发的专为社交工程设计的开源渗透测试框架，SET框架支持网站克隆、邮件伪造、反弹shell等。G:/Raikia/FiercePhish;/securestate/king-phisher;G:/tatanus/SPF;G:/fireeye/ReelPhish;G:/samyoyo/weeman;G:/MSG-maniac/mail_fishing;--
@@ -30,7 +31,7 @@
 - https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。goodjob。
 ### 邮件伪造
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
-- https://emkei.cz    //在线邮件伪造。多功能模拟。W:tool.chacuo.net/mailanonymous;--
+- https://emkei.cz    //在线邮件伪造，SPF&DKIM&DMARC协议多功能模拟。W:tool.chacuo.net/mailanonymous;--
 W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/Macr0phag3/email_hack    //Py。钓鱼邮箱伪造。G:/lunarca/SimpleEmailSpoofer;G:/Dionach/PhEmail;--
 - https://www.jetmore.org/john/code/swaks/    //Perl。基于smtp的邮箱域名伪造测试工具。

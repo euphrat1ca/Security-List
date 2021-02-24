@@ -162,8 +162,7 @@
 - https://github.com/OWASP/NodeGoat    //NodeJS应用审计靶场。
 - https://github.com/Charmve/BLE-Security-Attack-Defence    //蓝牙通讯审计靶场。
 - https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/    //Linux提权练习虚拟机文件
-- https://github.com/rapid7/metasploitable3    //metasploit练习系统
-- https://github.com/rapid7/metasploit-vulnerability-emulator    //perl。metasploit模拟环境
+- https://github.com/rapid7/metasploitable3    //metasploit模拟环境。G:/rapid7/metasploit-vulnerability-emulator;--
 - https://github.com/madhuakula/kubernetes-goat/    //容器编排引擎Kubernetes审计靶场。P:/Bust-a-kube;--
 ### 在线靶场学习
 - https://www.wechall.net    //世界知名ctf汇总交流网站

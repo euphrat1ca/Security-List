@@ -82,6 +82,7 @@
 - https://github.com/Marten4n6/EvilOSX    //Py。macos/osx远控，多session。testjob。noupdate。G:/creaktive/tsh //Tiny SHell;--
 - https://github.com/tokyoneon/Armor    //Bash。macOS下利用加密Payload反弹Shell。
 - https://github.com/its-a-feature/Apfell    //Py3。macOS与linux下的js后门利用。Web界面GUI。
+- https://github.com/cedowens/MacC2    //mac osx远控
 ### 移动端远程协助
 - https://spynote.us    //商业版。G:/hamzaharoon1314/SpyNote;--
 - http://droidjack.net/    //商业版。

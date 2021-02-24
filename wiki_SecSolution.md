@@ -61,7 +61,8 @@
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
 - https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
-- https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;
+- https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;--
+- https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
 - https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
 ### 产品设计原型
 - https://www.fireeye.com/cyber-map/threat-map.html    //FireEye公司“网络威胁地图”
@@ -124,11 +125,9 @@
 - https://github.com/0xRadi/OWASP-Web-Checklist    //owasp网站检查条目
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-- https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://blog.csdn.net/qq_39541626/article/details/104891590    //TecTeach。小程序、公众号安全测试list。
-- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
-- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
 - https://xz.aliyun.com/t/2089    //金融科技SDL安全设计checklist。
+- https://github.com/tonghuaroot/Awesome-macOS-Red-Teaming    //macos测试条例
 ### 安全测试速查表
 - https://github.com/HarmJ0y/CheatSheets    //多个工具速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire和PowerSploit）G:/louchaooo/kali-tools-zh;G:/b1n4ry4rms/RedTeam-Pentest-Cheatsheets/;--
 - https://mp.weixin.qq.com/s/y3IdYSIDckQTaPgNQMS7Cg    //公众号：常见端口渗透笔录
@@ -162,12 +161,11 @@
 - https://github.com/kabachook/k8s-security/    //bash,Py。Kubernetes安全集合。
 - https://github.com/aquasecurity/kube-bench    //Go。Kubernete安全检测工具`cisecurity.org/benchmark/kubernetes/`基线测试。
 ### 亚马逊AWS安全相关
-- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究，工具集。
+- https://github.com/RhinoSecurityLabs/Cloud-Security-Research    //Py。AWS云安全研究工具集。G:/toniblyx/my-arsenal-of-aws-security-tools;
 - https://github.com/RhinoSecurityLabs/pacu    //亚马逊AWS漏洞检测框架
 - https://github.com/stuhirst/awssecurity/blob/master/arsenal.md    //AWS 安全检测相关的项目列表
-- https://github.com/toniblyx/my-arsenal-of-aws-security-tools    //AWS安全工具集
-- https://github.com/sa7mon/S3Scanner    //扫描amazon公开的S3 buckets和dump
 - https://github.com/kromtech/s3-inspector    //检测亚马逊AWS S3 bucket permissions
-- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件
-- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具
+- https://github.com/jordanpotti/AWSBucketDump    //枚举AWS S3 buckets以查找敏感机密的文件。G:/sa7mon/S3Scanner;--
 - https://github.com/dowjones/hammer    //Py。AWS的多账户云安全工具，可识别不安全配置与资源中的敏感信息，良好的报告与修复功能。
+- https://github.com/brandongalbraith/endgame    //aws测试工具，一键添加后门。
+- https://github.com/Netflix/repokid    //AWS 最低权限策略部署工具

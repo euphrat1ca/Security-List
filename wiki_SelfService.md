@@ -84,6 +84,9 @@
 - https://github.com/tmux/tmux    //Linux命令行终端加强版。
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
+### 浏览器插件
+- https://github.com/conwnet/github1s    //GitHub代码可视化插件。G:/surfcodes/surf;P:octotree;--
+- 
 ### 网络解析服务
 - https://dynv6.com/    //免费DDNS域名服务。P:小米球Ngrok;G:duckdns.org;G:dynu.com;--
 - https://hsk.oray.com/    //动态域名解析，DDNS服务，域名内网穿透，蒲公英SD-WAN异地组网。W:zerotier.com;--
@@ -119,9 +122,6 @@
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
 - https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理。
 - https://github.com/itcloudy/ERP    //go。基于beego的电商进存销管理系统。
-### API管理
-- https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
-- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台
 ### 项目管理
 - https://www.redmine.org/    //Ruby on rails。类似于jira、禅道的，项目、问题管理工具。W:mantisbt.org;G:/lxerxa/actionview;Gitee:actionview;--
 - https://gitee.com/pengzhile/atlassian-agent    //java。支持和谐版本Atlassian家几乎所有产品(JIRA)，同时支持插件（包括插件市场的第三方插件）
@@ -154,7 +154,7 @@
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 ### 思维导图
-- https://www.draw.io    //在线思维导图/流程图
+- https://app.diagrams.net/    //在线思维导图、流程图。W:www.draw.io;--
 - https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;--
 ### 文档编辑
 - https://www.notion.so/    //项目笔记管理。mybase;--

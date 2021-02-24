@@ -4,10 +4,11 @@
 - https://www.cvebase.com/poc    //漏洞poc统计站。
 - https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;--
 - https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
-- https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
 - https://wiki.wgpsec.org/    //狼组安全团队公开知识库，Web安全、CTF、红蓝对抗。
+- https://github.com/Lcys/Python_PoC    //py3。poc、exp快速编写模板，有众多模范版本。
+- https://github.com/qazbnm456/awesome-cve-poc    //2017-2018年漏洞详情。
 - https://srcincite.io/exploits/    //Steven Seeley漏洞利用，Exchange、Microsoft。G:/sourceincite/sourceincite.github.io/tree/master/pocs;--
 - https://github.com/scannells/exploits    //CVE-2020-27194 Linux提权；CVE-2019-8943 wordpress命令执行；CVE-2019-6977 PHP沙盒绕过。
 ## 漏洞市场/SRC/BugBounty
@@ -142,7 +143,7 @@
 ### Java框架漏洞
 - https://github.com/threedr3am/learnjavabug    //java。Java安全相关的漏洞和技术demo
 - https://github.com/x41sec/slides/blob/master/2019-bsides-stuttgart/YourStackTracesAreLeakingCVEs.pdf    //Java服务异常信息查询敏感信息和漏洞信息列表
-- https://github.com/NickstaDB/BaRMIe    //Java。枚举测试Java RMI（远程调用服务）安全
+- https://github.com/qtc-de/remote-method-guesser    //Java。枚举测试Java RMI（远程调用服务）安全。G:/NickstaDB/BaRMIe;--
 - https://github.com/quentinhardy/jndiat    //Java。Java类名/目录接口/数据库审计检测
 - https://github.com/frohoff/ysoserial    //java。用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html/ 转化java加密指令;--
 - https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial。

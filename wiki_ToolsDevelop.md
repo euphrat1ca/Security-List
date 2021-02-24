@@ -79,7 +79,7 @@
 - https://github.com/QAX-A-Team/EventLogMaster    //RDP日志取证&清除。
 
 ## 端口扫描拓展插件
-- https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap
+- https://github.com/johnnyxmas/scancannon    //Bash。联动masscan和nmap。
 ### Nmap相关工具
 - https://raw.githubusercontent.com/nmap/nmap/master/nmap-service-probes    //Nmap指纹库，资产识别指针、配置文件。greatjob。
 - https://xz.aliyun.com/t/6002    //如何修改nmap，重新编译，绕过IDS流量检测。G:/al0ne/Nmap_Bypass_IDS;--

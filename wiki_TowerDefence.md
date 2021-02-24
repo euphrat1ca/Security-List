@@ -30,7 +30,7 @@
 - https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
 - https://documentation.wazuh.com    //C。开源C/S架构主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
 ### EDR信息监控
-- https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST交互式漏洞挖掘扫描;--
+- https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
 - https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下Hook system_call进程监控的内核级HIDS，支持从内核态获取数据。welljob。斗鱼开源。
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。P:天眼;P:天擎;--
@@ -111,6 +111,7 @@
 - https://github.com/C4o/FBI-Analyzer    //Lua,Go。基于lua虚拟机的Web日志分析系统，插件风格类似ngx-lua，具有拦截、日志传输等模块，秒级加载。G:/C4o/LogFarmer;G:/C4o/IUS;--
 ### 主机日志分析
 - https://github.com/JPCERTCC/LogonTracer    //JS,Py。日本计算机应急团队根据Win登陆记录日志，将关联数据图像可视化，通过neo4j展示分析恶意行为。Github:/Releasel0ck/NetTracer;--
+- https://github.com/ahmedkhlief/APT-Hunter    //收集Windows信息分析apt行为
 - https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:/jpcertcc/sysmonsearch;--
 - http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径。
 - https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义

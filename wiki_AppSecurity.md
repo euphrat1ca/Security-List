@@ -54,11 +54,11 @@
 
 ## 应用安全审计
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
-- https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
-- https://securitylab.github.com/tools/codeql/    //GitHub开源代码审计，插件、函数库形式。G:/github/securitylab;--
+- https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。
 - https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。
-- https://github.com/wufeifei/cobra    //Py。基于AST抽象语法树源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。界面GUI。
+- https://securitylab.github.com/tools/codeql/    //GitHub数据流语法树代码审计，集成插件、函数库形式。G:/github/securitylab;--
+- https://github.com/wufeifei/cobra    //Py。基于AST语法树抽象源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。界面GUI。
 - https://github.com/codespaces-io/codespaces    //VSCode代码审计插件
 - https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
 - https://github.com/jeremylong/DependencyCheck    //Java。对源代码进行扫描识别依赖项版本信息进行漏洞比赛。

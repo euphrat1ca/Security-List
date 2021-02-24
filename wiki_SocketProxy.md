@@ -24,7 +24,7 @@
 - https://github.com/decoder-it/psportfwd    //PowerShell。无需admin权限进行端口转发。
 - https://github.com/davrodpin/mole    //Go。基于ssh的端口转发。
 ### 端口复用
-- https://github.com/YDHCUI/TcpTunnel    //Py。通过识别不同协议头路由转发到对应的端口服务。goodjob。
+- https://github.com/YDHCUI/TcpTunnel    //Py。通过识别不同协议头路由转发到对应的端口服务。goodjob。Knockd敲门复用。
 - https://nets.ec/Shellcode/Socket-reuse    //C。套接字重用。
 - https://mp.weixin.qq.com/s/dSPL4YfvSN8Awo6bKbHPCA     //ShadowMove套接字劫持技术分析，巧妙隐藏与C2的连接
 - https://github.com/earthquake/UniversalDVC    //C++。利用动态虚拟通道注册dll文件，进行rdp服务端口复用

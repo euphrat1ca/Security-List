@@ -57,7 +57,13 @@
 - https://github.com/Cisco-Talos/mutiny-fuzzer    //Py。MikroTik基于pcap包解析的网络协议模糊测试。
 
 ## 自动化测试
-- https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架
+- http://bbs.anjian.com/    //按键精灵。G:/taojy123/KeymouseGo;--
+- https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架。
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
 - https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。
+### 浏览器模拟
+- https://github.com/SeleniumHQ/selenium    //Web headless无头浏览器自动化测试。
+- https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
+- https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
+- http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。

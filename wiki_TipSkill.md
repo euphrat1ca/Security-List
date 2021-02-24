@@ -1,6 +1,6 @@
 # 计算机技术
 - https://github.com/arpitjindal97/technology_books    //编程语言晋级。Premium eBook free for Geeks
-- https://github.com/insoxin/API    //PHP。基于Docker开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台
+- https://github.com/insoxin/API    //PHP。基于Docker开源免费不限制提供生活常用、出行服务、开发工具、金融服务、通讯服务和公益大数据的平台
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
@@ -33,11 +33,6 @@
 - https://github.com/zorlan/skycaiji/    //php。全自动蓝天采集器
 - https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
 - https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
-### 浏览器模拟
-- https://github.com/SeleniumHQ/selenium    //Web headless无头浏览器自动化测试。
-- https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
-- https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
-- http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 
 ## 游戏框架
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
@@ -131,6 +126,7 @@
 - https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
 - https://github.com/lancopku/PKUSeg-python    //Py3。北大中文分词
 - https://github.com//chinese-poetry/chinese-poetry    //Py。中华最全诗词库数据
+- https://github.com/datawhalechina/team-learning-nlp    //NLP自然语言处理笔记
 ### 图像分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
 - https://github.com/PeterL1n/BackgroundMattingV2    //华盛顿大学研究员开源的实时视频抠图工具
