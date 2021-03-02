@@ -2,14 +2,16 @@
 - https://www.freebuf.com/sectool/249572.html    //正确的上网方式：软路由入门指南。techteach。
 - https://github.com/fatedier/frp    //Golang。用于内网穿透的高性能的反向代理应用，多协议支持，支持点对点穿透，范围端口映射。greatjob,25k。G:;todzhang/lcx/;G:/uknowsec/frpModify //公众号:FRP改造计划;--
 - https://github.com/cnlh/nps    //Go。内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。WebGUI,多用户。GOODJOB。
-### 流量代理
+## 流量代理
 - https://github.com/litespeedtech    //轻量级高并发web框架，自带waf/管理后台/模板等。类比nginx。W:openlitespeed.org;--
 - http://openresty.org/    //基于Nginx+Lua的高性能 Web 平台
 - https://github.com/goproxy/goproxy    //Golang代理模块。G:/snail007/goproxy;--
-- https://github.com/imWildCat/scylla    //Py3。智能代理池。G:/SpiderClub/haipproxy;G:/chenjiandongx/async-proxy-pool;G:/TideSec/Proxy_Pool;--
 - https://github.com/sergeyfrolov/httpt    //响应TLS来降低代理被识别的几率。
+### 流量代理池
+- https://www.ip12345.net/    //鲸鱼代理 动态IP修改
+- https://github.com/imWildCat/scylla    //Py3。智能代理池。G:/SpiderClub/haipproxy;G:/chenjiandongx/async-proxy-pool;G:/TideSec/Proxy_Pool;--
 - https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发。
-- https://github.com/realgam3/pymultitor/    //Py。使用多线程Tor代理
+- https://github.com/realgam3/pymultitor/    //Py。使用多线程Tor代理。
 ### 流量转发
 - https://github.com/inconshreveable/ngrok    //Go。端口转发，正反向代理，内网穿透。17K。
 - https://github.com/L-codes/Neo-reGeorg    //Py。`reDuh reGeorg`的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。G:/sensepost/reGeorg;G:/SECFORCE/Tunna;G:/securesocketfunneling/ssf;G:/sysdream/ligolo;G:/FunnyWolf/pystinger;--

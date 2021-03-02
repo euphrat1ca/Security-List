@@ -154,8 +154,8 @@
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
 ### 思维导图
-- https://app.diagrams.net/    //在线思维导图、流程图。W:www.draw.io;--
-- https://www.processon.com/    //拓扑图、流程图，类似Visio。亿图;xmind;--
+- https://app.diagrams.net/    //在线思维导图、流程图。W:draw.io;W:go.gliffy.com/go/html5/launch;--
+- https://www.processon.com/    //拓扑图、流程图，类似Visio。P:亿图;P:xmind ZEN;--
 ### 文档编辑
 - https://www.notion.so/    //项目笔记管理。mybase;--
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--

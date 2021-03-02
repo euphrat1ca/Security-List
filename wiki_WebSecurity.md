@@ -12,7 +12,7 @@
 - https://github.com/OffensivePython/Nscan    //Py。类Masscan和Zmap架构。
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;G:/projectdiscovery/naabu;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
-### 资产信息搜集
+## 资产信息搜集
 - https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/CTF-MissFeng/Watchdog;G:/ody5sey/Voyager;--
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集。
@@ -47,9 +47,6 @@
 - https://github.com/salesforce/jarm    //Python。识别传输层安全性（TLS）指纹，对具有相同TLS配置服务标记，集成于空间测绘资产标签。goodjob。G:/rbsec/sslscan;--
 - https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
-### 资产风险测试
-- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、攻击检测、恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
-- https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 
 ## 资产扫描检测
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，Glass Box iast 代码审计。商业版。
@@ -71,6 +68,9 @@
 - https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高。
 - https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
 - https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
+### 资产风险测试
+- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、攻击检测、恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
+- https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 ### 资产漏洞测试
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
@@ -86,20 +86,6 @@
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
-### 抓包代理调试
-- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la //精易助手;G:/jakubroztocil/httpie;--
-- https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob。
-- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer 进程注入SSL解密。
-
-# Web安全检测
-- https://portswigger.net/research/web-cache-entanglement    //Web缓存投毒的新途径
-- https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
-- https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
-- https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
-- https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
-- https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
-- https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
-- https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。G:/kuiguansec/rcetool;--
 ### 资产&漏洞管理
 - https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:/ATpiu/asset-scan;--
 - https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
@@ -108,9 +94,18 @@
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
 ### 资产&风险预警
 - https://github.com/Ascotbe/Medusa    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能
-- https://github.com/opencve/opencve    //漏洞预警。
+- https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。
 
-## 前端利用
+## Web安全检测
+- https://portswigger.net/research/web-cache-entanglement    //Web缓存投毒的新途径
+- https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
+- https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
+- https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
+- https://github.com/18F/domain-scan    //针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
+- https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
+- https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
+- https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。G:/kuiguansec/rcetool;--
+### 前端利用
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORS域配置错误，CORScanner跨域解析漏洞扫描器。G:/chenjj/CORScanner;--
@@ -122,6 +117,10 @@
 - https://github.com/tijme/angularjs-csti-scanner    //探测客户端AngularJS模板注入漏洞工具。
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
 - https://github.com/deneme056/CJExploiter    //支持拖放功能的点击劫持漏洞利用工具。
+### 抓包代理调试
+- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la //精易助手;G:/jakubroztocil/httpie;--
+- https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob。
+- https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer 进程注入SSL解密。
 ### SSL/TLS安全
 - https://github.com/drwetter/testssl.sh    //Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
@@ -268,11 +267,12 @@
 ### ASP/X Webshells
 - https://github.com/antonioCoco/SharPyShell    //ASP.NET。webshell for C# web application
 
-## API接口安全
-- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。12k。
+## API安全
+- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
 - https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
-- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具
+- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
+- https://github.com/mockoon/cli    //图形化api快速搭建工具。
 ### API接口管理
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。

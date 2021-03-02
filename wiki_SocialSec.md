@@ -130,6 +130,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。W:whoer.net //web应用指纹获取集合;--
 - https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
 - https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源。
+- https://github.com/jonasstrehle/supercookie    //利用favicon进行F-Cache读取，构建唯一ID。
 ### 攻击反制利用
 - https://medium.com/tenable-techblog/reverse-shell-from-an-openvpn-configuration-file-73fd8b1d38da    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。W:freebuf.com/articles/terminal/175862.html;--
 - https://www.exploit-db.com/exploits/38847    /如何优雅的反击扫描你网站的黑客。CVE-2015-4027,Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。

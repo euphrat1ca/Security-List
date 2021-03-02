@@ -180,7 +180,7 @@
 - https://github.com/HurricaneLabs/machinae    //Py。ip/url/file/email/dnsDNS历史记录/hash/domain多接口
 ## 社交媒体搜集
 - https://intelx.io/tools    //Open Source Intelligence & Forensic Tools 人员信息。W:lyzem.com //Telegram搜索引擎;--
-- https://github.com/qeeqbox/social-analyzer    //用于在+300个社交媒体网站上分析和查找个人资料API。
+- https://github.com/qeeqbox/social-analyzer    //通过300+社交媒体api查找和分析个人资料。testjob。
 - https://github.com/Greenwolf/social_mapper    //Py。Trustwave公司SpiderLabs开源的social mapper社交媒体枚举和关联工具，通过人脸识别关联人物侧写
 - https://github.com/needmorecowbell/sniff-paste    //针对 Pastebin 的开源情报收集工具
 - https://recruitin.net    //Easily use Google to search profiles on LinkedIn
