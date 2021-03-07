@@ -21,7 +21,7 @@
 - https://www.fuzzysecurity.com/tutorials.html    //fuzzysecurity教程。"*egghunter"。
 ## 模糊测试利用
 - https://google.github.io/clusterfuzz/    //谷歌集群模糊测试平台
-- https://github.com/google/AFL    //American Fuzzy Lop符合测试和其无数衍生工具。
+- https://github.com/google/AFL    //American Fuzzy Lop 以代码覆盖率作为变异策略的fuzz，符合测试和其无数衍生工具。
 - http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/    //Intro。AFL使用指南。
 - https://github.com/google/oss-fuzz    //C。谷歌对开源项目的进行免费的模糊测试服务
 - https://github.com/bunzen/pySSDeep    //Py。一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:/glaslos/ssdeep;G:/ssdeep-project/ssdeep;--
@@ -31,8 +31,8 @@
 - https://github.com/mxmssh/drAFL    //C。Linux系统模糊测试。G:/atrosinenko/kbdysch;G:/google/oss-fuzz;--
 - https://github.com/googleprojectzero/winafl    //C。Google Project Zero 基于Windows AFL开发的模糊测试框架。P:阿尔法实验室-AFL漏洞挖掘技术漫谈;--
 ### 固件模糊测试
-- https://github.com/qilingframework/qiling    //Py3。基于Unicorn进行固件模拟Qiling Unicornalf IOT模糊测试。goodjob。
-- https://github.com/zyw-200/FirmAFL    //C。针对iot固件IoT firmware灰盒模糊测试。
+- https://github.com/qilingframework/qiling    //Py3。基于Unicorn进行固件模拟Qiling Unicornalf IOT模糊测试。
+- https://github.com/zyw-200/FirmAFL    //C。针对iot固件IoT firmware灰盒模糊测试，覆盖Firmadyne数据库中90.2%的固件，支持mipsel、mipseb和armel三种CPU架构。welljob。P:p2im;P:Hal-fuzz;--
 - https://github.com/k0keoyo/kDriver-Fuzzer    //C。基于ioctlbf框架编写的驱动漏洞挖掘工具kDriver Fuzzer。
 ### 软件模糊测试
 - https://github.com/google/honggfuzz    //C。具有反馈驱动（Feedback-Driven）的持续性软件代码测试。2k。

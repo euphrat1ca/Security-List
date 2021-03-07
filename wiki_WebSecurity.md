@@ -68,9 +68,6 @@
 - https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高。
 - https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
 - https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
-### 资产风险测试
-- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、攻击检测、恶意病毒传播模拟测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
-- https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 ### 资产漏洞测试
 - https://github.com/euphrat1ca/exploitpack    //OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。

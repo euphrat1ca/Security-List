@@ -12,7 +12,7 @@
 - https://awesomeopensource.com/projects/miner    //开源挖矿项目
 
 # 编程相关
-### Web框架
+## Web框架
 - http://www.bt.cn    //宝塔网站管理系统
 - https://github.com/fex-team/webuploader    //JS。文件上传框架。
 - https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端 ant-design-pro设计解决方案。goodjob。
@@ -39,21 +39,25 @@
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
 - https://github.com/OpenDiablo2/OpenDiablo2    //暗黑破坏神2
 ## 编辑器IDE
-- https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译
+- https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
+- https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译。P:jetbrains;--
 - https://github.com/rjpcomputing/luaforwindows/    //Lua。Windows下的lua编辑器。
 - https://github.com/s4n7h0/Halcyon    //Nmap Script (NSE)IDE编辑器
+### 文件比对
+- https://github.com/WinMerge/winmerge    //C++。文件比对。P:Diff;--
+- https://github.com/joxeankoret/pigaios    //基于源代码、二进制文件比对的检测工具。
 ### 编程调试
 - https://github.com/nvbn/thefuck    //Py。Python命令行自动补全改错工具。
 - https://github.com/onelivesleft/PrettyErrors    //Python异常提示库
 ### 交互式终端
 - https://github.com/c-bata/go-prompt    //Golang创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python创建交互式提示命令行。
-### 加密功能
-- https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 
 ## 分析调试
 - https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;--
 - https://github.com/zxlie/FeHelper    //前端调试助手，代码格式化、转换等。
+### 加密功能
+- https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 ### 请求分析
 - https://github.com/secdev/scapy    //Python功能库。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。GOODJOB。
 - https://github.com/saghul/aiodns/    //Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
@@ -92,12 +96,13 @@
 - https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 - https://github.com/ricklamers/gridstudio    //PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。goodjob。
 - https://neo4j.com/graphacademy/neo4j-certification/    //Nosql图数据库，neo4j desktop进行数据关联性图展示。P:Bloom;G:/orgs/neo4j;--
-- https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
-- https://github.com/pyqtgraph/pyqtgraph    //Python数据曲线可视化功能库
 - https://cloud.tencent.com/developer/article/1051994    //62款前端数据可视化插件大盘点，图表、图谱、地图、关系图、立体图。
 - https://me.bdp.cn/    //数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图--
 - https://github.com/bokeh/bokeh    //Py。数据图形化展示。WEBGUI。
+- https://github.com/xflr6/graphviz    //Py。DOT语言创建和呈现图形描述
+- https://github.com/pyqtgraph/pyqtgraph    //Python数据曲线可视化功能库
 - https://clickhouse.tech/    //列式数据库
+- https://github.com/elastic/kibana    //Elasticsearch数据库可视化展示
 ### GUI开发
 - https://gitee.com/ying32/govcl    //基于Lazarus的go语言GUI开发。G:/ying32/res2go-ide-plugin;--
 - https://www.lazarus-ide.org/    //类似于QT 5/4的界面开发IDE
@@ -127,16 +132,18 @@
 - https://github.com/lancopku/PKUSeg-python    //Py3。北大中文分词
 - https://github.com//chinese-poetry/chinese-poetry    //Py。中华最全诗词库数据
 - https://github.com/datawhalechina/team-learning-nlp    //NLP自然语言处理笔记
-### 图像分析
+### 图像处理分析
 - https://github.com/FFmpeg/FFmpeg/    //C。图像视频处理。
 - https://github.com/PeterL1n/BackgroundMattingV2    //华盛顿大学研究员开源的实时视频抠图工具
-- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
-- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。超轻量级人脸检测模型
+- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
-- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装。
 - https://github.com/PaddlePaddle/PaddleOCR    //百度开源OCR图像识别文本
+- https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
+- https://github.com/alievk/avatarify    //视频会议应用换脸
+- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装。
+- https://github.com/deepfakes/faceswap    //Py。界面GUI。依赖较多换脸虚拟音频视频
 ### 神经网络GanS
 - https://github.com/duoergun0729/nlp    //一本开源的NLP（神经语言程序学）入门书籍
 - https://zhuanlan.zhihu.com/p/64895011    //神经网络深度学习框架PyTorch
-- https://github.com/deepfakes/faceswap    //Py。界面GUI。依赖较多换脸虚拟音频视频
 - https://github.com/poloclub/cnn-explainer    //Js。CNN解释器细节可视化。
+  

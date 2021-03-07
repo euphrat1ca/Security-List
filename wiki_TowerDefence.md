@@ -29,6 +29,8 @@
 ## 主机威胁防御
 - https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
 - https://documentation.wazuh.com    //C。开源C/S架构主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
+- https://www.elastic.co/cn/security    //Elastic Security SIEM威胁检测与端点防护和响应
+- https://github.com/elastic/detection-rules    //Elastic Security主机防护规则
 ### EDR信息监控
 - https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
 - https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下Hook system_call进程监控的内核级HIDS，支持从内核态获取数据。welljob。斗鱼开源。
