@@ -79,7 +79,7 @@
 ## 敏捷办公
 - https://github.com/microsoft/PowerToys    //快捷功能合集。
 - https://u.tools/    //utools插件化万能工具箱。W:getquicker.net;G:/Wox-launcher/Wox;P:/火萤酱火柴;--
-- https://getrolan.com/    //快捷启动。G:/25H/Maya;音速启动;Lucy;Lily（集成Recorder Devices for ShareX、OCR图像处理）;--
+- https://getrolan.com/    //快捷启动。G:/25H/Maya;音速启动;Lucy;Lily;--
 - https://cmder.net    //Windows命令行终端加强版，支持通过`/REGISTER ALL user_aliases`配置文件配置快捷键。
 - https://github.com/tmux/tmux    //Linux命令行终端加强版。
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
@@ -203,6 +203,7 @@
 - https://www.gimp.org/    //图像编辑器
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    //Go。识别视频语音自动生成字幕SRT文件。
+- https://ocr.xinhuokj.com/    //薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--
 ### 音频素材
 - https://audionautix.com/    //由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    //免费音频
