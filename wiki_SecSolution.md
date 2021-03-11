@@ -25,8 +25,6 @@
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-## 合规审计建设
-- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 ## 区块安全建设
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
@@ -78,15 +76,19 @@
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
-### 等保安全
-- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
-### ACL策略安全
-- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
-- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
+- https://github.com/ngbdf/redis-manager    //Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
+### ACL策略安全
+- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
+- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
+
+## 合规审计建设
+- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+### 等保安全
+- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 
 ## 安全开发
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范

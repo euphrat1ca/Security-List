@@ -40,7 +40,7 @@
 - http://blog.topsec.com.cn/alphafuzzer/    //阿尔法实验室文件模糊测试工具。
 - https://github.com/google/atheris    //python代码模糊测试
 ### Web应用模糊测试
-- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob,2k。G:/projectdiscovery/nuclei;G:/ffuf/ffuf;--
+- https://github.com/xmendez/wfuzz    //Py。Web安全模糊测试工具，owasp常见漏洞，可处理burp所抓请求和响应报文。goodjob。G:/ffuf/ffuf;--
 - https://github.com/1N3/BlackWidow    //Py。利用爬虫收集目标网站的情报信息并对 OWASP 漏洞进行模糊测试。
 - https://bbs.ichunqiu.com/thread-24898-1-1.html    //Test404 -HTTP Fuzzer V3.0
 - https://github.com/floyd-fuh/afl-cgi-wrapper    //利用AFL fuzz web CGI

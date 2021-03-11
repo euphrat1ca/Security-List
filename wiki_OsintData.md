@@ -259,7 +259,7 @@
 - https://github.com/shmilylty/OneForAll    //py3.8。子域收集工具，多接口/爆破/验证/子域名接管。welljob。
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。支持子域名接管漏洞。G:/guelfoweb/knock;--
 - https://github.com/TophantTechnology/ARL    //Python。斗象资产侦察灯塔系统。WebGUI。goodjob。
-- https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名。owasp项目。3k,goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
+- https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名，owasp项目。goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
 - https://github.com/SpiderLabs/HostHunter    //Py3。通过接口、ssl证书进行hostname子域名查询。G:/We5ter/GSDF;--
 - https://github.com/vysec/DomLink    //Py3。调用```whoxy.com```接口，对邮箱和域名进行进一步的搜集
 - https://github.com/mandatoryprogrammer/cloudflare_enum    //Py。利用CloudFlare的dns进行子域名枚举
@@ -273,6 +273,7 @@
 - https://github.com/aboul3la/Sublist3r    //Py。通过搜索引擎与爆破快速子域枚举工具。G:/FeeiCN/ESD;G:/TheRook/subbrute;--
 - https://github.com/blechschmidt/massdns    //C。通过DNS高效子域收集工具。
 - https://github.com/le4f/dnsmaper    //Py。WebGui，子域名枚举爆破工具以及地图位置标记。G:/0xbug/orangescan;--
+- https://github.com/CTF-MissFeng/GoScan    //Go。分布式利用nsq消息队列进行src资产搜集。testjob。
 - https://github.com/gwen001/github-subdomains    //Go。通过github搜集子域名。
 ### 网址采集
 - https://github.com/coodyer/GoogleColler    //C#。谷歌网址采集器。
