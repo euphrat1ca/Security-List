@@ -23,6 +23,7 @@
 - https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器。
 ### 聊天通讯
+- https://github.com/tootsuite/mastodon    //ActivityPub开源微博社区
 - https://github.com/matyhtf/webim    //PHP+Swoole实现的网页即时通讯工具
 - https://volafile.org/    //在线匿名聊天室，可传输文件、视频、图像。
 - https://github.com/walkor/workerman-chat    //php。在线聊天室。可扩展

@@ -34,12 +34,13 @@
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
-### 接口管理
-- https://github.com/openitsystem/itops    //PY3,Django。AD\Exchange管理系统。
-- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
-### 登录管理
-- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机
+### 运维管理
 - https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
+- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机
+- https://github.com/openitsystem/itops    //PY3,Django。AD\Exchange安全运维管理系统。
+- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
+- https://github.com/prometheus/prometheus    //Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
+- https://github.com/fabric/fabric    //Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
 ### Web应用安全
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
@@ -137,7 +138,7 @@
 - https://madaidans-insecurities.github.io/guides/linux-hardening.html    //Linux安全加固条例。
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe    //Windows安全加固命令。
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide    //Py。MacOS安全性基线。
-- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具
+- https://github.com/wstart/DB_BaseLine    //数据库检查基线工具。
 ### 安全测试CheckList
 - https://github.com/juliocesarfort/public-pentesting-reports    //由几家咨询公司和学术安全组织发布的公共渗透测试报告的列表。
 - http://pentestmonkey.net/category/cheat-sheet    //渗透测试常见条目

@@ -9,7 +9,8 @@
 - https://github.com/sergeyfrolov/httpt    //响应TLS来降低代理被识别的几率。
 ### 流量代理池
 - https://www.ip12345.net/    //鲸鱼代理 动态IP修改
-- https://github.com/imWildCat/scylla    //Py3。智能代理池。G:/SpiderClub/haipproxy;G:/chenjiandongx/async-proxy-pool;G:/TideSec/Proxy_Pool;--
+- https://github.com/Python3WebSpider/ProxyPool    //Py3。
+- https://github.com/imWildCat/scylla    //Py3。智能代理池。G:/Python3WebSpider/ProxyPool;G:/SpiderClub/haipproxy;G:/chenjiandongx/async-proxy-pool;G:/TideSec/Proxy_Pool;--
 - https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发。
 - https://github.com/realgam3/pymultitor/    //Py。使用多线程Tor代理。
 ### 流量转发

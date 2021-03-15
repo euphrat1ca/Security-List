@@ -58,6 +58,7 @@
 
 ## 自动化测试
 - http://bbs.anjian.com/    //按键精灵。G:/taojy123/KeymouseGo;--
+- https://pypi.org/project/pynput/    //python操作键盘库
 - https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架。
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。

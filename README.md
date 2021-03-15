@@ -103,8 +103,7 @@
 
 ## 压测泛洪
 - https://github.com/ywjt/Dshield    //Py。DDOS防护。
-
-### 压测协议流量
+### 协议流量压测
 - http://www.yykkll.com    //压力测试站评测。W:defconpro.net;W:vip-boot.xyz;--
 - https://rocketstresser.com/login.php    //多协议在线压测，支持cdn测试。
 - https://github.com/wenfengshi/ddos-dos-tools    //压力测试工具集
@@ -118,10 +117,11 @@
 - https://github.com/loadimpact/k6    //GO Javascript组件进行负载测试。goodjob。
 - https://github.com/NewEraCracker/LOIC/    //C#,Mono。基于Praetox's LOIC project的压测工具。
 - https://github.com/649/Memcrashed-DDoS-Exploit    //Py。利用shodan搜索Memcached服务器进行压力测试。
-### 压测拒绝服务
+### 拒绝服务压测
 - https://github.com/ajmwagar/lor-axe    //Rust。多线程、低带宽消耗的HTTP DoS工具。G:/JuxhinDB/synner;--
 - https://github.com/jseidl/GoldenEye    //Py。DOS攻击测试
 - https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
+- https://github.com/doyensec/regexploit    //分析正则表达式，寻找ReDoS漏洞
 - https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
 - https://xz.aliyun.com/t/7895/    //techteach。利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
 - https://www.freebuf.com/column/201766.html    //techteach。正则表达式所引发的DoS攻击（Redos）。G:/superhuman/rxxr2;--

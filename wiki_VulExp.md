@@ -16,7 +16,7 @@
 - http://www.zerodium.com/    //灰色漏洞交易平台0day市场
 - https://0day.today    //漏洞市场
 ## 漏洞共享平台
-- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。G:/zhzyker/vulmap;G:/zhzyker/exphub;--
+- https://github.com/mai-lang-chai/Middleware-Vulnerability-detection    //CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 until Now。goodjob。G:/zhzyker/exphub;--
 - https://github.com/Mr-xn/Penetration_Testing_POC    //渗透测试相关POC、EXP、脚本、提权、工具。goodjob。
 - https://github.com/Critical-Start/Team-Ares    //CVE-2018-10142;CVE-2018-6961;CVE-2019-7550;CVE-2020-3957;CVE-2020-5902;--
 - https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章、漏洞公开详情。W:0day.life;W:bugreader.com    //国外厂商公开漏洞详情。
@@ -236,6 +236,7 @@
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
 - https://github.com/Ascotbe/Kernelhub    //Windows 提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件。goodjob。
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
+- https://github.com/KaLendsi/CVE-2021-1732-Exploit    //C++。由函数win32kfull!xxxCreateWi ndowEx 对应用层回调返回数据校验不严导致，本地用户执行漏洞利用程序获取系统权限。
 - https://github.com/dirkjanm/CVE-2020-1472    //NetLogon特权提升漏洞，一键域控提权。配合多个py文件set_empty_pw清空域控密码-secretsdump下载域控哈希secretsdump-restorepassword利用域管hash导出sam数据库原先哈希密码。G:/risksense/zerologon;G:/SecuraBV/CVE-2020-1472;--
 - https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/    //C++。Windows Background Intelligent Transfer Service (BITS)权限提升。
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668/    //C#。基于Service Tracing服务写入RASTAPI文件覆盖提权。
@@ -257,6 +258,7 @@
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
 ### Exchange漏洞利用
+- https://github.com/Udyz/Proxylogon    //Exchange SSRF（CVE-2021-26855）
 - https://github.com/Jumbo-WJB/CVE-2020-0688    //CVE-2020-0688_微软EXCHANGE服务的邮件远程代码执行漏洞。
 - https://github.com/rapid7/metasploit-framework/pull/14126    //Microsoft Exchange Server DLP Policy RCE (CVE-2020-16875)
 - https://www.anquanke.com/post/id/184342    //Exchange渗透测试总结。ruler拓展、ExchangeRelayX中继、mimikatz抓取、PasswordFilter注入劫持、mailsniper抓取、CVE-2018-8581提权、CVE-2019-1040绕过mic检测。W:blog.riskivy.com/exchange-server-in-pentest/;W:evi1cg.me/archives/Exchange_Hack.html;W:paper.seebug.org/833/;--

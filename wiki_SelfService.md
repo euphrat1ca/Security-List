@@ -98,6 +98,7 @@
 
 ## 协同办公
 - https://sadd.io/    //在线操作系统
+- https://www.qingjiaocloud.com/    //青椒云主机vps，一键启用。
 - https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
 ### 远程协助
 - https://www.todesk.com/    //远程协助软件。W:anydesk;W:Teamviewer;W:向日葵--
@@ -218,17 +219,15 @@
 - https://www.canva.cn/    //平面图设计制作
 - https://github.com/nagadomi/waifu2x    //Lua。利用AI技术智能放大图片和视频。W:waifu2x.udp.jp;P:/bigjpg.com;G:/AaronFeng753/Waifu2x-Extension-GUI;--
 - https://www.remove.bg/    //图片背景消除
+- https://github.com/beurtschipper/Depix    //马赛克图片修复 打码复原。
+- https://www.remove.bg/api    //在线抠图。api
+- https://www.photopea.com/    //在线ps
 - https://wallhaven.cc/    //大片既视感
 - https://www.cleanpng.com/    //矢量png图
 - https://www.flaticon.com    //免费图标网站
 - https://www.iconfont.cn/    //阿里巴巴矢量图标库
 - https://world-flags.org/worldflagstoha    //动漫化国旗
 - https://github.com/sylnsfar/qrcode    //Py3。动态二维码生成器。
-- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
-- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
-- https://github.com/beurtschipper/Depix    //马赛克图片修复 打码复原。
-- https://www.remove.bg/api    //在线抠图。api
-- https://www.photopea.com/    //在线ps
 ### 字体素材
 - https://www.hellofont.cn/    //
 ### 文档素材

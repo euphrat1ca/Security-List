@@ -13,30 +13,24 @@
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;G:/projectdiscovery/naabu;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 ## 资产信息搜集
-- https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
-- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/CTF-MissFeng/Watchdog;G:/ody5sey/Voyager;--
+
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集。
-- https://github.com/m8r0wn/nullinux    //Py。Linux的内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
+- https://github.com/m8r0wn/nullinux    //Py。Linux下内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    //Linux系统审计工具，可以导出系统配置，生成报表
 - https://github.com/fdiskyou/hunter    //C++。调用 Windows API 对内网信息搜集。
 - https://github.com/skelsec/jackdaw/    //Py。内网信息收集，将域控、域成员信息存储入sqlite数据库，WebGUI。
 - https://github.com/FortyNorthSecurity/EyeWitness    //获取目标网站截图、vnc、rdp服务，尝试获取默认凭证。
-- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
 - https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
 - https://github.com/broken5/WebAliveScan    //Py。对目标域名进行快速的存活扫描、标题抓取、目录扫描。welljob。
 - https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
+- https://github.com/Adminisme/ServerScan    //Go。内网横向信息收集的高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--
 - https://github.com/nray-scanner/nray    //Go。分布式扫描工具，支持ldap\证书扫描。
 - https://github.com/lifenjoiner/nbtscan    //C。NetBIOS协议主机设备发现v1.5.2版本，可显示地址，计算机名称，工作组或域，地址，和公司生产的网络适配器（根据确定的地址）。W:nirsoft.net/utils/netbios_scanner.html;G:/scallywag/nbtscan;--
 - https://github.com/royhills/arp-scan    //C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    //Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
 - https://github.com/projectdiscovery/mapcidr    //Go。子网CIDR扫扫描器。
-### 资产扫描搜集
-- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
-- https://github.com/k8gege/LadonGo    //Go。渗透扫描器框架。goodjob。
-- https://github.com/shadow1ng/fscan    //Go。内网扫描工具。goodjob。
-- https://github.com/Adminisme/ServerScan    //Go。内网横向信息收集的高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
 ### 资产指纹识别
 - https://github.com/AliasIO/Wappalyzer    //JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
 - https://github.com/ShiHuang-ESec/EHole    //EHole(棱洞)-红队重点攻击系统指纹探测工具，fofa api。goodjob。
@@ -47,8 +41,22 @@
 - https://github.com/salesforce/jarm    //Python。识别传输层安全性（TLS）指纹，对具有相同TLS配置服务标记，集成于空间测绘资产标签。goodjob。G:/rbsec/sslscan;--
 - https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。
 - https://github.com/EnableSecurity/wafw00f    //WAF产品指纹识别
+### 资产&漏洞管理
+- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:/ATpiu/asset-scan;--
+- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
+- https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
+- https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
+- https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统。
+- https://github.com/dpaulson45/HealthChecker    //Exchange Server性能运行状况检查器脚本
+### 资产&风险预警
+- https://github.com/Ascotbe/Medusa    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能
+- https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。
 
 ## 资产扫描检测
+- https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/CTF-MissFeng/Watchdog;G:/ody5sey/Voyager;--
+- https://gitee.com/awake1t/linglong    //Go。资产巡航扫描masscan+nmap+xray漏洞识别，mysql存储，docker一键启动。
+- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
+- https://github.com/shadow1ng/fscan    //Go。内网扫描工具。goodjob。
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，Glass Box iast 代码审计。商业版。
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。AcuSensor iast 代码审计，支持`java php .net`。
 - https://my.oschina.net/9199771/blog/4951572    //Netsparker6 插桩扫描试用记述。iast插桩与流量代理扫描。
@@ -67,14 +75,17 @@
 - https://github.com/tlkh/prowler    //一款基于Raspberry Pi Cluster 的网络漏洞扫描工具。
 - https://github.com/gyoisamurai/GyoiThon    //Py。使用深度学习的渗透测试工具，从每次扫描数据中学习，扫描越多，软件检测精准度越高。
 - https://github.com/TideSec/Mars    //Py。基于Docker资产检测工具联动（集成awvs、创宇Pocsuite、nmap、hydra）。G:/0xbug/Biu-framework;G:/jeffzh3ng/Fuxi-Scanner;--
-- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
 ### 资产漏洞测试
-- https://github.com/euphrat1ca/exploitpack    //OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
-- https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
-- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/orleven/Tentacle;--
+- https://gobies.org/    //Goby是白帽汇资产风险管理工具。端口、服务、截图、弱口令测试。goodjob。W:rumble.run;G:/grayddq/PublicMonitors;--
+- https://github.com/k8gege/Ladon    //C#。大型内网渗透扫描器&Cobalt Strike插件支持，横向拓展。goodjob。
+- https://github.com/k8gege/LadonGo    //Go。渗透扫描器框架。goodjob。
+- https://github.com/knownsec/pocsuite3    //Py3。知道创宇维护的一个规范化Web 安全POC/EXP利用框架。goodjob,2K。G:/zhzyker/vulmap;G:/orleven/Tentacle;--
 - https://github.com/Lucifer1993/AngelSword    //Py3。插件式漏洞识别，包含300+系统、Web、工控等漏洞poc。Github:/POC-T;Github:/btScan;Github:/osprey;Github:/pocscan;Github:/TangScan;Github:/Beebeeto-framewor;G:/vulscanteam/vulscan;G:/boy-hack/w9scan;G:/dhondta/sploitkit;G:/PowerScript/KatanaFramework;G:/M4cs/BabySploit;--
 - https://github.com/opensec-cn/kunpeng    //Go。漏洞POC检测框架，可以动态链接库的形式提供各种语言调用
-- https://github.com/projectdiscovery/nuclei    //Go。基于HTTP请求模板的可配置主动扫描探测工具，类比于xray模板poc。goodjob。
+- https://github.com/projectdiscovery/nuclei    //Go。基于HTTP请求模板的可配置主动扫描探测工具，类似xray架构poc。goodjob。
+- https://github.com/iSafeBlue/TrackRay    //Java。溯光是一个开源的插件化渗透测试框架，框架自身实现了漏洞扫描功能，并集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS 等，支持插件编写。G:/Lucifer1993/SatanSword;--
+- https://github.com/euphrat1ca/exploitpack    //OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
+- https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    //易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
 ### 资产被动检测
 - https://github.com/zaproxy/zaproxy    //Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob,6k。
 - https://github.com/TrojanAZhen/BurpSuitePro-2.1    //BurpSuite 1.7.27/2.1 Pro 和谐版本。G:/euphrat1ca/PRUBUnlimitedre;--
@@ -83,15 +94,6 @@
 - https://github.com/w-digital-scanner/w13scan    //Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
-### 资产&漏洞管理
-- https://github.com/zhaoweiho/SecurityManageFramwork    //PY3。SecurityManageFramwork-SeMF基于django2，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。goodjob。G:/ATpiu/asset-scan;--
-- https://github.com/infobyte/faraday    //协作渗透测试和漏洞管理平台
-- https://github.com/DefectDojo/django-DefectDojo    //Py。基于django的漏洞资产管理平台
-- https://github.com/creditease-sec/insight    //web界面。宜信安全部开发，集成应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的管理平台
-- https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统
-### 资产&风险预警
-- https://github.com/Ascotbe/Medusa    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能
-- https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。
 
 ## Web安全检测
 - https://portswigger.net/research/web-cache-entanglement    //Web缓存投毒的新途径

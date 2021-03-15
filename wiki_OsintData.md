@@ -59,7 +59,6 @@
 - https://www.tianyancha.com/    //中国境内公司情报。企查查
 - https://opencorporates.com/    //国际天眼查
 - http://yss.mof.gov.cn/    //预算司
-- http://dingba.top/    //丁爸情报分析师。P:/qqzk/ //全球智库;--
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#/    //Bellingcat的在线调查工具包
 - https://osintcurio.us    //荷兰开源情报分析师博客
 - https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf/    //情报收集组织。开源情报资源与工具手册2018版
@@ -67,20 +66,9 @@
 - https://fas.org/irp/doddir/army/atp2-22-9.pdf/    //美国陆军开源情报2012版
 - https://osintframework.com/    //开源情报搜索框架超链接集合
 - https://start.me/p/ZME8nR/osint    //开源情报聚合
-## 开源数据分析
-- http://pandas.pydata.org    //数据分析
-- https://github.com/r0f1/datascience    //大数据分析功能库推荐
-- https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
-- https://github.com/mannirulz/BotDAD    //Py3。使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
-- https://github.com/lion-gu/ioc-explorer    //Py。从多数据源进行关联指标（IOC）自动探索
-### 报文协议库
-- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
-- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
-- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
-- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
-- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
-- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
-
+- http://dingba.top/    //丁爸情报分析师。P:/qqzk/ //全球智库;--
+- https://mp.weixin.qq.com/s/YQRKtwsD4A69BDLr-GyXRw    //【资源】查找人员的资源站点（2021版）
+- https://www.searchenginecolossus.com/    //【资源】一个汇聚了全球各国搜索引擎的网站
 ## 多维度情报源
 - https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
 - http://www.payer.org/test/    //恶意邮件地址电话公示
@@ -106,6 +94,13 @@
 - cellidfinder.com    //Cell ID Finder
 - cellphonetrackers.org    //手机定位追踪器
 - https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
+### 报文协议库
+- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
+- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
+- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
+- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
+- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
+- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 
 ## 威胁情报狩猎
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
@@ -113,6 +108,12 @@
 - https://ti.qianxin.com/    //奇安信威胁情报平台。Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
+### 开源数据分析
+- http://pandas.pydata.org    //数据分析
+- https://github.com/r0f1/datascience    //大数据分析功能库推荐
+- https://github.com/Xyntax/slides/    //安全数据分析/DNS恶意流量分析/威胁防御
+- https://github.com/mannirulz/BotDAD    //Py3。使用DNS流量分析进行基于异常的僵尸网络检测的工具。数据集：data.mendeley.com/datasets/zh3wnddzxy/1 10 Days DNS Network Traffic from April-May
+- https://github.com/lion-gu/ioc-explorer    //Py。从多数据源进行关联指标（IOC）自动探索
 ### 威胁情报源
 - https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报收集。W:urlscan.io;urlquery.net;phishtank.com;openphish.com;--
 - https://intel.criticalstack.com/    //Intel威胁情报库可集成bro，恶意IP地址。
