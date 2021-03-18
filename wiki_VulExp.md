@@ -2,7 +2,7 @@
 - twitter搜索“#exploit”、“#0day”、“CVE RCE”    //EXP\POC来源
 - https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
 - https://www.cvebase.com/poc    //漏洞poc统计站。
-- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;--
+- https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;G:/Yang0615777/PocList;--
 - https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
 - https://wiki.0-sec.org/    //零组公开漏洞库。W:dream0x01.com/spear-framework;--
@@ -146,7 +146,7 @@
 - https://github.com/qtc-de/remote-method-guesser    //Java。枚举测试Java RMI（远程调用服务）安全。G:/NickstaDB/BaRMIe;--
 - https://github.com/quentinhardy/jndiat    //Java。Java类名/目录接口/数据库审计检测
 - https://github.com/frohoff/ysoserial    //java。用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html/ 转化java加密指令;--
-- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集。ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial。
+- https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集，ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial。
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
 - https://github.com/gquere/CVE-2020-7931    //py。Maven框架插件Artifactory模板ssti利用执行漏洞
 #### WildFly/Jboss中间件漏洞
