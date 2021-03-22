@@ -74,6 +74,7 @@
 ### Golang开发
 - https://github.com/voidint/g    //gvm Golang版本管理控制。设置国内镜像源环境变量`"G_MIRROR" -> https://golang.google.cn/dl/`。
 - https://goproxy.io/zh/    //go镜像源国内库加速。W:goproxy.cn/;--
+- https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/    //微软Go学习教材。goodjob。
 - https://books.studygolang.com/gopl-zh/    //GO语言圣经中文版
 - https://github.com/chai2010/advanced-go-programming-book    //GO语言高级编程
 - https://github.com/Quorafind/golang-developer-roadmap-cn    //Go 开发者的路线图
