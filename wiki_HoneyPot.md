@@ -2,10 +2,10 @@
 - https://github.com/paralax/awesome-honeypots/blob/master/README_CN.md    //开源蜜罐收集。goodjob。G:/OWASP/Honeypot-Project;P:/SDN网络微隔离;--
 - https://www.freebuf.com/articles/paper/207739.html    //intro。开源蜜罐测评报告
 - https://github.com/Cymmetria    //欺骗防御公司。Struts2、weblogic、telnet、Cisco ASA、Micros等仿真蜜罐，honeycomb低交互蜜罐框架
-- https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境
+- https://www.freebuf.com/sectool/204652.html    //基于EVE-NG平台上构建企业内网攻防环境。
 - https://github.com/BinaryDefense/artillery    //Py。端点蜜罐防护。
 ## 蜜罐服务
-- https://github.com/phage-nz/malware-hunting    //Py。利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明
+- https://github.com/phage-nz/malware-hunting    //Py。利用蜜罐进行恶意文件捕获。包含众多蜜罐使用说明。
 - https://github.com/threatstream/mhn    //Py。现代蜜网，集成了多种蜜罐的安装脚本，可以快速部署、使用，也能够快速的从节点收集数据
 - https://github.com/dtag-dev-sec/tpotce    //T-POT。里面使用docker技术实现多个蜜罐组合，配合ELK进行研究与数据捕获
 - https://github.com/n3uz/t-pot-autoinstall    //Bash。将fork的T-POT蜜罐的一键安装脚本替换为国内加速镜像
@@ -13,15 +13,15 @@
 - https://github.com/honeytrap/honeytrap    //Go。可扩展高交互蜜罐框架，侦听所有端口，监管蜜罐运行状态。
 - https://github.com/honeynet/beeswarm    //Py。使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web服务蜜罐
-- https://github.com/p1r06u3/opencanary_web    //Py。基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构
+- https://github.com/p1r06u3/opencanary_web    //Py。基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构。
 - https://github.com/hacklcx/HFish    //Go。多协议低交护蜜罐。goodjob。
 - https://gitlab.com/SecurityBender/webhoneypot-framework    //Py3。基于docker和docker-compose，现支持wordpress/drupal
-- https://github.com/mushorg/snare    //Py3。web安全蜜罐，可克隆指定Web页面
+- https://github.com/mushorg/snare    //Py3。web安全蜜罐，可克隆指定Web页面。
 - https://github.com/netxfly/x-proxy    //Go。代理蜜罐的开发与应用实战。simple
 ### 数据库蜜罐
-- https://gitlab.com/bontchev/elasticpot    //py。Elasticsearch数据库蜜罐
+- https://gitlab.com/bontchev/elasticpot    //py。Elasticsearch数据库蜜罐。
 - https://github.com/codeplutos/MySQL-JDBC-Deserialization-Payload    //MySQL JDBC Deserialization Payload / MySQL客户端jdbc反序列化漏洞
-### 供应链蜜罐
+### 供应链蜜罐。
 - http://www.imooc.com/article/26398    //NodeJS应用仓库钓鱼。同理可应用于python库\apache module 后门等，相关诱饵名称可设置为加解密模块等，或者直接dns劫持。
 ### PC服务蜜罐
 - https://github.com/micheloosterhof/cowrie    //Py3。使用ELK（ElasticSearch，LogStash，Kibana）进行数据分析，目前支持ssh，telnet，sftp等协议蜜罐。

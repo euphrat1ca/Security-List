@@ -49,7 +49,7 @@
 - https://github.com/RASSec/A_Scan_Framework    //漏洞管理、资产管理、任务扫描系统。
 - https://github.com/dpaulson45/HealthChecker    //Exchange Server性能运行状况检查器脚本
 ### 资产&风险预警
-- https://github.com/Ascotbe/Medusa    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能
+- https://github.com/Ascotbe/Medusa/blob/master/README.CN.md    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能。
 - https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。
 
 ## 资产扫描检测
@@ -151,7 +151,7 @@
 - http://www.xss-payloads.com    //xss工具包、资料、payload导航站。
 - https://www.slideshare.net/GarethHeyes/xss-magic-tricks    //burpsuite团队总结xss知识点。
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet    //跨站脚本（XSS）备忘录，收集了大量的XSS攻击向量，包含了各种事件处理、通讯协议、特殊属性、限制字符、编码方式、沙箱逃逸等技巧。
-- https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition    //XSS Payload，使用场景。goodjob。G:/ismailtasdelen/xss-payload-list;--
+- https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition    //XSS Payload 使用场景。goodjob。G:/ismailtasdelen/xss-payload-list;--
 - https://somdev.me/21-things-xss/    //XSS的21个扩展用途。
 - https://github.com/NytroRST/XSSFuzzer    //根据特定标签生成xss payload。
 - https://github.com/evilcos/xssor2    //xss利用辅助工具。余弦。
@@ -166,13 +166,13 @@
 - https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下载PhantomJS驱动到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描。
 ### XSS漏洞利用平台框架
-- https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具
+- https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具。
 - https://xss.fbisb.com/    //在线XSS利用平台，xss练习靶场。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;--
-- https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）.GOODJOB.
+- https://github.com/firesunCN/BlueLotus_XSSReceiver    //JS,PHP。蓝莲花战队XSS数据接收平台（无SQL版）。GOODJOB。
 - https://github.com/euphrat1ca/XssPowerByTools    //PHP。XSS平台课程设计。simple。
-- https://github.com/AntSwordProject/ant    //Nodejs。蚁逅@1.0，实时上线的 XSS 盲打平台
-- https://github.com/BlackHole1/WebRtcXSS    //PHP。基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台
-- https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击
+- https://github.com/AntSwordProject/ant    //Nodejs。蚁逅@1.0，实时上线的 XSS 盲打平台。
+- https://github.com/BlackHole1/WebRtcXSS    //PHP。基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台。
+- https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击。
 
 ## 数据库利用
 - https://github.com/sqlmapproject/sqlmap    //Py。数据库注入。GREATJOB。G:/m4ll0k/Atlas //tamper脚本测试;--

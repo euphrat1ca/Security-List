@@ -37,6 +37,7 @@
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
 - https://github.com/Rvn0xsy/Pricking    //网站反代钓鱼，敏捷启动，js功能插件。
 ### 邮件伪造
+- https://mp.weixin.qq.com/s/RPz_1kKuq5--IANwT_Qvvg    //眼见不一定为实：对电子邮件伪造攻击的大规模分析。发件人策略框架（SPF）、域名密钥识别标准（DKIM）和基于域的消息验证、报告和一致性（DMARC）、UI保护机制 绕过。
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造，SPF&DKIM&DMARC协议多功能模拟。W:tool.chacuo.net/mailanonymous;--
 W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
@@ -125,14 +126,14 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/cnrstar/anti-honeypot    //Chrome插件。检测WEB蜜罐并阻断请求
 - https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。蜜罐检测，Jsonp漏洞防御。
 - https://www.freebuf.com/articles/ics-articles/230402.html    //一种工控蜜罐识别与反识别技术研究与应用实践。
-### 前端攻击画像
-- https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。8k。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
+### 攻击人物画像
+- https://github.com/Valve/fingerprintjs2    //JS。被动式浏览器全指纹库获取。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    //JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。P:指纹追踪技术—跨浏览器指纹识别;P:/crossbrowsertracking_NDSS17.pdf;--
 - https://www.anquanke.com/post/id/216259    //设备指纹指南 上下。P:/post/id/216262;--
 - https://github.com/WMJonssen/Centcount-Analytics    //PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹。
-- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉
+- https://github.com/jbtronics/CrookedStyleSheets    //php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉。
 - https://github.com/diafygi/webrtc-ips    //利用WebRtc服务获取内外网真实IP。W:whoer.net //web应用指纹获取集合;--
-- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式
+- https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式。
 - https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源。
 - https://github.com/jonasstrehle/supercookie    //利用favicon进行F-Cache读取，构建唯一ID。
 ### 攻击反制利用
