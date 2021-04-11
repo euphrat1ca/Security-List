@@ -71,5 +71,3 @@
 - https://www.radmin-vpn.cn/    //远程组网服务。
 - https://github.com/microsoft/SDN    //PS。此存储库包括脚本，模板和示例交换机配置，以帮助管理员部署Windows Server 2016软件定义网络（SDN）堆栈并将其连接到其现有网络拓扑。
 - https://feisky.gitbooks.io/sdn/    //sdn-handbook SDN网络指南
-### 单点登录
-- https://github.com/pomerium/pomerium    //基于上下文身份动态访问策略的单点登录网关，VPN替代方案。

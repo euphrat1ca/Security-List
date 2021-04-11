@@ -50,12 +50,13 @@
 - https://github.com/dpaulson45/HealthChecker    //Exchange Server性能运行状况检查器脚本
 ### 资产&风险预警
 - https://github.com/Ascotbe/Medusa/blob/master/README.CN.md    //红队武器库平台，目前包括扫描功能(200+个漏洞)、XSS平台、协同平台、CVE监控等功能。
-- https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。
+- https://github.com/opencve/opencve    //漏洞预警，在本地进行CVE漏洞探究。G:/yhy0/github-cve-monitor;--
+- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
 
 ## 资产扫描检测
 - https://github.com/ysrc/xunfeng    //Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/CTF-MissFeng/Watchdog;G:/ody5sey/Voyager;--
 - https://gitee.com/awake1t/linglong    //Go。资产巡航扫描masscan+nmap+xray漏洞识别，mysql存储，docker一键启动。
-- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/yogeshojha/rengine;G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
+- https://github.com/WyAtu/Perun    //Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
 - https://github.com/shadow1ng/fscan    //Go。内网扫描工具。goodjob。
 - https://www.ibm.com/us-en/marketplace/appscan-standard    //IBM漏洞扫描器，Glass Box iast 代码审计。商业版。
 - https://www.acunetix.com/web-vulnerability-scanner/    //Acunetix WVS扫描器，AWVS支持win/Linux。商业版。AcuSensor iast 代码审计，支持`java php .net`。
@@ -117,7 +118,7 @@
 - https://github.com/epinna/tplmap    //SSTI (服务器模板注入) 漏洞检测与利用工具
 - https://github.com/deneme056/CJExploiter    //支持拖放功能的点击劫持漏洞利用工具。
 ### 抓包代理调试
-- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/getpostman.com http调试工具。P:/soft.125.la //精易助手;G:/jakubroztocil/httpie;--
+- https://www.telerik.com/fiddler    //C#。Fiddler4 Free Web Debugging Proxy。Github:/x-Ai/BurpUnlimitedre;W:charlesproxy.com 青花瓷;P:/soft.125.la //精易助手;G:/jakubroztocil/httpie;--
 - https://github.com/MegatronKing/HttpCanary    //JS。基于NetBare的安卓移动端抓包代理工具。welljob。
 - https://www.0daydown.com/03/33647.html    //IEInspector HTTP Analyzer 进程注入SSL解密。
 ### SSL/TLS安全
@@ -266,12 +267,7 @@
 ### ASP/X Webshells
 - https://github.com/antonioCoco/SharPyShell    //ASP.NET。webshell for C# web application
 
-## API安全
+## API安全测试
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
-- https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
-- https://github.com/mockoon/cli    //图形化api快速搭建工具。
-### API接口管理
-- https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
-- https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。

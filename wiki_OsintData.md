@@ -5,9 +5,8 @@
 - https://xz.aliyun.com/    //先知社区。P:freebuf.com;P:t00ls.net;--
 - https://googleprojectzero.blogspot.com    //谷歌博客 Google Project Zero。二进制安全。
 ## 信息流导航站
-- https://www.anquanke.com/vul    //安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
 - https://i.hacking8.com/    //安全信息流。W:wiki.ioin.in;W:xj.hk;W:buaq.net;W:xssav.com;W:osint-labs.org;--
-- http://www.nmd5.com/test/    //技术查阅手册
+- http://www.nmd5.com/test/    //安全技术查阅手册
 ### 信息收藏夹
 - https://github.com/Hack-with-Github/Awesome-Hacking    //GitHub万星推荐：黑客成长技术清单。G:/topics/security;G:/We5ter/Scanners-Box;--
 - https://github.com/DropsOfZut/awesome-security-weixin-official-accounts    //网络安全类公众号推荐。W:wechat.doonsec.com/;--
@@ -257,7 +256,7 @@
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本，员工邮箱、子域名、Hosts。G:/bit4woo/teemo;G:/bhavsec/reconspider;--
 - https://github.com/LangziFun/LangSrcCurise/    Py。SRC域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
-- https://github.com/shmilylty/OneForAll    //py3.8。子域收集工具，多接口/爆破/验证/子域名接管。welljob。
+- https://github.com/shmilylty/OneForAll    //py3.8。子域收集工具，多接口/爆破/验证/子域名接管。goodjob。G:/yogeshojha/rengine;--
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。支持子域名接管漏洞。G:/guelfoweb/knock;--
 - https://github.com/TophantTechnology/ARL    //Python。斗象资产侦察灯塔系统。WebGUI。goodjob。
 - https://github.com/caffix/amass    //Go。通过DNS\API接口、搜索引擎等进行子域名搜集，使用机器学习猜测子域名，owasp项目。goodjob。G:/OJ/gobuster;G:/chuhades/dnsbrute;G:/evilsocket/dnssearch;G:/blark/aiodnsbrute/;--
@@ -284,9 +283,8 @@
 - https://github.com/r00tSe7en/GoogleHackingTool    //GoogleDorks漏洞语法查询。
 
 ## 敏感信息挖掘
-- https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证
-### 敏感漏洞信息
-- https://github.com/boy-hack/wooyun-payload     //burpsuite插件。基于乌云漏洞信息的敏感信息发现。
+- https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证。
+- https://github.com/boy-hack/wooyun-payload     //burpsuite插件。基于乌云漏洞中的密码信息进行1比对提取。
 ### 敏感文件信息
 - https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
@@ -302,8 +300,8 @@
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:/shengqi158/svnhack;--
 ### Git安全相关
 - https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorks.txt    //GitHub泄露搜索Dorks
-- https://github.com/VKSRC/Github-Monitor    //JS。GitHub代码信息泄露分钟级监控，邮件预警。G:/0xbug/Hawkeye;G:/neal1991/gshark;G:/FeeiCN/GSIL;G:/repoog/GitPrey;G:/Hell0W0rld0/Github-Hunter;----
-- https://github.com/Furduhlutur/yar    //Go。监控Github存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
+- https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控代码信息泄露，分钟级邮件预警。G:/0xbug/Hawkeye;G:/neal1991/gshark;G:/FeeiCN/GSIL;G:/repoog/GitPrey;G:/Hell0W0rld0/Github-Hunter;--
+- https://github.com/Furduhlutur/yar    //Go。Github监控存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
 - https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取git文件。G:/HightechSec/git-scanner;--
 - https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，源代码.git泄漏利用工具。

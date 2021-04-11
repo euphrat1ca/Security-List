@@ -65,6 +65,7 @@
 ### Java代码审计
 - https://github.com/SonarSource/sonar-java    //Java代码质量和安全性静态分析器，
 - https://github.com/JoyChou93/java-sec-code    //陌陌开源一键代码审计修复。G:/zsdlove/Hades;--
+- https://github.com/HXSecurity/DongTai-agent-java    //火线洞态IAST
 ### Ruby代码审计
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
 ### Clang+代码审计

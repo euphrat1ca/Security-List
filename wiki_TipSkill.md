@@ -54,7 +54,6 @@
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python创建交互式提示命令行。
 
 ## 分析调试
-- https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;--
 - https://github.com/zxlie/FeHelper    //前端调试助手，代码格式化、转换等。
 ### 加密功能
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库

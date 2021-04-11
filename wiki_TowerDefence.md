@@ -33,10 +33,9 @@
 - https://github.com/elastic/detection-rules    //Elastic Security主机防护规则
 ### EDR信息监控
 - https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
-- https://github.com/EBWi11/AgentSmith-HIDS    //C。Linux下Hook system_call进程监控的内核级HIDS，支持从内核态获取数据。welljob。斗鱼开源。
+- https://github.com/bytedance/Elkeid    //字节跳动安全团队开源自研HIDS，Elkeid Agent，Elkeid Driver，Elkeid RASP，Elkeid Server，Elkeid HUB组成，execve、定制化的syscall hook等内核态信息。P:AuditD是Linux自身的审计系统中的一个用户态工具，将SYSCALL调用、文件读写操作等行为记录写入磁盘，AuditD支持多种监听事件的配置和定制，实践中常用于作为反入侵/违规审计的数据源;G:/EBWi11/AgentSmith-HIDS;--
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。P:天眼;P:天擎;--
-- https://github.com/bytedance/AgentSmith-HIDS    //字节跳动安全团队开源自研HIDS
 - https://github.com/crowdsecurity/crowdsec    //Go。Linux下主机入侵检测，lua模块，nginx反代，一键部署。webGUI。goodjob。
 - https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
 - https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
