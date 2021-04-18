@@ -30,39 +30,51 @@
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/lenve/javadoc    //Java企业级项目需求文档
+### 负载均衡设计
+- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk。
 
 ## 区块安全建设
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
 - tornado.cash    //链上混币器
 
-## 安全防护建设
-- https://www.alienvault.com/products/ossim    //开源信息安全管理系统siem安全运维平台解决方案，支持snort\nmap等多种工具插件。
-- https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
-- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
-### IPv6安全建设
+## IPv6安全建设
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-### 运维管理
-- https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
-- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机
-- https://github.com/openitsystem/itops    //PY3,Django。AD\Exchange安全运维管理系统。
-- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
-- https://github.com/prometheus/prometheus    //Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
-- https://github.com/fabric/fabric    //Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
-### Web应用安全
+
+## 合规建设
+- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+### 等保安全
+- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
+### 数据安全建设
+- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+
+## 安全风控建设
+- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
+- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
+
+## 应用安全建设
+- https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
+- https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
+- https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;--
+- https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
+- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
+### 安全开发
+- https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
-- https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
-### 负载均衡建设
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk。
+### 供应链安全
+- https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
 
 ## 办公网安全建设
+- https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
+- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
 ### DNS防护建设
 - https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
 - https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap DNS Proxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
@@ -75,6 +87,7 @@
 - 公众号：终端安全运营年度笔记    //
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
+- https://www.alienvault.com/products/ossim    //开源信息安全管理系统siem平台解决方案，支持snort\nmap等多种工具插件。
 ### SOC建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -86,47 +99,32 @@
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 - https://github.com/ngbdf/redis-manager    //Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
-### 权限管控
+- https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
+### ACL策略权限
+- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
+- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
+### 登录管控
 - https://github.com/hashicorp/vault    //密钥保险箱、密码管理、keycenter。P:1Password
 - https://github.com/pomerium/pomerium    //基于上下文身份动态访问策略的单点登录网关，VPN替代方案。
 - https://github.com/dromara/sa-token    //Java。Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题。
-### Nginx配置
-- https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
-- https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
-- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
-### ACL策略安全
-- https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
-- https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
+- https://github.com/cdk8s/tkey    //Java。Token Key 以 OAuth 2.0 标准为接口设计原则的单点登录系统（SSO）
+- https://ln2.io/adminBoard    //Chrome 浏览器插件LN2 for Admin，蓝图局域网资产服务登录口管理。
+- https://github.com/openitsystem/itops    //PY3,Django。AD\Exchange安全运维管理系统。
 ### API接口管理
 - https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
 - https://github.com/mockoon/cli    //图形化api mock快速搭建工具。
 - https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;P:HACKBAR;--
-
-## 合规建设
-- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
-### 等保安全
-- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
-
-## 数据安全建设
-### DLP建设
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-
-## 安全风控建设
-- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
-- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
-- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
-
-## 安全开发
-- https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
-- https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
-- https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
-- https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;--
-- https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
-- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
-### 供应链安全
-- https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
+### 运维管理
+- https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机。
+- https://github.com/zhaojh329/rtty    //C。web堡垒机，终端访问。
+- https://github.com/prometheus/prometheus    //Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
+- https://github.com/fabric/fabric    //Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
+### Nginx配置
+- https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
+- https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
+- https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
 
 ## 云安全建设
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云原生渗透备忘单，云服务检查清单。
@@ -204,7 +202,7 @@
 - https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。
 - https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
 
-## 基线核查建设
+## 基线核查List
 - https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
 - https://www.open-scap.org/    //安全基线评估工具集
 - https://github.com/re4lity/Benchmarks    //常用服务器、数据库、中间件安全配置基线 ，基本包括了所有的操作系统、数据库、中间件、网络设备、浏览器、安卓、IOS、云服务的安全配置。

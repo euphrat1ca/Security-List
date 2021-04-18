@@ -120,8 +120,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/NullArray/NetSet    //Bash。终端多路复用器，其会话通过Tor路由，并通过自动安装和配置DNSCrypt-proxy来保护DNS流量。
 
 ## 主动防御
-- https://tom0li.github.io/反制攻击队和防守人员/    //防守反击
-- Bot扫描肉鸡->捕获IP->捕获payload->反向回打
+- https://tom0li.github.io/反制攻击队和防守人员/    //防守反制
+- Bot扫描肉鸡->捕获IP->捕获payload->防守反击
 ### 主动反制识别
 - https://github.com/cnrstar/anti-honeypot    //Chrome插件。检测WEB蜜罐并阻断请求
 - https://github.com/iiiusky/AntiHoneypot-Chrome-simple    //Chrome插件。蜜罐检测，Jsonp漏洞防御。
@@ -136,6 +136,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://www.anquanke.com/post/id/152339    //JSONP和CORS跨站跨域读取资源的漏洞利用（附带EXP）。JSON Hijacking实战利用多种利用方式。
 - https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源。
 - https://github.com/jonasstrehle/supercookie    //利用favicon进行F-Cache读取，构建唯一ID。
+- 使用javascript确认对方是否开burpsuite    //img标签遍历burpsuite的favicon.ico文件，遍历“http:burp”
 ### 攻击反制利用
 - https://medium.com/tenable-techblog/reverse-shell-from-an-openvpn-configuration-file-73fd8b1d38da    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。W:freebuf.com/articles/terminal/175862.html;--
 - https://www.exploit-db.com/exploits/38847    /如何优雅的反击扫描你网站的黑客。CVE-2015-4027,Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。
