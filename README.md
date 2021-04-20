@@ -41,7 +41,7 @@
 # 漏洞收集
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_VulExp.md    //web漏洞、软件模板漏洞、数据库、中间件、CMS框架漏洞、MS&Linux等系统组件漏洞、IOT漏洞收集表单。myWiki。
 # Web安全利用
-- https://github.com/euphrat1ca/security_w1k1/blob/master/WebSec.md    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密、web应用扫描器框架。myWiki。
+- https://github.com/euphrat1ca/security_w1k1/blob/master/WebSecurity.md    //web安全测试利用、前端安全、数据库sql注入、xss跨站、上传漏洞、命令注入执行、webshell、https证书加密、web应用扫描器框架。myWiki。
 # 应用安全利用
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_AppSecurity.md    //移动端APP，应用代码审计。myWiki。
 # 工具拓展插件

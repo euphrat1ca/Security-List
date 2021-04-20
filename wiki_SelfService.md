@@ -149,7 +149,8 @@
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
-- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+- https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的共享文档，上传下载文件，支持断点续传等。
+- https://github.com/seemoo-lab/opendrop    //py3。基于owlink.org的Apple AirDrop文档共享实现
 ### 文件检索
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--

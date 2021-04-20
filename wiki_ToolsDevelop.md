@@ -24,7 +24,6 @@
 ### burp漏洞扫描
 - https://github.com/ilmila/J2EEScan    //70多个Java Web应用的漏洞测试
 - https://github.com/nccgroup/argumentinjectionhammer    //识别参数注入漏洞
-- https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测。WebGUI。Github:/portswigger/authz;--
 - https://github.com/portswigger/http-request-smuggler    //http请求走私。
 - https://github.com/yandex/burp-molly-pack    //XXE SSRF漏洞利用。
 - https://github.com/ethicalhackingplayground/ssrf-king    //ssrf漏洞扫描

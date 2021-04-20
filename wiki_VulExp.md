@@ -44,7 +44,7 @@
 - https://github.com/0vercl0k/CVE-2019-9810    //命令执行Firefox on Windows 64 bits.
 - https://github.com/exodusintel/CVE-2019-0808    //JS,C++。CVE-2019-5786 and CVE-2019-0808 Chrome 72.0.3626.119 stable Windows 7 x86 exploit chain.
 - https://quitten.github.io/Firefox/    //利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
-- https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie 余弦 包括注入、编辑、添加、删除cookie。G:/lfzark/cookie-injecting-tools;--
+- https://github.com/r4j0x00/exploits    //chrome漏洞，--no-sandbox下JS命令执行
 ### 远程应用服务漏洞
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    //CVE-2018-10933 libssh服务端身份验证绕过。G:/leapsecurity/libssh-scanner;--
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）

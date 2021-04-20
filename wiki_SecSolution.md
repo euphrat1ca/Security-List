@@ -37,6 +37,7 @@
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
 - tornado.cash    //链上混币器
+- https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
 
 ## IPv6安全建设
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
@@ -47,8 +48,15 @@
 - https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
-### 数据安全建设
+
+## 数据安全建设
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+### 数字水印
+- https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    //Chrome开发者工具中文手册
+- https://github.com/saucxs/watermark-dom    //基于DOM对象实现的BS系统的水印
+- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
+- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
+- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
 
 ## 安全风控建设
 - https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统

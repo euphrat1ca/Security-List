@@ -1,28 +1,22 @@
 # 通讯工具技术相关
 ## 通讯服务
 - https://github.com/aqiongbei/buy_pig_plan    //JS。利用客服系统电话轰炸机。G:/xxcosmos/buy_pig_plan_python;--
-### 办公通讯
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;P:/telegram机器人TG BOT;--
-- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
-- https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;--
-- https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
-- https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--
-- https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
-- https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
-### 客户端通讯分析
-- https://github.com/seemoo-lab/opendrop    //py3。基于owlink.org的Apple AirDrop文档共享实现
+### 通讯插件
 - https://github.com/dplusec/tgwechat/    //类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
 - https://bbs.pediy.com/thread-224988.htm    //Intro。[原创]PC微信发送消息研究
 - https://bbs.pediy.com/thread-223178.htm    //Intro。[原创] 对控制PC端微信发送信息的研究
 - https://github.com/TonyChen56/WeChatRobot    //C++。微信pc机器人。
 - https://github.com/anhkgg/SuperWeChatPC    //超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
-### 邮件服务
-- https://salmon-mail.readthedocs.io    //Py。实现邮件服务器功能的python包模块
-- https://github.com/gyxuehu/EwoMail    //PHP。EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://github.com/PHPMailer/PHPMailer    //PHP。PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
-- https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器。
-### 聊天通讯
+- https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
+- https://github.com/ferredoxin/QNotified    //QQ开源Xposed模块
+### 自动回复WebHook
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;P:/telegram机器人TG BOT;--
+- https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;--
+- https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
+- https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--
+- https://github.com/lmk123/oh-my-wechat    //WeChatExtension-ForMac自动安装脚本。
+### 实时通讯
+- https://mattermost.com/    //协同办公通讯。W:github.com/mattermost;--
 - https://github.com/tootsuite/mastodon    //ActivityPub开源微博社区
 - https://github.com/matyhtf/webim    //PHP+Swoole实现的网页即时通讯工具
 - https://volafile.org/    //在线匿名聊天室，可传输文件、视频、图像。
@@ -33,10 +27,12 @@
 - https://github.com/RocketChat/Rocket.Chat    //js。在线团队聊天服务器。rocket.chat/install。
 - https://www.signal.org/    //通讯加密聊天工具。W:github.com/signalapp;
 - https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
-### 虚拟身份
-- https://www.fakenamegenerator.com/    //多国身份信息模拟器
-- https://github.com/gh0stkey/RGPerson    //Py。随机身份生成脚本
-- https://xbeginagain.github.io/generator/    //编号生成器，身份证、营业执照、组织机构代码、统一社会信用代码、手机号、银行卡账号
+### 邮件服务
+- https://salmon-mail.readthedocs.io    //Py。实现邮件服务器功能的python包模块
+- https://github.com/gyxuehu/EwoMail    //PHP。EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
+- https://github.com/PHPMailer/PHPMailer    //PHP。PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
+- https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器。
 ### FreeConnect邮箱
 - http://bccto.me    //一次性邮箱
 - https://www.guerrillamail.com    //临时邮箱，shark

@@ -1,10 +1,3 @@
-# 数字水印
-- https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    //Chrome开发者工具中文手册
-- https://github.com/saucxs/watermark-dom    //基于DOM对象实现的BS系统的水印
-- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
-- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
-- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
-
 # 社会工程
 - https://github.com/azizaltuntas/Camelishing    //Py3。社会工程学攻击辅助工具。WEBGUI。
 - https://github.com/threatexpress/domainhunter    //通过bluecoat分类和`Archive.org`历史记录检查过期域名，选择钓鱼和C2域名。
@@ -20,6 +13,10 @@
 - https://github.com/maxchehab/CSS-Keylogging    //Chrome扩展程序。Express服务器利用CSS进行键盘记录。
 ### 社工库查询
 - https://github.com/kallydev/privacy    //数据结构化查询。
+### 虚拟身份
+- https://www.fakenamegenerator.com/    //多国身份信息模拟器
+- https://github.com/gh0stkey/RGPerson    //Py。随机身份生成脚本
+- https://xbeginagain.github.io/generator/    //编号生成器，身份证、营业执照、组织机构代码、统一社会信用代码、手机号、银行卡账号
 
 ## 钓鱼框架
 - https://github.com/bhdresh/SocialEngineeringPayloads    //负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads

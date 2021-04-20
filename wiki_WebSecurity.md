@@ -96,7 +96,7 @@
 - https://github.com/netxfly/Transparent-Proxy-Scanner    //Go。基于vpn和透明代理的web漏洞扫描器，数据库存储mongodb。
 - https://github.com/cloudtracer/paskto    //js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
 
-## Web安全检测
+# Web安全检测
 - https://portswigger.net/research/web-cache-entanglement    //Web缓存投毒的新途径
 - https://github.com/Bo0oM/PHP_imap_open_exploit    //利用imap_open绕过php exec函数禁用
 - https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
@@ -195,7 +195,7 @@
 - https://github.com/NetSPI/PowerUpSQL    //Powershell。的sqlserver测试框架
 - https://github.com/Mayter/mssql-command-tool    //Go。mssql连接工具，sqlserver利用。
 - http://www.4hou.com/system/14950.html    //Intro。利用PowerUpSQL，渗透测试技巧：绕过SQL Server登录触发器限制。
-### 数据库利用Mysql
+### 数据库利用Mysql注入
 - https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI    //mysql注入 bypass心得
 - https://xz.aliyun.com/t/1491    //Mysql数据库渗透及漏洞利用总结。写shell、udf、mof、注册表、os-shell。
 - https://github.com/missDronio/blindy    //MySQL盲注爆破工具
@@ -219,6 +219,14 @@
 - https://github.com/stampery/mongoaudit    //MongoDB审计及渗透工具
 ### 数据库利用云服务
 - https://github.com/Turr0n/firebase    //firebase云端实时数据库，错误配置利用。
+
+## Web越权漏洞
+- https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie 余弦 包括注入、编辑、添加、删除cookie。G:/lfzark/cookie-injecting-tools;--
+- https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测。WebGUI。Github:/portswigger/authz;--
+### API安全测试
+- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
+- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
+- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
 ### 上传漏洞利用
 - https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。
 - https://github.com/UltimateHackers/Arjun    //扫描网页，使用正则表达式爆破查找隐藏的GET/POST参数
@@ -266,8 +274,3 @@
 - https://github.com/htchina/openfire-webshell    //openfire上传webshell插件
 ### ASP/X Webshells
 - https://github.com/antonioCoco/SharPyShell    //ASP.NET。webshell for C# web application
-
-## API安全测试
-- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
-- https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
-- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
