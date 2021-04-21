@@ -105,7 +105,7 @@
 - https://github.com/jcesarstef/dotdotslash    //目录遍历漏洞测试
 - https://paper.seebug.org/1148/    //RFI 巧用 WebDAV 绕过 URL 包含限制 Getshell。远程文件包含漏洞利用。
 - https://github.com/lz520520/railgun    //GUI界面的渗透工具。goodjob。G:/kuiguansec/rcetool;--
-### 前端利用
+## 前端漏洞利用
 - https://github.com/ticarpi/jwt_tool    //Py。json web token的检测。G:/lmammino/jwt-cracker;--
 - https://github.com/dienuet/crossdomain    //Py。CORS（Cross-Origin Resource Sharing, 跨域资源共享）漏洞扫描器，支持读取aquatone结果，绕过origin安全设置。
 - https://www.jianjunchen.com/post/cors安全部署最佳实践/    //intro。CORS域配置错误，CORScanner跨域解析漏洞扫描器。G:/chenjj/CORScanner;--
@@ -125,16 +125,7 @@
 - https://github.com/drwetter/testssl.sh    //Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    //SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
 - https://github.com/nabla-c0d3/sslyze    //Py3。SSL/TLS server扫描器
-### 命令执行注入
-- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。goodjob。
-- https://github.com/commixproject/commix    //Py。命令注入漏洞扫描
-- https://github.com/ewilded/shelling    //Java。burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
-- https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/    //CMD Hijack，命令执行截断执行，配合powershell（带-enc执行）、mshta等方法。
-### XXE漏洞
-- https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
-- https://github.com/BuffaloWill/oxml_xxe    //Ruby。XXE漏洞利用模块生成。
-- https://github.com/orf/xcat    //py3。xpath注入漏洞检测利用
-- https://github.com/enjoiz/XXEinjector/    //Ruby。外部实体注入漏洞xxe检测利用
+
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    //java。csrf验证工具
 - https://github.com/d0nutptr/sic    //Rust。CSS注入，csrf攻击
@@ -145,8 +136,18 @@
 - https://github.com/swisskyrepo/SSRFmap    //Py。检测ssrf漏洞
 - https://github.com/tarunkant/Gopherus    //Py。利用gopher协议（早期从远程服务器上获取数据的协议）生成ssrf payload执行rce。
 - https://www.anquanke.com/post/id/145519/    //intro。浅析SSRF原理及利用方式。gopher、dict、file、http/s协议利用
+### XXE解析漏洞
+- https://thief.one/2017/06/20/1/    //浅谈XXE漏洞攻击与防御
+- https://github.com/BuffaloWill/oxml_xxe    //Ruby。XXE漏洞利用模块生成。
+- https://github.com/orf/xcat    //py3。xpath注入漏洞检测利用
+- https://github.com/enjoiz/XXEinjector/    //Ruby。外部实体注入漏洞xxe检测利用
 
-## XSS跨站脚本利用
+## 命令执行注入
+- https://github.com/payloadbox/command-injection-payload-list    //命令执行注入列表。goodjob。
+- https://github.com/commixproject/commix    //Py。命令注入漏洞扫描
+- https://github.com/ewilded/shelling    //Java。burp拓展，OS命令注入有效负载生成器，关于命令注入的解决方案防御手段。
+- https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/    //CMD Hijack，命令执行截断执行，配合powershell（带-enc执行）、mshta等方法。
+### XSS跨站脚本利用
 - https://xsspt.com/index.php?do=blist    //乌云xss学习。
 - https://github.com/UltimateHackers/AwesomeXSS    //XSS Awesome系列。
 - http://www.xss-payloads.com    //xss工具包、资料、payload导航站。
@@ -174,8 +175,7 @@
 - https://github.com/AntSwordProject/ant    //Nodejs。蚁逅@1.0，实时上线的 XSS 盲打平台。
 - https://github.com/BlackHole1/WebRtcXSS    //PHP。基于thinkphp框架，利用webrtc进行自动化XSS入侵内网平台。
 - https://github.com/samdenty99/injectify    //TS,JS。利用xss在网站执行mitm攻击。
-
-## 数据库利用
+### 数据库利用
 - https://github.com/sqlmapproject/sqlmap    //Py。数据库注入。GREATJOB。G:/m4ll0k/Atlas //tamper脚本测试;--
 - https://github.com/SafeGroceryStore/MDAT    //sql综合利用工具(sqltools)，命令执行、文件管理等功能。goodjob。
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/    //sql注入sheet表。
@@ -227,6 +227,10 @@
 - https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
 - https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
+- https://blog.assetnote.io/2021/04/05/contextual-content-discovery/    //上下文内容发现，api接口发现。G:/assetnote/kiterunner;--
+### 验证码爆破
+- https://github.com/ecjtuseclab/AILoginBlasting    //Py。基于机器学习的登录验证码爆破工具。
+- https://code.dsaaaaaaaaaaaaaaaaaaaadwqdqdw101fre.tk:8081/    //post验证码识别接口。
 ### 上传漏洞利用
 - https://github.com/WSP-LAB/FUSE    //py2。基于NDSS 2020上展示的13种文件上传bypass技巧，Linux下文件上传漏洞fuzz工具。配合文件变化监控查找文件上传位置。
 - https://github.com/UltimateHackers/Arjun    //扫描网页，使用正则表达式爆破查找隐藏的GET/POST参数
@@ -242,9 +246,7 @@
 - https://github.com/D35m0nd142/LFISuite    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://github.com/OsandaMalith/LFiFreak    //本地文件包含漏洞利用及扫描工具，支持反弹shell
 - https://xz.aliyun.com/t/5535    //session写文件getshell，PHP保存session至文件，Java保存session至内存。
-### 验证码爆破
-- https://github.com/ecjtuseclab/AILoginBlasting    //Py。基于机器学习的登录验证码爆破工具。
-- https://code.dsaaaaaaaaaaaaaaaaaaaadwqdqdw101fre.tk:8081/    //post验证码识别接口。
+
 
 ## 网站管理WebShell
 - https://github.com/AntSwordProject/antSword    //js。中国蚁剑基于Electron插件式开发。greatjob。
