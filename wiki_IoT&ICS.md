@@ -9,7 +9,7 @@
 ## 万物互联仿真模拟
 - https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
 ### 设备固件烧录
-- https://github.com/pbatard/rufus    //C。etcher启动盘烧录。W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
+- https://github.com/pbatard/rufus    //C。启动盘镜像烧录。W:www.balena.io/etcher/;W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 ### 设备编程器
 - https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
 ### 车联网仿真
