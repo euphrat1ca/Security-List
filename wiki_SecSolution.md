@@ -30,38 +30,6 @@
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/lenve/javadoc    //Java企业级项目需求文档
-### 负载均衡设计
-- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk。
-
-## 区块安全建设
-- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
-- https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
-- tornado.cash    //链上混币器
-- https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
-
-## IPv6安全建设
-- https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
-- https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
-- https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-
-## 合规建设
-- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
-### 等保安全
-- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
-
-## 数据安全建设
-- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
-### 数字水印
-- https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    //Chrome开发者工具中文手册
-- https://github.com/saucxs/watermark-dom    //基于DOM对象实现的BS系统的水印
-- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
-- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
-- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码。蜜标。
-
-## 安全风控建设
-- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
-- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
-- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
 
 ## 应用安全建设
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
@@ -78,18 +46,10 @@
 ### 供应链安全
 - https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
 
-## 办公网安全建设
-- https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
-- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
-- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
-- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
-### DNS防护建设
-- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
-- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap DNS Proxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
-### 邮件网关建设
-- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
-- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
-- https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议）。关于钓鱼邮件的学习笔记
+## 安全风控建设
+- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
+- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
 
 ## 安全运营建设
 - 公众号：终端安全运营年度笔记    //
@@ -133,6 +93,21 @@
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
+### 负载均衡设计
+- https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk。
+
+## 办公网安全建设
+- https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
+- https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
+- https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
+- https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
+### DNS防护建设
+- https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
+- https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap DNS Proxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
+### 邮件网关建设
+- https://github.com/Janusec/janusec    //Golang。应用安全网关，具备WAF、CC攻击防御、证书私钥加密、负载均衡、统一Web化管理等功能。
+- https://github.com/TKCERT/mail-security-tester    //检测邮件防护与过滤系统的测试框架
+- https://www.freebuf.com/articles/web/227694.html/    //垃圾邮件防御手段，通过SPF记录；DKIM数据签名进行；DMARC策略（基于SPF和DKIM协议的可扩展电子邮件认证协议），关于钓鱼邮件的学习笔记。
 
 ## 云安全建设
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云原生渗透备忘单，云服务检查清单。
@@ -166,7 +141,7 @@
 - https://bbs.ichunqiu.com/thread-53927-1-1.html    //奇安信「实战攻防三部曲」要点总结。实战攻防之红蓝紫队
 - https://github.com/Leezj9671/offensiveinterview    //安全/渗透测试/红队面试题。G:/WebBreacher/offensiveinterview;--
 ### 攻击模拟风险测试
-- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、攻击测试、模拟病毒恶意传播。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
+- https://github.com/guardicore/monkey    //Py。利用默认口令、exp、多种协议（wmi组件、ssh、smb等）方式进行C2通讯、模拟病毒恶意传播等自动化渗透测试。G:/ElevenPaths/ATTPwn;G:/Manticore-Platform/manticore-cli/;W:guardicore.com/infectionmonkey;G:/lawrenceamer/0xsp-Mongoose;G:/NextronSystems/APTSimulator;G:/mitre/caldera;--
 - https://github.com/alphasoc/flightsim    //Golang。Malicious恶意网路流量模拟测试。
 - https://github.com/mitre-attack/attack-arsenal    //MITRE关于攻击团队模拟攻击仿真资源集合。
 ### 红队基础设施自动化部署建设
@@ -239,6 +214,31 @@
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
+### 区块安全建设
+- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
+- https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
+- tornado.cash    //链上混币器
+- https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
+### IPv6安全建设
+- https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
+- https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
+- https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
+### 人工智能安全
+- https://github.com/Azure/counterfit/    //python。自动化测试人工智能AI模型
+
+## 合规建设
+- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+### 等保安全
+- https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
+- https://github.com/paradiseduo/ApplicationScanner    //Python。移动端App等保测试工具。
+### 数据安全建设
+- https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+### 数字水印
+- https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    //Chrome开发者工具中文手册
+- https://github.com/saucxs/watermark-dom    //基于DOM对象实现的BS系统的水印
+- https://github.com/fire-keeper/BlindWatermark    //py。数字水印盲水印图片保护。
+- https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
+- https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码/蜜标。
 
 ## 压测泛洪
 - https://github.com/ywjt/Dshield    //Py。DDOS防护。
