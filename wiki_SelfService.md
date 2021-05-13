@@ -53,10 +53,10 @@
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - https://mirrors.huaweicloud.com/    //华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
 ### 网页快照
-- https://github.com/DIYgod/RSSHub    //JS。万物皆可rss
+- https://github.com/DIYgod/RSSHub    //JS。万物皆可rss。
+- https://github.com/hellodword/wechat-feeds    //Golang。给微信公众号生成RSS订阅源
 - https://github.com/kingbase/wechat_history_export    //Js。微信公众历史文章保存为PDF、Mhtml。
-- https://archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
-- http://web.archive.org    //网站时光机
+- https://web.archive.org    //Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.网站时光机
 - https://2tool.top/    //域名前面加上his.sh，网页快照
 ### 图床操作
 - https://thyrsi.com/    //图片上传分享工具

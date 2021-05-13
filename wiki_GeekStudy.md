@@ -130,8 +130,10 @@
 - https://azeria-labs.com/    //arm 溢出
 - http://security.cs.rpi.edu/courses/binexp-spring2015/    //家用路由器0day
 
-## 漏洞复现
-- https://github.com/vulhub/vulhub    //Vulhub是一个面向大众的开源漏洞靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像。goodjob。
+## 攻防演练平台
+- https://github.com/microsoft/CyberBattleSim    //Python。微软人工智能攻防演练平台。
+- https://github.com/brant-ruan/metarget    //绿盟云原生攻防靶场开源啦
+- https://github.com/vulhub/vulhub    //漏洞复现靶场，无需docker知识，执行两条命令即可编译、运行一个完整的漏洞靶场镜像。goodjob。
 - https://www.vulnhub.com    //实验室、靶场、ctf靶机汇总，离线真实环境
 - https://github.com/fofapro/vulfocus    //漏洞集成平台、漏洞环境 docker 镜像。G:/Medicean/VulApps;G:/c0ny1/vulstudy;--
 - http://vulnstack.qiyuanxuetang.net/    //红日安全红队演练环境。P:/从外网到域控（vulnstack靶机实战）;G:/hongriSec/PHP-Audit-Labs;--
@@ -139,7 +141,7 @@
 - https://github.com/bingohuang/docker-labs    //Docker镜像在线制作平台
 - https://kernel.ubuntu.com/~kernel-ppa/mainline/    //Ubuntu历史kernel
 - http://old-releases.ubuntu.com/releases/    //Ubuntu历史镜像
-### 离线靶场学习
+### 仿真靶场实验
 - https://github.com/WebGoat/WebGoat    //Java。一键jar包web安全实验靶场
 - https://github.com/ethicalhack3r/DVWA    //web安全实验靶场。新手指南：DVWA-1.9全级别教程
 - http://www.itsecgames.com    //bWAPP,bee-box。包含owasp10，心脏滴血hearbleed等环境。noupdate

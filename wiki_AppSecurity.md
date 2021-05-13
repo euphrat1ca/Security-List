@@ -53,6 +53,7 @@
 - https://github.com/sickcodes/Docker-OSX    //OSX-KVM in Docker! X11 Forwarding!，基于qemu和kvm封装的苹果镜像docker。
 
 ## 应用安全审计
+- https://mp.weixin.qq.com/s/d9RzCFkYrW27m1_LkeA2rw    //系列 | 58集团白盒代码审计系统建设实践1：技术选型
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
 - https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。G:/SonarSource;G:/pmd/pmd;--

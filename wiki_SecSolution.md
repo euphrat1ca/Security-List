@@ -170,10 +170,10 @@
 - https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    //渗透辅助
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中。
-- https://github.com/opensec-cn/vtest    //Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;--
 - http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
-- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。
+- https://github.com/opensec-cn/vtest    //Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。在线网络安全工具。
 - https://github.com/uknowsec/SharpNetCheck    //C#。配合如wmiexec、psexec等横向工具进行批量检测内网是否出网。
 - https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
 - https://github.com/medbenali/CyberScan    //Py。分析数据包、解码、端口扫描、IP地址分析等。
@@ -182,8 +182,7 @@
 - https://github.com/foryujian/ipintervalmerge    //IP合并区间。
 ### 测试总结报告
 - https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
-- https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。
-- https://github.com/bugsafe/WeReport    //PHP。WeReport报告助手，一键生成测试报告。
+- https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。G:/bugsafe/WeReport;G:/blacklanternsecurity/writehat;--
 
 ## 基线核查List
 - https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。
@@ -215,9 +214,13 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
 ### 区块安全建设
+- https://paper.seebug.org/1546/    //智能合约漏洞系列 -- 运行平台科普篇
+- https://paper.seebug.org/1580/    //智能合约安全系列——EOS 菠菜应用篇
+- https://paper.seebug.org/1545/    //智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
+- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
+- tornado.cash    //链上混币器
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
-- tornado.cash    //链上混币器
 - https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
 ### IPv6安全建设
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器

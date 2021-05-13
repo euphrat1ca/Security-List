@@ -46,7 +46,7 @@
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra    //Intro。Ghidra教程。
 - https://www.kanxue.com/book-brief-64.htm    //Ghidra操作手册。商业版。
 - https://github.com/radare/radare2    //C。radare2是基于Capstone的跨平台逆向工程平台。包括反汇编、分析数据、打补丁、比较数据、搜索、替换、虚拟化等。10k。goodjob。
-- https://github.com/radareorg/cutter    //C++。基于QT的radare2框架GUI。5k。
+- https://github.com/radareorg/cutter    //C++。基于QT的radare2框架GUI。goodjob。
 - https://github.com/armijnhemel/binaryanalysis-ng    //Py3。Binary Analysis Toolkit（BAT），对固件、二进制、pwn等文件进行递归式解压缩实现识别与逆向。goodjob。
 - https://github.com/angr/angr    //Py。二进制分析工具,支持动态符号执行和静态分析。3k。
 - https://github.com/x64dbg/x64dbg    //C++。Windows调试工具x64dbg/x32dbg。greatjob。34k。W:immunityinc.com //Immunity Debugger;P:/32位汇编分析调试器Ollydbg;G:/horsicq/x64dbg-Plugin-Manager;--

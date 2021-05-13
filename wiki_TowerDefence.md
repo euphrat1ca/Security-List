@@ -31,28 +31,28 @@
 - https://documentation.wazuh.com    //C。开源C/S架构主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
 - https://www.elastic.co/cn/security    //Elastic Security SIEM威胁检测与端点防护和响应
 - https://github.com/elastic/detection-rules    //Elastic Security主机防护规则
-### EDR信息监控
 - https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
 - https://github.com/bytedance/Elkeid    //字节跳动安全团队开源自研HIDS，Elkeid Agent，Elkeid Driver，Elkeid RASP，Elkeid Server，Elkeid HUB组成，execve、定制化的syscall hook等内核态信息。P:AuditD是Linux自身的审计系统中的一个用户态工具，将SYSCALL调用、文件读写操作等行为记录写入磁盘，AuditD支持多种监听事件的配置和定制，实践中常用于作为反入侵/违规审计的数据源;G:/EBWi11/AgentSmith-HIDS;--
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
+- https://labs.360.cn/malwaredefender/    //HIPS (主机威胁防护)，用户可以自己编写规则来防范病毒、木马的侵害，同时Malware Defender提供了很多有效的工具来检测和删除已经安装在计算机系统中的恶意软件。
 - https://github.com/0Kee-Team/WatchAD    //Py。360 信息安全中心 0kee Team 域安全入侵感知系统，能够及时准确发现高级域渗透活动，检测覆盖内网攻击杀伤链大部分手法。P:天眼;P:天擎;--
+- https://github.com/Neo23x0/Loki    //IOC和APT应急响应入侵痕迹扫描器
+- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。
 - https://github.com/crowdsecurity/crowdsec    //Go。Linux下主机入侵检测，lua模块，nginx反代，一键部署。webGUI。goodjob。
-- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
 - https://github.com/TheKingOfDuck/FileMonitor    //py。基于watchdog的文件监视器变化监控（代码审计辅助）。testjob。
-### EDR终端防护
+- https://github.com/grayddq/HIDS    //基于osquery的主机信息监控。
+
+## 终端安全响应
 - http://edr.sangfor.com.cn/    //深信服SfAntiBotPro内存检索工具，可以根据输入的字符串快速检索计算机内存，输出包含该字符串的进程信息进行恶意域名检测
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
-- https://labs.360.cn/malwaredefender/    //HIPS (主机入侵防御系统)软件，用户可以自己编写规则来防范病毒、木马的侵害。另外，Malware Defender提供了很多有效的工具来检测和删除已经安装在您的计算机系统中的恶意软件。
-- https://github.com/ComodoSecurity/openedr    //C++。开放式EDR组件。
-- http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。
-- https://github.com/DasSecurity-Labs/AoiAWD    //PHP。Linux下CTF AWD轻量级EDR系统，支持flag替换。webgui。goodjob。
-- https://github.com/Neo23x0/Loki    //IOC和APT应急响应入侵痕迹扫描器
+- http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。G:/ComodoSecurity/openedr;--
+- https://github.com/DasSecurity-Labs/AoiAWD    //PHP。Linux下CTF AWD轻量级EDR系统，支持flag替换。webgui。goodjob。G:/0xrawsec/whids;--
 - https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。G:/ion-storm/sysmon-config;公众号:打造MITRE ATT&CK矩阵检测规则edr系统;--
-- https://github.com/felixweyne/ProcessSpawnControl    //PS。对恶意程序进行检测与监控。
 
 ## 网络威胁防御
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
 - https://github.com/StamusNetworks/SELKS    //基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
+- https://www.anquanke.com/post/id/167620    //威胁情报专栏：威胁情报标准——结构化威胁信息表达式（STIX）
 ### 隐蔽隧道检测
 - https://www.freebuf.com/articles/network/247810.html    //针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）
 - https://github.com/We5ter/Flerken    //py。跨平台混淆命令检测的解决方案。

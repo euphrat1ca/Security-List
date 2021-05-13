@@ -6,10 +6,18 @@
 - https://github.com/nusr/hacker-laws-zh    //开发定律
 ### 量化交易
 - https://www.fmz.com/    //发明者量化交易平台
-- http://pirogue.org/2020/06/24/quant/    //区块链。币圈量化交易试水
+- https://cn.tradingview.com/    //图表、行情、交易观点策略
+- http://pirogue.org/2020/06/24/quant/    //试水区块链量化交易
+- https://github.com/Drakkar-Software/OctoBot    //Python。BTC币量化机器人，对接交易所api。G:/freqtrade/freqtrade;--
 ### 区块矿机
-- https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工
 - https://awesomeopensource.com/projects/miner    //开源挖矿项目
+- https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工，门罗币。
+- https://github.com/Mining-Addiction/PhoenixMiner_5.5c_Windows_AMD_NVIDIA_Hidden_CMD    //PhoenixMiner cmd命令行隐藏版
+- https://blog.csdn.net/alionsss/article/details/115921140    //Gminer使用教程，以太坊。G:/develsoftware/GMinerRelease;--
+- https://ntminer.com/    //开源矿工，BMiner、NBMiner、HSPMiner。W:qskg.top //轻松矿工;W:mineros.cn;--
+### 数字货币
+- https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
+- https://github.com/dogecoin/dogecoin.com    //狗币官网主页。
 
 # 编程相关
 ## Web框架

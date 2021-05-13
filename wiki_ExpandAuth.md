@@ -1,6 +1,6 @@
 # 后渗透
 - https://github.com/rapid7/metasploit-framework    //Ruby。后渗透框架。greatjob。
-## Bypass监控设备
+## 绕过监控Bypass
 - https://sec.thief.one/article_content?a_id=00883adf1ec3384c4040c37fa8ea01ec/    //公众号：绕过卡巴进程保护的一些总结。卡巴斯基绕过。
 - https://blog.xpnsec.com/evading-sysmon-dns-monitoring/    //Intro。规避Sysmon DNS监控。
 - https://github.com/ZanderChang/anti-sandbox    //Windows对抗沙箱和虚拟机的方法总结，沙箱绕过。
@@ -12,8 +12,9 @@
 - https://github.com/hfiref0x/UACME    //C。基于Failure-Free Method(FFM)绕过Windows用户帐户控制方法，支持多版本操作系统。
 - https://github.com/sailay1996/UAC_Bypass_In_The_Wild    //利用Windows store bypass uac。
 - https://github.com/St0rn/Windows-10-Exploit    //PY,msf插件。win10 UacByPass。
+- https://github.com/swagkarna/Defeat-Defender    //Bat。利用“篡改保护”绕过Windows defender执行命令。
 
-## Bypass防护设备
+## 绕过防护Bypass
 - https://github.com/AMOSSYS/Fragscapy    //Py。防火墙fuzz绕过bypass
 - https://github.com/milo2012/ipv4bypass    //利用ipV6地址绕过waf
 - https://github.com/3xp10it/bypass_waf    //防火墙绕过脚本

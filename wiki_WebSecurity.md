@@ -224,10 +224,10 @@
 - https://github.com/evilcos/cookiehacker    //Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie 余弦 包括注入、编辑、添加、删除cookie。G:/lfzark/cookie-injecting-tools;--
 - https://github.com/ztosec/secscan-authcheck    //java。越权漏洞检测。WebGUI。Github:/portswigger/authz;--
 ### API安全测试
-- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。
+- https://github.com/shieldfy/API-Security-Checklist    //api开发核对清单。W:xz.aliyun.com/t/2412;--
 - https://github.com/GitGuardian/APISecurityBestPractices    //api接口测试checklist。
-- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。
-- https://blog.assetnote.io/2021/04/05/contextual-content-discovery/    //上下文内容发现，api接口发现。G:/assetnote/kiterunner;--
+- https://github.com/microsoft/restler-fuzzer    //REST API模糊测试工具。G:/Fuzzapi/fuzzapi;G:/flipkart-incubator/Astra;--
+- https://blog.assetnote.io/2021/04/05/contextual-content-discovery/    //上下文内容发现，api接口收集。G:/assetnote/kiterunner;--
 ### 验证码爆破
 - https://github.com/ecjtuseclab/AILoginBlasting    //Py。基于机器学习的登录验证码爆破工具。
 - https://code.dsaaaaaaaaaaaaaaaaaaaadwqdqdw101fre.tk:8081/    //post验证码识别接口。
