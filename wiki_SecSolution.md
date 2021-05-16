@@ -38,7 +38,8 @@
 - https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
 - https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
 ### 安全开发
-- https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范
+- https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范，实用性开发人员安全须知。
+- https://www.anquanke.com/post/id/200860    //JEP290防范Java反序列化漏洞，基于名单过滤。
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
