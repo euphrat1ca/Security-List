@@ -158,6 +158,7 @@
 - https://github.com/infosecn1nja/e2modrewrite    //用于将Empire配置文件转换为Apache modrewrite脚本
 ## 菜刀拓展插件
 - https://github.com/AntSword-Store/    //中国蚁剑插件市场
+- https://paper.seebug.org/1565/    //As-Exploits: 中国蚁剑后渗透框架。G:/yzddmr6/As-Exploits;--
 - https://github.com/yzddmr6/as_webshell_venom    //js。免杀webshell无限生成工具蚁剑版
 - https://github.com/Ch1ngg/CaidaoMitmProxy    //Py3。基于HTTP代理中转菜刀过WAF,基于菜刀20160622版本修改和测试。
 - https://github.com/ekgg/Caidao-AES-Version    //Burp插件。用AES算法透明加密菜刀的http数据流

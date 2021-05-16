@@ -62,10 +62,10 @@
 - https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
 - https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台多session。welljob。G:/nathanlopez/Stitch;G:/vesche/basicRAT;--
 - https://github.com/its-a-feature/Mythic    //Py。Linux下跨平台远控。goodjob。
-- https://github.com/cbrnrd/Kumo    //Java。基于jre环境的跨平台后门，一键编译界面GUI。G:/ThatcherDev/BetterBackdoor;G:/BlackHacker511/BlackRAT;--
+- https://github.com/cbrnrd/Kumo    //Java。基于jre环境的跨平台后门，一键编译，界面GUI。G:/ThatcherDev/BetterBackdoor;G:/BlackHacker511/BlackRAT;--
 - https://github.com/zerosum0x0/koadic    //Py3。基于JScript/VBScript的大宝剑远控，多版本系统支持内存加载shell。GOODJOB。G:/shelld3v/JSshell/;--
-- https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;G:/sameera-madushan/Print-My-Shell;--
-- https://github.com/WangYihang/Platypus    //Go。反弹shell管理工具。
+- https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;G:/sameera-madushan/Print-My-Shell;G:/WangYihang/Platypus;--
+- 
 - https://github.com/BenChaliah/Arbitrium-RAT    //Py。Android、Windows、Linux三端远控。P:Arbitrium-WebApp;--
 ### Windows远程协助
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
@@ -193,6 +193,7 @@
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://github.com/Mr-Un1k0d3r/SCShell    //跨平台基于ChangeServiceConfigA远程调用无文件横向移动工具。goodjob。
 - https://github.com/GhostPack/Rubeus    //C#。Kerberos功能库。G:/gentilkiwi/kekeo //PTK(Pass the ticket);--
+- https://github.com/SkewwG/domainTools    //C,C++。内网域渗透资源约束委派。
 ### Windows凭证利用
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。
 - https://www.freebuf.com/articles/web/176796.html    //TechTeach。九种姿势运行Mimikatz

@@ -14,6 +14,7 @@
 - https://github.com/sym233/core-values-encoder    //js。社会主义核心价值观加密，W:sym233.github.io/core-values-encoder;--
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://oktools.net/json2go    //JSON转Golang Struct
+- https://github.com/netless-io/flat    //Typescript。在线教育课堂。
 ### 软件资源
 - http://www.carrotchou.blog/    //胡萝卜周。W:dayanzai.me;W:zdfans.com/;W:appinn.com;--
 - https://www.ghpym.com/    //果核剥壳
