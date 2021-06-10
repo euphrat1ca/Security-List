@@ -23,15 +23,6 @@
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器。
 - https://www.pconlife.com/    //Windows组件，微软依赖、DLL下载
-### 框架源码
-- https://github.com/GorvGoyl/clone-wars    //100 多个知名网站克隆版的开源代码
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://www.mycodes.net    //源码之家，大部分免费
-- http://down.chinaz.com    //除了源码还有各种工具
-- http://down.admin5.com/    //A5网站源码下载
-- https://www.xd0.com    //xiaodao.la
-- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
-- https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
 ### 开发外包
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
@@ -41,6 +32,13 @@
 - http://www.epwk.com    //威客
 - https://zbj.com    //猪八戒，重庆外包，压价
 - http://task.a5.cn/tasklist.html    //外包
+
+
+## 公开资源工具
+- https://www.onlinedoctranslator.com/    //在线文档翻译
+- https://zh.wikihow.com    //生活百科
+- https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
+- https://mirrors.huaweicloud.com/    //华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
 ### 短网址
 - http://xip.io/    //302 bypass，访问这个服务的任意子域名的时候，都会重定向到这个子域名。
 - https://4m.cn/    //短域名302 bypass。
@@ -48,12 +46,6 @@
 - http://sina.lt    //新浪短链接，匿名访问
 - https://dwz.cn    //百度短连接
 - http://suo.im    //访问数据查询，访问
-
-## 公开资源工具
-- https://www.onlinedoctranslator.com/    //在线文档翻译
-- https://zh.wikihow.com    //生活百科
-- https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
-- https://mirrors.huaweicloud.com/    //华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
 ### 网页快照
 - https://github.com/DIYgod/RSSHub    //JS。万物皆可rss。
 - https://github.com/hellodword/wechat-feeds    //Golang。给微信公众号生成RSS订阅源
@@ -149,6 +141,7 @@
 - https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/svenstaro/miniserve    //多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop    //基于。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
+- https://github.com/magic-wormhole/magic-wormhole    //基于 PAKE 协议的文件加密传输隧道
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
 - https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的共享文档，上传下载文件，支持断点续传等。
@@ -198,6 +191,7 @@
 - https://msdn.itellyou.cn    //原生镜像
 - http://patorjk.com    //Text to ASCII Art Generator
 - https://www.wondercv.com/    //简历模板生成
+- https://resume.mdedit.online/editor/#/    //在线木及简历。G:/hua1995116/react-resume-site;--
 ### 素材剪辑
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR文字识别。

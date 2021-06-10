@@ -26,7 +26,7 @@
 - https://github.com/thelinuxchoice/blackeye    //Py。拥有facebook、instagram等三十余个钓鱼模板的一键启用工具。
 - https://github.com/M4cs/BlackEye-Python    //Py。基于blackeye增加子域名模拟伪造功能。
 - https://github.com/gophish/gophish    //Go。拥有在线模板设计、发送诱骗广告等功能的钓鱼系统。G:/L4bF0x/PhishingPretexts;--
-- https://github.com/euphrat1ca/SpoofWeb    //PHP。通过nginx反代一键部署office365、outlook、coremail、深信服等https钓鱼网站模板。
+- https://github.com/euphrat1ca/SpoofWeb    //PHP。通过nginx反代一键部署office365、outlook、coremail、深信服等https钓鱼网站模板。G:/GemGeorge/SniperPhish;--
 - https://github.com/thelinuxchoice/lockphish    //shell,PHP。基于ngrok利用钓鱼网站获取锁屏密码（手机、电脑）。
 - https://github.com/r00tSe7en/Flash-Pop    //flash更新弹窗伪造。goodjob。
 ### 网站克隆
@@ -134,10 +134,13 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://github.com/gh0stkey/ahrid    //py。利用jsonp等漏洞通过分析模块对黑客画像溯源。
 - https://github.com/jonasstrehle/supercookie    //利用favicon进行F-Cache读取，构建唯一ID。
 - 使用javascript确认对方是否开burpsuite    //img标签遍历burpsuite的favicon.ico文件，遍历“http:burp”
+- https://github.com/NS-Sp4ce/MoAn_Honey_Pot_Urls    //社交蜜罐JSonp劫持所需API
 ### 攻击反制利用
 - https://medium.com/tenable-techblog/reverse-shell-from-an-openvpn-configuration-file-73fd8b1d38da    //Intro。从OpenVPN配置文件中创建反弹Shell实现用户系统控制。W:freebuf.com/articles/terminal/175862.html;--
 - https://www.exploit-db.com/exploits/38847    /如何优雅的反击扫描你网站的黑客。CVE-2015-4027,Acunetix WVS 10 - Local Privilege Escalation本地提权漏洞。
 - https://blog.csdn.net/ls1120704214/article/details/88174003    //Go。反击mysql蜜罐。利用MySQL LOCAL INFILE读取客户端文件漏洞分析并使用Golang编写简易蜜罐;从MySQL出发的反击之路;Github:/MysqlT，支持大文件无损传输，支持用户验证，支持自定义的 Mysql 版本，随机的盐加密，加上用户验证，让攻击者毫无察觉;Github:/Rogue-MySql-Server;--
+- https://github.com/qigpig/MysqlHoneypot    //Py。利用mysql读取文件。P:『红蓝对抗』利用蜜罐获取攻击者微信ID及手机号
+ //1、从C:/Windows/PFRO.log中读取用户名；2、从C:/Users/用户名/Documents/WeChat Files/All Users/config/config.data中读取wx_id；3、从C:/Users/用户名/Documents/WeChat Files/wx_id/config/AccInfo.dat中读取微信绑定的手机号；4、根据 wx_id【'weixin://contacts/profile/'+wxid】可生成微信二维码用于可添加好友，根据实际测试，就算关掉了所有好友申请条件，仍可通过此二维码发起好友申请。
 - https://www.freebuf.com/articles/system/232669.html    //内网Kerberos用户蜜罐。
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者。
 - https://www.4hou.com/posts/Xnvk    //Win 10主题可以用来窃取密码，微软拒绝修复。

@@ -23,12 +23,11 @@
 - http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    //科来网络攻击与防范图谱
 - https://www.anquanke.com/post/id/178339    //漏扫动态爬虫实践。pyppeteer
 - https://www.jianshu.com/p/852e0fbe2f4c    //安全产品厂商分类
-- https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
+
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行安全建设。主机、扫描器、端口、日志、防护设备。goodjob。
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
-- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://github.com/lenve/javadoc    //Java企业级项目需求文档
 
 ## 应用安全建设
@@ -39,6 +38,8 @@
 - https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
 ### 安全开发
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范，实用性开发人员安全须知。
+- https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md    //Java安全编码规范-1.0.1 by k4n5ha0
+- https://git.code.tencent.com/Tencent_Open_Source    //腾讯工蜂 代码安全指南。G:/Tencent/secguide;--
 - https://www.anquanke.com/post/id/200860    //JEP290防范Java反序列化漏洞，基于名单过滤。
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
@@ -57,6 +58,7 @@
 - http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
 - 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
 - https://www.alienvault.com/products/ossim    //开源信息安全管理系统siem平台解决方案，支持snort\nmap等多种工具插件。
+- https://thehive-project.org/    //安全事件响应平台。G:/TheHive-Project/TheHive;--
 ### SOC建设
 - https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
 - http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
@@ -117,7 +119,7 @@
 ### 容器安全
 - https://cloud.tencent.com/developer/article/1621185    //【云原生攻防研究】针对容器的渗透测试方法
 - https://vulnerablecontainers.org    //对公开docker容器镜像漏洞扫描对标CVE号
-- https://github.com/Xyntax/CDK    //容器环境逃逸、横向移动、持久化利用方式，插件化管理。
+- https://github.com/cdk-team/CDK/wiki/CDK-Home-CN    //容器环境逃逸、横向移动、持久化利用方式，插件化管理。
 - https://github.com/brompwnie/botb    //Go。BOtB容器安全分析和脆弱点利用工具。利用CVE-2019-5736、DockerSocket或特权模式进行容器逃逸。
 - https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器。G:/cr0hn/dockerscan;--
 - https://github.com/P3GLEG/WhaleTail    //根据docker镜像生成dockerfile
@@ -161,7 +163,7 @@
 - https://github.com/TrustedSec/ptf/    //Py。基于Debian/Ubuntu/ArchLinux下的测试工具安装管理工具
 - https://github.com/undefinedsec/VpsEnvInstall/    //测试环境一键配置脚本
 ### Windows利用工具集合
-- http://www.nirsoft.net/    //Windows工具集，密码恢复、系统管理、浏览器监控、系统调试、网络监控、Outlook调试。Goodjob。G:/BlackDiverX/cqtools;--
+- http://www.nirsoft.net/    //实用工具软件远古大神Nir Sofer Windows工具集，密码恢复、系统管理、浏览器监控、系统调试、网络监控、Outlook调试。Goodjob。G:/BlackDiverX/cqtools;--
 - https://github.com/RcoIl/CSharp-Tools    //安全测试CSharp工具集。编码转换、navicat密码抓取、weblogic反序列化、信息搜集、DES解密、机器类型判断、远程利用、C段标题WebTitle。
 - https://github.com/k8gege/K8tools    //K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)。W:k8gege.org/;P:/cnblogs.com/k8gege //常见解压密码Kk8team\Kk8gege;G:/zzwlpx/k8fly //k8飞刀源码;--
 - https://github.com/3gstudent/Homework-of-C-Sharp/    //C#。三好学生文章、工具、脚本。P:/3gstudent/Homework-of-Python;--
@@ -214,21 +216,31 @@
 - https://book.hacktricks.xyz/    //端口漏洞对应，渗透命令，提权技巧。goodjob。W:ired.team;
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
-### 区块安全建设
+
+## 区块安全建设
+- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
+- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
+- tornado.cash    //链上混币器
+- https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
+- https://www.freebuf.com/articles/blockchain-articles/176668.html    //空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://paper.seebug.org/1546/    //智能合约漏洞系列 -- 运行平台科普篇
 - https://paper.seebug.org/1580/    //智能合约安全系列——EOS 菠菜应用篇
 - https://paper.seebug.org/1545/    //智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
-- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
-- tornado.cash    //链上混币器
+- https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    //智能合约安全系列 -- 举一反三总结篇
+- https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA    //以太坊智能合约中的社会工程攻击
+- https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    //慢雾余弦:区块链生态安全是一场真枪实弹的战争
 - https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
 - https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
-### IPv6安全建设
+## IPv6安全建设
 - https://github.com/sfan5/fi6s    //ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    //C。si6networks.com组织的ipv6工具集
 - https://github.com/lavalamp-/ipv666    //Go。ipv6地址枚举扫描
-### 人工智能安全
+## 人工智能安全
 - https://github.com/Azure/counterfit/    //python。自动化测试人工智能AI模型
+## 零信任建设
+- https://zhuanlan.zhihu.com/p/101989442    //5分钟了解谷歌BeyondCorp零信任安全模型。P:Airbnb的零信任架构实战案例
+;--
 
 ## 合规建设
 - https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台

@@ -92,7 +92,8 @@
 - http://droidjack.net/    //商业版。
 - https://github.com/AhMyth/AhMyth-Android-RAT    //Smali。Android平台一对多带界面。goodjob。
 - https://github.com/The404Hacking/AndroRAT    //Java。Android平台一对多带界面。
-- https://github.com/home-assistant/home-assistant    //Py。物联网管理集群控制平台
+- https://github.com/cleverbao/520apkhook    //对安卓APP注入MSF PAYLOAD，并且对手机管家进行BYPASS。
+- https://github.com/home-assistant/home-assistant    //Py。物联网管理集群控制平台。
 ### 僵木蠕远程协助
 - https://github.com/panda-re/lava    //批量恶意程序注入
 - https://github.com/malwaredllc/byob    //僵尸网络生成框架
@@ -151,7 +152,7 @@
 - https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE文件加壳过杀软。
 ### 文件混淆免杀
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日免杀执行器二进制、shellcode，配合`tdm64-gcc`生成。界面GUI。G:/TheWover/donut;--
-- https://github.com/lengjibo/FourEye    //FourEye 重明免杀工具
+- https://github.com/lengjibo/FourEye    //FourEye 重明免杀工具。
 - https://github.com/9aylas/Shortcut-Payload-Generator    //快捷方式(.lnk)文件Payload生成器，AutoIt编写。
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
@@ -178,6 +179,7 @@
 - https://github.com/PowerShellMafia/PowerSploit    //PS。内网利用框架。反病毒特征码查询、DLL注入脚本、编码加密、记录窃取、权限维持、Windows提权、端口扫描。goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
 - https://github.com/rootm0s/WinPwnage    //UAC绕过、权限提升、权限维持。goodjob。
 - https://github.com/quentinhardy/pytmipe    //Python功能库。令牌操作与权限提升。
+- https://github.com/lengjibo/NetUser    //使用windows api添加用户，可用于net无法使用时.分为nim版，c++版本，RDI版，BOF版。
 ### Windows横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透

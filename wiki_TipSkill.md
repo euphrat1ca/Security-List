@@ -15,6 +15,8 @@
 - https://github.com/Mining-Addiction/PhoenixMiner_5.5c_Windows_AMD_NVIDIA_Hidden_CMD    //PhoenixMiner cmd命令行隐藏版
 - https://blog.csdn.net/alionsss/article/details/115921140    //Gminer使用教程，以太坊。G:/develsoftware/GMinerRelease;--
 - https://ntminer.com/    //开源矿工，BMiner、NBMiner、HSPMiner。W:qskg.top //轻松矿工;W:mineros.cn;--
+- https://zhuanlan.zhihu.com/p/166437903    //btfs挖矿教程和挖到的btt提到自己钱包里方法（专门给小白看的，大神飘过）。G:/TRON-US/go-btfs;--
+- https://github.com/ipfs/awesome-ipfs    //filecoin文件币
 ### 数字货币
 - https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
 - https://github.com/dogecoin/dogecoin.com    //狗币官网主页。
@@ -42,10 +44,23 @@
 - https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
 - https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
 
-## 游戏框架
+## 应用框架
+### 框架源码
+- https://github.com/GorvGoyl/clone-wars    //100 多个知名网站克隆版的开源代码
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://www.mycodes.net    //源码之家，大部分免费
+- http://down.chinaz.com    //除了源码还有各种工具
+- http://down.admin5.com/    //A5网站源码下载
+- https://www.xd0.com    //xiaodao.la
+- https://bbs.125.la/forum-98-1.html    //易语言源码。外包
+- https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
+### 商城框架
+- https://gitee.com/leadshop/leadshop    //php。商城系统。
+### 游戏框架
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
 - https://github.com/OpenDiablo2/OpenDiablo2    //暗黑破坏神2
+
 ## 编辑器IDE
 - https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
 - https://github.com/visualfc/liteide    //C++。开源golang编辑器，支持交叉编译。P:jetbrains;--
