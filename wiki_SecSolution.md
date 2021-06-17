@@ -221,6 +221,7 @@
 - https://www.chainnews.com/    //链闻，系统化学习区块链知识。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - tornado.cash    //链上混币器
+- https://wallet.trezor.io/    //热钱包，imtoken、tokpocket、onekey、metamask
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 - https://www.freebuf.com/articles/blockchain-articles/176668.html    //空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://paper.seebug.org/1546/    //智能合约漏洞系列 -- 运行平台科普篇
