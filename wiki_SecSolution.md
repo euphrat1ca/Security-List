@@ -12,6 +12,7 @@
 - https://www.sec-un.org/金融业企业安全建设之路/    //金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    //思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
 - https://shield.mitre.org/attack_mapping/    //ATT&CK主动防御图谱。引导-收集-遏制-检测-扰乱-促进-合法化-实验测试
+- https://d3fend.mitre.org/    //基于ATT&CK框架的D3FEND防御矩阵
 - https://github.com/Bypass007/Safety-Project-Collection    //甲方安全开源项目清单。welljob。
 ## 安全产品设计
 - https://www.fireeye.com/cyber-map/threat-map.html    //FireEye公司“网络威胁地图”
@@ -47,24 +48,6 @@
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
 ### 供应链安全
 - https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
-
-## 安全风控建设
-- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
-- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
-- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
-
-## 安全运营建设
-- 公众号：终端安全运营年度笔记    //
-- http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
-- 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
-- https://www.alienvault.com/products/ossim    //开源信息安全管理系统siem平台解决方案，支持snort\nmap等多种工具插件。
-- https://thehive-project.org/    //安全事件响应平台。G:/TheHive-Project/TheHive;--
-### SOC建设
-- https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
-- http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
-- https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
-- https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
-- https://gitee.com/zbnio/zbn    //Py。soar布谷鸟安全编排与自动化响应平台。G:/w5teams/w5;--
 
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
@@ -257,28 +240,20 @@
 - https://github.com/rohitrango/automatic-watermark-detection/    //Py。自动检测去水印。
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码/蜜标。
 
-## 压测泛洪
-- https://github.com/ywjt/Dshield    //Py。DDOS防护。
-### 协议流量压测
-- http://www.yykkll.com    //压力测试站评测。W:defconpro.net;W:vip-boot.xyz;--
-- https://rocketstresser.com/login.php    //多协议在线压测，支持cdn测试。
-- https://github.com/wenfengshi/ddos-dos-tools    //压力测试工具集
-- https://github.com/wenfengshi/ddos-dos-tools    //压力测试工具集
-- https://tools.kali.org/information-gathering/hping3    //HPing3网络工具组包。P:LOIC;P:核武器CC-穿盾版;P:天降激光炮315;P:hyenae;--
-- https://github.com/Markus-Go/bonesi    //C。模拟僵尸网络进行ICMP/UDP/TCP/HTTP压测
-- https://github.com/IKende/Beetle.DT    //C#。分布式压力测试工具
-- https://github.com/wg/wrk    //C。http流量测试。
-- https://github.com/mschwager/dhcpwn    //Py。DHCP/IP压力测试。
-- https://github.com/Microsoft/Ethr    //Go。跨平台，TCP， UDP， HTTP， HTTPS压力测试工具
-- https://github.com/loadimpact/k6    //GO Javascript组件进行负载测试。goodjob。
-- https://github.com/NewEraCracker/LOIC/    //C#,Mono。基于Praetox's LOIC project的压测工具。
-- https://github.com/649/Memcrashed-DDoS-Exploit    //Py。利用shodan搜索Memcached服务器进行压力测试。
-### 拒绝服务压测
-- https://github.com/ajmwagar/lor-axe    //Rust。多线程、低带宽消耗的HTTP DoS工具。G:/JuxhinDB/synner;--
-- https://github.com/jseidl/GoldenEye    //Py。DOS攻击测试
-- https://github.com/jagracey/Regex-DoS    //RegEx拒绝服务扫描器
-- https://github.com/doyensec/regexploit    //分析正则表达式，寻找ReDoS漏洞
-- https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit    //Py。RDP服务远程命令执行/DOS攻击/蓝屏exp。
-- https://xz.aliyun.com/t/7895/    //techteach。利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
-- https://www.freebuf.com/column/201766.html    //techteach。正则表达式所引发的DoS攻击（Redos）。G:/superhuman/rxxr2;--
-- https://github.com/EZLippi/WebBench    //C。DDOS网站压力测试，最高并发3万
+## 安全风控建设
+- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
+- https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+- https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
+
+## 安全运营建设
+- 公众号：终端安全运营年度笔记    //
+- http://paper.tuisec.win/detail/34ab12018f71e71    //个人总结的漏洞管理流程分享
+- 公众号：评估一个新的安全数据源的有效性: Windows Defender 漏洞利用防护（上、下）
+- https://www.alienvault.com/products/ossim    //开源信息安全管理系统siem平台解决方案，支持snort\nmap等多种工具插件。
+- https://thehive-project.org/    //安全事件响应平台。G:/TheHive-Project/TheHive;--
+### SOC建设
+- https://www.secrss.com/articles/8051    //谈一谈如何建设体系化的安全运营中心(SOC)
+- http://www.freebuf.com/articles/network/169632.html    //开源软件创建SOC的一份清单
+- https://www.secrss.com/articles/4088    //安全资产管理中容易被忽视的几点。niejun
+- https://github.com/correlatedsecurity/Awesome-SOAR    //安全编排、自动化及响应
+- https://gitee.com/zbnio/zbn    //Py。soar布谷鸟安全编排与自动化响应平台。G:/w5teams/w5;--
