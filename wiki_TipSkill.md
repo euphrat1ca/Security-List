@@ -142,7 +142,7 @@
 ## 深度学习
 - https://visualgo.net/    //算法库
 - https://github.com/google-research/bert    //Py。谷歌研究院最强NLP运算模型
-- https://github.com/PaddlePaddle/book    //C++,Py。百度开源飞桨深度学习框架。
+- https://github.com/PaddlePaddle/PaddleX    //C++,Py。百度开源飞桨深度学习框架。G:/PaddlePaddle/book;--
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
 ### 机器学习
 - https://paperswithcode.com/sota    //机器学习具体项目、演示、代码

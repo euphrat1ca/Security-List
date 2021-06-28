@@ -26,7 +26,8 @@
 - https://github.com/google/oss-fuzz    //C。谷歌对开源项目的进行免费的模糊测试服务
 - https://github.com/bunzen/pySSDeep    //Py。一个基于模糊哈希（Fuzzy Hashing）算法的工具。G:/glaslos/ssdeep;G:/ssdeep-project/ssdeep;--
 ### 文件模糊测试
-- https://github.com/googleprojectzero/Jackalope    //C++。基于覆盖率指导的Windows macOS的二进制模糊工具
+- https://github.com/googleprojectzero/Jackalope    //C++。基于覆盖率指导的Windows macOS的二进制模糊工具。
+- https://github.com/uds-se/FormatFuzzer    //Py。基于010 Editor 文件格式模板的多文件测试工具。
 ### 系统模糊测试
 - https://github.com/mxmssh/drAFL    //C。Linux系统模糊测试。G:/atrosinenko/kbdysch;G:/google/oss-fuzz;--
 - https://github.com/googleprojectzero/winafl    //C。Google Project Zero 基于Windows AFL开发的模糊测试框架。P:阿尔法实验室-AFL漏洞挖掘技术漫谈;--

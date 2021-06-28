@@ -75,6 +75,7 @@
 - http://www.colasoft.com.cn/download.php    //科来网络分析系统，ping/mac地址扫/数据包重放/数据包生成。
 - https://github.com/brimsec/brim    //JS。全流量pcap包分析。支持zeek格式转换，结合wireshark对流量进行分析。goodjob。WebGUI。
 - https://github.com/aol/moloch    //全流量捕获分析系统，capture/viewer/elasticsearch。GreatJob。
+- https://github.com/eciavatta/caronte    //JS,Go。全流量分析工具。
 - https://github.com/cisco/mercury    //C++。基于AF_PACKET和TPACKETv3网络元数据捕获和分析，pmercury指纹识别。
 - https://github.com/0x4D31/fatt    //Py。利用tshark对流量进行解析
 - https://github.com/netxfly/xsec-traffic    //Go。轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件。
@@ -132,6 +133,7 @@
 - https://github.com/SpiderLabs/owasp-modsecurity-crs    //GO,C。owasp关于ModSecurity等防火墙规则库
 - https://github.com/w2sft/BrowserWAF/    //Js。单文件浏览器端WAF。G:/w2sft/ShareWAF_Blance //负载均衡;--
 - https://github.com/jx-sec/jxwaf    //Lua。JXWAF(锦衣盾)基于openresty(nginx+lua)开发的web应用防火墙，独创的业务安全防护引擎和机器学习引擎可以有效对业务安全风险进行防护，解决传统WAF无法对业务安全进行防护的痛点。Github:/starjun/openstar;Github:/xsec-lab/x-waf;Github:/loveshell/ngx_lua_waf;Github:/starjun/openstar;--
+- https://github.com/Kanatoko/libinjection-Java    //Java。日本语义waf
 ### 防火墙组件
 - https://github.com/koangel/grapeSQLI    //go。基于libinjection的Sql inject & XSS分析程序。
 - https://github.com/chaitin/yanshi    //C++。长亭偃师（yanshi），雷池（SafeLine）防火墙核心引擎语义规则模块。
