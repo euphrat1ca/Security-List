@@ -157,7 +157,7 @@
 - https://github.com/pasahitz/regsvr32    //C#。使用C#+Empire实现最小体积免杀后门。
 - https://github.com/Cn33liz/StarFighters    //基于DotNetToJScript，利用JavaScript和VBScript执行Empire Launcher。G:/mdsecactivebreach/CACTUSTORCH;--
 - https://github.com/BinaryScary/NET-Obfuscate/    //C#。混淆.Net Framework程序。G:/0xd4d/dnlib;--
-- https://github.com/unixpickle/gobfuscate/    //Go。加密二进制文件混淆软件包。
+- https://github.com/unixpickle/gobfuscate/    //Go。加密二进制文件，混淆软件代码，清除Go编译时自带的信息。G:/burrowers/garble;G:/boy-hack/go-strip;--
 - https://github.com/hlldz/SpookFlare    //Py。客户端与网络端策略绕过 msf/empire/koadic生成加载混淆免杀。
 - https://github.com/hack2fun/BypassAV    //Cobaltstrike插件。基于`go build`生成免杀可执行文件。
 - https://github.com/danielbohannon/Invoke-DOSfuscation/    //PS。cmd命令混淆。
