@@ -235,7 +235,7 @@
 ### Linux密钥收集
 - https://github.com/huntergregal/mimipenguin    //C。Linux密码抓取。
 - https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
-- https://github.com/mthbernardes/sshLooter    //ssh服务用户名密码窃取。
+- https://github.com/mthbernardes/sshLooter    //ssh服务用户名密码窃取。'ssh knowhost免登录'
 
 ## 提权利用
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_vul.md/    //相关提权漏洞。myWiki

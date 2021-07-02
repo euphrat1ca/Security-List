@@ -109,6 +109,27 @@
 - https://github.com/Kenshin/simpread    //沉浸式阅读，文章保存。
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭开源Wiki系统，支持markdown。
+### 思维导图
+- https://app.diagrams.net/    //在线思维导图、流程图。W:draw.io;W:go.gliffy.com/go/html5/launch;--
+- https://www.processon.com/    //拓扑图、流程图，类似Visio。P:亿图;P:xmind ZEN;--
+### 文档编辑
+- https://www.notion.so/    //项目笔记管理。mybase;--
+- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
+- https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--
+- https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器
+- https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
+- https://pandoc.org/    //文档格式转换。greatjob。
+- https://www.ilovepdf.com/zh-cn    //在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
+- http://www.alltoall.net/    //文本格式在线转换
+- https://etherpad.net/    //在线可编辑记事本
+### 搜索引擎
+- http://www.duckduckgoog.com/    //不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
+- https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
+- http://ac.scmor.com/    //谷歌搜索镜像
+- https://www.gobaidugle.com    //聚合搜索
+- https://www.wolframalpha.com    //问题答案搜索
+- https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
+- https://github.com/meilisearch/MeiliSearch    //Rust。搜索引擎服务。
 ### Blog管理
 - https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
 - https://github.com/b3log/pipe    //Go。多用户博客平台。
@@ -137,9 +158,10 @@
 - http://www.pastebin.com/    //在线文档分享。W:ssavr.com;--
 - https://deershare.com/send    //P2P文件点对点传输。G:/RobinLinus/snapdrop;W:send-anywhere.com;--
 - https://github.com/uknowsec/SharpOSS    //利用aliyun-oss-csharp-sdk实现内网文件传输。
-### 云盘搭建
+### 文件传输
 - https://www.rejetto.com/hfs/    //Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
-- https://github.com/svenstaro/miniserve    //多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop    //基于。
+- https://github.com/svenstaro/miniserve    //多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop;--
+- https://github.com/schollz/croc    //Go。点对点文件传输。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/magic-wormhole/magic-wormhole    //基于 PAKE 协议的文件加密传输隧道
 - https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
@@ -150,27 +172,6 @@
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-### 思维导图
-- https://app.diagrams.net/    //在线思维导图、流程图。W:draw.io;W:go.gliffy.com/go/html5/launch;--
-- https://www.processon.com/    //拓扑图、流程图，类似Visio。P:亿图;P:xmind ZEN;--
-### 文档编辑
-- https://www.notion.so/    //项目笔记管理。mybase;--
-- https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
-- https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--
-- https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器
-- https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
-- https://pandoc.org/    //文档格式转换。greatjob。
-- https://www.ilovepdf.com/zh-cn    //在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
-- http://www.alltoall.net/    //文本格式在线转换
-- https://etherpad.net/    //在线可编辑记事本
-### 搜索引擎
-- http://www.duckduckgoog.com/    //不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
-- https://weixin.sogou.com/weixin?type=2&query=    //微信文章搜索
-- http://ac.scmor.com/    //谷歌搜索镜像
-- https://www.gobaidugle.com    //聚合搜索
-- https://www.wolframalpha.com    //问题答案搜索
-- https://github.com/asciimoo/searx    //Py。搭建一个自己的搜索引擎，DEMO网址 searx.me。
-- https://github.com/meilisearch/MeiliSearch    //Rust。搜索引擎服务。
 
 ## 系统运维
 - https://www.itsk.com/index.php    //IT天空，系统操作运维。

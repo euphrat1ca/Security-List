@@ -14,6 +14,7 @@
 - https://github.com/honeynet/beeswarm    //Py。使用agent探针与蜜罐进行实时交互来引诱攻击者
 ### Web服务蜜罐
 - https://github.com/p1r06u3/opencanary_web    //Py。基于TORNADO的低交互蜜罐。支持自动化安装，目前支持常见的16种协议，采用探针/蜜罐-管理的架构。可以考虑二次开发为探针-沙盒-管理的架构。
+- https://github.com/seccome/Ehoney    //Go。基于云原生的欺骗防御系统，蜜标/蜜签/蜜罐诱饵
 - https://github.com/hacklcx/HFish    //Go。多协议低交护蜜罐。goodjob。
 - https://gitlab.com/SecurityBender/webhoneypot-framework    //Py3。基于docker和docker-compose，现支持wordpress/drupal
 - https://github.com/mushorg/snare    //Py3。web安全蜜罐，可克隆指定Web页面。

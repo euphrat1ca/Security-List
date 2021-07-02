@@ -68,42 +68,9 @@
 - http://dingba.top/    //丁爸情报分析师。P:/qqzk/ //全球智库;--
 - https://mp.weixin.qq.com/s/YQRKtwsD4A69BDLr-GyXRw    //【资源】查找人员的资源站点（2021版）
 - https://www.searchenginecolossus.com/    //【资源】一个汇聚了全球各国搜索引擎的网站
-## 多维度情报源
-- https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
-- http://www.payer.org/test/    //恶意邮件地址电话公示
-- https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
-- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin。
-- https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
-- https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
-- https://rapiddns.io/    //网站域名IP情报源
-- http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
-- https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
-### 地理定位库
-- https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
-- https://icsmap.shodan.io/    //shodan关于工业协议分布示意图。P:/ics-radar.shodan.io;--
-- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
-- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
-- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
-- https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
-- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/Hackl0us/GeoIP-CN;G:/lionsoul2014/ip2region;--
-- https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;--
-- https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
-- 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
-- http://opencellid.org/    //gsm定位
-- cellidfinder.com    //Cell ID Finder
-- cellphonetrackers.org    //手机定位追踪器
-- https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
-### 报文协议库
-- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
-- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
-- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
-- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
-- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
-- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 
 ## 威胁情报狩猎
 - https://www.fireeye.com/current-threats.html    //fireeye火眼威胁情报资源
-- https://www.virustotal.com/    //在线威胁情报平台。
 - https://ti.qianxin.com/    //奇安信威胁情报平台。Web:x.threatbook.cn;eb:feed.watcherlab.com;W:threatcrowd.org;--
 - https://github.com/ReAbout/datacon    //DataCon-方向三-攻击源与攻击者分析-writeup
 - https://mp.weixin.qq.com/s/pVaoTQT2UDOWBp9I0chF-w    //骇极干货 | 揭秘如何通过推特获取威胁情报
@@ -141,6 +108,39 @@
 - https://pan-unit42.github.io/playbook_viewer/    //针对apt组织的威胁情报汇总
 - https://twthu.co/    //apt组织威胁情报站
 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    //2006年以来组织团队情报收集
+
+## 多维度情报源
+- https://avoidaclaim.com/fraud-warnings/    //诈骗信息公示
+- http://www.payer.org/test/    //恶意邮件地址电话公示
+- https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=623668182000*******&cardBinCheck=true    //可查询归属行，是否有效，以及卡片类型：储蓄卡(DC)还是信用卡(CC)
+- https://osint.link    //Open Source Intelligence (OSINT) Tools & Resources。关键词/搜索引擎/元数据/ftp/文件/图片/视频/Iot/新闻/商业/pastebin。
+- https://www.nationalnanpa.com/    //北美编号计划管理员维护着实时更新的区号列表、以及可公开访问的相应中心局代码。W:nationalpooling.com 国家号码资源管理者;--
+- https://opendata.rapid7.com    //Rapid7 OpenData。包含dns/ssl/http/udp/tcp各种数据包记录。greatjob。
+- https://rapiddns.io/    //网站域名IP情报源
+- http://s3.amazonaws.com/alexa-static/top-1m.csv.zip    //Alexa网站流量综合排名一万
+- https://iknowwhatyoudownload.com/en/peer/    //基于种子查询和跟踪某个IP历史下载信息的网站
+### 地理定位库
+- https://developers.google.com/maps/documentation/geolocation/intro    //谷歌地理定位
+- https://icsmap.shodan.io/    //shodan关于工业协议分布示意图。P:/ics-radar.shodan.io;--
+- https://open.iot.10086.cn/    //移动OneNET平台的智能硬件位置定位。
+- https://www.opengps.cn/    //高精度定位。经纬度、WiFi mac地址、BSSID、gps。W:cellocation.com;--
+- https://github.com/thewhiteh4t/seeker    //Py。获取高精度地理信息和设备信息的工具
+- https://www.nirsoft.net/utils/mac_address_lookup_find.html    //MAC地址库查询工具。
+- https://dev.maxmind.com/geoip/geoip2/geolite2/    //geoip2全球IPV4。G:/Hackl0us/GeoIP-CN;G:/lionsoul2014/ip2region;--
+- https://www.ipip.net    //IPV4，可查IP归属数据中心。商业版。W:cip.cc/;--
+- https://www.ipplus360.com    //IPV4/IPV6地址库。商业版
+- 塔数据来自大多数Android设备中的herrevad.db（数据库文件）。该数据库包含日期和时间以及MCC（移动国家代码），MNC（移动运营商代码），LAC（位置区域代码）和CID（小区ID）。MCC和MNC依赖于国家和运营商，而LAC和CID依赖于小区塔。如果您没有所有这些数字，您将找不到塔的物理位置。使用诸如Cellebrite之类的取证工具，您可以将herrevad数据库导出为CSV文件并检查单元格以检查所需数据。
+- http://opencellid.org/    //gsm定位
+- cellidfinder.com    //Cell ID Finder
+- cellphonetrackers.org    //手机定位追踪器
+- https://www.suncalc.org    //通过太阳和投射的阴影进行人员地理位置定位
+### 报文协议库
+- https://wiki.wireshark.org/SampleCaptures/    //wireshark维护的报文Captures，包括许多工控协议库等
+- https://securityonion.readthedocs.io/en/latest/pcaps.html    //安全洋葱维护的回溯pcap列表。securityonion-docs
+- https://asecuritysite.com/forensics/pcap    //站点内容包含密码学与数字取证
+- http://packetlife.net/captures/    //站点内容包括协议cheat sheet导图
+- http://speed.cis.nctu.edu.tw/pcaplib/    //NCTU国立交通大学。聊天/邮件/加解密/文件/网络/流媒体/web
+- https://www.netresec.com/?page=PcapFiles    //netresec公司维护pcap包文库。攻防演练流量、恶意软件流量、网络取证靶场流量、SCADA/ICS工控靶场模拟流量、测信道中间人注入。
 
 ## 情报人员利用
 ### 情报手册
@@ -229,11 +229,11 @@
 
 ## Web信息搜集
 - https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
-### Web信息搜集网站
 - https://www.shodan.io/    //老牌空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;W:spyse.com;--
 - https://www.fofa.so    //白帽汇空间测绘。G:/zsdevX/DarkEye;G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;G:/x51/fofahelper;--
 - https://zhifeng.io/mobile/online.html    //灯塔移动端互联网感知引擎，附近iot设备发现。
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
+- https://www.freebuf.com/articles/network/276069.html    //如何通过查询Google Analytics ID来获取相关联的域名和子域名
 - https://dnsdumpster.com/    //子域名信息搜集。greatjob。
 - https://www.dnsdb.io    //全球DNS搜索引擎。DNS记录查询，子域名查询，IP查询，A记录查询，域名解析，旁站查询。W:securitytrails.com/;--
 - http://www.webscan.cc/    //同IP网站查询，C段查询，IP反查域名，C段旁注，旁注工具。W:phpinfo.me/domain/;W:ce.baidu.com;--

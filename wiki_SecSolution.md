@@ -24,7 +24,6 @@
 - http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    //科来网络攻击与防范图谱
 - https://www.anquanke.com/post/id/178339    //漏扫动态爬虫实践。pyppeteer
 - https://www.jianshu.com/p/852e0fbe2f4c    //安全产品厂商分类
-
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
 - https://bloodzer0.github.io/ossa/    //OSSA，利用开源组件进行安全建设。主机、扫描器、端口、日志、防护设备。goodjob。
@@ -36,14 +35,18 @@
 - https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
 - https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;--
 - https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
-- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw/    //公众号：秦波 大型互联网应用安全SDL体系建设实践
-### 安全开发
+- https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw    //公众号：秦波 大型互联网应用安全SDL体系建设实践
+### Java安全开发
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范，实用性开发人员安全须知。
 - https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md    //Java安全编码规范-1.0.1 by k4n5ha0
 - https://git.code.tencent.com/Tencent_Open_Source    //腾讯工蜂 代码安全指南。G:/Tencent/secguide;--
 - https://www.anquanke.com/post/id/200860    //JEP290防范Java反序列化漏洞，基于名单过滤。
+### JavaScript安全开发
 - https://github.com/JacksonBruce/AntiXssUF    //C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
+- https://github.com/leizongmin/js-xss    //根据白名单过滤 HTML(防止 XSS 攻击)
+- https://github.com/cure53/DOMPurify    //基于 HTML、MathML 和 SVG对DOM标签进行过滤配置
+### Web安全开发
 - https://www.bbsmax.com/A/1O5EvMgyd7/    //CORS（跨域资源共享）的防御机制
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
 ### 供应链安全
@@ -98,6 +101,7 @@
 
 ## 云安全建设
 - https://github.com/dafthack/CloudPentestCheatsheets/    //云原生渗透备忘单，云服务检查清单。
+- https://github.com/riskscanner/riskscanner    //公有云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则
 - https://github.com/mrknow001/aliyun-accesskey-Tools    //记一次阿里云主机泄露Access Key到Getshell
 - https://github.com/tmobile/pacbot    //Java。云平台自动化安全监控工具。
 ### 容器安全
