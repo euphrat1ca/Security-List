@@ -13,7 +13,6 @@
 - https://github.com/angryip/ipscan    //Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;G:/projectdiscovery/naabu;--
 - http://www.advanced-ip-scanner.com    //Advanced IP Scanner Portable端口扫描器。商业版。
 ## 资产信息搜集
-
 - https://github.com/cedowens/SwiftBelt/    //Swift。macOSX系统信息搜集。
 - https://github.com/m8r0wn/nullinux    //Py。Linux下内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    //Linux系统审计工具，可以导出系统配置，生成报表
@@ -23,6 +22,7 @@
 - https://github.com/lijiejie/BBScan    //Py。网站信息泄漏批量扫描脚本。GoodJob。
 - https://github.com/broken5/WebAliveScan    //Py。对目标域名进行快速的存活扫描、标题抓取、目录扫描。welljob。
 - https://www.freebuf.com/sectool/109949.html    //小米范资产搜集。goodjob。
+- https://github.com/projectdiscovery/httpx/    //Go。网络请求抓取，标题获取等。
 - https://github.com/grayddq/PubilcAssetInfo    //Py3。主要目标是以甲方安全人员的视角，尽可能收集发现企业的域名和服务器公网IP资产，如百度云、阿里云、腾讯云等。一个人的安全部。
 - https://github.com/Adminisme/ServerScan    //Go。内网横向信息收集的高并发网络扫描、服务探测工具。G:/uknowsec/TailorScan;G:/se55i0n/PortScanner;G:/tengzhangchao/PortScan;--
 - https://github.com/xiaoheiwo/GGSCAN    //py。联动nmap、masscan、hydra的快速资产探测工具。G:/sowish/LNScan;G:/dr0op/bufferfly;--

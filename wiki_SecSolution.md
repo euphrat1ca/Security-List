@@ -30,12 +30,14 @@
 - https://paper.seebug.org/913/    //如何打造自己的PoC框架-Pocsuite3-框架篇。simple。
 - https://github.com/lenve/javadoc    //Java企业级项目需求文档
 
-## 应用安全建设
+# 应用安全Devsecops建设
 - https://www.securitypaper.org/    //SDL建设文档。开发安全生命周期管理
 - https://github.com/Hygieia/Hygieia    //JS。Capitalone银行开源的DevOps利器
 - https://snyk.io/    //无服务器，环境漏洞检测。SDL建设。G:/snyk/snyk;--
 - https://www.fooying.com/from_sdl_to_devsecops_security_in_dev/    //从SDL到DevSecOps：始终贯穿开发生命周期的安全
 - https://mp.weixin.qq.com/s/STBzFf-NtfbDEA5s9RBdaw    //公众号：秦波 大型互联网应用安全SDL体系建设实践
+
+## 安全开发建设
 ### Java安全开发
 - https://github.com/FallibleInc/security-guide-for-developers    //安全开发规范，实用性开发人员安全须知。
 - https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md    //Java安全编码规范-1.0.1 by k4n5ha0
@@ -51,6 +53,8 @@
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
 ### 供应链安全
 - https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
+### 错误诊断
+- https://github.com/alibaba/arthas    //Java诊断工具
 
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
@@ -74,6 +78,7 @@
 - https://github.com/mockoon/cli    //图形化api mock快速搭建工具。
 - https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;P:HACKBAR;--
 ### 运维管理
+- https://github.com/Tencent/bk-job    //Java。蓝鲸作业平台（Job）脚本管理系统
 - https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机。
 - https://github.com/zhaojh329/rtty    //C。web堡垒机，终端访问。
 - https://github.com/prometheus/prometheus    //Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
@@ -173,7 +178,7 @@
 - https://github.com/foryujian/ipintervalmerge    //IP合并区间。
 ### 测试总结报告
 - https://github.com/gh0stkey/PoCBox    //PHP。漏洞测试验证/报告生成平台。SONP劫持、CORS、Flash跨域资源读取、Google Hack语法生成、URL测试字典生成、JavaScript URL跳转、302 URL跳转
-- https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。G:/bugsafe/WeReport;G:/blacklanternsecurity/writehat;--
+- https://github.com/pwndoc/pwndoc    //Vue.js。安全服务渗透测试报告生成。G:/bugsafe/WeReport;G:/blacklanternsecurity/writehat;P:HTMLTestRunner;--
 
 ## 基线核查List
 - https://downloads.cisecurity.org/#/    //CIS-Benchmark基线手册 200+。greatjob。

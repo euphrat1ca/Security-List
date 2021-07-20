@@ -226,6 +226,7 @@
 - https://www.iconfont.cn/    //阿里巴巴矢量图标库
 - https://world-flags.org/worldflagstoha    //动漫化国旗
 - https://github.com/sylnsfar/qrcode    //Py3。动态二维码生成器。
+- https://mp.weixin.qq.com/s/cwv3_qGr_LzsH-SbcYalWg    //以图搜图。【技巧】如何查找一个图标、符号的含义（2）
 ### 字体素材
 - https://www.hellofont.cn/    //
 ### 文档素材

@@ -60,6 +60,8 @@
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert，Tiberian Dawn（泰伯利亚的黎明）。
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft
 - https://github.com/OpenDiablo2/OpenDiablo2    //暗黑破坏神2
+### 桌面客户端白屏化
+- https://github.com/nativefier/nativefier    //js。web网站转本地应用程序
 
 ## 编辑器IDE
 - https://www.ultraedit.com/    //全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
@@ -86,7 +88,6 @@
 - https://github.com/boy-hack/hack-requests    //Py3。python包模块。burp数据包重放、线程安全、底层包日志分析
 - https://github.com/BugScanTeam/hackhttp    //Py2。支持直接发送 HTTP 原始报文重放。
 - https://github.com/awkman/pywifi    //python操作WiFi模块
-- https://github.com/projectdiscovery/httpx/    //Go。告诉网络请求，Go爬虫。
 ### 小众语言栈
 - https://github.com/rust-lang/rust    //静态语言。
 - https://nim-lang.org/    //静态语言。G:/nim-lang/Nim;---
