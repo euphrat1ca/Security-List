@@ -11,8 +11,9 @@
 - https://www.ip12345.net/    //鲸鱼代理 动态IP修改
 - https://github.com/Python3WebSpider/ProxyPool    //Py3。
 - https://github.com/imWildCat/scylla    //Py3。智能代理池。G:/Python3WebSpider/ProxyPool;G:/SpiderClub/haipproxy;G:/chenjiandongx/async-proxy-pool;G:/TideSec/Proxy_Pool;--
-- https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个生成docker，当连接某一个vpn后，其它的进行socks5转发做流量分发。
+- https://github.com/audibleblink/doxycannon    //Py。使用一个openvpn代理池，为每一个IP生成docker进行连接，当连接某一个vpn后，其它的进行socks5转发做流量分发。
 - https://github.com/realgam3/pymultitor/    //Py。使用多线程Tor代理。
+- https://github.com/hevnsnt/IPChanger    //Py。使用tor动态ip socks代理。
 ### 流量转发
 - https://github.com/inconshreveable/ngrok    //Go。端口转发，正反向代理，内网穿透。17K。
 - https://github.com/L-codes/Neo-reGeorg    //Py。`reDuh reGeorg`的升级版，把内网端口通过http/https隧道转发形成回路。用于目标服务器在内网或做了端口策略的情况下连接目标服务器内部开放端口（提供了php，asp，jsp脚本的正反向代理）。goodjob。G:/sensepost/reGeorg;G:/SECFORCE/Tunna;G:/securesocketfunneling/ssf;G:/sysdream/ligolo;G:/FunnyWolf/pystinger;--
@@ -38,7 +39,7 @@
 ## Cross超越边界
 - https://github.com/bannedbook/fanqiang/wiki    //cross汇总
 - https://github.com/ToyoDAdoubi/doubi    //各种常用一键脚本。G:/Nyr/openvpn-install;G:/quericy/one-key-ikev2-vpn;G:/teddysun/shadowsocks_install;G:/teddysun/across;--
-- https://github.com/netchx/Netch    //C#。类似于sockscap64通过进程选择代，通过虚拟网卡转为类VPN全局代理，需要```.NetFramework4.8```。welljob。W:ccproxy;W:SSTAP;W:proxifier;--
+- https://github.com/netchx/Netch    //C#。类似于sockscap64，支持进程选择代理，通过虚拟网卡转为类VPN全局代理，需要```.NetFramework4.8```。goodjob。W:ccproxy;W:SSTAP;W:proxifier;--
 - https://github.com/txthinking/brook    //Go。支持Linux/MacOS/Windows/Android/iOS的代理与vpn。
 - https://github.com/Ccapton/brook-web    //brook程序服务端Web后台管理服务器（Linux\MacOS），基于python、flask、flask-restful。
 - https://github.com/Ccapton/brook-ok    //Bash。Brook一键安装脚本

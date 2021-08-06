@@ -34,6 +34,7 @@
 - https://github.com/mailpile/Mailpile    //PY,JS。邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 - https://www.iredmail.org/index-zh_CN.html    //完全基于开源软件、功能完善的邮件服务器。
 ### FreeConnect邮箱
+- https://github.com/sdushantha/tmpmail    //bash。临时邮箱生成器。
 - http://bccto.me    //一次性邮箱
 - https://www.guerrillamail.com    //临时邮箱，shark
 - http://24mail.chacuo.net/    //一次性邮箱

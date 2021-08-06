@@ -29,8 +29,8 @@
 ## 主机威胁防御
 - https://github.com/ossec/ossec-hids    //C。基础hids（主机入侵检测）、SIM/SIEM、堡垒机为一体的监控系统。
 - https://documentation.wazuh.com    //C。开源C/S架构主机入侵检测系统网络安全平台，支持日志收集、文件监控、恶意软件检测、漏洞基线检测等功能，集成OpenSCAP、Elastic Stack。goodjob。
-- https://www.elastic.co/cn/security    //Elastic Security SIEM威胁检测与端点防护和响应
-- https://github.com/elastic/detection-rules    //Elastic Security主机防护规则
+- https://www.elastic.co/cn/security    //Elastic Security SIEM威胁检测与端点防护和响应。P:Limitless XDR //SIEM和 Endpoint Security 功能;--
+- https://github.com/elastic/detection-rules    //Elastic Security主机防护规则。
 - https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
 - https://github.com/bytedance/Elkeid    //字节跳动安全团队开源自研HIDS，Elkeid Agent，Elkeid Driver，Elkeid RASP，Elkeid Server，Elkeid HUB组成，execve、定制化的syscall hook等内核态信息。P:AuditD是Linux自身的审计系统中的一个用户态工具，将SYSCALL调用、文件读写操作等行为记录写入磁盘，AuditD支持多种监听事件的配置和定制，实践中常用于作为反入侵/违规审计的数据源;G:/EBWi11/AgentSmith-HIDS;--
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。

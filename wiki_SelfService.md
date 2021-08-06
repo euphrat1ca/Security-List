@@ -78,9 +78,9 @@
 - https://github.com/tmux/tmux    //Linux命令行终端加强版。
 - https://www.toolfk.com/    //程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org    //在线代码美化
+- https://github.com/fmeringdal/nettu-meet    //视频会议辅导工具
 ### 浏览器插件
 - https://github.com/conwnet/github1s    //GitHub代码可视化插件。G:/surfcodes/surf;P:octotree;--
-- 
 ### 网络解析服务
 - https://dynv6.com/    //免费DDNS域名服务。P:小米球Ngrok;G:duckdns.org;G:dynu.com;--
 - https://hsk.oray.com/    //动态域名解析，DDNS服务，域名内网穿透，蒲公英SD-WAN异地组网。W:zerotier.com;--
@@ -95,7 +95,7 @@
 - https://www.qingjiaocloud.com/    //青椒云主机vps，一键启用。
 - https://github.com/zyx0814/dzzoffice    //Py。在线办公套件
 ### 远程协助
-- https://www.todesk.com/    //远程协助软件。W:anydesk;W:Teamviewer;W:向日葵--
+- https://github.com/rustdesk/rustdesk    //rust。//远程协助软件。W:anydesk;W:Teamviewer;W:向日葵W:todesk.com;--
 - https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    //电脑控制手机打电话、发短信、接收通知、传输文件等
 - https://www.airdroid.com/    //移动端手机设备控制
 ### 分身登录

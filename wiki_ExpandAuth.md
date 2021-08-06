@@ -126,6 +126,7 @@
 - https://github.com/secretsquirrel/the-backdoor-factory    //PY,C。通过填充无用数据空间劫持DLL程序生成shellcode。NoUpdate。
 - https://github.com/k-fire/shellcode-To-DLL    //C++。shellcode异或加密生成dll，类拿破轮胎DLL注入架构。界面GUI。welljob。G:/qH0sT/Ransomware-Builder-v3.0;G:/aaaddress1/RunPE-In-Memory;--
 - https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method    //Lazarus 利用uuid加载shellcode
+- https://github.com/Inf0secRabbit/BadAssMacros    //C#。宏免杀，免杀宏代码。
 
 ## 文件免杀
 - https://github.com/TideSec/BypassAntiVirus    //TechTeach。公众号：70.远控免杀专题(70)-终结篇。goodjob。
@@ -232,6 +233,7 @@
 - https://github.com/G0ldenGunSec/SharpSecDump    //C#。远程SAM + LSA转储。
 - https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
+- https://github.com/Arvanaghi/SessionGopher    //PS。基于wmi进行WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop密码抓取。
 ### Linux密钥收集
 - https://github.com/huntergregal/mimipenguin    //C。Linux密码抓取。
 - https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。

@@ -255,6 +255,7 @@
 - https://community.riskiq.com    //pdns服务
 ### 子域名C段
 - https://github.com/laramies/theHarvester    //Py。企业被搜索引擎收录敏感资产信息监控脚本，员工邮箱、子域名、Hosts。G:/bit4woo/teemo;G:/bhavsec/reconspider;--
+- https://github.com/0x727/ShuiZe_0x727    //Py3。水泽信息搜集，子域名搜集、子域名爆破、邮箱获取、GitHub敏感信息匹配、友链、域名A记录、空间引擎、漏洞探测。
 - https://github.com/LangziFun/LangSrcCurise/    Py。SRC域名资产监控。goodjob。G:/guimaizi/get_domain;G:/code-scan/BroDomain;G:/reconned/domained;G:/swisskyrepo/Subdomino;G:/nmalcolm/Inventus--
 - https://github.com/shmilylty/OneForAll    //py3.8。子域收集工具，多接口/爆破/验证/子域名接管。goodjob。G:/yogeshojha/rengine;--
 - https://github.com/michenriksen/aquatone    //Go。子域名枚举、探测工具。支持子域名接管漏洞。G:/guelfoweb/knock;--
