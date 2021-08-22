@@ -22,11 +22,12 @@
 - https://github.com/pureqh/bypasswaf    //关于安全狗和云锁的自动化绕过脚本
 - https://www.4hou.com/posts/oAAj    //WinRM与HTTP Server API的端口复用，利用IIS的端口共享功能绕过防火墙。基于http.sys实现权限维持。P:/"WinrmAttack.py";--
 - https://github.com/Hackplayers/evil-winrm    //Ruby。利用WinRM shell进行soap协议传输绕过防火墙。
-- https://github.com/ChrisAD/ads-payload    //利用环境变量与destop.ini绕过windows下的Palo Alto Traps派拓网络waf。
+- https://github.com/ChrisAD/ads-payload    //利用环境变量与`destop.ini`绕过windows下的Palo Alto Traps派拓网络waf。
 - https://www.4hou.com/posts/rMOp    //利用IIS的模块功能绕过防火墙。
 - https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w    //公众号：网络层绕过IDS/IPS的一些探索。分片传输，通过ipv6绕过ids/ips
 - https://github.com/al0ne/Nmap_Bypass_IDS    //Nmap&Zmap特征识别，绕过IDS探测。
 - https://github.com/kirillwow/ids_bypass    //IDS Bypass 脚本
+- rasp绕过：JNI、DOS、开启线程（在新的线程里，没有当前请求的上下文）、黑名单、规则绕过
 
 # 远程协助
 - https://www.thec2matrix.com/    //C2框架远控评测
@@ -65,7 +66,7 @@
 - https://github.com/cbrnrd/Kumo    //Java。基于jre环境的跨平台后门，一键编译，界面GUI。G:/ThatcherDev/BetterBackdoor;G:/BlackHacker511/BlackRAT;--
 - https://github.com/zerosum0x0/koadic    //Py3。基于JScript/VBScript的大宝剑远控，多版本系统支持内存加载shell。GOODJOB。G:/shelld3v/JSshell/;--
 - https://krober.biz/misc/reverse_shell.php?ip=127.0.0.1&port=8080/    //反弹shell命令生成器，利用pty、socat反弹交互式终端。G:/andrew-d/static-binaries/tree/master/socat;G:/sameera-madushan/Print-My-Shell;G:/WangYihang/Platypus;--
-- 
+- https://github.com/0dayCTF/reverse-shell-generator/    js。反弹Shell命令一键生成
 - https://github.com/BenChaliah/Arbitrium-RAT    //Py。Android、Windows、Linux三端远控。P:Arbitrium-WebApp;--
 ### Windows远程协助
 - https://github.com/peterpt/fuzzbunch    //Py3。方程式NSA漏洞利用远控RAT，配有自动化安装脚本与界面GUI。永恒之蓝、永恒浪漫、永恒冠军、双星脉冲。
@@ -148,7 +149,7 @@
 ### 文件加密保护
 - https://github.com/veracrypt/VeraCrypt    //C。类似于BitLocker架构全盘加密、磁盘隐藏分区、加密系统。W:veracrypt.fr;G:/FreeApophis/TrueCrypt;--
 - https://vmpsoft.com/    //VMProtect ULTIMATE 3.4.0 Build 1155 文件套壳。
-- https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）文件压缩
+- https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）文件压缩，通过动态配置文件增加到upx后续可以进行动态免杀。
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。goodjob。
 - https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE文件加壳过杀软。
 ### 文件混淆免杀

@@ -2,6 +2,7 @@
 - https://www.arduino.cc/en/Main/Software    //Arduino开发工具(arduino IDE)是一个基于开放原始码的软硬体平台，构建于开放原始码simple I/O介面版，并且具有使用类似于Java，C语言的Processing/Wiring开发环境，开发版本要相对应IDE版本。
 ## 近源渗透
 - https://github.com/ehabhussein/AutoGadgetFS    //Python3。USB设备克隆模拟，设备协议模糊测试。testjob。
+- https://github.com/dekuNukem/daytripper    //红外线检测+电脑badusb
 - https://github.com/mame82/P4wnP1_aloa    //在树莓派Raspberry Pi上安装常用的测试组件，打造移动测试平台。
 - https://github.com/Orange-Cyberdefense/fenrir-ocd    //使用树莓派绕过有线802.1x保护并使你能够访问目标网络。
 - https://www.freebuf.com/geek/195631.html    //Intro。成为物理黑客吧！利用树莓派实现P4wnP1项目进行渗透测试。

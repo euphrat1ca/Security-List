@@ -3,6 +3,7 @@
 - https://sploitus.com/    //公开漏洞搜索引擎,goodjob。
 - https://www.cvebase.com/poc    //漏洞poc统计站。
 - https://github.com/offensive-security/exploitdb    //美国Offensive Security维护的'exploit-db.com'漏洞库，包含利用插件、漏洞场景、渗透测试系统 etc。G:/nomi-sec/PoC-in-GitHub;G:/offensive-security/exploitdb-bin-sploits //已编译漏洞执行文件;G:/HacTF/poc--exp;G:/DrunkenShells/Disclosures;G:/coffeehb/Some-PoC-oR-ExP;G:/hackerhouse-opensource/exploits;G:/Yang0615777/PocList;--
+- https://packetstormsecurity.com/    //国外漏洞库
 - https://github.com/vulnersCom/getsploit    //Py3。类似于searchsploit，通过各种数据库的官方接口进行payload的查找。
 - http://wiki.peiqi.tech    //peiqi wiki-poc文库。G:/PeiQi0/PeiQi-WIKI-POC;--
 - https://github.com/BaizeSec/bylibrary    //白阁文库漏洞库。W:wiki.bylibrary.cn;--
@@ -260,6 +261,7 @@
 - https://github.com/0xbadjuju/Tokenvator    //使用Windows令牌提升权限的工具，提供一个交互命令行界面
 - https://github.com/klionsec/BypassAV-AllThings    //利用aspx一句话配合提权payload提权。
 ### Exchange漏洞利用
+- https://github.com/ktecv2000/ProxyShell    //exchange无条件rce，CVE-2021-26857后续利用：写Dcsync ACL给指定域用户，导出域控哈希（secretdump.py），连接域控(psexec.py)。G:/dmaasland/proxyshell-poc;--
 - https://github.com/Udyz/Proxylogon    //Exchange SSRF（CVE-2021-26855）
 - https://github.com/Jumbo-WJB/CVE-2020-0688    //CVE-2020-0688_微软EXCHANGE服务的邮件远程代码执行漏洞。
 - https://github.com/rapid7/metasploit-framework/pull/14126    //Microsoft Exchange Server DLP Policy RCE (CVE-2020-16875)

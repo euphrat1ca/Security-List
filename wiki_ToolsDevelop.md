@@ -150,6 +150,7 @@
 - https://github.com/scriptjunkie/msfgui    //Java。metasploit的界面GUI，强化Windows下支持。Noupdate。Goodjob。
 - https://www.yuque.com/funnywolfdoc/viperdoc    //基于Django的MSF图形界面、执行模块、汉化分类。社区版加特林。G:/FunnyWolf/Viper;--
 - https://github.com/Zerx0r/Kage    //VueJS。图形化MSF、Session Handler控制。界面GUI。goodjob。
+- https://github.com/0x727/MetasploitCoop_0x727    //Vue,Python。基于msf的后渗透协作平台
 ## Empire拓展插件
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa    //利用Empire获取域控权限
 - https://github.com    //empire的web界面

@@ -28,6 +28,7 @@
 - https://pro.ant.design/index-cn    //JS。Ant design pro开箱即用的中台前端 ant-design-pro设计解决方案。goodjob。
 - https://github.com/gin-gonic/gin    //golang web 服务
 - https://beego.me    //Go。应用程序开源框架
+- https://github.com/gohugoio/hugo    //Go。静态网站构建框架
 - https://goframe.org/index    //Go。模块化、松耦合、生产级的Web应用框架
 - https://www.djangoproject.com    //Py。完美主义者的 Deadline 终结Web服务框架
 - https://www.palletsprojects.com/p/flask/    //Py。Web服务微框架。
@@ -140,6 +141,7 @@
 - https://github.com/Tencent/wwsearch    //C++。腾讯全文检索引擎，对标ELK。
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
 - https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
+- https://github.com/dataease/dataease    //数据可视化分析工具。
 ## 深度学习
 - https://visualgo.net/    //算法库
 - https://github.com/google-research/bert    //Py。谷歌研究院最强NLP运算模型
