@@ -26,7 +26,8 @@
 - https://github.com/akaxincom/openzaly    //Java。即时聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    //js。在线团队聊天服务器。rocket.chat/install。
 - https://www.signal.org/    //通讯加密聊天工具。W:github.com/signalapp;
-- https://technitium.com/    //点对点加密聊天、mac地址修改、dns客户端与服务端、https
+- https://technitium.com/    //点对点加密隐匿聊天、mac地址修改、dns客户端与服务端、https。
+- https://discord.com/    //在线聊天
 ### 邮件服务
 - https://salmon-mail.readthedocs.io    //Py。实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    //PHP。EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
