@@ -76,7 +76,7 @@
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
 - https://github.com/mockoon/cli    //图形化api mock快速搭建工具。
-- https://www.postman.com/    //API接口调试助手，一键生成demo代码。W:hookbin.com/;P:HACKBAR;--
+- https://www.postman.com/    //API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;--
 ### 运维管理
 - https://github.com/Tencent/bk-job    //Java。蓝鲸作业平台（Job）脚本管理系统
 - https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机。
@@ -90,6 +90,8 @@
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    //nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    //在线nginx配置文件生成，W:nginxconfig.io;--
+### 常见软件技巧
+- https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;--
 
 ## 办公网安全建设
 - https://github.com/sgabe/SymlinkProtect    //Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。

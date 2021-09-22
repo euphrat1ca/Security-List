@@ -1,7 +1,6 @@
 # wiki_SelfServicerce
  wiki_SelfServicerce
-## 常见软件技巧
-- https://www.gnu.org/software/parallel/    //Linux并行执行shell命令。awk;grep;
+
 # 自服务应用
 - https://www.bjinternetcourt.gov.cn/    //北京互联网法院
 - https://github.com/Kickball/awesome-selfhosted    //awesome系列之自服务应用
@@ -15,7 +14,7 @@
 - https://www.lshack.cn/118/    //在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://oktools.net/json2go    //JSON转Golang Struct
 - https://github.com/netless-io/flat    //Typescript。在线教育课堂。
-### 软件资源
+## 软件资源
 - http://www.carrotchou.blog/    //胡萝卜周。W:dayanzai.me;W:zdfans.com/;W:appinn.com;--
 - https://www.ghpym.com/    //果核剥壳
 - http://flyonzone.ys168.com/    //飞扬时空
@@ -23,7 +22,21 @@
 - https://github.com/soimort/you-get    //Py。视频下载
 - https://github.com//aria2/aria2    //C++。下载器。
 - https://www.pconlife.com/    //Windows组件，微软依赖、DLL下载
-### 开发外包
+### 系统运维
+- https://www.itsk.com/index.php    //IT天空，系统操作运维。
+- https://www.itsk.com/thread-401292-1-1.html    //it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
+- https://www.chuyu.me/zh-Hans/index.html    //DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
+- https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
+- https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
+- https://wpd.app/    //消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
+### 注册机keygen
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--
+- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver;G:/github.com/HyperSine/;--
+- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/;--
+- https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
+- https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
+
+## 开发外包
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
 - https://www.proginn.com    //程序员客栈
@@ -172,20 +185,6 @@
 - https://www.voidtools.com    //Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 - https://github.com/uknowsec/SauronEye-Modify    //C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    //全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
-
-## 系统运维
-- https://www.itsk.com/index.php    //IT天空，系统操作运维。
-- https://www.itsk.com/thread-401292-1-1.html    //it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
-- https://www.chuyu.me/zh-Hans/index.html    //DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
-- https://www.sordum.org/    //Windows免费工具，防火墙操作、权限控制、网络诊断等
-- https://github.com/RoliSoft/WSL-Distribution-Switcher    //Py3。Windows下Linux子系统WSL管理工具
-- https://wpd.app/    //消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
-### 注册机keygen
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    //Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--
-- https://github.com/DoubleLabyrinth/navicat-keygen    //C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver;G:/github.com/HyperSine/;--
-- https://github.com/DoubleLabyrinth/winrar-keygen    //C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/;--
-- https://github.com/zsdlove/fortify-license-crack    //fortify去除证书校验。
-- https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
 
 ## 素材资源
 - http://www.aigei.com/    //全资源部分免费商用

@@ -48,8 +48,9 @@
 - https://github.com/zstackio/zstack    //Java。类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
 ## 虚拟化容器
 - https://github.com/moby/moby    //Go。Linux下虚拟容器dockerCE。54k。
+- https://github.com/containers/podman    //管理 OCI 容器和 Pod，可基于已经调试好的镜像一键生成k8s部署yaml文件。
 - https://github.com/containers/libpod    //Go。podman.io虚拟容器。3k。
-- https://github.com/hashicorp/vagrant    //Ruby。管理虚拟机。19k。
+- https://github.com/hashicorp/vagrant    //Ruby。自动化虚拟机管理工具。19k。
 - https://www.cnblogs.com/ryanyangcs/p/12558727.html/    //两个奇技淫巧，将 Docker 镜像体积减小 99%。多阶段构建，系统精简。
 ### 虚拟化沙盒
 - https://github.com/cuckoosandbox/cuckoo    //PY/JS。自动恶意软件分析系统，恶意样本分析沙盒检测。

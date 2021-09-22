@@ -36,7 +36,7 @@
 - https://github.com/ShiHuang-ESec/EHole    //EHole(棱洞)-红队重点攻击系统指纹探测工具，fofa api。goodjob。
 - https://github.com/HA71/WhatCMS    //Bash。基于Whatcms.org API进行CMS检测和漏洞利用脚本。
 - https://github.com/urbanadventurer/whatweb    //Ruby。Web指纹识别。goodjob。G:/Rvn0xsy/FastWhatWebSearch;G:/ggusoft/inforfinder;--
-- https://github.com/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
+- https://github.com/zhzyker/dismap    //Go。识别 Web 指纹信息，定位资产类型。G:/s0md3v/Arjun    //Py3。HTTP参数信息挖掘工具。simple。
 - https://github.com/mozilla/ssh_scan    //服务器ssh配置信息扫描。
 - https://github.com/salesforce/jarm    //Python。识别传输层安全性（TLS）指纹，对具有相同TLS配置服务标记，集成于空间测绘资产标签。goodjob。G:/rbsec/sslscan;--
 - https://github.com/mozilla/cipherscan    //目标主机服务ssl类型识别。
