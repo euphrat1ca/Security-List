@@ -64,6 +64,7 @@
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
 - https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。
+- https://github.com/Genymobile/scrcpy    //C。基于adb通过 USB (或 TCP/IP) 连接的安卓设备，且不需要任何 root 权限，支持 GNU/Linux、Windows 和 macOS。
 ### 浏览器模拟
 - https://github.com/SeleniumHQ/selenium    //Web headless无头浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。

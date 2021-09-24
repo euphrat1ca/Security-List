@@ -238,6 +238,7 @@
 ### Windows提权利用LPE
 - https://github.com/SecWiki/windows-kernel-exploits    //Windows平台提权漏洞Exp集合。P:/kerberos域控ms14‐068/;G:/51x/WHP;G:/ianxtianxt/win-exp-/;G:/lyshark/Windows-exploits;--
 - https://github.com/Ascotbe/Kernelhub    //Windows 提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件。goodjob。
+- https://github.com/antonioCoco/RemotePotato0    //利用DCOM激活服务，从一个普通用户提权至域管理员权限。
 - https://github.com/lawrenceamer/0xsp-Mongoose    //PHP。提权枚举工具包，通过webApi上报信息。
 - https://github.com/KaLendsi/CVE-2021-1732-Exploit    //C++。由函数win32kfull!xxxCreateWi ndowEx 对应用层回调返回数据校验不严导致，本地用户执行漏洞利用程序获取系统权限。
 - https://github.com/dirkjanm/CVE-2020-1472    //NetLogon特权提升漏洞，一键域控提权。配合多个py文件set_empty_pw清空域控密码-secretsdump下载域控哈希secretsdump-restorepassword利用域管hash导出sam数据库原先哈希密码。G:/risksense/zerologon;G:/SecuraBV/CVE-2020-1472;--

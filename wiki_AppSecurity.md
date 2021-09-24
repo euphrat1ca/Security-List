@@ -32,7 +32,6 @@
 - https://github.com/jboss-javassist/javassist    //Java。能够操作字节码框架，轻易的修改class代码文件。
 - https://github.com/programa-stic    //基于Androguard 及Static Android Analysis Framework 的Android App静态分析引擎。
 - https://github.com/WooyunDota/DroidSSLUnpinning    //安卓证书锁定解除的工具
-- https://github.com/Genymobile/scrcpy    //C。基于adb连接使pc控制Android设备
 #### 安卓HOOK利用
 - https://github.com/rovo89/Xposed    //C++。Android动态修改hook，隐藏root执行权限。
 - https://taichi.cool/    //安卓Xposed魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。

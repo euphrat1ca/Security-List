@@ -118,7 +118,7 @@
 
 ## wiki平台
 - https://github.com/phachon/mm-wiki    //Go。企业知识分享与团队协同软件，用于构建企业 Wiki 和团队知识分享平台。G:/hackmdio/codimd;--
-- http://mrdoc.zmister.com/    //Py。基于Django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;--
+- http://mrdoc.zmister.com/    //Py。基于Django的MarkDown文档写作、项目管理，支持一键部署，pyinstaller打包Web服务。Gitee:zmister/MrDoc;G:/zmister2016/MrDoc;Gitee:/debj031634/win-django;--
 - https://github.com/Kenshin/simpread    //沉浸式阅读，文章保存。
 - https://github.com/elgg/elgg    //PHP。社交网络引擎、社区，mysql数据库。
 - https://github.com/chaitin/strapdown-zeta    //strapdown.js。长亭开源Wiki系统，支持markdown。
