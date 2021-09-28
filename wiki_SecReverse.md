@@ -53,6 +53,7 @@
 - https://github.com/ReFirmLabs/binwalk    //Py。固件、二进制、pwn等文件自动化识别与逆向，支持多插件配置。goodjob,5k。
 ### 查脱壳操作
 - https://github.com/slimm609/checksec.sh    //bash。用于检查可执行文件的属性。goodjob。
+- https://mp.weixin.qq.com/s/-ljFc5sBn9Sq92Pboy0SWQ    //傻瓜式脱壳保姆级教学
 - http://www.legendsec.org/1888.html    //pkid查壳工具，APK查壳工具PKID ApkScan-PKID。P:DetectItEasy;--
 - https://github.com/rednaga/APKiD   //Py。查找Android应用程序Yara标识符的封隔器，保护器，混淆器 - PEiD for Android。goodjob。
 - https://github.com/DrizzleRisk/drizzleDumper    //Android脱壳工具。G:/TUnpacker;G:/BUnpacker;G:/halfkiss/ZjDroid;--

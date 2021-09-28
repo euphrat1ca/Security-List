@@ -8,6 +8,7 @@
 - https://www.freebuf.com/news/153580.html    //物联网安全研究之一：IoT架构介绍
 ## 万物互联仿真模拟
 - https://mp.weixin.qq.com/s/lKFxvA3JtDwiWqJ11TEzIQ    //工控CIP/EtherNet/IP协议仿真环境搭建。
+- https://github.com/fofapro/fapro    //Fake Protocol Server，协议模拟。
 ### 设备固件烧录
 - https://github.com/pbatard/rufus    //C。启动盘镜像烧录。W:www.balena.io/etcher/;W:sourceforge.net/projects/win32diskimager/ //镜像写入;--
 ### 设备编程器

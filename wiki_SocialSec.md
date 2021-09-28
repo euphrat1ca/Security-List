@@ -34,6 +34,7 @@
 - https://github.com/JonCooperWorks/judas    //Go。克隆网站钓鱼
 - https://github.com/Rvn0xsy/Pricking    //网站反代钓鱼，敏捷启动，js功能插件。
 ### 邮件伪造
+- https://github.com/SkewwG/henggeFish    //Go。自动化批量发送钓鱼邮件（横戈安全团队出品）
 - https://mp.weixin.qq.com/s/RPz_1kKuq5--IANwT_Qvvg    //眼见不一定为实：对电子邮件伪造攻击的大规模分析。发件人策略框架（SPF）、域名密钥识别标准（DKIM）和基于域的消息验证、报告和一致性（DMARC）、UI保护机制 绕过。
 - https://github.com/n0pe-sled/Postfix-Server-Setup    //自动化建立一个网络钓鱼服务器，Postfix/Sendmail邮件系统。
 - https://emkei.cz    //在线邮件伪造，SPF&DKIM&DMARC协议多功能模拟。W:tool.chacuo.net/mailanonymous;--

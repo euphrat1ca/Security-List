@@ -216,7 +216,7 @@
 - https://www.chainnews.com/    //链闻，系统化学习区块链知识。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - tornado.cash    //链上混币器
-- https://wallet.trezor.io/    //热钱包，imtoken、tokpocket、onekey、metamask
+- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey、metamask小狐狸
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 - https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    //慢雾余弦:区块链生态安全是一场真枪实弹的战争
 ### 区块链安全分析
@@ -244,6 +244,7 @@
 
 ## 合规建设
 - https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+- https://mp.weixin.qq.com/s/uD8xZse3TLH7vjzJOp_kxw    //网信办、工信部教我做产品！W:note.youdao.com/s/K4vFx4Ki //网信办、工信部学习资料（欢迎收藏备用）
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 - https://github.com/paradiseduo/ApplicationScanner    //Python。移动端App等保测试工具。

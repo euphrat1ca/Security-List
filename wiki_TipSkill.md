@@ -142,12 +142,18 @@
 - https://github.com/F-Stack/f-stack    //C。腾讯开源基于dpdk的高性能网络框架
 - https://github.com/pentaho/pentaho-kettle    //java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
 - https://github.com/dataease/dataease    //数据可视化分析工具。
+
 ## 深度学习
 - https://visualgo.net/    //算法库
 - https://github.com/google-research/bert    //Py。谷歌研究院最强NLP运算模型
 - https://github.com/PaddlePaddle/PaddleX    //C++,Py。百度开源飞桨深度学习框架。G:/PaddlePaddle/book;--
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
-### 机器学习
+### 视频仿真
+- https://github.com/iperov/DeepFaceLive    //人脸仿真，视频克隆
+### 音频仿真
+- https://github.com/babysor/MockingBird    //声音克隆
+
+## 机器学习
 - https://paperswithcode.com/sota    //机器学习具体项目、演示、代码
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师

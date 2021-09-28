@@ -43,7 +43,7 @@
 - https://www.vmware.com    //跨平台多系统支持。ESXI虚拟化平台管理工具，vsphere集群。商业版。
 - https://www.proxmox.com/    //Proxmox VE自带防火墙、邮件网关开源虚拟化平台，PVE类virtualbox架构。
 - http://www.eve-ng.net    //UnifiedNetworking Lab统一网络实验室。基于Ubuntu深度定制。商业版。
-- https://github.com/utmapp/UTM    //ios 虚拟机
+- https://github.com/utmapp/UTM    //ios虚拟机
 ## 虚拟化云平台
 - https://github.com/zstackio/zstack    //Java。类似openstack基于kvm与vmware的虚拟化云管理框架。商业版。
 ## 虚拟化容器
