@@ -60,7 +60,7 @@
 - https://github.com/reidmefirst/Modshaft    //Py2。利用modbus协议封装命令绕过防火墙。
 
 ## 跨平台远程协助
-- https://github.com/tiagorlampert/CHAOS    //Go。跨平台TCP远程控制。welljob。
+- https://github.com/geemion/khepri    //go。跨平台远程管理。welljob。G:/tiagorlampert/CHAOS;--
 - https://github.com/n1nj4sec/pupy    //Py。Windows、Linux、OSX、Android跨平台多session。welljob。G:/nathanlopez/Stitch;G:/vesche/basicRAT;--
 - https://github.com/its-a-feature/Mythic    //Py。Linux下跨平台远控。goodjob。
 - https://github.com/cbrnrd/Kumo    //Java。基于jre环境的跨平台后门，一键编译，界面GUI。G:/ThatcherDev/BetterBackdoor;G:/BlackHacker511/BlackRAT;--
@@ -181,7 +181,7 @@
 - https://github.com/PowerShellMafia/PowerSploit    //PS。内网利用框架。反病毒特征码查询、DLL注入脚本、编码加密、记录窃取、权限维持、Windows提权、端口扫描。goodjob。Github:/PowerView;Github:/PowerUp;Github:/PowerTools;Github:/Shell-Suite;Github:/Misc-Powershell-Scripts;--
 - https://github.com/rootm0s/WinPwnage    //UAC绕过、权限提升、权限维持。goodjob。
 - https://github.com/quentinhardy/pytmipe    //Python功能库。令牌操作与权限提升。
-- https://github.com/lengjibo/NetUser    //使用windows api添加用户，可用于net无法使用时.分为nim版，c++版本，RDI版，BOF版。
+- https://github.com/lengjibo/NetUser    //使用windows api添加用户，可用于net无法使用时，分为nim版、c++版本、RDI版、BOF版。
 ### Windows横向移动
 - http://www.oxid.it/cain.html    //Cain & Abel。2017 4.9.56 NoUpdate。
 - https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA    //公众号：红蓝对抗之Windows内网渗透
@@ -196,7 +196,7 @@
 - https://github.com/360-Linton-Lab/WMIHACKER    //VBScript。横向移动命令执行测试工具(只需135无需445端口，免杀)。
 - https://github.com/QAX-A-Team/sharpwmi    //C#。基于rpc 135端口的横向移动工具，具有上传文件和执行命令功能。
 - https://github.com/Mr-Un1k0d3r/SCShell    //跨平台基于ChangeServiceConfigA远程调用无文件横向移动工具。goodjob。
-- https://github.com/GhostPack/Rubeus    //C#。Kerberos功能库。G:/gentilkiwi/kekeo //PTK(Pass the ticket);--
+- https://github.com/GhostPack/Rubeus    //C#。Kerberos功能库，生成票据并注入。goodjob。G:/gentilkiwi/kekeo //PTK(Pass the ticket);--
 - https://github.com/SkewwG/domainTools    //C,C++。内网域渗透资源约束委派。
 ### Windows凭证利用
 - https://github.com/gentilkiwi/mimikatz    //C。Windows下获取权限、进入调试模式、注入lsass进程内容获取hash密码、获取凭证，进行横向移动PTH/PTK。GREATJOB。

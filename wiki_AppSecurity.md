@@ -96,7 +96,7 @@
 - https://github.com/PyCQA/bandit    //Py。Python代码安全漏洞审计。
 - https://github.com/python-security/pyt    //Py。用于检测Python Web应用程序中的安全漏洞的静态分析工具。
 ### Golang代码审计
-- https://github.com/securego/gosec    //go。Go语言源码安全分析工具。
+- https://github.com/securego/gosec    //go。Go语言源码安全分析工具。G:/system-pclub/GCatch;--
 
-## 固件代码审计
+## 固件安全审计
 - https://github.com/seemoo-lab/polypyus    //Py3。固件源码分析工具。

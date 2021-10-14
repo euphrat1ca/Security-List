@@ -10,7 +10,7 @@
 - https://github.com/huiyadanli/RevokeMsgPatcher    //C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 - https://github.com/ferredoxin/QNotified    //QQ开源Xposed模块
 ### 自动回复WebHook
-- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;P:/telegram机器人TG BOT;--
+- http://sc.ftqq.com/3.version    //ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;G:/zhuifengshen/DingtalkChatbot;P:/telegram机器人TG BOT;--
 - https://github.com/littlecodersh/itchat    //Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;--
 - https://github.com/codingtoworld/wxrobot    //Py。WebGui微信机器人
 - https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--

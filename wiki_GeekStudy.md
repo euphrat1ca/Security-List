@@ -89,7 +89,10 @@
 - https://www.imperva.com/blog/nosql-ssji-authentication-bypass/    //Imperva WAF墙公司关于，SSJI服务的JavaScript注入
 - https://github.com/hongriSec/Web-Security-Attack    //红日Web安全攻防实战系列
 - https://github.com/TimelineSec/2020-Vulnerabilities    //Timeline Sec团队2020年复现的所有漏洞。
-### 学习后渗透
+### 学习反制
+- https://mp.weixin.qq.com/s/8lmgeHpuaagHDoThqSKjqA    //反虚拟机识别
+### 学习Windows后渗透
+- https://mp.weixin.qq.com/s/wW94EiPiOmJsWeFR64Dg1A    //全补丁域森林5秒沦陷？加密升级之信任雪崩
 - https://space.bilibili.com/406898187/channel/detail?cid=85655    //哔哩哔哩 安全帮 内网高级加固课程
 - https://attack.mitre.org/wiki/Lateral_Movement    //mitre机构对横向移动的总结
 - https://github.com/l3m0n/pentest_study    //从零开始内网渗透学习。G:/Ridter/Intranet_Penetration_Tips;-

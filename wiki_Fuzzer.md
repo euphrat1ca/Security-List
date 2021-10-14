@@ -96,3 +96,4 @@
 - https://xz.aliyun.com/t/7895/    //techteach。利用WAF进行拒绝服务攻击。利用自动加载图片等资源文件的特性。
 - https://www.freebuf.com/column/201766.html    //techteach。正则表达式所引发的DoS攻击（Redos）。G:/superhuman/rxxr2;--
 - https://github.com/EZLippi/WebBench    //C。DDOS网站压力测试，最高并发3万
+- https://www.cuijianxiong.top/2021/03/30/暴力的攻击Dos/    //大数精度计算BigDecimal、正则匹配资源耗尽。
