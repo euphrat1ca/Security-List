@@ -37,6 +37,7 @@
 - https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
 
 ## 开发外包
+- 
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
 - https://www.proginn.com    //程序员客栈
@@ -45,7 +46,6 @@
 - http://www.epwk.com    //威客
 - https://zbj.com    //猪八戒，重庆外包，压价
 - http://task.a5.cn/tasklist.html    //外包
-
 
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    //在线文档翻译
@@ -166,6 +166,7 @@
 - https://blog.csdn.net/qq_39815184/article/details/78215141    //intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
 - https://github.com/haiwen/seafile    //C。私有云网盘同步，速度快，功能少。
 ### 云盘存储
+- https://github.com/cloudreve/Cloudreve    //Go。公有云文件系统。
 - https://send.firefox.com/    //火狐Free网盘传输。G:/mozilla/send;W:wetransfer.com;W:anonfile.com/;W:filecad.com;W:upload.ee/;--
 - https://cowtransfer.com/    //奶牛快传免费网盘分享。W:wenshushu.cn/;--
 - http://www.pastebin.com/    //在线文档分享。W:ssavr.com;--

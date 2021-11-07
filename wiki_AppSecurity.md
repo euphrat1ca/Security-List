@@ -1,5 +1,10 @@
 # 应用安全
 - https://github.com/euphrat1ca/Security-List
+### 移动端资源 
+- https://www.apkmirror.com    //
+- https://apkpure.com/cn    //三方+Google play
+- https://cn.aptoide.com/
+- Google ->APK Downloader    //chrome拓展 Google play源
 ## 移动安全
 - https://github.com/crifan/android_app_security_crack    //电子书：安卓应用的安全和破解。goodjob。
 - https://github.com/Brucetg/App_Security    //App安全学习资源
@@ -56,7 +61,7 @@
 - https://mp.weixin.qq.com/s/d9RzCFkYrW27m1_LkeA2rw    //系列 | 58集团白盒代码审计系统建设实践1：技术选型
 - https://www.joinfortify.com    //HP出品的源代码安全审计工具Fortify SCA通过将其它语言转换成一种中间媒体文件NST（Normal Syntax Trcc），将源代码之间的调用关系、执行环境、上下文等分析清楚。通过匹配所有规则库中的漏洞。商业版。goodjob。
 - https://www.checkmarx.com/    //源代码安全检测解决方案，动静态代码分析。商业版。
-- https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。G:/SonarSource;G:/pmd/pmd;--
+- https://www.sonarqube.org/    //27种语言数千种自动的静态代码分析规则。goodjob。G:/SonarSource/sonar-java;G:/pmd/pmd;--
 - https://github.com/microsoft/ApplicationInspector    //C#。基于规则代码审计，支持包括C、C++、C、Java、JavaScript、HTML、Python、Objective-C、GO、Ruby以及PowerShell等语言，支持报告输出。G:/returntocorp/semgrep;--
 - https://securitylab.github.com/tools/codeql/    //GitHub数据流语法树代码审计，集成插件、函数库形式。G:/github/securitylab;--
 - https://www.freebuf.com/articles/web/283795.html    //CodeQL从入门到放弃。G:/xsser/codeql_chinese;--
@@ -65,7 +70,6 @@
 - https://github.com/pumasecurity/puma-scan    //C#。Visual Studio插件，实时代码审计。
 - https://github.com/jeremylong/DependencyCheck    //Java。依赖项版本信息对源代码进行扫描识别。
 ### Java代码审计
-- https://github.com/SonarSource/sonar-java    //Java代码质量和安全性静态分析器，
 - https://github.com/JoyChou93/java-sec-code    //陌陌开源一键代码审计修复。G:/zsdlove/Hades;--
 - https://github.com/HXSecurity/DongTai-agent-java    //火线洞态IAST
 ### Ruby代码审计
@@ -83,9 +87,9 @@
 - https://github.com/callforpapers-source/jshole/    //Js。js漏洞扫描。
 ### PHP代码审计
 - http://zeroyu.xyz/2019/03/11/NAVEX-Precise-and-Scalable-Exploit-Generation-for-Dynamic-Web-Applications/    //基于图数据库Web应用程序的漏洞利用生成框架。G:/aalhuz/navex;--
-- https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计,法师Seay源代码审计系统2.1版本。noupdate。
-- https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计.noupdate.
-- https://github.com/ripsscanner/rips    //php。php代码审计工具.noupdate.
+- https://github.com/euphrat1ca/SeaySourceCodeCheck    //C#。PHP代码审计，法师Seay源代码审计系统2.1版本。noupdate。
+- https://github.com/OneSourceCat/phpvulhunter    //php。静态php代码审计。noupdate。
+- https://github.com/ripsscanner/rips    //php。php代码审计工具。noupdate。
 - https://github.com/chuan-yun/Molten    //C。PHP应用透明链路追踪工具。G:/Qihoo360/phptrace;--
 - https://github.com/elcodigok/wphardening    //py。WordPress插件代码审计
 ### Python代码审计

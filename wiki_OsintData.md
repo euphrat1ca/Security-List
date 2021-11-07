@@ -228,7 +228,7 @@
 - http://demo.zeeroq.com/email/    //邮箱密码泄露
 
 ## Web信息搜集
-- https://www.virustotal.com/    //在线文件、网址、域名、IP检测。包含pdns。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
+- https://www.virustotal.com/    //在线威胁狩猎。包含pdns、文件、网址、域名、IP检测。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
 - https://www.shodan.io/    //老牌空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;W:spyse.com;--
 - https://www.fofa.so    //白帽汇空间测绘。G:/zsdevX/DarkEye;G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;G:/x51/fofahelper;--
 - https://zhifeng.io/mobile/online.html    //灯塔移动端互联网感知引擎，附近iot设备发现。

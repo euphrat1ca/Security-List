@@ -70,6 +70,8 @@
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
 - https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
 - http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
+### 移动端测试
+- https://github.com/liriliri/eruda    //JS。移动网页前端开发调试工具。G:/Tencent/vConsole;--
 
 ## 压测泛洪
 - https://github.com/ywjt/Dshield    //Py。DDOS防护。

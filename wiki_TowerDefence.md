@@ -47,7 +47,7 @@
 - http://edr.topsec.com.cn/    //天融信EDR终端威胁防御系统。
 - http://techtalk.comodo.com/2020/09/19/open-edr-components/    //开放式EDR组件。techteach。G:/ComodoSecurity/openedr;--
 - https://github.com/DasSecurity-Labs/AoiAWD    //PHP。Linux下CTF AWD轻量级EDR系统，支持flag替换。webgui。goodjob。G:/0xrawsec/whids;--
-- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。G:/ion-storm/sysmon-config;公众号:打造MITRE ATT&CK矩阵检测规则edr系统;--
+- https://github.com/olafhartong/ThreatHunting/    //Py。基于Splunk插件的EDR系统。公众号:打造MITRE ATT&CK矩阵检测规则edr系统;--
 
 ## 网络威胁防御
 - https://github.com/Security-Onion-Solutions/security-onion    //Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
@@ -114,11 +114,11 @@
 - https://github.com/Canop/rhit    //nginx日志分析
 ### 主机日志分析
 - https://github.com/JPCERTCC/LogonTracer    //JS,Py。日本计算机应急团队根据Win登陆记录日志，将关联数据图像可视化，通过neo4j展示分析恶意行为。Github:/Releasel0ck/NetTracer;--
-- https://github.com/ahmedkhlief/APT-Hunter    //收集Windows信息分析apt行为
-- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:/jpcertcc/sysmonsearch;--
+- https://github.com/ahmedkhlief/APT-Hunter    //收集Windows信息分析apt行为。
 - http://www.nirsoft.net/utils/computer_activity_view.html/    //LastActivityView是一款电脑操作记录查看器，直接调用系统日志，显示安装软件、系统启动、关机、网络连接、执行exe 的发生时间和路径。
-- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义
-- https://github.com/olafhartong/sysmon-modular/    //Sysmon配置文件，file/dns/att&ck/系统进程/图片 等分类为归置。G:/SwiftOnSecurity/sysmon-config;--
+- https://github.com/baronpan/SysmonHunter    //JS。针对att&ck对sysmon日志进行分析可视化展示。G:/jpcertcc/sysmonsearch;--
+- https://github.com/olafhartong/sysmon-cheatsheet    //Sysmon操作手册，各id属性含义。G:Sysinternals/SysmonForLinux;--
+- https://github.com/olafhartong/sysmon-modular/    //Sysmon配置文件，file/dns/att&ck/系统进程/图片 等分类为归置。G:/SwiftOnSecurity/sysmon-config;G:/ion-storm/sysmon-config;--
 
 ## 网关火墙
 - https://github.com/0xInfection/Awesome-WAF    //awesome waf

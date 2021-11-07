@@ -61,6 +61,8 @@
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 - https://github.com/ngbdf/redis-manager    //Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 - https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
+### 自动化运维
+- https://github.com/n8n-io/n8n    //工作流自动化工具
 ### ACL策略权限
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。

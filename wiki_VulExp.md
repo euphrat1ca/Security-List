@@ -24,8 +24,8 @@
 - https://shuimugan.com    //2016/06/24 13:25之前乌云Drops文章、漏洞公开详情。W:0day.life;W:bugreader.com    //国外厂商公开漏洞详情。
 - https://blog.intigriti.com    //intigriti公司bug bounty文章和公开漏洞详情
 - https://hackerone.com/hacktivity    //HACKER ONE公开漏洞详情
-- https://dvpnet.io/lddt    //DVP去中心化漏洞平台公开漏洞详情，区块链应用。
-- https://sec.ly.com/bugs    //同程安全公开漏洞详情，旅途应用。
+- https://dvpnet.io/lddt    //DVP去中心化区块链漏洞平台公开漏洞详情
+- https://sec.ly.com/bugs    //同程安全公开漏洞详情
 - https://zeroday.hitcon.org/vulnerability/    //台湾漏洞公开库。
 - https://github.com/xiangpasama/JDSRC-Small-Classroom    //京东SRC小课堂系列文章，电商应用。
 ## 软硬固应用漏洞
