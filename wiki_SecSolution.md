@@ -218,7 +218,7 @@
 - https://www.chainnews.com/    //链闻，系统化学习区块链知识。
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - tornado.cash    //链上混币器
-- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey、metamask小狐狸
+- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 - https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    //慢雾余弦:区块链生态安全是一场真枪实弹的战争
 ### 区块链安全分析

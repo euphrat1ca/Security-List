@@ -147,6 +147,7 @@
 - https://github.com/b3log/symphony    //Java。论坛/BBS/社交网络/博客社区平台。
 - https://github.com/b3log/pipe    //Go。多用户博客平台。
 - https://github.com/b3log/solo    //Java。个人博客。
+- https://github.com/wagtail/wagtail    //Py。基于django的内容分发框架。
 ### 工单管理
 - https://github.com/RobbieHan/gistandard    //Py。基于DjanGO的OA工单办公管理系统。
 - https://github.com/pavanw3b/sh00t    //Py3。基于DjanGO的安全测试工单管理。
@@ -192,7 +193,7 @@
 - https://msdn.itellyou.cn    //原生镜像
 - http://patorjk.com    //Text to ASCII Art Generator
 - https://www.wondercv.com/    //简历模板生成
-- https://resume.mdedit.online/editor/#/    //在线木及简历。G:/hua1995116/react-resume-site;--
+- https://resume.mdedit.online/editor/#/    //在线简历。G:/hua1995116/react-resume-site;--
 ### 素材剪辑
 - https://github.com/obsproject/obs-studio    //C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    //.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
@@ -238,3 +239,5 @@
 - http://wenku.baiduvvv.com/doc/    //文库下载
 - http://www.pptbz.com    //ppt下载
 - http://www.1ppt.com/    //无登录免费ppt下载
+- https://suulnnka.github.io/BullshitGenerator/index.html    //小说文章生成器。G:/menzi11/BullshitGenerator;--
+- https://www.xsxia.com/page/show_12_19.html    //小说素材生成

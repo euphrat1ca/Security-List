@@ -52,7 +52,7 @@
 - https://www.jianshu.com/p/726a3791b5b9    //OpenSSH用户枚举漏洞（CVE-2018-15473）
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    //Py。MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690。
 - https://github.com/cpandya2909/CVE-2020-15778    //Linux SCP复制命令加载恶意文件引起命令执行
-- https://devel0pment.de/?p=1881/    //AnyDesk RCE UDP远程执行代码（CVE-2020-13160）
+- https://devel0pment.de/?p=1881/    //AnyDesk RCE UDP远程执行代码（CVE-2020-13160）。W:AnyDesk和TeamViewer在渗透测试中的应用;--
 ### 安全设备漏洞
 - https://github.com/milo2012/CVE-2018-13379    //Py。FortiOS飞塔防火墙/VPN Pre-auth任意文件读取
 - https://nosec.org/home/detail/2862.html    //Intro。如何攻击飞塔Fortigate SSL VPN

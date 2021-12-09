@@ -12,6 +12,7 @@
 ### burp协议分析
 - https://github.com/mr-m0nst3r/Burpy    //Web端JS加密算法调试解密
 - https://github.com/c0ny1/jsEncrypter    //Web前端加密协议Fuzz爆破
+- https://github.com/gh0stkey/CaA    //流量收集与分析
 ### burp防护绕过
 - https://github.com/TheKingOfDuck/burpFakeIP    //Py。IP修改伪造。
 - https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/    //Py。使用AWS API Gateway在每个请求上更改IP访问。

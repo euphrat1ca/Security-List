@@ -1,4 +1,6 @@
 # 通讯工具技术相关
+## 社区群组
+- https://github.com/snapshot-labs/snapshot    //Js。去中心化交易协议Balancer推出链下治理投票平台，dao组织去中心化群组空间，通过提供签名为社区提案投票。W:snapshot.org;--
 ## 通讯服务
 - https://github.com/aqiongbei/buy_pig_plan    //JS。利用客服系统电话轰炸机。G:/xxcosmos/buy_pig_plan_python;--
 ### 通讯插件

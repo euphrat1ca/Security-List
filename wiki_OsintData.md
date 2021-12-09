@@ -82,12 +82,13 @@
 - https://github.com/lion-gu/ioc-explorer    //Py。从多数据源进行关联指标（IOC）自动探索
 ### 威胁情报源
 - https://github.com/t4d/StalkPhish    //Py。钓鱼网站情报收集。W:urlscan.io;urlquery.net;phishtank.com;openphish.com;--
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1/    //洋葱路由出口节点
+- https://faweb.fofa.so/classification/    //空间测绘节点
+- https://isc.sans.edu/api/threatlist/shodan/    //shodan撒旦扫描器节点
 - https://intel.criticalstack.com/    //Intel威胁情报库可集成bro，恶意IP地址。
 - https://talosintelligence.com/documents/ip-blacklist/    //恶意IP地址
 - https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt/    //恶意软件IP地址
 - https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv/    //CobaltStrike服务端IP地址
-- https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1/    //洋葱路由出口节点
-- https://isc.sans.edu/api/threatlist/shodan/    //shodan撒旦扫描器节点
 - http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt/    //恶意IP域名
 - reputation.alienvault.com/reputation.data/    //恶意IP域名
 - https://myip.ms/files/blacklist/general/latest_blacklist.txt/    //恶意IP域名
@@ -286,13 +287,14 @@
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证。
 - https://github.com/boy-hack/wooyun-payload     //burpsuite插件。基于乌云漏洞中的密码信息进行1比对提取。
-### 敏感文件信息
-- https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
+### 敏感信息审计
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
 - https://github.com/Yelp/detect-secrets    //Py。防止代码中的密码等相关敏感信息被提交到代码库中。
 - https://github.com/Acceis/leakScraper    //处理和可视化大规模文本文件，查找证书等敏感信息。
+- https://github.com/trufflesecurity/truffleHog    //py。扫描文件内的高熵字符（aksk/密钥/加密字段）。
 - https://github.com/CERTCC/keyfinder    //查找并分析私钥/公钥文件(文件系统中)，支持 Android APK 文件
 - https://github.com/Ice3man543/hawkeye    //Go。cli端，文件系统分析工具，快速查找文件内包含的SSH密钥，日志文件，Sqlite数据库，密码文件等
+- https://github.com/donot-wong/sensinfor    //JS。chrome敏感信息泄露插件，to find leak file and backup file
 - https://github.com/D4Vinci/Cr3dOv3r    //根据邮箱自动搜索泄漏的密码信息，也可测试账户密码在各大网站能否登录的工具
 - https://github.com/lijiejie/idea_exploit    //Py。利用 IDE config folder (.idea) 进行文件下载
 - https://github.com/Graph-X/davscan    //PY,Bash。用于扫描启用DAV网盘服务的Web服务器上的隐藏文件和文件夹

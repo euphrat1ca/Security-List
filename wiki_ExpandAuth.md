@@ -303,7 +303,7 @@
 - https://payloads.online/archivers/2018-12-22/1    //Intro。DLL Hijacking & COM Hijacking ByPass UAC - 议题解读。qingxuan。techteach。
 - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows    //Windows DLL劫持注入检查集。G:/wietze/windows-dll-hijacking;G:/jfmaes/TrustJack;--
 - https://github.com/sensepost/rattler    //C++。自动化DLL文件注入，恶意DLL文件样例。TechTeach。G:/killvxk/infected_dll;--
-- https://github.com/fatihsnsy/DLInjector-GUI    //C++。指定进程名注入DLL，支持等待进程启动注入。界面GUI。G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;--
+- https://github.com/fatihsnsy/DLInjector-GUI    //C++。指定进程名注入DLL，支持等待进程启动注入。界面GUI。G:/rek7/dll-hijacking;P:/微软官方的dll注入工具Tracker;G:/tothi/dll-hijack-by-proxying;G:/Flangvik/SharpDllProxy;G/mrd0x/dll_inject_vs_binaries //微软签么注入--
 - https://www.4hou.com/penetration/18447.html    //intro。域渗透——利用dnscmd在DNS服务器上实现远程加载dll文件。
 - https://github.com/stephenfewer/ReflectiveDLLInjection    //C。不依赖于LoadLibraryA函数，将DLL库注入映射到目标进程内存。
 - https://www.4hou.com/posts/wRPR    //深入分析 DLL 调用过程实现“自适应” DLL 劫持。techteach。

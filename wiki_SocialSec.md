@@ -145,3 +145,4 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://www.cnblogs.com/k8gege/p/12390265.html    //看我如何模拟Cobalt Strike上线欺骗入侵者。
 - https://www.4hou.com/posts/Xnvk    //Win 10主题可以用来窃取密码，微软拒绝修复。
 - https://mp.weixin.qq.com/s/7bbdHCCtS_7fsXFFW1LprQ    //XMind 2021 11.0 Beta 1 XSS漏洞导致命令执行
+- https://github.com/Tylous/ZipExec    //通过密码保护的zip文件执行利用程序
