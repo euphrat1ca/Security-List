@@ -37,6 +37,7 @@
 - https://www.freebuf.com/articles/network/142418.html/    //intro。绕过杀毒软件与主机入侵防御系统对流量的检测。
 - https://green-m.me/2016/11/23/msf-paranoid-mode/    //intro。MSF偏执模式。
 - https://labs.mwrinfosecurity.com/tools/c3/    //C++。红队C2通讯加密框架。
+- https://github.com/Li4n0/revsuit    //Go。HTTP、DNS、RMI、MySQL 和 FTP 多协议反连平台。
 ### 多姿态远程协助
 - https://blog.csdn.net/fly_hps/category_8913900.html    //FLy_鹏程万里【基础篇】-隐匿攻击之 ICMP/DNS/DropBox/Office 365/mail/app/webSocketSiteKeywordDomainApi/PS/WindowsDomWmi/webDav/https/images/JS/Proxy 等。
 - https://github.com/0nise/shell-plus    //Java。基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。

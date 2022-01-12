@@ -1,9 +1,9 @@
-# 应用安全
+# 基础安全
 - https://github.com/euphrat1ca/Security-List
 ### 移动端资源 
 - https://www.apkmirror.com    //
 - https://apkpure.com/cn    //三方+Google play
-- https://cn.aptoide.com/
+- https://cn.aptoide.com    //
 - Google ->APK Downloader    //chrome拓展 Google play源
 ## 移动安全
 - https://github.com/crifan/android_app_security_crack    //电子书：安卓应用的安全和破解。goodjob。
@@ -26,8 +26,8 @@
 - https://github.com/euphrat1ca/Smartphone-Pentest-Framework    //PY/C/C++。SPF移动端渗透测试框架，支持电话通讯协议SS7漏洞利用，进行远程SS7指令操作。Web:shevirah.com/dagah/;--
 - https://github.com/metachar/PhoneSploit    //Py。通过shodan搜索开启调试模式的安卓设备，利用Adb控制安卓设备。
 - https://github.com/mesquidar/adbsploit    //Py3。利用Adb控制安卓设备。
-- https://termux.com/    //Termux是一个Android下一个高级的终端模拟器，开源且不需要root，支持apt管理软件包。
-- https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具.
+- https://termux.com/    //基于 Android 平台的开源 Linux 终端模拟器，使用 pkg(apt) 进行软件包的管理，无需 root 权限。W:搭建安卓服务器;--
+- https://github.com/Gameye98/Lazymux    //Py3。通过Termux打造免root安卓渗透工具。
 ### Android应用安全
 - https://github.com/frida/frida/    //PY,Java。Frida是一款通过JavaScript代码注入应用程序的跨平台hook框架，二进制逆向动态调试。Github:/dweinstein/awesome-frida;G:/andreafioraldi/frida-fuzzer;--
 - https://github.com/sensepost/objection    //Py。移动端动态调试安全检测，Frida公司开发。
@@ -71,11 +71,12 @@
 - https://github.com/jeremylong/DependencyCheck    //Java。依赖项版本信息对源代码进行扫描识别。
 ### Java代码审计
 - https://github.com/JoyChou93/java-sec-code    //陌陌开源一键代码审计修复。G:/zsdlove/Hades;--
-- https://github.com/HXSecurity/DongTai-agent-java    //火线洞态IAST
+- https://github.com/HXSecurity/DongTai-agent-java    //火线洞态IAST 污点追踪 source sink，支持 python、Java
 ### Ruby代码审计
 - https://github.com/presidentbeef/brakeman    //Ruby on Rails应用静态代码分析
 ### Clang+代码审计
-- https://github.com/GoSSIP-SJTU/TripleDoggy    //C。c/c++/object-c源代码检测框架，支持接口调用
+- https://github.com/GoSSIP-SJTU/TripleDoggy    //C。c/c++/object-c源代码检测框架，支持接口调用。
+- https://github.com/joernio/joern    //Java。C/C++/Java/Binary/Javascript code property graphs代码图流追踪。
 ### 二进制代码审计
 - https://github.com/xfhg/intercept/    //Go。基于yaml与ripgrep的代码静态分析审计。
 - https://www.kanxue.com/book-38-438.htm/    //第三课：Delphi代码审计--项目实战1

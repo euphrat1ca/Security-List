@@ -60,17 +60,30 @@
 ## 自动化测试
 - http://bbs.anjian.com/    //按键精灵。G:/taojy123/KeymouseGo;--
 - https://pypi.org/project/pynput/    //python操作键盘库
-- https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架。
 - https://github.com/sleepybear1113/taobaoVisitingVenues    //js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
-- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
-- https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。
-- https://github.com/Genymobile/scrcpy    //C。基于adb通过 USB (或 TCP/IP) 连接的安卓设备，且不需要任何 root 权限，支持 GNU/Linux、Windows 和 macOS。
+- https://github.com/microsoft/playwright-python    //Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。G:/Gerapy/GerapyPlaywright;--
+### 爬虫采集框架
+- https://github.com/s-rah/onionscan    //darkweb暗网爬虫
+- https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
+- https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
+- https://github.com/xchaoinfo/fuck-login    //模拟登录一些常见的网站
+- https://github.com/Maicius/InterestingCrawler    //抓取QQ空间说说内容并进行分析
+- https://github.com/xjr7670/QQzone_crawler    //QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
+- https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
+- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
+- https://github.com/zorlan/skycaiji/    //php。全自动蓝天采集器。
+- https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
+- https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
+- https://www.anquanke.com/post/id/178339    //漏扫动态爬虫实践。G:pyppeteer 无头浏览器;G:Chromedp;--
 ### 浏览器模拟
 - https://github.com/SeleniumHQ/selenium    //Web headless无头浏览器自动化测试。
 - https://github.com/xuyichenmo/selenium-document    //Selenium的中文文档。
 - https://www.chromium.org/    //Chrome内核，无头浏览器。G:/ariya/phantomjs/;W:miniblink.net;--
-- http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 ### 移动端测试
+- https://github.com/Genymobile/scrcpy    //C。基于adb通过 USB (或 TCP/IP) 连接的安卓设备，且不需要任何 root 权限，支持 GNU/Linux、Windows 和 macOS。
+- https://github.com/AirtestProject/Airtest    //Py。网易Android、iOS跨平台的UI自动化框架。
+- https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
+- http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 - https://github.com/liriliri/eruda    //JS。移动网页前端开发调试工具。G:/Tencent/vConsole;--
 
 ## 压测泛洪

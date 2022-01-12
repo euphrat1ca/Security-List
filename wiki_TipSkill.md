@@ -4,20 +4,44 @@
 - https://github.com/ziishaned/learn-regex    //正则表达式学习
 - https://github.com/csy512889371/learnDoc    //架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    //开发定律
-### 量化交易
+## 量化交易
 - https://www.fmz.com/    //发明者量化交易平台
 - https://cn.tradingview.com/    //图表、行情、交易观点策略
 - http://pirogue.org/2020/06/24/quant/    //试水区块链量化交易
 - https://github.com/Drakkar-Software/OctoBot    //Python。BTC币量化机器人，对接交易所api。G:/freqtrade/freqtrade;--
-### 区块矿机
+
+# 区块链&智能合约
+- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
+- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
+- https://awesomenear.com/categories/defi/    //near公链项目demo。G:/near-examples/place;--
+- https://github.com/terra-money/awesome-terra    //Luna生态项目
+- https://github.com/ipfs/awesome-ipfs    //filecoin文件币
+- https://github.com/pancakeswap    //defi swap
+- https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
+## 链上开发
+- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
+- https://awesomenear.com/categories/defi/    //区块分片技术
+### 链上钱包
+- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸;--
+- https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14    //区块链钱包原理 密钥/助记词
+- https://wallet.near.org/    //区块链开发sso认证
+### 区块证明
 - https://awesomeopensource.com/projects/miner    //开源挖矿项目
 - https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工，门罗币。
 - https://github.com/Mining-Addiction/PhoenixMiner_5.5c_Windows_AMD_NVIDIA_Hidden_CMD    //PhoenixMiner cmd命令行隐藏版
 - https://blog.csdn.net/alionsss/article/details/115921140    //Gminer使用教程，以太坊。G:/develsoftware/GMinerRelease;--
 - https://ntminer.com/    //开源矿工，BMiner、NBMiner、HSPMiner。W:qskg.top //轻松矿工;W:mineros.cn;--
 - https://zhuanlan.zhihu.com/p/166437903    //btfs挖矿教程和挖到的btt提到自己钱包里方法（专门给小白看的，大神飘过）。G:/TRON-US/go-btfs;--
-- https://github.com/ipfs/awesome-ipfs    //filecoin文件币
-### 数字货币
+- zk rollup    //零信任 侧链&子母链
+- https://zhuanlan.zhihu.com/p/107439021    //拜占庭容错共识算法 Byzantine Generals Problem 3x+1
+## Dapp应用
+- tornado.cash    //链上混币器
+- https://github.com/gnosis/cowswap    //dex exchange layer2。G:/gnosis/gp-v2-contracts;--
+- https://www.sohu.com/a/505180194_382039    //一个 Gamefi 经济模型应该如何设计
+- https://web3.tryblockchain.org/    //js。通过solidity在dapp上运行以太坊
+- https://github.com/fingerchar/fingernft    //FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
+### Defi金融
+- https://app.anchorprotocol.com/earn    //Luna&ust双模型
 - https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
 - https://github.com/dogecoin/dogecoin.com    //狗币官网主页。
 
@@ -32,18 +56,6 @@
 - https://goframe.org/index    //Go。模块化、松耦合、生产级的Web应用框架
 - https://www.djangoproject.com    //Py。完美主义者的 Deadline 终结Web服务框架
 - https://www.palletsprojects.com/p/flask/    //Py。Web服务微框架。
-### 爬虫采集框架
-- https://github.com/s-rah/onionscan    //darkweb暗网爬虫
-- https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
-- https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
-- https://github.com/xchaoinfo/fuck-login    //模拟登录一些常见的网站
-- https://github.com/Maicius/InterestingCrawler    //抓取QQ空间说说内容并进行分析
-- https://github.com/xjr7670/QQzone_crawler    //QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
-- https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
-- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
-- https://github.com/zorlan/skycaiji/    //php。全自动蓝天采集器
-- https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
-- https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--
 
 ## 应用框架
 ### 框架源码
@@ -57,9 +69,12 @@
 - https://github.com/sunshinev/go-sword    //Go。Web CRUD管理后台生成工具
 ### 商城框架
 - https://gitee.com/leadshop/leadshop    //php。商城系统。
+- https://github.com/wangyuan389/mall-cook    //Vue.js。无代码可视化商城搭建平台
 ### 桌面客户端白屏化
 - https://github.com/nativefier/nativefier    //js。web网站转本地应用程序
 
+# 游戏开发
+- https://github.com/topics/game    //游戏集合demo。G:/XINCGer/Unity3DTraining;--
 ## 游戏框架
 - http://phaser.io/    //phaser HTML5游戏框架。P:Pixi.js;--
 - https://www.layabox.com/    //HTML5游戏开发工具
@@ -70,7 +85,7 @@
 - https://github.com/google/closure-compiler    //Js代码压缩。G:/xem/miniMinifier;--
 - https://github.com/piskelapp/piskel    //游戏像素图像制作工具
 - https://ghttps://github.com/xem/miniMusic    //游戏音效转化成 JavaScript
-### H5游戏源码
+### 页游源码
 - https://github.com/gabrielecirulli/2048
 - https://github.com/ellisonleao/clumsy-bird    //Flappy Bird
 - https://github.com/daleharvey/pacman    //吃豆先生
@@ -81,7 +96,11 @@
 - https://github.com/mozilla/BrowserQuest    //多人冒险
 - https://github.com/gustaYo/vue-chess    //国际象棋
 - https://github.com/freeciv/freeciv-web    //自由文明
-### 端游游戏源码
+### 端游源码
+- https://github.com/wesnoth/wesnoth    //C++。回合制策略游戏
+- https://github.com/teeworlds/teeworlds    //C++。多人在线射击游戏
+- https://github.com/Anuken/Mindustry    //Java。沙盒塔防游戏
+- https://github.com/veloren/veloren    //Rust。像素风格 RPG 游戏
 - https://github.com/electronicarts/CnC_Remastered_Collection/    //C++。红警Red Alert Tiberian Dawn（泰伯利亚的黎明）
 - https://github.com/fogleman/Minecraft/    //Py。我的世界Minecraft 简化版
 - https://github.com/OpenDiablo2/OpenDiablo2    //暗黑破坏神2 mod
@@ -104,7 +123,7 @@
 - https://github.com/prompt-toolkit/python-prompt-toolkit    //Python创建交互式提示命令行。
 
 ## 分析调试
-- https://github.com/zxlie/FeHelper    //前端调试助手，代码格式化、转换等。
+- https://github.com/zxlie/FeHelper    //前端调试助手，代码格式化、转换等。G:Ctool 程序开发;G:onetab;G:tabcopy //标题分享;G:/webclipper/web-clipper //网页剪切;--
 ### 加密功能
 - https://github.com/Microsoft/SymCrypt    //Windows使用的核心功能加密库
 ### 请求分析
@@ -176,6 +195,8 @@
 - https://github.com/iperov/DeepFaceLive    //人脸仿真，视频克隆
 ### 音频仿真
 - https://github.com/babysor/MockingBird    //声音克隆
+### 语音识别
+- https://github.com/PaddlePaddle/PaddleSpeech    //中英文语音识别、合成、翻译
 
 ## 机器学习
 - https://paperswithcode.com/sota    //机器学习具体项目、演示、代码
@@ -193,7 +214,8 @@
 - https://github.com/PeterL1n/BackgroundMattingV2    //华盛顿大学研究员开源的实时视频抠图工具
 - https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    //Py。轻量级人脸检测模型
 - https://github.com/NVIDIA/pix2pixHD    //Py。NVIDIA利用GANs神经网络学习的Image2Image技术。
-- https://github.com/PaddlePaddle/PaddleOCR    //百度开源OCR图像识别文本
+- https://github.com/PaddlePaddle/PaddleOCR    //百度开源OCR图像识别文本。
+- https://github.com/PaddlePaddle/PaddleClas    //电商商品图像识别系统 PP-ShiTu
 - https://github.com/iperov/DeepFaceLab    //Py。基于Faceswap定制的bat处理批版本，硬件要求低，2G显存就可以跑，支持手动截取人脸、集成所需要的素材和库文件虚拟音频视频。G:/swghosh/DeepFace Facebook;--
 - https://github.com/alievk/avatarify    //视频会议应用换脸
 - https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology    //Py。一键换装。

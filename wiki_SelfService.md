@@ -37,7 +37,7 @@
 - https://github.com/zu1k/xray-crack    //Go。xray证书社区高级版生成
 
 ## 开发外包
-- 
+- https://github.com/loonggg/DevMoneySharing    //独立开发者赚钱经验分享。GoodJob
 - https://www.fiverr.com    //美金，短期
 - https://www.upwork.com    // 美金，中长期
 - https://www.proginn.com    //程序员客栈
@@ -129,7 +129,8 @@
 - https://www.notion.so/    //项目笔记管理。mybase;--
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--
-- https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器
+- https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器。
+- https://casual-effects.com/markdeep/    //开源markdown编辑器。
 - https://www.microsoft.com/zh-cn/p/office-lens/    //微软文件扫描识别
 - https://pandoc.org/    //文档格式转换。greatjob。
 - https://www.ilovepdf.com/zh-cn    //在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
@@ -179,7 +180,7 @@
 - https://github.com/schollz/croc    //Go。点对点文件传输。
 - https://github.com/micahflee/onionshare    //PHP。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/magic-wormhole/magic-wormhole    //基于 PAKE 协议的文件加密传输隧道
-- https://github.com/filebrowser/filebrowser    //Go。基于Caddy框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
+- https://github.com/filebrowser/filebrowser    //Go。基于Caddy web服务框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    //php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
 - https://github.com/aliyun/oss-browser/    //Js。OSS Browser 提供类似windows资源管理器功能，用户可以很方便的共享文档，上传下载文件，支持断点续传等。
 - https://github.com/seemoo-lab/opendrop    //py3。基于owlink.org的Apple AirDrop文档共享实现

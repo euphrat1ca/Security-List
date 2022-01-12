@@ -22,7 +22,6 @@
 - https://echarts.baidu.com/examples/index.html#chart-type-globe    //Echart图
 - https://book.yunzhan365.com/dksd/oyru/mobile/index.html    //基于攻击链的网络威胁捕猎架构设计原型
 - http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    //科来网络攻击与防范图谱
-- https://www.anquanke.com/post/id/178339    //漏扫动态爬虫实践。pyppeteer
 - https://www.jianshu.com/p/852e0fbe2f4c    //安全产品厂商分类
 ### 产品设计文档
 - https://www.freebuf.com/sectool/135032.html/    //构建一个高交互型的难以发现的蜜罐
@@ -53,6 +52,7 @@
 - https://search.freebuf.com/search/?search=    //OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
 ### 供应链安全
 - https://github.com/visma-prodsec/confused    //go。依赖包漏洞检测
+- https://github.com/XmirrorSecurity/OpenSCA-cli    //go。扫描项目的第三方组件依赖及漏洞信息。
 ### 错误诊断
 - https://github.com/alibaba/arthas    //Java诊断工具
 
@@ -86,7 +86,7 @@
 - https://github.com/prometheus/prometheus    //Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
 - https://github.com/fabric/fabric    //Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
 - https://github.com/ayoisaiah/f2    //Go。批量重命名工具。
-### 负载均衡设计
+### 负载均衡
 - https://github.com/github/glb-director    //负载均衡组件GLB，数据解析使用了dpdk。
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    //nginx安全镜像docker一键配置。
@@ -174,6 +174,7 @@
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;--
 - http://ceye.io    //知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
 - https://github.com/opensec-cn/vtest    //Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
+- https://github.com/phith0n/conote-community    //Py。短域名+dnslog
 - https://github.com/ismailtasdelen/hackertarget    //Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。在线网络安全工具。
 - https://github.com/uknowsec/SharpNetCheck    //C#。配合如wmiexec、psexec等横向工具进行批量检测内网是否出网。
 - https://github.com/ultrasecurity/webkiller    //Py。ip信息、端口服务指纹、蜜罐探测、bypass cloudflare。
@@ -214,19 +215,20 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings    //Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    //10w行渗透测试命令
 
+# 链上风险
 ## 区块安全建设
-- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
-- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
-- tornado.cash    //链上混币器
-- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 - https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    //慢雾余弦:区块链生态安全是一场真枪实弹的战争
-### 区块链安全分析
-- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具
+### 智能合约审计
+- https://github.com/zjuchenyuan/whalerank    //追踪链上鲸鱼，合约互动行为分析。
+### 链上安全分析
+- https://github.com/quoscient/octopus    //区块链智能合约安全分析工具。W:honeypot.is;--
 - https://github.com/ConsenSys/mythril-classic    //以太坊智能协议区块链安全分析工具。
 - https://github.com/dmuhs/teatime    //Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
+- https://github.com/Rivaill/ethtx_ce    //Py。以太坊交易分析工具，Peckshield EthTx 二开跨链。
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
+- https://www.coinonpro.com/news/toutiao/199581.html    //闪电贷的攻击与防御
 ### 区块链checklist
 - https://www.freebuf.com/articles/blockchain-articles/176668.html    //空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://paper.seebug.org/1546/    //智能合约漏洞系列 -- 运行平台科普篇

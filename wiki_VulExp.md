@@ -98,7 +98,11 @@
 - https://www.cnblogs.com/xiaozi/p/11767841.html    //阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    //Py。针对TPM(可信平台防篡改设备模块)CVE-2018-6622漏洞利用工具。
 
-## Web漏洞利用漏洞
+## 应用组件漏洞
+- https://github.com/uknowsec/BurpSuite-Extender-fastjson    //Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
+- https://github.com/CaijiOrz/fastjson-1.2.47-RCE    //Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit //利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
+- https://www.cnblogs.com/tr1ple/p/11243640.html    //Imagetragick 命令执行漏洞（CVE-2016–3714）图片编辑器
+## Web应用漏洞
 - https://github.com/r0eXpeR/redteam_vul    //红队中易被攻击的一些重点系统漏洞整理
 - https://github.com/SecWiki/CMS-Hunter    //CMS工具漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
 - https://github.com/CHYbeta/cmsPoc    //CMS渗透测试框架。G:/chuhades/CMS-Exploit-Framework;--
@@ -114,9 +118,6 @@
 - https://www.corben.io/atlassian-crowd-rce/    //Java。atlassian crowd CVE-2019-11580。
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    //CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/RhinoSecurityLabs/CVEs    //CVE-2019-0227 Apache Axis RCE命令执行，AIX,EPSON,UNITRENDS,Memu,AudioCodes,Nvidia,CompleteFTP。
-### Web组件漏洞
-- https://github.com/uknowsec/BurpSuite-Extender-fastjson    //Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
-- https://github.com/CaijiOrz/fastjson-1.2.47-RCE    //Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit //利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
 ### Thinkphp漏洞
 - https://github.com/theLSA/tp5-getshell    //Py2。thinkphp5 rce漏洞检测工具。
 - https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection    //thinkphp v5.x 远程代码执行漏洞-POC集合。
@@ -134,10 +135,6 @@
 ### Discuz漏洞
 - https://paper.seebug.org/1144/    //Discuz X3以后漏洞总结
 - https://github.com/code-scan/dzscan    //首款集成化的Discuz扫描工具
-### 网关接口CGI漏洞
-- 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
-- https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi。
-- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271。
 ### C#/.Net服务漏洞
 - https://github.com/pwntester/ysoserial.net    //C#。配合PowerShell生成有效负载利用.Net反序列化漏洞
 ### Python服务漏洞
@@ -150,7 +147,8 @@
 - https://github.com/frohoff/ysoserial    //java。用于生成反序列验证利用载荷。W:jackson-t.ca/runtime-exec-payloads.html/ 转化java加密指令;--
 - https://github.com/Coalfire-Research/java-deserialization-exploits    //java反序列化漏洞收集，ciscoprime/jboss/jenkins/opennms/weblogic/websphere/ysoserial。
 - https://github.com/GoSecure/break-fast-serial    //借助DNS解析来检测Java反序列化漏洞工具
-- https://github.com/gquere/CVE-2020-7931    //py。Maven框架插件Artifactory模板ssti利用执行漏洞
+- https://github.com/gquere/CVE-2020-7931    //py。Maven框架插件Artifactory模板ssti利用执行漏洞。
+- https://blog.csdn.net/wo541075754/article/details/121899105    //CVE-2021-44228 JNDI log4j RCE
 #### WildFly/Jboss中间件漏洞
 - https://github.com/joaomatosf/jexboss    //Py。扫描和检测Jboss EXP安全漏洞。jexboss exp 工具集。
 - https://www.freebuf.com/column/240174.html/    //Jboss漏洞利用。主要是未授权访问带来的文件上传（CVE-2007-1036、CVE-2010-0738、CVE-2006-5750、JBoss jmx-consoleHtmlAdaptor addURL() File Upload Vulnerability），与反序列化造成的命令执行（CVE-2015-7501、CVE-2017-7504、CVE-2017-12149、CVE-2013-4810）。
@@ -187,15 +185,21 @@
 - https://github.com/feihong-cs/ShiroExploit/    //Java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
 - https://github.com/j1anFen/shiro_attack    //Shiro反序列化漏洞综合利用。界面GUI。
 - https://github.com/pmiaowu/BurpShiroPassiveScan    //Burp插件。被动检测shiro指纹。
-### Web服务器Apache应用漏洞
+#### Apache Solr应用漏洞
 - https://github.com/artsploit/solr-injection    //基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究。
 - https://xz.aliyun.com/t/4452    //文件提取检测服务Apache tika命令执行CVE-2018-1335。
 - https://github.com/mpgn/CVE-2019-0192    //Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。
 - https://github.com/jas502n/CVE-2019-12409    //CVE-2019-12409 Apache Solr RCE。Java ManagementExtensions（JMX）错误配置。
 - https://www.freebuf.com/sectool/159970.html    //Apache Solr远程代码执行漏洞（CVE-2017-12629）从利用到入侵检测。XML外部实体扩展和命令执行。G:/wyzxxz/Apache_Solr_RCE_via_Velocity_template;--
-### Web服务器Nginx漏洞
+
+## Web服务应用漏洞
 - https://gist.github.com/Glassware123/1023720bf4787375a04f32a0c12e956a    //CVE-2020-12440_PoC nginx下http请求走私，干扰网站系统获取隐私数据。
-### 数据库漏洞
+### 网关接口CGI漏洞
+- 通用网关接口（Common Gateway Interface/CGI）是一种重要的互联网技术，可以让一个客户端，从网页浏览器向执行在网络服务器上的程序请求数据。    //CGI描述了服务器和请求处理程序之间传输数据的一种标准。
+- https://github.com/wofeiwo/webcgi-exploits    //Web CGI Exploits。php fastcgi；python uwsgi；PHP+nginx RCE（CVE-2019-11043） fastcgi。
+- http://www.moonsec.com/post-389.html    //GNU BASH漏洞远程检测工具。cgi-bin/Bash Shellshock破壳漏洞CVE-2014-6271。
+
+## 数据库应用漏洞
 - https://github.com/euphrat1ca/CVE-2020-0618    //SQL Server Reporting Services利用```ysoserial.net```远程代码执行。
 - https://github.com/oliver006/redis_exporter    //Go。redis未授权访问，主从复制写shell。
 - https://github.com/r35tart/RedisWriteFile    //Py。通过 Redis 主从写出无损文件，可以写系统执行文件，也可以用无杂质覆写 Linux 中的 /etc/shadow。

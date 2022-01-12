@@ -14,7 +14,7 @@
 ### 设备编程器
 - https://www.openplcproject.com/plcopen-editor/    //openplc三件套之设备编程器。G:/thiagoralves/OpenPLC_Editor;--
 ### 车联网仿真
-- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真
+- https://github.com/zombieCraig/ICSim/    //C。车联网can总线协议仿真。
 ### 物联网仿真
 - https://github.com/RabitW/IoTSecurityNAT    //IoT测试系统，方便快速接入各种设备，进行安全测试。
 ### Scada系统组态

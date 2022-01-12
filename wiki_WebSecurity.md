@@ -168,6 +168,7 @@
 - https://github.com/stamparm/DSXS    //支持GET、POST方式的高效XSS扫描器
 - https://github.com/bsmali4/xssfork    //Py。利用无头浏览器进行xss测试，kali下载PhantomJS驱动到目录"thirdparty/phantomjs/Linux"。
 - https://github.com/riusksk/FlashScanner    //flash xss扫描。
+- https://www.anquanke.com/post/id/263107    //DOM XSS 存储型XSS自动检测与验证模型。G:/AsaiKen/dom-based-xss-finder;--
 ### XSS漏洞利用平台框架
 - https://github.com/beefproject/beef    //JS,Ruby。BeEF跨平台Web浏览器渗透测试工具。
 - https://xss.fbisb.com/    //在线XSS利用平台，xss练习靶场。W:xsshs.cn;xss.wtf;xsspt.com;xs.ax;--
