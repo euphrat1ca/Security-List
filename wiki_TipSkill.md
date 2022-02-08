@@ -12,20 +12,37 @@
 
 # 区块链&智能合约
 - https://www.chainnews.com/    //链闻，系统化学习区块链知识。
+- https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
+- https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
+## 链上应用
+- tornado.cash    //链上混币器
+- https://app.anchorprotocol.com/earn    //Luna&ust&mim 经济模型
+- https://defillama.com/about    //DeFi（去中心化金融） TVL 聚合器
+- debank
+- dextool
+- https://dune.xyz/    //链上数据sql聚合查询分析
+- https://www.coinbk.xyz/    链上应用聚合
+## 链上开发
+- https://zhuanlan.zhihu.com/p/59651447    //于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
+- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
+- https://awesomenear.com/categories/defi/    //区块分片技术
+## Dapp应用
+- https://github.com/gnosis/cowswap    //dex exchange layer2。G:/gnosis/gp-v2-contracts;--
+- https://www.sohu.com/a/505180194_382039    //一个 Gamefi 经济模型应该如何设计
+- https://web3.tryblockchain.org/    //js。通过solidity在dapp上运行以太坊
+- https://github.com/fingerchar/fingernft    //FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
+- https://github.com/dogecoin/dogecoin.com    //狗币官网主页。
 - https://awesomenear.com/categories/defi/    //near公链项目demo。G:/near-examples/place;--
 - https://github.com/terra-money/awesome-terra    //Luna生态项目
 - https://github.com/ipfs/awesome-ipfs    //filecoin文件币
 - https://github.com/pancakeswap    //defi swap
-- https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
-## 链上开发
-- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
-- https://awesomenear.com/categories/defi/    //区块分片技术
 ### 链上钱包
+- https://github.com/walletlink/walletlink    //Wallet Connect 支持多种 Web3 钱包登录的 SDK
 - https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸;--
 - https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14    //区块链钱包原理 密钥/助记词
 - https://wallet.near.org/    //区块链开发sso认证
-### 区块证明
+## 区块证明
 - https://awesomeopensource.com/projects/miner    //开源挖矿项目
 - https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工，门罗币。
 - https://github.com/Mining-Addiction/PhoenixMiner_5.5c_Windows_AMD_NVIDIA_Hidden_CMD    //PhoenixMiner cmd命令行隐藏版
@@ -34,16 +51,6 @@
 - https://zhuanlan.zhihu.com/p/166437903    //btfs挖矿教程和挖到的btt提到自己钱包里方法（专门给小白看的，大神飘过）。G:/TRON-US/go-btfs;--
 - zk rollup    //零信任 侧链&子母链
 - https://zhuanlan.zhihu.com/p/107439021    //拜占庭容错共识算法 Byzantine Generals Problem 3x+1
-## Dapp应用
-- tornado.cash    //链上混币器
-- https://github.com/gnosis/cowswap    //dex exchange layer2。G:/gnosis/gp-v2-contracts;--
-- https://www.sohu.com/a/505180194_382039    //一个 Gamefi 经济模型应该如何设计
-- https://web3.tryblockchain.org/    //js。通过solidity在dapp上运行以太坊
-- https://github.com/fingerchar/fingernft    //FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
-### Defi金融
-- https://app.anchorprotocol.com/earn    //Luna&ust双模型
-- https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
-- https://github.com/dogecoin/dogecoin.com    //狗币官网主页。
 
 # 编程相关
 ## Web框架
@@ -75,6 +82,7 @@
 
 # 游戏开发
 - https://github.com/topics/game    //游戏集合demo。G:/XINCGer/Unity3DTraining;--
+- https://www.bilibili.com/read/cv11012077    //B站弹幕互动游戏开发
 ## 游戏框架
 - http://phaser.io/    //phaser HTML5游戏框架。P:Pixi.js;--
 - https://www.layabox.com/    //HTML5游戏开发工具

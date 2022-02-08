@@ -56,6 +56,10 @@
 ### 错误诊断
 - https://github.com/alibaba/arthas    //Java诊断工具
 
+## 低代码平台
+- https://github.com/imcuttle/mometa    //TypeScript。低代码元编程，代码可视编辑，辅助编码工具
+
+
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    //快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    //JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
@@ -63,6 +67,7 @@
 - https://zhuanlan.zhihu.com/p/43716885/    //使用knockd管理高危端口。
 ### 自动化运维
 - https://github.com/n8n-io/n8n    //工作流自动化工具
+- https://github.com/caprover/one-click-apps    //自动化部署、一键打包应用
 ### ACL策略权限
 - https://github.com/canix1/ADACLScanner    //Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    //Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
@@ -77,8 +82,8 @@
 - https://www.cnblogs.com/jurendage/p/12653865.html    //TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://github.com/star7th/showdoc    //JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    //JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
-- https://github.com/mockoon/cli    //图形化api mock快速搭建工具。
-- https://www.postman.com/    //API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;--
+- https://github.com/mockoon/cli    //图形化api mock搭建工具，api管理。
+- https://www.postman.com/    //API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;W:apifox.cn--
 ### 运维管理
 - https://github.com/Tencent/bk-job    //Java。蓝鲸作业平台（Job）脚本管理系统
 - https://github.com/jumpserver/jumpserver    //Python3。开源堡垒机跳板机。
@@ -121,6 +126,7 @@
 - https://github.com/knqyf263/trivy    //Go。针对容器的漏洞扫描器。G:/cr0hn/dockerscan;--
 - https://github.com/P3GLEG/WhaleTail    //根据docker镜像生成dockerfile
 ### Kubernetes集群安全
+- https://forum.butian.net/share/1095    //云原生之Kubernetes安全
 - https://github.com/aquasecurity/kube-hunter    //Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    //Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
 - https://github.com/kabachook/k8s-security/    //bash,Py。k8s安全配置。
@@ -262,9 +268,10 @@
 - https://github.com/thinkst/canarytokens    //Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码/蜜标。
 
 ## 安全风控建设
-- https://github.com/threathunterX/nebula    //LUA/Perl。威胁猎人开源"星云"业务风控系统
+- https://github.com/threathunterX/nebula    //LUA,Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    //Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - https://github.com/xdite/internet-security    //互联网金融企业安全与风控的实战手册。资安风控。
+- https://help.aliyun.com/document_detail/73845.html    //相同的card_id在十分钟内，在两个不同的location发生刷卡现象，就会触发报警机制，以便监测信用卡盗刷等现象。
 
 ## 安全运营建设
 - 公众号：终端安全运营年度笔记    //
