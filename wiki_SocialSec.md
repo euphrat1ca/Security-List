@@ -103,10 +103,14 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    //一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
+- https://hackmd.io/@yBpKEsxORheI8AJoIiZj1Q/BkHtjA1k9    //Quick and Dirty Anon Building Guide 隐私框架快速搭建
+- https://www.privacytools.io/    //常用隐私工具汇总
+### 服务器隐匿
 - https://github.com/leitbogioro/Fuck_Aliyun    //关闭阿里云监控服务
 - https://www.anquanke.com/post/id/195011    //暗度陈仓：基于国内某云的 Domain Fronting 技术实践。CDN域前置。
 - https://www.freebuf.com/sectool/232555.html    //利用Cloudflare Worker来隐藏C2基础设施。CDN域前置。G:/Berkeley-Reject/workers-proxy;--
-- https://www.anquanke.com/post/id/220868    //TechTeach。利用heroku（容器云平台）隐藏C2服务器。
+- https://www.anquanke.com/post/id/220868    //TechTeach。利用heroku（容器云平台）服务器隐藏C2。
+- https://mp.weixin.qq.com/s/Vrd8hWgPnK1bh1Ggj33NtQ    //一个基于区块链网络的匿名远控。P:CobaltStrike 区块链网络上线方式及检测;G:/Maka8ka/NGLite;G:/nknorg/nkn-tunnel;--
 ### 隐匿流量洋葱路由
 - https://www.torproject.org/    //洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
 - https://github.com/globaleaks/Tor2web    //darkweb暗网代理服务器，将onion的服务变为普通的服务

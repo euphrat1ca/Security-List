@@ -40,7 +40,7 @@
 #### 安卓HOOK利用
 - https://github.com/rovo89/Xposed    //C++。Android动态修改hook，隐藏root执行权限。
 - https://taichi.cool/    //安卓Xposed魔改框架太极，可加载 Xposed 模块、修改系统和APP、拦截方法，执行 hook 逻辑等，支持免root与Magisk模式。greatjob。社区版。
-- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:/asLody/VirtualApp;--
+- https://github.com/android-hacker/VirtualXposed    //Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:/asLody/VirtualApp;W:太极 两仪--
 - https://github.com/Fuzion24/JustTrustMe    //Java。App证书SSL注入抓包。xposed插件。
 - https://github.com/monkeylord/XServer    //xposed插件。注入拦截方法调用，进行通信协议加密、混淆的分析。
 

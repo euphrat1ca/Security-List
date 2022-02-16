@@ -224,10 +224,11 @@
 - https://github.com/m8r0wn/ldap_search    //Py。通过ldap（轻量目录访问协议）认证，列举win域信息，爆破登录。
 - https://github.com/NetSPI/ESC    //C#,PS。利用sqlserve数据库攻击系统。
 
-## 密钥搜集
+## 文件搜集
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。Win下V2.4相较于V2.3抓取到的内容会少一些。greatjob。
 - https://github.com/moonD4rk/HackBrowserData    //Golang。跨平台浏览器密码、历史记录、书签、cookie抓取。goodjob。G:/QAX-A-Team/BrowserGhost;G:/hayasec/360SafeBrowsergetpass;--
 - https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。GOODJOB。G:/z1Ro0/get_TeamViewer_ID_Password;--
+- https://github.com/mrd0x/EvilSelenium    //chrome文件抓取、本地库读取
 ### Windows密钥收集
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码利用DPAPI破解升级版 需要Windows user密码。
 - https://github.com/putterpanda/mimikittenz    //PS。类Lazagne架构密钥抓取，利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--
@@ -236,7 +237,7 @@
 - https://github.com/nettitude/Invoke-PowerThIEf    //利用IE进行后渗透，抓取密码、重定向等。
 - https://github.com/0x09AL/RdpThief    //C++。RDP密码抓取明文。G:/citronneur/rdpy;--
 - https://github.com/Arvanaghi/SessionGopher    //PS。基于wmi进行WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop密码抓取。
-### Linux密钥收集
+### Linux密钥搜集
 - https://github.com/huntergregal/mimipenguin    //C。Linux密码抓取。
 - https://www.cnblogs.com/KevinGeorge/p/12937328.html/    /intro。Linux内存凭据提取mimipenguin。
 - https://github.com/mthbernardes/sshLooter    //ssh服务用户名密码窃取。'ssh knowhost免登录'
@@ -256,6 +257,7 @@
 - https://github.com/rebootuser/LinEnum    //Bash。对Linux系统可提权检测。goodjob,2k。Github:/linuxprivchecker;G:/jondonas/linux-exploit-suggester-2;Github:/belane/linux-soft-exploit-suggester;G:/nilotpalbiswas/Auto-Root-Exploit;G:/WazeHell/PE-Linux;--
 - 内核漏洞、定时任务、Suid文件、Sudo 配置错误、NFS共享、第三方服务
 - https://guif.re/linuxeop    //linux提权命令集合。P:/Ignitetechnologies/Privilege-Escalation //Linux下的提权方法总结;--
+- https://github.com/berdav/CVE-2021-4034    //Linux polkit  pkexec提权
 
 # 权限维持
 - https://mp.weixin.qq.com/s/SavldFETaFea3l7kVX2RyA    //公众号：ATT&CK 之后门持久化

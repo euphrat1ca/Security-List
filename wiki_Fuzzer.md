@@ -85,6 +85,7 @@
 - https://github.com/hyb1996/Auto.js    //js。安卓平台上的JavaScript自动化工具。
 - http://appium.io/    //iOS、Android自动化测试。UIAutomation、XCTest、KIF等。
 - https://github.com/liriliri/eruda    //JS。移动网页前端开发调试工具。G:/Tencent/vConsole;--
+- https://docs.hamibot.com/    //Auto.js。Android 平台 JavaScript 自动化工具，群控脚本。G:/hamibot/hamibot;--
 
 ## 压测泛洪
 - https://github.com/ywjt/Dshield    //Py。DDOS防护。

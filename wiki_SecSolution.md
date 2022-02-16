@@ -225,6 +225,9 @@
 ## 区块安全建设
 - https://github.com/xianlimei/yiwei.github.io/wiki    //私有云、区块链安全研究，rasp、waf、主机安全产品介绍
 - https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    //慢雾余弦:区块链生态安全是一场真枪实弹的战争
+### 智能合约安全
+- https://peckshield.medium.com/    //派盾安全审计报告
+- https://www.blocksecteam.com/    //合约设计报告
 ### 智能合约审计
 - https://github.com/zjuchenyuan/whalerank    //追踪链上鲸鱼，合约互动行为分析。
 ### 链上安全分析
@@ -235,6 +238,7 @@
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    //公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    //区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://www.coinonpro.com/news/toutiao/199581.html    //闪电贷的攻击与防御
+- https://github.com/GGCCCC/airdrop_multi_claim    //合约群撸空投羊毛工具
 ### 区块链checklist
 - https://www.freebuf.com/articles/blockchain-articles/176668.html    //空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://paper.seebug.org/1546/    //智能合约漏洞系列 -- 运行平台科普篇

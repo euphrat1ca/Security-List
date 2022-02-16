@@ -79,7 +79,7 @@
 - https://support.automationdirect.com/firmware/binaries.html    //AutomationDirect
 - https://github.com/euphrat1ca/NOE77101_Firmware    //The Schneider Electric Quantum Ethernet Module 140NOE77101 Firmware。
 
-## 物联网安全
+## 物联网安全工具
 - https://github.com/threat9/routersploit    //Py3。类msf物联网漏洞利用框架。goodjob。
 - https://tools.ietf.org/html/rfc793/    //treck tcp/ip协议的rfc文档，JSOF_Ripple20_Technical_Whitepaper_June20（Ripple20:19个0 day漏洞 白皮书）。
 - https://github.com/jiansiting/ripple20-poc    //Py。基于ICMP_MS_SYNC的ripple20 poc。

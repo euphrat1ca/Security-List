@@ -32,6 +32,7 @@
 - https://www.elastic.co/cn/security    //Elastic Security SIEM威胁检测与端点防护和响应。P:Limitless XDR //SIEM和 Endpoint Security 功能;--
 - https://github.com/elastic/detection-rules    //Elastic Security主机防护规则。
 - https://github.com/baidu/openrasp    //Runtime Application Self-Protection实时应用自我保护，支持语言栈定制。goodjob。G:/baidu-security/openrasp-iast //IAST扫描器交互式漏洞挖掘;--
+- http://www.jrasp.com/    //Java Runtime Application Self-Protection。G:jvm-rasp;--
 - https://github.com/bytedance/Elkeid    //字节跳动安全团队开源自研HIDS，Elkeid Agent，Elkeid Driver，Elkeid RASP，Elkeid Server，Elkeid HUB组成，execve、定制化的syscall hook等内核态信息。P:AuditD是Linux自身的审计系统中的一个用户态工具，将SYSCALL调用、文件读写操作等行为记录写入磁盘，AuditD支持多种监听事件的配置和定制，实践中常用于作为反入侵/违规审计的数据源;G:/EBWi11/AgentSmith-HIDS;--
 - https://github.com/ysrc/yulong-hids    //Go。驭龙HIDS入侵检测系统，Agent/Daemon/Server/Web。
 - https://labs.360.cn/malwaredefender/    //HIPS (主机威胁防护)，用户可以自己编写规则来防范病毒、木马的侵害，同时Malware Defender提供了很多有效的工具来检测和删除已经安装在计算机系统中的恶意软件。

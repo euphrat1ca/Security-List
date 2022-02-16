@@ -11,7 +11,7 @@
 - https://github.com/Drakkar-Software/OctoBot    //Python。BTC币量化机器人，对接交易所api。G:/freqtrade/freqtrade;--
 
 # 区块链&智能合约
-- https://www.chainnews.com/    //链闻，系统化学习区块链知识。
+- https://www.chainnews.com/    //区块链知识链闻。
 - https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
@@ -27,6 +27,7 @@
 - https://zhuanlan.zhihu.com/p/59651447    //于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
 - https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
 - https://awesomenear.com/categories/defi/    //区块分片技术
+- https://docs.antchain.antgroup.com/myfish    //蚂蚁链。W:yuque.com/antchain-fe/blog/cryptofish;--
 ## Dapp应用
 - https://github.com/gnosis/cowswap    //dex exchange layer2。G:/gnosis/gp-v2-contracts;--
 - https://www.sohu.com/a/505180194_382039    //一个 Gamefi 经济模型应该如何设计
@@ -201,6 +202,7 @@
 - https://github.com/wangshub/RL-Stock    //Py3。使用深度学习进行量化交易
 ### 视频仿真
 - https://github.com/iperov/DeepFaceLive    //人脸仿真，视频克隆
+- https://github.com/bilibili/ailab/tree/main/Real-CUGAN    //老动画复原
 ### 音频仿真
 - https://github.com/babysor/MockingBird    //声音克隆
 ### 语音识别
