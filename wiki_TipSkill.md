@@ -13,7 +13,6 @@
 # 区块链&智能合约
 - https://www.chainnews.com/    //区块链知识链闻。
 - https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
-- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
 ## 链上应用
 - tornado.cash    //链上混币器
@@ -24,6 +23,8 @@
 - https://dune.xyz/    //链上数据sql聚合查询分析
 - https://www.coinbk.xyz/    链上应用聚合
 ## 链上开发
+- https://github.com/dvf/blockchain    //用Python从零开始创建区块链
+- https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
 - https://zhuanlan.zhihu.com/p/59651447    //于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
 - https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
 - https://awesomenear.com/categories/defi/    //区块分片技术

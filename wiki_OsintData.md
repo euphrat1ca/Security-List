@@ -204,7 +204,6 @@
 ### 企业人员信息搜集
 - https://hunter.io/    //企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    //全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
-- https://github.com/x0day/Multisearch-v2    //Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息
 - https://github.com/vysec/MaiInt    //公司雇员信息收集测试工具
 - https://github.com/jofpin/trape    //Py。利用OSINT对人员进行追踪定位。4k。
 - https://www.truthfinder.com    //美国公民信息查询。商业版。
@@ -230,8 +229,6 @@
 
 ## Web信息搜集
 - https://www.virustotal.com/    //在线威胁狩猎。包含pdns、文件、网址、域名、IP检测。W:crt.sh/;W:spyse.com/;W:securitytrails.com/#search;W:dnsdumpster.com/;--
-- https://www.shodan.io/    //老牌空间测绘。W:zoomeye.org;W:censys.io/;W:oshadan.com;W:spyse.com;--
-- https://www.fofa.so    //白帽汇空间测绘。G:/zsdevX/DarkEye;G:/tangxiaofeng7/Fofa-collect;G:/uknowsec/Fofa-gui;G:/x51/fofahelper;--
 - https://zhifeng.io/mobile/online.html    //灯塔移动端互联网感知引擎，附近iot设备发现。
 - https://hackertarget.com/ip-tools/    //提供api、ip相关工具，在线扫描器，工具文章研究博客。W:tools.bugscaner.com/;W:safeweb.norton.com;--
 - https://www.freebuf.com/articles/network/276069.html    //如何通过查询Google Analytics ID来获取相关联的域名和子域名

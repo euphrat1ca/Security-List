@@ -65,12 +65,13 @@
 ### 爬虫采集框架
 - https://github.com/s-rah/onionscan    //darkweb暗网爬虫
 - https://github.com/alphardex/looter    //轻量型爬虫框架，类比Scrapy
-- https://github.com/luyishisi/Anti-Anti-Spider    //过反爬虫
-- https://github.com/xchaoinfo/fuck-login    //模拟登录一些常见的网站
+- https://github.com/luyishisi/Anti-Anti-Spider    //反爬虫防护绕过
+- https://github.com/CharlesPikachu/DecryptLogin    //网站模拟登陆
+- https://github.com/CriseLYJ/awesome-python-login-model    //Py。基于selenium网站登录
 - https://github.com/Maicius/InterestingCrawler    //抓取QQ空间说说内容并进行分析
+- https://github.com/xchaoinfo/fuck-login    //模拟登录网站，停止维护
 - https://github.com/xjr7670/QQzone_crawler    //QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
-- https://github.com/CriseLYJ/awesome-python-login-model    //Py。各大网站登陆方式
-- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，可做漏洞预警系统设计。
+- https://github.com/tikazyq/crawlab    //Py3。分布式任务管理爬虫，漏洞预警系统设计。
 - https://github.com/zorlan/skycaiji/    //php。全自动蓝天采集器。
 - https://github.com/kangvcar/InfoSpider    //Py3。爬虫工具箱，针对使用者所拥有的众多数据源进行数据搜集。
 - https://github.com/chaitin/rad    //xray配套Rad爬虫，带有无头浏览器登录录制。goodjob。G:/0Kee-Team/crawlergo;G:/jaeles-project/gospider;--

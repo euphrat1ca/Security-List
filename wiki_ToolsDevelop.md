@@ -105,6 +105,7 @@
 - https://github.com/ring04h/wyportmap    //调用nmap目标端口扫描+系统服务指纹识别
 - https://github.com/cloudflare/flan    //Py。cloudflare基于nmap开发的漏洞检测工具
 ### Masscan相关工具
+- https://github.com/knownsec/ksubdomain    //Go。与网卡直接交互无状态子域名爆破
 - https://github.com/offensive-security/masscan-web-ui/    //PHP。Masscan WebGui。
 
 ## Kali系统拓展插件

@@ -153,6 +153,7 @@
 - https://github.com/upx/upx    //UPXShell（Ultimate Packer for eXecutables）文件压缩，通过动态配置文件增加到upx后续可以进行动态免杀。
 - https://github.com/AlkenePan/KAP    //Go。实现 ELF 文件保护。goodjob。
 - https://github.com/phra/PEzor    //CobaltStrike插件。基于Mingw-w64的PE文件加壳过杀软。
+- https://bitwarden.com/    //跨平台密钥管理。G:/bitwarden/server;1Password、LastPass、Enpass;--
 ### 文件混淆免杀
 - https://github.com/1y0n/AV_Evasion_Tool    //C#。掩日免杀执行器二进制、shellcode，配合`tdm64-gcc`生成。界面GUI。G:/TheWover/donut;--
 - https://github.com/lengjibo/FourEye    //FourEye 重明免杀工具。

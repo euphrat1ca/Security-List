@@ -174,7 +174,7 @@
 - https://github.com/Al1ex/Pentest-tools    //内网渗透工具
 - https://github.com/microsoft/WindowsProtocolTestSuites    //C#。针对Windows开发规范的Windows协议测试套件。
 ### 安全测试辅助
-- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；ksubdomain 无状态子域名爆破；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
+- https://github.com/knownsec/404StarLink-Project    //知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    //渗透辅助
 - http://requestbin.net/    //Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
 - https://github.com/BugScanTeam/DNSLog    //py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;--
@@ -257,12 +257,14 @@
 - https://zhuanlan.zhihu.com/p/101989442    //5分钟了解谷歌BeyondCorp零信任安全模型。P:Airbnb的零信任架构实战案例;--
 
 ## 合规建设
-- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 - https://mp.weixin.qq.com/s/uD8xZse3TLH7vjzJOp_kxw    //网信办、工信部教我做产品！W:note.youdao.com/s/K4vFx4Ki //网信办、工信部学习资料（欢迎收藏备用）
+### 合规安全
+- https://github.com/momosecurity/bombus    //Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
+- https://mp.weixin.qq.com/s/IoVzbLSxPI3m3v47X8jB_A    //App合规实践3000问
 ### 等保安全
 - https://mp.weixin.qq.com/s/gcohsAQSHHCVoG-HlYYaeg    //公众号：等级保护测评方法（精华版）
 - https://github.com/paradiseduo/ApplicationScanner    //Python。移动端App等保测试工具。
-### 数据安全建设
+### 数据安全
 - https://github.com/mydlp    //MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
 ### 数字水印
 - https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    //Chrome开发者工具中文手册
