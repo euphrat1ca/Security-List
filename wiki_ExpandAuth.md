@@ -104,6 +104,7 @@
 - https://github.com/jgamblin/Mirai-Source-Code    //C。MIRAI蠕虫病毒源码。
 - https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    //Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。
 - https://github.com/euphrat1ca/njRAT-v0.7d    //VB。常见蠕虫远控，多session带界面。G:/mwsrc/njRAT;G:/NYAN-x-CAT/Lime-RAT;--
+- https://github.com/Egida/kek/blob/main/loader_multi.go    //BotenaGo僵尸网络。
 
 ## Shellcode利用
 - https://github.com/ionescu007/r0ak    //内核层的瑞士军刀。在Windows10内核中读/写/执行代码。

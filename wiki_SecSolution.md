@@ -105,6 +105,8 @@
 - https://github.com/trimstray/iptables-essentials    //IP table常见防火墙规则与命令。P:/Firewall App Blocker 1.7 Windows防火墙快捷操作工具;P:/Linux下防火墙 firewall-cmd;--
 - https://github.com/SELinuxProject/selinux/    //C。安全增强型Linux（Security-Enhanced Linux），通过配置增强主机防护安全防御。
 - https://github.com/torvalds/linux/blob/master/drivers/net/macsec.c    //C。利用Linux macsec进行链路层流量安全加密。
+### 内网流量安全
+- https://github.com/shellster/DCSYNCMonitor    //域控制器检测 DCSync 攻击
 ### DNS防护建设
 - https://github.com/mwrlabs/dref    //DNS 重绑定利用框架
 - https://github.com/chengr28/Pcap_DNSProxy/blob/master/README.zh-Hans.md    //Pcap DNS Proxy 是一个基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具
@@ -228,6 +230,7 @@
 ### 智能合约安全
 - https://peckshield.medium.com/    //派盾安全审计报告
 - https://www.blocksecteam.com/    //合约设计报告
+- https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec    //《区块链安全入门与实战》
 ### 智能合约审计
 - https://github.com/zjuchenyuan/whalerank    //追踪链上鲸鱼，合约互动行为分析。
 ### 链上安全分析

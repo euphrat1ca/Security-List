@@ -52,6 +52,7 @@
 - https://zh.wikihow.com    //生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    //各类破解版Mac软件
 - https://mirrors.huaweicloud.com/    //华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
+- https://github.com/fangzesheng/free-api    //免费的接口服务。goodjob
 ### 短网址
 - http://xip.io/    //302 bypass，访问这个服务的任意子域名的时候，都会重定向到这个子域名。
 - https://4m.cn/    //短域名302 bypass。

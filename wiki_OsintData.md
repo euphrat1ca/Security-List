@@ -280,6 +280,8 @@
 - https://github.com/pentester-io/commonspeak    //Bash。Linux下直接用 Google big query 查 alexa top 1M 的子域名采集 和 一些文件路径 (包含多个数据集)
 - https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/    //Shell。Google Dorks域名页面搜索。
 - https://github.com/r00tSe7en/GoogleHackingTool    //GoogleDorks漏洞语法查询。
+- https://github.com/utiso/dorkbot    //通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描
+- https://github.com/NullArray/DorkNet    //基于搜索引擎的漏洞网页搜寻
 
 ## 敏感信息挖掘
 - https://github.com/Raikia/CredNinja    //多线程用户凭证验证脚本，比如验证dump的hash是否属于此机器，利用445端口进行协议验证。
@@ -298,14 +300,6 @@
 - https://github.com/gehaxelt/ds_store    //Go。苹果电脑.Ds_Store文件解析。labs.internetwache.org/ds_store/。
 - https://github.com/admintony/svnExploit/    //Py。SVN源代码泄露全版本Dump源码
 - https://www.waitalone.cn/seay-svn-poc-donw-20140505.html    //Seay-Svn源代码1.7版本前泄露漏洞利用工具，2014-05-05版。G:/shengqi158/svnhack;--
-### Git安全相关
-- https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorks.txt    //GitHub泄露搜索Dorks
-- https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控代码信息泄露，分钟级邮件预警。G:/0xbug/Hawkeye;G:/neal1991/gshark;G:/FeeiCN/GSIL;G:/repoog/GitPrey;G:/Hell0W0rld0/Github-Hunter;--
-- https://github.com/Furduhlutur/yar    //Go。Github监控存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
-- https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
-- https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取git文件。G:/HightechSec/git-scanner;--
-- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，源代码.git泄漏利用工具。
-- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
 ### 敏感链接信息
 - https://github.com/lc/gau    //Go。敏感URL链接、子域挖掘。goodjob。
 - https://github.com/Threezh1/JSFinder    //Py。用于发现网站js文件中的url与域名
@@ -317,3 +311,12 @@
 - https://github.com/7kbstorm/7kbscan-WebPathBrute    //C#。目录路径爆破。界面GUI。P:御剑目录;P:Pker多线程后台极速扫描工具;P:Test404轻量后台扫描器;G:/fnk0c/cangibrina;G:/0daysec/webscan_dir;G:/maurosoria/dirsearch;G:/Xyntax/DirBrute;G:/abaykan/crawlbox;G:/deibit/cansina;--
 - https://github.com/UltimateHackers/Breacher    //多线程的后台路径扫描器，支持Execution After Redirect漏洞探测。G:/jerrychan807/WSPIH;G:/aipengjie/sensitivefilescan;G:/Mosuan/FileScan;G:/Xyntax/FileSensor;G:/ring04h/weakfilescan;--
 - https://github.com/Go0s/SitePathScan    //Py。基于协程的目录路径爆破工具，配合aiohttp扫描路径增速三倍。
+### Git安全相关
+- https://github.com/molly/gh-dork    //Github Dorking工具
+- https://github.com/obheda12/GitDorker/blob/master/Dorks/alldorks.txt    //GitHub泄露搜索Dorks
+- https://github.com/VKSRC/Github-Monitor    //JS。GitHub监控代码信息泄露，分钟级邮件预警。G:/0xbug/Hawkeye;G:/neal1991/gshark;G:/FeeiCN/GSIL;G:/repoog/GitPrey;G:/Hell0W0rld0/Github-Hunter;--
+- https://github.com/Furduhlutur/yar    //Go。Github监控存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
+- https://github.com/eth0izzle/shhgit    //Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
+- https://github.com/BugScanTeam/GitHack    //Py。可还原历史版本，源代码`.git`泄漏利用工具。
+- https://github.com/zricethezav/gitleaks    //Go。检查git repo中的密码信息和密钥。G:/git-hound //GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
+- https://github.com/internetwache/GitTools    //SHELL,Py3。查找、下载、提取git文件。G:/HightechSec/git-scanner;--
