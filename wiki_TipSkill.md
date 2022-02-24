@@ -214,6 +214,7 @@
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
+- copilot.github.com    //GPT-3训练自动匹配代码结构
 ### 语言集练习
 - https://github.com/fxsjy/jieba    //Py。结巴中文分词
 - https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
