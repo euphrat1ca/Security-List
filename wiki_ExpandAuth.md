@@ -230,7 +230,8 @@
 - https://github.com/AlessandroZ/LaZagne    //py3。跨平台密码抓取工具。Win下V2.4相较于V2.3抓取到的内容会少一些。greatjob。
 - https://github.com/moonD4rk/HackBrowserData    //Golang。跨平台浏览器密码、历史记录、书签、cookie抓取。goodjob。G:/QAX-A-Team/BrowserGhost;G:/hayasec/360SafeBrowsergetpass;--
 - https://github.com/uknowsec/SharpDecryptPwd/    //对Navicat,TeamViewer,FileZilla(FTP),WinSCP,Xmangager系列（Xshell,Xftp)进行凭证抓取。GOODJOB。G:/z1Ro0/get_TeamViewer_ID_Password;--
-- https://github.com/mrd0x/EvilSelenium    //chrome文件抓取、本地库读取
+- https://github.com/mrd0x/EvilSelenium    //chrome文件抓取、本地库读取。
+- https://github.com/JDArmy/SharpXDecrypt    //Xshell全版本凭证一键恢复/密码解密
 ### Windows密钥收集
 - https://github.com/AlessandroZ/LaZagneForensic    //LaZagne密码利用DPAPI破解升级版 需要Windows user密码。
 - https://github.com/putterpanda/mimikittenz    //PS。类Lazagne架构密钥抓取，利用"ReadProcessMemory()"方法从目标进程中提取纯文本密码。G:/dafthack/DomainPasswordSpray;--

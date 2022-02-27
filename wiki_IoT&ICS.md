@@ -63,7 +63,7 @@
 - https://github.com/scriptingxss/EmbedOS    //基于OVF格式的嵌入式安全测试虚拟机。预装IoTGoat固件测试环境、测试方法与工具
 - https://github.com/attify/firmware-analysis-toolkit    //基于attify规则的iot仿真系统测试工具集，包含firmadyne、Binwalk、Firmware-Mod-Kit（基于Linux的固件打包、解包）、MITMproxy、Firmwalker（扫描固件敏感文件）组件。G:/rampageX/firmware-mod-kit;--
 - https://github.com/ChrisTheCoolHut/Firmware_Slap    //Linux下通过混合分析和功能类聚相结合来发现目标固件中的安全漏洞
-- https://github.com/firmadyne/firmadyne    //bash,Py。基于QEMU虚拟机的固件仿真与分析平台。goodjob。
+- https://github.com/firmadyne/firmadyne    //Bash,Py。基于QEMU虚拟机的固件仿真与分析平台。goodjob。
 - https://github.com/cwerling/psptool    //Py。分析和解析AMD安全处理器的固件工具包。
 
 - https://github.com/e-m-b-a/emba    //Linux下嵌入式固件安全审计工具。
@@ -71,7 +71,7 @@
 - http://tongxinmao.com/Topic/Detail/id/6    //通信猫TCP/UDP调试软件。P:/TCPUDPDbg;--
 - https://github.com/dathlin/HslCommunication/    //C#。工业多协议通讯调试工具，.Net core跨平台SCADA读写。商业版。G:/dathlin/ClientServerProject;--
 - https://www.amobbs.com/thread-5703833-1-1.html    //【正点原子】XCOM串口调试助手软件。
-- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能
+- https://github.com/Skiars/SerialTool    //C++。跨平台的串口/网络调试工具，支持串口调试助手、终端、波形显示和文件传输等功能。
 ### 工控设备固件源
 - https://www.se.com/ww/en/download/    //施耐德
 - https://compatibility.rockwellautomation.com/Pages/MultiProductDownload.aspx?keyword=Firmware    //罗克韦尔

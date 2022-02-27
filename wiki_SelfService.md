@@ -127,7 +127,7 @@
 - https://app.diagrams.net/    //在线思维导图、流程图。W:draw.io;W:go.gliffy.com/go/html5/launch;--
 - https://www.processon.com/    //拓扑图、流程图，类似Visio。P:亿图;P:xmind ZEN;--
 ### 文档编辑
-- https://www.notion.so/    //项目笔记管理。mybase;--
+- https://www.notion.so/    //项目笔记管理。G:/AppFlowy-IO/AppFlowy;P:mybase;--
 - https://shimo.im/    //石墨笔记协同办公，支持三件套、思维导图、画板，需要在线。P:/腾讯文档 //支持离线，三件套;P:/语雀 //需要在线，支持文档、表格;P:/Google文档 //三件套，需要在线;W:notion.so;--
 - https://github.com/leanote/leanote/    //JS。开源笔记，类似为知笔记、envnote等。G:/giuspen/cherrytree;--
 - https://obsidian.md/    //知识图谱笔记。G:/marktext/marktext/    //js。markdown编辑器。

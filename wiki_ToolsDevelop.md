@@ -9,6 +9,7 @@
 - https://github.com/d3vilbug/HackBar    //hackbar
 - https://github.com/bit4woo/knife    //Brup右键菜单增强
 - https://github.com/bit4woo/domain_hunter_pro    //目标管理、信息搜集、工具联动。testjob。
+- https://github.com/projectdiscovery/nuclei-burp-plugin    //联动nuclei一键生成poc
 ### burp协议分析
 - https://github.com/mr-m0nst3r/Burpy    //Web端JS加密算法调试解密
 - https://github.com/c0ny1/jsEncrypter    //Web前端加密协议Fuzz爆破

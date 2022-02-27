@@ -15,21 +15,32 @@
 - https://cs251.stanford.edu/syllabus.html    //斯坦福加密货币系统性教程
 - https://www.bilibili.com/video/BV1Y64y1C7hF    //暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
 ## 链上应用
+- https://www.coinbk.xyz/    链上应用聚合
+- https://collab.land/    //机器人自动验证钱包是否持有门票token
+- chainlist.org    //钱包链绑定
+- https://zapier.com/    订阅邮件提醒
+- https://dune.xyz/    //链上数据sql聚合查询分析
+- https://studio.glassnode.com/    //大哥二哥sql数据分析
+### 匿名隐私
 - tornado.cash    //链上混币器
+### Defi应用
 - https://app.anchorprotocol.com/earn    //Luna&ust&mim 经济模型
 - https://defillama.com/about    //DeFi（去中心化金融） TVL 聚合器
-- debank
-- dextool
-- https://dune.xyz/    //链上数据sql聚合查询分析
-- https://www.coinbk.xyz/    链上应用聚合
+- debank    //Defi钱包，取消授权。W:revoke.cash;W:bscscan.com/tokenapprovalchecker;--
+- dextool    //K线
+- https://app.zerion.io/    以太坊钱包地址监控工具，可查看钱包收益情况，包括历史收益，同时支持备注名称。
+
 ## 链上开发
 - https://github.com/dvf/blockchain    //用Python从零开始创建区块链
 - https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
 - https://zhuanlan.zhihu.com/p/59651447    //于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
 - https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    //用 Django 开发基于以太坊智能合约的 DApp
 - https://awesomenear.com/categories/defi/    //区块分片技术
-- https://docs.antchain.antgroup.com/myfish    //蚂蚁链。W:yuque.com/antchain-fe/blog/cryptofish;--
-## Dapp应用
+- https://docs.antchain.antgroup.com/myfish    //蚂蚁链。W:yuque.com/antchain-fe/blog/
+cryptofish;--
+- https://gclx.xyz/    //国产良心 NFT。fomo meme goodjob。G:/brucexu-eth/gclx-official;--
+- https://github.com/ethers-io/ethers.js/    //Js。以太坊 JavaScript 库。G:/ChainSafe/web3.js;--
+### Dapp应用
 - https://github.com/gnosis/cowswap    //dex exchange layer2。G:/gnosis/gp-v2-contracts;--
 - https://www.sohu.com/a/505180194_382039    //一个 Gamefi 经济模型应该如何设计
 - https://web3.tryblockchain.org/    //js。通过solidity在dapp上运行以太坊
@@ -40,11 +51,12 @@
 - https://github.com/ipfs/awesome-ipfs    //filecoin文件币
 - https://github.com/pancakeswap    //defi swap
 ### 链上钱包
-- https://github.com/walletlink/walletlink    //Wallet Connect 支持多种 Web3 钱包登录的 SDK
-- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸;--
-- https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14    //区块链钱包原理 密钥/助记词
 - https://wallet.near.org/    //区块链开发sso认证
-## 区块证明
+- https://wallet.trezor.io/    //热钱包 imtoken、tokpocket、onekey。G:/RabbyHub/Rabby;G:/MetaMask/metamask-extension //小狐狸;--
+- https://github.com/walletlink/walletlink    //Wallet Connect 支持多种 Web3 钱包登录的 SDK
+- https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14    //区块链钱包原理 密钥/助记词
+- https://github.com/Web3Modal/web3modal    //Web3 链接钱包 React 组件
+### 区块证明
 - https://awesomeopensource.com/projects/miner    //开源挖矿项目
 - https://github.com/xmrig/xmrig    //RandomX，CryptoNight，AstroBWT和Argon2 CPU / GPU矿工，门罗币。
 - https://github.com/Mining-Addiction/PhoenixMiner_5.5c_Windows_AMD_NVIDIA_Hidden_CMD    //PhoenixMiner cmd命令行隐藏版
@@ -214,7 +226,6 @@
 - https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/    //麻省理工机器学习视频
 - https://github.com/clone95/Data-Science-Study-Paths-March-2019    //以 TensorFlow 和 Scikit-learn 的机器学习框架的基础库为例，详细介绍了如何成为一名机器学习工程师
 - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes    //吴恩达机器学习
-- copilot.github.com    //GPT-3训练自动匹配代码结构
 ### 语言集练习
 - https://github.com/fxsjy/jieba    //Py。结巴中文分词
 - https://github.com/thunlp/THULAC-Python    //Py。清华中文分词
