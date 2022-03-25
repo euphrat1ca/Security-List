@@ -61,6 +61,7 @@
 - https://github.com/trojan-gfw    --C++。跨平台代理服务。G:/p4gefau1t/trojan-go --CDN加强版/自动证书申请/多路复用/路由功能;--
 - https://iyideng.vip/black-technology/cgfw/trojan-go.html    --trojan一键部署。G:/Jrohy/trojan --webgui管理多用户管理部署程序;G:/V2RaySSR/Trojan/;--
 ### 游戏加速器
+- https://github.com/wangyu-/UDPspeeder    --C++。双边网络加速工具。G:/wangyu-/udp2raw/ --UDP协议伪装;G:/wangyu-/tinyfecVPN/;--
 - https://cmy2.network/register?aff=iydcc    --CMYNetwork红莓网络
 - https://justmysocks.xyz/justmysocks-v2ray/    --搬瓦工加速器
 - https://free.v2x-nav.ml/    --飞机加速器。W:psiphon3.com;W:mono.sh --mymonocloud;W:windscribe.com;W:hide.me;--
@@ -80,6 +81,8 @@
 - https://github.com/teddysun/across    --秋水逸冰一键安装脚本。G:/Nyr/openvpn-install;--
 - https://ocserv.gitlab.io    --VPN服务端 Cisco Anyconnect 替代品
 - https://help.aliyun.com/document_detail/65374.html    --strongswan IPsec VPN。G:/quericy/one-key-ikev2-vpn;--
-- https://blog.mozcp.com/wireguard-usage/    --WireGuard 配置和上网流量优化，规避 QOS 限速/dns优化。G:/atrandys/wireguard;W:teddysun.com/554.html;G:/angristan/wireguard-install;--
+- https://github.com/slackhq/nebula    --Go。跨平台P2P异地组网。P:tailscale;P:zerotier;--
+- https://docs.netmaker.org/quick-start.html    --Go。基于 WireGuard mesh network 网状网络网络控制工具。G:/gravitl/netmaker/blob/master/scripts/nm-quick.sh;W:nip.io --泛域名解析;--
+- https://blog.mozcp.com/wireguard-usage/    --WireGuard 配置和上网流量优化，规避 QOS 限速/dns优化。G:/atrandys/wireguard;W:teddysun.com/554.html;G:/angristan/wireguard-install/;--
 - https://www.wireguard.com/install/    --基于UDP跨平台VPN协议，一键组网切换。G:/WireGuard/wireguard-go;--
 - http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，跨平台、多重协议的虚拟专用网方案。
