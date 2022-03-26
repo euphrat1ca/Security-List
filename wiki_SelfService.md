@@ -29,11 +29,10 @@
 - https://www.sordum.org/    --Windows免费工具，防火墙操作、权限控制、网络诊断等
 - https://github.com/RoliSoft/WSL-Distribution-Switcher    --Py3。Windows下Linux子系统WSL管理工具
 - https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
-- https://paofu.cloud/    --泡芙云
 ### 注册机keygen
-- https://github.com/DoubleLabyrinth/MobaXterm-keygen    --Py。putty远程服务管理工具,MobaXterm注册机。G:/github.com/HyperSine/;--
-- https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver;G:/github.com/HyperSine/;--
-- https://github.com/DoubleLabyrinth/winrar-keygen    --C++。A keygen for WinRAR注册机。G:/github.com/HyperSine/;--
+- https://github.com/DoubleLabyrinth/MobaXterm-keygen    --Py。putty远程服务管理工具，MobaXterm注册机。G:/HyperSine/;--
+- https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver/;--
+- https://github.com/DoubleLabyrinth/winrar-keygen    --C++。A keygen for WinRAR注册机。
 - https://github.com/zsdlove/fortify-license-crack    --fortify去除证书校验。
 - https://github.com/zu1k/xray-crack    --Go。xray证书社区高级版生成
 

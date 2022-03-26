@@ -60,11 +60,11 @@
 - https://itunes.apple.com/us/app/kitsunebi-proxy-utility/    --美区V2ray IOS客户端，PP助手IPA文件。P:Shadowrocket;P:Pepi;P:i2Ray;P:Quantumult;--
 - https://github.com/trojan-gfw    --C++。跨平台代理服务。G:/p4gefau1t/trojan-go --CDN加强版/自动证书申请/多路复用/路由功能;--
 - https://iyideng.vip/black-technology/cgfw/trojan-go.html    --trojan一键部署。G:/Jrohy/trojan --webgui管理多用户管理部署程序;G:/V2RaySSR/Trojan/;--
-### 游戏加速器
-- https://github.com/wangyu-/UDPspeeder    --C++。双边网络加速工具。G:/wangyu-/udp2raw/ --UDP协议伪装;G:/wangyu-/tinyfecVPN/;--
+### 游戏加速
+- https://github.com/wangyu-/UDPspeeder    --C++。双边网络加速工具speederv2。G:/wangyu-/udp2raw/ --UDP协议伪装;G:/wangyu-/tinyfecVPN/;--
 - https://cmy2.network/register?aff=iydcc    --CMYNetwork红莓网络
 - https://justmysocks.xyz/justmysocks-v2ray/    --搬瓦工加速器
-- https://free.v2x-nav.ml/    --飞机加速器。W:psiphon3.com;W:mono.sh --mymonocloud;W:windscribe.com;W:hide.me;--
+- https://free.v2x-nav.ml/    --飞机加速器。W:psiphon3.com;W:mono.sh --mymonocloud;W:windscribe.com;W:hide.me;W:paofu.cloud/;--
 - https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    --免费加速器
 - https://github.com/ntkernel/lantern    --蓝灯无限流量unlimited-landeng-for-win
 - https://xn--15qp3au64eprx.com/auth/login    --海外加速器
