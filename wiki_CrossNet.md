@@ -86,10 +86,12 @@
 ### VPN虚拟网络
 - https://github.com/teddysun/across    --秋水逸冰一键安装脚本。G:/Nyr/openvpn-install;--
 - https://ocserv.gitlab.io    --VPN服务端 Cisco Anyconnect 替代品
+- http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，L2TP GUI。
 - https://help.aliyun.com/document_detail/65374.html    --strongswan IPsec VPN。G:/quericy/one-key-ikev2-vpn;--
 - https://github.com/slackhq/nebula    --Go。跨平台P2P异地组网。P:tailscale;P:zerotier;--
+#### WireGuard
+- https://www.wireguard.com/install/    --基于UDP跨平台VPN协议，一键组网切换。G:/atrandys/wireguard;W:teddysun.com/554.html/;G:/angristan/wireguard-install/;
+- https://naiv.fun/Ops/53.html    --安装 Wireguard 并组建中心辐射型网络。G:/WireGuard/wireguard-go;G:/P3TERX/script/blob/master/wireguard-go.sh;G:/P3TERX/wireguard-go-builder/releases/latest;--
 - https://docs.netmaker.org/quick-start.html    --Go。基于 WireGuard mesh network 网状网络网络控制工具。G:/gravitl/netmaker/blob/master/scripts/nm-quick.sh;W:nip.io --泛域名解析;--
-- https://blog.mozcp.com/wireguard-usage/    --WireGuard 配置和上网流量优化，规避 QOS 限速/dns优化。G:/atrandys/wireguard;W:teddysun.com/554.html/;G:/angristan/wireguard-install/;--
-- https://www.wireguard.com/install/    --基于UDP跨平台VPN协议，一键组网切换。G:/WireGuard/wireguard-go;--
+- https://github.com/subspacecommunity/subspace    --Wireguard Server GUI。G:/ViRb3/wgcf--
 - https://tunsafe.com/download    --wg客户端。W:wireguardconfig.com/;--
-- http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，L2TP GUI。
