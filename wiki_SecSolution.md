@@ -234,24 +234,26 @@
 - https://peckshield.medium.com/    --派盾安全审计报告
 - https://www.blocksecteam.com/    --合约设计报告
 - https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec    --《区块链安全入门与实战》
-### 智能合约审计
-- https://github.com/zjuchenyuan/whalerank    --追踪链上鲸鱼，合约互动行为分析。
-### 链上安全分析
-- https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
-- https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
-- https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
-- https://github.com/Rivaill/ethtx_ce    --Py。以太坊交易分析工具，Peckshield EthTx 二开跨链。
-- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
-- https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://www.coinonpro.com/news/toutiao/199581.html    --闪电贷的攻击与防御
-- https://github.com/GGCCCC/airdrop_multi_claim    --合约群撸空投羊毛工具
-### 区块链checklist
+- https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链checklist，EOS bp nodes security checklist（EOS超级节点安全执行指南）
 - https://www.freebuf.com/articles/blockchain-articles/176668.html    --空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://paper.seebug.org/1546/    --智能合约漏洞系列 -- 运行平台科普篇
 - https://paper.seebug.org/1580/    --智能合约安全系列——EOS 菠菜应用篇
 - https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
 - https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列 -- 举一反三总结篇
 - https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA    --以太坊智能合约中的社会工程攻击
+- https://twitter.com/0x14os/status/1506212934212808713    --如何通过mint进行NFT钓鱼攻击分析记录
+### 智能合约审计
+- https://github.com/zjuchenyuan/whalerank    --追踪链上鲸鱼，合约互动行为分析。
+- https://github.com/defieye    --defi资金追踪
+- https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
+- https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
+- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
+### 链上安全分析
+- https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
+- https://github.com/Rivaill/ethtx_ce    --Py。以太坊交易分析工具，Peckshield EthTx 二开跨链。
+- https://github.com/GGCCCC/airdrop_multi_claim    --合约群撸空投羊毛工具
+- https://github.com/flashbots/simple-arbitrage    --夹子机器人
 
 ## IPv6安全建设
 - https://github.com/sfan5/fi6s    --ipv6端口快速扫描器
@@ -272,6 +274,7 @@
 - https://github.com/paradiseduo/ApplicationScanner    --Python。移动端App等保测试工具。
 ### 数据安全
 - https://github.com/mydlp    --MyDLP是一种简单，简单和开放的DLP（数据丢失预防）解决方案
+- https://github.com/bytedance/godlp    --字节数据DLP
 ### 数字水印
 - https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools    --Chrome开发者工具中文手册
 - https://github.com/saucxs/watermark-dom    --基于DOM对象实现的BS系统的水印

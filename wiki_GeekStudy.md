@@ -211,7 +211,8 @@
 - https://github.com/m0xiaoxi/AWD_CTF_Platform    --CTF-AWD 训练平台
 ### CTF杂项
 - https://github.com/adon90/pentest_compilation    --ctf比赛与OSCP考试中常见的知识点和命令
-- https://www.wishingstarmoye.com/ctf/autokey    --CTF在线工具集合。密码/隐写/二维码/哈希/编码/激战2？？？/。
+- https://www.wishingstarmoye.com/ctf/autokey    --CTF在线工具集合，密码/隐写/二维码还原/哈希/编码。
+- https://github.com/beurtschipper/Depix    --Python。二维码水印还原。G:/BishopFox/unredacter;--
 ### CTF攻防AWD
 - https://edwardchoijc.github.io/CTF线下AWD经验总结.html/    --CTF攻防AWD经验总结
 - https://github.com/NEALWE/AWD_FrameWork    --Py3。awd框架，比赛常用脚本。

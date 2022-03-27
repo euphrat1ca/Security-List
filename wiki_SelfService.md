@@ -102,6 +102,7 @@
 - https://letsencrypt.org/    --免费证书注册分发机构。
 - https://www.freenom.com    --注册免费域名注册。W:namesilo.com;W:dnspod.cn;--
 - https://github.com/luolongfei/freenom    --php。freenom域名申请自动续期。
+- https://github.com/acmesh-official/acme.sh/    --ACME协议letsencrypt证书生成
 
 ## 协同办公
 - https://sadd.io/    --在线操作系统
@@ -199,6 +200,7 @@
 ### 素材剪辑
 - https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    --.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
+- https://github.com/tannerhelland/PhotoDemon    --Photoshop开源替代
 - http://live.weibo333.com/     --B站直播录制
 - http://www.shotcut.org/    --视频剪辑。P:Filmora;--
 - https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--

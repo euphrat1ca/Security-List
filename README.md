@@ -47,7 +47,7 @@
 # 社会工程
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SocialSec.md    --社工钓鱼、隐私防护、密码破解、主动反制。myWiki。
 # 转发映射代理
-- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_SocketProxy.md    --端口映射，代理穿透，流量代理转发。mywiki。
+- https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_CrossNet.md    --端口映射，代理穿透，流量代理转发。mywiki。
 # 信息服务
 - https://github.com/euphrat1ca/security_w1k1/blob/master/wiki_TipSkill.md    --计算机技术相关。myWiki。
 # 拓展插件

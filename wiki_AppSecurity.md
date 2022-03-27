@@ -44,6 +44,7 @@
 - https://github.com/android-hacker/VirtualXposed    --Java。基于VirtualApp 和 epic 免root使用xposed。greatjob。商业版。G:/asLody/VirtualApp;W:太极 两仪--
 - https://github.com/Fuzion24/JustTrustMe    --Java。App证书SSL注入抓包。xposed插件。
 - https://github.com/monkeylord/XServer    --xposed插件。注入拦截方法调用，进行通信协议加密、混淆的分析。
+- https://github.com/LSPosed/LSPosed    --edxposed进化版。P:Magisk分区;--
 
 ### macOS/IOS应用安全
 - https://github.com/pwn20wndstuff/Undecimus/    --iOS 11.0 - 12.4全版本越狱。

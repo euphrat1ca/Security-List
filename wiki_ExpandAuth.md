@@ -100,6 +100,7 @@
 - https://github.com/panda-re/lava    --批量恶意程序注入
 - https://github.com/malwaredllc/byob    --僵尸网络生成框架
 - https://github.com/deadPix3l/CryptSky/    --勒索病毒源码
+- https://github.com/Ed1s0nZ/banana_blackmail/    --Go。勒索软件demo
 - https://github.com/ReddyyZ/DeathRansom/       --Py3。基于PySide2界面的勒索软件，支持沙盒检测、反调试、反病毒
 - https://github.com/jgamblin/Mirai-Source-Code    --C。MIRAI蠕虫病毒源码。
 - https://blog.netlab.360.com/ttint-an-iot-rat-uses-two-0-days-to-spread/    --Ttint: 一款通过2个0-day漏洞传播的IoT远控木马。基于mirai。

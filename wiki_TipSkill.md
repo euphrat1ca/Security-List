@@ -6,7 +6,7 @@
 - https://github.com/nusr/hacker-laws-zh    --开发定律
 ## 量化交易
 - https://www.fmz.com/    --发明者量化交易平台
-- https://cn.tradingview.com/    --图表、行情、交易观点策略
+- https://cn.tradingview.com/    --图表、行情、交易观点策略，交易数据。W:glassnode;W:金十数据;--
 - http://pirogue.org/2020/06/24/quant/    --试水区块链量化交易
 - https://github.com/Drakkar-Software/OctoBot    --Python。BTC币量化机器人，对接交易所api。G:/freqtrade/freqtrade;--
 

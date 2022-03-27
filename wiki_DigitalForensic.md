@@ -44,6 +44,7 @@
 - https://clonezilla.org/downloads.php    --再生龙(Clonezilla)是一个免费的灾难恢复、硬盘克隆、硬盘映像档制作的部署和解决方案,由台湾的国家高速网络与计算中心(国网中心)所开发
 - https://github.com/Viralmaniar/Remote-Desktop-Caching-    --Py。RDP信息复原，png图片格式。
 - - https://github.com/decalage2/oletools    --Py。用于分析MS OLE2文件（结构化存储，复合文件二进制格式）和MS Office文档。
+- https://zhuanlan.zhihu.com/p/453030502    --Macrium Reflect 磁盘克隆 uefi引导 diskpart删除health recovery进行磁盘恢复
 #### Windows内存取证
 - https://github.com/google/rekall    --Py。提取和分析数字Windows计算机系统
 - https://github.com/volatilityfoundation/volatility    --Py。计算机内存取证

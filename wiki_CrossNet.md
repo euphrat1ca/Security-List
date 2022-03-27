@@ -48,10 +48,12 @@
 - https://github.com/Umbrellazc/BypassCampusNet    --校园网防断网，UDP 53 免流上网。
 - https://ding-doc.dingtalk.com/doc#/kn6zg7/hb7000    --钉钉内网穿透。G:/open-dingtalk/pierced;--
 ### Shadowsocks代理
-- https://doubibackup.com/    --一个逗比写的各种逗比脚本。/ToyoDAdoubiBackup/doubi/;G:/shadowsocks/go-shadowsocks2;G:/HirbodBehnam/Shadowsocks-Cloak-Installer;
-- https://github.com/guyingbo/shadowproxy    --ss socks5 http https 等多种网络代理。
 - https://github.com/Anankke/SSPanel-Uim    --PHP。基于 ss-panel-v3-mod多用户管理面板
 - https://github.com/ssrpanel/SSRPanel    --ss ssr v2ray用户分布式管理。G:/xuanhuan/ss-panel;G:/shadowsocks/shadowsocks-manager;G:/Ehco1996/django-sspanel;G:/leitbogioro/SSR.Go;--
+- https://doubibackup.com/    --一个逗比写的各种逗比脚本。/ToyoDAdoubiBackup/doubi/;G:/shadowsocks/go-shadowsocks2;--
+- https://github.com/shadowsocksrr/shadowsocksr    --酸酸乳。G:/WooSoftware/shadowsocksr-origin;--
+- https://github.com/guyingbo/shadowproxy    --ss socks5 http https 等多种网络代理。
+- https://github.com/ginuerzh/gost    //基于shadowsocks-go库的socket代理
 ### V2ray&Trojan
 - https://github.com/v2fly/fhs-install-v2ray    ---Go。Vemss\Vless网络框架服务端安装。G:/233boy/v2ray/wiki/V2Ray一键安装脚本;G:/wulabing/V2Ray_ws-tls_bash_onekey/--
 - https://github.com/AstralHope/v2-ui    --Py。多协议租户的 v2ray 面板。G:/Jrohy/multi-v2ray;G:/vaxilu/x-ui;--
@@ -61,13 +63,17 @@
 - https://github.com/trojan-gfw    --C++。跨平台代理服务。G:/p4gefau1t/trojan-go --CDN加强版/自动证书申请/多路复用/路由功能;--
 - https://iyideng.vip/black-technology/cgfw/trojan-go.html    --trojan一键部署。G:/Jrohy/trojan --webgui管理多用户管理部署程序;G:/V2RaySSR/Trojan/;--
 ### 游戏加速
-- https://github.com/wangyu-/UDPspeeder    --C++。双边网络加速工具speederv2。G:/wangyu-/udp2raw/ --UDP协议伪装;G:/wangyu-/tinyfecVPN/;--
+- https://github.com/shadowsocks/v2ray-plugin    --基于Nginx流量混淆http。G:/shadowsocks/simple-obfs/;--
+- https://github.com/cbeuw/Cloak    --流量加密审查规避。G:/HirbodBehnam/Shadowsocks-Cloak-Installer;--
+- https://github.com/wangyu-/udp2raw/ --UDP协议伪装。G:/wangyu-/tinyfecVPN/;--
+- https://ssr.tools/588    --ss+kcptun+udp2raw bypass qos。G:/233boy/udp2raw/;G:/kuoruan/shell-scripts/;--
+- https://github.com/wangyu-/UDPspeeder    --C++。双边网络加速工具speederv2。
+- https://github.com/xtaci/kcptun    --Go。基于KCP协议的UDP隧道。G:/skywind3000/kcp;G:/clangcn/kcp-server;--
+- https://gitee.com/ragnaroks/KcptunGUI    --C#。kcptun配置工具。G:/dfdragon/kcptun_gclient/;G:/GangZhuo/kcptun-gui-windows/;--
 - https://cmy2.network/register?aff=iydcc    --CMYNetwork红莓网络
 - https://justmysocks.xyz/justmysocks-v2ray/    --搬瓦工加速器
-- https://free.v2x-nav.ml/    --飞机加速器。W:psiphon3.com;W:mono.sh --mymonocloud;W:windscribe.com;W:hide.me;W:paofu.cloud/;--
-- https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    --免费加速器
+- https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md    --飞机加速器。W:psiphon3.com;W:mono.sh --mymonocloud;W:windscribe.com;W:hide.me;W:paofu.cloud/;--
 - https://github.com/ntkernel/lantern    --蓝灯无限流量unlimited-landeng-for-win
-- https://xn--15qp3au64eprx.com/auth/login    --海外加速器
 - https://suying222.net/auth/register?code=9Hrs    --海外加速器
 
 ## Cross自组网
@@ -83,6 +89,7 @@
 - https://help.aliyun.com/document_detail/65374.html    --strongswan IPsec VPN。G:/quericy/one-key-ikev2-vpn;--
 - https://github.com/slackhq/nebula    --Go。跨平台P2P异地组网。P:tailscale;P:zerotier;--
 - https://docs.netmaker.org/quick-start.html    --Go。基于 WireGuard mesh network 网状网络网络控制工具。G:/gravitl/netmaker/blob/master/scripts/nm-quick.sh;W:nip.io --泛域名解析;--
-- https://blog.mozcp.com/wireguard-usage/    --WireGuard 配置和上网流量优化，规避 QOS 限速/dns优化。G:/atrandys/wireguard;W:teddysun.com/554.html;G:/angristan/wireguard-install/;--
+- https://blog.mozcp.com/wireguard-usage/    --WireGuard 配置和上网流量优化，规避 QOS 限速/dns优化。G:/atrandys/wireguard;W:teddysun.com/554.html/;G:/angristan/wireguard-install/;--
 - https://www.wireguard.com/install/    --基于UDP跨平台VPN协议，一键组网切换。G:/WireGuard/wireguard-go;--
-- http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，跨平台、多重协议的虚拟专用网方案。
+- https://tunsafe.com/download    --wg客户端。W:wireguardconfig.com/;--
+- http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，L2TP GUI。
