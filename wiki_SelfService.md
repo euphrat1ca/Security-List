@@ -31,7 +31,7 @@
 - https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    --Py。putty远程服务管理工具，MobaXterm注册机。G:/HyperSine/;--
-- https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver/;--
+- https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver/releases;--
 - https://github.com/DoubleLabyrinth/winrar-keygen    --C++。A keygen for WinRAR注册机。
 - https://github.com/zsdlove/fortify-license-crack    --fortify去除证书校验。
 - https://github.com/zu1k/xray-crack    --Go。xray证书社区高级版生成

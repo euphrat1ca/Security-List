@@ -8,7 +8,7 @@
 - https://ai.google/research/pubs/?area=SecurityPrivacyandAbusePrevention    --谷歌安全解决方案
 - https://aws.amazon.com/cn/blogs/security/    --亚马逊安全建设
 - https://code.fb.com/category/security/    --Facebook安全建设
-- http://www.freebuf.com/articles/ics-articles/178822.html    --浅析煤炭企业如何进行工控安全建设
+- http://www.freebuf.com/articles/ics-articles/178822.html    --浅析煤炭企业如何进行工控安全建设。
 - https://www.sec-un.org/金融业企业安全建设之路/    --金融业企业安全建设之路。niejun
 - https://blogs.cisco.com/tag/ios-security    --思科网络设备操作维护系统IOS（互联网操作系统Internetwork Operating System）
 - https://shield.mitre.org/attack_mapping/    --ATT&CK主动防御图谱。引导-收集-遏制-检测-扰乱-促进-合法化-实验测试
@@ -46,7 +46,8 @@
 - https://github.com/JacksonBruce/AntiXssUF    --C#。跨站脚本攻击（XSS）过滤器，以白名单的过滤策略，支持多种过滤策略。
 - "网页安全政策"（Content Security Policy，缩写 CSP）防御xss，可以通过网页meta标签和http头。开启httponly；更换chrome；
 - https://github.com/leizongmin/js-xss    --根据白名单过滤 HTML(防止 XSS 攻击)
-- https://github.com/cure53/DOMPurify    --基于 HTML、MathML 和 SVG对DOM标签进行过滤配置
+- https://github.com/cure53/DOMPurify    --基于 HTML、MathML 和 SVG对DOM标签进行过滤配置。
+- https://github.com/microcosm-cc/bluemonday    --Go。HTML sanitizer XSS过滤
 ### Web安全开发
 - https://www.bbsmax.com/A/1O5EvMgyd7/    --CORS（跨域资源共享）的防御机制
 - https://search.freebuf.com/search/?search=    --OWASP Top 10 2017 10项最严重的 Web 应用程序安全风险
@@ -57,18 +58,27 @@
 - https://github.com/alibaba/arthas    --Java诊断工具
 
 ## 低代码平台
-- https://github.com/imcuttle/mometa    --TypeScript。低代码元编程，代码可视编辑，辅助编码工具
+- https://github.com/imcuttle/mometa    --TypeScript。弱代码元编程，代码可视编辑，辅助编码工具
 - https://yaoapps.com/    --Go。通过JSON的无代码开发套件。G:/YaoApp/yao;--
-- copilot.github.com    --GPT-3训练自动匹配代码结构，AI自动写代码
+- https://copilot.github.com    --GPT-3训练自动匹配代码结构，AI自动写代码。
+- https://github.com/sparrow-js/sparrow    --Js。低代码平台
 
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    --快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    --JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 - https://github.com/ngbdf/redis-manager    --Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 - https://zhuanlan.zhihu.com/p/43716885/    --使用knockd管理高危端口。
-### 自动化运维
+### 自动化运维管理
 - https://github.com/n8n-io/n8n    --工作流自动化工具
-- https://github.com/caprover/one-click-apps    --自动化部署、一键打包应用
+- https://github.com/caprover/one-click-apps    --自动化部署、一键打包应用。
+- https://github.com/Tencent/bk-job    --Java。蓝鲸作业平台（Job）脚本管理系统
+- https://github.com/jumpserver/jumpserver    --Python3。开源堡垒机跳板机。
+- https://github.com/zhaojh329/rtty    --C。web堡垒机，终端访问。
+- https://github.com/prometheus/prometheus    --Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
+- https://github.com/fabric/fabric    --Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
+- https://github.com/ayoisaiah/f2    --Go。批量重命名工具。
+- https://www.gnu.org/software/parallel/    --Linux并行执行shell命令&软件技巧。awk;grep;--
+- https://github.com/joerick/pyinstrument    --快速定位运行最慢的代码
 ### ACL策略权限
 - https://github.com/canix1/ADACLScanner    --Powershell3。AD域的DACLs、SACLs报表生成。
 - https://github.com/cahi1l1yn/aclAuditor/    --Py。网络设备ACL策略隐患审计，支持华为、华三、思科、锐捷等主流品牌的路由、交换、防火墙。
@@ -85,21 +95,12 @@
 - https://github.com/ymfe/yapi    --JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
 - https://github.com/mockoon/cli    --图形化api mock搭建工具，api管理。
 - https://www.postman.com/    --API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;W:apifox.cn--
-### 运维管理
-- https://github.com/Tencent/bk-job    --Java。蓝鲸作业平台（Job）脚本管理系统
-- https://github.com/jumpserver/jumpserver    --Python3。开源堡垒机跳板机。
-- https://github.com/zhaojh329/rtty    --C。web堡垒机，终端访问。
-- https://github.com/prometheus/prometheus    --Go。Google BorgMon监控系统的开源版本，支持通过配置文件、文本文件、Zookeeper、Consul、DNS SRV Lookup等方式指定抓取目标。
-- https://github.com/fabric/fabric    --Py。通过SSH远程shell批量执行命令。P:expect;P:PsExec;P:MSF session -C “命令”;--
-- https://github.com/ayoisaiah/f2    --Go。批量重命名工具。
 ### 负载均衡
 - https://github.com/github/glb-director    --负载均衡组件GLB，数据解析使用了dpdk。
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    --nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    --nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    --在线nginx配置文件生成，W:nginxconfig.io;--
-### 常见软件技巧
-- https://www.gnu.org/software/parallel/    --Linux并行执行shell命令。awk;grep;--
 
 ## 办公网安全建设
 - https://github.com/sgabe/SymlinkProtect    --Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
@@ -121,6 +122,7 @@
 - https://github.com/riskscanner/riskscanner    --公有云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则
 - https://github.com/mrknow001/aliyun-accesskey-Tools    --记一次阿里云主机泄露Access Key到Getshell
 - https://github.com/tmobile/pacbot    --Java。云平台自动化安全监控工具。
+- https://github.com/open-falcon    --GO,Py。Falco是一款由Sysdig开源的进程异常行为检测工具，能够检测传统主机上的应用程序，也能够检测容器环境和云平台（主要是Kubernetes和Mesos）。Github:/falcosecurity/falco;--
 ### 容器安全
 - https://cloud.tencent.com/developer/article/1621185    --【云原生攻防研究】针对容器的渗透测试方法
 - https://vulnerablecontainers.org    --对公开docker容器镜像漏洞扫描对标CVE号
@@ -132,9 +134,11 @@
 - https://github.com/chaitin/veinmind-tools    --基于veinmind-sdk打造的容器安全工具集
 ### Kubernetes集群安全
 - https://forum.butian.net/share/1095    --云原生之Kubernetes安全
+- https://github.com/kabachook/k8s-security/    --bash,Py。k8s安全配置。
+- https://jimmysong.io/kubernetes-hardening-guidance/    --Kubernetes加固指南。G:/rootsongjc/kubernetes-hardening-guidance;--
 - https://github.com/aquasecurity/kube-hunter    --Py。采用了KHV + 数字进行漏洞编号，云原生环境Kubernetes框架漏洞扫描工具。W:info.aquasec.com/kubernetes-security;--
 - https://github.com/inguardians/peirates    --Go。Kubernetes集群的渗透测试工具，专注于权限提升和横向移动。
-- https://github.com/kabachook/k8s-security/    --bash,Py。k8s安全配置。
+- https://github.com/skelsec/kerberoast/    --Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;P:kerberosGui;--
 - https://github.com/aquasecurity/kube-bench    --Go。k8s安全基线测试工具。W:cisecurity.org/benchmark/kubernetes;--
 - https://mp.weixin.qq.com/s/a7EtloE3guwfsRXD1m7IHg    --k8s sec 简易指南（攻击面及加固）
 ### 亚马逊AWS安全相关
@@ -182,8 +186,8 @@
 - https://github.com/knownsec/404StarLink-Project    --知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    --渗透辅助
 - http://requestbin.net/    --Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;--
-- http://ceye.io    --知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;--
+- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;G:/projectdiscovery/interactsh-web/;G:/Buzz2d0/Hyuga;--
+- http://ceye.io    --知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;W:app.interactsh.com;--
 - https://github.com/opensec-cn/vtest    --Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/phith0n/conote-community    --Py。短域名+dnslog
 - https://github.com/ismailtasdelen/hackertarget    --Py。Use open source tools and network intelligence to help organizations with attack surface discovery and identification of security vulnerabilities。在线网络安全工具。

@@ -3,6 +3,7 @@
 - https://github.com/snapshot-labs/snapshot    --Js。去中心化交易协议Balancer推出链下治理投票平台，dao组织去中心化群组空间，通过提供签名为社区提案投票。W:snapshot.org;--
 ## 通讯服务
 - https://github.com/aqiongbei/buy_pig_plan    --JS。利用客服系统电话轰炸机。G:/xxcosmos/buy_pig_plan_python;--
+- https://github.com/OpenIMSDK/Open-IM-Server    --即时通讯 IM 系统
 ### 通讯插件
 - https://github.com/dplusec/tgwechat/    --类似于Telegram架构，安全加密方案实现的保护个人隐私安全的pc微信聊天插件。W:dplusec.com。
 - https://bbs.pediy.com/thread-224988.htm    --Intro。[原创]PC微信发送消息研究

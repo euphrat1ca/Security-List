@@ -164,6 +164,7 @@
 - https://github.com/w3h/isf    --py2。基于NSA工具Fuzzbunch攻击框架开发的工控测试框架。工匠实验室。
 - https://github.com/digitalbond/Basecamp    --针对工业项目Project Basecamp开发的Metasploit模块利用。功能码（0x5a）问题。
 - https://github.com/otoriocyber/CIMPLICITY-Hardening-Tool    --通用电气(General Electric) CIMPLICITY 工控机利用工具。
+- https://mp.weixin.qq.com/s/dz12L62Yv0dVtYE9VOCImQ    --2021工控PLC安全编码最佳实践Top20
 ### 工业场景攻防演练
 - https://collaborate.mitre.org/attackics/index.php/Main_Page    --ICS工业安全。ATT&CK for ICS。
 - https://zhuanlan.zhihu.com/p/93070821    --工控CTF技能点学习总结。

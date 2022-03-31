@@ -48,7 +48,7 @@
 - https://quitten.github.io/Firefox/    --利用浏览器(file:///home/user/) Bug使用钓鱼html读取客户端文件
 - https://github.com/r4j0x00/exploits    --chrome漏洞，--no-sandbox下JS命令执行
 - https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera    --敏感信息泄漏
-### 远程应用服务漏洞
+### 远程管理工具漏洞
 - https://github.com/blacknbunny/libSSH-Authentication-Bypass    --CVE-2018-10933 libssh服务端身份验证绕过。G:/leapsecurity/libssh-scanner;--
 - https://www.jianshu.com/p/726a3791b5b9    --OpenSSH用户枚举漏洞（CVE-2018-15473）
 - https://github.com/yogeshshe1ke/CVE/blob/master/2019-7690/mobaxterm_exploit.py    --Py。MobaTek MobaXterm Personal Edition v11.1 Build 3860窃取ssh密钥。CVE-2019-7690。
@@ -62,6 +62,7 @@
 - https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    --CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;--
 - https://github.com/projectzeroindia/CVE-2019-11510    --Pulse Secure SSL VPN上的任意文件读取（CVE-2019-11510）。GoodJob。
 - https://github.com/mu0gua/VulnPOC    --OpenSSL心脏滴血heartbleed漏洞批量利用;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;--
+- https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md    --CVE-2021-26084 Remote Code Execution
 ### 安全工具漏洞
 - https://github.com/WyAtu/CVE-2018-20250    --Py。WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    --ZIPBOMB压缩包炸弹
@@ -186,7 +187,8 @@
 - https://github.com/feihong-cs/ShiroExploit/    --Java。Shiro550（硬编码秘钥）和Shiro721（Padding Oracle）检测，配合dnslog记录、shiro-urldns回显。G:/nsightglacier/Shiro_exploit;G:/potats0/shiroPoc;--
 - https://github.com/j1anFen/shiro_attack    --Shiro反序列化漏洞综合利用。界面GUI。
 - https://github.com/pmiaowu/BurpShiroPassiveScan    --Burp插件。被动检测shiro指纹。
-#### Apache Solr应用漏洞
+#### Apache服务漏洞
+- https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013    --Apache HTTP Server(2.4.49/2.4.50) RCE
 - https://github.com/artsploit/solr-injection    --基于Lucene的全文搜索服务器Apache Solr Injection等漏洞集合研究。
 - https://xz.aliyun.com/t/4452    --文件提取检测服务Apache tika命令执行CVE-2018-1335。
 - https://github.com/mpgn/CVE-2019-0192    --Apache Solr远程命令执行漏洞。apache solr dataimporthandler RCE。jmx反序列化。

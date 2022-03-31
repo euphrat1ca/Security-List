@@ -63,25 +63,26 @@
 - https://github.com/samratashok/Kautilya    --PS。为人机接口设备提供各种有效负载的工具包。
 - https://github.com/kenvix/USBCopyer    --C#。U盘文件自动拷贝usb copy。
 - https://github.com/RedDrip7/USB-Bootkit    --物理接触目标计算机时，将恶意USB设备隐蔽的接入到目标计算机硬件设备内（如主板、USB外部设备等）。内置在隐蔽USB设备中的Bootkit攻击代码，在计算机启动时优先于操作系统运行，从而劫持系统加载过程，实现隐蔽的Bootkit攻击。
-## 无线安全
+## 无线安全WLAN
 - https://openwrt.org/    --C。针对嵌入式设备的Linux操作系统。G:/coolsnowwolf/lede --Lean's OpenWrt 中文;--
 - https://github.com/seemoo-lab/frankenstein    --JS,C。无线固件的虚拟仿真环境。G:/nekromant/esp8266-frankenstein;--
 - https://github.com/open-sdr/openwifi    --C。焦博士的首款开源Wi-Fi基带芯片设计openwifi。
-### WIFI密码破解
+### WIFI信息获取
 - https://github.com/cls1991/ng    --Py。获取你当前连接wifi的密码与ip。
-- http://www.rt68.cn/    --小林无线在线握手跑包。
-- https://cn.elcomsoft.com/ewsa.html    --wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3。
-- https://www.passcape.com    --wifipr 握手包密码还原，另外还有windows下密码还原工具。商业版。
+- https://www.wifipineapple.com/downloads    --Wifi-Pineapple大菠萝nano固件。G:/blunderbuss-wctf/wacker;--
+- https://github.com/yearnwang/wifipineaplle_dwall_log    --PHP。大菠萝dwall日志输出加强。
+- https://bbs.pediy.com/thread-246627.htm    --打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。G:/spacehuhn/esp8266_deauther/--
+- https://github.com/GONZOsint/geowifi    --Py3。通过BSSID和SSID定位WiFi并获取地理位置数据。
 ### WIFI网络审计
 - https://github.com/aircrack-ng/aircrack-ng    --C。airmon-ng数据包嗅探器、airodump-ng扫描检测器、aireplay-ng取消认证攻击、WPA / WPA2-PSK 解密器、WEP 和用于 802.11 无线局域网的分析工具。P:;--
 - http://topspeedsnail.com    --常见的wifi破解、网站扫描技术演示。
 - https://www.wifislax.com    --西班牙wifi审计系统国内汉化版无线革新5.1.1 Wifislax-WRC。wifi kali系统类。
-- https://www.wifipineapple.com/downloads    --Wifi-Pineapple大菠萝nano固件。G:/blunderbuss-wctf/wacker;--
-- https://github.com/yearnwang/wifipineaplle_dwall_log    --PHP。大菠萝dwall日志输出加强。
-- https://bbs.pediy.com/thread-246627.htm    --打造Wi-Fi “DOS”攻击工具——Wi-Fi_deauther。G:/spacehuhn/esp8266_deauther/--
+- http://www.rt68.cn/    --小林无线在线握手跑包。
+- https://cn.elcomsoft.com/ewsa.html    --wifi嗅探，握手包密码还原，EWSA-173-HC1UW-L3EGT-FFJ3O-SOQB3。
+- https://www.passcape.com    --wifipr 握手包密码还原，另外还有windows下密码还原工具。商业版。
 - https://github.com/MisterBianco/BoopSuite    --无线网络审计工具，支持2-5GHZ频段。
 - https://github.com/derv82/wifite2    --wifite无线安全渗透测试套件，联动aircrack-ng与reaver。G:/savio-code/fern-wifi-cracker;G:/P0cL4bs/WiFi-Pumpkin;G:/entropy1337/infernal-twin;G:/m4n3dw0lf/PytheM;G:/InfamousSYN/rogue;--
-- https//www.zimperium.com/zanti-mobile-penetration-testing    --移动端wifi渗透工具。G:/chrisk44/Hijacker;--
 - https://github.com/wi-fi-analyzer/fluxion    --窃取用户wifi密码的进行密码重放攻击。G:/0v3rl0w/e013;--
 - https://github.com/t6x/reaver-wps-fork-t6x    --常见wifi攻击wps跑pin码攻击。
 - https://github.com/tomacwrt/tomacwrt.github.io    --基于OpenWRT硬件设备的渗透工具，配合Nexx WT3020F等类似于TP-LinkMR3040的路由
+- https//www.zimperium.com/zanti-mobile-penetration-testing    --移动端wifi渗透工具。G:/chrisk44/Hijacker;--

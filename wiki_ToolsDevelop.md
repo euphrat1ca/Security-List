@@ -33,10 +33,11 @@
 ## Cobaltstrike拓展插件
 - https://www.cobaltstrike.com/aggressor-script/index.html    --脱离MSF之后的Aggressor Script 成为了开源脚本引擎 Cortana 的接班人
 - https://bbs.ichunqiu.com/thread-53015-1-1.html    --[思路/技术] Cobaltstrike系列教程(十)安装扩展。
-- https://wbglil.gitbook.io/cobalt-strike    --基础，进阶，原理。
+- https://wbglil.gitbook.io/cobalt-strike    --Cobaltstrike基础，进阶，原理。
 - https://github.com/dcsync/pycobalt    --Py3。Python API for Cobalt Strike
 - https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/    --RedCore红队学院CSTips
-- https://github.com/verctor/CS_xor64    --Java。生成cobaltstrike破解版所需的`xor64.bin`
+- https://github.com/verctor/CS_xor64    --Java。生成cobaltstrike破解版所需的`xor64.bin`。
+- https://github.com/Twi1ight/CSAgent/    --Java。Cobaltstrike汉化加载器。
 ### cobalt strike插件集合
 - https://github.com/harleyQu1nn/AggressorScripts/    --收集脚本介绍 ![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
 - https://github.com/rsmudge/cortana-scripts    --Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。

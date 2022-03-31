@@ -32,6 +32,7 @@
 - https://github.com/royhills/arp-scan    --C。ARP协议主机设备发现。
 - https://github.com/Rvn0xsy/OXID-Find    --Py。通过OXID解析器获取Windows指定IP/C段远程主机上网卡地址。G:/r35tart/GetIPinfo;G:/uknowsec/SharpOXID-Find;P:netdiscover;--
 - https://github.com/projectdiscovery/mapcidr    --Go。子网CIDR扫扫描器。
+- https://github.com/cckuailong/hostscan    --Go。ip扫描host碰撞
 ### 资产指纹识别
 - https://github.com/AliasIO/Wappalyzer    --JS。网站指纹识别。资产库，Chrome扩展。5k。G:/l3m0n/whatweb;G:/Lucifer1993/cmsprint;G:/boy-hack/gwhatweb;G:/zerokeeper/WebEye;n4xh4ck5/CMSsc4n;G:/Ms0x0/Dayu;G:/0xbug/Howl;G:/jekyc/wig;G:/tanjiti/FingerPrint;G:/ywolf/F-MiddlewareScan;G:/1N3/Sn1per;--
 - https://github.com/HA71/WhatCMS    --Bash。基于Whatcms.org API进行CMS检测和漏洞利用脚本。

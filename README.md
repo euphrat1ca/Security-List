@@ -62,10 +62,9 @@
 
 # 安全相关项目
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit    --红队攻击生命周期，开源和商业工具。goodjob。
-- https://github.com/demonsec666/Security-Toolkit    --渗透攻击链中常用工具及使用场景。G:/We5ter/Scanners-Box;G:/shack2/SNETCracker/dic;G:/Penetrum-Security/Security-List;--
 - https://github.com/redcanaryco/atomic-red-team    --Atomic Red Team团队关于win、linux、mac等多方面apt利用手段、技术与工具集。2k。G:/blaCCkHatHacEEkr/PENTESTING-BIBLE;--
-- https://github.com/toolswatch/blackhat-arsenal-tools    --blackhat工具集G:/n00py/ReadingList/blob/master/gunsafe.txt;--
-- https://github.com/RedTeamWing/RedTeaming2020    --RedTeaming知识星球2020年安全知识汇总
+- https://github.com/demonsec666/Security-Toolkit    --渗透攻击链中常用工具及使用场景。G:/shack2/SNETCracker/dic;G:/toolswatch/blackhat-arsenal-tools/;--
+- https://github.com/RedTeamWing/RedTeaming2020    --RedTeaming知识星球2020年安全知识汇总。G:/No-Github/1earn;G:/We5ter/Scanners-Box;G:/Penetrum-Security/Security-List;G:/n00py/ReadingList/blob/master/gunsafe.txt;--
 - https://pan.shadowsec.org/    --连接世界的暗影工具包
 
 >TheEnd

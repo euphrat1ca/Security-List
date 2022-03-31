@@ -304,7 +304,8 @@
 - https://github.com/lc/gau    --Go。敏感URL链接、子域挖掘。goodjob。
 - https://github.com/Threezh1/JSFinder    --Py。用于发现网站js文件中的url与域名
 - https://github.com/eldraco/domain_analyzer    --Py。DNS servers, mail servers, IP addresses, mails on Google, SPF information等，支持插件，可生成报告，支持爬虫启动搜集。
-- https://github.com/mhelwig/privdns    --Py3。利用nameserver的错误配置，dns解析暴露其内网地址
+- https://github.com/mhelwig/privdns    --Py3。利用nameserver的错误配置，dns解析暴露其内网地址。
+- https://github.com/rtcatc/Packer-Fuzzer    --针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。poc sir。G:/madneal/leaked;--
 ### 目录路径发现
 - https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project    --Java。目录路径递归枚举爆破。G:/TheM4hd1/PenCrawLer;--
 - https://github.com/ffuf/ffuf    --Go。Web网站路径、参数、子域名、数据模糊测试（fuzzing）

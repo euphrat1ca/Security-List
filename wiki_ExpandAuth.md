@@ -215,7 +215,6 @@
 - https://secpulseoss.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2015/04/ntdsdump/    --基于quarkspwdump加载`system.hiv`文件 获取密码。
 - https://3gstudent.github.io/3gstudent.github.io/域渗透-获得域控服务器的NTDS.dit文件/    --导出`NTDS.DIT`文件，利用quarkspwdump、shadowcopy、NTDSDumpEx、ntdsxtract、Impacket-secretsdump进行读取system.hiv（hive）、`NTDS.dit`密码提取。
 - https://wooyun.js.org/drops/导出当前域内所有用户hash的技术整理.html    --导出域内hash。
-- https://github.com/skelsec/kerberoast/    --Py3。全自动获取DC服务器票据，Kubernetes渗透测试。G:/inguardians/peirates;P:kerberosGui;--
 - https://github.com/Viralmaniar/HiveJack/    --C#。基于`c:\temp\`对Windows通过系统Hive来收集并导出SYSTEM、SECURITY和SAM注册表凭证导凭证信息，可清理痕迹自删除。testjob。
 - https://github.com/lgandx/Responder    --Py。用于嗅探网络内所有的NTLM、NTLMv1/v2、Net-NTLMv1/v2包，对网络内主机进行欺骗获取用户hash。4k。
 - https://github.com/Kevin-Robertson/Inveigh    --PS。LLMNR/mDNS/NBNS欺骗器。
