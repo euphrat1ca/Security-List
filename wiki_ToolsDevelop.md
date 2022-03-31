@@ -39,7 +39,7 @@
 - https://github.com/verctor/CS_xor64    --Java。生成cobaltstrike破解版所需的`xor64.bin`。
 - https://github.com/Twi1ight/CSAgent/    --Java。Cobaltstrike汉化加载器。
 ### cobalt strike插件集合
-- https://github.com/harleyQu1nn/AggressorScripts/    --收集脚本介绍 ![Alt text](./wiki_CobaltstrikeImage/BlueScreenOfJeffAggressorScripts.png)
+- https://github.com/harleyQu1nn/AggressorScripts/    --CS收集脚本介绍
 - https://github.com/rsmudge/cortana-scripts    --Java。作者用于cs2.x与armitage的可拓展插件，cs3.x后为AggressorScripts。
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg    --公众号：使用Aggressor脚本雕饰Cobalt Strike
 - https://github.com/FortyNorthSecurity/AggressorAssessor    --cs3.x脚本收集
