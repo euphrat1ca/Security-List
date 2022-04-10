@@ -89,6 +89,7 @@
 - http://www.vpngate.net    --日本国立筑波大学开源云局域网SoftEther，L2TP GUI。
 - https://help.aliyun.com/document_detail/65374.html    --strongswan IPsec VPN。G:/quericy/one-key-ikev2-vpn;--
 - https://github.com/slackhq/nebula    --Go。跨平台P2P异地组网。P:tailscale;P:zerotier;--
+- https://github.com/ntop/n2n    --Go。supernode虚拟网络VPN软件
 #### WireGuard
 - https://www.wireguard.com/install/    --基于UDP跨平台VPN协议，一键组网切换。G:/atrandys/wireguard;W:teddysun.com/554.html/;G:/angristan/wireguard-install/;
 - https://naiv.fun/Ops/53.html    --安装 Wireguard 并组建中心辐射型网络。G:/WireGuard/wireguard-go;G:/P3TERX/script/blob/master/wireguard-go.sh;G:/P3TERX/wireguard-go-builder/releases/latest;--

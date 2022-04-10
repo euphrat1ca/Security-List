@@ -186,7 +186,7 @@
 - https://github.com/knownsec/404StarLink-Project    --知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    --渗透辅助
 - http://requestbin.net/    --Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;G:/projectdiscovery/interactsh-web/;G:/Buzz2d0/Hyuga;--
+- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/lijiejie/eyes.sh;G:/allyomalley/dnsobserver;G:/projectdiscovery/interactsh-web/;G:/Buzz2d0/Hyuga;--
 - http://ceye.io    --知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;W:app.interactsh.com;--
 - https://github.com/opensec-cn/vtest    --Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/phith0n/conote-community    --Py。短域名+dnslog
