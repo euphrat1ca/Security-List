@@ -13,6 +13,7 @@
 # 区块链&智能合约
 - https://cs251.stanford.edu/syllabus.html    --斯坦福加密货币系统性教程，附赠NFT。Goodjob。
 - https://www.chainnews.com/    --区块链知识链闻。
+- https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
 - https://www.bilibili.com/video/BV1Y64y1C7hF    --暴涨的屎币，猪币，htmoon都是怎么发的，发出来怎么交易？10分钟教你发币！！W:app.dodoex.io;--
 ## 链上应用
 - https://www.coinbk.xyz/    链上应用聚合

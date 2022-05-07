@@ -190,6 +190,7 @@
 - https://www.voidtools.com    --Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 - https://github.com/uknowsec/SauronEye-Modify    --C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    --全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+- https://github.com/sharkdp/fd    --rust。Find everything
 
 ## 素材资源
 - http://www.aigei.com/    --全资源部分免费商用
@@ -200,11 +201,12 @@
 ### 素材剪辑
 - https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
 - https://github.com/ShareX/ShareX/    --.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
-- https://github.com/tannerhelland/PhotoDemon    --Photoshop开源替代
-- http://live.weibo333.com/     --B站直播录制
 - http://www.shotcut.org/    --视频剪辑。P:Filmora;--
-- https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
+- https://github.com/tannerhelland/PhotoDemon    --Photoshop开源替代
+- https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
 - https://www.gimp.org/    --图像编辑器
+- https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
+- http://live.weibo333.com/     --B站直播录制
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--
