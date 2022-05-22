@@ -2,11 +2,8 @@
  wiki_SelfServicerce
 
 # 自服务应用
-- https://www.bjinternetcourt.gov.cn/    --北京互联网法院
 - https://github.com/Kickball/awesome-selfhosted    --awesome系列之自服务应用
 - https://awesome-hub.com/    --Awesome 列表
-- https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
-- https://lovelive.tools/    --说话的艺术 渣男语录
 - https://github.com/jxlwqq/id-validator.py    --Py3。居住证号码验证工具（Python 版）
 - https://github.com/EdgeTranslate/EdgeTranslate    --js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    --ksweb安卓手机端建站
@@ -49,10 +46,9 @@
 
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    --在线文档翻译
-- https://zh.wikihow.com    --生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    --各类破解版Mac软件
 - https://mirrors.huaweicloud.com/    --华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
-- https://github.com/fangzesheng/free-api    --免费的接口服务。goodjob
+- https://github.com/fangzesheng/free-api    --免费的接口服务。goodjob。
 ### 短网址
 - http://xip.io/    --302 bypass，访问这个服务的任意子域名的时候，都会重定向到这个子域名。
 - https://4m.cn/    --短域名302 bypass。
@@ -245,5 +241,17 @@
 - http://wenku.baiduvvv.com/doc/    --文库下载
 - http://www.pptbz.com    --ppt下载
 - http://www.1ppt.com/    --无登录免费ppt下载
+## 小说二创
+- https://www.bjinternetcourt.gov.cn/    --北京互联网法院
+- https://basic.smartedu.cn/    --国家智慧教育公共服务平台
+- https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
 - https://suulnnka.github.io/BullshitGenerator/index.html    --小说文章生成器。G:/menzi11/BullshitGenerator;--
-- https://www.xsxia.com/page/show_12_19.html    --小说素材生成
+- https://lovelive.tools/    --说话的艺术 渣男语录
+- https://www.xsxia.com/page/show_12_19.html    --小说侠素材生成
+- https://zh.wikihow.com    --生活百科
+- https://chaping.chayu.com/    --茶语茶评
+- 悬疑    --抖音。推理学院
+- 美食    --抖音。绵阳料理
+- http://www.zhiyuanzhongyi.com/    --中医中药
+- https://sou-yun.cn/PoemIndex.aspx    --诗词歌赋
+- https://cbaigui.com/    --纪妖 知妖

@@ -60,12 +60,12 @@
 - https://www.anquanke.com/vul    --安全客GitHub安全类目引擎，基于热度、时间，cve漏洞监控。goodjob。
 
 ## 资产扫描检测
+- https://www.acunetix.com/web-vulnerability-scanner/    --Acunetix WVS扫描器，AWVS支持win/Linux。商业版。AcuSensor iast 代码审计，支持`java php .net`。
 - https://github.com/ysrc/xunfeng    --Py。巡风采用web界面，由同程安全开发的网络资产管理、漏洞检测引擎。goodjob。2k。G:/CTF-MissFeng/Watchdog;G:/ody5sey/Voyager;--
 - https://gitee.com/awake1t/linglong    --Go。资产巡航扫描masscan+nmap+xray漏洞识别，mysql存储，docker一键启动。
 - https://github.com/WyAtu/Perun    --Py2。乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架。goodjob。G:/ywolf/F-NAScanG:/flipkart-incubator/RTA;--
 - https://github.com/shadow1ng/fscan    --Go。内网扫描工具。goodjob。
 - https://www.ibm.com/us-en/marketplace/appscan-standard    --IBM漏洞扫描器，Glass Box iast 代码审计。商业版。
-- https://www.acunetix.com/web-vulnerability-scanner/    --Acunetix WVS扫描器，AWVS支持win/Linux。商业版。AcuSensor iast 代码审计，支持`java php .net`。
 - https://my.oschina.net/9199771/blog/4951572    --Netsparker6 插桩扫描试用记述。iast插桩与流量代理扫描。
 - https://www.tenable.com/downloads/nessus    --漏洞扫描器，系统漏洞检测功能突出。商业版，Nessus无IP限制版虚拟机。
 - https://github.com/andresriancho/w3af    --Py。老牌Web漏洞网站扫描器。G;Fireflyi/lcyscan;G:/sullo/nikto;--
@@ -94,8 +94,6 @@
 - https://github.com/euphrat1ca/exploitpack    --OracleJava。ExploitPack是一款漏洞利用框架，包含超过38，000+ exploits。商业版。Web:exploitpack.com;--
 - https://github.com/Fplyth0ner-Combie/Bug-Project-Framework    --易语言。降龙核工业交响曲bug project framework漏洞框架。NoUpdate。
 ### 资产被动检测
-- https://github.com/zaproxy/zaproxy    --Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob,6k。
-- https://github.com/TrojanAZhen/BurpSuitePro-2.1    --BurpSuite 1.7.27/2.1 Pro 和谐版本。G:/euphrat1ca/PRUBUnlimitedre;--
 - https://github.com/c0ny1/passive-scan-client    --Burp插件。被动扫描流量转发插件。
 - https://github.com/chaitin/xray    --Go。洞鉴被动代理主动扫描，插件化配置。社区版。goodjob。W:xz.aliyun.com/t/7047;G:/ox01024/Xray_and_crwlergo_in_server;G:/timwhitez/crawlergo_x_XRAY;G:/piaolin/fofa2Xray;--
 - https://github.com/w-digital-scanner/w13scan    --Py3。boy-hack被动扫描器Passive Security Scanner。W:x.hacking8.com;G:/netxfly/passive_scan;G:/swisskyrepo/DamnWebScanner;--
@@ -103,6 +101,9 @@
 - https://github.com/cloudtracer/paskto    --js。基于Nikto扫描规则的被动式路径扫描以及信息爬虫。G:/secrary/EllaScanner;--
 
 # Web安全检测
+- https://github.com/zaproxy/zaproxy    --Java。The OWASP ZAP core project出品的综合性渗透测试工具。支持流量代理、请求重放和可扩展性。greatjob,6k。
+- https://github.com/TrojanAZhen/BurpSuitePro-2.1    --BurpSuite 1.7.27/2.1 Pro 和谐版本。G:/euphrat1ca/PRUBUnlimitedre;--
+- https://github.com/yaklang/yakit    --TypeScript。Yak语言网络安全单兵工具。
 - https://portswigger.net/research/web-cache-entanglement    --Web缓存投毒的新途径
 - https://github.com/Bo0oM/PHP_imap_open_exploit    --利用imap_open绕过php exec函数禁用
 - https://github.com/18F/domain-scan    --针对域名及其子域名的资产数据检测／扫描，包括http/https检测。
@@ -129,7 +130,6 @@
 - https://github.com/drwetter/testssl.sh    --Bash。开箱即用，全ssl安全测试，可输出报告。
 - https://github.com/hahwul/a2sv    --SSL漏洞扫描，包括OpenSSL心脏滴血漏洞\CSS注入\SSLv3 POODLE等
 - https://github.com/nabla-c0d3/sslyze    --Py3。SSL/TLS server扫描器
-
 ### CSRF跨站请求伪造利用
 - https://www.owasp.org/index.php/File:CSRFTester-1.0.zip    --java。csrf验证工具
 - https://github.com/d0nutptr/sic    --Rust。CSS注入，csrf攻击
