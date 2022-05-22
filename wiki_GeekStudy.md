@@ -4,7 +4,6 @@
 - http://www.owasp.org.cn/owasp-project/owasp-things    --OWASP项目
 - https://github.com/irsdl/top10webseclist/    --十大网络黑客技术列表。
 - https://github.com/SecWiki/sec-chart    --安全思维导图集合。G：Mayter/sec-charts;--
-- https://github.com/Ascotbe/Osmographic-brain-mapping    --安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/tom0li/collection-document    --安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    --资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    --机器学习算法、AI模型、渗透测试工具
