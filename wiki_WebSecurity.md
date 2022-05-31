@@ -223,7 +223,7 @@
 - https://studio3t.com/download    --MongoDB扫描与连接工具
 - https://github.com/stampery/mongoaudit    --MongoDB审计及渗透工具
 ### 数据库利用云服务
-- https://github.com/Turr0n/firebase    --firebase云端实时数据库，错误配置利用。
+- https://github.com/Turr0n/firebase    --firebase错误配置利用。
 
 ## Web越权漏洞
 - https://github.com/evilcos/cookiehacker    --Chrome扩展程序。JavaScript document.cookie / Wireshark Cookie 余弦 包括注入、编辑、添加、删除cookie。G:/lfzark/cookie-injecting-tools;--

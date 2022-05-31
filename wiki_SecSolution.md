@@ -68,7 +68,7 @@
 - https://github.com/openspug/spug/    --JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 - https://github.com/ngbdf/redis-manager    --Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 - https://zhuanlan.zhihu.com/p/43716885/    --使用knockd管理高危端口。
-### 自动化运维管理
+### 自动化运维
 - https://github.com/n8n-io/n8n    --工作流自动化工具
 - https://github.com/caprover/one-click-apps    --自动化部署、一键打包应用。
 - https://github.com/Tencent/bk-job    --Java。蓝鲸作业平台（Job）脚本管理系统
@@ -95,12 +95,20 @@
 - https://github.com/ymfe/yapi    --JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
 - https://github.com/mockoon/cli    --图形化api mock搭建工具，api管理。
 - https://www.postman.com/    --API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;W:apifox.cn--
-### 负载均衡
-- https://github.com/github/glb-director    --负载均衡组件GLB，数据解析使用了dpdk。
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    --nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    --nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    --在线nginx配置文件生成，W:nginxconfig.io;--
+### 负载均衡
+- https://github.com/github/glb-director    --负载均衡组件GLB，数据解析使用了dpdk。
+- https://mp.weixin.qq.com/s/QmCLYfQgR8vJXX1MFow3ow    --不到3000块钱，如何支撑起每月500万次访问量及80TB流量的网站？
+### 系统运维
+- https://www.itsk.com/index.php    --IT天空，系统操作运维。
+- https://www.itsk.com/thread-401292-1-1.html    --it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
+- https://www.chuyu.me/zh-Hans/index.html    --DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
+- https://www.sordum.org/    --Windows免费工具，防火墙操作、权限控制、网络诊断等
+- https://github.com/RoliSoft/WSL-Distribution-Switcher    --Py3。Windows下Linux子系统WSL管理工具
+- https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 
 ## 办公网安全建设
 - https://github.com/sgabe/SymlinkProtect    --Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。

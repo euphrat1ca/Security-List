@@ -9,6 +9,8 @@
 - https://www.freebuf.com/articles/blockchain-articles/176668.html    --空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
 - https://twitter.com/0x14os/status/1506212934212808713    --如何通过mint进行NFT钓鱼攻击分析记录
 - https://mp.weixin.qq.com/s/4pAT_AbUn7XrY9z0yRHfag    --当奈飞的NFT忘记了web2的业务安全
+- https://mp.weixin.qq.com/s/xEY7fSpuI_-CKefWsUAojg    --A16z：Web3 的 6 大攻击类型和经验教训
+
 ## 链上行为分析
 - https://github.com/Rivaill/ethtx_ce    --Py。以太坊交易分析工具，Peckshield EthTx 二开跨链。
 - https://github.com/GGCCCC/airdrop_multi_claim    --合约群撸空投羊毛工具
@@ -29,6 +31,11 @@
 - https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
 - https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列——举一反三总结篇
 
+# Web3运营
+1. https://mp.weixin.qq.com/s/vW9KqmjFZS0VdH1pAJs_Ag    --如何按部就班做出一个头像NFT项目
+2. https://hcsaxku0zg.feishu.cn/docs/doccnxxJYfeOTxQfAnxdPw7qkQh    --如何做一个 Web3 - NFT社区项目中 discord/twitter 运营？
+3. https://idmjcp94fc.feishu.cn/docs/doccn6sL0cysPC0LIaDF4E6Vwkd    -- Web3 项目 twitter 运营指南（项目方必看！）
+
 # Web3开发
 ## 模型设计
 1. https://app.anchorprotocol.com/earn    --Luna&ust&mim 经济模型
@@ -39,35 +46,15 @@
 - https://cs251.stanford.edu/syllabus.html    --斯坦福加密货币系统性教程，附赠NFT。Goodjob。
 - https://www.chainnews.com/    --区块链知识链闻。
 - https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
+- https://mp.weixin.qq.com/s/Z-TcvaV0Fx0OgaRxZii8sA    --当我们在看Etherscan的时候,到底在看什么?
 ## 区块链开发
-- zk rollup    --零信任 侧链&子母链
+1. gossip协议 kadmedia dht P4P
+- https://github.com/ventali/awesome-zk    --零知识证明zk rollup零信任 侧链&子母链
 - https://github.com/dvf/blockchain    --用Python从零开始创建区块链
-- https://zhuanlan.zhihu.com/p/59651447    --于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
+- https://zhuanlan.zhihu.com/p/59651447    --基于 Cosmos 动手写条自己的链。G:/tendermint/tendermint;--
 - https://awesomenear.com/categories/defi/    --区块分片技术
 - https://docs.antchain.antgroup.com/myfish    --蚂蚁链。W:yuque.com/antchain-fe/blog/cryptofish;--
 - https://zhuanlan.zhihu.com/p/107439021    --拜占庭容错共识算法 Byzantine Generals Problem 3x+1
-## 智能合约开发
-- https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
-- https://awesomenear.com/categories/defi/    --near公链项目demo。G:/near-examples/place;--
-- https://github.com/terra-money/awesome-terra    --Luna生态项目
-- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    --用 Django 开发基于以太坊智能合约的 DApp
-- https://web3.tryblockchain.org/    --js。通过solidity在dapp上运行以太坊
-### 基础开发库
-1. https://github.com/WeBankBlockchain/SmartDev-Contract    --Sol。微众银行Solidity智能合约库
-2. https://github.com/ethers-io/ethers.js/    --Js。以太坊 JavaScript 库。G:/ChainSafe/web3.js;--
-3. https://github.com/ConsenSys/smart-contract-best-practices
-4. https://github.com/pancakeswap    --dex exchange layer2。G:gnosis/cowswap;G:/gnosis/gp-v2-contracts;--
-### NFT合约开发
-- https://hashlips.online/HashLips    --Js。NFT Art素材拼接。G:/HashLips/generative-art-opensource；--
-- https://gclx.xyz/    --国产良心 NFT。fomo meme goodjob。G:/brucexu-eth/gclx-official;--
-- https://github.com/fingerchar/fingernft    --FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
-- https://www.amadeus-nft.io/    --NFT在线创作
-- https://opensea.io/asset/create    --交易市场在线创作
-1. https://qiwihui.com/qiwihui-blog-152/    --Crypto Coven 加密女巫 NFT 合约解读
-  - https://twitter.com/mannynotfound/status/1470535464922845187
-### Token开发
-- https://github.com/dogecoin/dogecoin.com    --狗币官网主页
-- https://github.com/ipfs/awesome-ipfs    --filecoin文件币
 ### 链上钱包
 - https://github.com/WalletConnect    --Wallet Connect is the web3 standard to connect blockchain wallets to dapps
 - https://github.com/Web3Modal/web3modal    --Web3 链接钱包 React 组件
@@ -83,6 +70,44 @@
 - https://ntminer.com/    --开源矿工，BMiner、NBMiner、HSPMiner。W:qskg.top --轻松矿工;W:mineros.cn;--
 - https://zhuanlan.zhihu.com/p/166437903    --btfs挖矿教程和挖到的btt提到自己钱包里方法（专门给小白看的，大神飘过）。G:/TRON-US/go-btfs;--
 
+## 智能合约开发
+- https://awesomenear.com/categories/defi/    --near公链项目demo。G:/near-examples/place;--
+- https://github.com/terra-money/awesome-terra    --Luna生态项目
+- https://github.com/PatrickAlphaC/smart-contract-frameworks    --Top Smart Contract/Blockchain Frameworks for 2021 开发框架/功能库
+### 以太坊生态
+- https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
+- https://github.com/AmazingAng/WTFSolidity    --solidity学习笔记
+- https://blog.csdn.net/Blockchain_lemon/article/details/105153883    --万字好文：智能合约编写之Solidity的编程攻略，建议收藏！
+### 基础开发库
+1. https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor    --合约交互图插件
+2. https://github.com/OpenZeppelin/openzeppelin-contracts    --Sol。以太坊常用基础库
+3. https://github.com/WeBankBlockchain/SmartDev-Contract    --Sol。微众银行Solidity智能合约库
+4. https://github.com/ethers-io/ethers.js/    --Js。以太坊 JavaScript 库。G:/ChainSafe/web3.js;--
+5. https://github.com/ConsenSys/smart-contract-best-practices    --Sol。以太坊常用基础库
+6. https://github.com/pancakeswap    --dex exchange layer2。G:gnosis/cowswap;G:/gnosis/gp-v2-contracts;--
+### 去中心化应用
+- https://github.com/dogecoin/dogecoin.com    --狗币官网主页
+- https://github.com/ipfs/awesome-ipfs    --filecoin文件币
+- https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    --用 Django 开发基于以太坊智能合约的 DApp
+- https://web3.tryblockchain.org/    --js。通过solidity在dapp上运行以太坊
+
+## NFT开发制作
+- https://opensea.io/asset/create    --交易市场在线创作
+- https://rarible.com/create/erc-1155    --在以太坊上创建数字藏品
+- https://github.com/fingerchar/fingernft    --FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
+- https://www.amadeus-nft.io/    --NFT在线创作
+### NFT素材制作
+1. https://hashlips.online/HashLips    --Js。NFT Art素材拼接。G:/HashLips/generative-art-opensource;--
+2. https://pixel-me.tokyo/en/    --PixelMe像素图片生成
+3. http://www.bimant.com/blog/top-7-nft-creators/    --7个最佳NFT创作工具 Appy Pie NFT Generator/NFTDIY/SketchAR/GoArt/NightCafé/Fotor/Hotpot.ai
+### NFT合约开发
+1. https://gclx.xyz/    --国产良心 NFT。fomo meme goodjob。G:/brucexu-eth/gclx-official;--
+2. https://qiwihui.com/qiwihui-blog-152/    --Crypto Coven 加密女巫 NFT 合约解读
+   1. https://twitter.com/mannynotfound/status/1470535464922845187
+3. https://github.com/rarible/protocol-contracts    --Js,Solidity。代币交换、代币生成、订单创建、API发现等智能合约标准库。
+4. https://www.cnblogs.com/sslin/p/15748266.html    --基于brownie 记录一个圣斗士NFT的制作流程（DEMO）
+5. https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/117935871   --用 Python 制作 NFT 区块链作品（下）
+
 ## 链上应用
 - https://www.coinbk.xyz/    --链上应用聚合
 - https://chainlist.org/    --钱包链绑定
@@ -95,19 +120,18 @@
 - https://www.bilibili.com/video/BV1Y64y1C7hF    --线上发币。W:app.dodoex.io;--
 - https://www.partybid.app/    --NFT众筹
 ### 匿名隐私
-- tornado.cash    --链上混币器
+- https://tornado.cash/    --链上混币器
+- https://skiff.com/    --邮件&协同
 ### 数据分析
 - https://www.dextools.io/app/    --K线分析
 - https://dune.xyz/    --链上数据sql聚合查询分析
 - https://studio.glassnode.com/    --大哥二哥sql数据分析
 - https://web3alerts.app/    --Dapp应用在推特趋势热度
 - https://app.zerion.io/    --以太坊钱包地址监控工具，可查看钱包收益情况，包括历史收益，同时支持备注名称。W:debank.com;--
+- https://nftgo.io/    --NFT巨鲸行为分析
 ### Defi应用
 - https://defillama.com/about    --DeFi（去中心化金融） TVL 聚合器
 - https://debank.com/    --Defi钱包，取消授权。W:revoke.cash;W:bscscan.com/tokenapprovalchecker;--
-
-# Web3运营
-1. https://hcsaxku0zg.feishu.cn/docs/doccnxxJYfeOTxQfAnxdPw7qkQh    --如何做一个 Web3 - NFT社区项目中 discord/twitter 运营？
 
 # 云服务
 ## 应用开发平台

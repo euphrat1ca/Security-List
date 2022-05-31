@@ -73,7 +73,9 @@
 - https://nosec.org/home/detail/4526.html    --通过Web iframe标签利用TeamViewer，CVE-2020-13699。
 - https://www.t00ls.net/articles-56337.html    --intro。冰蝎马 那可有可无的密码。冰蝎软件配置漏洞，免密码连接，增添agent头校验。
 ### 通讯设备漏洞
+- https://github.com/r0eXpeR/supplier    --主流供应商的一些攻击性漏洞汇总
 - https://github.com/dunderhay/CVE-2020-5902    --F5 Big-IP负载均衡RCE/LFI，常用于政企。G:/aqhmal/CVE-2020-5902-Scanner;G:/jas502n/CVE-2020-5902;--
+- https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit    --F5 iControl REST接口 CVE-2021-22986
 - https://github.com/yassineaboukir/CVE-2018-0296    --测试思科ASA路径穿越漏洞，可获取系统详细信息。
 - https://github.com/seclab-ucr/tcp_exploit    --利用tcp漏洞使无线路由器产生隐私泄露
 - https://www.heibai.org/post/1395.html    --奇安信技术研究院。D-Link路由器HNAP协议系列漏洞披露。DNS劫持/命令注入/配置泄露/越权访问

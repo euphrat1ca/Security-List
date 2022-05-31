@@ -19,13 +19,6 @@
 - https://github.com/soimort/you-get    --Py。视频下载
 - https://github.com//aria2/aria2    --C++。下载器。
 - https://www.pconlife.com/    --Windows组件，微软依赖、DLL下载
-### 系统运维
-- https://www.itsk.com/index.php    --IT天空，系统操作运维。
-- https://www.itsk.com/thread-401292-1-1.html    --it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
-- https://www.chuyu.me/zh-Hans/index.html    --DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
-- https://www.sordum.org/    --Windows免费工具，防火墙操作、权限控制、网络诊断等
-- https://github.com/RoliSoft/WSL-Distribution-Switcher    --Py3。Windows下Linux子系统WSL管理工具
-- https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    --Py。putty远程服务管理工具，MobaXterm注册机。G:/HyperSine/;--
 - https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver/releases;--
