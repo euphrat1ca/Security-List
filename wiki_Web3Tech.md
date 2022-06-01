@@ -42,6 +42,7 @@
 2. https://www.jinse.com/blockchain/1467142.html    --从真金白银的资金易手 看Luna崩盘的底层数学规律
 3. https://www.sohu.com/a/505180194_382039    --一个 Gamefi 经济模型应该如何设计
 4. https://mp.weixin.qq.com/s/fZelc8ga2JgwcWySaakvHQ    --梦幻经济模型
+5. https://www.frank.hk/blog/stepn-move-to-earn/    --STEPN跑鞋/健身房/直购/自律习惯养成/六度空间社交/马斯洛需求
 ## 链上开发
 - https://cs251.stanford.edu/syllabus.html    --斯坦福加密货币系统性教程，附赠NFT。Goodjob。
 - https://www.chainnews.com/    --区块链知识链闻。
@@ -74,10 +75,16 @@
 - https://awesomenear.com/categories/defi/    --near公链项目demo。G:/near-examples/place;--
 - https://github.com/terra-money/awesome-terra    --Luna生态项目
 - https://github.com/PatrickAlphaC/smart-contract-frameworks    --Top Smart Contract/Blockchain Frameworks for 2021 开发框架/功能库
+- https://zhuanlan.zhihu.com/p/459165804    --2022十大智能合约开发工具 Top 10 Smart Contract Developer Tools You Need for 2022
 ### 以太坊生态
+1. https://learnblockchain.cn/docs/solidity/index.html    --Solidity 中文文档 0.8.13
 - https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
 - https://github.com/AmazingAng/WTFSolidity    --solidity学习笔记
 - https://blog.csdn.net/Blockchain_lemon/article/details/105153883    --万字好文：智能合约编写之Solidity的编程攻略，建议收藏！
+- https://www.frank.hk/blog/nft-erc1155/    --使用 REMIX，OPENZEPPELIN 15 分鐘建立 NFT ERC 1155 智能合約
+- https://www.frank.hk/blog/azuki-erc721a/    --大量節省 GAS FEE 的 ERC721A NFT 智能合約
+- https://www.frank.hk/blog/nft-whitelist/    --如何更優雅的實現 NFT 智能合約的白名單功能
+- https://www.frank.hk/blog/smart-contract-mystery-box/    SMART CONTRACT 智能合約玩轉 NFT 盲盒模式
 ### 基础开发库
 1. https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor    --合约交互图插件
 2. https://github.com/OpenZeppelin/openzeppelin-contracts    --Sol。以太坊常用基础库
@@ -107,6 +114,7 @@
 3. https://github.com/rarible/protocol-contracts    --Js,Solidity。代币交换、代币生成、订单创建、API发现等智能合约标准库。
 4. https://www.cnblogs.com/sslin/p/15748266.html    --基于brownie 记录一个圣斗士NFT的制作流程（DEMO）
 5. https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/117935871   --用 Python 制作 NFT 区块链作品（下）
+6. http://blog.hubwiz.com/2022/01/24/how-to-build-an-nft-game-app/    --NFT游戏快速开发教程【Moralis】
 
 ## 链上应用
 - https://www.coinbk.xyz/    --链上应用聚合

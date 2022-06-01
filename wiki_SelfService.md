@@ -196,6 +196,7 @@
 - https://www.gimp.org/    --图像编辑器
 - https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
 - http://live.weibo333.com/     --B站直播录制
+- https://zenvideo.qq.com/    --在线剪辑 一键分发
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--

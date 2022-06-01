@@ -93,7 +93,8 @@
 - https://www.cnblogs.com/jurendage/p/12653865.html    --TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://github.com/star7th/showdoc    --JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    --JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
-- https://github.com/mockoon/cli    --图形化api mock搭建工具，api管理。
+- https://github.com/mockoon/cli    --图形化api管理 数据mock工具，。
+- https://github.com/eolinker/eoapi    --TS。图形化接口管理
 - https://www.postman.com/    --API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;W:apifox.cn--
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    --nginx安全镜像docker一键配置。
