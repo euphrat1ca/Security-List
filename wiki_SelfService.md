@@ -188,15 +188,14 @@
 - https://www.wondercv.com/    --简历模板生成
 - https://resume.mdedit.online/editor/#/    --在线简历。G:/hua1995116/react-resume-site;--
 ### 素材剪辑
-- https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
+- https://www.gimp.org/    --图像编辑器 Photoshop开源替代。G:/tannerhelland/PhotoDemon;P:光影魔术手;--
 - https://github.com/ShareX/ShareX/    --.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
-- http://www.shotcut.org/    --视频剪辑。P:Filmora;--
-- https://github.com/tannerhelland/PhotoDemon    --Photoshop开源替代
-- https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
-- https://www.gimp.org/    --图像编辑器
-- https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
+- https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
+- http://www.shotcut.org/    --视频剪辑。P:Filmora;剪映;快剪--
 - http://live.weibo333.com/     --B站直播录制
 - https://zenvideo.qq.com/    --在线剪辑 一键分发
+- https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
+- https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--
