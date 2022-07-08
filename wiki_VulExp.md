@@ -62,7 +62,7 @@
 - https://blog.unauthorizedaccess.nl/2020/07/07/adventures-in-citrix-security-research.html    --CitrixSystems CVE-2020-8191;CVE-2020-8193;CVE-2020-8194;CVE-2020-8195;CVE-2020-8196;--
 - https://github.com/projectzeroindia/CVE-2019-11510    --Pulse Secure SSL VPN上的任意文件读取（CVE-2019-11510）。GoodJob。
 - https://github.com/mu0gua/VulnPOC    --OpenSSL心脏滴血heartbleed漏洞批量利用;cve-2019-2618 Weblogic;cve-2019-3395 Confluence;--
-- https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md    --CVE-2021-26084 Remote Code Execution
+
 ### 安全工具漏洞
 - https://github.com/WyAtu/CVE-2018-20250    --Py。WinRAR压缩包代码执行复现与利用
 - https://www.bamsoftware.com/hacks/zipbomb/    --ZIPBOMB压缩包炸弹
@@ -99,6 +99,7 @@
 - https://github.com/hhc0null/GhostRule/blob/master/ghostrule4.ps/    --CVE-2019-10216: ghostscript沙箱绕过命令执行漏洞
 - https://github.com/hacksysteam/WpadEscape    --利用wpad进行浏览器 sandbox沙箱逃逸
 ### 云平台漏洞
+1. https://github.com/wyzxxz/aksk_tool    --AK资源管理工具，阿里云/腾讯云 AccessKey AccessKeySecret，利用AK获取资源信息和操作资源，ECS/CVM操作/执行命令，OSS/COS管理，RDS管理，域名管理，添加RAM账号等
 - https://www.cnblogs.com/xiaozi/p/11767841.html    --阿里云利用 由OSS AccessKey泄露引发的思考
 - https://github.com/kkamagui/napper-for-tpm    --Py。针对TPM(可信平台防篡改设备模块)CVE-2018-6622漏洞利用工具。
 
@@ -106,6 +107,11 @@
 - https://github.com/uknowsec/BurpSuite-Extender-fastjson    --Burp插件。Java Bean序列化为JSON字符串，利用ceye对fastjson 1.2.24和1.2.47 RCE探测。W:/p1g3/Fastjson-Scanner;--
 - https://github.com/CaijiOrz/fastjson-1.2.47-RCE    --Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法。G:/MagicZer0/fastjson-rce-exploit --利用jndi绕过autotype;G:/iSafeBlue/fastjson-autotype-bypass-demo;G:/wyzxxz/fastjson_rce_tool;G:/jas502n/fastjson-RCE;--
 - https://www.cnblogs.com/tr1ple/p/11243640.html    --Imagetragick 命令执行漏洞（CVE-2016–3714）图片编辑器
+### 办公软件漏洞
+1. https://github.com/Nwqda/CVE-2022-26134    --Atlassian Confluence远程代码执行漏 CVE-2022-26134(Confluence OGNL表达式注入)
+- https://www.corben.io/atlassian-crowd-rce/    --Java。atlassian crowd CVE-2019-11580。
+- https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md    --CVE-2021-26084 Remote Code Execution
+
 ## Web应用漏洞
 - https://github.com/r0eXpeR/redteam_vul    --红队中易被攻击的一些重点系统漏洞整理
 - https://github.com/SecWiki/CMS-Hunter    --CMS工具漏洞测试用例集合。G:/Moham3dRiahi/XAttacker;G:/Mr5m1th/0day;G:/w1109790800/penetration;G/anx1ang/Poc_Pentest;--
@@ -119,7 +125,7 @@
 - https://github.com/jas502n/CVE-2019-7238    --Nexus Repository Manager 3 Remote Code Execution without authentication < 3.15.0
 - https://github.com/jas502n/CVE-2019-15642/    --CVE-2019-15642 Webmin远程命令执行，需要登录权限。
 - https://slides.com/securitymb/prototype-pollution-in-kibana#/    --kibana <6.6.0 未授权远程代码命令执行。Kibana CVE-2019-7609 RCE Exploit。
-- https://www.corben.io/atlassian-crowd-rce/    --Java。atlassian crowd CVE-2019-11580。
+
 - https://github.com/c0d3p1ut0s/CVE-2019-12086-jackson-databind-file-read    --CVE-2019-12086。利用jackson进行MySQL服务器任意文件读取漏洞
 - https://github.com/RhinoSecurityLabs/CVEs    --CVE-2019-0227 Apache Axis RCE命令执行，AIX,EPSON,UNITRENDS,Memu,AudioCodes,Nvidia,CompleteFTP。
 ### Thinkphp漏洞
@@ -226,7 +232,7 @@
 - https://github.com/mschwager/0wned    --Py。利用Python包进行高权限用户创建。P:capabilities;--
 - https://github.com/stanleyb0y/sushell    --利用su实现低权限用户窃取root用户口令。
 ## MS微软利用洞
-- https://github.com/nu11secur1ty/Windows10Exploits    --win10漏洞集合
+1. https://github.com/nu11secur1ty/Windows10Exploits    --win10漏洞集合
 - https://github.com/ZephrFish/CVE-2020-1350    --DNS Server远程代码执行漏洞（CVE-2020-1350），针对Windows Server等开启DNS服务的系统
 - https://github.com/Sheisback/CVE-2019-0859-1day-Exploit/    --C++。CVE-2019-0859。可利用win32k.sys远程下载运行程序
 - https://github.com/smgorelik/Windows-RCE-exploits    --windows命令执行RCE漏洞POC样本，分为web与文件两种形式
@@ -290,6 +296,8 @@
 - https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/    --INTRO。CVE-2019-1040利用PrivExchange漏洞产生smb->ldap中转，并且绕过MIC消息完整性检查。
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    --Py。基于低权限账号进行ysoserial-远程代码执行。G:/Jumbo-WJB/CVE-2020-0688;G:/random-robbie/cve-2020-0688;--
 ### Office文档漏洞
+1. https://github.com/bytecaps/CVE-2022-30190    --Microsoft Office Word Rce HTML 文件的外部 OLE 对象引用
+   1. CVE-2021-40444 MSHTML（又称Trident）是微软Windows操作系统Internet Explorer（IE）浏览器的排版组件。
 - https://github.com/SecWiki/office-exploits    --office-exploits Office漏洞集合。
 - https://github.com/Ridter/RTF_11882_0802    --Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
 - https://github.com/Ridter/CVE-2017-11882    --利用word文档RTF获取shell，evi1cg.me/archives/CVE_2017_11882_exp.html。

@@ -170,6 +170,9 @@
 - https://www.marinetraffic.com/en/ais/home/centerx:5.4/centery:50.8/zoom:2    --全球船舶跟踪情报
 - https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    --美国联邦航空管理局（FAA）注册的所有飞机的登记册
 - https://www.nicb.org/vincheck    --美国保险公司被盗车辆查询
+### 社工库查询
+1. https://breached.to/    --BreachForums数据泄漏
+- https://github.com/kallydev/privacy    --数据结构化查询。
 
 # OSINT信息搜集
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    --OSINT Cheat Sheet信息收集技巧

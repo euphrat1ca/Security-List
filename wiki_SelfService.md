@@ -196,13 +196,31 @@
 - https://zenvideo.qq.com/    --在线剪辑 一键分发
 - https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
 - https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
+### 字体素材
+- https://www.hellofont.cn/    --开源字体
+### 文档素材
+- https://www.jiumodiary.com/    --电子书搜索引擎
+- https://github.com/ixinzhi/pua-books    --PUA预防套装
+- https://www.cn-ki.net/    --知网/论文期刊检索下载
+- http://sci-hub.tw/    --文献、专利、书籍下载
+- https://github.com/gedoor/MyBookshelf    --Java。安卓app小说阅读器
+- http://wenku.baiduvvv.com/doc/    --文库下载
+- http://www.pptbz.com    --ppt下载
+- http://www.1ppt.com/    --无登录免费ppt下载
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--
 ### 音频素材
+1. 文字转语音 - 多媒体工具 | 偷懒工具 https://toolight.cn/media/reading
+2. 文本转AI真人语音，免费微软AI语音 - 在线工具 - ToolB - https://toolb.cn/textspeech
+3. Microsoft Azure 本转语音下载插件 https://greasyfork.org/zh-CN/scripts/444347-azure-speech-download
+4. 在线云服务 Microsoft Azure 文本转语音：https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview
+5. 阿里云的语音合成:https://ai.aliyun.com/nls/tts
+6. 腾讯云的语音合成：https://cloud.tencent.com/product/tts
 - https://audionautix.com/    --由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    --免费音频
 ### 视频素材
+1. 阿里妈妈 创意中心 - 首页 - https://chuangyi.taobao.com/
 - https://pixabay.com/    --图像、视频免费使用，商用受保护
 - https://www.videezy.com/    --免费使用，商用受保护
 - https://www.pexels.com/    --图像、视频免费使用
@@ -223,17 +241,7 @@
 - https://world-flags.org/worldflagstoha    --动漫化国旗
 - https://github.com/sylnsfar/qrcode    --Py3。动态二维码生成器。
 - https://mp.weixin.qq.com/s/cwv3_qGr_LzsH-SbcYalWg    --以图搜图。【技巧】如何查找一个图标、符号的含义（2）
-### 字体素材
-- https://www.hellofont.cn/    --
-### 文档素材
-- https://www.jiumodiary.com/    --电子书搜索引擎
-- https://github.com/ixinzhi/pua-books    --PUA预防套装
-- https://www.cn-ki.net/    --知网/论文期刊检索下载
-- http://sci-hub.tw/    --文献、专利、书籍下载
-- https://github.com/gedoor/MyBookshelf    --Java。安卓app小说阅读器
-- http://wenku.baiduvvv.com/doc/    --文库下载
-- http://www.pptbz.com    --ppt下载
-- http://www.1ppt.com/    --无登录免费ppt下载
+
 ## 小说二创
 - https://www.bjinternetcourt.gov.cn/    --北京互联网法院
 - https://basic.smartedu.cn/    --国家智慧教育公共服务平台

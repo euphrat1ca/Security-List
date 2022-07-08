@@ -5,6 +5,7 @@
 - https://github.com/csy512889371/learnDoc    --架构师的成长之路-博客-导图
 - https://github.com/nusr/hacker-laws-zh    --开发定律
 ## 量化交易
+1. https://github.com/shidenggui/easytrader    --py。股市自动化交易
 - https://www.fmz.com/    --发明者量化交易平台
 - https://cn.tradingview.com/    --图表、行情、交易观点策略，交易数据。W:glassnode;W:金十数据;--
 - http://pirogue.org/2020/06/24/quant/    --试水区块链量化交易

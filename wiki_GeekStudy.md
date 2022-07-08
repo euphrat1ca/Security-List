@@ -113,6 +113,7 @@
 - https://bbs.pediy.com/thread-263979.htm    --[原创]《逆向分析-使用关键字进行功能破解》 
 
 ## 学习漏洞挖掘
+1. RCE宝典公开，全民RCE的时代到来 - https://mp.weixin.qq.com/s/p7aOrpvustNYslCYGz5_iw
 - https://github.com/FULLSHADE/WindowsExploitationResources/    --Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    --160个CrackMe，附破解方法。
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    --0day安全：软件漏洞分析技术（第2版）。漏洞战争：软件漏洞分析精要、加密与解密（第4版）、modern windows exploit、cnit的二进制教程、awesome windows exploit;--

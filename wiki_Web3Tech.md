@@ -17,13 +17,22 @@
 - https://github.com/flashbots/simple-arbitrage    --夹子机器人
 - https://github.com/zjuchenyuan/whalerank    --追踪链上鲸鱼，合约互动行为分析。
 - https://github.com/defieye    --defi资金追踪
+
 ## 链上安全审计
-- https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
-- https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
-- https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
+1. https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
+2. https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide    --慢雾 基于区块链的加密货币安全审计指南
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链checklist，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-## 智能合约审计
+### 安全审计工具
+1. https://mythx.io/    --SaaS化服务以太坊安全审计工具。G:Mythril;--
+2. www.trailofbits.com    --Trail of Bits工具集。G:Manticore //符号执行;G:Echidna //EVM合约模糊测试;--
+3. https://github.com/eth-sri/securify2    --Py。以太坊基金会 和ChainSecurity支持的以太坊智能合约安全扫描器
+4. https://github.com/crytic/slither    --Py。Solidity 静态分析仪。P:MythX;
+- https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
+- https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
+- https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
+
+### 智能合约审计
 - https://peckshield.medium.com/    --派盾安全审计报告
 - https://www.blocksecteam.com/    --合约设计报告
 - https://paper.seebug.org/1546/    --智能合约漏洞系列——运行平台科普篇
@@ -31,24 +40,30 @@
 - https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
 - https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列——举一反三总结篇
 
-# Web3运营
-1. https://mp.weixin.qq.com/s/vW9KqmjFZS0VdH1pAJs_Ag    --如何按部就班做出一个头像NFT项目
-2. https://hcsaxku0zg.feishu.cn/docs/doccnxxJYfeOTxQfAnxdPw7qkQh    --如何做一个 Web3 - NFT社区项目中 discord/twitter 运营？
-3. https://idmjcp94fc.feishu.cn/docs/doccn6sL0cysPC0LIaDF4E6Vwkd    -- Web3 项目 twitter 运营指南（项目方必看！）
 
-# Web3开发
+# Web3运营
+1. https://idmjcp94fc.feishu.cn/docs/doccn6sL0cysPC0LIaDF4E6Vwkd    -- Web3 项目 twitter 运营指南（项目方必看！）
+2. 产品经理的 Web3 转型指南 - https://mp.weixin.qq.com/s/0rcnTIFFfzttp8OZMx3qXw
 ## 模型设计
 1. https://app.anchorprotocol.com/earn    --Luna&ust&mim 经济模型
 2. https://www.jinse.com/blockchain/1467142.html    --从真金白银的资金易手 看Luna崩盘的底层数学规律
 3. https://www.sohu.com/a/505180194_382039    --一个 Gamefi 经济模型应该如何设计
 4. https://mp.weixin.qq.com/s/fZelc8ga2JgwcWySaakvHQ    --梦幻经济模型
-5. https://www.frank.hk/blog/stepn-move-to-earn/    --STEPN跑鞋/健身房/直购/自律习惯养成/六度空间社交/马斯洛需求
+5. https://www.frank.hk/blog/stepn-move-to-earn/    --STEPN跑鞋/直购分销/健身房自律习惯养成/六度空间社交/马斯洛需求/经济娱乐福利彩票
+6. 《链游经济模型大揭秘》 — W Labs瓜田实验室 - https://mirror.xyz/iamwgg.eth/njmPWdQxdCgOM54srB7T5kcEanlxZUFLBmGHBkYlXdY
+## NFT运营
+1. World of Women - 首屈一指的女性NFT如今怎么样了 - https://mp.weixin.qq.com/s/S-EwbP065659sB74iGn15Q
+2. https://mirror.xyz/zoroo.eth/MbVNdZ-3KcHZMAj-A7YEzeND4FVQTiBTYlQSfMVQcRw    --全景拆解NFT：现状、价值、方法论和展望 zoroo.eth
+3. https://mp.weixin.qq.com/s/vW9KqmjFZS0VdH1pAJs_Ag    --如何按部就班做出一个头像NFT项目
+4. https://hcsaxku0zg.feishu.cn/docs/doccnxxJYfeOTxQfAnxdPw7qkQh    --如何做一个 Web3 - NFT社区项目中 discord/twitter 运营？
+
+# Web3开发
 ## 链上开发
-- https://cs251.stanford.edu/syllabus.html    --斯坦福加密货币系统性教程，附赠NFT。Goodjob。
-- https://www.chainnews.com/    --区块链知识链闻。
-- https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
-- https://mp.weixin.qq.com/s/Z-TcvaV0Fx0OgaRxZii8sA    --当我们在看Etherscan的时候,到底在看什么?
-## 区块链开发
+1. https://cs251.stanford.edu/syllabus.html    --斯坦福加密货币系统性教程，附赠NFT。Goodjob。
+2. https://www.chainnews.com/    --区块链知识链闻。
+3. https://mp.weixin.qq.com/s/Z-TcvaV0Fx0OgaRxZii8sA    --当我们在看Etherscan的时候,到底在看什么?
+4. Web3 DApp 最佳编程实践指南 — 郭宇 - https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek
+### 区块链开发
 1. gossip协议 kadmedia dht P4P
 - https://github.com/ventali/awesome-zk    --零知识证明zk rollup零信任 侧链&子母链
 - https://github.com/dvf/blockchain    --用Python从零开始创建区块链
@@ -72,11 +87,13 @@
 - https://zhuanlan.zhihu.com/p/166437903    --btfs挖矿教程和挖到的btt提到自己钱包里方法（专门给小白看的，大神飘过）。G:/TRON-US/go-btfs;--
 
 ## 智能合约开发
+1. https://www.jianshu.com/p/4918c331a137    --【转译】全新合约开发技术栈：Hardhat + Ethers + Waffle + Typescript
+2. https://zhuanlan.zhihu.com/p/459165804    --2022十大智能合约开发工具 Top 10 Smart Contract Developer Tools You Need for 2022
+3. https://github.com/dethcrypto/TypeChain    --TypeScript。基础开发库样例
 - https://awesomenear.com/categories/defi/    --near公链项目demo。G:/near-examples/place;--
 - https://github.com/terra-money/awesome-terra    --Luna生态项目
 - https://github.com/PatrickAlphaC/smart-contract-frameworks    --Top Smart Contract/Blockchain Frameworks for 2021 开发框架/功能库
-- https://zhuanlan.zhihu.com/p/459165804    --2022十大智能合约开发工具 Top 10 Smart Contract Developer Tools You Need for 2022
-### 以太坊生态
+### 以太坊协议
 1. https://learnblockchain.cn/docs/solidity/index.html    --Solidity 中文文档 0.8.13
 - https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
 - https://github.com/AmazingAng/WTFSolidity    --solidity学习笔记
@@ -87,7 +104,7 @@
 - https://www.frank.hk/blog/smart-contract-mystery-box/    SMART CONTRACT 智能合約玩轉 NFT 盲盒模式
 ### 基础开发库
 1. https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor    --合约交互图插件
-2. https://github.com/OpenZeppelin/openzeppelin-contracts    --Sol。以太坊常用基础库
+2. https://github.com/OpenZeppelin/openzeppelin-contracts    --Sol。以太坊常用基础库。W:ethernaut.openzeppelin.com;--
 3. https://github.com/WeBankBlockchain/SmartDev-Contract    --Sol。微众银行Solidity智能合约库
 4. https://github.com/ethers-io/ethers.js/    --Js。以太坊 JavaScript 库。G:/ChainSafe/web3.js;--
 5. https://github.com/ConsenSys/smart-contract-best-practices    --Sol。以太坊常用基础库
@@ -99,6 +116,7 @@
 - https://web3.tryblockchain.org/    --js。通过solidity在dapp上运行以太坊
 
 ## NFT开发制作
+1. https://learnblockchain.cn/article/3994    --​NFT创作者需要的9个基本工具
 - https://opensea.io/asset/create    --交易市场在线创作
 - https://rarible.com/create/erc-1155    --在以太坊上创建数字藏品
 - https://github.com/fingerchar/fingernft    --FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
@@ -123,7 +141,8 @@
 ### 身份验证
 - https://collab.land/    --机器人自动验证钱包是否持有门票token
 ### 开发框架
-- https://remix.ethereum.org/    --以太坊在线编辑器
+1. ChainIDE-多链智能合约IDE - https://chainide.cn/zh-CN/
+2. https://remix.ethereum.org/    --以太坊在线编辑器
 ### 自动工具
 - https://www.bilibili.com/video/BV1Y64y1C7hF    --线上发币。W:app.dodoex.io;--
 - https://www.partybid.app/    --NFT众筹
