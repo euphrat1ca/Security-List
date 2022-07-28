@@ -56,6 +56,7 @@
 2. https://mirror.xyz/zoroo.eth/MbVNdZ-3KcHZMAj-A7YEzeND4FVQTiBTYlQSfMVQcRw    --全景拆解NFT：现状、价值、方法论和展望 zoroo.eth
 3. https://mp.weixin.qq.com/s/vW9KqmjFZS0VdH1pAJs_Ag    --如何按部就班做出一个头像NFT项目
 4. https://hcsaxku0zg.feishu.cn/docs/doccnxxJYfeOTxQfAnxdPw7qkQh    --如何做一个 Web3 - NFT社区项目中 discord/twitter 运营？
+5. NFT 项目的 7 种市场营销策略 - https://mp.weixin.qq.com/s/cXtD5-8WT9VMUY3HNTNYNA
 
 # Web3开发
 ## 链上开发
@@ -117,6 +118,7 @@
 
 ## NFT开发制作
 1. https://learnblockchain.cn/article/3994    --​NFT创作者需要的9个基本工具
+2. Web3学堂: 最实用的NFT发行技术系列课等你来听！0-1 - https://mp.weixin.qq.com/s/e1634qFfq5xM2pUJhlyGLA
 - https://opensea.io/asset/create    --交易市场在线创作
 - https://rarible.com/create/erc-1155    --在以太坊上创建数字藏品
 - https://github.com/fingerchar/fingernft    --FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。

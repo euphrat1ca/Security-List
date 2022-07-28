@@ -204,7 +204,8 @@
 - https://github.com/MazenElzanaty/TwLocation    --Py。获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    --对twitter账户进行全面的分析。WebGui。
 - https://github.com/sowdust/tafferugli    --Py。twitter分析框架，对tweets进行收集、过滤、分析。WebGui。
-### 企业人员信息搜集
+## 企业信息搜集
+1. https://github.com/wgpsec/ENScan_GO    --Golang。基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - https://hunter.io/    --企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    --全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
 - https://github.com/vysec/MaiInt    --公司雇员信息收集测试工具

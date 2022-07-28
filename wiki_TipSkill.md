@@ -123,6 +123,7 @@
 - https://github.com/jackfrued/Python-100-Days    --100天精通python。
 - https://github.com/TheAlgorithms/Python    --Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
 ### JavaScript开发
+1. https://github.com/webfansplz/vuejs-challenges    --Vue.js 在线挑战平台
 - https://github.com/sindresorhus/awesome-electron    --js。跨平台应用。
 - https://github.com/meteor/meteor    --Js。跨平台客户端开发。
 
