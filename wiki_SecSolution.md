@@ -272,6 +272,7 @@
 - https://github.com/momosecurity/aswan    --Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - https://github.com/xdite/internet-security    --互联网金融企业安全与风控的实战手册。资安风控。
 - https://help.aliyun.com/document_detail/73845.html    --相同的card_id在十分钟内，在两个不同的location发生刷卡现象，就会触发报警机制，以便监测信用卡盗刷等现象。
+- https://mp.weixin.qq.com/s/KcTbNv88swlFIYIA1pFkLw    --每日优鲜非战斗亏损风控
 
 ## 安全运营建设
 - 公众号：终端安全运营年度笔记    --

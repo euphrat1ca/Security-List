@@ -51,7 +51,7 @@
 
 ## 网络威胁防御
 - https://github.com/Security-Onion-Solutions/security-onion    --Security Onion洋葱安全入侵检测系统。基于Ubuntu涵盖ELK\Snort\Suricata\Bro等组件，作为传感器分布在网络中监控多个VLAN和子网。ids kali系统类。
-- https://github.com/StamusNetworks/SELKS    --基于Debian的入侵检测系统，组件包含Suricata IDPS与ELK和Scirius。
+- https://github.com/StamusNetworks/SELKS    --基于Debian的入侵检测系统，包含Suricata IDPS/MOLOCH/ELK/Scirius。
 - https://www.anquanke.com/post/id/167620    --威胁情报专栏：威胁情报标准——结构化威胁信息表达式（STIX）
 ### 隐蔽隧道检测
 - https://www.freebuf.com/articles/network/247810.html    --针对HTTPS加密流量的Webshell检测研究（冰蝎全系列有效）

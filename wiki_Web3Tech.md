@@ -48,8 +48,8 @@
 1. https://app.anchorprotocol.com/earn    --Luna&ust&mim 经济模型
 2. https://www.jinse.com/blockchain/1467142.html    --从真金白银的资金易手 看Luna崩盘的底层数学规律
 3. https://www.sohu.com/a/505180194_382039    --一个 Gamefi 经济模型应该如何设计
-4. https://mp.weixin.qq.com/s/fZelc8ga2JgwcWySaakvHQ    --梦幻经济模型
-5. https://www.frank.hk/blog/stepn-move-to-earn/    --STEPN跑鞋/直购分销/健身房自律习惯养成/六度空间社交/马斯洛需求/经济娱乐福利彩票
+4. https://mp.weixin.qq.com/s/fZelc8ga2JgwcWySaakvHQ    --梦幻西游经济模型
+5. https://www.frank.hk/blog/stepn-move-to-earn/    --STEPN跑鞋/雪茄茶直购分销/健身房自律习惯养成/六度空间社交/马斯洛需求/经济娱乐福利彩票
 6. 《链游经济模型大揭秘》 — W Labs瓜田实验室 - https://mirror.xyz/iamwgg.eth/njmPWdQxdCgOM54srB7T5kcEanlxZUFLBmGHBkYlXdY
 ## NFT运营
 1. World of Women - 首屈一指的女性NFT如今怎么样了 - https://mp.weixin.qq.com/s/S-EwbP065659sB74iGn15Q

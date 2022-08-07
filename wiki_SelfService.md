@@ -124,9 +124,11 @@
 - https://casual-effects.com/markdeep/    --开源markdown编辑器。
 - https://www.microsoft.com/zh-cn/p/office-lens/    --微软文件扫描识别
 - https://pandoc.org/    --文档格式转换。greatjob。
+- https://www.cleverpdf.com/cn/pdf-converter    --PDF编辑转换工具
 - https://www.ilovepdf.com/zh-cn    --在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
 - http://www.alltoall.net/    --文本格式在线转换
 - https://etherpad.net/    --在线可编辑记事本
+- https://ncre.neea.edu.cn/html1/report/1507/861-1.htm    --WPS教育考试版
 ### 搜索引擎
 - http://www.duckduckgoog.com/    --不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
 - https://weixin.sogou.com/weixin?type=2&query=    --微信文章搜索

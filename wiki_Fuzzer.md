@@ -62,6 +62,8 @@
 - https://pypi.org/project/pynput/    --python操作键盘库
 - https://github.com/sleepybear1113/taobaoVisitingVenues    --js。双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Androidz。
 - https://github.com/microsoft/playwright-python    --Python自动化测试工具，支持JavaScript（TypeScript）、Python、C#和Go语言，支持有头（headful）模式和无头（headless）模式运行。G:/Gerapy/GerapyPlaywright;--
+### 质量测试
+1. https://github.com/hellodigua/code996    --Ts。统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度 代码996
 ### 爬虫采集框架
 - https://github.com/s-rah/onionscan    --darkweb暗网爬虫
 - https://github.com/alphardex/looter    --轻量型爬虫框架，类比Scrapy

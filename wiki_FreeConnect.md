@@ -51,9 +51,9 @@
 - https://github.com/anonaddy/anonaddy    --php。邮件匿名转发，白名单过滤
 ### 国内手机接码平台
 - https://sms.cngrok.com/receiving-sms/    --短信码上到-掠影网络，国内临时接码的
-- https://www.becmd.com/    --免费接码 - 免费短信验证码接收平台
-- https://www.pdflibr.com/    --云短信 - 在线短信接收 中国,美国,菲律宾
-- https://yunduanxin.net/    --免费接短信,在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
+- https://www.becmd.com/    --免费接码 免费短信验证码接收平台
+- https://www.pdflibr.com/    --云短信 在线短信接收 中国,美国,菲律宾
+- https://yunduanxin.net/    --免费接短信，在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
 - http://www.shejiinn.com/    --免费接码|短信验证码|在线接收短信|接码平台 - 中国,缅甸,美国
 - http://z-sms.com/    --Z-SMS - 中国,美国,缅甸,爱沙尼亚
 ### 国外手机接码平台
