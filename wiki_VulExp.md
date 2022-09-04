@@ -298,7 +298,7 @@
 - https://github.com/Yt1g3r/CVE-2020-0688_EXP    --Py。基于低权限账号进行ysoserial-远程代码执行。G:/Jumbo-WJB/CVE-2020-0688;G:/random-robbie/cve-2020-0688;--
 ### Office文档漏洞
 1. https://github.com/bytecaps/CVE-2022-30190    --Microsoft Office Word Rce HTML 文件的外部 OLE 对象引用
-   1. CVE-2021-40444 MSHTML（又称Trident）是微软Windows操作系统Internet Explorer（IE）浏览器的排版组件。
+   - CVE-2021-40444 MSHTML（又称Trident）是微软Windows操作系统Internet Explorer（IE）浏览器的排版组件。
 - https://github.com/SecWiki/office-exploits    --office-exploits Office漏洞集合。
 - https://github.com/Ridter/RTF_11882_0802    --Py。利用CVE-2017-11882与CVE-2018-0802组合漏洞生成hta二进制后门。
 - https://github.com/Ridter/CVE-2017-11882    --利用word文档RTF获取shell，evi1cg.me/archives/CVE_2017_11882_exp.html。

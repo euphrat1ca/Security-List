@@ -338,3 +338,5 @@
 ### Windows痕迹清除
 - https://github.com/JusticeRage/freedomfighting    --日志清理、文件共享、反向shell。
 - https://github.com/360-A-Team/EventCleaner    --日志擦除工具。
+### MacOS系统清理
+1. https://lemon.qq.com/    --腾讯柠檬清理。G:/rev1si0n/lamda;--

@@ -1,8 +1,16 @@
 # BlockChain&SmartContract
 ## 链上安全建设
-1. https://github.com/Ascotbe/Osmographic-brain-mapping    --安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
-2. https://github.com/xianlimei/yiwei.github.io/wiki    --私有云、区块链安全研究，rasp、waf、主机安全产品介绍
-3. https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    --慢雾余弦:区块链生态安全是一场真枪实弹的战争
+1. 安全开发
+   - 钓鱼，approve过度权限
+   - 闪电贷，资源耗尽、空投羊毛
+   - Mev抢跑，节点GAS贿赂
+   - 双花，TX行为重放、交易回滚
+   - 女巫，账号反作弊
+   - 无利害，POS恶意分叉
+   - 长程，51%共识夺权、POS恶意回滚
+2. https://github.com/Ascotbe/Osmographic-brain-mapping    --安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
+3.  https://github.com/xianlimei/yiwei.github.io/wiki    --私有云、区块链安全研究，rasp、waf、主机安全产品介绍
+4.  https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    --慢雾余弦:区块链生态安全是一场真枪实弹的战争
 - https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec    --《区块链安全入门与实战》
 - https://www.coinonpro.com/news/toutiao/199581.html    --闪电贷的攻击与防御
 - https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA    --以太坊智能合约中的社会工程攻击
@@ -21,8 +29,18 @@
 ## 链上安全审计
 1. https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
 2. https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide    --慢雾 基于区块链的加密货币安全审计指南
-- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
+3. 资源：成为合约开发者和审计者之路 - https://mp.weixin.qq.com/s/X9R3OxxwQEhNJlAd9UZqVw
+   - https://medium.com/@TrustChain/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176
+4. https://www.ziion.org/    --web3kali
+### 智能合约审计
+1. https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
+- https://peckshield.medium.com/    --派盾安全审计报告
+- https://www.blocksecteam.com/    --合约设计报告
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链checklist，EOS bp nodes security checklist（EOS超级节点安全执行指南）
+- https://paper.seebug.org/1546/    --智能合约漏洞系列——运行平台科普篇
+- https://paper.seebug.org/1580/    --智能合约安全系列——EOS 菠菜应用篇
+- https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
+- https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列——举一反三总结篇
 ### 安全审计工具
 1. https://mythx.io/    --SaaS化服务以太坊安全审计工具。G:Mythril;--
 2. www.trailofbits.com    --Trail of Bits工具集。G:Manticore //符号执行;G:Echidna //EVM合约模糊测试;--
@@ -31,15 +49,6 @@
 - https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
 - https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
 - https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
-
-### 智能合约审计
-- https://peckshield.medium.com/    --派盾安全审计报告
-- https://www.blocksecteam.com/    --合约设计报告
-- https://paper.seebug.org/1546/    --智能合约漏洞系列——运行平台科普篇
-- https://paper.seebug.org/1580/    --智能合约安全系列——EOS 菠菜应用篇
-- https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
-- https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列——举一反三总结篇
-
 
 # Web3运营
 1. https://idmjcp94fc.feishu.cn/docs/doccn6sL0cysPC0LIaDF4E6Vwkd    -- Web3 项目 twitter 运营指南（项目方必看！）
@@ -96,6 +105,7 @@
 - https://github.com/PatrickAlphaC/smart-contract-frameworks    --Top Smart Contract/Blockchain Frameworks for 2021 开发框架/功能库
 ### 以太坊协议
 1. https://learnblockchain.cn/docs/solidity/index.html    --Solidity 中文文档 0.8.13
+2. https://cryptozombies.io/    --solidy 游戏 Learn to Code Blockchain DApps by Building Simple Games
 - https://ethereum.org/zh/developers/docs/programming-languages/python/    ETH以太坊智能合约开发
 - https://github.com/AmazingAng/WTFSolidity    --solidity学习笔记
 - https://blog.csdn.net/Blockchain_lemon/article/details/105153883    --万字好文：智能合约编写之Solidity的编程攻略，建议收藏！
@@ -110,7 +120,9 @@
 4. https://github.com/ethers-io/ethers.js/    --Js。以太坊 JavaScript 库。G:/ChainSafe/web3.js;--
 5. https://github.com/ConsenSys/smart-contract-best-practices    --Sol。以太坊常用基础库
 6. https://github.com/pancakeswap    --dex exchange layer2。G:gnosis/cowswap;G:/gnosis/gp-v2-contracts;--
+7. https://github.com/Sexy-J/JieSwap    --pancake vue 前端仿盘
 ### 去中心化应用
+1. https://4everland.org/    --基于ipfs/ar的去中心化存储/bucket应用托管
 - https://github.com/dogecoin/dogecoin.com    --狗币官网主页
 - https://github.com/ipfs/awesome-ipfs    --filecoin文件币
 - https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/106030165    --用 Django 开发基于以太坊智能合约的 DApp
@@ -124,13 +136,14 @@
 - https://github.com/fingerchar/fingernft    --FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
 - https://www.amadeus-nft.io/    --NFT在线创作
 ### NFT素材制作
-1. https://hashlips.online/HashLips    --Js。NFT Art素材拼接。G:/HashLips/generative-art-opensource;--
-2. https://pixel-me.tokyo/en/    --PixelMe像素图片生成
-3. http://www.bimant.com/blog/top-7-nft-creators/    --7个最佳NFT创作工具 Appy Pie NFT Generator/NFTDIY/SketchAR/GoArt/NightCafé/Fotor/Hotpot.ai
+1. https://github.com/AppsusUK/NFT-Art-Generator    --Ts。NFT Art Generator跨端生成
+2. https://hashlips.online/HashLips    --Js。NFT Art素材拼接。G:/HashLips/generative-art-opensource;--
+3. https://pixel-me.tokyo/en/    --PixelMe像素图片生成
+4. http://www.bimant.com/blog/top-7-nft-creators/    --7个最佳NFT创作工具 Appy Pie NFT Generator/NFTDIY/SketchAR/GoArt/NightCafé/Fotor/Hotpot.ai
 ### NFT合约开发
 1. https://gclx.xyz/    --国产良心 NFT。fomo meme goodjob。G:/brucexu-eth/gclx-official;--
 2. https://qiwihui.com/qiwihui-blog-152/    --Crypto Coven 加密女巫 NFT 合约解读
-   1. https://twitter.com/mannynotfound/status/1470535464922845187
+   - https://twitter.com/mannynotfound/status/1470535464922845187
 3. https://github.com/rarible/protocol-contracts    --Js,Solidity。代币交换、代币生成、订单创建、API发现等智能合约标准库。
 4. https://www.cnblogs.com/sslin/p/15748266.html    --基于brownie 记录一个圣斗士NFT的制作流程（DEMO）
 5. https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/117935871   --用 Python 制作 NFT 区块链作品（下）
@@ -156,7 +169,7 @@
 - https://dune.xyz/    --链上数据sql聚合查询分析
 - https://studio.glassnode.com/    --大哥二哥sql数据分析
 - https://web3alerts.app/    --Dapp应用在推特趋势热度
-- https://app.zerion.io/    --以太坊钱包地址监控工具，可查看钱包收益情况，包括历史收益，同时支持备注名称。W:debank.com;--
+- https://app.zerion.io/    --以太坊钱包地址监控工具，可查看钱包收益情况，包括历史收益，同时支持备注名称。
 - https://nftgo.io/    --NFT巨鲸行为分析
 ### Defi应用
 - https://defillama.com/about    --DeFi（去中心化金融） TVL 聚合器

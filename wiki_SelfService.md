@@ -69,7 +69,8 @@
 - https://www.seopojie.com    --推广链接SPAM，SEO
 - http://www.mkgzs.com    --猫客剑眉大侠SEO引流
 ### 自媒体
-- https://xmt.cn/index    --新媒体管家。135编辑器;壹伴。
+- https://xmt.cn/index    --新媒体管家。
+- https://yiban.io/    --壹伴/135编辑器
 
 # 办公套件
 - https://otp.landian.vip    --Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
@@ -154,8 +155,8 @@
 - http://ohshitgit.com/    --Intro。git操作手册。
 ### 项目同步
 - https://github.com/sjqzhang/go-fastdfs    --go。分布式文件系统(私有云存储)。
-- https://www.u-nas.cn/    --万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
-- https://github.com/amefs/FreeNAS-Doc-Chs    --FreeNAS（网络附加存储）
+- https://www.u-nas.cn/    --万由U-NAS操作系統，社区版。
+- https://github.com/amefs/FreeNAS-Doc-Chs    --FreeNAS网络附加存储。P:群晖;P:蜗牛星际;P:oenmediavault（omv）;--
 - https://github.com/nextcloud/server    --php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
 - https://github.com/canton7/SyncTrayzor    --C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee;P:/goodsync;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    --intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -201,6 +202,7 @@
 ### 字体素材
 - https://www.hellofont.cn/    --开源字体
 ### 文档素材
+1. https://www.connectedpapers.com/    --论文 文献 相似度匹配
 - https://www.jiumodiary.com/    --电子书搜索引擎
 - https://github.com/ixinzhi/pua-books    --PUA预防套装
 - https://www.cn-ki.net/    --知网/论文期刊检索下载
@@ -209,6 +211,8 @@
 - http://wenku.baiduvvv.com/doc/    --文库下载
 - http://www.pptbz.com    --ppt下载
 - http://www.1ppt.com/    --无登录免费ppt下载
+- https://wantwords.net/    --清华万词王反向词典
+- https://wantquotes.net/    --清华大学计算机系自然语言处理实验室（THUNLP）据意查句
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--

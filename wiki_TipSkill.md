@@ -12,6 +12,7 @@
 - https://github.com/Drakkar-Software/OctoBot    --Python。BTC币量化机器人，对接交易所api。G:/freqtrade/freqtrade;--
 
 # 编程相关
+1. https://leetcode.cn/    --力扣/牛客/runoob/W3CSchool
 ## Web框架
 - http://www.bt.cn    --宝塔网站管理系统
 - https://github.com/fex-team/webuploader    --JS。文件上传框架。
@@ -22,7 +23,6 @@
 - https://goframe.org/index    --Go。模块化、松耦合、生产级的Web应用框架
 - https://www.djangoproject.com    --Py。完美主义者的 Deadline 终结Web服务框架
 - https://www.palletsprojects.com/p/flask/    --Py。Web服务微框架。
-
 ## 应用框架
 ### 框架源码
 - https://github.com/GorvGoyl/clone-wars    --100 多个知名网站克隆版的开源代码
@@ -38,46 +38,6 @@
 - https://github.com/wangyuan389/mall-cook    --Vue.js。无代码可视化商城搭建平台
 ### 桌面客户端白屏化
 - https://github.com/nativefier/nativefier    --js。web网站转本地应用程序
-
-# 游戏开发
-- https://github.com/topics/game    --游戏集合demo。G:/XINCGer/Unity3DTraining;--
-- https://www.bilibili.com/read/cv11012077    --B站弹幕互动游戏开发
-## 游戏框架
-- http://phaser.io/    --phaser HTML5游戏框架。P:Pixi.js;--
-- https://www.layabox.com/    --HTML5游戏开发工具
-- https://www.construct.net    --HTML5游戏开发工具
-- https://github.com/egret-labs    --白鹭HTML5游戏开发引擎
-- http://hiloteam.github.io/    --支持 DOM 渲染，Canvas 渲染和 WebGL 渲染
-- https://github.com/kittykatattack/ga    --h5 2d游戏引擎。G:/straker/kontra;--
-- https://github.com/google/closure-compiler    --Js代码压缩。G:/xem/miniMinifier;--
-- https://github.com/piskelapp/piskel    --游戏像素图像制作工具
-- https://ghttps://github.com/xem/miniMusic    --游戏音效转化成 JavaScript
-### 页游源码
-- https://github.com/gabrielecirulli/2048
-- https://github.com/ellisonleao/clumsy-bird    --Flappy Bird
-- https://github.com/daleharvey/pacman    --吃豆先生
-- https://github.com/wwwtyro/Astray    --迷宫球
-- https://github.com/thinkpixellab/agent8ball    --桌球
-- https://github.com/mgechev/mk.js    --真人快打
-- https://github.com/NTaylorMullen/ShootR    --雷电宇宙飞船
-- https://github.com/mozilla/BrowserQuest    --多人冒险
-- https://github.com/gustaYo/vue-chess    --国际象棋
-- https://github.com/freeciv/freeciv-web    --自由文明
-### 端游源码
-- https://github.com/wesnoth/wesnoth    --C++。回合制策略游戏
-- https://github.com/teeworlds/teeworlds    --C++。多人在线射击游戏
-- https://github.com/Anuken/Mindustry    --Java。沙盒塔防游戏
-- https://github.com/veloren/veloren    --Rust。像素风格 RPG 游戏
-- https://github.com/electronicarts/CnC_Remastered_Collection/    --C++。红警Red Alert Tiberian Dawn（泰伯利亚的黎明）
-- https://github.com/fogleman/Minecraft/    --Py。我的世界Minecraft 简化版
-- https://github.com/OpenDiablo2/OpenDiablo2    --暗黑破坏神2 mod
-
-## 编辑器IDE
-- https://www.ultraedit.com/    --全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
-- https://github.com/visualfc/liteide    --C++。开源golang编辑器，支持交叉编译。P:jetbrains;--
-- https://github.com/rjpcomputing/luaforwindows/    --Lua。Windows下的lua编辑器。
-- https://github.com/s4n7h0/Halcyon    --Nmap Script (NSE)IDE编辑器
-- https://github.com/zhongjianhua163/BlackMoonKernelStaticLib    --黑月编译器插件的核心静态库部分的源码 易语言5.92
 ### 文件比对
 - https://github.com/WinMerge/winmerge    --C++。文件比对。P:Diff;--
 - https://github.com/joxeankoret/pigaios    --基于源代码、二进制文件比对的检测工具。
@@ -88,11 +48,16 @@
 ### 交互式终端
 - https://github.com/c-bata/go-prompt    --Golang创建交互式提示命令行。
 - https://github.com/prompt-toolkit/python-prompt-toolkit    --Python创建交互式提示命令行。
-
-## 分析调试
-- https://github.com/zxlie/FeHelper    --前端调试助手，代码格式化、转换等。G:Ctool 程序开发;G:onetab;G:tabcopy --标题分享;G:/webclipper/web-clipper --网页剪切;--
 ### 加密功能
 - https://github.com/Microsoft/SymCrypt    --Windows使用的核心功能加密库
+### 编辑器IDE
+- https://www.ultraedit.com/    --全能文本代码编辑器，同公司UltraCompare内容对比软件。P:/vscode;P:/emeditor;--
+- https://github.com/visualfc/liteide    --C++。开源golang编辑器，支持交叉编译。P:jetbrains;--
+- https://github.com/rjpcomputing/luaforwindows/    --Lua。Windows下的lua编辑器。
+- https://github.com/s4n7h0/Halcyon    --Nmap Script (NSE)IDE编辑器
+- https://github.com/zhongjianhua163/BlackMoonKernelStaticLib    --黑月编译器插件的核心静态库部分的源码 易语言5.92
+### 前端调试
+- https://github.com/zxlie/FeHelper    --前端调试助手，代码格式化、转换等。G:Ctool 程序开发;G:onetab;G:tabcopy --标题分享;G:/webclipper/web-clipper //网页剪切;--
 ### 请求分析
 - https://github.com/secdev/scapy    --Python功能库。内置了交互式网络数据包处理、数据包生成器、网络扫描器网络发现和包嗅探工具，提供多种协议包生成及解析插件，能够灵活的的生成协议数据包，并进行修改、解析。GOODJOB。
 - https://github.com/saghul/aiodns/    --Py。请求后无需关闭连接的情况下有效地进行多次调用的DNS解析器
@@ -123,13 +88,48 @@
 - https://github.com/jackfrued/Python-100-Days    --100天精通python。
 - https://github.com/TheAlgorithms/Python    --Py。一是各种算法的基本原理讲解，二是各种算法的代码实现。
 ### JavaScript开发
-1. https://github.com/webfansplz/vuejs-challenges    --Vue.js 在线挑战平台
+1. https://github.com/webfansplz/vuejs-challenges    --Vue.js在线挑战平台/vue学习/vue练习
 - https://github.com/sindresorhus/awesome-electron    --js。跨平台应用。
 - https://github.com/meteor/meteor    --Js。跨平台客户端开发。
+## 游戏开发
+- https://github.com/topics/game    --游戏集合demo。G:/XINCGer/Unity3DTraining;--
+- https://www.bilibili.com/read/cv11012077    --B站弹幕互动游戏开发
+### 游戏框架
+- http://phaser.io/    --phaser HTML5游戏框架。P:Pixi.js;--
+- https://www.layabox.com/    --HTML5游戏开发工具
+- https://www.construct.net    --HTML5游戏开发工具
+- https://github.com/egret-labs    --白鹭HTML5游戏开发引擎
+- http://hiloteam.github.io/    --支持 DOM 渲染，Canvas 渲染和 WebGL 渲染
+- https://github.com/kittykatattack/ga    --h5 2d游戏引擎。G:/straker/kontra;--
+- https://github.com/google/closure-compiler    --Js代码压缩。G:/xem/miniMinifier;--
+- https://github.com/piskelapp/piskel    --游戏像素图像制作工具
+- https://ghttps://github.com/xem/miniMusic    --游戏音效转化成 JavaScript
+### 页游源码
+- https://github.com/gabrielecirulli/2048
+- https://github.com/ellisonleao/clumsy-bird    --Flappy Bird
+- https://github.com/daleharvey/pacman    --吃豆先生
+- https://github.com/wwwtyro/Astray    --迷宫球
+- https://github.com/thinkpixellab/agent8ball    --桌球
+- https://github.com/mgechev/mk.js    --真人快打
+- https://github.com/NTaylorMullen/ShootR    --雷电宇宙飞船
+- https://github.com/mozilla/BrowserQuest    --多人冒险
+- https://github.com/gustaYo/vue-chess    --国际象棋
+- https://github.com/freeciv/freeciv-web    --自由文明
+### 端游源码
+- https://github.com/wesnoth/wesnoth    --C++。回合制策略游戏
+- https://github.com/teeworlds/teeworlds    --C++。多人在线射击游戏
+- https://github.com/Anuken/Mindustry    --Java。沙盒塔防游戏
+- https://github.com/veloren/veloren    --Rust。像素风格 RPG 游戏
+- https://github.com/electronicarts/CnC_Remastered_Collection/    --C++。红警Red Alert Tiberian Dawn（泰伯利亚的黎明）
+- https://github.com/fogleman/Minecraft/    --Py。我的世界Minecraft 简化版
+- https://github.com/OpenDiablo2/OpenDiablo2    --暗黑破坏神2 mod
 
 ## 可视化展示
+1. https://www.aliyun.com/product/bigdata/datav    --云DataV数据可视化
+   - http://datav.jiaminghi.com/    --Vue.js。Vue大屏数据展示组件库
+2. https://me.bdp.cn/    --数据图像化在线工具。W:tushuo.baidu.com //Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com //数据库ER关系图;--
+3. https://echarts.baidu.com/examples/index.html#chart-type-globe    --Echart图
 - https://flourish.studio/    -- 数据可视化图表在线展示。W:finereport.com;--
-- https://me.bdp.cn/    --数据图像化在线工具。W:tushuo.baidu.com --Echart图;W:canvas.net;W:infograph.venngage.com;W:freedgo.com --数据库ER关系图--
 - https://github.com/ricklamers/gridstudio    --PY,JS。类 Jupyter NotebooksJ架构，结合excel与python，进行表格数据可视化展示。goodjob。
 - https://neo4j.com/graphacademy/neo4j-certification/    --Nosql图数据库，neo4j desktop进行数据关联性图展示。P:Bloom;G:/orgs/neo4j;--
 - https://cloud.tencent.com/developer/article/1051994    --62款前端数据可视化插件大盘点，图表、图谱、地图、关系图、立体图。

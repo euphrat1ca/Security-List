@@ -45,6 +45,7 @@
 - https://github.com/Fuzion24/JustTrustMe    --Java。App证书SSL注入抓包。xposed插件。
 - https://github.com/monkeylord/XServer    --xposed插件。注入拦截方法调用，进行通信协议加密、混淆的分析。
 - https://github.com/LSPosed/LSPosed    --edxposed进化版。P:Magisk分区;--
+- https://github.com/rev1si0n/lamd    --Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 集群控制/云手机/自动化辅助框架
 
 ### macOS/IOS应用安全
 - https://github.com/pwn20wndstuff/Undecimus/    --iOS 11.0 - 12.4全版本越狱。
@@ -68,7 +69,9 @@
 - https://securitylab.github.com/tools/codeql/    --GitHub数据流语法树代码审计，集成插件、函数库形式。G:/github/securitylab;--
 - https://www.freebuf.com/articles/web/283795.html    --CodeQL从入门到放弃。G:/xsser/codeql_chinese;--
 - https://github.com/wufeifei/cobra    --Py。基于AST语法树抽象源代码安全审计，支持PHP、Java等Web开发语言，并支持数十种类型文件。界面GUI。
-- https://github.com/codespaces-io/codespaces    --VSCode代码审计插件
+- https://github.com/murphysecurity/murphysec    --Go。墨菲安全软件分析（SCA）、漏洞检测、专业漏洞库。
+   - Murphysec Code Scan/JetBrains IDE 插件市场中搜索“murphysec”
+- https://github.com/codespaces-io/codespaces    --VSCode代码审计插件。
 - https://github.com/pumasecurity/puma-scan    --C#。Visual Studio插件，实时代码审计。
 - https://github.com/jeremylong/DependencyCheck    --Java。依赖项版本信息对源代码进行扫描识别。
 ### Java代码审计
