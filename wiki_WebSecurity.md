@@ -14,6 +14,7 @@
 - https://github.com/angryip/ipscan    --Java。Angry IP Scanner。跨平台界面化端口扫描器,angryip.org。G:/foryujian/yujianportscan;G:/RASSec/RASscan;G:/projectdiscovery/naabu;--
 - http://www.advanced-ip-scanner.com    --Advanced IP Scanner Portable端口扫描器。商业版。
 ## 资产信息搜集
+1. https://github.com/lijiejie/EasyPen    --wxpython。bbscan升级版。
 - https://github.com/cedowens/SwiftBelt/    --Swift。macOSX系统信息搜集。
 - https://github.com/m8r0wn/nullinux    --Py。Linux下内网信息渗透测试工具，可用于通过SMB枚举操作系统信息，域信息，共享，目录和用户。
 - https://github.com/trimstray/otseca    --Linux系统审计工具，可以导出系统配置，生成报表

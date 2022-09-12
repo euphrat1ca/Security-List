@@ -30,6 +30,7 @@
 - rasp绕过：JNI、DOS、开启线程（在新的线程里，没有当前请求的上下文）、黑名单、规则绕过
 
 # 远程协助
+1. https://github.com/BishopFox/sliver    --Golang。跨平台红队框架。G:/lwch/natpass;--
 - https://www.thec2matrix.com/    --C2框架远控评测
 - https://git.coding.net/ssooking/cobaltstrike-cracked    --OracleJava8。cobalt strike是一个APT协同工作平台，支持自定义域名host头绕过安全设备。greatjob。G:/Freakboy/CobaltStrike --源码;G:/rsmudge/armitage CobaltStrike社区版调用msf;G:/RASSec/Cobalt-Strike --3.14 Malleable-C2-Profiles;--
 ## C2通讯框架

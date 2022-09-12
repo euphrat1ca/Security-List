@@ -53,6 +53,7 @@
 # Web3运营
 1. https://idmjcp94fc.feishu.cn/docs/doccn6sL0cysPC0LIaDF4E6Vwkd    -- Web3 项目 twitter 运营指南（项目方必看！）
 2. 产品经理的 Web3 转型指南 - https://mp.weixin.qq.com/s/0rcnTIFFfzttp8OZMx3qXw
+3. https://learnblockchain.cn/article/4640    --DAO组织乐高 - 当前有哪些 DAO 工具可用
 ## 模型设计
 1. https://app.anchorprotocol.com/earn    --Luna&ust&mim 经济模型
 2. https://www.jinse.com/blockchain/1467142.html    --从真金白银的资金易手 看Luna崩盘的底层数学规律

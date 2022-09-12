@@ -110,7 +110,8 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://www.anquanke.com/post/id/220868    --TechTeach。利用heroku（容器云平台）服务器隐藏C2。
 - https://mp.weixin.qq.com/s/Vrd8hWgPnK1bh1Ggj33NtQ    --基于NKN网络匿名远控。P:CobaltStrike 区块链网络上线方式及检测;G:/Maka8ka/NGLite;G:/nknorg/nkn-tunnel;--
 ### 隐匿流量洋葱路由
-- https://www.torproject.org/    --洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
+1. https://www.torproject.org/    --洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
+2. https://github.com/cretz/bine    --Golang。go语言的tor控制sdk
 - https://github.com/globaleaks/Tor2web    --darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    --使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    --一个使所有流量通过Tor网络发出的脚本

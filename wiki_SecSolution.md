@@ -252,6 +252,7 @@
 ## 合规建设
 - https://mp.weixin.qq.com/s/uD8xZse3TLH7vjzJOp_kxw    --网信办、工信部教我做产品！W:note.youdao.com/s/K4vFx4Ki --网信办、工信部学习资料（欢迎收藏备用）
 ### 合规安全
+1. https://github.com/bytedance/appshark    --Kotlin。字节移动端合规安全检测
 - https://github.com/momosecurity/bombus    --Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 - https://mp.weixin.qq.com/s/IoVzbLSxPI3m3v47X8jB_A    --App合规实践3000问
 ### 等保安全
@@ -268,6 +269,7 @@
 - https://github.com/thinkst/canarytokens    --Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码/蜜标。
 
 ## 安全风控建设
+1. https://github.com/skyhackvip/risk_engine    --GOLANG。风控决策引擎系统。
 - https://github.com/threathunterX/nebula    --LUA,Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    --Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - https://github.com/xdite/internet-security    --互联网金融企业安全与风控的实战手册。资安风控。
