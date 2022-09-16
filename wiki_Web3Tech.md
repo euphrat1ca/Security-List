@@ -32,6 +32,8 @@
 3. 资源：成为合约开发者和审计者之路 - https://mp.weixin.qq.com/s/X9R3OxxwQEhNJlAd9UZqVw
    - https://medium.com/@TrustChain/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176
 4. https://www.ziion.org/    --web3kali
+### Web3钓鱼风险防控
+1. Web 3.0 防钓鱼白皮书 — Buidler DAO - https://mirror.xyz/0xbuidlerdao.eth/QzoF9sdiCQFHgpQW70e_5e9KqKx-qCD-iEFC0tmbpRk    ==浏览器插件 MetaShield/Phishfort
 ### 智能合约审计
 1. https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
 - https://peckshield.medium.com/    --派盾安全审计报告
