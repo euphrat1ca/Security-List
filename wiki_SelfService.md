@@ -99,7 +99,7 @@
 - https://www.qingjiaocloud.com/    --青椒云主机vps，一键启用。
 - https://github.com/zyx0814/dzzoffice    --Py。在线办公套件
 ### 远程协助
-- https://github.com/rustdesk/rustdesk    --rust。//远程协助软件。W:anydesk;W:Teamviewer;W:向日葵W:todesk.com;--
+- https://github.com/rustdesk/rustdesk    --rust。//远程协助软件。W:anydesk;W:Teamviewer;W:向日葵W:todesk.com;W:GoToHTTP;--
 - https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    --电脑控制手机打电话、发短信、接收通知、传输文件等
 - https://www.airdroid.com/    --移动端手机设备控制
 ### 分身登录
