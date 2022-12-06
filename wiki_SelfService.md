@@ -172,7 +172,7 @@
 - https://www.rejetto.com/hfs/    --Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/svenstaro/miniserve    --多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop;--
 - https://github.com/schollz/croc    --Go。点对点文件传输。
-- https://github.com/micahflee/onionshare    --PHP。利用onion洋葱服务器的匿名文件共享。
+- https://github.com/onionshare/onionshare    --Py。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/magic-wormhole/magic-wormhole    --基于 PAKE 协议的文件加密传输隧道
 - https://github.com/filebrowser/filebrowser    --Go。基于Caddy web服务框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    --php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--

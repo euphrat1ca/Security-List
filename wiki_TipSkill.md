@@ -154,6 +154,12 @@
 - https://github.com/pentaho/pentaho-kettle    --java。 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。G:/zhaxiaodong9860/kettle-scheduler 调度监控平台;G:/majinju/kettle-manager WEB端管理;--
 - https://github.com/dataease/dataease    --数据可视化分析工具。
 
+
+# 人工智能
+1. https://chat.openai.com/    --openapi ChatGPT AI智能搜索答疑
+2. 阿里达摩院魔搭社区首页 · 文档中心 - https://www.modelscope.cn/docs    --算法模型SaaS化服务
+3. https://copilot.github.com    --Github copilot由微软/OpenAI/GitHub 三家联合打造的 AI 编程辅助工具，训练GPT-3自动匹配代码结构。
+
 ## 深度学习
 - https://visualgo.net/    --算法库
 - https://github.com/google-research/bert    --Py。谷歌研究院最强NLP运算模型

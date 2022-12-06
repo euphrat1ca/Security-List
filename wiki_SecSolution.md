@@ -61,8 +61,7 @@
 1. https://github.com/Tencent/tmagic-editor    --typescript。腾讯低代码平台
 2. https://github.com/sparrow-js/sparrow    --Js。低代码平台
 3. https://github.com/imcuttle/mometa    --TypeScript。弱代码元编程，代码可视编辑，辅助编码工具
-- https://yaoapps.com/    --Go。通过JSON的无代码开发套件。G:/YaoApp/yao;--
-- https://copilot.github.com    --GPT-3训练自动匹配代码结构，AI自动写代码。
+4. https://yaoapps.com/    --Go。通过JSON的无代码开发套件。G:/YaoApp/yao;--
 
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    --快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
