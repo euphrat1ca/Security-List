@@ -227,11 +227,12 @@
 - https://www.tosound.com/    --免费音频
 ### 视频素材
 1. 阿里妈妈 创意中心 - 首页 - https://chuangyi.taobao.com/
+2. https://33.agilestudio.cn/    --33台词
+3. https://33-app.agilestudio.cn/    --根据台词查找电影
 - https://pixabay.com/    --图像、视频免费使用，商用受保护
 - https://www.videezy.com/    --免费使用，商用受保护
 - https://www.pexels.com/    --图像、视频免费使用
 - https://mixkit.co/    --在线视频资源素材
-- https://33-app.agilestudio.cn/    --根据台词查找电影
 ### 图片素材
 - https://uibundle.com/    --Discover free design assets from 229 independent authors
 - https://www.canva.cn/    --平面图设计制作

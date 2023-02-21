@@ -14,7 +14,9 @@
 - https://github.com/ferredoxin/QNotified    --QQ开源Xposed模块
 ### 自动回复WebHook
 1. https://github.com/nonebot/nonebot2    --py。跨平台 Python 异步聊天机器人框架
-- http://sc.ftqq.com/3.version    --ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;G:/zhuifengshen/DingtalkChatbot;P:/telegram机器人TG BOT;--
+2. 三步教你用Node做一个微信脱单神器，小白可上手 | Wechaty - https://wechaty.js.org/2019/06/21/three-step-get-girlfriend/
+3. https://github.com/fuergaosi233/wechat-chatgpt    --chatgpt openapi 微信机器人
+4. http://sc.ftqq.com/3.version    --ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;G:/zhuifengshen/DingtalkChatbot;P:/telegram机器人TG BOT;--
 - https://github.com/littlecodersh/itchat    --Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;G:/codingtoworld/wxrobot;--
 - https://github.com/MustangYM/WeChatExtension-ForMac/    微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    --WeChatExtension-ForMac自动安装脚本。

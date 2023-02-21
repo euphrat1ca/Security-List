@@ -198,8 +198,9 @@
 - https://www.reg007.com/    --注册过哪家网站app
 - https://github.com/rtcatc/check-your-weibo    --微博互关检测脚本
 ### Twitter信息分析
-- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    --公众号：【工具】一些与Twitter相关的情报分析工具
-- http://accountanalysis.app/    --twitter账号分析工具
+1. https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    --公众号：【工具】一些与Twitter相关的情报分析工具
+2. https://en.whotwi.com/     --Twitter可视化分析工具
+3. http://accountanalysis.app/    --twitter账号分析工具
 - https://github.com/haccer/tweep    --使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    --Py。获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    --对twitter账户进行全面的分析。WebGui。

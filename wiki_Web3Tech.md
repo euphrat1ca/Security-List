@@ -30,12 +30,13 @@
 1. https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook    --区块链黑暗森林自救手册
 2. https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide    --慢雾 基于区块链的加密货币安全审计指南
 3. 资源：成为合约开发者和审计者之路 - https://mp.weixin.qq.com/s/X9R3OxxwQEhNJlAd9UZqVw
-   - https://medium.com/@TrustChain/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176
-4. https://www.ziion.org/    --web3kali
+4. 资源：成为合约开发者和审计者之路 - https://medium.com/@TrustChain/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176
+5. https://www.ziion.org/    --web3kali
 ### Web3钓鱼风险防控
 1. Web 3.0 防钓鱼白皮书 — Buidler DAO - https://mirror.xyz/0xbuidlerdao.eth/QzoF9sdiCQFHgpQW70e_5e9KqKx-qCD-iEFC0tmbpRk    ==浏览器插件 MetaShield/Phishfort
 ### 智能合约审计
 1. https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
+2. 十大Web3.0安全最佳实践方式（全篇）超长干货收藏版！ - https://mp.weixin.qq.com/s/7VknSb2QMRKkfllMuvl8AQ
 - https://peckshield.medium.com/    --派盾安全审计报告
 - https://www.blocksecteam.com/    --合约设计报告
 - https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链checklist，EOS bp nodes security checklist（EOS超级节点安全执行指南）
