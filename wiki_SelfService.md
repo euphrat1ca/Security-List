@@ -199,6 +199,7 @@
 - https://zenvideo.qq.com/    --在线剪辑 一键分发
 - https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
 - https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
+- https://github.com/zcf0508/autocut-client    --autocut自动剪辑
 ### 字体素材
 - https://www.hellofont.cn/    --开源字体
 ### 文档素材
