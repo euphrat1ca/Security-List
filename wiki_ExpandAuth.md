@@ -95,6 +95,7 @@
 - http://droidjack.net/    --商业版。
 - https://github.com/AhMyth/AhMyth-Android-RAT    --Smali。Android平台一对多带界面。goodjob。
 - https://github.com/The404Hacking/AndroRAT    --Java。Android平台一对多带界面。
+- https://github.com/ba0gu0/520apkhook    --Java。安卓远控注入app软件
 - https://github.com/cleverbao/520apkhook    --对安卓APP注入MSF PAYLOAD，并且对手机管家进行BYPASS。
 - https://github.com/home-assistant/home-assistant    --Py。物联网管理集群控制平台。
 ### 僵木蠕远程协助
