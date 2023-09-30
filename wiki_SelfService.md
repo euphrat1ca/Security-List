@@ -250,7 +250,7 @@
 - https://github.com/sylnsfar/qrcode    --Py3。动态二维码生成器。
 - https://mp.weixin.qq.com/s/cwv3_qGr_LzsH-SbcYalWg    --以图搜图。【技巧】如何查找一个图标、符号的含义（2）
 
-## 小说二创
+## 话本二创
 - https://www.bjinternetcourt.gov.cn/    --北京互联网法院
 - https://basic.smartedu.cn/    --国家智慧教育公共服务平台
 - https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
