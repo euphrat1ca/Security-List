@@ -228,8 +228,6 @@
 - https://www.tosound.com/    --免费音频
 ### 视频素材
 1. 阿里妈妈 创意中心 - 首页 - https://chuangyi.taobao.com/
-2. https://33.agilestudio.cn/    --33台词
-3. https://33-app.agilestudio.cn/    --根据台词查找电影
 - https://pixabay.com/    --图像、视频免费使用，商用受保护
 - https://www.videezy.com/    --免费使用，商用受保护
 - https://www.pexels.com/    --图像、视频免费使用
@@ -254,13 +252,13 @@
 - https://www.bjinternetcourt.gov.cn/    --北京互联网法院
 - https://basic.smartedu.cn/    --国家智慧教育公共服务平台
 - https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
-- https://suulnnka.github.io/BullshitGenerator/index.html    --小说文章生成器。G:/menzi11/BullshitGenerator;--
+- https://suulnnka.github.io/BullshitGenerator/index.html    --狗屁不通文章生成器。G:/menzi11/BullshitGenerator;--
 - https://lovelive.tools/    --说话的艺术 渣男语录
-- https://www.xsxia.com/page/show_12_19.html    --小说侠素材生成
+- 美食 绵阳料理 https://v.douyin.com/ieEJv4F2/
+- https://33.agilestudio.cn/    --33台词根据台词查找电影
 - https://zh.wikihow.com    --生活百科
 - https://chaping.chayu.com/    --茶语茶评
-- 悬疑    --抖音。推理学院
-- 美食    --抖音。绵阳料理
 - http://www.zhiyuanzhongyi.com/    --中医中药
 - https://sou-yun.cn/PoemIndex.aspx    --诗词歌赋
 - https://cbaigui.com/    --纪妖 知妖
+- https://www.advink.cn/#/tools/index    --小说侠素材生成
