@@ -65,6 +65,7 @@
 ### 质量测试
 1. https://github.com/hellodigua/code996    --Ts。统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度 代码996
 ### 爬虫采集框架
+- https://github.com/NaiboWang/EasySpider    --Js/Py。可视化爬虫软件 火车头 八爪鱼
 - https://github.com/s-rah/onionscan    --darkweb暗网爬虫
 - https://github.com/alphardex/looter    --轻量型爬虫框架，类比Scrapy
 - https://github.com/luyishisi/Anti-Anti-Spider    --反爬虫防护绕过
