@@ -98,6 +98,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php    --md5密码破解。社区版。
 - https://md5.gromweb.com/?md5=    --md5密码破解。社区版
 - http://www.chamd5.org    --md5密码破解。需要登录。W:crack.sh;W:xmd5.org;W:pmd5.com;W:onlinehashcrack.com    --md5密码破解。需要验证码
+- https://ntlmv1.com --NetNTLMv1在线破解
 
 ## 信息隐匿保护
 - https://github.com/ffffffff0x/Digital-Privacy/    --一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗。类似于 wiki_OsintData；wiki_SelfServicerce；wiki_FreeConnect。goodjob。
