@@ -68,6 +68,7 @@
 - http://dingba.top/    --丁爸情报分析师。P:/qqzk/ --全球智库;--
 - https://mp.weixin.qq.com/s/YQRKtwsD4A69BDLr-GyXRw    --【资源】查找人员的资源站点（2021版）
 - https://www.searchenginecolossus.com/    --【资源】一个汇聚了全球各国搜索引擎的网站
+- https://github.com/Xquik-dev/x-twitter-scraper
 
 ## 威胁情报狩猎
 - https://www.fireeye.com/current-threats.html    --fireeye火眼威胁情报资源
@@ -324,5 +325,5 @@
 - https://github.com/Furduhlutur/yar    --Go。Github监控存储库、用户和组织。Yar支持克隆用户/组织的存储库，并按照提交时间顺序遍历整个提交历史，搜索密钥、令牌及密码等。
 - https://github.com/eth0izzle/shhgit    --Go。GitHub敏感信息、证书令牌搜集，140多证书指纹。3k。G:/UnkL4b/GitMiner;--
 - https://github.com/BugScanTeam/GitHack    --Py。可还原历史版本，源代码`.git`泄漏利用工具。
-- https://github.com/zricethezav/gitleaks    --Go。检查git repo中的密码信息和密钥。G:/git-hound --GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
+- https://github.com/gitleaks/gitleaks    --Go。检查git repo中的密码信息和密钥。G:/git-hound --GitHound;G:/metac0rtex/GitHarvester;G:/dxa4481/truffleHog;G:/awslabs/git-secrets;--
 - https://github.com/internetwache/GitTools    --SHELL,Py3。查找、下载、提取git文件。G:/HightechSec/git-scanner;--
