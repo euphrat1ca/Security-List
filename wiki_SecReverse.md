@@ -12,7 +12,7 @@
 - https://www.freebuf.com/articles/network/103816.html    --使用Windbg和Python进行堆跟踪。PyKd
 ### 程序调试管理
 - https://www.cheatengine.org    --CE（Cheat Engine）是一款内存修改编辑工具，程序函数监控，配合Ultimap功能食用游戏魔改更佳。
-- http://www.angusj.com/resourcehacker    --Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
+- http://www.angusj.com/resourcehacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker)    --Windows二进制文件浏览编辑 (*.exe; *.dll; *.scr; etc) 和资源文件修改 (*.res, *.mui)图标属性等。Resource Hacker类似于于Restorator文件资源修改软件。
 - https://github.com/euphrat1ca/PeDoll    --C++。基于inlineHook技术的软件分析工具，C/S架构（PeDollc/PeDolls）。
 - https://bbs.ichunqiu.com/thread-16846-1-1.html    --intro。PeDoll 调戏木马病毒的正确姿势-正式篇
 - https://github.com/everdox/InfinityHook    --C++。挂钩系统调用，上下文切换，页面错误等。
